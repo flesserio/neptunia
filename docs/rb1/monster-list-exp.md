@@ -1,5 +1,5 @@
 ---
-title: Monster List with Level, EXP, and Habitat
+title: Monster List with Level, EXP, and Habitat | Hyperdimension Neptunia Re;Birth1
 ---
 
 [Hyperdimension Neptunia Re;Birth1](/rb1)
@@ -10,7 +10,7 @@ title: Monster List with Level, EXP, and Habitat
 
 - **This site is a WIP and none of the links work on this page (yet)**
 - If the "Habitat" cell is empty, it usually means the monster is unused by the game.
-- "Level" is the monster level present in the game's database.
+- Level is the monster level present in the game's database.
 - Dungeons that show difficulties (tough, super) that can't actually be unlocked via the Remake System should just be ignored.
 
 |     | ID  | DLC | Name | Level | EXP | Habitat |
