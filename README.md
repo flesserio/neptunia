@@ -1,1 +1,1 @@
-# Neptunia Game Data Guides
+# Neptunia Game Data Docs
