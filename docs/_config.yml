@@ -1,1 +1,3 @@
 title: [Neptunia Game Data Docs]
+plugins:
+  - jekyll-last-modified-at
