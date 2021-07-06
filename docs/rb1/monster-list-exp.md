@@ -1,5 +1,5 @@
 ---
-title: Monster List with Level, EXP, and Habitat | Hyperdimension Neptunia Re;Birth1
+title: Monster List with Level, EXP, and Habitat - Hyperdimension Neptunia Re;Birth1
 ---
 
 [Hyperdimension Neptunia Re;Birth1](/rb1)
