@@ -2,10 +2,6 @@
 title: Monster List (Stats) - Hyperdimension Neptunia Re;Birth1
 ---
 
-<div class="flash flash-warn">
-  This site is a WIP. Some links may be broken.
-</div>
-
 [Monster Index](/neptunia/rb1/monster/index.html) - [Hyperdimension Neptunia Re;Birth1](/neptunia/rb1)
 
 # Monster List (Stats)
