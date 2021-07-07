@@ -29,15 +29,23 @@
     <script>anchors.add();</script>
     <script>
       var trackboxes = document.querySelectorAll(".trackbox");
-      for (var i = 0; i < trackboxes.length; i++) {
-        trackboxes[i].addEventListener("change", (e) => {
-          var id = e.target.id;
-          localStorage.setItem(id, e.target.checked ? 1 : 0)
-        });
-  
+      function refreshTrackbox(i) {
         var id = trackboxes[i].id;
         var value = Number(localStorage.getItem(id));
         trackboxes[i].checked = value;
+      }
+      function refreshAllTrackboxes() {
+        for (var i = 0; i < trackboxes.length; i++) {
+          refreshTrackbox(i);
+        }
+      }
+      for (var i = 0; i < trackboxes.length; i++) {
+        trackboxes[i].addEventListener("change", (e) => {
+          var id = e.target.id;
+          localStorage.setItem(id, e.target.checked ? 1 : 0);
+          refreshAllTrackboxes();
+        });
+        refreshTrackbox(i);
       }
     </script>
     {% if site.google_analytics %}
