@@ -9,10 +9,10 @@
     <link href="https://unpkg.com/@primer/css@^16.0.0/dist/primer.css" rel="stylesheet" />
   </head>
   <body>
-    <div class="flash">
-      This site is a WIP. Some links may be broken.
-    </div>
     <div class="container-xl px-3 my-5 markdown-body">
+      <div class="flash">
+        This site is a WIP. Some links may be broken.
+      </div>
       {% if site.title and site.title != page.title %}
       <h2><a href="{{ "/" | absolute_url }}">{{ site.title }}</a></h2>
       {% endif %}
