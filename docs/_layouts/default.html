@@ -9,14 +9,13 @@
     <link href="https://unpkg.com/@primer/css@^16.0.0/dist/primer.css" rel="stylesheet" />
   </head>
   <body>
-    <div class="container-lg px-3 my-5 markdown-body">
+    <div class="container-xl px-3 my-5 markdown-body">
       {% if site.title and site.title != page.title %}
       <h2><a href="{{ "/" | absolute_url }}">{{ site.title }}</a></h2>
       {% endif %}
 
-<div class="md">
       {{ content }}
-</div>
+
       {% if site.github.private != true and site.github.license %}
       <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">
         This site is open source. {% github_edit_link "Improve this page" %}.
