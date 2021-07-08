@@ -4,9 +4,21 @@ title: Virtua Forest (Dungeon) - Hyperdimension Neptunia Re;Birth1
 
 [Dungeon Index](/neptunia/rb1/dungeon/index.html) - [Hyperdimension Neptunia Re;Birth1](/neptunia/rb1)
 
-# Virtua Forest (Dungeon)
-
-## Contents
+- [Basic information](#basic-information)
+- [Items found in Virtua Forest from gathering points](#items-found-in-virtua-forest-from-gathering-points)
+  - [From normal gathering points](#from-normal-gathering-points)
+  - [From Harvest Shift gathering points](#from-harvest-shift-gathering-points)
+  - [From treasure gathering points](#from-treasure-gathering-points)
+  - [From hidden treasure gathering points](#from-hidden-treasure-gathering-points)
+- [Items found in Virtua Forest from monster drops](#items-found-in-virtua-forest-from-monster-drops)
+  - [Standard enemies](#standard-enemies)
+- [Gathering point tables for Virtua Forest](#gathering-point-tables-for-virtua-forest)
+  - [Normal](#normal)
+  - [Item Change (Harvest Shift) enabled](#item-change-harvest-shift-enabled)
+  - [Treasure](#treasure)
+  - [Hidden treasure](#hidden-treasure)
+- [Monster spawn point tables for Virtua Forest](#monster-spawn-point-tables-for-virtua-forest)
+  - [Normal dungeon setting](#normal-dungeon-setting)
 
 ## Basic information
 
@@ -86,7 +98,6 @@ title: Virtua Forest (Dungeon) - Hyperdimension Neptunia Re;Birth1
 | :- | :- | :-- | :--- | :------- | :------ | ----: |
 | <input type="checkbox" id="rb1-item-1-1701" class="trackbox" /> | 1701 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Dogoo Jelly](/neptunia/rb1/item/1-1701-dogoo-jelly.html) (Material) | 8 | 0 | 8 |
 | <input type="checkbox" id="rb1-item-1-1748" class="trackbox" /> | 1748 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Yellow Petal](/neptunia/rb1/item/1-1748-yellow-petal.html) (Material) | 8 | 0 | 8 |
-| <input type="checkbox" id="rb1-item-1-1855" class="trackbox" /> | 1855 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Boxer-X Soul](/neptunia/rb1/item/1-1855-boxer-x-soul.html) (Material) | 6 | 2 | 8 |
 | <input type="checkbox" id="rb1-item-1-1910" class="trackbox" /> | 1910 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Dogoo-Man Jelly](/neptunia/rb1/item/1-1910-dogoo-man-jelly.html) (Material) | 7 | 0 | 7 |
 
 
