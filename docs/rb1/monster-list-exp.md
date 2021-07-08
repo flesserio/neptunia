@@ -2,10 +2,6 @@
 title: Monster List with Level, EXP, and Habitat - Hyperdimension Neptunia Re;Birth1
 ---
 
-[Hyperdimension Neptunia Re;Birth1](/rb1)
-
-# Monster List with Level, EXP, and Habitat
-
 ## Notes
 
 - **This site is a WIP and none of the links work on this page (yet)**
