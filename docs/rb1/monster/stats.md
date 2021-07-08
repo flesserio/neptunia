@@ -4,8 +4,6 @@ title: Monster List (Stats) - Hyperdimension Neptunia Re;Birth1
 
 [Monster Index](/neptunia/rb1/monster/index.html) - [Hyperdimension Neptunia Re;Birth1](/neptunia/rb1)
 
-# Monster List (Stats)
-
 
 |    | ID | Name | Lv. | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | FR | IR | WR | LR |
 | :- | :- | :--- | :-- | :- | :- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :- | :- | :- | :- |

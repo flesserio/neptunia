@@ -4,8 +4,6 @@ title: Monster List (Ability/Skill) - Hyperdimension Neptunia Re;Birth1
 
 [Monster Index](/neptunia/rb1/monster/index.html) - [Hyperdimension Neptunia Re;Birth1](/neptunia/rb1)
 
-# Monster List (Ability/Skill)
-
 
 |    | ID | Name | Abilities | Skills |
 | :- | :- | :--- | :-------- | :----- |
