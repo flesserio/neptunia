@@ -7,10 +7,10 @@ title: Zeca Ruins No.1 (Dungeon) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
-- [Items found in Zeca Ruins No.1 from gathering points](#items-found-in-zeca-ruins-no-1-from-gathering-points)
-- [Items found in Zeca Ruins No.1 from monster drops](#items-found-in-zeca-ruins-no-1-from-monster-drops)
-- [Gathering point tables for Zeca Ruins No.1](#gathering-point-tables-for-zeca-ruins-no-1)
-- [Monster spawn point tables for Zeca Ruins No.1](#monster-spawn-point-tables-for-zeca-ruins-no-1)
+- [Items found in Zeca Ruins No.1 from gathering points](#items-found-in-zeca-ruins-no1-from-gathering-points)
+- [Items found in Zeca Ruins No.1 from monster drops](#items-found-in-zeca-ruins-no1-from-monster-drops)
+- [Gathering point tables for Zeca Ruins No.1](#gathering-point-tables-for-zeca-ruins-no1)
+- [Monster spawn point tables for Zeca Ruins No.1](#monster-spawn-point-tables-for-zeca-ruins-no1)
 
 ## Basic information
 

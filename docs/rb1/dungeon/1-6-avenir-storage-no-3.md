@@ -7,10 +7,10 @@ title: Avenir Storage No.3 (Dungeon) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
-- [Items found in Avenir Storage No.3 from gathering points](#items-found-in-avenir-storage-no-3-from-gathering-points)
-- [Items found in Avenir Storage No.3 from monster drops](#items-found-in-avenir-storage-no-3-from-monster-drops)
-- [Gathering point tables for Avenir Storage No.3](#gathering-point-tables-for-avenir-storage-no-3)
-- [Monster spawn point tables for Avenir Storage No.3](#monster-spawn-point-tables-for-avenir-storage-no-3)
+- [Items found in Avenir Storage No.3 from gathering points](#items-found-in-avenir-storage-no3-from-gathering-points)
+- [Items found in Avenir Storage No.3 from monster drops](#items-found-in-avenir-storage-no3-from-monster-drops)
+- [Gathering point tables for Avenir Storage No.3](#gathering-point-tables-for-avenir-storage-no3)
+- [Monster spawn point tables for Avenir Storage No.3](#monster-spawn-point-tables-for-avenir-storage-no3)
 
 ## Basic information
 

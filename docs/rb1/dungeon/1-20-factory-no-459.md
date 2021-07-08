@@ -7,10 +7,10 @@ title: Factory No.459 (Dungeon) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
-- [Items found in Factory No.459 from gathering points](#items-found-in-factory-no-459-from-gathering-points)
-- [Items found in Factory No.459 from monster drops](#items-found-in-factory-no-459-from-monster-drops)
-- [Gathering point tables for Factory No.459](#gathering-point-tables-for-factory-no-459)
-- [Monster spawn point tables for Factory No.459](#monster-spawn-point-tables-for-factory-no-459)
+- [Items found in Factory No.459 from gathering points](#items-found-in-factory-no459-from-gathering-points)
+- [Items found in Factory No.459 from monster drops](#items-found-in-factory-no459-from-monster-drops)
+- [Gathering point tables for Factory No.459](#gathering-point-tables-for-factory-no459)
+- [Monster spawn point tables for Factory No.459](#monster-spawn-point-tables-for-factory-no459)
 
 ## Basic information
 
