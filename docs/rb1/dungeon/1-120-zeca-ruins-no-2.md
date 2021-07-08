@@ -27,7 +27,7 @@ title: Zeca Ruins No.2 (Dungeon) - Hyperdimension Neptunia Re;Birth1
 
 ## Items found in Zeca Ruins No.2 from gathering points
 
-See [gathering point tables](#gathering-point-tables-for-zeca-ruins-no-2) for more information.
+See [gathering point tables](#gathering-point-tables-for-zeca-ruins-no2) for more information.
 
 ### From normal gathering points
 

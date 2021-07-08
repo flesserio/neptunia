@@ -27,7 +27,7 @@ title: Avenir Storage No.3 (Dungeon) - Hyperdimension Neptunia Re;Birth1
 
 ## Items found in Avenir Storage No.3 from gathering points
 
-See [gathering point tables](#gathering-point-tables-for-avenir-storage-no-3) for more information.
+See [gathering point tables](#gathering-point-tables-for-avenir-storage-no3) for more information.
 
 ### From normal gathering points
 

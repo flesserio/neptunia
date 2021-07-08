@@ -27,7 +27,7 @@ title: Factory No.459 (Dungeon) - Hyperdimension Neptunia Re;Birth1
 
 ## Items found in Factory No.459 from gathering points
 
-See [gathering point tables](#gathering-point-tables-for-factory-no-459) for more information.
+See [gathering point tables](#gathering-point-tables-for-factory-no459) for more information.
 
 ### From normal gathering points
 
