@@ -26,7 +26,7 @@ title: Virtua Forest (Dungeon) - Hyperdimension Neptunia Re;Birth1
 
 ## Items found in Virtua Forest from gathering points
 
-¹ Total amount needed for Remake System recipes.<br />² Total amount needed to complete quests at least once.
+See [gathering point tables](#gathering-point-tables-for-virtua-forest) for more information.
 
 ### From normal gathering points
 
@@ -79,24 +79,26 @@ title: Virtua Forest (Dungeon) - Hyperdimension Neptunia Re;Birth1
 | <input type="checkbox" id="rb1-item-1-5016" class="trackbox" /> | 5016 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Sports](/neptunia/rb1/item/1-5016-sports.html) (Idea Chip (Yellow)) | 0 | 0 | 0 |
 | <input type="checkbox" id="rb1-item-1-5082" class="trackbox" /> | 5082 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Pixel](/neptunia/rb1/item/1-5082-pixel.html) (Idea Chip (Blue)) | 0 | 0 | 0 |
 
+¹ Total amount needed for Remake System recipes.<br />² Total amount needed to complete quests at least once.
+
 ## Items found in Virtua Forest from monster drops
 
-¹ Total amount needed for Remake System recipes.<br />² Total amount needed to complete quests at least once.
 
 ### Standard enemies
 
 
 |    | ID | DLC | Name | Remakes¹ | Quests² | Total |
 | -- | -- | --- | ---- | -------- | ------- | ----: |
-| <input type="checkbox" id="rb1-item-1-1701" class="trackbox" /> | 1701 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Dogoo Jelly](/neptunia/rb1/item/1-1701-dogoo-jelly.html) (Material) | 8 | 0 | 8 |
-| <input type="checkbox" id="rb1-item-1-1748" class="trackbox" /> | 1748 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Yellow Petal](/neptunia/rb1/item/1-1748-yellow-petal.html) (Material) | 8 | 0 | 8 |
-| <input type="checkbox" id="rb1-item-1-1855" class="trackbox" /> | 1855 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Boxer-X Soul](/neptunia/rb1/item/1-1855-boxer-x-soul.html) (Material) | 6 | 2 | 8 |
-| <input type="checkbox" id="rb1-item-1-1910" class="trackbox" /> | 1910 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Dogoo-Man Jelly](/neptunia/rb1/item/1-1910-dogoo-man-jelly.html) (Material) | 7 | 0 | 7 |
+| <input type="checkbox" id="rb1-item-1-1701" class="trackbox" /> | 1701 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Dogoo Jelly](/neptunia/rb1/item/1-1701-dogoo-jelly.html) (Material)<br />55%: [Dogoo](/neptunia/rb1/monster/1-101-dogoo.html) | 8 | 0 | 8 |
+| <input type="checkbox" id="rb1-item-1-1748" class="trackbox" /> | 1748 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Yellow Petal](/neptunia/rb1/item/1-1748-yellow-petal.html) (Material)<br />55%: [Tulip](/neptunia/rb1/monster/1-102-tulip.html) | 8 | 0 | 8 |
+| <input type="checkbox" id="rb1-item-1-1855" class="trackbox" /> | 1855 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Boxer-X Soul](/neptunia/rb1/item/1-1855-boxer-x-soul.html) (Material)<br />65%: [Boxer-X](/neptunia/rb1/monster/1-104-boxer-x.html) | 6 | 2 | 8 |
+| <input type="checkbox" id="rb1-item-1-1910" class="trackbox" /> | 1910 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Dogoo-Man Jelly](/neptunia/rb1/item/1-1910-dogoo-man-jelly.html) (Material)<br />55%: [Dogoo-Man](/neptunia/rb1/monster/1-103-dogoo-man.html) | 7 | 0 | 7 |
 
 
 
 
 
+¹ Total amount needed for Remake System recipes.<br />² Total amount needed to complete quests at least once.
 
 ## Gathering point tables for Virtua Forest
 
