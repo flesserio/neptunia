@@ -150,19 +150,19 @@ See [gathering point tables](#gathering-point-tables-for-monster-cave) for more 
 
 | #  | Monster 1 | Monster 2 | Monster 3 |
 | -- | --------- | --------- | --------- |
-| 1 | [Ms. Clyde](/neptunia/rb1/monster/1-107-ms-clyde.html) x1~2 | [Clyde](/neptunia/rb1/monster/1-106-clyde.html) x1~2
-| 2 | [Clyde](/neptunia/rb1/monster/1-106-clyde.html) x1~2 | [Ms. Clyde](/neptunia/rb1/monster/1-107-ms-clyde.html) x1 | [Pixelvader](/neptunia/rb1/monster/1-105-pixelvader.html) x1
-| 3 | [Super Otaku](/neptunia/rb1/monster/1-108-super-otaku.html) x1 | [Ms. Clyde](/neptunia/rb1/monster/1-107-ms-clyde.html) x1
-| 4 | [Clyde](/neptunia/rb1/monster/1-106-clyde.html) x2~3 | [Contracted Angel](/neptunia/rb1/monster/1-109-contracted-angel.html) x1
-| 5 | [Pixelvader](/neptunia/rb1/monster/1-105-pixelvader.html) x1~2 | [Ms. Clyde](/neptunia/rb1/monster/1-107-ms-clyde.html) x1~2
-| 6 | [Super Otaku](/neptunia/rb1/monster/1-108-super-otaku.html) x1 | [Pixelvader](/neptunia/rb1/monster/1-105-pixelvader.html) x1 | [Ms. Clyde](/neptunia/rb1/monster/1-107-ms-clyde.html) x1~2
-| 7 | [Clyde](/neptunia/rb1/monster/1-106-clyde.html) x2 | [Ms. Clyde](/neptunia/rb1/monster/1-107-ms-clyde.html) x1~2
-| 8 | [Contracted Angel](/neptunia/rb1/monster/1-109-contracted-angel.html) x2 | [Ms. Clyde](/neptunia/rb1/monster/1-107-ms-clyde.html) x1~2
-| 9 | [Pixelvader](/neptunia/rb1/monster/1-105-pixelvader.html) x1~2 | [Ms. Clyde](/neptunia/rb1/monster/1-107-ms-clyde.html) x1~2
-| 10 | [Contracted Angel](/neptunia/rb1/monster/1-109-contracted-angel.html) x2 | [Clyde](/neptunia/rb1/monster/1-106-clyde.html) x1~2
-| 11 | [Clyde](/neptunia/rb1/monster/1-106-clyde.html) x1 | [Ms. Clyde](/neptunia/rb1/monster/1-107-ms-clyde.html) x1 | [Pixelvader](/neptunia/rb1/monster/1-105-pixelvader.html) x1~2
-| 12 | [Super Otaku](/neptunia/rb1/monster/1-108-super-otaku.html) x1 | [Clyde](/neptunia/rb1/monster/1-106-clyde.html) x1 | [Ms. Clyde](/neptunia/rb1/monster/1-107-ms-clyde.html) x2
-| 13 | [Pixelvader](/neptunia/rb1/monster/1-105-pixelvader.html) x2~3 | [Ms. Clyde](/neptunia/rb1/monster/1-107-ms-clyde.html) x1
+| 1 | [Ms. Clyde](/neptunia/rb1/monster/1-107-ms-clyde.html) x1~2 | [Clyde](/neptunia/rb1/monster/1-106-clyde.html) x1~2 |
+| 2 | [Clyde](/neptunia/rb1/monster/1-106-clyde.html) x1~2 | [Ms. Clyde](/neptunia/rb1/monster/1-107-ms-clyde.html) x1 | [Pixelvader](/neptunia/rb1/monster/1-105-pixelvader.html) x1 |
+| 3 | [Super Otaku](/neptunia/rb1/monster/1-108-super-otaku.html) x1 | [Ms. Clyde](/neptunia/rb1/monster/1-107-ms-clyde.html) x1 |
+| 4 | [Clyde](/neptunia/rb1/monster/1-106-clyde.html) x2~3 | [Contracted Angel](/neptunia/rb1/monster/1-109-contracted-angel.html) x1 |
+| 5 | [Pixelvader](/neptunia/rb1/monster/1-105-pixelvader.html) x1~2 | [Ms. Clyde](/neptunia/rb1/monster/1-107-ms-clyde.html) x1~2 |
+| 6 | [Super Otaku](/neptunia/rb1/monster/1-108-super-otaku.html) x1 | [Pixelvader](/neptunia/rb1/monster/1-105-pixelvader.html) x1 | [Ms. Clyde](/neptunia/rb1/monster/1-107-ms-clyde.html) x1~2 |
+| 7 | [Clyde](/neptunia/rb1/monster/1-106-clyde.html) x2 | [Ms. Clyde](/neptunia/rb1/monster/1-107-ms-clyde.html) x1~2 |
+| 8 | [Contracted Angel](/neptunia/rb1/monster/1-109-contracted-angel.html) x2 | [Ms. Clyde](/neptunia/rb1/monster/1-107-ms-clyde.html) x1~2 |
+| 9 | [Pixelvader](/neptunia/rb1/monster/1-105-pixelvader.html) x1~2 | [Ms. Clyde](/neptunia/rb1/monster/1-107-ms-clyde.html) x1~2 |
+| 10 | [Contracted Angel](/neptunia/rb1/monster/1-109-contracted-angel.html) x2 | [Clyde](/neptunia/rb1/monster/1-106-clyde.html) x1~2 |
+| 11 | [Clyde](/neptunia/rb1/monster/1-106-clyde.html) x1 | [Ms. Clyde](/neptunia/rb1/monster/1-107-ms-clyde.html) x1 | [Pixelvader](/neptunia/rb1/monster/1-105-pixelvader.html) x1~2 |
+| 12 | [Super Otaku](/neptunia/rb1/monster/1-108-super-otaku.html) x1 | [Clyde](/neptunia/rb1/monster/1-106-clyde.html) x1 | [Ms. Clyde](/neptunia/rb1/monster/1-107-ms-clyde.html) x2 |
+| 13 | [Pixelvader](/neptunia/rb1/monster/1-105-pixelvader.html) x2~3 | [Ms. Clyde](/neptunia/rb1/monster/1-107-ms-clyde.html) x1 |
 
 
 
