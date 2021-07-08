@@ -23,6 +23,7 @@ title: Monster Cave (Dungeon) - Hyperdimension Neptunia Re;Birth1
 | **Item Change available?** | Yes |
 | **Add Enemies available?** | No |
 | **Add Super Enemies available?** | No |
+| **To unlock dungeon**| View scene [Chapter 1: The Guild](/neptunia/rb1/scene/1-109-chapter-1-the-guild.html)<br />Accept quest [The law of a hero](/neptunia/rb1/quest/1-1-the-law-of-a-hero.html) |
 
 ## Items found in Monster Cave from gathering points
 

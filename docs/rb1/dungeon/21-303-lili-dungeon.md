@@ -1,5 +1,5 @@
 ---
-title: Virtua Forest (Dungeon) - Hyperdimension Neptunia Re;Birth1
+title: Lili Dungeon (Dungeon) - Hyperdimension Neptunia Re;Birth1
 ---
 
 [**Dungeon Index**](/neptunia/rb1/dungeon/index.html) - [Hyperdimension Neptunia Re;Birth1](/neptunia/rb1)
@@ -7,27 +7,27 @@ title: Virtua Forest (Dungeon) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
-- [Items found in Virtua Forest from gathering points](#items-found-in-virtua-forest-from-gathering-points)
-- [Items found in Virtua Forest from monster drops](#items-found-in-virtua-forest-from-monster-drops)
-- [Gathering point tables for Virtua Forest](#gathering-point-tables-for-virtua-forest)
-- [Monster spawn point tables for Virtua Forest](#monster-spawn-point-tables-for-virtua-forest)
+- [Items found in Lili Dungeon from gathering points](#items-found-in-lili-dungeon-from-gathering-points)
+- [Items found in Lili Dungeon from monster drops](#items-found-in-lili-dungeon-from-monster-drops)
+- [Gathering point tables for Lili Dungeon](#gathering-point-tables-for-lili-dungeon)
+- [Monster spawn point tables for Lili Dungeon](#monster-spawn-point-tables-for-lili-dungeon)
 
 ## Basic information
 
 
 |    |    |
 | -- | -- |
-| **ID** | 1 |
-| **DLC** | [Base](/neptunia/rb1/dungeon/1-base.html) |
-| **Name** | Virtua Forest |
-| **Item Change available?** | Yes |
+| **ID** | 303 |
+| **DLC** | [Additional Content Pack 12](/neptunia/rb1/dungeon/21-pack12.html) |
+| **Name** | Lili Dungeon |
+| **Item Change available?** | No |
 | **Add Enemies available?** | No |
 | **Add Super Enemies available?** | No |
-| **To unlock dungeon**| View scene [Chapter 1: Planeptune](/neptunia/rb1/scene/1-102-chapter-1-planeptune.html) |
+| **To unlock dungeon**| Have remake [Add Dungeon](/neptunia/rb1/scene/21-1003-add-dungeon.html) developed |
 
-## Items found in Virtua Forest from gathering points
+## Items found in Lili Dungeon from gathering points
 
-See [gathering point tables](#gathering-point-tables-for-virtua-forest) for more information.
+See [gathering point tables](#gathering-point-tables-for-lili-dungeon) for more information.
 
 ### From normal gathering points
 
@@ -82,7 +82,7 @@ See [gathering point tables](#gathering-point-tables-for-virtua-forest) for more
 
 ¹ Total amount needed for Remake System recipes.<br />² Total amount needed to complete quests at least once.
 
-## Items found in Virtua Forest from monster drops
+## Items found in Lili Dungeon from monster drops
 
 
 ### Standard enemies
@@ -90,10 +90,16 @@ See [gathering point tables](#gathering-point-tables-for-virtua-forest) for more
 
 |    | ID | DLC | Name | Remakes¹ | Quests² | Total |
 | -- | -- | --- | ---- | -------- | ------- | ----: |
-| <input type="checkbox" id="rb1-item-1-1701" class="trackbox" /> | 1701 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Dogoo Jelly](/neptunia/rb1/item/1-1701-dogoo-jelly.html) (Material)<br />55%: [Dogoo](/neptunia/rb1/monster/1-101-dogoo.html) | 8 | 0 | 8 |
-| <input type="checkbox" id="rb1-item-1-1748" class="trackbox" /> | 1748 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Yellow Petal](/neptunia/rb1/item/1-1748-yellow-petal.html) (Material)<br />55%: [Tulip](/neptunia/rb1/monster/1-102-tulip.html) | 8 | 0 | 8 |
-| <input type="checkbox" id="rb1-item-1-1855" class="trackbox" /> | 1855 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Boxer-X Soul](/neptunia/rb1/item/1-1855-boxer-x-soul.html) (Material)<br />65%: [Boxer-X](/neptunia/rb1/monster/1-104-boxer-x.html) | 6 | 2 | 8 |
-| <input type="checkbox" id="rb1-item-1-1910" class="trackbox" /> | 1910 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Dogoo-Man Jelly](/neptunia/rb1/item/1-1910-dogoo-man-jelly.html) (Material)<br />55%: [Dogoo-Man](/neptunia/rb1/monster/1-103-dogoo-man.html) | 7 | 0 | 7 |
+| <input type="checkbox" id="rb1-item-1-1708" class="trackbox" /> | 1708 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Orange Jelly](/neptunia/rb1/item/1-1708-orange-jelly.html) (Material)<br />40%: [Red Dogoo](/neptunia/rb1/monster/21-8049-red-dogoo.html) | 6 | 0 | 6 |
+| <input type="checkbox" id="rb1-item-1-1717" class="trackbox" /> | 1717 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Cell Antenna](/neptunia/rb1/item/1-1717-cell-antenna.html) (Material)<br />40%: [Nanovader](/neptunia/rb1/monster/21-8050-nanovader.html) | 2 | 0 | 2 |
+| <input type="checkbox" id="rb1-item-1-1721" class="trackbox" /> | 1721 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Purple Block](/neptunia/rb1/item/1-1721-purple-block.html) (Material)<br />40%: [Terits](/neptunia/rb1/monster/21-8052-terits.html) | 1 | 0 | 1 |
+| <input type="checkbox" id="rb1-item-1-1749" class="trackbox" /> | 1749 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Mysterious Petal](/neptunia/rb1/item/1-1749-mysterious-petal.html) (Material)<br />40%: [Alune](/neptunia/rb1/monster/21-8054-alune.html) | 6 | 0 | 6 |
+| <input type="checkbox" id="rb1-item-1-1797" class="trackbox" /> | 1797 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Kupokitty Claw](/neptunia/rb1/item/1-1797-kupokitty-claw.html) (Material)<br />40%: [Kupokitty](/neptunia/rb1/monster/21-8055-kupokitty.html) | 1 | 0 | 1 |
+| <input type="checkbox" id="rb1-item-1-1845" class="trackbox" /> | 1845 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Phantom Wing](/neptunia/rb1/item/1-1845-phantom-wing.html) (Material)<br />40%: [Fairyfly](/neptunia/rb1/monster/21-8056-fairyfly.html) | 12 | 0 | 12 |
+| <input type="checkbox" id="rb1-item-1-1867" class="trackbox" /> | 1867 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Mithril Ore](/neptunia/rb1/item/1-1867-mithril-ore.html) (Material)<br />40%: [Missile Golem](/neptunia/rb1/monster/21-8051-missile-golem.html) | 23 | 0 | 23 |
+| <input type="checkbox" id="rb1-item-1-1903" class="trackbox" /> | 1903 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Mysterious Halo](/neptunia/rb1/item/1-1903-mysterious-halo.html) (Material)<br />40%: [Contracted Angel](/neptunia/rb1/monster/21-8053-contracted-angel.html) | 3 | 0 | 3 |
+| <input type="checkbox" id="rb1-item-1-3555" class="trackbox" /> | 3555 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Rabbit Ears](/neptunia/rb1/item/1-3555-rabbit-ears.html) (Accessory)<br />15%: [Contracted Angel](/neptunia/rb1/monster/21-8053-contracted-angel.html) | 0 | 0 | 0 |
+| <input type="checkbox" id="rb1-item-1-4388" class="trackbox" /> | 4388 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Cardboard W](/neptunia/rb1/item/1-4388-cardboard-w.html) (Processor (W))<br />15%: [Terits](/neptunia/rb1/monster/21-8052-terits.html) | 0 | 0 | 0 |
 
 
 
@@ -101,7 +107,7 @@ See [gathering point tables](#gathering-point-tables-for-virtua-forest) for more
 
 ¹ Total amount needed for Remake System recipes.<br />² Total amount needed to complete quests at least once.
 
-## Gathering point tables for Virtua Forest
+## Gathering point tables for Lili Dungeon
 
 
 ### Normal
@@ -150,7 +156,7 @@ See [gathering point tables](#gathering-point-tables-for-virtua-forest) for more
 | 3 | 100%: [Healing Pod](/neptunia/rb1/item/1-2-healing-pod.html) x1~2 |
 | 4 | 100%: [Sports](/neptunia/rb1/item/1-5016-sports.html) x1 |
 
-## Monster spawn point tables for Virtua Forest
+## Monster spawn point tables for Lili Dungeon
 
 
 ### Normal dungeon setting
@@ -158,17 +164,17 @@ See [gathering point tables](#gathering-point-tables-for-virtua-forest) for more
 
 | #  | Monster 1 | Monster 2 | Monster 3 |
 | -- | --------- | --------- | --------- |
-| 1 | [Dogoo](/neptunia/rb1/monster/1-101-dogoo.html) x1 | [Dogoo](/neptunia/rb1/monster/1-101-dogoo.html) x1~2 |
-| 2 | [Tulip](/neptunia/rb1/monster/1-102-tulip.html) x1~2 | [Dogoo](/neptunia/rb1/monster/1-101-dogoo.html) x1~2 |
-| 3 | [Dogoo](/neptunia/rb1/monster/1-101-dogoo.html) x1 | [Tulip](/neptunia/rb1/monster/1-102-tulip.html) x1~2 |
-| 4 | [Dogoo-Man](/neptunia/rb1/monster/1-103-dogoo-man.html) x1~2 | [Tulip](/neptunia/rb1/monster/1-102-tulip.html) x1~2 |
-| 5 | [Tulip](/neptunia/rb1/monster/1-102-tulip.html) x1 | [Dogoo](/neptunia/rb1/monster/1-101-dogoo.html) x1~2 | [Dogoo-Man](/neptunia/rb1/monster/1-103-dogoo-man.html) x1 |
-| 6 | [Dogoo-Man](/neptunia/rb1/monster/1-103-dogoo-man.html) x1 | [Tulip](/neptunia/rb1/monster/1-102-tulip.html) x1~2 |
-| 7 | [Tulip](/neptunia/rb1/monster/1-102-tulip.html) x1 | [Dogoo-Man](/neptunia/rb1/monster/1-103-dogoo-man.html) x1 | [Dogoo](/neptunia/rb1/monster/1-101-dogoo.html) x1~2 |
-| 8 | [Boxer-X](/neptunia/rb1/monster/1-104-boxer-x.html) x1 |
-| 9 | [Dogoo-Man](/neptunia/rb1/monster/1-103-dogoo-man.html) x1 | [Tulip](/neptunia/rb1/monster/1-102-tulip.html) x2 |
-| 10 | [Boxer-X](/neptunia/rb1/monster/1-104-boxer-x.html) x1 | [Tulip](/neptunia/rb1/monster/1-102-tulip.html) x1~2 | [Dogoo-Man](/neptunia/rb1/monster/1-103-dogoo-man.html) x0~1 |
-| 11 | [Tulip](/neptunia/rb1/monster/1-102-tulip.html) x1 | [Dogoo](/neptunia/rb1/monster/1-101-dogoo.html) x1 | [Dogoo-Man](/neptunia/rb1/monster/1-103-dogoo-man.html) x1~2 |
+| 1 | [Red Dogoo](/neptunia/rb1/monster/21-8049-red-dogoo.html) x1 | [Nanovader](/neptunia/rb1/monster/21-8050-nanovader.html) x1~2 |
+| 2 | [Missile Golem](/neptunia/rb1/monster/21-8051-missile-golem.html) x1~2 | [Terits](/neptunia/rb1/monster/21-8052-terits.html) x1~2 |
+| 3 | [Contracted Angel](/neptunia/rb1/monster/21-8053-contracted-angel.html) x1 | [Alune](/neptunia/rb1/monster/21-8054-alune.html) x1~2 |
+| 4 | [Kupokitty](/neptunia/rb1/monster/21-8055-kupokitty.html) x1~2 | [Fairyfly](/neptunia/rb1/monster/21-8056-fairyfly.html) x1~2 |
+| 5 | [Red Dogoo](/neptunia/rb1/monster/21-8049-red-dogoo.html) x1 | [Nanovader](/neptunia/rb1/monster/21-8050-nanovader.html) x1~2 | [Missile Golem](/neptunia/rb1/monster/21-8051-missile-golem.html) x1 |
+| 6 | [Terits](/neptunia/rb1/monster/21-8052-terits.html) x1 | [Contracted Angel](/neptunia/rb1/monster/21-8053-contracted-angel.html) x1~2 |
+| 7 | [Alune](/neptunia/rb1/monster/21-8054-alune.html) x1 | [Kupokitty](/neptunia/rb1/monster/21-8055-kupokitty.html) x1 | [Fairyfly](/neptunia/rb1/monster/21-8056-fairyfly.html) x1~2 |
+| 8 | [Red Dogoo](/neptunia/rb1/monster/21-8049-red-dogoo.html) x1 |
+| 9 | [Red Dogoo](/neptunia/rb1/monster/21-8049-red-dogoo.html) x1 | [Nanovader](/neptunia/rb1/monster/21-8050-nanovader.html) x2 |
+| 10 | [Missile Golem](/neptunia/rb1/monster/21-8051-missile-golem.html) x1 | [Terits](/neptunia/rb1/monster/21-8052-terits.html) x1~2 | [Contracted Angel](/neptunia/rb1/monster/21-8053-contracted-angel.html) x0~1 |
+| 11 | [Alune](/neptunia/rb1/monster/21-8054-alune.html) x1 | [Kupokitty](/neptunia/rb1/monster/21-8055-kupokitty.html) x1 | [Fairyfly](/neptunia/rb1/monster/21-8056-fairyfly.html) x1~2 |
 
 
 
