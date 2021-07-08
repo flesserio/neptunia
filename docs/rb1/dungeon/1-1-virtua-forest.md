@@ -2,29 +2,21 @@
 title: Virtua Forest (Dungeon) - Hyperdimension Neptunia Re;Birth1
 ---
 
-[Dungeon Index](/neptunia/rb1/dungeon/index.html) - [Hyperdimension Neptunia Re;Birth1](/neptunia/rb1)
+[**Dungeon Index**](/neptunia/rb1/dungeon/index.html) - [Hyperdimension Neptunia Re;Birth1](/neptunia/rb1)
+
+## Contents
 
 - [Basic information](#basic-information)
 - [Items found in Virtua Forest from gathering points](#items-found-in-virtua-forest-from-gathering-points)
-  - [From normal gathering points](#from-normal-gathering-points)
-  - [From Harvest Shift gathering points](#from-harvest-shift-gathering-points)
-  - [From treasure gathering points](#from-treasure-gathering-points)
-  - [From hidden treasure gathering points](#from-hidden-treasure-gathering-points)
 - [Items found in Virtua Forest from monster drops](#items-found-in-virtua-forest-from-monster-drops)
-  - [Standard enemies](#standard-enemies)
 - [Gathering point tables for Virtua Forest](#gathering-point-tables-for-virtua-forest)
-  - [Normal](#normal)
-  - [Item Change (Harvest Shift) enabled](#item-change-harvest-shift-enabled)
-  - [Treasure](#treasure)
-  - [Hidden treasure](#hidden-treasure)
 - [Monster spawn point tables for Virtua Forest](#monster-spawn-point-tables-for-virtua-forest)
-  - [Normal dungeon setting](#normal-dungeon-setting)
 
 ## Basic information
 
 
 |    |    |
-| :- | :- |
+| -- | -- |
 | **ID** | 1 |
 | **DLC** | [Base](/neptunia/rb1/dungeon/1-base.html) |
 | **Name** | Virtua Forest |
@@ -40,7 +32,7 @@ title: Virtua Forest (Dungeon) - Hyperdimension Neptunia Re;Birth1
 
 
 |    | ID | DLC | Name | Remakes¹ | Quests² | Total |
-| :- | :- | :-- | :--- | :------- | :------ | ----: |
+| -- | -- | --- | ---- | -------- | ------- | ----: |
 | <input type="checkbox" id="rb1-item-1-1601" class="trackbox" /> | 1601 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Herb](/neptunia/rb1/item/1-1601-herb.html) (Material) | 37 | 0 | 37 |
 | <input type="checkbox" id="rb1-item-1-1603" class="trackbox" /> | 1603 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Night Moon Grass](/neptunia/rb1/item/1-1603-night-moon-grass.html) (Material) | 27 | 0 | 27 |
 | <input type="checkbox" id="rb1-item-1-1701" class="trackbox" /> | 1701 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Dogoo Jelly](/neptunia/rb1/item/1-1701-dogoo-jelly.html) (Material) | 8 | 0 | 8 |
@@ -55,7 +47,7 @@ title: Virtua Forest (Dungeon) - Hyperdimension Neptunia Re;Birth1
 
 
 |    | ID | DLC | Name | Remakes¹ | Quests² | Total |
-| :- | :- | :-- | :--- | :------- | :------ | ----: |
+| -- | -- | --- | ---- | -------- | ------- | ----: |
 | <input type="checkbox" id="rb1-item-1-1601" class="trackbox" /> | 1601 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Herb](/neptunia/rb1/item/1-1601-herb.html) (Material) | 37 | 0 | 37 |
 | <input type="checkbox" id="rb1-item-1-1701" class="trackbox" /> | 1701 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Dogoo Jelly](/neptunia/rb1/item/1-1701-dogoo-jelly.html) (Material) | 8 | 0 | 8 |
 | <input type="checkbox" id="rb1-item-1-1748" class="trackbox" /> | 1748 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Yellow Petal](/neptunia/rb1/item/1-1748-yellow-petal.html) (Material) | 8 | 0 | 8 |
@@ -70,7 +62,7 @@ title: Virtua Forest (Dungeon) - Hyperdimension Neptunia Re;Birth1
 
 
 |    | ID | DLC | Name | Remakes¹ | Quests² | Total |
-| :- | :- | :-- | :--- | :------- | :------ | ----: |
+| -- | -- | --- | ---- | -------- | ------- | ----: |
 | <input type="checkbox" id="rb1-item-1-1" class="trackbox" /> | 1 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Healing Grass](/neptunia/rb1/item/1-1-healing-grass.html) (Tool) | 0 | 0 | 0 |
 | <input type="checkbox" id="rb1-item-1-39" class="trackbox" /> | 39 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Life Fragment](/neptunia/rb1/item/1-39-life-fragment.html) (Tool) | 0 | 0 | 0 |
 | <input type="checkbox" id="rb1-item-1-401" class="trackbox" /> | 401 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Plan: Healing Pod](/neptunia/rb1/item/1-401-plan-healing-pod.html) (Plan) | 0 | 0 | 0 |
@@ -81,7 +73,7 @@ title: Virtua Forest (Dungeon) - Hyperdimension Neptunia Re;Birth1
 
 
 |    | ID | DLC | Name | Remakes¹ | Quests² | Total |
-| :- | :- | :-- | :--- | :------- | :------ | ----: |
+| -- | -- | --- | ---- | -------- | ------- | ----: |
 | <input type="checkbox" id="rb1-item-1-1" class="trackbox" /> | 1 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Healing Grass](/neptunia/rb1/item/1-1-healing-grass.html) (Tool) | 0 | 0 | 0 |
 | <input type="checkbox" id="rb1-item-1-2" class="trackbox" /> | 2 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Healing Pod](/neptunia/rb1/item/1-2-healing-pod.html) (Tool) | 0 | 0 | 0 |
 | <input type="checkbox" id="rb1-item-1-5016" class="trackbox" /> | 5016 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Sports](/neptunia/rb1/item/1-5016-sports.html) (Idea Chip (Yellow)) | 0 | 0 | 0 |
@@ -95,9 +87,10 @@ title: Virtua Forest (Dungeon) - Hyperdimension Neptunia Re;Birth1
 
 
 |    | ID | DLC | Name | Remakes¹ | Quests² | Total |
-| :- | :- | :-- | :--- | :------- | :------ | ----: |
+| -- | -- | --- | ---- | -------- | ------- | ----: |
 | <input type="checkbox" id="rb1-item-1-1701" class="trackbox" /> | 1701 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Dogoo Jelly](/neptunia/rb1/item/1-1701-dogoo-jelly.html) (Material) | 8 | 0 | 8 |
 | <input type="checkbox" id="rb1-item-1-1748" class="trackbox" /> | 1748 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Yellow Petal](/neptunia/rb1/item/1-1748-yellow-petal.html) (Material) | 8 | 0 | 8 |
+| <input type="checkbox" id="rb1-item-1-1855" class="trackbox" /> | 1855 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Boxer-X Soul](/neptunia/rb1/item/1-1855-boxer-x-soul.html) (Material) | 6 | 2 | 8 |
 | <input type="checkbox" id="rb1-item-1-1910" class="trackbox" /> | 1910 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Dogoo-Man Jelly](/neptunia/rb1/item/1-1910-dogoo-man-jelly.html) (Material) | 7 | 0 | 7 |
 
 
@@ -112,7 +105,7 @@ title: Virtua Forest (Dungeon) - Hyperdimension Neptunia Re;Birth1
 
 
 | #  | Item 1 | Item 2 | Item 3 | Item 4 |
-| :- | :----- | :----- | :----- | :----- |
+| -- | ------ | ------ | ------ | ------ |
 | 1 | 50%: [Herb](/neptunia/rb1/item/1-1601-herb.html) x2~3 | 50%: [Herb](/neptunia/rb1/item/1-1601-herb.html) x1~2 | 10%: [RPG](/neptunia/rb1/item/1-5006-rpg.html) x1 |
 | 2 | 50%: [Herb](/neptunia/rb1/item/1-1601-herb.html) x2~3 | 50%: [Herb](/neptunia/rb1/item/1-1601-herb.html) x1~2 |
 | 3 | 50%: [Night Moon Grass](/neptunia/rb1/item/1-1603-night-moon-grass.html) x2~3 | 50%: [Herb](/neptunia/rb1/item/1-1601-herb.html) x1~2 |
@@ -125,7 +118,7 @@ title: Virtua Forest (Dungeon) - Hyperdimension Neptunia Re;Birth1
 
 
 | #  | Item 1 | Item 2 |
-| :- | :----- | :----- |
+| -- | ------ | ------ |
 | 1 | 100%: [Dogoo Jelly](/neptunia/rb1/item/1-1701-dogoo-jelly.html) x1~2 | 20%: [Voice Actor](/neptunia/rb1/item/1-5062-voice-actor.html) x1~2 |
 | 2 | 100%: [Boxer-X Soul](/neptunia/rb1/item/1-1855-boxer-x-soul.html) x1~2 | 20%: [Pixel](/neptunia/rb1/item/1-5082-pixel.html) x1~2 |
 | 3 | 100%: [Yellow Petal](/neptunia/rb1/item/1-1748-yellow-petal.html) x1~2 | 20%: [Kinda Pervy](/neptunia/rb1/item/1-5097-kinda-pervy.html) x1~2 |
@@ -138,7 +131,7 @@ title: Virtua Forest (Dungeon) - Hyperdimension Neptunia Re;Birth1
 
 
 | #  | Item 1 | Item 2 |
-| :- | :----- | :----- |
+| -- | ------ | ------ |
 | 1 | 100%: [Healing Grass](/neptunia/rb1/item/1-1-healing-grass.html) x1~2 |
 | 2 | 100%: [Healing Grass](/neptunia/rb1/item/1-1-healing-grass.html) x1 | 100%: [Plan: Life Fragment](/neptunia/rb1/item/1-435-plan-life-fragment.html) x1 |
 | 3 | 100%: [Free Scenario](/neptunia/rb1/item/1-5092-free-scenario.html) x3~4 | 100%: [Plan: Healing Pod](/neptunia/rb1/item/1-401-plan-healing-pod.html) x1 |
@@ -148,7 +141,7 @@ title: Virtua Forest (Dungeon) - Hyperdimension Neptunia Re;Birth1
 
 
 | #  | Item 1 |
-| :- | :----- |
+| -- | ------ |
 | 1 | 100%: [Healing Grass](/neptunia/rb1/item/1-1-healing-grass.html) x1~2 |
 | 2 | 100%: [Pixel](/neptunia/rb1/item/1-5082-pixel.html) x3~5 |
 | 3 | 100%: [Healing Pod](/neptunia/rb1/item/1-2-healing-pod.html) x1~2 |
@@ -161,7 +154,7 @@ title: Virtua Forest (Dungeon) - Hyperdimension Neptunia Re;Birth1
 
 
 | #  | Monster 1 | Monster 2 | Monster 3 |
-| :- | :-------- | :-------- | :-------- |
+| -- | --------- | --------- | --------- |
 | 1 | [Dogoo](/neptunia/rb1/monster/1-101-dogoo.html) x1 | [Dogoo](/neptunia/rb1/monster/1-101-dogoo.html) x1~2
 | 2 | [Tulip](/neptunia/rb1/monster/1-102-tulip.html) x1~2 | [Dogoo](/neptunia/rb1/monster/1-101-dogoo.html) x1~2
 | 3 | [Dogoo](/neptunia/rb1/monster/1-101-dogoo.html) x1 | [Tulip](/neptunia/rb1/monster/1-102-tulip.html) x1~2
