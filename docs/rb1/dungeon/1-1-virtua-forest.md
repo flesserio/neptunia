@@ -7,23 +7,6 @@ title: Virtua Forest (Dungeon) - Hyperdimension Neptunia Re;Birth1
 # Virtua Forest (Dungeon)
 
 ## Contents
-- [Virtua Forest (Dungeon)](#virtua-forest-dungeon)
-  - [Contents](#contents)
-  - [Basic information](#basic-information)
-  - [Items found in Virtua Forest from gathering points](#items-found-in-virtua-forest-from-gathering-points)
-    - [From normal gathering points](#from-normal-gathering-points)
-    - [From Harvest Shift gathering points](#from-harvest-shift-gathering-points)
-    - [From treasure gathering points](#from-treasure-gathering-points)
-    - [From hidden treasure gathering points](#from-hidden-treasure-gathering-points)
-  - [Items found in Virtua Forest from monster drops](#items-found-in-virtua-forest-from-monster-drops)
-    - [Standard enemies](#standard-enemies)
-  - [Gathering point tables for Virtua Forest](#gathering-point-tables-for-virtua-forest)
-    - [Normal](#normal)
-    - [Item Change (Harvest Shift) enabled](#item-change-harvest-shift-enabled)
-    - [Treasure](#treasure)
-    - [Hidden treasure](#hidden-treasure)
-  - [Monster spawn points in Virtua Forest](#monster-spawn-points-in-virtua-forest)
-    - [Normal dungeon setting](#normal-dungeon-setting)
 
 ## Basic information
 
@@ -36,6 +19,7 @@ title: Virtua Forest (Dungeon) - Hyperdimension Neptunia Re;Birth1
 | **Item Change available?** | Yes |
 | **Add Enemies available?** | No |
 | **Add Super Enemies available?** | No |
+
 ## Items found in Virtua Forest from gathering points
 
 ¹ Total amount needed for Remake System recipes.<br />² Total amount needed to complete quests at least once.
@@ -90,6 +74,7 @@ title: Virtua Forest (Dungeon) - Hyperdimension Neptunia Re;Birth1
 | <input type="checkbox" id="rb1-item-1-2" class="trackbox" /> | 2 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Healing Pod](/neptunia/rb1/item/1-2-healing-pod.html) (Tool) | 0 | 0 | 0 |
 | <input type="checkbox" id="rb1-item-1-5016" class="trackbox" /> | 5016 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Sports](/neptunia/rb1/item/1-5016-sports.html) (Idea Chip (Yellow)) | 0 | 0 | 0 |
 | <input type="checkbox" id="rb1-item-1-5082" class="trackbox" /> | 5082 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Pixel](/neptunia/rb1/item/1-5082-pixel.html) (Idea Chip (Blue)) | 0 | 0 | 0 |
+
 ## Items found in Virtua Forest from monster drops
 
 ¹ Total amount needed for Remake System recipes.<br />² Total amount needed to complete quests at least once.
@@ -103,6 +88,7 @@ title: Virtua Forest (Dungeon) - Hyperdimension Neptunia Re;Birth1
 | <input type="checkbox" id="rb1-item-1-1748" class="trackbox" /> | 1748 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Yellow Petal](/neptunia/rb1/item/1-1748-yellow-petal.html) (Material) | 8 | 0 | 8 |
 | <input type="checkbox" id="rb1-item-1-1855" class="trackbox" /> | 1855 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Boxer-X Soul](/neptunia/rb1/item/1-1855-boxer-x-soul.html) (Material) | 6 | 2 | 8 |
 | <input type="checkbox" id="rb1-item-1-1910" class="trackbox" /> | 1910 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Dogoo-Man Jelly](/neptunia/rb1/item/1-1910-dogoo-man-jelly.html) (Material) | 7 | 0 | 7 |
+
 
 
 
@@ -156,7 +142,8 @@ title: Virtua Forest (Dungeon) - Hyperdimension Neptunia Re;Birth1
 | 2 | 100%: [Pixel](/neptunia/rb1/item/1-5082-pixel.html) x3~5 |
 | 3 | 100%: [Healing Pod](/neptunia/rb1/item/1-2-healing-pod.html) x1~2 |
 | 4 | 100%: [Sports](/neptunia/rb1/item/1-5016-sports.html) x1 |
-## Monster spawn points in Virtua Forest
+
+## Monster spawn point tables for Virtua Forest
 
 
 ### Normal dungeon setting
