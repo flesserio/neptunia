@@ -2,7 +2,7 @@
 title: Ability Index - Hyperdimension Neptunia Re;Birth1
 ---
 
-[**Ability Index**](/neptunia/rb1/ability/index.html) - [Hyperdimension Neptunia Re;Birth1](/neptunia/rb1)
+[Hyperdimension Neptunia Re;Birth1](/neptunia/rb1)
 
 
 
