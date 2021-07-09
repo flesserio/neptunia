@@ -13,12 +13,12 @@ title: Null Virus (Ability) - Hyperdimension Neptunia Re;Birth1
 
 |   |   |
 | -- | -- |
-| **ID** | 551
-**DLC** | [Additional Content Pack 8](/neptunia/rb1/dlc/17-pack8.html)
-**Name** | Null Virus
-**Required Lily level** | 2
-**Description** | Null Virus
-**Effects** | Gives Virus Immunity |
+| **ID** | 551 |
+| **DLC** | [Additional Content Pack 8](/neptunia/rb1/dlc/17-pack8.html) |
+| **Name** | Null Virus |
+| **Required Lily level** | 2 |
+| **Description** | Null Virus |
+| **Effects** | Gives Virus Immunity |
 
 
 ## Player characters who have Null Virus as a passive ability (1)

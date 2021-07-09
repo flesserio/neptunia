@@ -13,12 +13,12 @@ title: HDD SP Consumption - (Ability) - Hyperdimension Neptunia Re;Birth1
 
 |   |   |
 | -- | -- |
-| **ID** | 520
-**DLC** | [Base](/neptunia/rb1/dlc/1-base.html)
-**Name** | HDD SP Consumption -
-**Required Lily level** | 3
-**Description** | HDD SP Consumption -
-**Effects** | Decreases HDD SP Consumption by 20% |
+| **ID** | 520 |
+| **DLC** | [Base](/neptunia/rb1/dlc/1-base.html) |
+| **Name** | HDD SP Consumption - |
+| **Required Lily level** | 3 |
+| **Description** | HDD SP Consumption - |
+| **Effects** | Decreases HDD SP Consumption by 20% |
 
 
 ## Player characters who have HDD SP Consumption - as a Lily effect (1)

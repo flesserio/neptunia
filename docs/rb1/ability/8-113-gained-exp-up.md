@@ -13,12 +13,12 @@ title: Gained EXP Up (Ability) - Hyperdimension Neptunia Re;Birth1
 
 |   |   |
 | -- | -- |
-| **ID** | 113
-**DLC** | [[Peashy] Battle Entry License](/neptunia/rb1/dlc/8-peashy.html)
-**Name** | Gained EXP Up
-**Required Lily level** | N/A
-**Description** | Gained EXP Up
-**Effects** | Increases Gained XP by 25% |
+| **ID** | 113 |
+| **DLC** | [[Peashy] Battle Entry License](/neptunia/rb1/dlc/8-peashy.html) |
+| **Name** | Gained EXP Up |
+| **Required Lily level** | N/A |
+| **Description** | Gained EXP Up |
+| **Effects** | Increases Gained XP by 25% |
 
 
 ## Player characters who have Gained EXP Up as a passive ability (1)

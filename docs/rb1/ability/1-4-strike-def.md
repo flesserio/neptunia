@@ -12,9 +12,9 @@ title: Strike DEF + (Ability) - Hyperdimension Neptunia Re;Birth1
 
 |   |   |
 | -- | -- |
-| **ID** | 4
-**DLC** | [Base](/neptunia/rb1/dlc/1-base.html)
-**Name** | Strike DEF +
-**Required Lily level** | N/A
-**Description** | 
-**Effects** |  |
+| **ID** | 4 |
+| **DLC** | [Base](/neptunia/rb1/dlc/1-base.html) |
+| **Name** | Strike DEF + |
+| **Required Lily level** | N/A |
+| **Description** |  |
+| **Effects** |  |

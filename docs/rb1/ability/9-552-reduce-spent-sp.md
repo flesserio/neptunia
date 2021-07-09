@@ -13,12 +13,12 @@ title: Reduce Spent SP (Ability) - Hyperdimension Neptunia Re;Birth1
 
 |   |   |
 | -- | -- |
-| **ID** | 552
-**DLC** | [[Histoire] Battle Entry License](/neptunia/rb1/dlc/9-histoire.html)
-**Name** | Reduce Spent SP
-**Required Lily level** | N/A
-**Description** | Reduce Spent SP
-**Effects** | Decreases SP Required by 20% |
+| **ID** | 552 |
+| **DLC** | [[Histoire] Battle Entry License](/neptunia/rb1/dlc/9-histoire.html) |
+| **Name** | Reduce Spent SP |
+| **Required Lily level** | N/A |
+| **Description** | Reduce Spent SP |
+| **Effects** | Decreases SP Required by 20% |
 
 
 ## Player characters who have Reduce Spent SP as a Lily effect (1)

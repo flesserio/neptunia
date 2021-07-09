@@ -13,12 +13,12 @@ title: Mag. Damage Resist + (Ability) - Hyperdimension Neptunia Re;Birth1
 
 |   |   |
 | -- | -- |
-| **ID** | 108
-**DLC** | [Base](/neptunia/rb1/dlc/1-base.html)
-**Name** | Mag. Damage Resist +
-**Required Lily level** | N/A
-**Description** | Mag. Damage Resist +
-**Effects** | Increases Mag. Defense by 25% |
+| **ID** | 108 |
+| **DLC** | [Base](/neptunia/rb1/dlc/1-base.html) |
+| **Name** | Mag. Damage Resist + |
+| **Required Lily level** | N/A |
+| **Description** | Mag. Damage Resist + |
+| **Effects** | Increases Mag. Defense by 25% |
 
 
 ## Player characters who have Mag. Damage Resist + as a passive ability (1)

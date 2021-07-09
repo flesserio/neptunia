@@ -12,9 +12,9 @@ title: Beam/Magic DEF + (Ability) - Hyperdimension Neptunia Re;Birth1
 
 |   |   |
 | -- | -- |
-| **ID** | 12
-**DLC** | [Base](/neptunia/rb1/dlc/1-base.html)
-**Name** | Beam/Magic DEF +
-**Required Lily level** | N/A
-**Description** | 
-**Effects** | Increases Mag. Defense by 50% |
+| **ID** | 12 |
+| **DLC** | [Base](/neptunia/rb1/dlc/1-base.html) |
+| **Name** | Beam/Magic DEF + |
+| **Required Lily level** | N/A |
+| **Description** |  |
+| **Effects** | Increases Mag. Defense by 50% |

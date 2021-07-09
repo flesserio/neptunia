@@ -12,9 +12,9 @@ title: Beam DEF + (Ability) - Hyperdimension Neptunia Re;Birth1
 
 |   |   |
 | -- | -- |
-| **ID** | 5
-**DLC** | [Base](/neptunia/rb1/dlc/1-base.html)
-**Name** | Beam DEF +
-**Required Lily level** | N/A
-**Description** | 
-**Effects** |  |
+| **ID** | 5 |
+| **DLC** | [Base](/neptunia/rb1/dlc/1-base.html) |
+| **Name** | Beam DEF + |
+| **Required Lily level** | N/A |
+| **Description** |  |
+| **Effects** |  |

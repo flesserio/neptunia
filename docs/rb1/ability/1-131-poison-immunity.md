@@ -13,12 +13,12 @@ title: Poison Immunity (Ability) - Hyperdimension Neptunia Re;Birth1
 
 |   |   |
 | -- | -- |
-| **ID** | 131
-**DLC** | [Base](/neptunia/rb1/dlc/1-base.html)
-**Name** | Poison Immunity
-**Required Lily level** | 1
-**Description** | Poison Immunity
-**Effects** | Gives Poison Immunity |
+| **ID** | 131 |
+| **DLC** | [Base](/neptunia/rb1/dlc/1-base.html) |
+| **Name** | Poison Immunity |
+| **Required Lily level** | 1 |
+| **Description** | Poison Immunity |
+| **Effects** | Gives Poison Immunity |
 
 
 ## Player characters who have Poison Immunity as a passive ability (1)

@@ -12,9 +12,9 @@ title: Act Fast Lv.1 (Ability) - Hyperdimension Neptunia Re;Birth1
 
 |   |   |
 | -- | -- |
-| **ID** | 9510
-**DLC** | [Base](/neptunia/rb1/dlc/1-base.html)
-**Name** | Act Fast Lv.1
-**Required Lily level** | N/A
-**Description** | Decreased Cooldown Time
-**Effects** |  |
+| **ID** | 9510 |
+| **DLC** | [Base](/neptunia/rb1/dlc/1-base.html) |
+| **Name** | Act Fast Lv.1 |
+| **Required Lily level** | N/A |
+| **Description** | Decreased Cooldown Time |
+| **Effects** |  |

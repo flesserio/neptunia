@@ -13,12 +13,12 @@ title: EXE Charge Lv.5 (Ability) - Hyperdimension Neptunia Re;Birth1
 
 |   |   |
 | -- | -- |
-| **ID** | 9509
-**DLC** | [Base](/neptunia/rb1/dlc/1-base.html)
-**Name** | EXE Charge Lv.5
-**Required Lily level** | N/A
-**Description** | SP Accumulation Up
-**Effects** | Increases EXE Charge by 5% |
+| **ID** | 9509 |
+| **DLC** | [Base](/neptunia/rb1/dlc/1-base.html) |
+| **Name** | EXE Charge Lv.5 |
+| **Required Lily level** | N/A |
+| **Description** | SP Accumulation Up |
+| **Effects** | Increases EXE Charge by 5% |
 
 
 ## Idea Chips which have EXE Charge Lv.5 as ability (1)

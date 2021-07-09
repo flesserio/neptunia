@@ -13,12 +13,12 @@ title: Gradual EXE Fill Lv.5 (Ability) - Hyperdimension Neptunia Re;Birth1
 
 |   |   |
 | -- | -- |
-| **ID** | 9646
-**DLC** | [Base](/neptunia/rb1/dlc/1-base.html)
-**Name** | Gradual EXE Fill Lv.5
-**Required Lily level** | N/A
-**Description** | Slowly Fills EXE Gauge
-**Effects** | Increases Gradual EXE Fill by 5% |
+| **ID** | 9646 |
+| **DLC** | [Base](/neptunia/rb1/dlc/1-base.html) |
+| **Name** | Gradual EXE Fill Lv.5 |
+| **Required Lily level** | N/A |
+| **Description** | Slowly Fills EXE Gauge |
+| **Effects** | Increases Gradual EXE Fill by 5% |
 
 
 ## Idea Chips which have Gradual EXE Fill Lv.5 as ability (1)

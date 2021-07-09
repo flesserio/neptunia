@@ -13,12 +13,12 @@ title: Nulls Stat Decreases (Ability) - Hyperdimension Neptunia Re;Birth1
 
 |   |   |
 | -- | -- |
-| **ID** | 511
-**DLC** | [Base](/neptunia/rb1/dlc/1-base.html)
-**Name** | Nulls Stat Decreases
-**Required Lily level** | 2
-**Description** | Nulls Stat Decreases
-**Effects** | Gives Debuffing Immunity |
+| **ID** | 511 |
+| **DLC** | [Base](/neptunia/rb1/dlc/1-base.html) |
+| **Name** | Nulls Stat Decreases |
+| **Required Lily level** | 2 |
+| **Description** | Nulls Stat Decreases |
+| **Effects** | Gives Debuffing Immunity |
 
 
 ## Player characters who have Nulls Stat Decreases as a Lily effect (1)

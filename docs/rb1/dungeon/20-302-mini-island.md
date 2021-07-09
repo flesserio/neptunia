@@ -14,16 +14,16 @@ title: Mini Island (Dungeon) - Hyperdimension Neptunia Re;Birth1
 
 ## Basic information
 
-
-|    |    |
+|   |   |
 | -- | -- |
 | **ID** | 302 |
-| **DLC** | [Additional Content Pack 11](/neptunia/rb1/dungeon/20-pack11.html) |
+| **DLC** | [Additional Content Pack 11](/neptunia/rb1/dlc/20-pack11.html) |
 | **Name** | Mini Island |
 | **Item Change available?** | No |
 | **Add Enemies available?** | No |
 | **Add Super Enemies available?** | No |
-| **To unlock dungeon**| Have remake [Add Dungeon](/neptunia/rb1/scene/20-1002-add-dungeon.html) developed |
+| **To unlock dungeon** | Have remake [Add Dungeon](/neptunia/rb1/remake/20-1002-add-dungeon.html) developed |
+
 
 ## Items found in Mini Island from gathering points
 
@@ -31,39 +31,39 @@ See [gathering point tables](#gathering-point-tables-for-mini-island) for more i
 
 ### From normal gathering points
 
+|    | ID | DLC | Name | Sells for | Remakes¹ | Quests² | Total |
+| -- | -- | --- | ---- | --------- | -------- | ------- | ----: |
 
-|    | ID | DLC | Name | Remakes¹ | Quests² | Total |
-| -- | -- | --- | ---- | -------- | ------- | ----: |
 
 
 ### From Harvest Shift gathering points
 
+|    | ID | DLC | Name | Sells for | Remakes¹ | Quests² | Total |
+| -- | -- | --- | ---- | --------- | -------- | ------- | ----: |
 
-|    | ID | DLC | Name | Remakes¹ | Quests² | Total |
-| -- | -- | --- | ---- | -------- | ------- | ----: |
 
 
 ### From treasure gathering points
 
+|    | ID | DLC | Name | Sells for | Remakes¹ | Quests² | Total |
+| -- | -- | --- | ---- | --------- | -------- | ------- | ----: |
+| <input type="checkbox" id="rb1-item-1-3" class="trackbox" /> | 3 | [Base](/neptunia/rb1/dlc/1-base.html) | [Healing Drink](/neptunia/rb1/item/1-3-healing-drink.html) (Tool) | 400 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb1-item-1-32" class="trackbox" /> | 32 | [Base](/neptunia/rb1/dlc/1-base.html) | [Super Panacea](/neptunia/rb1/item/1-32-super-panacea.html) (Tool) | 2400 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb1-item-1-2314" class="trackbox" /> | 2314 | [Base](/neptunia/rb1/dlc/1-base.html) | [Freak Diamond](/neptunia/rb1/item/1-2314-freak-diamond.html) (Qatar (IF)) | 11400 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb1-item-1-2385" class="trackbox" /> | 2385 | [Base](/neptunia/rb1/dlc/1-base.html) | [God Machine](/neptunia/rb1/item/1-2385-god-machine.html) (Staff (MAGES.)) | 10600 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb1-item-1-2394" class="trackbox" /> | 2394 | [Base](/neptunia/rb1/dlc/1-base.html) | [Twin Purgatory](/neptunia/rb1/item/1-2394-twin-purgatory.html) (Dual Blade (CyberConnect2)) | 10520 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb1-item-1-3604" class="trackbox" /> | 3604 | [Base](/neptunia/rb1/dlc/1-base.html) | [Wild Spirit](/neptunia/rb1/item/1-3604-wild-spirit.html) (Accessory) | 500 | 0 | 0 | 0 |
 
-|    | ID | DLC | Name | Remakes¹ | Quests² | Total |
-| -- | -- | --- | ---- | -------- | ------- | ----: |
-| <input type="checkbox" id="rb1-item-1-3" class="trackbox" /> | 3 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Healing Drink](/neptunia/rb1/item/1-3-healing-drink.html) (Tool) | 0 | 0 | 0 |
-| <input type="checkbox" id="rb1-item-1-32" class="trackbox" /> | 32 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Super Panacea](/neptunia/rb1/item/1-32-super-panacea.html) (Tool) | 0 | 0 | 0 |
-| <input type="checkbox" id="rb1-item-1-2314" class="trackbox" /> | 2314 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Freak Diamond](/neptunia/rb1/item/1-2314-freak-diamond.html) (Qatar (IF)) | 0 | 0 | 0 |
-| <input type="checkbox" id="rb1-item-1-2385" class="trackbox" /> | 2385 | [Base](/neptunia/rb1/dungeon/1-base.html) | [God Machine](/neptunia/rb1/item/1-2385-god-machine.html) (Staff (MAGES.)) | 0 | 0 | 0 |
-| <input type="checkbox" id="rb1-item-1-2394" class="trackbox" /> | 2394 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Twin Purgatory](/neptunia/rb1/item/1-2394-twin-purgatory.html) (Dual Blade (CyberConnect2)) | 0 | 0 | 0 |
-| <input type="checkbox" id="rb1-item-1-3604" class="trackbox" /> | 3604 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Wild Spirit](/neptunia/rb1/item/1-3604-wild-spirit.html) (Accessory) | 0 | 0 | 0 |
 
 ### From hidden treasure gathering points
 
+|    | ID | DLC | Name | Sells for | Remakes¹ | Quests² | Total |
+| -- | -- | --- | ---- | --------- | -------- | ------- | ----: |
+| <input type="checkbox" id="rb1-item-1-4" class="trackbox" /> | 4 | [Base](/neptunia/rb1/dlc/1-base.html) | [Healing Bottle](/neptunia/rb1/item/1-4-healing-bottle.html) (Tool) | 1600 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb1-item-1-16" class="trackbox" /> | 16 | [Base](/neptunia/rb1/dlc/1-base.html) | [P. SP Charger 2](/neptunia/rb1/item/1-16-p-sp-charger-2.html) (Tool) | 2600 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb1-item-1-41" class="trackbox" /> | 41 | [Base](/neptunia/rb1/dlc/1-base.html) | [Energy Lump](/neptunia/rb1/item/1-41-energy-lump.html) (Tool) | 2000 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb1-item-1-42" class="trackbox" /> | 42 | [Base](/neptunia/rb1/dlc/1-base.html) | [Angel Wings](/neptunia/rb1/item/1-42-angel-wings.html) (Tool) | 1000 | 0 | 0 | 0 |
 
-|    | ID | DLC | Name | Remakes¹ | Quests² | Total |
-| -- | -- | --- | ---- | -------- | ------- | ----: |
-| <input type="checkbox" id="rb1-item-1-4" class="trackbox" /> | 4 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Healing Bottle](/neptunia/rb1/item/1-4-healing-bottle.html) (Tool) | 0 | 0 | 0 |
-| <input type="checkbox" id="rb1-item-1-16" class="trackbox" /> | 16 | [Base](/neptunia/rb1/dungeon/1-base.html) | [P. SP Charger 2](/neptunia/rb1/item/1-16-p-sp-charger-2.html) (Tool) | 0 | 0 | 0 |
-| <input type="checkbox" id="rb1-item-1-41" class="trackbox" /> | 41 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Energy Lump](/neptunia/rb1/item/1-41-energy-lump.html) (Tool) | 0 | 0 | 0 |
-| <input type="checkbox" id="rb1-item-1-42" class="trackbox" /> | 42 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Angel Wings](/neptunia/rb1/item/1-42-angel-wings.html) (Tool) | 0 | 0 | 0 |
 
 ¹ Total amount needed for Remake System recipes.<br />² Total amount needed to complete quests at least once.
 
@@ -72,9 +72,9 @@ See [gathering point tables](#gathering-point-tables-for-mini-island) for more i
 
 ### Standard enemies
 
+|    | ID | DLC | Name | Sells for | Remakes¹ | Quests² | Total |
+| -- | -- | --- | ---- | --------- | -------- | ------- | ----: |
 
-|    | ID | DLC | Name | Remakes¹ | Quests² | Total |
-| -- | -- | --- | ---- | -------- | ------- | ----: |
 
 
 

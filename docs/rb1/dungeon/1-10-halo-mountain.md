@@ -14,16 +14,16 @@ title: Halo Mountain (Dungeon) - Hyperdimension Neptunia Re;Birth1
 
 ## Basic information
 
-
-|    |    |
+|   |   |
 | -- | -- |
 | **ID** | 10 |
-| **DLC** | [Base](/neptunia/rb1/dungeon/1-base.html) |
+| **DLC** | [Base](/neptunia/rb1/dlc/1-base.html) |
 | **Name** | Halo Mountain |
 | **Item Change available?** | Yes |
 | **Add Enemies available?** | Yes |
 | **Add Super Enemies available?** | No |
-| **To unlock dungeon**| View scene [Chapter 3: Vert's Confession](/neptunia/rb1/scene/1-315-chapter-3-verts-confession.html) |
+| **To unlock dungeon** | View scene [Chapter 3: Vert's Confession](/neptunia/rb1/scene/1-315-chapter-3-verts-confession.html) |
+
 
 ## Items found in Halo Mountain from gathering points
 
@@ -31,57 +31,57 @@ See [gathering point tables](#gathering-point-tables-for-halo-mountain) for more
 
 ### From normal gathering points
 
+|    | ID | DLC | Name | Sells for | Remakes¹ | Quests² | Total |
+| -- | -- | --- | ---- | --------- | -------- | ------- | ----: |
+| <input type="checkbox" id="rb1-item-1-1601" class="trackbox" /> | 1601 | [Base](/neptunia/rb1/dlc/1-base.html) | [Herb](/neptunia/rb1/item/1-1601-herb.html) (Material) | 10 | 37 | 0 | 37 |
+| <input type="checkbox" id="rb1-item-1-1606" class="trackbox" /> | 1606 | [Base](/neptunia/rb1/dlc/1-base.html) | [Iron Ore](/neptunia/rb1/item/1-1606-iron-ore.html) (Material) | 50 | 2 | 0 | 2 |
+| <input type="checkbox" id="rb1-item-1-1607" class="trackbox" /> | 1607 | [Base](/neptunia/rb1/dlc/1-base.html) | [Copper Ore](/neptunia/rb1/item/1-1607-copper-ore.html) (Material) | 75 | 6 | 0 | 6 |
+| <input type="checkbox" id="rb1-item-1-1618" class="trackbox" /> | 1618 | [Base](/neptunia/rb1/dlc/1-base.html) | [Gale Stone](/neptunia/rb1/item/1-1618-gale-stone.html) (Material) | 1 | 16 | 0 | 16 |
+| <input type="checkbox" id="rb1-item-1-1621" class="trackbox" /> | 1621 | [Base](/neptunia/rb1/dlc/1-base.html) | [Crust Stone](/neptunia/rb1/item/1-1621-crust-stone.html) (Material) | 250 | 5 | 0 | 5 |
+| <input type="checkbox" id="rb1-item-1-1761" class="trackbox" /> | 1761 | [Base](/neptunia/rb1/dlc/1-base.html) | [Radish Leaf](/neptunia/rb1/item/1-1761-radish-leaf.html) (Material) | 30 | 14 | 3 | 17 |
+| <input type="checkbox" id="rb1-item-1-1771" class="trackbox" /> | 1771 | [Base](/neptunia/rb1/dlc/1-base.html) | [Horsebird Feather](/neptunia/rb1/item/1-1771-horsebird-feather.html) (Material) | 88 | 7 | 0 | 7 |
+| <input type="checkbox" id="rb1-item-1-1777" class="trackbox" /> | 1777 | [Base](/neptunia/rb1/dlc/1-base.html) | [Wolf Pelt](/neptunia/rb1/item/1-1777-wolf-pelt.html) (Material) | 110 | 5 | 0 | 5 |
+| <input type="checkbox" id="rb1-item-1-1804" class="trackbox" /> | 1804 | [Base](/neptunia/rb1/dlc/1-base.html) | [Magical Wolf Claw](/neptunia/rb1/item/1-1804-magical-wolf-claw.html) (Material) | 1595 | 2 | 0 | 2 |
 
-|    | ID | DLC | Name | Remakes¹ | Quests² | Total |
-| -- | -- | --- | ---- | -------- | ------- | ----: |
-| <input type="checkbox" id="rb1-item-1-1601" class="trackbox" /> | 1601 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Herb](/neptunia/rb1/item/1-1601-herb.html) (Material) | 37 | 0 | 37 |
-| <input type="checkbox" id="rb1-item-1-1606" class="trackbox" /> | 1606 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Iron Ore](/neptunia/rb1/item/1-1606-iron-ore.html) (Material) | 2 | 0 | 2 |
-| <input type="checkbox" id="rb1-item-1-1607" class="trackbox" /> | 1607 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Copper Ore](/neptunia/rb1/item/1-1607-copper-ore.html) (Material) | 6 | 0 | 6 |
-| <input type="checkbox" id="rb1-item-1-1618" class="trackbox" /> | 1618 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Gale Stone](/neptunia/rb1/item/1-1618-gale-stone.html) (Material) | 16 | 0 | 16 |
-| <input type="checkbox" id="rb1-item-1-1621" class="trackbox" /> | 1621 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Crust Stone](/neptunia/rb1/item/1-1621-crust-stone.html) (Material) | 5 | 0 | 5 |
-| <input type="checkbox" id="rb1-item-1-1761" class="trackbox" /> | 1761 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Radish Leaf](/neptunia/rb1/item/1-1761-radish-leaf.html) (Material) | 14 | 3 | 17 |
-| <input type="checkbox" id="rb1-item-1-1771" class="trackbox" /> | 1771 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Horsebird Feather](/neptunia/rb1/item/1-1771-horsebird-feather.html) (Material) | 7 | 0 | 7 |
-| <input type="checkbox" id="rb1-item-1-1777" class="trackbox" /> | 1777 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Wolf Pelt](/neptunia/rb1/item/1-1777-wolf-pelt.html) (Material) | 5 | 0 | 5 |
-| <input type="checkbox" id="rb1-item-1-1804" class="trackbox" /> | 1804 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Magical Wolf Claw](/neptunia/rb1/item/1-1804-magical-wolf-claw.html) (Material) | 2 | 0 | 2 |
 
 ### From Harvest Shift gathering points
 
+|    | ID | DLC | Name | Sells for | Remakes¹ | Quests² | Total |
+| -- | -- | --- | ---- | --------- | -------- | ------- | ----: |
+| <input type="checkbox" id="rb1-item-1-1601" class="trackbox" /> | 1601 | [Base](/neptunia/rb1/dlc/1-base.html) | [Herb](/neptunia/rb1/item/1-1601-herb.html) (Material) | 10 | 37 | 0 | 37 |
+| <input type="checkbox" id="rb1-item-1-1607" class="trackbox" /> | 1607 | [Base](/neptunia/rb1/dlc/1-base.html) | [Copper Ore](/neptunia/rb1/item/1-1607-copper-ore.html) (Material) | 75 | 6 | 0 | 6 |
+| <input type="checkbox" id="rb1-item-1-5043" class="trackbox" /> | 5043 | [Base](/neptunia/rb1/dlc/1-base.html) | [Strategy](/neptunia/rb1/item/1-5043-strategy.html) (Idea Chip (Yellow)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb1-item-1-5054" class="trackbox" /> | 5054 | [Base](/neptunia/rb1/dlc/1-base.html) | [MO](/neptunia/rb1/item/1-5054-mo.html) (Idea Chip (Yellow)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb1-item-1-5088" class="trackbox" /> | 5088 | [Base](/neptunia/rb1/dlc/1-base.html) | [Special Controller](/neptunia/rb1/item/1-5088-special-controller.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb1-item-1-5103" class="trackbox" /> | 5103 | [Base](/neptunia/rb1/dlc/1-base.html) | [Shoot](/neptunia/rb1/item/1-5103-shoot.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb1-item-1-5108" class="trackbox" /> | 5108 | [Base](/neptunia/rb1/dlc/1-base.html) | [Emotional Game](/neptunia/rb1/item/1-5108-emotional-game.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb1-item-1-5145" class="trackbox" /> | 5145 | [Base](/neptunia/rb1/dlc/1-base.html) | [Love](/neptunia/rb1/item/1-5145-love.html) (Idea Chip (Red)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb1-item-1-5180" class="trackbox" /> | 5180 | [Base](/neptunia/rb1/dlc/1-base.html) | [Nature](/neptunia/rb1/item/1-5180-nature.html) (Idea Chip (Red)) | 10 | 0 | 0 | 0 |
 
-|    | ID | DLC | Name | Remakes¹ | Quests² | Total |
-| -- | -- | --- | ---- | -------- | ------- | ----: |
-| <input type="checkbox" id="rb1-item-1-1601" class="trackbox" /> | 1601 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Herb](/neptunia/rb1/item/1-1601-herb.html) (Material) | 37 | 0 | 37 |
-| <input type="checkbox" id="rb1-item-1-1607" class="trackbox" /> | 1607 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Copper Ore](/neptunia/rb1/item/1-1607-copper-ore.html) (Material) | 6 | 0 | 6 |
-| <input type="checkbox" id="rb1-item-1-5043" class="trackbox" /> | 5043 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Strategy](/neptunia/rb1/item/1-5043-strategy.html) (Idea Chip (Yellow)) | 0 | 0 | 0 |
-| <input type="checkbox" id="rb1-item-1-5054" class="trackbox" /> | 5054 | [Base](/neptunia/rb1/dungeon/1-base.html) | [MO](/neptunia/rb1/item/1-5054-mo.html) (Idea Chip (Yellow)) | 0 | 0 | 0 |
-| <input type="checkbox" id="rb1-item-1-5088" class="trackbox" /> | 5088 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Special Controller](/neptunia/rb1/item/1-5088-special-controller.html) (Idea Chip (Blue)) | 0 | 0 | 0 |
-| <input type="checkbox" id="rb1-item-1-5103" class="trackbox" /> | 5103 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Shoot](/neptunia/rb1/item/1-5103-shoot.html) (Idea Chip (Blue)) | 0 | 0 | 0 |
-| <input type="checkbox" id="rb1-item-1-5108" class="trackbox" /> | 5108 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Emotional Game](/neptunia/rb1/item/1-5108-emotional-game.html) (Idea Chip (Blue)) | 0 | 0 | 0 |
-| <input type="checkbox" id="rb1-item-1-5145" class="trackbox" /> | 5145 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Love](/neptunia/rb1/item/1-5145-love.html) (Idea Chip (Red)) | 0 | 0 | 0 |
-| <input type="checkbox" id="rb1-item-1-5180" class="trackbox" /> | 5180 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Nature](/neptunia/rb1/item/1-5180-nature.html) (Idea Chip (Red)) | 0 | 0 | 0 |
 
 ### From treasure gathering points
 
+|    | ID | DLC | Name | Sells for | Remakes¹ | Quests² | Total |
+| -- | -- | --- | ---- | --------- | -------- | ------- | ----: |
+| <input type="checkbox" id="rb1-item-1-2" class="trackbox" /> | 2 | [Base](/neptunia/rb1/dlc/1-base.html) | [Healing Pod](/neptunia/rb1/item/1-2-healing-pod.html) (Tool) | 100 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb1-item-1-40" class="trackbox" /> | 40 | [Base](/neptunia/rb1/dlc/1-base.html) | [Energy Fragment](/neptunia/rb1/item/1-40-energy-fragment.html) (Tool) | 1100 | 7 | 0 | 7 |
+| <input type="checkbox" id="rb1-item-1-44" class="trackbox" /> | 44 | [Base](/neptunia/rb1/dlc/1-base.html) | [Eject Button](/neptunia/rb1/item/1-44-eject-button.html) (Tool) | 200 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb1-item-1-3543" class="trackbox" /> | 3543 | [Base](/neptunia/rb1/dlc/1-base.html) | [Toque Blanche](/neptunia/rb1/item/1-3543-toque-blanche.html) (Accessory) | 500 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb1-item-1-5158" class="trackbox" /> | 5158 | [Base](/neptunia/rb1/dlc/1-base.html) | [Preorder Campaign](/neptunia/rb1/item/1-5158-preorder-campaign.html) (Idea Chip (Red)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb1-item-1-5170" class="trackbox" /> | 5170 | [Base](/neptunia/rb1/dlc/1-base.html) | [Crazy Difficult](/neptunia/rb1/item/1-5170-crazy-difficult.html) (Idea Chip (Red)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb1-item-1-5179" class="trackbox" /> | 5179 | [Base](/neptunia/rb1/dlc/1-base.html) | [Jargon](/neptunia/rb1/item/1-5179-jargon.html) (Idea Chip (Red)) | 10 | 0 | 0 | 0 |
 
-|    | ID | DLC | Name | Remakes¹ | Quests² | Total |
-| -- | -- | --- | ---- | -------- | ------- | ----: |
-| <input type="checkbox" id="rb1-item-1-2" class="trackbox" /> | 2 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Healing Pod](/neptunia/rb1/item/1-2-healing-pod.html) (Tool) | 0 | 0 | 0 |
-| <input type="checkbox" id="rb1-item-1-40" class="trackbox" /> | 40 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Energy Fragment](/neptunia/rb1/item/1-40-energy-fragment.html) (Tool) | 7 | 0 | 7 |
-| <input type="checkbox" id="rb1-item-1-44" class="trackbox" /> | 44 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Eject Button](/neptunia/rb1/item/1-44-eject-button.html) (Tool) | 0 | 0 | 0 |
-| <input type="checkbox" id="rb1-item-1-3543" class="trackbox" /> | 3543 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Toque Blanche](/neptunia/rb1/item/1-3543-toque-blanche.html) (Accessory) | 0 | 0 | 0 |
-| <input type="checkbox" id="rb1-item-1-5158" class="trackbox" /> | 5158 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Preorder Campaign](/neptunia/rb1/item/1-5158-preorder-campaign.html) (Idea Chip (Red)) | 0 | 0 | 0 |
-| <input type="checkbox" id="rb1-item-1-5170" class="trackbox" /> | 5170 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Crazy Difficult](/neptunia/rb1/item/1-5170-crazy-difficult.html) (Idea Chip (Red)) | 0 | 0 | 0 |
-| <input type="checkbox" id="rb1-item-1-5179" class="trackbox" /> | 5179 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Jargon](/neptunia/rb1/item/1-5179-jargon.html) (Idea Chip (Red)) | 0 | 0 | 0 |
 
 ### From hidden treasure gathering points
 
+|    | ID | DLC | Name | Sells for | Remakes¹ | Quests² | Total |
+| -- | -- | --- | ---- | --------- | -------- | ------- | ----: |
+| <input type="checkbox" id="rb1-item-1-2" class="trackbox" /> | 2 | [Base](/neptunia/rb1/dlc/1-base.html) | [Healing Pod](/neptunia/rb1/item/1-2-healing-pod.html) (Tool) | 100 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb1-item-1-4417" class="trackbox" /> | 4417 | [Base](/neptunia/rb1/dlc/1-base.html) | [Frost W](/neptunia/rb1/item/1-4417-frost-w.html) (Processor (W)) | 500 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb1-item-1-5069" class="trackbox" /> | 5069 | [Base](/neptunia/rb1/dlc/1-base.html) | [Older Man](/neptunia/rb1/item/1-5069-older-man.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb1-item-1-5074" class="trackbox" /> | 5074 | [Base](/neptunia/rb1/dlc/1-base.html) | [Teen Makeover](/neptunia/rb1/item/1-5074-teen-makeover.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb1-item-1-5160" class="trackbox" /> | 5160 | [Base](/neptunia/rb1/dlc/1-base.html) | [Mediamix Strategy](/neptunia/rb1/item/1-5160-mediamix-strategy.html) (Idea Chip (Red)) | 10 | 0 | 0 | 0 |
 
-|    | ID | DLC | Name | Remakes¹ | Quests² | Total |
-| -- | -- | --- | ---- | -------- | ------- | ----: |
-| <input type="checkbox" id="rb1-item-1-2" class="trackbox" /> | 2 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Healing Pod](/neptunia/rb1/item/1-2-healing-pod.html) (Tool) | 0 | 0 | 0 |
-| <input type="checkbox" id="rb1-item-1-4417" class="trackbox" /> | 4417 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Frost W](/neptunia/rb1/item/1-4417-frost-w.html) (Processor (W)) | 0 | 0 | 0 |
-| <input type="checkbox" id="rb1-item-1-5069" class="trackbox" /> | 5069 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Older Man](/neptunia/rb1/item/1-5069-older-man.html) (Idea Chip (Blue)) | 0 | 0 | 0 |
-| <input type="checkbox" id="rb1-item-1-5074" class="trackbox" /> | 5074 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Teen Makeover](/neptunia/rb1/item/1-5074-teen-makeover.html) (Idea Chip (Blue)) | 0 | 0 | 0 |
-| <input type="checkbox" id="rb1-item-1-5160" class="trackbox" /> | 5160 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Mediamix Strategy](/neptunia/rb1/item/1-5160-mediamix-strategy.html) (Idea Chip (Red)) | 0 | 0 | 0 |
 
 ¹ Total amount needed for Remake System recipes.<br />² Total amount needed to complete quests at least once.
 
@@ -90,34 +90,34 @@ See [gathering point tables](#gathering-point-tables-for-halo-mountain) for more
 
 ### Standard enemies
 
+|    | ID | DLC | Name | Sells for | Remakes¹ | Quests² | Total |
+| -- | -- | --- | ---- | --------- | -------- | ------- | ----: |
+| <input type="checkbox" id="rb1-item-1-1714" class="trackbox" /> | 1714 | [Base](/neptunia/rb1/dlc/1-base.html) | [Black Gel Feeler](/neptunia/rb1/item/1-1714-black-gel-feeler.html) (Material)<br />40%: [High Heal Dogoo](/neptunia/rb1/monster/1-151-high-heal-dogoo.html) | 106 | 9 | 0 | 9 |
+| <input type="checkbox" id="rb1-item-1-1761" class="trackbox" /> | 1761 | [Base](/neptunia/rb1/dlc/1-base.html) | [Radish Leaf](/neptunia/rb1/item/1-1761-radish-leaf.html) (Material)<br />40%: [Radisher](/neptunia/rb1/monster/1-150-radisher.html) | 30 | 14 | 3 | 17 |
+| <input type="checkbox" id="rb1-item-1-1771" class="trackbox" /> | 1771 | [Base](/neptunia/rb1/dlc/1-base.html) | [Horsebird Feather](/neptunia/rb1/item/1-1771-horsebird-feather.html) (Material)<br />40%: [Horsebird](/neptunia/rb1/monster/1-154-horsebird.html) | 88 | 7 | 0 | 7 |
+| <input type="checkbox" id="rb1-item-1-1777" class="trackbox" /> | 1777 | [Base](/neptunia/rb1/dlc/1-base.html) | [Wolf Pelt](/neptunia/rb1/item/1-1777-wolf-pelt.html) (Material)<br />40%: [Wolf](/neptunia/rb1/monster/1-152-wolf.html) | 110 | 5 | 0 | 5 |
+| <input type="checkbox" id="rb1-item-1-1804" class="trackbox" /> | 1804 | [Base](/neptunia/rb1/dlc/1-base.html) | [Magical Wolf Claw](/neptunia/rb1/item/1-1804-magical-wolf-claw.html) (Material)<br />55%: [Fenrir Wolf](/neptunia/rb1/monster/1-158-fenrir-wolf.html) | 1595 | 2 | 0 | 2 |
+| <input type="checkbox" id="rb1-item-1-1844" class="trackbox" /> | 1844 | [Base](/neptunia/rb1/dlc/1-base.html) | [Big Butterfly Wing](/neptunia/rb1/item/1-1844-big-butterfly-wing.html) (Material)<br />40%: [Swallowtail](/neptunia/rb1/monster/1-156-swallowtail.html) | 42 | 7 | 0 | 7 |
+| <input type="checkbox" id="rb1-item-1-3242" class="trackbox" /> | 3242 | [Base](/neptunia/rb1/dlc/1-base.html) | [White Cat Ears](/neptunia/rb1/item/1-3242-white-cat-ears.html) (Accessory)<br />15%: [Swallowtail](/neptunia/rb1/monster/1-156-swallowtail.html) | 500 | 1 | 0 | 1 |
+| <input type="checkbox" id="rb1-item-1-3556" class="trackbox" /> | 3556 | [Base](/neptunia/rb1/dlc/1-base.html) | [White Cat Ears](/neptunia/rb1/item/1-3556-white-cat-ears.html) (Accessory)<br />15%: [Radisher](/neptunia/rb1/monster/1-150-radisher.html) | 500 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb1-item-1-4429" class="trackbox" /> | 4429 | [Base](/neptunia/rb1/dlc/1-base.html) | [Wind W](/neptunia/rb1/item/1-4429-wind-w.html) (Processor (W))<br />75%: [Fenrir Wolf](/neptunia/rb1/monster/1-158-fenrir-wolf.html) | 500 | 0 | 0 | 0 |
 
-|    | ID | DLC | Name | Remakes¹ | Quests² | Total |
-| -- | -- | --- | ---- | -------- | ------- | ----: |
-| <input type="checkbox" id="rb1-item-1-1714" class="trackbox" /> | 1714 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Black Gel Feeler](/neptunia/rb1/item/1-1714-black-gel-feeler.html) (Material)<br />40%: [High Heal Dogoo](/neptunia/rb1/monster/1-151-high-heal-dogoo.html) | 9 | 0 | 9 |
-| <input type="checkbox" id="rb1-item-1-1761" class="trackbox" /> | 1761 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Radish Leaf](/neptunia/rb1/item/1-1761-radish-leaf.html) (Material)<br />40%: [Radisher](/neptunia/rb1/monster/1-150-radisher.html) | 14 | 3 | 17 |
-| <input type="checkbox" id="rb1-item-1-1771" class="trackbox" /> | 1771 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Horsebird Feather](/neptunia/rb1/item/1-1771-horsebird-feather.html) (Material)<br />40%: [Horsebird](/neptunia/rb1/monster/1-154-horsebird.html) | 7 | 0 | 7 |
-| <input type="checkbox" id="rb1-item-1-1777" class="trackbox" /> | 1777 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Wolf Pelt](/neptunia/rb1/item/1-1777-wolf-pelt.html) (Material)<br />40%: [Wolf](/neptunia/rb1/monster/1-152-wolf.html) | 5 | 0 | 5 |
-| <input type="checkbox" id="rb1-item-1-1804" class="trackbox" /> | 1804 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Magical Wolf Claw](/neptunia/rb1/item/1-1804-magical-wolf-claw.html) (Material)<br />55%: [Fenrir Wolf](/neptunia/rb1/monster/1-158-fenrir-wolf.html) | 2 | 0 | 2 |
-| <input type="checkbox" id="rb1-item-1-1844" class="trackbox" /> | 1844 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Big Butterfly Wing](/neptunia/rb1/item/1-1844-big-butterfly-wing.html) (Material)<br />40%: [Swallowtail](/neptunia/rb1/monster/1-156-swallowtail.html) | 7 | 0 | 7 |
-| <input type="checkbox" id="rb1-item-1-3242" class="trackbox" /> | 3242 | [Base](/neptunia/rb1/dungeon/1-base.html) | [White Cat Ears](/neptunia/rb1/item/1-3242-white-cat-ears.html) (Accessory)<br />15%: [Swallowtail](/neptunia/rb1/monster/1-156-swallowtail.html) | 1 | 0 | 1 |
-| <input type="checkbox" id="rb1-item-1-3556" class="trackbox" /> | 3556 | [Base](/neptunia/rb1/dungeon/1-base.html) | [White Cat Ears](/neptunia/rb1/item/1-3556-white-cat-ears.html) (Accessory)<br />15%: [Radisher](/neptunia/rb1/monster/1-150-radisher.html) | 0 | 0 | 0 |
-| <input type="checkbox" id="rb1-item-1-4429" class="trackbox" /> | 4429 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Wind W](/neptunia/rb1/item/1-4429-wind-w.html) (Processor (W))<br />75%: [Fenrir Wolf](/neptunia/rb1/monster/1-158-fenrir-wolf.html) | 0 | 0 | 0 |
 
 ### Tough enemies enabled
 
+|    | ID | DLC | Name | Sells for | Remakes¹ | Quests² | Total |
+| -- | -- | --- | ---- | --------- | -------- | ------- | ----: |
+| <input type="checkbox" id="rb1-item-1-1704" class="trackbox" /> | 1704 | [Base](/neptunia/rb1/dlc/1-base.html) | [Prime Cut Dogoo](/neptunia/rb1/item/1-1704-prime-cut-dogoo.html) (Material)<br />65%: [Obese Dogoo](/neptunia/rb1/monster/1-159-obese-dogoo.html) | 300 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb1-item-1-1714" class="trackbox" /> | 1714 | [Base](/neptunia/rb1/dlc/1-base.html) | [Black Gel Feeler](/neptunia/rb1/item/1-1714-black-gel-feeler.html) (Material)<br />40%: [High Heal Dogoo](/neptunia/rb1/monster/1-151-high-heal-dogoo.html) | 106 | 9 | 0 | 9 |
+| <input type="checkbox" id="rb1-item-1-1761" class="trackbox" /> | 1761 | [Base](/neptunia/rb1/dlc/1-base.html) | [Radish Leaf](/neptunia/rb1/item/1-1761-radish-leaf.html) (Material)<br />40%: [Radisher](/neptunia/rb1/monster/1-150-radisher.html) | 30 | 14 | 3 | 17 |
+| <input type="checkbox" id="rb1-item-1-1771" class="trackbox" /> | 1771 | [Base](/neptunia/rb1/dlc/1-base.html) | [Horsebird Feather](/neptunia/rb1/item/1-1771-horsebird-feather.html) (Material)<br />40%: [Horsebird](/neptunia/rb1/monster/1-154-horsebird.html) | 88 | 7 | 0 | 7 |
+| <input type="checkbox" id="rb1-item-1-1777" class="trackbox" /> | 1777 | [Base](/neptunia/rb1/dlc/1-base.html) | [Wolf Pelt](/neptunia/rb1/item/1-1777-wolf-pelt.html) (Material)<br />40%: [Wolf](/neptunia/rb1/monster/1-152-wolf.html) | 110 | 5 | 0 | 5 |
+| <input type="checkbox" id="rb1-item-1-1824" class="trackbox" /> | 1824 | [Base](/neptunia/rb1/dlc/1-base.html) | [Guitar Controller](/neptunia/rb1/item/1-1824-guitar-controller.html) (Material)<br />70%: [Judge's Disciple](/neptunia/rb1/monster/1-160-judges-disciple.html) | 1269 | 2 | 1 | 3 |
+| <input type="checkbox" id="rb1-item-1-1844" class="trackbox" /> | 1844 | [Base](/neptunia/rb1/dlc/1-base.html) | [Big Butterfly Wing](/neptunia/rb1/item/1-1844-big-butterfly-wing.html) (Material)<br />40%: [Swallowtail](/neptunia/rb1/monster/1-156-swallowtail.html) | 42 | 7 | 0 | 7 |
+| <input type="checkbox" id="rb1-item-1-3242" class="trackbox" /> | 3242 | [Base](/neptunia/rb1/dlc/1-base.html) | [White Cat Ears](/neptunia/rb1/item/1-3242-white-cat-ears.html) (Accessory)<br />15%: [Swallowtail](/neptunia/rb1/monster/1-156-swallowtail.html) | 500 | 1 | 0 | 1 |
+| <input type="checkbox" id="rb1-item-1-3556" class="trackbox" /> | 3556 | [Base](/neptunia/rb1/dlc/1-base.html) | [White Cat Ears](/neptunia/rb1/item/1-3556-white-cat-ears.html) (Accessory)<br />15%: [Radisher](/neptunia/rb1/monster/1-150-radisher.html) | 500 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb1-item-1-4393" class="trackbox" /> | 4393 | [Base](/neptunia/rb1/dlc/1-base.html) | [Maid W](/neptunia/rb1/item/1-4393-maid-w.html) (Processor (W))<br />75%: [Judge's Disciple](/neptunia/rb1/monster/1-160-judges-disciple.html) | 500 | 0 | 0 | 0 |
 
-|    | ID | DLC | Name | Remakes¹ | Quests² | Total |
-| -- | -- | --- | ---- | -------- | ------- | ----: |
-| <input type="checkbox" id="rb1-item-1-1704" class="trackbox" /> | 1704 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Prime Cut Dogoo](/neptunia/rb1/item/1-1704-prime-cut-dogoo.html) (Material)<br />65%: [Obese Dogoo](/neptunia/rb1/monster/1-159-obese-dogoo.html) | 0 | 0 | 0 |
-| <input type="checkbox" id="rb1-item-1-1714" class="trackbox" /> | 1714 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Black Gel Feeler](/neptunia/rb1/item/1-1714-black-gel-feeler.html) (Material)<br />40%: [High Heal Dogoo](/neptunia/rb1/monster/1-151-high-heal-dogoo.html) | 9 | 0 | 9 |
-| <input type="checkbox" id="rb1-item-1-1761" class="trackbox" /> | 1761 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Radish Leaf](/neptunia/rb1/item/1-1761-radish-leaf.html) (Material)<br />40%: [Radisher](/neptunia/rb1/monster/1-150-radisher.html) | 14 | 3 | 17 |
-| <input type="checkbox" id="rb1-item-1-1771" class="trackbox" /> | 1771 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Horsebird Feather](/neptunia/rb1/item/1-1771-horsebird-feather.html) (Material)<br />40%: [Horsebird](/neptunia/rb1/monster/1-154-horsebird.html) | 7 | 0 | 7 |
-| <input type="checkbox" id="rb1-item-1-1777" class="trackbox" /> | 1777 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Wolf Pelt](/neptunia/rb1/item/1-1777-wolf-pelt.html) (Material)<br />40%: [Wolf](/neptunia/rb1/monster/1-152-wolf.html) | 5 | 0 | 5 |
-| <input type="checkbox" id="rb1-item-1-1824" class="trackbox" /> | 1824 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Guitar Controller](/neptunia/rb1/item/1-1824-guitar-controller.html) (Material)<br />70%: [Judge's Disciple](/neptunia/rb1/monster/1-160-judges-disciple.html) | 2 | 1 | 3 |
-| <input type="checkbox" id="rb1-item-1-1844" class="trackbox" /> | 1844 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Big Butterfly Wing](/neptunia/rb1/item/1-1844-big-butterfly-wing.html) (Material)<br />40%: [Swallowtail](/neptunia/rb1/monster/1-156-swallowtail.html) | 7 | 0 | 7 |
-| <input type="checkbox" id="rb1-item-1-3242" class="trackbox" /> | 3242 | [Base](/neptunia/rb1/dungeon/1-base.html) | [White Cat Ears](/neptunia/rb1/item/1-3242-white-cat-ears.html) (Accessory)<br />15%: [Swallowtail](/neptunia/rb1/monster/1-156-swallowtail.html) | 1 | 0 | 1 |
-| <input type="checkbox" id="rb1-item-1-3556" class="trackbox" /> | 3556 | [Base](/neptunia/rb1/dungeon/1-base.html) | [White Cat Ears](/neptunia/rb1/item/1-3556-white-cat-ears.html) (Accessory)<br />15%: [Radisher](/neptunia/rb1/monster/1-150-radisher.html) | 0 | 0 | 0 |
-| <input type="checkbox" id="rb1-item-1-4393" class="trackbox" /> | 4393 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Maid W](/neptunia/rb1/item/1-4393-maid-w.html) (Processor (W))<br />75%: [Judge's Disciple](/neptunia/rb1/monster/1-160-judges-disciple.html) | 0 | 0 | 0 |
 
 
 

@@ -13,12 +13,12 @@ title: Virus Immunity (Ability) - Hyperdimension Neptunia Re;Birth1
 
 |   |   |
 | -- | -- |
-| **ID** | 9552
-**DLC** | [Base](/neptunia/rb1/dlc/1-base.html)
-**Name** | Virus Immunity
-**Required Lily level** | N/A
-**Description** | Virus Immunity
-**Effects** | Gives Virus Immunity |
+| **ID** | 9552 |
+| **DLC** | [Base](/neptunia/rb1/dlc/1-base.html) |
+| **Name** | Virus Immunity |
+| **Required Lily level** | N/A |
+| **Description** | Virus Immunity |
+| **Effects** | Gives Virus Immunity |
 
 
 ## Idea Chips which have Virus Immunity as ability (1)

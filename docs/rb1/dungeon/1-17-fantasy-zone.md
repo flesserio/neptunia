@@ -14,16 +14,16 @@ title: Fantasy Zone (Dungeon) - Hyperdimension Neptunia Re;Birth1
 
 ## Basic information
 
-
-|    |    |
+|   |   |
 | -- | -- |
 | **ID** | 17 |
-| **DLC** | [Base](/neptunia/rb1/dungeon/1-base.html) |
+| **DLC** | [Base](/neptunia/rb1/dlc/1-base.html) |
 | **Name** | Fantasy Zone |
 | **Item Change available?** | Yes |
 | **Add Enemies available?** | Yes |
 | **Add Super Enemies available?** | No |
-| **To unlock dungeon**| View scene [Chapter 6: Hidden Dungeon Found!](/neptunia/rb1/scene/1-609-chapter-6-hidden-dungeon-found.html) |
+| **To unlock dungeon** | View scene [Chapter 6: Hidden Dungeon Found!](/neptunia/rb1/scene/1-609-chapter-6-hidden-dungeon-found.html) |
+
 
 ## Items found in Fantasy Zone from gathering points
 
@@ -31,48 +31,48 @@ See [gathering point tables](#gathering-point-tables-for-fantasy-zone) for more 
 
 ### From normal gathering points
 
+|    | ID | DLC | Name | Sells for | Remakes¹ | Quests² | Total |
+| -- | -- | --- | ---- | --------- | -------- | ------- | ----: |
+| <input type="checkbox" id="rb1-item-1-1628" class="trackbox" /> | 1628 | [Base](/neptunia/rb1/dlc/1-base.html) | [Erde Crystal](/neptunia/rb1/item/1-1628-erde-crystal.html) (Material) | 450 | 15 | 0 | 15 |
+| <input type="checkbox" id="rb1-item-1-1631" class="trackbox" /> | 1631 | [Base](/neptunia/rb1/dlc/1-base.html) | [LING PCB](/neptunia/rb1/item/1-1631-ling-pcb.html) (Material) | 450 | 2 | 0 | 2 |
+| <input type="checkbox" id="rb1-item-1-1718" class="trackbox" /> | 1718 | [Base](/neptunia/rb1/dlc/1-base.html) | [Nice Antenna](/neptunia/rb1/item/1-1718-nice-antenna.html) (Material) | 44 | 5 | 0 | 5 |
+| <input type="checkbox" id="rb1-item-1-1722" class="trackbox" /> | 1722 | [Base](/neptunia/rb1/dlc/1-base.html) | [Yellow Block](/neptunia/rb1/item/1-1722-yellow-block.html) (Material) | 97 | 3 | 0 | 3 |
+| <input type="checkbox" id="rb1-item-1-1726" class="trackbox" /> | 1726 | [Base](/neptunia/rb1/dlc/1-base.html) | [Red Earth Pipe](/neptunia/rb1/item/1-1726-red-earth-pipe.html) (Material) | 208 | 6 | 0 | 6 |
+| <input type="checkbox" id="rb1-item-1-1846" class="trackbox" /> | 1846 | [Base](/neptunia/rb1/dlc/1-base.html) | [Electric Wing](/neptunia/rb1/item/1-1846-electric-wing.html) (Material) | 161 | 39 | 0 | 39 |
+| <input type="checkbox" id="rb1-item-1-1877" class="trackbox" /> | 1877 | [Base](/neptunia/rb1/dlc/1-base.html) | [Hell's Mane](/neptunia/rb1/item/1-1877-hells-mane.html) (Material) | 2370 | 3 | 0 | 3 |
 
-|    | ID | DLC | Name | Remakes¹ | Quests² | Total |
-| -- | -- | --- | ---- | -------- | ------- | ----: |
-| <input type="checkbox" id="rb1-item-1-1628" class="trackbox" /> | 1628 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Erde Crystal](/neptunia/rb1/item/1-1628-erde-crystal.html) (Material) | 15 | 0 | 15 |
-| <input type="checkbox" id="rb1-item-1-1631" class="trackbox" /> | 1631 | [Base](/neptunia/rb1/dungeon/1-base.html) | [LING PCB](/neptunia/rb1/item/1-1631-ling-pcb.html) (Material) | 2 | 0 | 2 |
-| <input type="checkbox" id="rb1-item-1-1718" class="trackbox" /> | 1718 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Nice Antenna](/neptunia/rb1/item/1-1718-nice-antenna.html) (Material) | 5 | 0 | 5 |
-| <input type="checkbox" id="rb1-item-1-1722" class="trackbox" /> | 1722 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Yellow Block](/neptunia/rb1/item/1-1722-yellow-block.html) (Material) | 3 | 0 | 3 |
-| <input type="checkbox" id="rb1-item-1-1726" class="trackbox" /> | 1726 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Red Earth Pipe](/neptunia/rb1/item/1-1726-red-earth-pipe.html) (Material) | 6 | 0 | 6 |
-| <input type="checkbox" id="rb1-item-1-1846" class="trackbox" /> | 1846 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Electric Wing](/neptunia/rb1/item/1-1846-electric-wing.html) (Material) | 39 | 0 | 39 |
-| <input type="checkbox" id="rb1-item-1-1877" class="trackbox" /> | 1877 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Hell's Mane](/neptunia/rb1/item/1-1877-hells-mane.html) (Material) | 3 | 0 | 3 |
 
 ### From Harvest Shift gathering points
 
+|    | ID | DLC | Name | Sells for | Remakes¹ | Quests² | Total |
+| -- | -- | --- | ---- | --------- | -------- | ------- | ----: |
+| <input type="checkbox" id="rb1-item-1-1628" class="trackbox" /> | 1628 | [Base](/neptunia/rb1/dlc/1-base.html) | [Erde Crystal](/neptunia/rb1/item/1-1628-erde-crystal.html) (Material) | 450 | 15 | 0 | 15 |
+| <input type="checkbox" id="rb1-item-1-1631" class="trackbox" /> | 1631 | [Base](/neptunia/rb1/dlc/1-base.html) | [LING PCB](/neptunia/rb1/item/1-1631-ling-pcb.html) (Material) | 450 | 2 | 0 | 2 |
+| <input type="checkbox" id="rb1-item-1-5005" class="trackbox" /> | 5005 | [Base](/neptunia/rb1/dlc/1-base.html) | [Strategic Smarts](/neptunia/rb1/item/1-5005-strategic-smarts.html) (Idea Chip (Yellow)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb1-item-1-5141" class="trackbox" /> | 5141 | [Base](/neptunia/rb1/dlc/1-base.html) | [Core User-oriented](/neptunia/rb1/item/1-5141-core-user-oriented.html) (Idea Chip (Red)) | 10 | 0 | 0 | 0 |
 
-|    | ID | DLC | Name | Remakes¹ | Quests² | Total |
-| -- | -- | --- | ---- | -------- | ------- | ----: |
-| <input type="checkbox" id="rb1-item-1-1628" class="trackbox" /> | 1628 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Erde Crystal](/neptunia/rb1/item/1-1628-erde-crystal.html) (Material) | 15 | 0 | 15 |
-| <input type="checkbox" id="rb1-item-1-1631" class="trackbox" /> | 1631 | [Base](/neptunia/rb1/dungeon/1-base.html) | [LING PCB](/neptunia/rb1/item/1-1631-ling-pcb.html) (Material) | 2 | 0 | 2 |
-| <input type="checkbox" id="rb1-item-1-5005" class="trackbox" /> | 5005 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Strategic Smarts](/neptunia/rb1/item/1-5005-strategic-smarts.html) (Idea Chip (Yellow)) | 0 | 0 | 0 |
-| <input type="checkbox" id="rb1-item-1-5141" class="trackbox" /> | 5141 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Core User-oriented](/neptunia/rb1/item/1-5141-core-user-oriented.html) (Idea Chip (Red)) | 0 | 0 | 0 |
 
 ### From treasure gathering points
 
+|    | ID | DLC | Name | Sells for | Remakes¹ | Quests² | Total |
+| -- | -- | --- | ---- | --------- | -------- | ------- | ----: |
+| <input type="checkbox" id="rb1-item-1-15" class="trackbox" /> | 15 | [Base](/neptunia/rb1/dlc/1-base.html) | [P. SP Charger](/neptunia/rb1/item/1-15-p-sp-charger.html) (Tool) | 1300 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb1-item-1-39" class="trackbox" /> | 39 | [Base](/neptunia/rb1/dlc/1-base.html) | [Life Fragment](/neptunia/rb1/item/1-39-life-fragment.html) (Tool) | 100 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb1-item-1-439" class="trackbox" /> | 439 | [Base](/neptunia/rb1/dlc/1-base.html) | [Plan: Real Angel Wings](/neptunia/rb1/item/1-439-plan-real-angel-wings.html) (Plan) | 0 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb1-item-1-2111" class="trackbox" /> | 2111 | [Base](/neptunia/rb1/dlc/1-base.html) | [Strike Lancer](/neptunia/rb1/item/1-2111-strike-lancer.html) (Spear (Vert)) | 4000 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb1-item-1-2309" class="trackbox" /> | 2309 | [Base](/neptunia/rb1/dlc/1-base.html) | [Freak Diamond](/neptunia/rb1/item/1-2309-freak-diamond.html) (Qatar (IF)) | 3900 | 0 | 0 | 0 |
 
-|    | ID | DLC | Name | Remakes¹ | Quests² | Total |
-| -- | -- | --- | ---- | -------- | ------- | ----: |
-| <input type="checkbox" id="rb1-item-1-15" class="trackbox" /> | 15 | [Base](/neptunia/rb1/dungeon/1-base.html) | [P. SP Charger](/neptunia/rb1/item/1-15-p-sp-charger.html) (Tool) | 0 | 0 | 0 |
-| <input type="checkbox" id="rb1-item-1-39" class="trackbox" /> | 39 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Life Fragment](/neptunia/rb1/item/1-39-life-fragment.html) (Tool) | 0 | 0 | 0 |
-| <input type="checkbox" id="rb1-item-1-439" class="trackbox" /> | 439 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Plan: Real Angel Wings](/neptunia/rb1/item/1-439-plan-real-angel-wings.html) (Plan) | 0 | 0 | 0 |
-| <input type="checkbox" id="rb1-item-1-2111" class="trackbox" /> | 2111 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Strike Lancer](/neptunia/rb1/item/1-2111-strike-lancer.html) (Spear (Vert)) | 0 | 0 | 0 |
-| <input type="checkbox" id="rb1-item-1-2309" class="trackbox" /> | 2309 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Freak Diamond](/neptunia/rb1/item/1-2309-freak-diamond.html) (Qatar (IF)) | 0 | 0 | 0 |
 
 ### From hidden treasure gathering points
 
+|    | ID | DLC | Name | Sells for | Remakes¹ | Quests² | Total |
+| -- | -- | --- | ---- | --------- | -------- | ------- | ----: |
+| <input type="checkbox" id="rb1-item-1-39" class="trackbox" /> | 39 | [Base](/neptunia/rb1/dlc/1-base.html) | [Life Fragment](/neptunia/rb1/item/1-39-life-fragment.html) (Tool) | 100 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb1-item-1-1937" class="trackbox" /> | 1937 | [Base](/neptunia/rb1/dlc/1-base.html) | [Red Pigment](/neptunia/rb1/item/1-1937-red-pigment.html) (Material) | 50 | 58 | 0 | 58 |
+| <input type="checkbox" id="rb1-item-1-1938" class="trackbox" /> | 1938 | [Base](/neptunia/rb1/dlc/1-base.html) | [Blue Pigment](/neptunia/rb1/item/1-1938-blue-pigment.html) (Material) | 50 | 59 | 0 | 59 |
+| <input type="checkbox" id="rb1-item-1-3594" class="trackbox" /> | 3594 | [Base](/neptunia/rb1/dlc/1-base.html) | [Shinobi Ribbon](/neptunia/rb1/item/1-3594-shinobi-ribbon.html) (Accessory) | 500 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb1-item-1-5081" class="trackbox" /> | 5081 | [Base](/neptunia/rb1/dlc/1-base.html) | [Super Deformed](/neptunia/rb1/item/1-5081-super-deformed.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
 
-|    | ID | DLC | Name | Remakes¹ | Quests² | Total |
-| -- | -- | --- | ---- | -------- | ------- | ----: |
-| <input type="checkbox" id="rb1-item-1-39" class="trackbox" /> | 39 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Life Fragment](/neptunia/rb1/item/1-39-life-fragment.html) (Tool) | 0 | 0 | 0 |
-| <input type="checkbox" id="rb1-item-1-1937" class="trackbox" /> | 1937 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Red Pigment](/neptunia/rb1/item/1-1937-red-pigment.html) (Material) | 58 | 0 | 58 |
-| <input type="checkbox" id="rb1-item-1-1938" class="trackbox" /> | 1938 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Blue Pigment](/neptunia/rb1/item/1-1938-blue-pigment.html) (Material) | 59 | 0 | 59 |
-| <input type="checkbox" id="rb1-item-1-3594" class="trackbox" /> | 3594 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Shinobi Ribbon](/neptunia/rb1/item/1-3594-shinobi-ribbon.html) (Accessory) | 0 | 0 | 0 |
-| <input type="checkbox" id="rb1-item-1-5081" class="trackbox" /> | 5081 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Super Deformed](/neptunia/rb1/item/1-5081-super-deformed.html) (Idea Chip (Blue)) | 0 | 0 | 0 |
 
 ¹ Total amount needed for Remake System recipes.<br />² Total amount needed to complete quests at least once.
 
@@ -81,28 +81,28 @@ See [gathering point tables](#gathering-point-tables-for-fantasy-zone) for more 
 
 ### Standard enemies
 
+|    | ID | DLC | Name | Sells for | Remakes¹ | Quests² | Total |
+| -- | -- | --- | ---- | --------- | -------- | ------- | ----: |
+| <input type="checkbox" id="rb1-item-1-1718" class="trackbox" /> | 1718 | [Base](/neptunia/rb1/dlc/1-base.html) | [Nice Antenna](/neptunia/rb1/item/1-1718-nice-antenna.html) (Material)<br />40%: [Malvader](/neptunia/rb1/monster/1-195-malvader.html) | 44 | 5 | 0 | 5 |
+| <input type="checkbox" id="rb1-item-1-1722" class="trackbox" /> | 1722 | [Base](/neptunia/rb1/dlc/1-base.html) | [Yellow Block](/neptunia/rb1/item/1-1722-yellow-block.html) (Material)<br />40%: [Testri](/neptunia/rb1/monster/1-194-testri.html) | 97 | 3 | 0 | 3 |
+| <input type="checkbox" id="rb1-item-1-1726" class="trackbox" /> | 1726 | [Base](/neptunia/rb1/dlc/1-base.html) | [Red Earth Pipe](/neptunia/rb1/item/1-1726-red-earth-pipe.html) (Material)<br />40%: [Plom-met](/neptunia/rb1/monster/1-193-plom-met.html) | 208 | 6 | 0 | 6 |
+| <input type="checkbox" id="rb1-item-1-1846" class="trackbox" /> | 1846 | [Base](/neptunia/rb1/dlc/1-base.html) | [Electric Wing](/neptunia/rb1/item/1-1846-electric-wing.html) (Material)<br />40%: [Cyberfly](/neptunia/rb1/monster/1-196-cyberfly.html) | 161 | 39 | 0 | 39 |
+| <input type="checkbox" id="rb1-item-1-1877" class="trackbox" /> | 1877 | [Base](/neptunia/rb1/dlc/1-base.html) | [Hell's Mane](/neptunia/rb1/item/1-1877-hells-mane.html) (Material)<br />55%: [Cerberus](/neptunia/rb1/monster/1-198-cerberus.html) | 2370 | 3 | 0 | 3 |
+| <input type="checkbox" id="rb1-item-1-3592" class="trackbox" /> | 3592 | [Base](/neptunia/rb1/dlc/1-base.html) | [Busted Headphones](/neptunia/rb1/item/1-3592-busted-headphones.html) (Accessory)<br />75%: [Cerberus](/neptunia/rb1/monster/1-198-cerberus.html) | 500 | 0 | 0 | 0 |
 
-|    | ID | DLC | Name | Remakes¹ | Quests² | Total |
-| -- | -- | --- | ---- | -------- | ------- | ----: |
-| <input type="checkbox" id="rb1-item-1-1718" class="trackbox" /> | 1718 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Nice Antenna](/neptunia/rb1/item/1-1718-nice-antenna.html) (Material)<br />40%: [Malvader](/neptunia/rb1/monster/1-195-malvader.html) | 5 | 0 | 5 |
-| <input type="checkbox" id="rb1-item-1-1722" class="trackbox" /> | 1722 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Yellow Block](/neptunia/rb1/item/1-1722-yellow-block.html) (Material)<br />40%: [Testri](/neptunia/rb1/monster/1-194-testri.html) | 3 | 0 | 3 |
-| <input type="checkbox" id="rb1-item-1-1726" class="trackbox" /> | 1726 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Red Earth Pipe](/neptunia/rb1/item/1-1726-red-earth-pipe.html) (Material)<br />40%: [Plom-met](/neptunia/rb1/monster/1-193-plom-met.html) | 6 | 0 | 6 |
-| <input type="checkbox" id="rb1-item-1-1846" class="trackbox" /> | 1846 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Electric Wing](/neptunia/rb1/item/1-1846-electric-wing.html) (Material)<br />40%: [Cyberfly](/neptunia/rb1/monster/1-196-cyberfly.html) | 39 | 0 | 39 |
-| <input type="checkbox" id="rb1-item-1-1877" class="trackbox" /> | 1877 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Hell's Mane](/neptunia/rb1/item/1-1877-hells-mane.html) (Material)<br />55%: [Cerberus](/neptunia/rb1/monster/1-198-cerberus.html) | 3 | 0 | 3 |
-| <input type="checkbox" id="rb1-item-1-3592" class="trackbox" /> | 3592 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Busted Headphones](/neptunia/rb1/item/1-3592-busted-headphones.html) (Accessory)<br />75%: [Cerberus](/neptunia/rb1/monster/1-198-cerberus.html) | 0 | 0 | 0 |
 
 ### Tough enemies enabled
 
+|    | ID | DLC | Name | Sells for | Remakes¹ | Quests² | Total |
+| -- | -- | --- | ---- | --------- | -------- | ------- | ----: |
+| <input type="checkbox" id="rb1-item-1-225" class="trackbox" /> | 225 | [Base](/neptunia/rb1/dlc/1-base.html) | [Large Medal O](/neptunia/rb1/item/1-225-large-medal-o.html) (Key Item)<br />100%: [Viral Mareshimono](/neptunia/rb1/monster/1-200-viral-mareshimono.html) | 0 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb1-item-1-1718" class="trackbox" /> | 1718 | [Base](/neptunia/rb1/dlc/1-base.html) | [Nice Antenna](/neptunia/rb1/item/1-1718-nice-antenna.html) (Material)<br />40%: [Malvader](/neptunia/rb1/monster/1-195-malvader.html) | 44 | 5 | 0 | 5 |
+| <input type="checkbox" id="rb1-item-1-1722" class="trackbox" /> | 1722 | [Base](/neptunia/rb1/dlc/1-base.html) | [Yellow Block](/neptunia/rb1/item/1-1722-yellow-block.html) (Material)<br />40%: [Testri](/neptunia/rb1/monster/1-194-testri.html) | 97 | 3 | 0 | 3 |
+| <input type="checkbox" id="rb1-item-1-1726" class="trackbox" /> | 1726 | [Base](/neptunia/rb1/dlc/1-base.html) | [Red Earth Pipe](/neptunia/rb1/item/1-1726-red-earth-pipe.html) (Material)<br />40%: [Plom-met](/neptunia/rb1/monster/1-193-plom-met.html) | 208 | 6 | 0 | 6 |
+| <input type="checkbox" id="rb1-item-1-1846" class="trackbox" /> | 1846 | [Base](/neptunia/rb1/dlc/1-base.html) | [Electric Wing](/neptunia/rb1/item/1-1846-electric-wing.html) (Material)<br />40%: [Cyberfly](/neptunia/rb1/monster/1-196-cyberfly.html) | 161 | 39 | 0 | 39 |
+| <input type="checkbox" id="rb1-item-1-4394" class="trackbox" /> | 4394 | [Base](/neptunia/rb1/dlc/1-base.html) | [Maid B](/neptunia/rb1/item/1-4394-maid-b.html) (Processor (B))<br />45%: [Viral Mareshimono](/neptunia/rb1/monster/1-200-viral-mareshimono.html) | 500 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb1-item-1-5177" class="trackbox" /> | 5177 | [Base](/neptunia/rb1/dlc/1-base.html) | [Death is The End](/neptunia/rb1/item/1-5177-death-is-the-end.html) (Idea Chip (Red))<br />65%: [Cyber Whale](/neptunia/rb1/monster/1-199-cyber-whale.html) | 10 | 0 | 0 | 0 |
 
-|    | ID | DLC | Name | Remakes¹ | Quests² | Total |
-| -- | -- | --- | ---- | -------- | ------- | ----: |
-| <input type="checkbox" id="rb1-item-1-225" class="trackbox" /> | 225 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Large Medal O](/neptunia/rb1/item/1-225-large-medal-o.html) (Key Item)<br />100%: [Viral Mareshimono](/neptunia/rb1/monster/1-200-viral-mareshimono.html) | 0 | 0 | 0 |
-| <input type="checkbox" id="rb1-item-1-1718" class="trackbox" /> | 1718 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Nice Antenna](/neptunia/rb1/item/1-1718-nice-antenna.html) (Material)<br />40%: [Malvader](/neptunia/rb1/monster/1-195-malvader.html) | 5 | 0 | 5 |
-| <input type="checkbox" id="rb1-item-1-1722" class="trackbox" /> | 1722 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Yellow Block](/neptunia/rb1/item/1-1722-yellow-block.html) (Material)<br />40%: [Testri](/neptunia/rb1/monster/1-194-testri.html) | 3 | 0 | 3 |
-| <input type="checkbox" id="rb1-item-1-1726" class="trackbox" /> | 1726 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Red Earth Pipe](/neptunia/rb1/item/1-1726-red-earth-pipe.html) (Material)<br />40%: [Plom-met](/neptunia/rb1/monster/1-193-plom-met.html) | 6 | 0 | 6 |
-| <input type="checkbox" id="rb1-item-1-1846" class="trackbox" /> | 1846 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Electric Wing](/neptunia/rb1/item/1-1846-electric-wing.html) (Material)<br />40%: [Cyberfly](/neptunia/rb1/monster/1-196-cyberfly.html) | 39 | 0 | 39 |
-| <input type="checkbox" id="rb1-item-1-4394" class="trackbox" /> | 4394 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Maid B](/neptunia/rb1/item/1-4394-maid-b.html) (Processor (B))<br />45%: [Viral Mareshimono](/neptunia/rb1/monster/1-200-viral-mareshimono.html) | 0 | 0 | 0 |
-| <input type="checkbox" id="rb1-item-1-5177" class="trackbox" /> | 5177 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Death is The End](/neptunia/rb1/item/1-5177-death-is-the-end.html) (Idea Chip (Red))<br />65%: [Cyber Whale](/neptunia/rb1/monster/1-199-cyber-whale.html) | 0 | 0 | 0 |
 
 
 

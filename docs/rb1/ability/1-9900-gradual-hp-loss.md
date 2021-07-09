@@ -13,12 +13,12 @@ title: Gradual HP Loss (Ability) - Hyperdimension Neptunia Re;Birth1
 
 |   |   |
 | -- | -- |
-| **ID** | 9900
-**DLC** | [Base](/neptunia/rb1/dlc/1-base.html)
-**Name** | Gradual HP Loss
-**Required Lily level** | N/A
-**Description** | 
-**Effects** | Decreases HP Recovery Per Turn by 10% |
+| **ID** | 9900 |
+| **DLC** | [Base](/neptunia/rb1/dlc/1-base.html) |
+| **Name** | Gradual HP Loss |
+| **Required Lily level** | N/A |
+| **Description** |  |
+| **Effects** | Decreases HP Recovery Per Turn by 10% |
 
 
 ## Idea Chip disc combinations which grant Gradual HP Loss (1)

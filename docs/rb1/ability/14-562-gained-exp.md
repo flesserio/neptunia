@@ -13,12 +13,12 @@ title: Gained EXP ＋ (Ability) - Hyperdimension Neptunia Re;Birth1
 
 |   |   |
 | -- | -- |
-| **ID** | 562
-**DLC** | [Additional Content Pack 5](/neptunia/rb1/dlc/14-pack5.html)
-**Name** | Gained EXP ＋
-**Required Lily level** | 3
-**Description** | Gained EXP ＋
-**Effects** | Increases Gained XP by 25% |
+| **ID** | 562 |
+| **DLC** | [Additional Content Pack 5](/neptunia/rb1/dlc/14-pack5.html) |
+| **Name** | Gained EXP ＋ |
+| **Required Lily level** | 3 |
+| **Description** | Gained EXP ＋ |
+| **Effects** | Increases Gained XP by 25% |
 
 
 ## Player characters who have Gained EXP ＋ as a Lily effect (2)

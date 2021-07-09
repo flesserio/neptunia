@@ -13,12 +13,12 @@ title: Add Paralysis Lv.4 (Ability) - Hyperdimension Neptunia Re;Birth1
 
 |   |   |
 | -- | -- |
-| **ID** | 9548
-**DLC** | [Base](/neptunia/rb1/dlc/1-base.html)
-**Name** | Add Paralysis Lv.4
-**Required Lily level** | N/A
-**Description** | Add Paralysis
-**Effects** | Increases Add Paralysis by 16% |
+| **ID** | 9548 |
+| **DLC** | [Base](/neptunia/rb1/dlc/1-base.html) |
+| **Name** | Add Paralysis Lv.4 |
+| **Required Lily level** | N/A |
+| **Description** | Add Paralysis |
+| **Effects** | Increases Add Paralysis by 16% |
 
 
 ## Idea Chips which have Add Paralysis Lv.4 as ability (1)

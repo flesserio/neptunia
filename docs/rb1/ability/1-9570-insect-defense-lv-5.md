@@ -13,12 +13,12 @@ title: Insect Defense Lv.5 (Ability) - Hyperdimension Neptunia Re;Birth1
 
 |   |   |
 | -- | -- |
-| **ID** | 9570
-**DLC** | [Base](/neptunia/rb1/dlc/1-base.html)
-**Name** | Insect Defense Lv.5
-**Required Lily level** | N/A
-**Description** | Insect Foe Damage Down
-**Effects** | Increases Insect Defense by 30% |
+| **ID** | 9570 |
+| **DLC** | [Base](/neptunia/rb1/dlc/1-base.html) |
+| **Name** | Insect Defense Lv.5 |
+| **Required Lily level** | N/A |
+| **Description** | Insect Foe Damage Down |
+| **Effects** | Increases Insect Defense by 30% |
 
 
 ## Idea Chips which have Insect Defense Lv.5 as ability (1)

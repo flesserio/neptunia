@@ -13,12 +13,12 @@ title: Gradual SP Loss (Ability) - Hyperdimension Neptunia Re;Birth1
 
 |   |   |
 | -- | -- |
-| **ID** | 9905
-**DLC** | [Base](/neptunia/rb1/dlc/1-base.html)
-**Name** | Gradual SP Loss
-**Required Lily level** | N/A
-**Description** | 
-**Effects** | Decreases SP Recovery Per Turn by 10% |
+| **ID** | 9905 |
+| **DLC** | [Base](/neptunia/rb1/dlc/1-base.html) |
+| **Name** | Gradual SP Loss |
+| **Required Lily level** | N/A |
+| **Description** |  |
+| **Effects** | Decreases SP Recovery Per Turn by 10% |
 
 
 ## Idea Chip disc combinations which grant Gradual SP Loss (1)

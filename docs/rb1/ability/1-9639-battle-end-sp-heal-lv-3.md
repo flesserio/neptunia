@@ -13,12 +13,12 @@ title: Battle End SP Heal Lv.3 (Ability) - Hyperdimension Neptunia Re;Birth1
 
 |   |   |
 | -- | -- |
-| **ID** | 9639
-**DLC** | [Base](/neptunia/rb1/dlc/1-base.html)
-**Name** | Battle End SP Heal Lv.3
-**Required Lily level** | N/A
-**Description** | SP Restored After Battle
-**Effects** | Increases Battle End SP Heal by 6% |
+| **ID** | 9639 |
+| **DLC** | [Base](/neptunia/rb1/dlc/1-base.html) |
+| **Name** | Battle End SP Heal Lv.3 |
+| **Required Lily level** | N/A |
+| **Description** | SP Restored After Battle |
+| **Effects** | Increases Battle End SP Heal by 6% |
 
 
 ## Idea Chips which have Battle End SP Heal Lv.3 as ability (1)

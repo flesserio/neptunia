@@ -14,16 +14,16 @@ title: Zeca Ruins No.1 (Dungeon) - Hyperdimension Neptunia Re;Birth1
 
 ## Basic information
 
-
-|    |    |
+|   |   |
 | -- | -- |
 | **ID** | 101 |
-| **DLC** | [Base](/neptunia/rb1/dungeon/1-base.html) |
+| **DLC** | [Base](/neptunia/rb1/dlc/1-base.html) |
 | **Name** | Zeca Ruins No.1 |
 | **Item Change available?** | Yes |
 | **Add Enemies available?** | Yes |
 | **Add Super Enemies available?** | No |
-| **To unlock dungeon**| Have remake [Add Dungeon](/neptunia/rb1/scene/1-209-add-dungeon.html) developed |
+| **To unlock dungeon** | Have remake [Add Dungeon](/neptunia/rb1/remake/1-209-add-dungeon.html) developed |
+
 
 ## Items found in Zeca Ruins No.1 from gathering points
 
@@ -31,48 +31,48 @@ See [gathering point tables](#gathering-point-tables-for-zeca-ruins-no1) for mor
 
 ### From normal gathering points
 
+|    | ID | DLC | Name | Sells for | Remakes¹ | Quests² | Total |
+| -- | -- | --- | ---- | --------- | -------- | ------- | ----: |
+| <input type="checkbox" id="rb1-item-1-1601" class="trackbox" /> | 1601 | [Base](/neptunia/rb1/dlc/1-base.html) | [Herb](/neptunia/rb1/item/1-1601-herb.html) (Material) | 10 | 37 | 0 | 37 |
+| <input type="checkbox" id="rb1-item-1-1602" class="trackbox" /> | 1602 | [Base](/neptunia/rb1/dlc/1-base.html) | [Healing Grass](/neptunia/rb1/item/1-1602-healing-grass.html) (Material) | 25 | 25 | 0 | 25 |
+| <input type="checkbox" id="rb1-item-1-1603" class="trackbox" /> | 1603 | [Base](/neptunia/rb1/dlc/1-base.html) | [Night Moon Grass](/neptunia/rb1/item/1-1603-night-moon-grass.html) (Material) | 50 | 27 | 0 | 27 |
+| <input type="checkbox" id="rb1-item-1-1927" class="trackbox" /> | 1927 | [Base](/neptunia/rb1/dlc/1-base.html) | [Shampuru Ear](/neptunia/rb1/item/1-1927-shampuru-ear.html) (Material) | 12 | 11 | 0 | 11 |
 
-|    | ID | DLC | Name | Remakes¹ | Quests² | Total |
-| -- | -- | --- | ---- | -------- | ------- | ----: |
-| <input type="checkbox" id="rb1-item-1-1601" class="trackbox" /> | 1601 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Herb](/neptunia/rb1/item/1-1601-herb.html) (Material) | 37 | 0 | 37 |
-| <input type="checkbox" id="rb1-item-1-1602" class="trackbox" /> | 1602 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Healing Grass](/neptunia/rb1/item/1-1602-healing-grass.html) (Material) | 25 | 0 | 25 |
-| <input type="checkbox" id="rb1-item-1-1603" class="trackbox" /> | 1603 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Night Moon Grass](/neptunia/rb1/item/1-1603-night-moon-grass.html) (Material) | 27 | 0 | 27 |
-| <input type="checkbox" id="rb1-item-1-1927" class="trackbox" /> | 1927 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Shampuru Ear](/neptunia/rb1/item/1-1927-shampuru-ear.html) (Material) | 11 | 0 | 11 |
 
 ### From Harvest Shift gathering points
 
+|    | ID | DLC | Name | Sells for | Remakes¹ | Quests² | Total |
+| -- | -- | --- | ---- | --------- | -------- | ------- | ----: |
+| <input type="checkbox" id="rb1-item-1-1601" class="trackbox" /> | 1601 | [Base](/neptunia/rb1/dlc/1-base.html) | [Herb](/neptunia/rb1/item/1-1601-herb.html) (Material) | 10 | 37 | 0 | 37 |
+| <input type="checkbox" id="rb1-item-1-1602" class="trackbox" /> | 1602 | [Base](/neptunia/rb1/dlc/1-base.html) | [Healing Grass](/neptunia/rb1/item/1-1602-healing-grass.html) (Material) | 25 | 25 | 0 | 25 |
+| <input type="checkbox" id="rb1-item-1-1603" class="trackbox" /> | 1603 | [Base](/neptunia/rb1/dlc/1-base.html) | [Night Moon Grass](/neptunia/rb1/item/1-1603-night-moon-grass.html) (Material) | 50 | 27 | 0 | 27 |
+| <input type="checkbox" id="rb1-item-1-5041" class="trackbox" /> | 5041 | [Base](/neptunia/rb1/dlc/1-base.html) | [Simulation](/neptunia/rb1/item/1-5041-simulation.html) (Idea Chip (Yellow)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb1-item-1-5102" class="trackbox" /> | 5102 | [Base](/neptunia/rb1/dlc/1-base.html) | [Jump](/neptunia/rb1/item/1-5102-jump.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb1-item-1-5107" class="trackbox" /> | 5107 | [Base](/neptunia/rb1/dlc/1-base.html) | [Stupid Game](/neptunia/rb1/item/1-5107-stupid-game.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb1-item-1-5112" class="trackbox" /> | 5112 | [Base](/neptunia/rb1/dlc/1-base.html) | [Non-RPG Growth](/neptunia/rb1/item/1-5112-non-rpg-growth.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb1-item-1-5117" class="trackbox" /> | 5117 | [Base](/neptunia/rb1/dlc/1-base.html) | [Auto-map Dungeon](/neptunia/rb1/item/1-5117-auto-map-dungeon.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb1-item-1-5178" class="trackbox" /> | 5178 | [Base](/neptunia/rb1/dlc/1-base.html) | [Orthodox](/neptunia/rb1/item/1-5178-orthodox.html) (Idea Chip (Red)) | 10 | 0 | 0 | 0 |
 
-|    | ID | DLC | Name | Remakes¹ | Quests² | Total |
-| -- | -- | --- | ---- | -------- | ------- | ----: |
-| <input type="checkbox" id="rb1-item-1-1601" class="trackbox" /> | 1601 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Herb](/neptunia/rb1/item/1-1601-herb.html) (Material) | 37 | 0 | 37 |
-| <input type="checkbox" id="rb1-item-1-1602" class="trackbox" /> | 1602 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Healing Grass](/neptunia/rb1/item/1-1602-healing-grass.html) (Material) | 25 | 0 | 25 |
-| <input type="checkbox" id="rb1-item-1-1603" class="trackbox" /> | 1603 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Night Moon Grass](/neptunia/rb1/item/1-1603-night-moon-grass.html) (Material) | 27 | 0 | 27 |
-| <input type="checkbox" id="rb1-item-1-5041" class="trackbox" /> | 5041 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Simulation](/neptunia/rb1/item/1-5041-simulation.html) (Idea Chip (Yellow)) | 0 | 0 | 0 |
-| <input type="checkbox" id="rb1-item-1-5102" class="trackbox" /> | 5102 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Jump](/neptunia/rb1/item/1-5102-jump.html) (Idea Chip (Blue)) | 0 | 0 | 0 |
-| <input type="checkbox" id="rb1-item-1-5107" class="trackbox" /> | 5107 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Stupid Game](/neptunia/rb1/item/1-5107-stupid-game.html) (Idea Chip (Blue)) | 0 | 0 | 0 |
-| <input type="checkbox" id="rb1-item-1-5112" class="trackbox" /> | 5112 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Non-RPG Growth](/neptunia/rb1/item/1-5112-non-rpg-growth.html) (Idea Chip (Blue)) | 0 | 0 | 0 |
-| <input type="checkbox" id="rb1-item-1-5117" class="trackbox" /> | 5117 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Auto-map Dungeon](/neptunia/rb1/item/1-5117-auto-map-dungeon.html) (Idea Chip (Blue)) | 0 | 0 | 0 |
-| <input type="checkbox" id="rb1-item-1-5178" class="trackbox" /> | 5178 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Orthodox](/neptunia/rb1/item/1-5178-orthodox.html) (Idea Chip (Red)) | 0 | 0 | 0 |
 
 ### From treasure gathering points
 
+|    | ID | DLC | Name | Sells for | Remakes¹ | Quests² | Total |
+| -- | -- | --- | ---- | --------- | -------- | ------- | ----: |
+| <input type="checkbox" id="rb1-item-1-35" class="trackbox" /> | 35 | [Base](/neptunia/rb1/dlc/1-base.html) | [AGI Booster](/neptunia/rb1/item/1-35-agi-booster.html) (Tool) | 700 | 3 | 0 | 3 |
+| <input type="checkbox" id="rb1-item-1-560" class="trackbox" /> | 560 | [Base](/neptunia/rb1/dlc/1-base.html) | [Add Dungeon: Mechtro Factory](/neptunia/rb1/item/1-560-add-dungeon-mechtro-factory.html) (Plan) | 0 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb1-item-1-3028" class="trackbox" /> | 3028 | [Base](/neptunia/rb1/dlc/1-base.html) | [Elegant Crown](/neptunia/rb1/item/1-3028-elegant-crown.html) (Accessory) | 500 | 3 | 0 | 3 |
+| <input type="checkbox" id="rb1-item-1-5057" class="trackbox" /> | 5057 | [Base](/neptunia/rb1/dlc/1-base.html) | [Idol](/neptunia/rb1/item/1-5057-idol.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb1-item-1-5062" class="trackbox" /> | 5062 | [Base](/neptunia/rb1/dlc/1-base.html) | [Voice Actor](/neptunia/rb1/item/1-5062-voice-actor.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
 
-|    | ID | DLC | Name | Remakes¹ | Quests² | Total |
-| -- | -- | --- | ---- | -------- | ------- | ----: |
-| <input type="checkbox" id="rb1-item-1-35" class="trackbox" /> | 35 | [Base](/neptunia/rb1/dungeon/1-base.html) | [AGI Booster](/neptunia/rb1/item/1-35-agi-booster.html) (Tool) | 3 | 0 | 3 |
-| <input type="checkbox" id="rb1-item-1-560" class="trackbox" /> | 560 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Add Dungeon: Mechtro Factory](/neptunia/rb1/item/1-560-add-dungeon-mechtro-factory.html) (Plan) | 0 | 0 | 0 |
-| <input type="checkbox" id="rb1-item-1-3028" class="trackbox" /> | 3028 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Elegant Crown](/neptunia/rb1/item/1-3028-elegant-crown.html) (Accessory) | 3 | 0 | 3 |
-| <input type="checkbox" id="rb1-item-1-5057" class="trackbox" /> | 5057 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Idol](/neptunia/rb1/item/1-5057-idol.html) (Idea Chip (Blue)) | 0 | 0 | 0 |
-| <input type="checkbox" id="rb1-item-1-5062" class="trackbox" /> | 5062 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Voice Actor](/neptunia/rb1/item/1-5062-voice-actor.html) (Idea Chip (Blue)) | 0 | 0 | 0 |
 
 ### From hidden treasure gathering points
 
+|    | ID | DLC | Name | Sells for | Remakes¹ | Quests² | Total |
+| -- | -- | --- | ---- | --------- | -------- | ------- | ----: |
+| <input type="checkbox" id="rb1-item-1-2" class="trackbox" /> | 2 | [Base](/neptunia/rb1/dlc/1-base.html) | [Healing Pod](/neptunia/rb1/item/1-2-healing-pod.html) (Tool) | 100 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb1-item-1-4387" class="trackbox" /> | 4387 | [Base](/neptunia/rb1/dlc/1-base.html) | [Cardboard S](/neptunia/rb1/item/1-4387-cardboard-s.html) (Processor (S)) | 500 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb1-item-1-5041" class="trackbox" /> | 5041 | [Base](/neptunia/rb1/dlc/1-base.html) | [Simulation](/neptunia/rb1/item/1-5041-simulation.html) (Idea Chip (Yellow)) | 10 | 0 | 0 | 0 |
 
-|    | ID | DLC | Name | Remakes¹ | Quests² | Total |
-| -- | -- | --- | ---- | -------- | ------- | ----: |
-| <input type="checkbox" id="rb1-item-1-2" class="trackbox" /> | 2 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Healing Pod](/neptunia/rb1/item/1-2-healing-pod.html) (Tool) | 0 | 0 | 0 |
-| <input type="checkbox" id="rb1-item-1-4387" class="trackbox" /> | 4387 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Cardboard S](/neptunia/rb1/item/1-4387-cardboard-s.html) (Processor (S)) | 0 | 0 | 0 |
-| <input type="checkbox" id="rb1-item-1-5041" class="trackbox" /> | 5041 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Simulation](/neptunia/rb1/item/1-5041-simulation.html) (Idea Chip (Yellow)) | 0 | 0 | 0 |
 
 ¹ Total amount needed for Remake System recipes.<br />² Total amount needed to complete quests at least once.
 
@@ -81,20 +81,20 @@ See [gathering point tables](#gathering-point-tables-for-zeca-ruins-no1) for mor
 
 ### Standard enemies
 
+|    | ID | DLC | Name | Sells for | Remakes¹ | Quests² | Total |
+| -- | -- | --- | ---- | --------- | -------- | ------- | ----: |
+| <input type="checkbox" id="rb1-item-1-1927" class="trackbox" /> | 1927 | [Base](/neptunia/rb1/dlc/1-base.html) | [Shampuru Ear](/neptunia/rb1/item/1-1927-shampuru-ear.html) (Material)<br />40%: [Normal Shampuru](/neptunia/rb1/monster/1-246-normal-shampuru.html)<br />40%: [Buff Shampuru](/neptunia/rb1/monster/1-247-buff-shampuru.html)<br />40%: [Magical Shampuru](/neptunia/rb1/monster/1-248-magical-shampuru.html) | 12 | 11 | 0 | 11 |
+| <input type="checkbox" id="rb1-item-1-5118" class="trackbox" /> | 5118 | [Base](/neptunia/rb1/dlc/1-base.html) | [Random Encounters](/neptunia/rb1/item/1-5118-random-encounters.html) (Idea Chip (Blue))<br />55%: [Dangerous Shampuru](/neptunia/rb1/monster/1-249-dangerous-shampuru.html) | 10 | 1 | 0 | 1 |
 
-|    | ID | DLC | Name | Remakes¹ | Quests² | Total |
-| -- | -- | --- | ---- | -------- | ------- | ----: |
-| <input type="checkbox" id="rb1-item-1-1927" class="trackbox" /> | 1927 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Shampuru Ear](/neptunia/rb1/item/1-1927-shampuru-ear.html) (Material)<br />40%: [Normal Shampuru](/neptunia/rb1/monster/1-246-normal-shampuru.html)<br />40%: [Buff Shampuru](/neptunia/rb1/monster/1-247-buff-shampuru.html)<br />40%: [Magical Shampuru](/neptunia/rb1/monster/1-248-magical-shampuru.html) | 11 | 0 | 11 |
-| <input type="checkbox" id="rb1-item-1-5118" class="trackbox" /> | 5118 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Random Encounters](/neptunia/rb1/item/1-5118-random-encounters.html) (Idea Chip (Blue))<br />55%: [Dangerous Shampuru](/neptunia/rb1/monster/1-249-dangerous-shampuru.html) | 1 | 0 | 1 |
 
 ### Tough enemies enabled
 
+|    | ID | DLC | Name | Sells for | Remakes¹ | Quests² | Total |
+| -- | -- | --- | ---- | --------- | -------- | ------- | ----: |
+| <input type="checkbox" id="rb1-item-1-211" class="trackbox" /> | 211 | [Base](/neptunia/rb1/dlc/1-base.html) | [Large Medal A](/neptunia/rb1/item/1-211-large-medal-a.html) (Key Item)<br />100%: [Crazy Buff Shampuru](/neptunia/rb1/monster/1-251-crazy-buff-shampuru.html) | 0 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb1-item-1-1927" class="trackbox" /> | 1927 | [Base](/neptunia/rb1/dlc/1-base.html) | [Shampuru Ear](/neptunia/rb1/item/1-1927-shampuru-ear.html) (Material)<br />40%: [Normal Shampuru](/neptunia/rb1/monster/1-246-normal-shampuru.html)<br />40%: [Buff Shampuru](/neptunia/rb1/monster/1-247-buff-shampuru.html)<br />40%: [Magical Shampuru](/neptunia/rb1/monster/1-248-magical-shampuru.html) | 12 | 11 | 0 | 11 |
+| <input type="checkbox" id="rb1-item-1-5123" class="trackbox" /> | 5123 | [Base](/neptunia/rb1/dlc/1-base.html) | [Slot](/neptunia/rb1/item/1-5123-slot.html) (Idea Chip (Blue))<br />65%: [Scary Buff Shampuru](/neptunia/rb1/monster/1-250-scary-buff-shampuru.html) | 10 | 0 | 0 | 0 |
 
-|    | ID | DLC | Name | Remakes¹ | Quests² | Total |
-| -- | -- | --- | ---- | -------- | ------- | ----: |
-| <input type="checkbox" id="rb1-item-1-211" class="trackbox" /> | 211 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Large Medal A](/neptunia/rb1/item/1-211-large-medal-a.html) (Key Item)<br />100%: [Crazy Buff Shampuru](/neptunia/rb1/monster/1-251-crazy-buff-shampuru.html) | 0 | 0 | 0 |
-| <input type="checkbox" id="rb1-item-1-1927" class="trackbox" /> | 1927 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Shampuru Ear](/neptunia/rb1/item/1-1927-shampuru-ear.html) (Material)<br />40%: [Normal Shampuru](/neptunia/rb1/monster/1-246-normal-shampuru.html)<br />40%: [Buff Shampuru](/neptunia/rb1/monster/1-247-buff-shampuru.html)<br />40%: [Magical Shampuru](/neptunia/rb1/monster/1-248-magical-shampuru.html) | 11 | 0 | 11 |
-| <input type="checkbox" id="rb1-item-1-5123" class="trackbox" /> | 5123 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Slot](/neptunia/rb1/item/1-5123-slot.html) (Idea Chip (Blue))<br />65%: [Scary Buff Shampuru](/neptunia/rb1/monster/1-250-scary-buff-shampuru.html) | 0 | 0 | 0 |
 
 
 

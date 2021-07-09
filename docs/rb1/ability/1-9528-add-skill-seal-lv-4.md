@@ -13,12 +13,12 @@ title: Add Skill Seal Lv.4 (Ability) - Hyperdimension Neptunia Re;Birth1
 
 |   |   |
 | -- | -- |
-| **ID** | 9528
-**DLC** | [Base](/neptunia/rb1/dlc/1-base.html)
-**Name** | Add Skill Seal Lv.4
-**Required Lily level** | N/A
-**Description** | Add Skill Seal
-**Effects** | Increases Add Skill Seal by 16% |
+| **ID** | 9528 |
+| **DLC** | [Base](/neptunia/rb1/dlc/1-base.html) |
+| **Name** | Add Skill Seal Lv.4 |
+| **Required Lily level** | N/A |
+| **Description** | Add Skill Seal |
+| **Effects** | Increases Add Skill Seal by 16% |
 
 
 ## Idea Chips which have Add Skill Seal Lv.4 as ability (1)

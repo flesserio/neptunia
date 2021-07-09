@@ -12,9 +12,9 @@ title: Virus Immunity (Ability) - Hyperdimension Neptunia Re;Birth1
 
 |   |   |
 | -- | -- |
-| **ID** | 1004
-**DLC** | [Base](/neptunia/rb1/dlc/1-base.html)
-**Name** | Virus Immunity
-**Required Lily level** | N/A
-**Description** | Virus Immunity
-**Effects** | Gives Virus Immunity |
+| **ID** | 1004 |
+| **DLC** | [Base](/neptunia/rb1/dlc/1-base.html) |
+| **Name** | Virus Immunity |
+| **Required Lily level** | N/A |
+| **Description** | Virus Immunity |
+| **Effects** | Gives Virus Immunity |

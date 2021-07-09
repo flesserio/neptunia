@@ -13,12 +13,12 @@ title: Faster Wait Recovery 八｢ (Ability) - Hyperdimension Neptunia Re;Birth1
 
 |   |   |
 | -- | -- |
-| **ID** | 1020
-**DLC** | [Base](/neptunia/rb1/dlc/1-base.html)
-**Name** | Faster Wait Recovery 八｢
-**Required Lily level** | N/A
-**Description** | Shortens Wait
-**Effects** | Increases Wait Time Recovery by 75% |
+| **ID** | 1020 |
+| **DLC** | [Base](/neptunia/rb1/dlc/1-base.html) |
+| **Name** | Faster Wait Recovery 八｢ |
+| **Required Lily level** | N/A |
+| **Description** | Shortens Wait |
+| **Effects** | Increases Wait Time Recovery by 75% |
 
 
 ## Monsters who have Faster Wait Recovery 八｢ as a passive ability (51)

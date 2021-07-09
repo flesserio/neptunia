@@ -13,12 +13,12 @@ title: Gained Credits Up Lv.3 (Ability) - Hyperdimension Neptunia Re;Birth1
 
 |   |   |
 | -- | -- |
-| **ID** | 9809
-**DLC** | [Base](/neptunia/rb1/dlc/1-base.html)
-**Name** | Gained Credits Up Lv.3
-**Required Lily level** | N/A
-**Description** | 
-**Effects** | Increases Gained Credits by 35% |
+| **ID** | 9809 |
+| **DLC** | [Base](/neptunia/rb1/dlc/1-base.html) |
+| **Name** | Gained Credits Up Lv.3 |
+| **Required Lily level** | N/A |
+| **Description** |  |
+| **Effects** | Increases Gained Credits by 35% |
 
 
 ## Idea Chip disc combinations which grant Gained Credits Up Lv.3 (1)

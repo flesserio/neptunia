@@ -13,12 +13,12 @@ title: Battle End HP Heal Lv.5 (Ability) - Hyperdimension Neptunia Re;Birth1
 
 |   |   |
 | -- | -- |
-| **ID** | 9636
-**DLC** | [Base](/neptunia/rb1/dlc/1-base.html)
-**Name** | Battle End HP Heal Lv.5
-**Required Lily level** | N/A
-**Description** | HP Restored After Battle
-**Effects** | Increases Battle End HP Heal by 10% |
+| **ID** | 9636 |
+| **DLC** | [Base](/neptunia/rb1/dlc/1-base.html) |
+| **Name** | Battle End HP Heal Lv.5 |
+| **Required Lily level** | N/A |
+| **Description** | HP Restored After Battle |
+| **Effects** | Increases Battle End HP Heal by 10% |
 
 
 ## Idea Chips which have Battle End HP Heal Lv.5 as ability (1)

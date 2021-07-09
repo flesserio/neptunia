@@ -13,12 +13,12 @@ title: Magic Defense + Lv.3 (Ability) - Hyperdimension Neptunia Re;Birth1
 
 |   |   |
 | -- | -- |
-| **ID** | 9623
-**DLC** | [Base](/neptunia/rb1/dlc/1-base.html)
-**Name** | Magic Defense + Lv.3
-**Required Lily level** | N/A
-**Description** | Mag. Damage Taken Down
-**Effects** | Increases Mag. Defense by 20% |
+| **ID** | 9623 |
+| **DLC** | [Base](/neptunia/rb1/dlc/1-base.html) |
+| **Name** | Magic Defense + Lv.3 |
+| **Required Lily level** | N/A |
+| **Description** | Mag. Damage Taken Down |
+| **Effects** | Increases Mag. Defense by 20% |
 
 
 ## Idea Chips which have Magic Defense + Lv.3 as ability (1)

@@ -13,12 +13,12 @@ title: Dogoo Defense Lv.3 (Ability) - Hyperdimension Neptunia Re;Birth1
 
 |   |   |
 | -- | -- |
-| **ID** | 9583
-**DLC** | [Base](/neptunia/rb1/dlc/1-base.html)
-**Name** | Dogoo Defense Lv.3
-**Required Lily level** | N/A
-**Description** | Dogoo Foe Damage Down
-**Effects** | Increases Dogoo Defense by 20% |
+| **ID** | 9583 |
+| **DLC** | [Base](/neptunia/rb1/dlc/1-base.html) |
+| **Name** | Dogoo Defense Lv.3 |
+| **Required Lily level** | N/A |
+| **Description** | Dogoo Foe Damage Down |
+| **Effects** | Increases Dogoo Defense by 20% |
 
 
 ## Idea Chips which have Dogoo Defense Lv.3 as ability (1)

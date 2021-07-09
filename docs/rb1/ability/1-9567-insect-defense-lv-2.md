@@ -13,12 +13,12 @@ title: Insect Defense Lv.2 (Ability) - Hyperdimension Neptunia Re;Birth1
 
 |   |   |
 | -- | -- |
-| **ID** | 9567
-**DLC** | [Base](/neptunia/rb1/dlc/1-base.html)
-**Name** | Insect Defense Lv.2
-**Required Lily level** | N/A
-**Description** | Insect Foe Damage Down
-**Effects** | Increases Insect Defense by 15% |
+| **ID** | 9567 |
+| **DLC** | [Base](/neptunia/rb1/dlc/1-base.html) |
+| **Name** | Insect Defense Lv.2 |
+| **Required Lily level** | N/A |
+| **Description** | Insect Foe Damage Down |
+| **Effects** | Increases Insect Defense by 15% |
 
 
 ## Idea Chips which have Insect Defense Lv.2 as ability (1)

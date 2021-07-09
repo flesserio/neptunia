@@ -13,12 +13,12 @@ title: Gained Credits Up Lv.4 (Ability) - Hyperdimension Neptunia Re;Birth1
 
 |   |   |
 | -- | -- |
-| **ID** | 9665
-**DLC** | [Base](/neptunia/rb1/dlc/1-base.html)
-**Name** | Gained Credits Up Lv.4
-**Required Lily level** | N/A
-**Description** | Post-battle Credits Up
-**Effects** | Increases Gained Credits by 40% |
+| **ID** | 9665 |
+| **DLC** | [Base](/neptunia/rb1/dlc/1-base.html) |
+| **Name** | Gained Credits Up Lv.4 |
+| **Required Lily level** | N/A |
+| **Description** | Post-battle Credits Up |
+| **Effects** | Increases Gained Credits by 40% |
 
 
 ## Idea Chips which have Gained Credits Up Lv.4 as ability (1)

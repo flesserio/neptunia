@@ -13,12 +13,12 @@ title: Dogoo Defense Lv.4 (Ability) - Hyperdimension Neptunia Re;Birth1
 
 |   |   |
 | -- | -- |
-| **ID** | 9584
-**DLC** | [Base](/neptunia/rb1/dlc/1-base.html)
-**Name** | Dogoo Defense Lv.4
-**Required Lily level** | N/A
-**Description** | Dogoo Foe Damage Down
-**Effects** | Increases Dogoo Defense by 25% |
+| **ID** | 9584 |
+| **DLC** | [Base](/neptunia/rb1/dlc/1-base.html) |
+| **Name** | Dogoo Defense Lv.4 |
+| **Required Lily level** | N/A |
+| **Description** | Dogoo Foe Damage Down |
+| **Effects** | Increases Dogoo Defense by 25% |
 
 
 ## Idea Chips which have Dogoo Defense Lv.4 as ability (1)

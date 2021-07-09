@@ -13,12 +13,12 @@ title: Ignore Buffs (Ability) - Hyperdimension Neptunia Re;Birth1
 
 |   |   |
 | -- | -- |
-| **ID** | 9908
-**DLC** | [Base](/neptunia/rb1/dlc/1-base.html)
-**Name** | Ignore Buffs
-**Required Lily level** | N/A
-**Description** | 
-**Effects** | Gives Ignore Buffs |
+| **ID** | 9908 |
+| **DLC** | [Base](/neptunia/rb1/dlc/1-base.html) |
+| **Name** | Ignore Buffs |
+| **Required Lily level** | N/A |
+| **Description** |  |
+| **Effects** | Gives Ignore Buffs |
 
 
 ## Idea Chip disc combinations which grant Ignore Buffs (1)

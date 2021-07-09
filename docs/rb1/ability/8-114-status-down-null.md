@@ -13,12 +13,12 @@ title: Status Down Null (Ability) - Hyperdimension Neptunia Re;Birth1
 
 |   |   |
 | -- | -- |
-| **ID** | 114
-**DLC** | [[Peashy] Battle Entry License](/neptunia/rb1/dlc/8-peashy.html)
-**Name** | Status Down Null
-**Required Lily level** | N/A
-**Description** | Status Down Null
-**Effects** | Gives Debuffing Immunity |
+| **ID** | 114 |
+| **DLC** | [[Peashy] Battle Entry License](/neptunia/rb1/dlc/8-peashy.html) |
+| **Name** | Status Down Null |
+| **Required Lily level** | N/A |
+| **Description** | Status Down Null |
+| **Effects** | Gives Debuffing Immunity |
 
 
 ## Player characters who have Status Down Null as a passive ability (1)

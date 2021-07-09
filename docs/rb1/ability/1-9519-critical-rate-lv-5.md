@@ -13,12 +13,12 @@ title: Critical Rate + Lv.5 (Ability) - Hyperdimension Neptunia Re;Birth1
 
 |   |   |
 | -- | -- |
-| **ID** | 9519
-**DLC** | [Base](/neptunia/rb1/dlc/1-base.html)
-**Name** | Critical Rate + Lv.5
-**Required Lily level** | N/A
-**Description** | Critical Rate Up
-**Effects** | Increases Critical Rate by 15% |
+| **ID** | 9519 |
+| **DLC** | [Base](/neptunia/rb1/dlc/1-base.html) |
+| **Name** | Critical Rate + Lv.5 |
+| **Required Lily level** | N/A |
+| **Description** | Critical Rate Up |
+| **Effects** | Increases Critical Rate by 15% |
 
 
 ## Idea Chips which have Critical Rate + Lv.5 as ability (1)

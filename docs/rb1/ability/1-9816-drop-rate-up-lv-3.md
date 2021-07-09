@@ -13,12 +13,12 @@ title: Drop Rate Up Lv.3 (Ability) - Hyperdimension Neptunia Re;Birth1
 
 |   |   |
 | -- | -- |
-| **ID** | 9816
-**DLC** | [Base](/neptunia/rb1/dlc/1-base.html)
-**Name** | Drop Rate Up Lv.3
-**Required Lily level** | N/A
-**Description** | 
-**Effects** | Increases Drop Rate by 20% |
+| **ID** | 9816 |
+| **DLC** | [Base](/neptunia/rb1/dlc/1-base.html) |
+| **Name** | Drop Rate Up Lv.3 |
+| **Required Lily level** | N/A |
+| **Description** |  |
+| **Effects** | Increases Drop Rate by 20% |
 
 
 ## Idea Chip disc combinations which grant Drop Rate Up Lv.3 (1)

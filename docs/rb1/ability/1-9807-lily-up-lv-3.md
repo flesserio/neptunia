@@ -13,12 +13,12 @@ title: Lily Up + Lv.3 (Ability) - Hyperdimension Neptunia Re;Birth1
 
 |   |   |
 | -- | -- |
-| **ID** | 9807
-**DLC** | [Base](/neptunia/rb1/dlc/1-base.html)
-**Name** | Lily Up + Lv.3
-**Required Lily level** | N/A
-**Description** | 
-**Effects** | Increases Lily Rank Gained XP by 300% |
+| **ID** | 9807 |
+| **DLC** | [Base](/neptunia/rb1/dlc/1-base.html) |
+| **Name** | Lily Up + Lv.3 |
+| **Required Lily level** | N/A |
+| **Description** |  |
+| **Effects** | Increases Lily Rank Gained XP by 300% |
 
 
 ## Idea Chip disc combinations which grant Lily Up + Lv.3 (1)

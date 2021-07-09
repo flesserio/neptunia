@@ -13,12 +13,12 @@ title: Ignore Enemy Traits (Ability) - Hyperdimension Neptunia Re;Birth1
 
 |   |   |
 | -- | -- |
-| **ID** | 532
-**DLC** | [Base](/neptunia/rb1/dlc/1-base.html)
-**Name** | Ignore Enemy Traits
-**Required Lily level** | 3
-**Description** | Ignore Enemy Traits
-**Effects** | Gives Ignore Enemy Traits |
+| **ID** | 532 |
+| **DLC** | [Base](/neptunia/rb1/dlc/1-base.html) |
+| **Name** | Ignore Enemy Traits |
+| **Required Lily level** | 3 |
+| **Description** | Ignore Enemy Traits |
+| **Effects** | Gives Ignore Enemy Traits |
 
 
 ## Player characters who have Ignore Enemy Traits as a Lily effect (1)

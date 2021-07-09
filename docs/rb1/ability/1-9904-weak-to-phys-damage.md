@@ -13,12 +13,12 @@ title: Weak to Phys. Damage (Ability) - Hyperdimension Neptunia Re;Birth1
 
 |   |   |
 | -- | -- |
-| **ID** | 9904
-**DLC** | [Base](/neptunia/rb1/dlc/1-base.html)
-**Name** | Weak to Phys. Damage
-**Required Lily level** | N/A
-**Description** | 
-**Effects** | Decreases Phys. Defense by 20% |
+| **ID** | 9904 |
+| **DLC** | [Base](/neptunia/rb1/dlc/1-base.html) |
+| **Name** | Weak to Phys. Damage |
+| **Required Lily level** | N/A |
+| **Description** |  |
+| **Effects** | Decreases Phys. Defense by 20% |
 
 
 ## Idea Chip disc combinations which grant Weak to Phys. Damage (1)

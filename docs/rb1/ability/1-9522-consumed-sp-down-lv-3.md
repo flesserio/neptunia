@@ -13,12 +13,12 @@ title: Consumed SP Down Lv.3 (Ability) - Hyperdimension Neptunia Re;Birth1
 
 |   |   |
 | -- | -- |
-| **ID** | 9522
-**DLC** | [Base](/neptunia/rb1/dlc/1-base.html)
-**Name** | Consumed SP Down Lv.3
-**Required Lily level** | N/A
-**Description** | Consumed SP Down
-**Effects** | Decreases SP Required by 9% |
+| **ID** | 9522 |
+| **DLC** | [Base](/neptunia/rb1/dlc/1-base.html) |
+| **Name** | Consumed SP Down Lv.3 |
+| **Required Lily level** | N/A |
+| **Description** | Consumed SP Down |
+| **Effects** | Decreases SP Required by 9% |
 
 
 ## Idea Chips which have Consumed SP Down Lv.3 as ability (1)

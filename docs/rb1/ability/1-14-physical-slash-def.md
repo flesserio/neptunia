@@ -12,9 +12,9 @@ title: Physical/Slash DEF + (Ability) - Hyperdimension Neptunia Re;Birth1
 
 |   |   |
 | -- | -- |
-| **ID** | 14
-**DLC** | [Base](/neptunia/rb1/dlc/1-base.html)
-**Name** | Physical/Slash DEF +
-**Required Lily level** | N/A
-**Description** | 
-**Effects** | Increases Phys. Defense by 50% |
+| **ID** | 14 |
+| **DLC** | [Base](/neptunia/rb1/dlc/1-base.html) |
+| **Name** | Physical/Slash DEF + |
+| **Required Lily level** | N/A |
+| **Description** |  |
+| **Effects** | Increases Phys. Defense by 50% |

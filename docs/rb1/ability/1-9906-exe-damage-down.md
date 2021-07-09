@@ -13,12 +13,12 @@ title: EXE Damage Down (Ability) - Hyperdimension Neptunia Re;Birth1
 
 |   |   |
 | -- | -- |
-| **ID** | 9906
-**DLC** | [Base](/neptunia/rb1/dlc/1-base.html)
-**Name** | EXE Damage Down
-**Required Lily level** | N/A
-**Description** | 
-**Effects** | Decreases EXE Charge by 2% |
+| **ID** | 9906 |
+| **DLC** | [Base](/neptunia/rb1/dlc/1-base.html) |
+| **Name** | EXE Damage Down |
+| **Required Lily level** | N/A |
+| **Description** |  |
+| **Effects** | Decreases EXE Charge by 2% |
 
 
 ## Idea Chip disc combinations which grant EXE Damage Down (1)

@@ -13,12 +13,12 @@ title: Paralysis Null (Ability) - Hyperdimension Neptunia Re;Birth1
 
 |   |   |
 | -- | -- |
-| **ID** | 503
-**DLC** | [[Plutia] Battle Entry License](/neptunia/rb1/dlc/7-plutia.html)
-**Name** | Paralysis Null
-**Required Lily level** | 1
-**Description** | Paralysis Null
-**Effects** | Gives Paralysis Immunity |
+| **ID** | 503 |
+| **DLC** | [[Plutia] Battle Entry License](/neptunia/rb1/dlc/7-plutia.html) |
+| **Name** | Paralysis Null |
+| **Required Lily level** | 1 |
+| **Description** | Paralysis Null |
+| **Effects** | Gives Paralysis Immunity |
 
 
 ## Player characters who have Paralysis Null as a Lily effect (1)

@@ -12,9 +12,9 @@ title: Auto SP Restore 八｡ (Ability) - Hyperdimension Neptunia Re;Birth1
 
 |   |   |
 | -- | -- |
-| **ID** | 1015
-**DLC** | [Base](/neptunia/rb1/dlc/1-base.html)
-**Name** | Auto SP Restore 八｡
-**Required Lily level** | N/A
-**Description** | Auto SP Restore
-**Effects** | Increases SP Recovery Per Turn by 12% |
+| **ID** | 1015 |
+| **DLC** | [Base](/neptunia/rb1/dlc/1-base.html) |
+| **Name** | Auto SP Restore 八｡ |
+| **Required Lily level** | N/A |
+| **Description** | Auto SP Restore |
+| **Effects** | Increases SP Recovery Per Turn by 12% |

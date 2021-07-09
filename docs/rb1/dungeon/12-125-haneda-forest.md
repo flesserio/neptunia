@@ -14,16 +14,16 @@ title: Haneda Forest (Dungeon) - Hyperdimension Neptunia Re;Birth1
 
 ## Basic information
 
-
-|    |    |
+|   |   |
 | -- | -- |
 | **ID** | 125 |
-| **DLC** | [Additional Content Package 3](/neptunia/rb1/dungeon/12-pack3.html) |
+| **DLC** | [Additional Content Package 3](/neptunia/rb1/dlc/12-pack3.html) |
 | **Name** | Haneda Forest |
 | **Item Change available?** | Yes |
 | **Add Enemies available?** | Yes |
 | **Add Super Enemies available?** | Yes |
-| **To unlock dungeon**| Have remake [Add Dungeon](/neptunia/rb1/scene/12-226-add-dungeon.html) developed |
+| **To unlock dungeon** | Have remake [Add Dungeon](/neptunia/rb1/remake/12-226-add-dungeon.html) developed |
+
 
 ## Items found in Haneda Forest from gathering points
 
@@ -31,55 +31,55 @@ See [gathering point tables](#gathering-point-tables-for-haneda-forest) for more
 
 ### From normal gathering points
 
+|    | ID | DLC | Name | Sells for | Remakes¹ | Quests² | Total |
+| -- | -- | --- | ---- | --------- | -------- | ------- | ----: |
+| <input type="checkbox" id="rb1-item-1-1601" class="trackbox" /> | 1601 | [Base](/neptunia/rb1/dlc/1-base.html) | [Herb](/neptunia/rb1/item/1-1601-herb.html) (Material) | 10 | 37 | 0 | 37 |
+| <input type="checkbox" id="rb1-item-1-1607" class="trackbox" /> | 1607 | [Base](/neptunia/rb1/dlc/1-base.html) | [Copper Ore](/neptunia/rb1/item/1-1607-copper-ore.html) (Material) | 75 | 6 | 0 | 6 |
+| <input type="checkbox" id="rb1-item-1-1626" class="trackbox" /> | 1626 | [Base](/neptunia/rb1/dlc/1-base.html) | [Data Crystal](/neptunia/rb1/item/1-1626-data-crystal.html) (Material) | 50 | 8 | 0 | 8 |
+| <input type="checkbox" id="rb1-item-12-1738" class="trackbox" /> | 1738 | [Additional Content Package 3](/neptunia/rb1/dlc/12-pack3.html) | [Death Cloth](/neptunia/rb1/item/12-1738-death-cloth.html) (Material) | 377 | 6 | 0 | 6 |
+| <input type="checkbox" id="rb1-item-12-1746" class="trackbox" /> | 1746 | [Additional Content Package 3](/neptunia/rb1/dlc/12-pack3.html) | [Yellow Ribbon](/neptunia/rb1/item/12-1746-yellow-ribbon.html) (Material) | 417 | 2 | 0 | 2 |
+| <input type="checkbox" id="rb1-item-1-1751" class="trackbox" /> | 1751 | [Base](/neptunia/rb1/dlc/1-base.html) | [Blue Petal](/neptunia/rb1/item/1-1751-blue-petal.html) (Material) | 48 | 5 | 0 | 5 |
+| <input type="checkbox" id="rb1-item-1-1829" class="trackbox" /> | 1829 | [Base](/neptunia/rb1/dlc/1-base.html) | [Iron Fragment](/neptunia/rb1/item/1-1829-iron-fragment.html) (Material) | 14 | 2 | 0 | 2 |
+| <input type="checkbox" id="rb1-item-1-1857" class="trackbox" /> | 1857 | [Base](/neptunia/rb1/dlc/1-base.html) | [Knighted Scale](/neptunia/rb1/item/1-1857-knighted-scale.html) (Material) | 198 | 23 | 0 | 23 |
+| <input type="checkbox" id="rb1-item-12-1891" class="trackbox" /> | 1891 | [Additional Content Package 3](/neptunia/rb1/dlc/12-pack3.html) | [Magical Shell](/neptunia/rb1/item/12-1891-magical-shell.html) (Material) | 8377 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb1-item-1-1943" class="trackbox" /> | 1943 | [Base](/neptunia/rb1/dlc/1-base.html) | [Purple Pigment](/neptunia/rb1/item/1-1943-purple-pigment.html) (Material) | 50 | 78 | 0 | 78 |
 
-|    | ID | DLC | Name | Remakes¹ | Quests² | Total |
-| -- | -- | --- | ---- | -------- | ------- | ----: |
-| <input type="checkbox" id="rb1-item-1-1601" class="trackbox" /> | 1601 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Herb](/neptunia/rb1/item/1-1601-herb.html) (Material) | 37 | 0 | 37 |
-| <input type="checkbox" id="rb1-item-1-1607" class="trackbox" /> | 1607 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Copper Ore](/neptunia/rb1/item/1-1607-copper-ore.html) (Material) | 6 | 0 | 6 |
-| <input type="checkbox" id="rb1-item-1-1626" class="trackbox" /> | 1626 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Data Crystal](/neptunia/rb1/item/1-1626-data-crystal.html) (Material) | 8 | 0 | 8 |
-| <input type="checkbox" id="rb1-item-12-1738" class="trackbox" /> | 1738 | [Additional Content Package 3](/neptunia/rb1/dungeon/12-pack3.html) | [Death Cloth](/neptunia/rb1/item/12-1738-death-cloth.html) (Material) | 6 | 0 | 6 |
-| <input type="checkbox" id="rb1-item-12-1746" class="trackbox" /> | 1746 | [Additional Content Package 3](/neptunia/rb1/dungeon/12-pack3.html) | [Yellow Ribbon](/neptunia/rb1/item/12-1746-yellow-ribbon.html) (Material) | 2 | 0 | 2 |
-| <input type="checkbox" id="rb1-item-1-1751" class="trackbox" /> | 1751 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Blue Petal](/neptunia/rb1/item/1-1751-blue-petal.html) (Material) | 5 | 0 | 5 |
-| <input type="checkbox" id="rb1-item-1-1829" class="trackbox" /> | 1829 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Iron Fragment](/neptunia/rb1/item/1-1829-iron-fragment.html) (Material) | 2 | 0 | 2 |
-| <input type="checkbox" id="rb1-item-1-1857" class="trackbox" /> | 1857 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Knighted Scale](/neptunia/rb1/item/1-1857-knighted-scale.html) (Material) | 23 | 0 | 23 |
-| <input type="checkbox" id="rb1-item-12-1891" class="trackbox" /> | 1891 | [Additional Content Package 3](/neptunia/rb1/dungeon/12-pack3.html) | [Magical Shell](/neptunia/rb1/item/12-1891-magical-shell.html) (Material) | 0 | 0 | 0 |
-| <input type="checkbox" id="rb1-item-1-1943" class="trackbox" /> | 1943 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Purple Pigment](/neptunia/rb1/item/1-1943-purple-pigment.html) (Material) | 78 | 0 | 78 |
 
 ### From Harvest Shift gathering points
 
+|    | ID | DLC | Name | Sells for | Remakes¹ | Quests² | Total |
+| -- | -- | --- | ---- | --------- | -------- | ------- | ----: |
+| <input type="checkbox" id="rb1-item-1-1601" class="trackbox" /> | 1601 | [Base](/neptunia/rb1/dlc/1-base.html) | [Herb](/neptunia/rb1/item/1-1601-herb.html) (Material) | 10 | 37 | 0 | 37 |
+| <input type="checkbox" id="rb1-item-1-1607" class="trackbox" /> | 1607 | [Base](/neptunia/rb1/dlc/1-base.html) | [Copper Ore](/neptunia/rb1/item/1-1607-copper-ore.html) (Material) | 75 | 6 | 0 | 6 |
+| <input type="checkbox" id="rb1-item-1-1943" class="trackbox" /> | 1943 | [Base](/neptunia/rb1/dlc/1-base.html) | [Purple Pigment](/neptunia/rb1/item/1-1943-purple-pigment.html) (Material) | 50 | 78 | 0 | 78 |
+| <input type="checkbox" id="rb1-item-1-5056" class="trackbox" /> | 5056 | [Base](/neptunia/rb1/dlc/1-base.html) | [TPS](/neptunia/rb1/item/1-5056-tps.html) (Idea Chip (Yellow)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb1-item-1-5156" class="trackbox" /> | 5156 | [Base](/neptunia/rb1/dlc/1-base.html) | [Million Aim](/neptunia/rb1/item/1-5156-million-aim.html) (Idea Chip (Red)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb1-item-1-5161" class="trackbox" /> | 5161 | [Base](/neptunia/rb1/dlc/1-base.html) | [True Story, Bro](/neptunia/rb1/item/1-5161-true-story-bro.html) (Idea Chip (Red)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb1-item-1-5177" class="trackbox" /> | 5177 | [Base](/neptunia/rb1/dlc/1-base.html) | [Death is The End](/neptunia/rb1/item/1-5177-death-is-the-end.html) (Idea Chip (Red)) | 10 | 0 | 0 | 0 |
 
-|    | ID | DLC | Name | Remakes¹ | Quests² | Total |
-| -- | -- | --- | ---- | -------- | ------- | ----: |
-| <input type="checkbox" id="rb1-item-1-1601" class="trackbox" /> | 1601 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Herb](/neptunia/rb1/item/1-1601-herb.html) (Material) | 37 | 0 | 37 |
-| <input type="checkbox" id="rb1-item-1-1607" class="trackbox" /> | 1607 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Copper Ore](/neptunia/rb1/item/1-1607-copper-ore.html) (Material) | 6 | 0 | 6 |
-| <input type="checkbox" id="rb1-item-1-1943" class="trackbox" /> | 1943 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Purple Pigment](/neptunia/rb1/item/1-1943-purple-pigment.html) (Material) | 78 | 0 | 78 |
-| <input type="checkbox" id="rb1-item-1-5056" class="trackbox" /> | 5056 | [Base](/neptunia/rb1/dungeon/1-base.html) | [TPS](/neptunia/rb1/item/1-5056-tps.html) (Idea Chip (Yellow)) | 0 | 0 | 0 |
-| <input type="checkbox" id="rb1-item-1-5156" class="trackbox" /> | 5156 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Million Aim](/neptunia/rb1/item/1-5156-million-aim.html) (Idea Chip (Red)) | 0 | 0 | 0 |
-| <input type="checkbox" id="rb1-item-1-5161" class="trackbox" /> | 5161 | [Base](/neptunia/rb1/dungeon/1-base.html) | [True Story, Bro](/neptunia/rb1/item/1-5161-true-story-bro.html) (Idea Chip (Red)) | 0 | 0 | 0 |
-| <input type="checkbox" id="rb1-item-1-5177" class="trackbox" /> | 5177 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Death is The End](/neptunia/rb1/item/1-5177-death-is-the-end.html) (Idea Chip (Red)) | 0 | 0 | 0 |
 
 ### From treasure gathering points
 
+|    | ID | DLC | Name | Sells for | Remakes¹ | Quests² | Total |
+| -- | -- | --- | ---- | --------- | -------- | ------- | ----: |
+| <input type="checkbox" id="rb1-item-1-4" class="trackbox" /> | 4 | [Base](/neptunia/rb1/dlc/1-base.html) | [Healing Bottle](/neptunia/rb1/item/1-4-healing-bottle.html) (Tool) | 1600 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb1-item-1-12" class="trackbox" /> | 12 | [Base](/neptunia/rb1/dlc/1-base.html) | [Healing Field](/neptunia/rb1/item/1-12-healing-field.html) (Tool) | 3200 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb1-item-1-16" class="trackbox" /> | 16 | [Base](/neptunia/rb1/dlc/1-base.html) | [P. SP Charger 2](/neptunia/rb1/item/1-16-p-sp-charger-2.html) (Tool) | 2600 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb1-item-1-32" class="trackbox" /> | 32 | [Base](/neptunia/rb1/dlc/1-base.html) | [Super Panacea](/neptunia/rb1/item/1-32-super-panacea.html) (Tool) | 2400 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb1-item-1-38" class="trackbox" /> | 38 | [Base](/neptunia/rb1/dlc/1-base.html) | [STR Booster Z](/neptunia/rb1/item/1-38-str-booster-z.html) (Tool) | 1600 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb1-item-1-5126" class="trackbox" /> | 5126 | [Base](/neptunia/rb1/dlc/1-base.html) | [DLC](/neptunia/rb1/item/1-5126-dlc.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
 
-|    | ID | DLC | Name | Remakes¹ | Quests² | Total |
-| -- | -- | --- | ---- | -------- | ------- | ----: |
-| <input type="checkbox" id="rb1-item-1-4" class="trackbox" /> | 4 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Healing Bottle](/neptunia/rb1/item/1-4-healing-bottle.html) (Tool) | 0 | 0 | 0 |
-| <input type="checkbox" id="rb1-item-1-12" class="trackbox" /> | 12 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Healing Field](/neptunia/rb1/item/1-12-healing-field.html) (Tool) | 0 | 0 | 0 |
-| <input type="checkbox" id="rb1-item-1-16" class="trackbox" /> | 16 | [Base](/neptunia/rb1/dungeon/1-base.html) | [P. SP Charger 2](/neptunia/rb1/item/1-16-p-sp-charger-2.html) (Tool) | 0 | 0 | 0 |
-| <input type="checkbox" id="rb1-item-1-32" class="trackbox" /> | 32 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Super Panacea](/neptunia/rb1/item/1-32-super-panacea.html) (Tool) | 0 | 0 | 0 |
-| <input type="checkbox" id="rb1-item-1-38" class="trackbox" /> | 38 | [Base](/neptunia/rb1/dungeon/1-base.html) | [STR Booster Z](/neptunia/rb1/item/1-38-str-booster-z.html) (Tool) | 0 | 0 | 0 |
-| <input type="checkbox" id="rb1-item-1-5126" class="trackbox" /> | 5126 | [Base](/neptunia/rb1/dungeon/1-base.html) | [DLC](/neptunia/rb1/item/1-5126-dlc.html) (Idea Chip (Blue)) | 0 | 0 | 0 |
 
 ### From hidden treasure gathering points
 
+|    | ID | DLC | Name | Sells for | Remakes¹ | Quests² | Total |
+| -- | -- | --- | ---- | --------- | -------- | ------- | ----: |
+| <input type="checkbox" id="rb1-item-1-38" class="trackbox" /> | 38 | [Base](/neptunia/rb1/dlc/1-base.html) | [STR Booster Z](/neptunia/rb1/item/1-38-str-booster-z.html) (Tool) | 1600 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb1-item-1-1962" class="trackbox" /> | 1962 | [Base](/neptunia/rb1/dlc/1-base.html) | [Gold Makin' Staff](/neptunia/rb1/item/1-1962-gold-makin-staff.html) (Material) | 100000 | 38 | 0 | 38 |
+| <input type="checkbox" id="rb1-item-12-3279" class="trackbox" /> | 3279 | [Additional Content Package 3](/neptunia/rb1/dlc/12-pack3.html) | [Resort Shades](/neptunia/rb1/item/12-3279-resort-shades.html) (Accessory) | 500 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb1-item-1-5020" class="trackbox" /> | 5020 | [Base](/neptunia/rb1/dlc/1-base.html) | [Baseball](/neptunia/rb1/item/1-5020-baseball.html) (Idea Chip (Yellow)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb1-item-1-5076" class="trackbox" /> | 5076 | [Base](/neptunia/rb1/dlc/1-base.html) | [All-star](/neptunia/rb1/item/1-5076-all-star.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
 
-|    | ID | DLC | Name | Remakes¹ | Quests² | Total |
-| -- | -- | --- | ---- | -------- | ------- | ----: |
-| <input type="checkbox" id="rb1-item-1-38" class="trackbox" /> | 38 | [Base](/neptunia/rb1/dungeon/1-base.html) | [STR Booster Z](/neptunia/rb1/item/1-38-str-booster-z.html) (Tool) | 0 | 0 | 0 |
-| <input type="checkbox" id="rb1-item-1-1962" class="trackbox" /> | 1962 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Gold Makin' Staff](/neptunia/rb1/item/1-1962-gold-makin-staff.html) (Material) | 38 | 0 | 38 |
-| <input type="checkbox" id="rb1-item-12-3279" class="trackbox" /> | 3279 | [Additional Content Package 3](/neptunia/rb1/dungeon/12-pack3.html) | [Resort Shades](/neptunia/rb1/item/12-3279-resort-shades.html) (Accessory) | 0 | 0 | 0 |
-| <input type="checkbox" id="rb1-item-1-5020" class="trackbox" /> | 5020 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Baseball](/neptunia/rb1/item/1-5020-baseball.html) (Idea Chip (Yellow)) | 0 | 0 | 0 |
-| <input type="checkbox" id="rb1-item-1-5076" class="trackbox" /> | 5076 | [Base](/neptunia/rb1/dungeon/1-base.html) | [All-star](/neptunia/rb1/item/1-5076-all-star.html) (Idea Chip (Blue)) | 0 | 0 | 0 |
 
 ¹ Total amount needed for Remake System recipes.<br />² Total amount needed to complete quests at least once.
 
@@ -88,45 +88,45 @@ See [gathering point tables](#gathering-point-tables-for-haneda-forest) for more
 
 ### Standard enemies
 
+|    | ID | DLC | Name | Sells for | Remakes¹ | Quests² | Total |
+| -- | -- | --- | ---- | --------- | -------- | ------- | ----: |
+| <input type="checkbox" id="rb1-item-12-1738" class="trackbox" /> | 1738 | [Additional Content Package 3](/neptunia/rb1/dlc/12-pack3.html) | [Death Cloth](/neptunia/rb1/item/12-1738-death-cloth.html) (Material)<br />40%: [Death Boy](/neptunia/rb1/monster/12-394-death-boy.html) | 377 | 6 | 0 | 6 |
+| <input type="checkbox" id="rb1-item-12-1746" class="trackbox" /> | 1746 | [Additional Content Package 3](/neptunia/rb1/dlc/12-pack3.html) | [Yellow Ribbon](/neptunia/rb1/item/12-1746-yellow-ribbon.html) (Material)<br />40%: [Death Girl](/neptunia/rb1/monster/12-395-death-girl.html) | 417 | 2 | 0 | 2 |
+| <input type="checkbox" id="rb1-item-1-1829" class="trackbox" /> | 1829 | [Base](/neptunia/rb1/dlc/1-base.html) | [Iron Fragment](/neptunia/rb1/item/1-1829-iron-fragment.html) (Material)<br />40%: [ASIC Remnants](/neptunia/rb1/monster/12-398-asic-remnants.html) | 14 | 2 | 0 | 2 |
+| <input type="checkbox" id="rb1-item-1-1857" class="trackbox" /> | 1857 | [Base](/neptunia/rb1/dlc/1-base.html) | [Knighted Scale](/neptunia/rb1/item/1-1857-knighted-scale.html) (Material)<br />40%: [Dragonia](/neptunia/rb1/monster/12-396-dragonia.html) | 198 | 23 | 0 | 23 |
+| <input type="checkbox" id="rb1-item-12-1891" class="trackbox" /> | 1891 | [Additional Content Package 3](/neptunia/rb1/dlc/12-pack3.html) | [Magical Shell](/neptunia/rb1/item/12-1891-magical-shell.html) (Material)<br />55%: [Dominance Machine](/neptunia/rb1/monster/12-399-dominance-machine.html) | 8377 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb1-item-12-3562" class="trackbox" /> | 3562 | [Additional Content Package 3](/neptunia/rb1/dlc/12-pack3.html) | [Nurse Cap](/neptunia/rb1/item/12-3562-nurse-cap.html) (Accessory)<br />15%: [Death Girl](/neptunia/rb1/monster/12-395-death-girl.html) | 500 | 0 | 0 | 0 |
 
-|    | ID | DLC | Name | Remakes¹ | Quests² | Total |
-| -- | -- | --- | ---- | -------- | ------- | ----: |
-| <input type="checkbox" id="rb1-item-12-1738" class="trackbox" /> | 1738 | [Additional Content Package 3](/neptunia/rb1/dungeon/12-pack3.html) | [Death Cloth](/neptunia/rb1/item/12-1738-death-cloth.html) (Material)<br />40%: [Death Boy](/neptunia/rb1/monster/12-394-death-boy.html) | 6 | 0 | 6 |
-| <input type="checkbox" id="rb1-item-12-1746" class="trackbox" /> | 1746 | [Additional Content Package 3](/neptunia/rb1/dungeon/12-pack3.html) | [Yellow Ribbon](/neptunia/rb1/item/12-1746-yellow-ribbon.html) (Material)<br />40%: [Death Girl](/neptunia/rb1/monster/12-395-death-girl.html) | 2 | 0 | 2 |
-| <input type="checkbox" id="rb1-item-1-1829" class="trackbox" /> | 1829 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Iron Fragment](/neptunia/rb1/item/1-1829-iron-fragment.html) (Material)<br />40%: [ASIC Remnants](/neptunia/rb1/monster/12-398-asic-remnants.html) | 2 | 0 | 2 |
-| <input type="checkbox" id="rb1-item-1-1857" class="trackbox" /> | 1857 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Knighted Scale](/neptunia/rb1/item/1-1857-knighted-scale.html) (Material)<br />40%: [Dragonia](/neptunia/rb1/monster/12-396-dragonia.html) | 23 | 0 | 23 |
-| <input type="checkbox" id="rb1-item-12-1891" class="trackbox" /> | 1891 | [Additional Content Package 3](/neptunia/rb1/dungeon/12-pack3.html) | [Magical Shell](/neptunia/rb1/item/12-1891-magical-shell.html) (Material)<br />55%: [Dominance Machine](/neptunia/rb1/monster/12-399-dominance-machine.html) | 0 | 0 | 0 |
-| <input type="checkbox" id="rb1-item-12-3562" class="trackbox" /> | 3562 | [Additional Content Package 3](/neptunia/rb1/dungeon/12-pack3.html) | [Nurse Cap](/neptunia/rb1/item/12-3562-nurse-cap.html) (Accessory)<br />15%: [Death Girl](/neptunia/rb1/monster/12-395-death-girl.html) | 0 | 0 | 0 |
 
 ### Tough enemies enabled
 
+|    | ID | DLC | Name | Sells for | Remakes¹ | Quests² | Total |
+| -- | -- | --- | ---- | --------- | -------- | ------- | ----: |
+| <input type="checkbox" id="rb1-item-12-1738" class="trackbox" /> | 1738 | [Additional Content Package 3](/neptunia/rb1/dlc/12-pack3.html) | [Death Cloth](/neptunia/rb1/item/12-1738-death-cloth.html) (Material)<br />40%: [Death Boy](/neptunia/rb1/monster/12-394-death-boy.html) | 377 | 6 | 0 | 6 |
+| <input type="checkbox" id="rb1-item-12-1746" class="trackbox" /> | 1746 | [Additional Content Package 3](/neptunia/rb1/dlc/12-pack3.html) | [Yellow Ribbon](/neptunia/rb1/item/12-1746-yellow-ribbon.html) (Material)<br />40%: [Death Girl](/neptunia/rb1/monster/12-395-death-girl.html) | 417 | 2 | 0 | 2 |
+| <input type="checkbox" id="rb1-item-1-1829" class="trackbox" /> | 1829 | [Base](/neptunia/rb1/dlc/1-base.html) | [Iron Fragment](/neptunia/rb1/item/1-1829-iron-fragment.html) (Material)<br />40%: [ASIC Remnants](/neptunia/rb1/monster/12-398-asic-remnants.html) | 14 | 2 | 0 | 2 |
+| <input type="checkbox" id="rb1-item-1-1857" class="trackbox" /> | 1857 | [Base](/neptunia/rb1/dlc/1-base.html) | [Knighted Scale](/neptunia/rb1/item/1-1857-knighted-scale.html) (Material)<br />40%: [Dragonia](/neptunia/rb1/monster/12-396-dragonia.html) | 198 | 23 | 0 | 23 |
+| <input type="checkbox" id="rb1-item-12-1891" class="trackbox" /> | 1891 | [Additional Content Package 3](/neptunia/rb1/dlc/12-pack3.html) | [Magical Shell](/neptunia/rb1/item/12-1891-magical-shell.html) (Material)<br />55%: [Dominance Machine](/neptunia/rb1/monster/12-399-dominance-machine.html) | 8377 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb1-item-12-1955" class="trackbox" /> | 1955 | [Additional Content Package 3](/neptunia/rb1/dlc/12-pack3.html) | [Rune Encyclopedia](/neptunia/rb1/item/12-1955-rune-encyclopedia.html) (Material)<br />60%: [Clione](/neptunia/rb1/monster/12-401-clione.html) | 10000 | 2 | 0 | 2 |
+| <input type="checkbox" id="rb1-item-12-3562" class="trackbox" /> | 3562 | [Additional Content Package 3](/neptunia/rb1/dlc/12-pack3.html) | [Nurse Cap](/neptunia/rb1/item/12-3562-nurse-cap.html) (Accessory)<br />15%: [Death Girl](/neptunia/rb1/monster/12-395-death-girl.html) | 500 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb1-item-1-5152" class="trackbox" /> | 5152 | [Base](/neptunia/rb1/dlc/1-base.html) | [Famous Artist](/neptunia/rb1/item/1-5152-famous-artist.html) (Idea Chip (Red))<br />0%: [Clione](/neptunia/rb1/monster/12-401-clione.html) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb1-item-1-5172" class="trackbox" /> | 5172 | [Base](/neptunia/rb1/dlc/1-base.html) | [Many Resets](/neptunia/rb1/item/1-5172-many-resets.html) (Idea Chip (Red))<br />65%: [Procyon](/neptunia/rb1/monster/12-400-procyon.html) | 10 | 0 | 0 | 0 |
 
-|    | ID | DLC | Name | Remakes¹ | Quests² | Total |
-| -- | -- | --- | ---- | -------- | ------- | ----: |
-| <input type="checkbox" id="rb1-item-12-1738" class="trackbox" /> | 1738 | [Additional Content Package 3](/neptunia/rb1/dungeon/12-pack3.html) | [Death Cloth](/neptunia/rb1/item/12-1738-death-cloth.html) (Material)<br />40%: [Death Boy](/neptunia/rb1/monster/12-394-death-boy.html) | 6 | 0 | 6 |
-| <input type="checkbox" id="rb1-item-12-1746" class="trackbox" /> | 1746 | [Additional Content Package 3](/neptunia/rb1/dungeon/12-pack3.html) | [Yellow Ribbon](/neptunia/rb1/item/12-1746-yellow-ribbon.html) (Material)<br />40%: [Death Girl](/neptunia/rb1/monster/12-395-death-girl.html) | 2 | 0 | 2 |
-| <input type="checkbox" id="rb1-item-1-1829" class="trackbox" /> | 1829 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Iron Fragment](/neptunia/rb1/item/1-1829-iron-fragment.html) (Material)<br />40%: [ASIC Remnants](/neptunia/rb1/monster/12-398-asic-remnants.html) | 2 | 0 | 2 |
-| <input type="checkbox" id="rb1-item-1-1857" class="trackbox" /> | 1857 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Knighted Scale](/neptunia/rb1/item/1-1857-knighted-scale.html) (Material)<br />40%: [Dragonia](/neptunia/rb1/monster/12-396-dragonia.html) | 23 | 0 | 23 |
-| <input type="checkbox" id="rb1-item-12-1891" class="trackbox" /> | 1891 | [Additional Content Package 3](/neptunia/rb1/dungeon/12-pack3.html) | [Magical Shell](/neptunia/rb1/item/12-1891-magical-shell.html) (Material)<br />55%: [Dominance Machine](/neptunia/rb1/monster/12-399-dominance-machine.html) | 0 | 0 | 0 |
-| <input type="checkbox" id="rb1-item-12-1955" class="trackbox" /> | 1955 | [Additional Content Package 3](/neptunia/rb1/dungeon/12-pack3.html) | [Rune Encyclopedia](/neptunia/rb1/item/12-1955-rune-encyclopedia.html) (Material)<br />60%: [Clione](/neptunia/rb1/monster/12-401-clione.html) | 2 | 0 | 2 |
-| <input type="checkbox" id="rb1-item-12-3562" class="trackbox" /> | 3562 | [Additional Content Package 3](/neptunia/rb1/dungeon/12-pack3.html) | [Nurse Cap](/neptunia/rb1/item/12-3562-nurse-cap.html) (Accessory)<br />15%: [Death Girl](/neptunia/rb1/monster/12-395-death-girl.html) | 0 | 0 | 0 |
-| <input type="checkbox" id="rb1-item-1-5152" class="trackbox" /> | 5152 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Famous Artist](/neptunia/rb1/item/1-5152-famous-artist.html) (Idea Chip (Red))<br />0%: [Clione](/neptunia/rb1/monster/12-401-clione.html) | 0 | 0 | 0 |
-| <input type="checkbox" id="rb1-item-1-5172" class="trackbox" /> | 5172 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Many Resets](/neptunia/rb1/item/1-5172-many-resets.html) (Idea Chip (Red))<br />65%: [Procyon](/neptunia/rb1/monster/12-400-procyon.html) | 0 | 0 | 0 |
 
 ### Super enemies enabled
 
+|    | ID | DLC | Name | Sells for | Remakes¹ | Quests² | Total |
+| -- | -- | --- | ---- | --------- | -------- | ------- | ----: |
+| <input type="checkbox" id="rb1-item-12-1738" class="trackbox" /> | 1738 | [Additional Content Package 3](/neptunia/rb1/dlc/12-pack3.html) | [Death Cloth](/neptunia/rb1/item/12-1738-death-cloth.html) (Material)<br />40%: [Death Boy](/neptunia/rb1/monster/12-394-death-boy.html) | 377 | 6 | 0 | 6 |
+| <input type="checkbox" id="rb1-item-12-1746" class="trackbox" /> | 1746 | [Additional Content Package 3](/neptunia/rb1/dlc/12-pack3.html) | [Yellow Ribbon](/neptunia/rb1/item/12-1746-yellow-ribbon.html) (Material)<br />40%: [Death Girl](/neptunia/rb1/monster/12-395-death-girl.html) | 417 | 2 | 0 | 2 |
+| <input type="checkbox" id="rb1-item-1-1829" class="trackbox" /> | 1829 | [Base](/neptunia/rb1/dlc/1-base.html) | [Iron Fragment](/neptunia/rb1/item/1-1829-iron-fragment.html) (Material)<br />40%: [ASIC Remnants](/neptunia/rb1/monster/12-398-asic-remnants.html) | 14 | 2 | 0 | 2 |
+| <input type="checkbox" id="rb1-item-1-1857" class="trackbox" /> | 1857 | [Base](/neptunia/rb1/dlc/1-base.html) | [Knighted Scale](/neptunia/rb1/item/1-1857-knighted-scale.html) (Material)<br />40%: [Dragonia](/neptunia/rb1/monster/12-396-dragonia.html) | 198 | 23 | 0 | 23 |
+| <input type="checkbox" id="rb1-item-12-1952" class="trackbox" /> | 1952 | [Additional Content Package 3](/neptunia/rb1/dlc/12-pack3.html) | [Valiant Tama](/neptunia/rb1/item/12-1952-valiant-tama.html) (Material)<br />60%: [True Legacy](/neptunia/rb1/monster/12-402-true-legacy.html) | 10000 | 1 | 0 | 1 |
+| <input type="checkbox" id="rb1-item-12-1955" class="trackbox" /> | 1955 | [Additional Content Package 3](/neptunia/rb1/dlc/12-pack3.html) | [Rune Encyclopedia](/neptunia/rb1/item/12-1955-rune-encyclopedia.html) (Material)<br />60%: [Clione](/neptunia/rb1/monster/12-401-clione.html) | 10000 | 2 | 0 | 2 |
+| <input type="checkbox" id="rb1-item-12-3562" class="trackbox" /> | 3562 | [Additional Content Package 3](/neptunia/rb1/dlc/12-pack3.html) | [Nurse Cap](/neptunia/rb1/item/12-3562-nurse-cap.html) (Accessory)<br />15%: [Death Girl](/neptunia/rb1/monster/12-395-death-girl.html) | 500 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb1-item-1-5152" class="trackbox" /> | 5152 | [Base](/neptunia/rb1/dlc/1-base.html) | [Famous Artist](/neptunia/rb1/item/1-5152-famous-artist.html) (Idea Chip (Red))<br />0%: [Clione](/neptunia/rb1/monster/12-401-clione.html) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb1-item-1-5172" class="trackbox" /> | 5172 | [Base](/neptunia/rb1/dlc/1-base.html) | [Many Resets](/neptunia/rb1/item/1-5172-many-resets.html) (Idea Chip (Red))<br />65%: [Procyon](/neptunia/rb1/monster/12-400-procyon.html) | 10 | 0 | 0 | 0 |
 
-|    | ID | DLC | Name | Remakes¹ | Quests² | Total |
-| -- | -- | --- | ---- | -------- | ------- | ----: |
-| <input type="checkbox" id="rb1-item-12-1738" class="trackbox" /> | 1738 | [Additional Content Package 3](/neptunia/rb1/dungeon/12-pack3.html) | [Death Cloth](/neptunia/rb1/item/12-1738-death-cloth.html) (Material)<br />40%: [Death Boy](/neptunia/rb1/monster/12-394-death-boy.html) | 6 | 0 | 6 |
-| <input type="checkbox" id="rb1-item-12-1746" class="trackbox" /> | 1746 | [Additional Content Package 3](/neptunia/rb1/dungeon/12-pack3.html) | [Yellow Ribbon](/neptunia/rb1/item/12-1746-yellow-ribbon.html) (Material)<br />40%: [Death Girl](/neptunia/rb1/monster/12-395-death-girl.html) | 2 | 0 | 2 |
-| <input type="checkbox" id="rb1-item-1-1829" class="trackbox" /> | 1829 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Iron Fragment](/neptunia/rb1/item/1-1829-iron-fragment.html) (Material)<br />40%: [ASIC Remnants](/neptunia/rb1/monster/12-398-asic-remnants.html) | 2 | 0 | 2 |
-| <input type="checkbox" id="rb1-item-1-1857" class="trackbox" /> | 1857 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Knighted Scale](/neptunia/rb1/item/1-1857-knighted-scale.html) (Material)<br />40%: [Dragonia](/neptunia/rb1/monster/12-396-dragonia.html) | 23 | 0 | 23 |
-| <input type="checkbox" id="rb1-item-12-1952" class="trackbox" /> | 1952 | [Additional Content Package 3](/neptunia/rb1/dungeon/12-pack3.html) | [Valiant Tama](/neptunia/rb1/item/12-1952-valiant-tama.html) (Material)<br />60%: [True Legacy](/neptunia/rb1/monster/12-402-true-legacy.html) | 1 | 0 | 1 |
-| <input type="checkbox" id="rb1-item-12-1955" class="trackbox" /> | 1955 | [Additional Content Package 3](/neptunia/rb1/dungeon/12-pack3.html) | [Rune Encyclopedia](/neptunia/rb1/item/12-1955-rune-encyclopedia.html) (Material)<br />60%: [Clione](/neptunia/rb1/monster/12-401-clione.html) | 2 | 0 | 2 |
-| <input type="checkbox" id="rb1-item-12-3562" class="trackbox" /> | 3562 | [Additional Content Package 3](/neptunia/rb1/dungeon/12-pack3.html) | [Nurse Cap](/neptunia/rb1/item/12-3562-nurse-cap.html) (Accessory)<br />15%: [Death Girl](/neptunia/rb1/monster/12-395-death-girl.html) | 0 | 0 | 0 |
-| <input type="checkbox" id="rb1-item-1-5152" class="trackbox" /> | 5152 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Famous Artist](/neptunia/rb1/item/1-5152-famous-artist.html) (Idea Chip (Red))<br />0%: [Clione](/neptunia/rb1/monster/12-401-clione.html) | 0 | 0 | 0 |
-| <input type="checkbox" id="rb1-item-1-5172" class="trackbox" /> | 5172 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Many Resets](/neptunia/rb1/item/1-5172-many-resets.html) (Idea Chip (Red))<br />65%: [Procyon](/neptunia/rb1/monster/12-400-procyon.html) | 0 | 0 | 0 |
 
 ¹ Total amount needed for Remake System recipes.<br />² Total amount needed to complete quests at least once.
 

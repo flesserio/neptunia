@@ -13,12 +13,12 @@ title: Status Down Null (Ability) - Hyperdimension Neptunia Re;Birth1
 
 |   |   |
 | -- | -- |
-| **ID** | 553
-**DLC** | [[Histoire] Battle Entry License](/neptunia/rb1/dlc/9-histoire.html)
-**Name** | Status Down Null
-**Required Lily level** | 3
-**Description** | Status Down Null
-**Effects** | Gives Debuffing Immunity |
+| **ID** | 553 |
+| **DLC** | [[Histoire] Battle Entry License](/neptunia/rb1/dlc/9-histoire.html) |
+| **Name** | Status Down Null |
+| **Required Lily level** | 3 |
+| **Description** | Status Down Null |
+| **Effects** | Gives Debuffing Immunity |
 
 
 ## Player characters who have Status Down Null as a Lily effect (1)

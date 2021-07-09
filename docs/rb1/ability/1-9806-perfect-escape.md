@@ -13,12 +13,12 @@ title: Perfect Escape (Ability) - Hyperdimension Neptunia Re;Birth1
 
 |   |   |
 | -- | -- |
-| **ID** | 9806
-**DLC** | [Base](/neptunia/rb1/dlc/1-base.html)
-**Name** | Perfect Escape
-**Required Lily level** | N/A
-**Description** | 
-**Effects** | Increases Escape Rate by 100% |
+| **ID** | 9806 |
+| **DLC** | [Base](/neptunia/rb1/dlc/1-base.html) |
+| **Name** | Perfect Escape |
+| **Required Lily level** | N/A |
+| **Description** |  |
+| **Effects** | Increases Escape Rate by 100% |
 
 
 ## Idea Chip disc combinations which grant Perfect Escape (1)

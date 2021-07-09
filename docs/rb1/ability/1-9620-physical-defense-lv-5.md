@@ -13,12 +13,12 @@ title: Physical Defense + Lv.5 (Ability) - Hyperdimension Neptunia Re;Birth1
 
 |   |   |
 | -- | -- |
-| **ID** | 9620
-**DLC** | [Base](/neptunia/rb1/dlc/1-base.html)
-**Name** | Physical Defense + Lv.5
-**Required Lily level** | N/A
-**Description** | Phys. Damage Taken Down
-**Effects** | Increases Phys. Defense by 30% |
+| **ID** | 9620 |
+| **DLC** | [Base](/neptunia/rb1/dlc/1-base.html) |
+| **Name** | Physical Defense + Lv.5 |
+| **Required Lily level** | N/A |
+| **Description** | Phys. Damage Taken Down |
+| **Effects** | Increases Phys. Defense by 30% |
 
 
 ## Idea Chips which have Physical Defense + Lv.5 as ability (1)

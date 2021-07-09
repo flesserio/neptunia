@@ -12,9 +12,9 @@ title: Physical/Thrust DEF + (Ability) - Hyperdimension Neptunia Re;Birth1
 
 |   |   |
 | -- | -- |
-| **ID** | 13
-**DLC** | [Base](/neptunia/rb1/dlc/1-base.html)
-**Name** | Physical/Thrust DEF +
-**Required Lily level** | N/A
-**Description** | 
-**Effects** | Increases Phys. Defense by 50% |
+| **ID** | 13 |
+| **DLC** | [Base](/neptunia/rb1/dlc/1-base.html) |
+| **Name** | Physical/Thrust DEF + |
+| **Required Lily level** | N/A |
+| **Description** |  |
+| **Effects** | Increases Phys. Defense by 50% |

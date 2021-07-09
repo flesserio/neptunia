@@ -13,12 +13,12 @@ title: Back Attack Immunity (Ability) - Hyperdimension Neptunia Re;Birth1
 
 |   |   |
 | -- | -- |
-| **ID** | 9813
-**DLC** | [Base](/neptunia/rb1/dlc/1-base.html)
-**Name** | Back Attack Immunity
-**Required Lily level** | N/A
-**Description** | 
-**Effects** | Gives Back Attack Immunity |
+| **ID** | 9813 |
+| **DLC** | [Base](/neptunia/rb1/dlc/1-base.html) |
+| **Name** | Back Attack Immunity |
+| **Required Lily level** | N/A |
+| **Description** |  |
+| **Effects** | Gives Back Attack Immunity |
 
 
 ## Idea Chip disc combinations which grant Back Attack Immunity (1)

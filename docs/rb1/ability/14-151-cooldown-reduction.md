@@ -13,12 +13,12 @@ title: Cooldown Reduction (Ability) - Hyperdimension Neptunia Re;Birth1
 
 |   |   |
 | -- | -- |
-| **ID** | 151
-**DLC** | [Additional Content Pack 5](/neptunia/rb1/dlc/14-pack5.html)
-**Name** | Cooldown Reduction
-**Required Lily level** | N/A
-**Description** | Cooldown Reduction
-**Effects** | Increases Wait Time Recovery by 25% |
+| **ID** | 151 |
+| **DLC** | [Additional Content Pack 5](/neptunia/rb1/dlc/14-pack5.html) |
+| **Name** | Cooldown Reduction |
+| **Required Lily level** | N/A |
+| **Description** | Cooldown Reduction |
+| **Effects** | Increases Wait Time Recovery by 25% |
 
 
 ## Player characters who have Cooldown Reduction as a passive ability (1)

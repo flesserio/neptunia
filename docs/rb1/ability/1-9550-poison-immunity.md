@@ -13,12 +13,12 @@ title: Poison Immunity (Ability) - Hyperdimension Neptunia Re;Birth1
 
 |   |   |
 | -- | -- |
-| **ID** | 9550
-**DLC** | [Base](/neptunia/rb1/dlc/1-base.html)
-**Name** | Poison Immunity
-**Required Lily level** | N/A
-**Description** | Poison Immunity
-**Effects** | Gives Poison Immunity |
+| **ID** | 9550 |
+| **DLC** | [Base](/neptunia/rb1/dlc/1-base.html) |
+| **Name** | Poison Immunity |
+| **Required Lily level** | N/A |
+| **Description** | Poison Immunity |
+| **Effects** | Gives Poison Immunity |
 
 
 ## Idea Chips which have Poison Immunity as ability (1)

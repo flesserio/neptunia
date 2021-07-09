@@ -12,9 +12,9 @@ title: Poison Immunity (Ability) - Hyperdimension Neptunia Re;Birth1
 
 |   |   |
 | -- | -- |
-| **ID** | 1001
-**DLC** | [Base](/neptunia/rb1/dlc/1-base.html)
-**Name** | Poison Immunity
-**Required Lily level** | N/A
-**Description** | Poison Immunity
-**Effects** | Gives Poison Immunity |
+| **ID** | 1001 |
+| **DLC** | [Base](/neptunia/rb1/dlc/1-base.html) |
+| **Name** | Poison Immunity |
+| **Required Lily level** | N/A |
+| **Description** | Poison Immunity |
+| **Effects** | Gives Poison Immunity |

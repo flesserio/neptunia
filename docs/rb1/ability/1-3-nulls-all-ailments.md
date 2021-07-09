@@ -12,9 +12,9 @@ title: Nulls All Ailments (Ability) - Hyperdimension Neptunia Re;Birth1
 
 |   |   |
 | -- | -- |
-| **ID** | 3
-**DLC** | [Base](/neptunia/rb1/dlc/1-base.html)
-**Name** | Nulls All Ailments
-**Required Lily level** | N/A
-**Description** | 
-**Effects** | Gives Poison Immunity<br />Gives Paralysis Immunity<br />Gives Skill Seal Immunity<br />Gives Virus Immunity |
+| **ID** | 3 |
+| **DLC** | [Base](/neptunia/rb1/dlc/1-base.html) |
+| **Name** | Nulls All Ailments |
+| **Required Lily level** | N/A |
+| **Description** |  |
+| **Effects** | Gives Poison Immunity<br />Gives Paralysis Immunity<br />Gives Skill Seal Immunity<br />Gives Virus Immunity |

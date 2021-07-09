@@ -14,16 +14,16 @@ title: Colosseum (Dungeon) - Hyperdimension Neptunia Re;Birth1
 
 ## Basic information
 
-
-|    |    |
+|   |   |
 | -- | -- |
 | **ID** | 201 |
-| **DLC** | [Base](/neptunia/rb1/dungeon/1-base.html) |
+| **DLC** | [Base](/neptunia/rb1/dlc/1-base.html) |
 | **Name** | Colosseum |
 | **Item Change available?** | No |
 | **Add Enemies available?** | No |
 | **Add Super Enemies available?** | No |
-| **To unlock dungeon**| N/A |
+| **To unlock dungeon** | N/A |
+
 
 ## Items found in Colosseum from gathering points
 
@@ -31,30 +31,30 @@ See [gathering point tables](#gathering-point-tables-for-colosseum) for more inf
 
 ### From normal gathering points
 
+|    | ID | DLC | Name | Sells for | Remakes¹ | Quests² | Total |
+| -- | -- | --- | ---- | --------- | -------- | ------- | ----: |
 
-|    | ID | DLC | Name | Remakes¹ | Quests² | Total |
-| -- | -- | --- | ---- | -------- | ------- | ----: |
 
 
 ### From Harvest Shift gathering points
 
+|    | ID | DLC | Name | Sells for | Remakes¹ | Quests² | Total |
+| -- | -- | --- | ---- | --------- | -------- | ------- | ----: |
 
-|    | ID | DLC | Name | Remakes¹ | Quests² | Total |
-| -- | -- | --- | ---- | -------- | ------- | ----: |
 
 
 ### From treasure gathering points
 
+|    | ID | DLC | Name | Sells for | Remakes¹ | Quests² | Total |
+| -- | -- | --- | ---- | --------- | -------- | ------- | ----: |
 
-|    | ID | DLC | Name | Remakes¹ | Quests² | Total |
-| -- | -- | --- | ---- | -------- | ------- | ----: |
 
 
 ### From hidden treasure gathering points
 
+|    | ID | DLC | Name | Sells for | Remakes¹ | Quests² | Total |
+| -- | -- | --- | ---- | --------- | -------- | ------- | ----: |
 
-|    | ID | DLC | Name | Remakes¹ | Quests² | Total |
-| -- | -- | --- | ---- | -------- | ------- | ----: |
 
 
 ¹ Total amount needed for Remake System recipes.<br />² Total amount needed to complete quests at least once.
@@ -64,13 +64,13 @@ See [gathering point tables](#gathering-point-tables-for-colosseum) for more inf
 
 ### Standard enemies
 
+|    | ID | DLC | Name | Sells for | Remakes¹ | Quests² | Total |
+| -- | -- | --- | ---- | --------- | -------- | ------- | ----: |
+| <input type="checkbox" id="rb1-item-1-1701" class="trackbox" /> | 1701 | [Base](/neptunia/rb1/dlc/1-base.html) | [Dogoo Jelly](/neptunia/rb1/item/1-1701-dogoo-jelly.html) (Material)<br />55%: [Dogoo](/neptunia/rb1/monster/1-101-dogoo.html) | 1 | 8 | 0 | 8 |
+| <input type="checkbox" id="rb1-item-1-1748" class="trackbox" /> | 1748 | [Base](/neptunia/rb1/dlc/1-base.html) | [Yellow Petal](/neptunia/rb1/item/1-1748-yellow-petal.html) (Material)<br />55%: [Tulip](/neptunia/rb1/monster/1-102-tulip.html) | 2 | 8 | 0 | 8 |
+| <input type="checkbox" id="rb1-item-1-1855" class="trackbox" /> | 1855 | [Base](/neptunia/rb1/dlc/1-base.html) | [Boxer-X Soul](/neptunia/rb1/item/1-1855-boxer-x-soul.html) (Material)<br />65%: [Boxer-X](/neptunia/rb1/monster/1-104-boxer-x.html) | 4 | 6 | 2 | 8 |
+| <input type="checkbox" id="rb1-item-1-1910" class="trackbox" /> | 1910 | [Base](/neptunia/rb1/dlc/1-base.html) | [Dogoo-Man Jelly](/neptunia/rb1/item/1-1910-dogoo-man-jelly.html) (Material)<br />55%: [Dogoo-Man](/neptunia/rb1/monster/1-103-dogoo-man.html) | 2 | 7 | 0 | 7 |
 
-|    | ID | DLC | Name | Remakes¹ | Quests² | Total |
-| -- | -- | --- | ---- | -------- | ------- | ----: |
-| <input type="checkbox" id="rb1-item-1-1701" class="trackbox" /> | 1701 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Dogoo Jelly](/neptunia/rb1/item/1-1701-dogoo-jelly.html) (Material)<br />55%: [Dogoo](/neptunia/rb1/monster/1-101-dogoo.html) | 8 | 0 | 8 |
-| <input type="checkbox" id="rb1-item-1-1748" class="trackbox" /> | 1748 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Yellow Petal](/neptunia/rb1/item/1-1748-yellow-petal.html) (Material)<br />55%: [Tulip](/neptunia/rb1/monster/1-102-tulip.html) | 8 | 0 | 8 |
-| <input type="checkbox" id="rb1-item-1-1855" class="trackbox" /> | 1855 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Boxer-X Soul](/neptunia/rb1/item/1-1855-boxer-x-soul.html) (Material)<br />65%: [Boxer-X](/neptunia/rb1/monster/1-104-boxer-x.html) | 6 | 2 | 8 |
-| <input type="checkbox" id="rb1-item-1-1910" class="trackbox" /> | 1910 | [Base](/neptunia/rb1/dungeon/1-base.html) | [Dogoo-Man Jelly](/neptunia/rb1/item/1-1910-dogoo-man-jelly.html) (Material)<br />55%: [Dogoo-Man](/neptunia/rb1/monster/1-103-dogoo-man.html) | 7 | 0 | 7 |
 
 
 

@@ -12,9 +12,9 @@ title: Skill Seal Immunity (Ability) - Hyperdimension Neptunia Re;Birth1
 
 |   |   |
 | -- | -- |
-| **ID** | 1003
-**DLC** | [Base](/neptunia/rb1/dlc/1-base.html)
-**Name** | Skill Seal Immunity
-**Required Lily level** | N/A
-**Description** | Skill Seal Immunity
-**Effects** | Gives Skill Seal Immunity |
+| **ID** | 1003 |
+| **DLC** | [Base](/neptunia/rb1/dlc/1-base.html) |
+| **Name** | Skill Seal Immunity |
+| **Required Lily level** | N/A |
+| **Description** | Skill Seal Immunity |
+| **Effects** | Gives Skill Seal Immunity |

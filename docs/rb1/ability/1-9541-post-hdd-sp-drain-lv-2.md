@@ -13,12 +13,12 @@ title: Post-HDD SP Drain - Lv.2 (Ability) - Hyperdimension Neptunia Re;Birth1
 
 |   |   |
 | -- | -- |
-| **ID** | 9541
-**DLC** | [Base](/neptunia/rb1/dlc/1-base.html)
-**Name** | Post-HDD SP Drain - Lv.2
-**Required Lily level** | N/A
-**Description** | Post-HDD SP Drain Down
-**Effects** | Decreases HDD SP Consumption by 7% |
+| **ID** | 9541 |
+| **DLC** | [Base](/neptunia/rb1/dlc/1-base.html) |
+| **Name** | Post-HDD SP Drain - Lv.2 |
+| **Required Lily level** | N/A |
+| **Description** | Post-HDD SP Drain Down |
+| **Effects** | Decreases HDD SP Consumption by 7% |
 
 
 ## Idea Chips which have Post-HDD SP Drain - Lv.2 as ability (1)

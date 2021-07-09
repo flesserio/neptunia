@@ -13,12 +13,12 @@ title: Category Affinity Null (Ability) - Hyperdimension Neptunia Re;Birth1
 
 |   |   |
 | -- | -- |
-| **ID** | 551
-**DLC** | [[Histoire] Battle Entry License](/neptunia/rb1/dlc/9-histoire.html)
-**Name** | Category Affinity Null
-**Required Lily level** | N/A
-**Description** | Category Affinity Null
-**Effects** | Gives Ignore Enemy Traits |
+| **ID** | 551 |
+| **DLC** | [[Histoire] Battle Entry License](/neptunia/rb1/dlc/9-histoire.html) |
+| **Name** | Category Affinity Null |
+| **Required Lily level** | N/A |
+| **Description** | Category Affinity Null |
+| **Effects** | Gives Ignore Enemy Traits |
 
 
 ## Player characters who have Category Affinity Null as a passive ability (1)

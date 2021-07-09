@@ -13,12 +13,12 @@ title: EXE Gauge Boost Lv.5 (Ability) - Hyperdimension Neptunia Re;Birth1
 
 |   |   |
 | -- | -- |
-| **ID** | 9815
-**DLC** | [Base](/neptunia/rb1/dlc/1-base.html)
-**Name** | EXE Gauge Boost Lv.5
-**Required Lily level** | N/A
-**Description** | 
-**Effects** | Increases EXE Gauge Boost by 100% |
+| **ID** | 9815 |
+| **DLC** | [Base](/neptunia/rb1/dlc/1-base.html) |
+| **Name** | EXE Gauge Boost Lv.5 |
+| **Required Lily level** | N/A |
+| **Description** |  |
+| **Effects** | Increases EXE Gauge Boost by 100% |
 
 
 ## Idea Chip disc combinations which grant EXE Gauge Boost Lv.5 (1)

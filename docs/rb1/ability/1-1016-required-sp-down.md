@@ -12,9 +12,9 @@ title: Required SP Down 鉢� (Ability) - Hyperdimension Neptunia Re;Birth1
 
 |   |   |
 | -- | -- |
-| **ID** | 1016
-**DLC** | [Base](/neptunia/rb1/dlc/1-base.html)
-**Name** | Required SP Down 鉢�
-**Required Lily level** | N/A
-**Description** | Decreased SP Usage
-**Effects** | Decreases SP Required by 20% |
+| **ID** | 1016 |
+| **DLC** | [Base](/neptunia/rb1/dlc/1-base.html) |
+| **Name** | Required SP Down 鉢� |
+| **Required Lily level** | N/A |
+| **Description** | Decreased SP Usage |
+| **Effects** | Decreases SP Required by 20% |

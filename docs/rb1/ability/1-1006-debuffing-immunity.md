@@ -12,9 +12,9 @@ title: Debuffing Immunity (Ability) - Hyperdimension Neptunia Re;Birth1
 
 |   |   |
 | -- | -- |
-| **ID** | 1006
-**DLC** | [Base](/neptunia/rb1/dlc/1-base.html)
-**Name** | Debuffing Immunity
-**Required Lily level** | N/A
-**Description** | Debuffing Immunity
-**Effects** | Gives Debuffing Immunity |
+| **ID** | 1006 |
+| **DLC** | [Base](/neptunia/rb1/dlc/1-base.html) |
+| **Name** | Debuffing Immunity |
+| **Required Lily level** | N/A |
+| **Description** | Debuffing Immunity |
+| **Effects** | Gives Debuffing Immunity |

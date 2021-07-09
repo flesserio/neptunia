@@ -13,12 +13,12 @@ title: Gained EXP Up Lv.2 (Ability) - Hyperdimension Neptunia Re;Birth1
 
 |   |   |
 | -- | -- |
-| **ID** | 9814
-**DLC** | [Base](/neptunia/rb1/dlc/1-base.html)
-**Name** | Gained EXP Up Lv.2
-**Required Lily level** | N/A
-**Description** | 
-**Effects** | Increases Gained XP by 20% |
+| **ID** | 9814 |
+| **DLC** | [Base](/neptunia/rb1/dlc/1-base.html) |
+| **Name** | Gained EXP Up Lv.2 |
+| **Required Lily level** | N/A |
+| **Description** |  |
+| **Effects** | Increases Gained XP by 20% |
 
 
 ## Idea Chip disc combinations which grant Gained EXP Up Lv.2 (1)

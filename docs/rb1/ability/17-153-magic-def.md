@@ -13,12 +13,12 @@ title: Magic DEF + (Ability) - Hyperdimension Neptunia Re;Birth1
 
 |   |   |
 | -- | -- |
-| **ID** | 153
-**DLC** | [Additional Content Pack 8](/neptunia/rb1/dlc/17-pack8.html)
-**Name** | Magic DEF +
-**Required Lily level** | N/A
-**Description** | Magic DEF +
-**Effects** | Increases Mag. Defense by 25% |
+| **ID** | 153 |
+| **DLC** | [Additional Content Pack 8](/neptunia/rb1/dlc/17-pack8.html) |
+| **Name** | Magic DEF + |
+| **Required Lily level** | N/A |
+| **Description** | Magic DEF + |
+| **Effects** | Increases Mag. Defense by 25% |
 
 
 ## Player characters who have Magic DEF + as a passive ability (1)

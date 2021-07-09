@@ -13,12 +13,12 @@ title: Debuffing Immunity (Ability) - Hyperdimension Neptunia Re;Birth1
 
 |   |   |
 | -- | -- |
-| **ID** | 9810
-**DLC** | [Base](/neptunia/rb1/dlc/1-base.html)
-**Name** | Debuffing Immunity
-**Required Lily level** | N/A
-**Description** | 
-**Effects** | Gives Debuffing Immunity |
+| **ID** | 9810 |
+| **DLC** | [Base](/neptunia/rb1/dlc/1-base.html) |
+| **Name** | Debuffing Immunity |
+| **Required Lily level** | N/A |
+| **Description** |  |
+| **Effects** | Gives Debuffing Immunity |
 
 
 ## Idea Chip disc combinations which grant Debuffing Immunity (1)

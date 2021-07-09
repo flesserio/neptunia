@@ -13,12 +13,12 @@ title: Increase Phys. Defense (Ability) - Hyperdimension Neptunia Re;Birth1
 
 |   |   |
 | -- | -- |
-| **ID** | 514
-**DLC** | [[Peashy] Battle Entry License](/neptunia/rb1/dlc/8-peashy.html)
-**Name** | Increase Phys. Defense
-**Required Lily level** | 2
-**Description** | Increase Phys. Defense
-**Effects** | Increases Phys. Defense by 25% |
+| **ID** | 514 |
+| **DLC** | [[Peashy] Battle Entry License](/neptunia/rb1/dlc/8-peashy.html) |
+| **Name** | Increase Phys. Defense |
+| **Required Lily level** | 2 |
+| **Description** | Increase Phys. Defense |
+| **Effects** | Increases Phys. Defense by 25% |
 
 
 ## Player characters who have Increase Phys. Defense as a Lily effect (1)

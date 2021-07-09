@@ -13,12 +13,12 @@ title: Add Paralysis Lv.2 (Ability) - Hyperdimension Neptunia Re;Birth1
 
 |   |   |
 | -- | -- |
-| **ID** | 9808
-**DLC** | [Base](/neptunia/rb1/dlc/1-base.html)
-**Name** | Add Paralysis Lv.2
-**Required Lily level** | N/A
-**Description** | 
-**Effects** | Increases Add Paralysis by 14% |
+| **ID** | 9808 |
+| **DLC** | [Base](/neptunia/rb1/dlc/1-base.html) |
+| **Name** | Add Paralysis Lv.2 |
+| **Required Lily level** | N/A |
+| **Description** |  |
+| **Effects** | Increases Add Paralysis by 14% |
 
 
 ## Idea Chip disc combinations which grant Add Paralysis Lv.2 (1)

@@ -13,12 +13,12 @@ title: Reduce Wait Time (Ability) - Hyperdimension Neptunia Re;Birth1
 
 |   |   |
 | -- | -- |
-| **ID** | 513
-**DLC** | [[Peashy] Battle Entry License](/neptunia/rb1/dlc/8-peashy.html)
-**Name** | Reduce Wait Time
-**Required Lily level** | 1
-**Description** | Reduce Wait Time
-**Effects** | Increases Wait Time Recovery by 2% |
+| **ID** | 513 |
+| **DLC** | [[Peashy] Battle Entry License](/neptunia/rb1/dlc/8-peashy.html) |
+| **Name** | Reduce Wait Time |
+| **Required Lily level** | 1 |
+| **Description** | Reduce Wait Time |
+| **Effects** | Increases Wait Time Recovery by 2% |
 
 
 ## Player characters who have Reduce Wait Time as a Lily effect (1)

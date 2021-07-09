@@ -13,12 +13,12 @@ title: Auto HP Restore 八｡ (Ability) - Hyperdimension Neptunia Re;Birth1
 
 |   |   |
 | -- | -- |
-| **ID** | 1012
-**DLC** | [Base](/neptunia/rb1/dlc/1-base.html)
-**Name** | Auto HP Restore 八｡
-**Required Lily level** | N/A
-**Description** | Auto HP Restore
-**Effects** | Increases HP Recovery Per Turn by 12% |
+| **ID** | 1012 |
+| **DLC** | [Base](/neptunia/rb1/dlc/1-base.html) |
+| **Name** | Auto HP Restore 八｡ |
+| **Required Lily level** | N/A |
+| **Description** | Auto HP Restore |
+| **Effects** | Increases HP Recovery Per Turn by 12% |
 
 
 ## Monsters who have Auto HP Restore 八｡ as a passive ability (6)

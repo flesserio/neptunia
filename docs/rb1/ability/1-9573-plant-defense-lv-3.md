@@ -13,12 +13,12 @@ title: Plant Defense Lv.3 (Ability) - Hyperdimension Neptunia Re;Birth1
 
 |   |   |
 | -- | -- |
-| **ID** | 9573
-**DLC** | [Base](/neptunia/rb1/dlc/1-base.html)
-**Name** | Plant Defense Lv.3
-**Required Lily level** | N/A
-**Description** | Plant Foe Damage Down
-**Effects** | Increases Plant Defense by 20% |
+| **ID** | 9573 |
+| **DLC** | [Base](/neptunia/rb1/dlc/1-base.html) |
+| **Name** | Plant Defense Lv.3 |
+| **Required Lily level** | N/A |
+| **Description** | Plant Foe Damage Down |
+| **Effects** | Increases Plant Defense by 20% |
 
 
 ## Idea Chips which have Plant Defense Lv.3 as ability (1)

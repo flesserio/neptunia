@@ -13,12 +13,12 @@ title: Add Poison Lv.2 (Ability) - Hyperdimension Neptunia Re;Birth1
 
 |   |   |
 | -- | -- |
-| **ID** | 9536
-**DLC** | [Base](/neptunia/rb1/dlc/1-base.html)
-**Name** | Add Poison Lv.2
-**Required Lily level** | N/A
-**Description** | Add Poison
-**Effects** | Increases Add Poison by 12% |
+| **ID** | 9536 |
+| **DLC** | [Base](/neptunia/rb1/dlc/1-base.html) |
+| **Name** | Add Poison Lv.2 |
+| **Required Lily level** | N/A |
+| **Description** | Add Poison |
+| **Effects** | Increases Add Poison by 12% |
 
 
 ## Idea Chips which have Add Poison Lv.2 as ability (1)

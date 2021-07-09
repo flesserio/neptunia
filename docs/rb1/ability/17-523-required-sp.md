@@ -13,12 +13,12 @@ title: Required SP - (Ability) - Hyperdimension Neptunia Re;Birth1
 
 |   |   |
 | -- | -- |
-| **ID** | 523
-**DLC** | [Additional Content Pack 8](/neptunia/rb1/dlc/17-pack8.html)
-**Name** | Required SP -
-**Required Lily level** | 3
-**Description** | Required SP -
-**Effects** | Decreases SP Required by 20% |
+| **ID** | 523 |
+| **DLC** | [Additional Content Pack 8](/neptunia/rb1/dlc/17-pack8.html) |
+| **Name** | Required SP - |
+| **Required Lily level** | 3 |
+| **Description** | Required SP - |
+| **Effects** | Decreases SP Required by 20% |
 
 
 ## Player characters who have Required SP - as a Lily effect (1)

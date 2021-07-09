@@ -12,9 +12,9 @@ title: Null Category (Ability) - Hyperdimension Neptunia Re;Birth1
 
 |   |   |
 | -- | -- |
-| **ID** | 549
-**DLC** | [Additional Content Pack 5](/neptunia/rb1/dlc/14-pack5.html)
-**Name** | Null Category
-**Required Lily level** | 2
-**Description** | Null Category
-**Effects** | Gives Ignore Enemy Traits |
+| **ID** | 549 |
+| **DLC** | [Additional Content Pack 5](/neptunia/rb1/dlc/14-pack5.html) |
+| **Name** | Null Category |
+| **Required Lily level** | 2 |
+| **Description** | Null Category |
+| **Effects** | Gives Ignore Enemy Traits |

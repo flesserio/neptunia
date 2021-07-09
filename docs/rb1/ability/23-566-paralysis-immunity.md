@@ -13,12 +13,12 @@ title: Paralysis Immunity (Ability) - Hyperdimension Neptunia Re;Birth1
 
 |   |   |
 | -- | -- |
-| **ID** | 566
-**DLC** | [Additional Content Pack 14](/neptunia/rb1/dlc/23-pack14.html)
-**Name** | Paralysis Immunity
-**Required Lily level** | N/A
-**Description** | Paralysis Immunity
-**Effects** | Gives Paralysis Immunity |
+| **ID** | 566 |
+| **DLC** | [Additional Content Pack 14](/neptunia/rb1/dlc/23-pack14.html) |
+| **Name** | Paralysis Immunity |
+| **Required Lily level** | N/A |
+| **Description** | Paralysis Immunity |
+| **Effects** | Gives Paralysis Immunity |
 
 
 ## Player characters who have Paralysis Immunity as a Lily effect (1)

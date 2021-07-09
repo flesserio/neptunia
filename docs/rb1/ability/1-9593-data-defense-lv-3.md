@@ -13,12 +13,12 @@ title: Data Defense Lv.3 (Ability) - Hyperdimension Neptunia Re;Birth1
 
 |   |   |
 | -- | -- |
-| **ID** | 9593
-**DLC** | [Base](/neptunia/rb1/dlc/1-base.html)
-**Name** | Data Defense Lv.3
-**Required Lily level** | N/A
-**Description** | Data Foe Damage Down
-**Effects** | Increases Data Defense by 20% |
+| **ID** | 9593 |
+| **DLC** | [Base](/neptunia/rb1/dlc/1-base.html) |
+| **Name** | Data Defense Lv.3 |
+| **Required Lily level** | N/A |
+| **Description** | Data Foe Damage Down |
+| **Effects** | Increases Data Defense by 20% |
 
 
 ## Idea Chips which have Data Defense Lv.3 as ability (1)

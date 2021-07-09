@@ -13,12 +13,12 @@ title: Phys. Damage Resist + (Ability) - Hyperdimension Neptunia Re;Birth1
 
 |   |   |
 | -- | -- |
-| **ID** | 565
-**DLC** | [Additional Content Pack 14](/neptunia/rb1/dlc/23-pack14.html)
-**Name** | Phys. Damage Resist +
-**Required Lily level** | 2
-**Description** | Phys. Damage Resist +
-**Effects** | Increases Phys. Defense by 25% |
+| **ID** | 565 |
+| **DLC** | [Additional Content Pack 14](/neptunia/rb1/dlc/23-pack14.html) |
+| **Name** | Phys. Damage Resist + |
+| **Required Lily level** | 2 |
+| **Description** | Phys. Damage Resist + |
+| **Effects** | Increases Phys. Defense by 25% |
 
 
 ## Player characters who have Phys. Damage Resist + as a Lily effect (1)

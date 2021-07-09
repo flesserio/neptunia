@@ -13,12 +13,12 @@ title: Inorganic Defense Lv.4 (Ability) - Hyperdimension Neptunia Re;Birth1
 
 |   |   |
 | -- | -- |
-| **ID** | 9614
-**DLC** | [Base](/neptunia/rb1/dlc/1-base.html)
-**Name** | Inorganic Defense Lv.4
-**Required Lily level** | N/A
-**Description** | Inorganic Foe Damage Down
-**Effects** | Increases Inorganic Defense by 25% |
+| **ID** | 9614 |
+| **DLC** | [Base](/neptunia/rb1/dlc/1-base.html) |
+| **Name** | Inorganic Defense Lv.4 |
+| **Required Lily level** | N/A |
+| **Description** | Inorganic Foe Damage Down |
+| **Effects** | Increases Inorganic Defense by 25% |
 
 
 ## Idea Chips which have Inorganic Defense Lv.4 as ability (1)

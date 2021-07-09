@@ -12,9 +12,9 @@ title: Nulls Poison/Paralysis (Ability) - Hyperdimension Neptunia Re;Birth1
 
 |   |   |
 | -- | -- |
-| **ID** | 10
-**DLC** | [Base](/neptunia/rb1/dlc/1-base.html)
-**Name** | Nulls Poison/Paralysis
-**Required Lily level** | N/A
-**Description** | 
-**Effects** | Gives Poison Immunity<br />Gives Paralysis Immunity |
+| **ID** | 10 |
+| **DLC** | [Base](/neptunia/rb1/dlc/1-base.html) |
+| **Name** | Nulls Poison/Paralysis |
+| **Required Lily level** | N/A |
+| **Description** |  |
+| **Effects** | Gives Poison Immunity<br />Gives Paralysis Immunity |

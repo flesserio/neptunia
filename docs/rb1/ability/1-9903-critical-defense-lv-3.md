@@ -13,12 +13,12 @@ title: Critical Defense - Lv.3 (Ability) - Hyperdimension Neptunia Re;Birth1
 
 |   |   |
 | -- | -- |
-| **ID** | 9903
-**DLC** | [Base](/neptunia/rb1/dlc/1-base.html)
-**Name** | Critical Defense - Lv.3
-**Required Lily level** | N/A
-**Description** | 
-**Effects** | Decreases Critical Defense by 40% |
+| **ID** | 9903 |
+| **DLC** | [Base](/neptunia/rb1/dlc/1-base.html) |
+| **Name** | Critical Defense - Lv.3 |
+| **Required Lily level** | N/A |
+| **Description** |  |
+| **Effects** | Decreases Critical Defense by 40% |
 
 
 ## Idea Chip disc combinations which grant Critical Defense - Lv.3 (1)

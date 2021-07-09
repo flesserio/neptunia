@@ -12,9 +12,9 @@ title: Thrust DEF + (Ability) - Hyperdimension Neptunia Re;Birth1
 
 |   |   |
 | -- | -- |
-| **ID** | 8
-**DLC** | [Base](/neptunia/rb1/dlc/1-base.html)
-**Name** | Thrust DEF +
-**Required Lily level** | N/A
-**Description** | 
-**Effects** |  |
+| **ID** | 8 |
+| **DLC** | [Base](/neptunia/rb1/dlc/1-base.html) |
+| **Name** | Thrust DEF + |
+| **Required Lily level** | N/A |
+| **Description** |  |
+| **Effects** |  |

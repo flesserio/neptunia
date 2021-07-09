@@ -13,12 +13,12 @@ title: Vader Defense Lv.3 (Ability) - Hyperdimension Neptunia Re;Birth1
 
 |   |   |
 | -- | -- |
-| **ID** | 9603
-**DLC** | [Base](/neptunia/rb1/dlc/1-base.html)
-**Name** | Vader Defense Lv.3
-**Required Lily level** | N/A
-**Description** | Vader Foe Damage Down
-**Effects** | Increases Vader Defense by 20% |
+| **ID** | 9603 |
+| **DLC** | [Base](/neptunia/rb1/dlc/1-base.html) |
+| **Name** | Vader Defense Lv.3 |
+| **Required Lily level** | N/A |
+| **Description** | Vader Foe Damage Down |
+| **Effects** | Increases Vader Defense by 20% |
 
 
 ## Idea Chips which have Vader Defense Lv.3 as ability (1)

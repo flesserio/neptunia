@@ -13,12 +13,12 @@ title: Null Paralysis (Ability) - Hyperdimension Neptunia Re;Birth1
 
 |   |   |
 | -- | -- |
-| **ID** | 123
-**DLC** | [Additional Content Pack 8](/neptunia/rb1/dlc/17-pack8.html)
-**Name** | Null Paralysis
-**Required Lily level** | N/A
-**Description** | Null Paralysis
-**Effects** | Gives Paralysis Immunity |
+| **ID** | 123 |
+| **DLC** | [Additional Content Pack 8](/neptunia/rb1/dlc/17-pack8.html) |
+| **Name** | Null Paralysis |
+| **Required Lily level** | N/A |
+| **Description** | Null Paralysis |
+| **Effects** | Gives Paralysis Immunity |
 
 
 ## Player characters who have Null Paralysis as a passive ability (1)

@@ -13,12 +13,12 @@ title: Gradual SP Recovery Lv.1 (Ability) - Hyperdimension Neptunia Re;Birth1
 
 |   |   |
 | -- | -- |
-| **ID** | 9652
-**DLC** | [Base](/neptunia/rb1/dlc/1-base.html)
-**Name** | Gradual SP Recovery Lv.1
-**Required Lily level** | N/A
-**Description** | SP Recovers Every Turn
-**Effects** | Increases SP Recovery Per Turn by 3% |
+| **ID** | 9652 |
+| **DLC** | [Base](/neptunia/rb1/dlc/1-base.html) |
+| **Name** | Gradual SP Recovery Lv.1 |
+| **Required Lily level** | N/A |
+| **Description** | SP Recovers Every Turn |
+| **Effects** | Increases SP Recovery Per Turn by 3% |
 
 
 ## Idea Chips which have Gradual SP Recovery Lv.1 as ability (1)

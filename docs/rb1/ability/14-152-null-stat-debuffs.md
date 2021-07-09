@@ -13,12 +13,12 @@ title: Null Stat Debuffs (Ability) - Hyperdimension Neptunia Re;Birth1
 
 |   |   |
 | -- | -- |
-| **ID** | 152
-**DLC** | [Additional Content Pack 5](/neptunia/rb1/dlc/14-pack5.html)
-**Name** | Null Stat Debuffs
-**Required Lily level** | N/A
-**Description** | Null Stat Debuffs
-**Effects** | Gives Debuffing Immunity |
+| **ID** | 152 |
+| **DLC** | [Additional Content Pack 5](/neptunia/rb1/dlc/14-pack5.html) |
+| **Name** | Null Stat Debuffs |
+| **Required Lily level** | N/A |
+| **Description** | Null Stat Debuffs |
+| **Effects** | Gives Debuffing Immunity |
 
 
 ## Player characters who have Null Stat Debuffs as a passive ability (1)

@@ -13,12 +13,12 @@ title: Gradual HP Recovery Lv.2 (Ability) - Hyperdimension Neptunia Re;Birth1
 
 |   |   |
 | -- | -- |
-| **ID** | 9648
-**DLC** | [Base](/neptunia/rb1/dlc/1-base.html)
-**Name** | Gradual HP Recovery Lv.2
-**Required Lily level** | N/A
-**Description** | HP Recovers Every Turn
-**Effects** | Increases HP Recovery Per Turn by 4% |
+| **ID** | 9648 |
+| **DLC** | [Base](/neptunia/rb1/dlc/1-base.html) |
+| **Name** | Gradual HP Recovery Lv.2 |
+| **Required Lily level** | N/A |
+| **Description** | HP Recovers Every Turn |
+| **Effects** | Increases HP Recovery Per Turn by 4% |
 
 
 ## Idea Chips which have Gradual HP Recovery Lv.2 as ability (1)

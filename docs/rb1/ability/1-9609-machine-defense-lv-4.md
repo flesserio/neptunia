@@ -13,12 +13,12 @@ title: Machine Defense Lv.4 (Ability) - Hyperdimension Neptunia Re;Birth1
 
 |   |   |
 | -- | -- |
-| **ID** | 9609
-**DLC** | [Base](/neptunia/rb1/dlc/1-base.html)
-**Name** | Machine Defense Lv.4
-**Required Lily level** | N/A
-**Description** | Machine Foe Damage Down
-**Effects** | Increases Machine Defense by 25% |
+| **ID** | 9609 |
+| **DLC** | [Base](/neptunia/rb1/dlc/1-base.html) |
+| **Name** | Machine Defense Lv.4 |
+| **Required Lily level** | N/A |
+| **Description** | Machine Foe Damage Down |
+| **Effects** | Increases Machine Defense by 25% |
 
 
 ## Idea Chips which have Machine Defense Lv.4 as ability (1)

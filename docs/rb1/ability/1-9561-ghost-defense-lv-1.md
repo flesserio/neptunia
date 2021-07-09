@@ -13,12 +13,12 @@ title: Ghost Defense Lv.1 (Ability) - Hyperdimension Neptunia Re;Birth1
 
 |   |   |
 | -- | -- |
-| **ID** | 9561
-**DLC** | [Base](/neptunia/rb1/dlc/1-base.html)
-**Name** | Ghost Defense Lv.1
-**Required Lily level** | N/A
-**Description** | Ghost Foe Damage Down
-**Effects** | Increases Ghost Defense by 10% |
+| **ID** | 9561 |
+| **DLC** | [Base](/neptunia/rb1/dlc/1-base.html) |
+| **Name** | Ghost Defense Lv.1 |
+| **Required Lily level** | N/A |
+| **Description** | Ghost Foe Damage Down |
+| **Effects** | Increases Ghost Defense by 10% |
 
 
 ## Idea Chips which have Ghost Defense Lv.1 as ability (1)

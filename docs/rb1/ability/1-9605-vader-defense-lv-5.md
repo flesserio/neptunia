@@ -13,12 +13,12 @@ title: Vader Defense Lv.5 (Ability) - Hyperdimension Neptunia Re;Birth1
 
 |   |   |
 | -- | -- |
-| **ID** | 9605
-**DLC** | [Base](/neptunia/rb1/dlc/1-base.html)
-**Name** | Vader Defense Lv.5
-**Required Lily level** | N/A
-**Description** | Vader Foe Damage Down
-**Effects** | Increases Vader Defense by 30% |
+| **ID** | 9605 |
+| **DLC** | [Base](/neptunia/rb1/dlc/1-base.html) |
+| **Name** | Vader Defense Lv.5 |
+| **Required Lily level** | N/A |
+| **Description** | Vader Foe Damage Down |
+| **Effects** | Increases Vader Defense by 30% |
 
 
 ## Idea Chips which have Vader Defense Lv.5 as ability (1)

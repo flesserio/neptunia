@@ -13,12 +13,12 @@ title: Ghost Defense Lv.2 (Ability) - Hyperdimension Neptunia Re;Birth1
 
 |   |   |
 | -- | -- |
-| **ID** | 9562
-**DLC** | [Base](/neptunia/rb1/dlc/1-base.html)
-**Name** | Ghost Defense Lv.2
-**Required Lily level** | N/A
-**Description** | Ghost Foe Damage Down
-**Effects** | Increases Ghost Defense by 15% |
+| **ID** | 9562 |
+| **DLC** | [Base](/neptunia/rb1/dlc/1-base.html) |
+| **Name** | Ghost Defense Lv.2 |
+| **Required Lily level** | N/A |
+| **Description** | Ghost Foe Damage Down |
+| **Effects** | Increases Ghost Defense by 15% |
 
 
 ## Idea Chips which have Ghost Defense Lv.2 as ability (1)

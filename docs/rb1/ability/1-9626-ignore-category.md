@@ -13,12 +13,12 @@ title: Ignore Category (Ability) - Hyperdimension Neptunia Re;Birth1
 
 |   |   |
 | -- | -- |
-| **ID** | 9626
-**DLC** | [Base](/neptunia/rb1/dlc/1-base.html)
-**Name** | Ignore Category
-**Required Lily level** | N/A
-**Description** | Ignore Category
-**Effects** | Gives Ignore Enemy Traits |
+| **ID** | 9626 |
+| **DLC** | [Base](/neptunia/rb1/dlc/1-base.html) |
+| **Name** | Ignore Category |
+| **Required Lily level** | N/A |
+| **Description** | Ignore Category |
+| **Effects** | Gives Ignore Enemy Traits |
 
 
 ## Idea Chips which have Ignore Category as ability (1)

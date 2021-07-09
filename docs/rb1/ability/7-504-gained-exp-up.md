@@ -13,12 +13,12 @@ title: Gained EXP Up (Ability) - Hyperdimension Neptunia Re;Birth1
 
 |   |   |
 | -- | -- |
-| **ID** | 504
-**DLC** | [[Plutia] Battle Entry License](/neptunia/rb1/dlc/7-plutia.html)
-**Name** | Gained EXP Up
-**Required Lily level** | 2
-**Description** | Gained EXP Up
-**Effects** | Increases Gained XP by 25% |
+| **ID** | 504 |
+| **DLC** | [[Plutia] Battle Entry License](/neptunia/rb1/dlc/7-plutia.html) |
+| **Name** | Gained EXP Up |
+| **Required Lily level** | 2 |
+| **Description** | Gained EXP Up |
+| **Effects** | Increases Gained XP by 25% |
 
 
 ## Player characters who have Gained EXP Up as a Lily effect (1)

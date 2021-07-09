@@ -13,12 +13,12 @@ title: Act Fast Lv.1 (Ability) - Hyperdimension Neptunia Re;Birth1
 
 |   |   |
 | -- | -- |
-| **ID** | 9512
-**DLC** | [Base](/neptunia/rb1/dlc/1-base.html)
-**Name** | Act Fast Lv.1
-**Required Lily level** | N/A
-**Description** | Decreased Cooldown Time
-**Effects** | Increases Wait Time Recovery by 15% |
+| **ID** | 9512 |
+| **DLC** | [Base](/neptunia/rb1/dlc/1-base.html) |
+| **Name** | Act Fast Lv.1 |
+| **Required Lily level** | N/A |
+| **Description** | Decreased Cooldown Time |
+| **Effects** | Increases Wait Time Recovery by 15% |
 
 
 ## Idea Chips which have Act Fast Lv.1 as ability (1)

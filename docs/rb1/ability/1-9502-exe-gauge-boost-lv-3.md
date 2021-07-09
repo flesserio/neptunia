@@ -12,9 +12,9 @@ title: EXE Gauge Boost Lv.3 (Ability) - Hyperdimension Neptunia Re;Birth1
 
 |   |   |
 | -- | -- |
-| **ID** | 9502
-**DLC** | [Base](/neptunia/rb1/dlc/1-base.html)
-**Name** | EXE Gauge Boost Lv.3
-**Required Lily level** | N/A
-**Description** | EXE Gauge Accumulation +
-**Effects** |  |
+| **ID** | 9502 |
+| **DLC** | [Base](/neptunia/rb1/dlc/1-base.html) |
+| **Name** | EXE Gauge Boost Lv.3 |
+| **Required Lily level** | N/A |
+| **Description** | EXE Gauge Accumulation + |
+| **Effects** |  |

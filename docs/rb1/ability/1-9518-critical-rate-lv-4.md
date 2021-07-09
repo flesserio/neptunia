@@ -13,12 +13,12 @@ title: Critical Rate + Lv.4 (Ability) - Hyperdimension Neptunia Re;Birth1
 
 |   |   |
 | -- | -- |
-| **ID** | 9518
-**DLC** | [Base](/neptunia/rb1/dlc/1-base.html)
-**Name** | Critical Rate + Lv.4
-**Required Lily level** | N/A
-**Description** | Critical Rate Up
-**Effects** | Increases Critical Rate by 12% |
+| **ID** | 9518 |
+| **DLC** | [Base](/neptunia/rb1/dlc/1-base.html) |
+| **Name** | Critical Rate + Lv.4 |
+| **Required Lily level** | N/A |
+| **Description** | Critical Rate Up |
+| **Effects** | Increases Critical Rate by 12% |
 
 
 ## Idea Chips which have Critical Rate + Lv.4 as ability (1)

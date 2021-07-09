@@ -13,12 +13,12 @@ title: Aquatic Defense Lv.1 (Ability) - Hyperdimension Neptunia Re;Birth1
 
 |   |   |
 | -- | -- |
-| **ID** | 9576
-**DLC** | [Base](/neptunia/rb1/dlc/1-base.html)
-**Name** | Aquatic Defense Lv.1
-**Required Lily level** | N/A
-**Description** | Aquatic Foe Damage Down
-**Effects** | Increases Aquatic Defense by 10% |
+| **ID** | 9576 |
+| **DLC** | [Base](/neptunia/rb1/dlc/1-base.html) |
+| **Name** | Aquatic Defense Lv.1 |
+| **Required Lily level** | N/A |
+| **Description** | Aquatic Foe Damage Down |
+| **Effects** | Increases Aquatic Defense by 10% |
 
 
 ## Idea Chips which have Aquatic Defense Lv.1 as ability (1)

@@ -13,12 +13,12 @@ title: Escape Rate Up Lv.1 (Ability) - Hyperdimension Neptunia Re;Birth1
 
 |   |   |
 | -- | -- |
-| **ID** | 9657
-**DLC** | [Base](/neptunia/rb1/dlc/1-base.html)
-**Name** | Escape Rate Up Lv.1
-**Required Lily level** | N/A
-**Description** | Increased Odds of Escape
-**Effects** | Increases Escape Rate by 15% |
+| **ID** | 9657 |
+| **DLC** | [Base](/neptunia/rb1/dlc/1-base.html) |
+| **Name** | Escape Rate Up Lv.1 |
+| **Required Lily level** | N/A |
+| **Description** | Increased Odds of Escape |
+| **Effects** | Increases Escape Rate by 15% |
 
 
 ## Idea Chips which have Escape Rate Up Lv.1 as ability (1)

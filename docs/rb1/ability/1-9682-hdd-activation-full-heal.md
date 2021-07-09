@@ -13,12 +13,12 @@ title: HDD Activation Full Heal (Ability) - Hyperdimension Neptunia Re;Birth1
 
 |   |   |
 | -- | -- |
-| **ID** | 9682
-**DLC** | [Base](/neptunia/rb1/dlc/1-base.html)
-**Name** | HDD Activation Full Heal
-**Required Lily level** | N/A
-**Description** | HDD Activation Full Heal
-**Effects** | Gives HDD Activation Full Heal |
+| **ID** | 9682 |
+| **DLC** | [Base](/neptunia/rb1/dlc/1-base.html) |
+| **Name** | HDD Activation Full Heal |
+| **Required Lily level** | N/A |
+| **Description** | HDD Activation Full Heal |
+| **Effects** | Gives HDD Activation Full Heal |
 
 
 ## Idea Chips which have HDD Activation Full Heal as ability (1)

@@ -13,12 +13,12 @@ title: Battle End SP Heal Lv.4 (Ability) - Hyperdimension Neptunia Re;Birth1
 
 |   |   |
 | -- | -- |
-| **ID** | 9640
-**DLC** | [Base](/neptunia/rb1/dlc/1-base.html)
-**Name** | Battle End SP Heal Lv.4
-**Required Lily level** | N/A
-**Description** | SP Restored After Battle
-**Effects** | Increases Battle End SP Heal by 8% |
+| **ID** | 9640 |
+| **DLC** | [Base](/neptunia/rb1/dlc/1-base.html) |
+| **Name** | Battle End SP Heal Lv.4 |
+| **Required Lily level** | N/A |
+| **Description** | SP Restored After Battle |
+| **Effects** | Increases Battle End SP Heal by 8% |
 
 
 ## Idea Chips which have Battle End SP Heal Lv.4 as ability (1)

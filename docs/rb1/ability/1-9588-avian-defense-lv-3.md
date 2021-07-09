@@ -13,12 +13,12 @@ title: Avian Defense Lv.3 (Ability) - Hyperdimension Neptunia Re;Birth1
 
 |   |   |
 | -- | -- |
-| **ID** | 9588
-**DLC** | [Base](/neptunia/rb1/dlc/1-base.html)
-**Name** | Avian Defense Lv.3
-**Required Lily level** | N/A
-**Description** | Avian Foe Damage Down
-**Effects** | Increases Avian Defense by 20% |
+| **ID** | 9588 |
+| **DLC** | [Base](/neptunia/rb1/dlc/1-base.html) |
+| **Name** | Avian Defense Lv.3 |
+| **Required Lily level** | N/A |
+| **Description** | Avian Foe Damage Down |
+| **Effects** | Increases Avian Defense by 20% |
 
 
 ## Idea Chips which have Avian Defense Lv.3 as ability (1)

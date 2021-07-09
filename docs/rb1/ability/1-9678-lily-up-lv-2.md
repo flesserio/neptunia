@@ -13,12 +13,12 @@ title: Lily Up + Lv.2 (Ability) - Hyperdimension Neptunia Re;Birth1
 
 |   |   |
 | -- | -- |
-| **ID** | 9678
-**DLC** | [Base](/neptunia/rb1/dlc/1-base.html)
-**Name** | Lily Up + Lv.2
-**Required Lily level** | N/A
-**Description** | Lily Rank Improves Easier
-**Effects** | Increases Lily Rank Gained XP by 200% |
+| **ID** | 9678 |
+| **DLC** | [Base](/neptunia/rb1/dlc/1-base.html) |
+| **Name** | Lily Up + Lv.2 |
+| **Required Lily level** | N/A |
+| **Description** | Lily Rank Improves Easier |
+| **Effects** | Increases Lily Rank Gained XP by 200% |
 
 
 ## Idea Chips which have Lily Up + Lv.2 as ability (1)

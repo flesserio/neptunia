@@ -13,12 +13,12 @@ title: HDD SP Use Reduced (Ability) - Hyperdimension Neptunia Re;Birth1
 
 |   |   |
 | -- | -- |
-| **ID** | 554
-**DLC** | [Additional Content Pack 8](/neptunia/rb1/dlc/17-pack8.html)
-**Name** | HDD SP Use Reduced
-**Required Lily level** | 3
-**Description** | HDD SP Use Reduced
-**Effects** | Decreases HDD SP Consumption by 20% |
+| **ID** | 554 |
+| **DLC** | [Additional Content Pack 8](/neptunia/rb1/dlc/17-pack8.html) |
+| **Name** | HDD SP Use Reduced |
+| **Required Lily level** | 3 |
+| **Description** | HDD SP Use Reduced |
+| **Effects** | Decreases HDD SP Consumption by 20% |
 
 
 ## Player characters who have HDD SP Use Reduced as a Lily effect (1)

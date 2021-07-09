@@ -13,12 +13,12 @@ title: Break Damage Limit (Ability) - Hyperdimension Neptunia Re;Birth1
 
 |   |   |
 | -- | -- |
-| **ID** | 102
-**DLC** | [Base](/neptunia/rb1/dlc/1-base.html)
-**Name** | Break Damage Limit
-**Required Lily level** | N/A
-**Description** | Break Damage Limit
-**Effects** | Gives Break Damage Limit |
+| **ID** | 102 |
+| **DLC** | [Base](/neptunia/rb1/dlc/1-base.html) |
+| **Name** | Break Damage Limit |
+| **Required Lily level** | N/A |
+| **Description** | Break Damage Limit |
+| **Effects** | Gives Break Damage Limit |
 
 
 ## Player characters who have Break Damage Limit as a passive ability (1)

@@ -13,12 +13,12 @@ title: Shortens Wait (Ability) - Hyperdimension Neptunia Re;Birth1
 
 |   |   |
 | -- | -- |
-| **ID** | 518
-**DLC** | [Base](/neptunia/rb1/dlc/1-base.html)
-**Name** | Shortens Wait
-**Required Lily level** | 3
-**Description** | Shortens Wait
-**Effects** | Increases Wait Time Recovery by 25% |
+| **ID** | 518 |
+| **DLC** | [Base](/neptunia/rb1/dlc/1-base.html) |
+| **Name** | Shortens Wait |
+| **Required Lily level** | 3 |
+| **Description** | Shortens Wait |
+| **Effects** | Increases Wait Time Recovery by 25% |
 
 
 ## Player characters who have Shortens Wait as a Lily effect (1)

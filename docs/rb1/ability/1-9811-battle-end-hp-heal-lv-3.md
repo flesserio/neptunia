@@ -13,12 +13,12 @@ title: Battle End HP Heal Lv.3 (Ability) - Hyperdimension Neptunia Re;Birth1
 
 |   |   |
 | -- | -- |
-| **ID** | 9811
-**DLC** | [Base](/neptunia/rb1/dlc/1-base.html)
-**Name** | Battle End HP Heal Lv.3
-**Required Lily level** | N/A
-**Description** | 
-**Effects** | Increases Battle End HP Heal by 8% |
+| **ID** | 9811 |
+| **DLC** | [Base](/neptunia/rb1/dlc/1-base.html) |
+| **Name** | Battle End HP Heal Lv.3 |
+| **Required Lily level** | N/A |
+| **Description** |  |
+| **Effects** | Increases Battle End HP Heal by 8% |
 
 
 ## Idea Chip disc combinations which grant Battle End HP Heal Lv.3 (1)

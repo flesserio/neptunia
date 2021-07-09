@@ -12,9 +12,9 @@ title: Null Skill Seal (Ability) - Hyperdimension Neptunia Re;Birth1
 
 |   |   |
 | -- | -- |
-| **ID** | 147
-**DLC** | [Additional Content Pack 5](/neptunia/rb1/dlc/14-pack5.html)
-**Name** | Null Skill Seal
-**Required Lily level** | N/A
-**Description** | Null Skill Seal
-**Effects** | Gives Skill Seal Immunity |
+| **ID** | 147 |
+| **DLC** | [Additional Content Pack 5](/neptunia/rb1/dlc/14-pack5.html) |
+| **Name** | Null Skill Seal |
+| **Required Lily level** | N/A |
+| **Description** | Null Skill Seal |
+| **Effects** | Gives Skill Seal Immunity |

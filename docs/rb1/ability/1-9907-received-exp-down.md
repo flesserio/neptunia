@@ -13,12 +13,12 @@ title: Received EXP Down (Ability) - Hyperdimension Neptunia Re;Birth1
 
 |   |   |
 | -- | -- |
-| **ID** | 9907
-**DLC** | [Base](/neptunia/rb1/dlc/1-base.html)
-**Name** | Received EXP Down
-**Required Lily level** | N/A
-**Description** | 
-**Effects** | Decreases Gained XP by 30% |
+| **ID** | 9907 |
+| **DLC** | [Base](/neptunia/rb1/dlc/1-base.html) |
+| **Name** | Received EXP Down |
+| **Required Lily level** | N/A |
+| **Description** |  |
+| **Effects** | Decreases Gained XP by 30% |
 
 
 ## Idea Chip disc combinations which grant Received EXP Down (1)

@@ -13,12 +13,12 @@ title: Null Poison (Ability) - Hyperdimension Neptunia Re;Birth1
 
 |   |   |
 | -- | -- |
-| **ID** | 555
-**DLC** | [Additional Content Pack 8](/neptunia/rb1/dlc/17-pack8.html)
-**Name** | Null Poison
-**Required Lily level** | 2
-**Description** | Null Poison
-**Effects** | Gives Poison Immunity |
+| **ID** | 555 |
+| **DLC** | [Additional Content Pack 8](/neptunia/rb1/dlc/17-pack8.html) |
+| **Name** | Null Poison |
+| **Required Lily level** | 2 |
+| **Description** | Null Poison |
+| **Effects** | Gives Poison Immunity |
 
 
 ## Player characters who have Null Poison as a Lily effect (1)

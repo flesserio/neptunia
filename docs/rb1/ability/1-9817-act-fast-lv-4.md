@@ -13,12 +13,12 @@ title: Act Fast Lv.4 (Ability) - Hyperdimension Neptunia Re;Birth1
 
 |   |   |
 | -- | -- |
-| **ID** | 9817
-**DLC** | [Base](/neptunia/rb1/dlc/1-base.html)
-**Name** | Act Fast Lv.4
-**Required Lily level** | N/A
-**Description** | 
-**Effects** | Increases Wait Time Recovery by 25% |
+| **ID** | 9817 |
+| **DLC** | [Base](/neptunia/rb1/dlc/1-base.html) |
+| **Name** | Act Fast Lv.4 |
+| **Required Lily level** | N/A |
+| **Description** |  |
+| **Effects** | Increases Wait Time Recovery by 25% |
 
 
 ## Idea Chip disc combinations which grant Act Fast Lv.4 (1)

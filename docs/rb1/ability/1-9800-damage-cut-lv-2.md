@@ -13,12 +13,12 @@ title: Damage Cut Lv.2 (Ability) - Hyperdimension Neptunia Re;Birth1
 
 |   |   |
 | -- | -- |
-| **ID** | 9800
-**DLC** | [Base](/neptunia/rb1/dlc/1-base.html)
-**Name** | Damage Cut Lv.2
-**Required Lily level** | N/A
-**Description** | 
-**Effects** | Increases Phys. Defense by 25%<br />Increases Mag. Defense by 25% |
+| **ID** | 9800 |
+| **DLC** | [Base](/neptunia/rb1/dlc/1-base.html) |
+| **Name** | Damage Cut Lv.2 |
+| **Required Lily level** | N/A |
+| **Description** |  |
+| **Effects** | Increases Phys. Defense by 25%<br />Increases Mag. Defense by 25% |
 
 
 ## Idea Chip disc combinations which grant Damage Cut Lv.2 (1)

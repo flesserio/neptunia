@@ -13,12 +13,12 @@ title: Reduce Wait Time (Ability) - Hyperdimension Neptunia Re;Birth1
 
 |   |   |
 | -- | -- |
-| **ID** | 550
-**DLC** | [[Histoire] Battle Entry License](/neptunia/rb1/dlc/9-histoire.html)
-**Name** | Reduce Wait Time
-**Required Lily level** | N/A
-**Description** | Reduce Wait Time
-**Effects** | Increases Wait Time Recovery by 25% |
+| **ID** | 550 |
+| **DLC** | [[Histoire] Battle Entry License](/neptunia/rb1/dlc/9-histoire.html) |
+| **Name** | Reduce Wait Time |
+| **Required Lily level** | N/A |
+| **Description** | Reduce Wait Time |
+| **Effects** | Increases Wait Time Recovery by 25% |
 
 
 ## Player characters who have Reduce Wait Time as a passive ability (1)

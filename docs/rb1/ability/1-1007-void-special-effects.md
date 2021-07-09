@@ -12,9 +12,9 @@ title: Void Special Effects (Ability) - Hyperdimension Neptunia Re;Birth1
 
 |   |   |
 | -- | -- |
-| **ID** | 1007
-**DLC** | [Base](/neptunia/rb1/dlc/1-base.html)
-**Name** | Void Special Effects
-**Required Lily level** | N/A
-**Description** | Void Special Effects
-**Effects** | Gives Void Special Effects |
+| **ID** | 1007 |
+| **DLC** | [Base](/neptunia/rb1/dlc/1-base.html) |
+| **Name** | Void Special Effects |
+| **Required Lily level** | N/A |
+| **Description** | Void Special Effects |
+| **Effects** | Gives Void Special Effects |

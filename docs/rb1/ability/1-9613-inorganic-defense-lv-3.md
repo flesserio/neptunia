@@ -13,12 +13,12 @@ title: Inorganic Defense Lv.3 (Ability) - Hyperdimension Neptunia Re;Birth1
 
 |   |   |
 | -- | -- |
-| **ID** | 9613
-**DLC** | [Base](/neptunia/rb1/dlc/1-base.html)
-**Name** | Inorganic Defense Lv.3
-**Required Lily level** | N/A
-**Description** | Inorganic Foe Damage Down
-**Effects** | Increases Inorganic Defense by 20% |
+| **ID** | 9613 |
+| **DLC** | [Base](/neptunia/rb1/dlc/1-base.html) |
+| **Name** | Inorganic Defense Lv.3 |
+| **Required Lily level** | N/A |
+| **Description** | Inorganic Foe Damage Down |
+| **Effects** | Increases Inorganic Defense by 20% |
 
 
 ## Idea Chips which have Inorganic Defense Lv.3 as ability (1)

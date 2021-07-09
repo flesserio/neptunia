@@ -13,12 +13,12 @@ title: Auto SP Restore 鉢� (Ability) - Hyperdimension Neptunia Re;Birth1
 
 |   |   |
 | -- | -- |
-| **ID** | 1013
-**DLC** | [Base](/neptunia/rb1/dlc/1-base.html)
-**Name** | Auto SP Restore 鉢�
-**Required Lily level** | N/A
-**Description** | Auto SP Restore
-**Effects** | Increases SP Recovery Per Turn by 5% |
+| **ID** | 1013 |
+| **DLC** | [Base](/neptunia/rb1/dlc/1-base.html) |
+| **Name** | Auto SP Restore 鉢� |
+| **Required Lily level** | N/A |
+| **Description** | Auto SP Restore |
+| **Effects** | Increases SP Recovery Per Turn by 5% |
 
 
 ## Monsters who have Auto SP Restore 鉢� as a passive ability (217)

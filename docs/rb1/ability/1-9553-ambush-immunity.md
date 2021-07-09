@@ -13,12 +13,12 @@ title: Ambush Immunity (Ability) - Hyperdimension Neptunia Re;Birth1
 
 |   |   |
 | -- | -- |
-| **ID** | 9553
-**DLC** | [Base](/neptunia/rb1/dlc/1-base.html)
-**Name** | Ambush Immunity
-**Required Lily level** | N/A
-**Description** | Back Attack Immunity
-**Effects** | Gives Back Attack Immunity |
+| **ID** | 9553 |
+| **DLC** | [Base](/neptunia/rb1/dlc/1-base.html) |
+| **Name** | Ambush Immunity |
+| **Required Lily level** | N/A |
+| **Description** | Back Attack Immunity |
+| **Effects** | Gives Back Attack Immunity |
 
 
 ## Idea Chips which have Ambush Immunity as ability (1)

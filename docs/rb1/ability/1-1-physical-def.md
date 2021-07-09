@@ -12,9 +12,9 @@ title: Physical DEF + (Ability) - Hyperdimension Neptunia Re;Birth1
 
 |   |   |
 | -- | -- |
-| **ID** | 1
-**DLC** | [Base](/neptunia/rb1/dlc/1-base.html)
-**Name** | Physical DEF +
-**Required Lily level** | N/A
-**Description** | 
-**Effects** | Increases Phys. Defense by 15%<br />Decreases ??? by 25% |
+| **ID** | 1 |
+| **DLC** | [Base](/neptunia/rb1/dlc/1-base.html) |
+| **Name** | Physical DEF + |
+| **Required Lily level** | N/A |
+| **Description** |  |
+| **Effects** | Increases Phys. Defense by 15%<br />Decreases ??? by 25% |

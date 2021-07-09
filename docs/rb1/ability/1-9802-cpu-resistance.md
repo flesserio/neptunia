@@ -13,12 +13,12 @@ title: CPU Resistance (Ability) - Hyperdimension Neptunia Re;Birth1
 
 |   |   |
 | -- | -- |
-| **ID** | 9802
-**DLC** | [Base](/neptunia/rb1/dlc/1-base.html)
-**Name** | CPU Resistance
-**Required Lily level** | N/A
-**Description** | 
-**Effects** | Increases CPU Defense by 25% |
+| **ID** | 9802 |
+| **DLC** | [Base](/neptunia/rb1/dlc/1-base.html) |
+| **Name** | CPU Resistance |
+| **Required Lily level** | N/A |
+| **Description** |  |
+| **Effects** | Increases CPU Defense by 25% |
 
 
 ## Idea Chip disc combinations which grant CPU Resistance (1)

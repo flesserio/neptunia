@@ -13,12 +13,12 @@ title: Animal Defense Lv.3 (Ability) - Hyperdimension Neptunia Re;Birth1
 
 |   |   |
 | -- | -- |
-| **ID** | 9598
-**DLC** | [Base](/neptunia/rb1/dlc/1-base.html)
-**Name** | Animal Defense Lv.3
-**Required Lily level** | N/A
-**Description** | Animal Foe Damage Down
-**Effects** | Increases Animal Defense by 20% |
+| **ID** | 9598 |
+| **DLC** | [Base](/neptunia/rb1/dlc/1-base.html) |
+| **Name** | Animal Defense Lv.3 |
+| **Required Lily level** | N/A |
+| **Description** | Animal Foe Damage Down |
+| **Effects** | Increases Animal Defense by 20% |
 
 
 ## Idea Chips which have Animal Defense Lv.3 as ability (1)
