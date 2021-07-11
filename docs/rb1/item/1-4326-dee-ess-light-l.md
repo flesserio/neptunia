@@ -1,0 +1,46 @@
+---
+title: Dee-Ess Light L (Item) - Hyperdimension Neptunia Re;Birth1
+---
+
+[**Item Index**](/neptunia/rb1/item/index.html) - [Hyperdimension Neptunia Re;Birth1](/neptunia/rb1)
+
+## Contents
+
+- [Basic information](#basic-information)
+- [Stats](#stats)
+- [Player characters who have **Dee-Ess Light L** equipped by default](#player-characters-who-have-dee-ess-light-l-equipped-by-default)
+- [Player characters who can equip **Dee-Ess Light L**](#player-characters-who-can-equip-dee-ess-light-l)
+
+## Basic information
+
+|   |   |
+| -- | -- |
+| **ID** | 4326 |
+| **DLC** | [Base](/neptunia/rb1/dlc/1-base.html) |
+| **Name** | Dee-Ess Light L |
+| **Type** | Processor (L) |
+| **Description** | For White Sister (Rom). A version of the White Processor Unit that is backwards compatible with the CPU Candidate. |
+| **Buy Price** | 0 |
+| **Sell Price** | 0 |
+| **Max inventory** | 99 |
+
+
+## Stats
+
+| HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
+| -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
+| 0 | 0 | 0 | 0 | 60 | 0 | -15 | 50 | 0 | 25 | 0 | 0 | 0 | 0 |
+
+
+## Player characters who have **Dee-Ess Light L** equipped by default
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-player-1-9" class="trackbox" /> | 9 | [Base](/neptunia/rb1/dlc/1-base.html) | [Rom](/neptunia/rb1/player/1-9-rom.html) |
+
+
+## Player characters who can equip **Dee-Ess Light L**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-player-1-9" class="trackbox" /> | 9 | [Base](/neptunia/rb1/dlc/1-base.html) | [Rom](/neptunia/rb1/player/1-9-rom.html) |

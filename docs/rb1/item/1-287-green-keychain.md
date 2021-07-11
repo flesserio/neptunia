@@ -1,0 +1,30 @@
+---
+title: Green Keychain (Item) - Hyperdimension Neptunia Re;Birth1
+---
+
+[**Item Index**](/neptunia/rb1/item/index.html) - [Hyperdimension Neptunia Re;Birth1](/neptunia/rb1)
+
+## Contents
+
+- [Basic information](#basic-information)
+- [Colosseum quests which reward **Green Keychain**](#colosseum-quests-which-reward-green-keychain)
+
+## Basic information
+
+|   |   |
+| -- | -- |
+| **ID** | 287 |
+| **DLC** | [Base](/neptunia/rb1/dlc/1-base.html) |
+| **Name** | Green Keychain |
+| **Type** | Collectable |
+| **Description** | The 1st of the CPU Keychain Collection featuring a mascot CPU on a keychain. |
+| **Buy Price** | 0 |
+| **Sell Price** | 0 |
+| **Max inventory** | 99 |
+
+
+## Colosseum quests which reward **Green Keychain**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-colosseum-1-2019" class="trackbox" /> | 2019 | [Base](/neptunia/rb1/dlc/1-base.html) | [Revenger](/neptunia/rb1/colosseum/1-2019-revenger.html) |

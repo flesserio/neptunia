@@ -1,0 +1,51 @@
+---
+title: Expired Liquid+10 (Item) - Hyperdimension Neptunia Re;Birth1
+---
+
+[**Item Index**](/neptunia/rb1/item/index.html) - [Hyperdimension Neptunia Re;Birth1](/neptunia/rb1)
+
+## Contents
+
+- [Basic information](#basic-information)
+- [Stats](#stats)
+- [Colosseum quests which reward **Expired Liquid+10**](#colosseum-quests-which-reward-expired-liquid-10)
+- [Player characters who can equip **Expired Liquid+10**](#player-characters-who-can-equip-expired-liquid-10)
+
+## Basic information
+
+|   |   |
+| -- | -- |
+| **ID** | 5189 |
+| **DLC** | [Additional Content Pack 9](/neptunia/rb1/dlc/18-pack9.html) |
+| **Name** | Expired Liquid+10 |
+| **Type** | Syringe (Compa) |
+| **Description** | Strengthened Expired Liquid. Reward you get at the Colosseum. |
+| **Buy Price** | 0 |
+| **Sell Price** | 0 |
+| **Max inventory** | 99 |
+| **Weapon skill** | [Attack](/neptunia/rb1/skill/1-2001-attack.html) |
+
+
+## Stats
+
+| HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
+| -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
+| 0 | 0 | 0 | 331 | 0 | 457 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+
+
+## Colosseum quests which reward **Expired Liquid+10**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-colosseum-18-7020" class="trackbox" /> | 7020 | [Additional Content Pack 9](/neptunia/rb1/dlc/18-pack9.html) | [Survival - Expert](/neptunia/rb1/colosseum/18-7020-survival-expert.html) |
+| <input type="checkbox" id="rb1-colosseum-18-7021" class="trackbox" /> | 7021 | [Additional Content Pack 9](/neptunia/rb1/dlc/18-pack9.html) | [Survival - Expert2](/neptunia/rb1/colosseum/18-7021-survival-expert2.html) |
+| <input type="checkbox" id="rb1-colosseum-18-7022" class="trackbox" /> | 7022 | [Additional Content Pack 9](/neptunia/rb1/dlc/18-pack9.html) | [Survival - Expert3](/neptunia/rb1/colosseum/18-7022-survival-expert3.html) |
+| <input type="checkbox" id="rb1-colosseum-18-7023" class="trackbox" /> | 7023 | [Additional Content Pack 9](/neptunia/rb1/dlc/18-pack9.html) | [Survival - Expert4](/neptunia/rb1/colosseum/18-7023-survival-expert4.html) |
+| <input type="checkbox" id="rb1-colosseum-18-7024" class="trackbox" /> | 7024 | [Additional Content Pack 9](/neptunia/rb1/dlc/18-pack9.html) | [Survival - Expert5](/neptunia/rb1/colosseum/18-7024-survival-expert5.html) |
+
+
+## Player characters who can equip **Expired Liquid+10**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-player-1-12" class="trackbox" /> | 12 | [Base](/neptunia/rb1/dlc/1-base.html) | [Compa](/neptunia/rb1/player/1-12-compa.html) |

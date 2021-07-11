@@ -1,0 +1,39 @@
+---
+title: D-Ace Lite S (Item) - Hyperdimension Neptunia Re;Birth1
+---
+
+[**Item Index**](/neptunia/rb1/item/index.html) - [Hyperdimension Neptunia Re;Birth1](/neptunia/rb1)
+
+## Contents
+
+- [Basic information](#basic-information)
+- [Stats](#stats)
+- [Player characters who can equip **D-Ace Lite S**](#player-characters-who-can-equip-d-ace-lite-s)
+
+## Basic information
+
+|   |   |
+| -- | -- |
+| **ID** | 4347 |
+| **DLC** | [Base](/neptunia/rb1/dlc/1-base.html) |
+| **Name** | D-Ace Lite S |
+| **Type** | Processor (S) |
+| **Description** | For White Sister (Ram) only. The next generation release of the Dee-Ess Light Processor Unit. |
+| **Buy Price** | 1000000 |
+| **Sell Price** | 50000 |
+| **Max inventory** | 99 |
+| **To unlock in shop** | Method 1<br />- Have save in first playthrough<br />- Have Rom & Ram unlocked. |
+
+
+## Stats
+
+| HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
+| -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
+| 0 | 0 | 0 | 95 | 35 | 65 | 0 | -15 | -15 | 0 | 0 | 0 | 0 | 0 |
+
+
+## Player characters who can equip **D-Ace Lite S**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-player-1-10" class="trackbox" /> | 10 | [Base](/neptunia/rb1/dlc/1-base.html) | [Ram](/neptunia/rb1/player/1-10-ram.html) |
