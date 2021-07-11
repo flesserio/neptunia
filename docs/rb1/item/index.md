@@ -4,10 +4,6 @@ title: Item Index - Hyperdimension Neptunia Re;Birth1
 
 [Hyperdimension Neptunia Re;Birth1](/neptunia/rb1)
 
-
-
-
-
 |    | ID | DLC | Name | Type |
 | -- | -- | --- | ---- | ---- |
 | <input type="checkbox" id="rb1-item-1-1" class="trackbox" /> | 1 | [Base](/neptunia/rb1/dlc/1-base.html) | [Healing Grass](/neptunia/rb1/item/1-1-healing-grass.html)<br />Restores one ally's HP by 1000. | Tool |
