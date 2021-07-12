@@ -17,7 +17,7 @@ title: Large Medal Y (Item) - Hyperdimension Neptunia Re;Birth1
 | **DLC** | [Base](/neptunia/rb1/dlc/1-base.html) |
 | **Name** | Large Medal Y |
 | **Type** | Key Item |
-| **Description** | There is no medal king, but get them all! Someone will trade something for it...probably. Y is for Y U No <3 Me, Noire? |
+| **Description** | There is no medal king, but get them all! Someone will trade something for it...probably. Y is for Y U No &lt;3 Me, Noire? |
 | **Buy Price** | 0 |
 | **Sell Price** | 0 |
 | **Max inventory** | 1 |

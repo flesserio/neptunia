@@ -1,5 +1,5 @@
 ---
-title: <BLANK> S (Item) - Hyperdimension Neptunia Re;Birth1
+title: &lt;BLANK&gt; S (Item) - Hyperdimension Neptunia Re;Birth1
 ---
 
 [**Item Index**](/neptunia/rb1/item/index.html) - [Hyperdimension Neptunia Re;Birth1](/neptunia/rb1)
@@ -7,7 +7,7 @@ title: <BLANK> S (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
-- [Player characters who can equip **<BLANK> S**](#player-characters-who-can-equip-blank-s)
+- [Player characters who can equip **&lt;BLANK&gt; S**](#player-characters-who-can-equip-blank-s)
 
 ## Basic information
 
@@ -15,7 +15,7 @@ title: <BLANK> S (Item) - Hyperdimension Neptunia Re;Birth1
 | -- | -- |
 | **ID** | 4003 |
 | **DLC** | [Base](/neptunia/rb1/dlc/1-base.html) |
-| **Name** | <BLANK> S |
+| **Name** | &lt;BLANK&gt; S |
 | **Type** | Processor (S) |
 | **Description** | Processor Unit not equipped. |
 | **Buy Price** | 1000 |
@@ -24,7 +24,7 @@ title: <BLANK> S (Item) - Hyperdimension Neptunia Re;Birth1
 | **To unlock in shop** | Method 1<br />- View scene [Chapter 1: Rescue Compa!](/neptunia/rb1/scene/1-107-chapter-1-rescue-compa.html) |
 
 
-## Player characters who can equip **<BLANK> S**
+## Player characters who can equip **&lt;BLANK&gt; S**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |

@@ -1,5 +1,5 @@
 ---
-title: <BLANK> C (Item) - Hyperdimension Neptunia Re;Birth1
+title: &lt;BLANK&gt; C (Item) - Hyperdimension Neptunia Re;Birth1
 ---
 
 [**Item Index**](/neptunia/rb1/item/index.html) - [Hyperdimension Neptunia Re;Birth1](/neptunia/rb1)
@@ -7,7 +7,7 @@ title: <BLANK> C (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
-- [Player characters who can equip **<BLANK> C**](#player-characters-who-can-equip-blank-c)
+- [Player characters who can equip **&lt;BLANK&gt; C**](#player-characters-who-can-equip-blank-c)
 
 ## Basic information
 
@@ -15,7 +15,7 @@ title: <BLANK> C (Item) - Hyperdimension Neptunia Re;Birth1
 | -- | -- |
 | **ID** | 4333 |
 | **DLC** | [Base](/neptunia/rb1/dlc/1-base.html) |
-| **Name** | <BLANK> C |
+| **Name** | &lt;BLANK&gt; C |
 | **Type** | Processor (C) |
 | **Description** | Processor Unit not equipped. |
 | **Buy Price** | 1000 |
@@ -24,7 +24,7 @@ title: <BLANK> C (Item) - Hyperdimension Neptunia Re;Birth1
 | **To unlock in shop** | Method 1<br />- Have Rom & Ram unlocked. |
 
 
-## Player characters who can equip **<BLANK> C**
+## Player characters who can equip **&lt;BLANK&gt; C**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
