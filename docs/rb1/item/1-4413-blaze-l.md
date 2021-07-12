@@ -9,6 +9,7 @@ title: Blaze L (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Blaze L**](#player-characters-who-can-equip-blaze-l)
+
 ## Basic information
 
 |   |   |

@@ -9,6 +9,7 @@ title: Mr. Rabbit Duds (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Mr. Rabbit Duds** in shop](#remake-system-plans-which-unlock-mr-rabbit-duds-in-shop)
 - [Player characters who can equip **Mr. Rabbit Duds**](#player-characters-who-can-equip-mr-rabbit-duds)
+
 ## Basic information
 
 |   |   |

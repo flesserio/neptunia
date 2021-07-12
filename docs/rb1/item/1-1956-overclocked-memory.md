@@ -7,8 +7,10 @@ title: Overclocked Memory (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Overclocked Memory**](#monsters-which-drop-overclocked-memory)
 - [Dungeons **Overclocked Memory** is found](#dungeons-overclocked-memory-is-found)
 - [Remake System plans which require **Overclocked Memory**](#remake-system-plans-which-require-overclocked-memory)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,13 @@ title: Overclocked Memory (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 10000 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Overclocked Memory**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-1038" class="trackbox" /> | 1038 | [Base](/neptunia/rb1/dlc/1-base.html) | [Fake White Heart](/neptunia/rb1/monster/1-1038-fake-white-heart.html) |
 
 
 ## Dungeons **Overclocked Memory** is found

@@ -8,8 +8,10 @@ title: Lowee Elementary (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Stats](#stats)
+- [Monsters which drop **Lowee Elementary**](#monsters-which-drop-lowee-elementary)
 - [Dungeons **Lowee Elementary** is found](#dungeons-lowee-elementary-is-found)
 - [Player characters who can equip **Lowee Elementary**](#player-characters-who-can-equip-lowee-elementary)
+
 ## Basic information
 
 |   |   |
@@ -29,6 +31,13 @@ title: Lowee Elementary (Item) - Hyperdimension Neptunia Re;Birth1
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 15 | 15 | 0 | 0 | 0 | 0 | 0 |
+
+
+## Monsters which drop **Lowee Elementary**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-393" class="trackbox" /> | 393 | [Base](/neptunia/rb1/dlc/1-base.html) | [Clione](/neptunia/rb1/monster/1-393-clione.html) |
 
 
 ## Dungeons **Lowee Elementary** is found

@@ -9,6 +9,7 @@ title: Slash Sword (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Slash Sword**](#player-characters-who-can-equip-slash-sword)
+
 ## Basic information
 
 |   |   |

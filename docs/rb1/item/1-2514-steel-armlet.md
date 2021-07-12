@@ -9,6 +9,7 @@ title: Steel Armlet (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Steel Armlet**](#player-characters-who-can-equip-steel-armlet)
+
 ## Basic information
 
 |   |   |

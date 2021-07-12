@@ -7,8 +7,10 @@ title: Valiant Tama (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Valiant Tama**](#monsters-which-drop-valiant-tama)
 - [Dungeons **Valiant Tama** is found](#dungeons-valiant-tama-is-found)
 - [Remake System plans which require **Valiant Tama**](#remake-system-plans-which-require-valiant-tama)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,13 @@ title: Valiant Tama (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 10000 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Valiant Tama**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-12-402" class="trackbox" /> | 402 | [Additional Content Package 3](/neptunia/rb1/dlc/12-pack3.html) | [True Legacy](/neptunia/rb1/monster/12-402-true-legacy.html) |
 
 
 ## Dungeons **Valiant Tama** is found

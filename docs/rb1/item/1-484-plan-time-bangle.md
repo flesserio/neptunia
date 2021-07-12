@@ -9,6 +9,7 @@ title: Plan: Time Bangle (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **Plan: Time Bangle**](#chirpers-who-give-plan-time-bangle)
 - [Plans added to Remake System after collecting **Plan: Time Bangle**](#plans-added-to-remake-system-after-collecting-plan-time-bangle)
+
 ## Basic information
 
 |   |   |

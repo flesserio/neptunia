@@ -10,6 +10,7 @@ title: Wristwatch (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Player characters who have **Wristwatch** equipped by default](#player-characters-who-have-wristwatch-equipped-by-default)
 - [Player characters who can equip **Wristwatch**](#player-characters-who-can-equip-wristwatch)
+
 ## Basic information
 
 |   |   |

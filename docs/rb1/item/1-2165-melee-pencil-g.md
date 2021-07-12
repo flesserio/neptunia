@@ -10,6 +10,7 @@ title: Melee Pencil -G- (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Colosseum quests which reward **Melee Pencil -G-**](#colosseum-quests-which-reward-melee-pencil-g)
 - [Player characters who can equip **Melee Pencil -G-**](#player-characters-who-can-equip-melee-pencil-g)
+
 ## Basic information
 
 |   |   |

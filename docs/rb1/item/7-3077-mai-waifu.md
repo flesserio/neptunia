@@ -9,6 +9,7 @@ title: Mai Waifu (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Mai Waifu** in shop](#remake-system-plans-which-unlock-mai-waifu-in-shop)
 - [Player characters who can equip **Mai Waifu**](#player-characters-who-can-equip-mai-waifu)
+
 ## Basic information
 
 |   |   |

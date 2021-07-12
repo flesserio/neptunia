@@ -7,9 +7,11 @@ title: Boxer-X Soul (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Boxer-X Soul**](#monsters-which-drop-boxer-x-soul)
 - [Dungeons **Boxer-X Soul** is found](#dungeons-boxer-x-soul-is-found)
 - [Quests which require gathering **Boxer-X Soul**](#quests-which-require-gathering-boxer-x-soul)
 - [Remake System plans which require **Boxer-X Soul**](#remake-system-plans-which-require-boxer-x-soul)
+
 ## Basic information
 
 |   |   |
@@ -22,6 +24,13 @@ title: Boxer-X Soul (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 4 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Boxer-X Soul**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-104" class="trackbox" /> | 104 | [Base](/neptunia/rb1/dlc/1-base.html) | [Boxer-X](/neptunia/rb1/monster/1-104-boxer-x.html) |
 
 
 ## Dungeons **Boxer-X Soul** is found

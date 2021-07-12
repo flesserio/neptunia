@@ -9,6 +9,7 @@ title: Ninja Sword+? (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Colosseum quests which reward **Ninja Sword+?**](#colosseum-quests-which-reward-ninja-sword)
 - [Player characters who can equip **Ninja Sword+?**](#player-characters-who-can-equip-ninja-sword)
+
 ## Basic information
 
 |   |   |

@@ -9,6 +9,7 @@ title: Gorgeous Crown (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Gorgeous Crown** in shop](#remake-system-plans-which-unlock-gorgeous-crown-in-shop)
 - [Player characters who can equip **Gorgeous Crown**](#player-characters-who-can-equip-gorgeous-crown)
+
 ## Basic information
 
 |   |   |

@@ -9,6 +9,7 @@ title: Plan: Absolute Zero Ring (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **Plan: Absolute Zero Ring**](#chirpers-who-give-plan-absolute-zero-ring)
 - [Plans added to Remake System after collecting **Plan: Absolute Zero Ring**](#plans-added-to-remake-system-after-collecting-plan-absolute-zero-ring)
+
 ## Basic information
 
 |   |   |

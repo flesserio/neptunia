@@ -9,6 +9,7 @@ title: Plutia Clothes (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Plutia Clothes** in shop](#remake-system-plans-which-unlock-plutia-clothes-in-shop)
 - [Player characters who can equip **Plutia Clothes**](#player-characters-who-can-equip-plutia-clothes)
+
 ## Basic information
 
 |   |   |

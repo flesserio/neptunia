@@ -9,6 +9,7 @@ title: Black Cat Ribbon (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Black Cat Ribbon** in shop](#remake-system-plans-which-unlock-black-cat-ribbon-in-shop)
 - [Player characters who can equip **Black Cat Ribbon**](#player-characters-who-can-equip-black-cat-ribbon)
+
 ## Basic information
 
 |   |   |

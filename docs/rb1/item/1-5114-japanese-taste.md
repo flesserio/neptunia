@@ -8,6 +8,7 @@ title: Japanese Taste (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Dungeons **Japanese Taste** is found](#dungeons-japanese-taste-is-found)
+
 ## Basic information
 
 |   |   |

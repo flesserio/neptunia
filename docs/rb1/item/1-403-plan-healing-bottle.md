@@ -9,6 +9,7 @@ title: Plan: Healing Bottle (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **Plan: Healing Bottle**](#chirpers-who-give-plan-healing-bottle)
 - [Plans added to Remake System after collecting **Plan: Healing Bottle**](#plans-added-to-remake-system-after-collecting-plan-healing-bottle)
+
 ## Basic information
 
 |   |   |

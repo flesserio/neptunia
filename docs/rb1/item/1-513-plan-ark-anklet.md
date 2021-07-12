@@ -9,6 +9,7 @@ title: Plan: Ark Anklet (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Plans added to Remake System after collecting **Plan: Ark Anklet**](#plans-added-to-remake-system-after-collecting-plan-ark-anklet)
 - [Dungeons **Plan: Ark Anklet** is found](#dungeons-plan-ark-anklet-is-found)
+
 ## Basic information
 
 |   |   |

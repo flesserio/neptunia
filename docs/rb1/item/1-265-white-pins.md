@@ -8,6 +8,7 @@ title: White Pins (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Colosseum quests which reward **White Pins**](#colosseum-quests-which-reward-white-pins)
+
 ## Basic information
 
 |   |   |

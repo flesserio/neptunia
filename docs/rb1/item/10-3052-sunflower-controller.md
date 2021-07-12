@@ -10,6 +10,7 @@ title: Sunflower Controller (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Dungeons **Sunflower Controller** is found](#dungeons-sunflower-controller-is-found)
 - [Player characters who can equip **Sunflower Controller**](#player-characters-who-can-equip-sunflower-controller)
+
 ## Basic information
 
 |   |   |

@@ -7,7 +7,9 @@ title: Learn by Dying (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Learn by Dying**](#monsters-which-drop-learn-by-dying)
 - [Dungeons **Learn by Dying** is found](#dungeons-learn-by-dying-is-found)
+
 ## Basic information
 
 |   |   |
@@ -22,6 +24,13 @@ title: Learn by Dying (Item) - Hyperdimension Neptunia Re;Birth1
 | **Max inventory** | 99 |
 | **Idea Chip level** | 4 |
 | **Idea Chip ability** | [Critical Defense + Lv.4](/neptunia/rb1/avatar/1-9675-critical-defense-lv-4.html)<br />Increases Critical Defense by 40% |
+
+
+## Monsters which drop **Learn by Dying**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-299" class="trackbox" /> | 299 | [Base](/neptunia/rb1/dlc/1-base.html) | [Horsebird Rider](/neptunia/rb1/monster/1-299-horsebird-rider.html) |
 
 
 ## Dungeons **Learn by Dying** is found

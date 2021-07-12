@@ -7,8 +7,10 @@ title: Hell's Mane (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Hell's Mane**](#monsters-which-drop-hells-mane)
 - [Dungeons **Hell's Mane** is found](#dungeons-hells-mane-is-found)
 - [Remake System plans which require **Hell's Mane**](#remake-system-plans-which-require-hells-mane)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,15 @@ title: Hell's Mane (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 2370 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Hell's Mane**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-198" class="trackbox" /> | 198 | [Base](/neptunia/rb1/dlc/1-base.html) | [Cerberus](/neptunia/rb1/monster/1-198-cerberus.html) |
+| <input type="checkbox" id="rb1-monster-1-374" class="trackbox" /> | 374 | [Base](/neptunia/rb1/dlc/1-base.html) | [Orthros](/neptunia/rb1/monster/1-374-orthros.html) |
+| <input type="checkbox" id="rb1-monster-1-1016" class="trackbox" /> | 1016 | [Base](/neptunia/rb1/dlc/1-base.html) | [Slash Dog](/neptunia/rb1/monster/1-1016-slash-dog.html) |
 
 
 ## Dungeons **Hell's Mane** is found

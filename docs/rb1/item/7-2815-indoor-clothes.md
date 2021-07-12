@@ -9,6 +9,7 @@ title: Indoor Clothes (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Player characters who have **Indoor Clothes** equipped by default](#player-characters-who-have-indoor-clothes-equipped-by-default)
 - [Player characters who can equip **Indoor Clothes**](#player-characters-who-can-equip-indoor-clothes)
+
 ## Basic information
 
 |   |   |

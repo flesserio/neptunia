@@ -9,6 +9,7 @@ title: Firefly Fiber (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Firefly Fiber** in shop](#remake-system-plans-which-unlock-firefly-fiber-in-shop)
 - [Player characters who can equip **Firefly Fiber**](#player-characters-who-can-equip-firefly-fiber)
+
 ## Basic information
 
 |   |   |

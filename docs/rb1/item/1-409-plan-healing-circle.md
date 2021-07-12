@@ -9,6 +9,7 @@ title: Plan: Healing Circle (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **Plan: Healing Circle**](#chirpers-who-give-plan-healing-circle)
 - [Plans added to Remake System after collecting **Plan: Healing Circle**](#plans-added-to-remake-system-after-collecting-plan-healing-circle)
+
 ## Basic information
 
 |   |   |

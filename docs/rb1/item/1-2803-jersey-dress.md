@@ -8,6 +8,7 @@ title: Jersey Dress (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Player characters who can equip **Jersey Dress**](#player-characters-who-can-equip-jersey-dress)
+
 ## Basic information
 
 |   |   |

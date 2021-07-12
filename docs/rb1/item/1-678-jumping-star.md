@@ -9,6 +9,7 @@ title: Jumping Star (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **Jumping Star**](#chirpers-who-give-jumping-star)
 - [Plans added to Remake System after collecting **Jumping Star**](#plans-added-to-remake-system-after-collecting-jumping-star)
+
 ## Basic information
 
 |   |   |

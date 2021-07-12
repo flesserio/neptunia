@@ -7,8 +7,10 @@ title: God Soul (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **God Soul**](#monsters-which-drop-god-soul)
 - [Dungeons **God Soul** is found](#dungeons-god-soul-is-found)
 - [Remake System plans which require **God Soul**](#remake-system-plans-which-require-god-soul)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,13 @@ title: God Soul (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 2037 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **God Soul**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-209" class="trackbox" /> | 209 | [Base](/neptunia/rb1/dlc/1-base.html) | [Tiamat](/neptunia/rb1/monster/1-209-tiamat.html) |
 
 
 ## Dungeons **God Soul** is found

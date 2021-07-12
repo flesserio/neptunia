@@ -7,8 +7,10 @@ title: Purple Block (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Purple Block**](#monsters-which-drop-purple-block)
 - [Dungeons **Purple Block** is found](#dungeons-purple-block-is-found)
 - [Remake System plans which require **Purple Block**](#remake-system-plans-which-require-purple-block)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,15 @@ title: Purple Block (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 8 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Purple Block**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-21-8052" class="trackbox" /> | 8052 | [Additional Content Pack 12](/neptunia/rb1/dlc/21-pack12.html) | [Terits](/neptunia/rb1/monster/21-8052-terits.html) |
+| <input type="checkbox" id="rb1-monster-1-120" class="trackbox" /> | 120 | [Base](/neptunia/rb1/dlc/1-base.html) | [Terits](/neptunia/rb1/monster/1-120-terits.html) |
+| <input type="checkbox" id="rb1-monster-16-1066" class="trackbox" /> | 1066 | [Additional Content Pack 7](/neptunia/rb1/dlc/16-pack7.html) | [Terits](/neptunia/rb1/monster/16-1066-terits.html) |
 
 
 ## Dungeons **Purple Block** is found

@@ -9,6 +9,7 @@ title: Change Items: Road to Celestia (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **Change Items: Road to Celestia**](#chirpers-who-give-change-items-road-to-celestia)
 - [Plans added to Remake System after collecting **Change Items: Road to Celestia**](#plans-added-to-remake-system-after-collecting-change-items-road-to-celestia)
+
 ## Basic information
 
 |   |   |

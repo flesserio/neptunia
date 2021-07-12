@@ -7,7 +7,9 @@ title: Metafiction (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Metafiction**](#monsters-which-drop-metafiction)
 - [Dungeons **Metafiction** is found](#dungeons-metafiction-is-found)
+
 ## Basic information
 
 |   |   |
@@ -22,6 +24,13 @@ title: Metafiction (Item) - Hyperdimension Neptunia Re;Birth1
 | **Max inventory** | 99 |
 | **Idea Chip level** | 4 |
 | **Idea Chip ability** | [Animal Defense Lv.4](/neptunia/rb1/avatar/1-9599-animal-defense-lv-4.html)<br />Increases Animal Defense by 25% |
+
+
+## Monsters which drop **Metafiction**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-236" class="trackbox" /> | 236 | [Base](/neptunia/rb1/dlc/1-base.html) | [Cat Squirrel Rider](/neptunia/rb1/monster/1-236-cat-squirrel-rider.html) |
 
 
 ## Dungeons **Metafiction** is found

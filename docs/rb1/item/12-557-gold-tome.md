@@ -9,6 +9,7 @@ title: Gold Tome (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Plans added to Remake System after collecting **Gold Tome**](#plans-added-to-remake-system-after-collecting-gold-tome)
 - [Colosseum quests which reward **Gold Tome**](#colosseum-quests-which-reward-gold-tome)
+
 ## Basic information
 
 |   |   |

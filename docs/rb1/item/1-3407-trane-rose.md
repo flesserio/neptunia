@@ -9,6 +9,7 @@ title: Trane Rose (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Trane Rose** in shop](#remake-system-plans-which-unlock-trane-rose-in-shop)
 - [Player characters who can equip **Trane Rose**](#player-characters-who-can-equip-trane-rose)
+
 ## Basic information
 
 |   |   |

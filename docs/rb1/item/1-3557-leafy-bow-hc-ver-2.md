@@ -10,6 +10,7 @@ title: Leafy Bow HC Ver-2 (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Quests which reward **Leafy Bow HC Ver-2**](#quests-which-reward-leafy-bow-hc-ver-2)
 - [Player characters who can equip **Leafy Bow HC Ver-2**](#player-characters-who-can-equip-leafy-bow-hc-ver-2)
+
 ## Basic information
 
 |   |   |

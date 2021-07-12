@@ -8,6 +8,7 @@ title: Million Aim (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Dungeons **Million Aim** is found](#dungeons-million-aim-is-found)
+
 ## Basic information
 
 |   |   |

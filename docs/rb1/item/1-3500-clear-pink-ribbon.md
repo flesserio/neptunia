@@ -9,6 +9,7 @@ title: Clear Pink Ribbon (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Clear Pink Ribbon** in shop](#remake-system-plans-which-unlock-clear-pink-ribbon-in-shop)
 - [Player characters who can equip **Clear Pink Ribbon**](#player-characters-who-can-equip-clear-pink-ribbon)
+
 ## Basic information
 
 |   |   |

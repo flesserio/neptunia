@@ -8,6 +8,7 @@ title: Burnin' Moe (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Dungeons **Burnin' Moe** is found](#dungeons-burnin-moe-is-found)
+
 ## Basic information
 
 |   |   |

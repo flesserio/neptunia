@@ -9,6 +9,7 @@ title: Twin Light Fangs (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Twin Light Fangs**](#player-characters-who-can-equip-twin-light-fangs)
+
 ## Basic information
 
 |   |   |

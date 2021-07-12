@@ -7,9 +7,11 @@ title: Elegant Crown (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Elegant Crown**](#monsters-which-drop-elegant-crown)
 - [Dungeons **Elegant Crown** is found](#dungeons-elegant-crown-is-found)
 - [Remake System plans which require **Elegant Crown**](#remake-system-plans-which-require-elegant-crown)
 - [Player characters who can equip **Elegant Crown**](#player-characters-who-can-equip-elegant-crown)
+
 ## Basic information
 
 |   |   |
@@ -22,6 +24,13 @@ title: Elegant Crown (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 1000 |
 | **Sell Price** | 500 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Elegant Crown**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-225" class="trackbox" /> | 225 | [Base](/neptunia/rb1/dlc/1-base.html) | [1000-Year Turtle](/neptunia/rb1/monster/1-225-1000-year-turtle.html) |
 
 
 ## Dungeons **Elegant Crown** is found

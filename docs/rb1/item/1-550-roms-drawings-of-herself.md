@@ -9,6 +9,7 @@ title: Rom's Drawings of Herself (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **Rom's Drawings of Herself**](#chirpers-who-give-roms-drawings-of-herself)
 - [Plans added to Remake System after collecting **Rom's Drawings of Herself**](#plans-added-to-remake-system-after-collecting-roms-drawings-of-herself)
+
 ## Basic information
 
 |   |   |

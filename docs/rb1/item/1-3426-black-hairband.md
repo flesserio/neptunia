@@ -8,6 +8,7 @@ title: Black Hairband (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Player characters who can equip **Black Hairband**](#player-characters-who-can-equip-black-hairband)
+
 ## Basic information
 
 |   |   |

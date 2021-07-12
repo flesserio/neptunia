@@ -9,6 +9,7 @@ title: Change Items: Gheytz Forest (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **Change Items: Gheytz Forest**](#chirpers-who-give-change-items-gheytz-forest)
 - [Plans added to Remake System after collecting **Change Items: Gheytz Forest**](#plans-added-to-remake-system-after-collecting-change-items-gheytz-forest)
+
 ## Basic information
 
 |   |   |

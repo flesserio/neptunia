@@ -7,8 +7,10 @@ title: Juvenile Game (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Juvenile Game**](#monsters-which-drop-juvenile-game)
 - [Dungeons **Juvenile Game** is found](#dungeons-juvenile-game-is-found)
 - [Colosseum quests which reward **Juvenile Game**](#colosseum-quests-which-reward-juvenile-game)
+
 ## Basic information
 
 |   |   |
@@ -23,6 +25,13 @@ title: Juvenile Game (Item) - Hyperdimension Neptunia Re;Birth1
 | **Max inventory** | 99 |
 | **Idea Chip level** | 5 |
 | **Idea Chip ability** | [Machine Defense Lv.5](/neptunia/rb1/avatar/1-9610-machine-defense-lv-5.html)<br />Increases Machine Defense by 30% |
+
+
+## Monsters which drop **Juvenile Game**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-344" class="trackbox" /> | 344 | [Base](/neptunia/rb1/dlc/1-base.html) | [Maximus Dogoous](/neptunia/rb1/monster/1-344-maximus-dogoous.html) |
 
 
 ## Dungeons **Juvenile Game** is found

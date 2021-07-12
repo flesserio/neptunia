@@ -10,6 +10,7 @@ title: Royal Bracelet (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Remake System plans which unlock **Royal Bracelet** in shop](#remake-system-plans-which-unlock-royal-bracelet-in-shop)
 - [Player characters who can equip **Royal Bracelet**](#player-characters-who-can-equip-royal-bracelet)
+
 ## Basic information
 
 |   |   |

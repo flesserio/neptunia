@@ -9,6 +9,7 @@ title: Swimming Suit W (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Swimming Suit W**](#player-characters-who-can-equip-swimming-suit-w)
+
 ## Basic information
 
 |   |   |

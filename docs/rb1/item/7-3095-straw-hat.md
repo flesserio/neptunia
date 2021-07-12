@@ -9,6 +9,7 @@ title: Straw Hat (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Straw Hat**](#player-characters-who-can-equip-straw-hat)
+
 ## Basic information
 
 |   |   |

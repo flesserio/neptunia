@@ -7,8 +7,10 @@ title: Visual Memory 8X (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Visual Memory 8X**](#monsters-which-drop-visual-memory-8x)
 - [Dungeons **Visual Memory 8X** is found](#dungeons-visual-memory-8x-is-found)
 - [Remake System plans which require **Visual Memory 8X**](#remake-system-plans-which-require-visual-memory-8x)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,13 @@ title: Visual Memory 8X (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 437 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Visual Memory 8X**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-126" class="trackbox" /> | 126 | [Base](/neptunia/rb1/dlc/1-base.html) | [Galakryzer](/neptunia/rb1/monster/1-126-galakryzer.html) |
 
 
 ## Dungeons **Visual Memory 8X** is found

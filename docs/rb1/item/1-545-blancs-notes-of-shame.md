@@ -9,6 +9,7 @@ title: Blanc's Notes of Shame (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **Blanc's Notes of Shame**](#chirpers-who-give-blancs-notes-of-shame)
 - [Plans added to Remake System after collecting **Blanc's Notes of Shame**](#plans-added-to-remake-system-after-collecting-blancs-notes-of-shame)
+
 ## Basic information
 
 |   |   |

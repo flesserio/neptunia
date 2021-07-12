@@ -7,8 +7,10 @@ title: Alloy Plate (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Alloy Plate**](#monsters-which-drop-alloy-plate)
 - [Dungeons **Alloy Plate** is found](#dungeons-alloy-plate-is-found)
 - [Remake System plans which require **Alloy Plate**](#remake-system-plans-which-require-alloy-plate)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,13 @@ title: Alloy Plate (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 1130 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Alloy Plate**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-300" class="trackbox" /> | 300 | [Base](/neptunia/rb1/dlc/1-base.html) | [Roborival](/neptunia/rb1/monster/1-300-roborival.html) |
 
 
 ## Dungeons **Alloy Plate** is found

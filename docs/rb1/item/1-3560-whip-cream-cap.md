@@ -8,8 +8,10 @@ title: Whip Cream Cap (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Stats](#stats)
+- [Monsters which drop **Whip Cream Cap**](#monsters-which-drop-whip-cream-cap)
 - [Dungeons **Whip Cream Cap** is found](#dungeons-whip-cream-cap-is-found)
 - [Player characters who can equip **Whip Cream Cap**](#player-characters-who-can-equip-whip-cream-cap)
+
 ## Basic information
 
 |   |   |
@@ -29,6 +31,13 @@ title: Whip Cream Cap (Item) - Hyperdimension Neptunia Re;Birth1
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 0 | 0 | 5 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+
+
+## Monsters which drop **Whip Cream Cap**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-279" class="trackbox" /> | 279 | [Base](/neptunia/rb1/dlc/1-base.html) | [Crack Tail](/neptunia/rb1/monster/1-279-crack-tail.html) |
 
 
 ## Dungeons **Whip Cream Cap** is found

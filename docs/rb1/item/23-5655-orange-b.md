@@ -10,6 +10,7 @@ title: Orange B (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Player characters who have **Orange B** equipped by default](#player-characters-who-have-orange-b-equipped-by-default)
 - [Player characters who can equip **Orange B**](#player-characters-who-can-equip-orange-b)
+
 ## Basic information
 
 |   |   |

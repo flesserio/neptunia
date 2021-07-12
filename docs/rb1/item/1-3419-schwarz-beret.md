@@ -9,6 +9,7 @@ title: Schwarz Beret (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Schwarz Beret** in shop](#remake-system-plans-which-unlock-schwarz-beret-in-shop)
 - [Player characters who can equip **Schwarz Beret**](#player-characters-who-can-equip-schwarz-beret)
+
 ## Basic information
 
 |   |   |

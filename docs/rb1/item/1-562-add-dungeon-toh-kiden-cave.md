@@ -9,6 +9,7 @@ title: Add Dungeon: Toh-Kiden Cave (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Plans added to Remake System after collecting **Add Dungeon: Toh-Kiden Cave**](#plans-added-to-remake-system-after-collecting-add-dungeon-toh-kiden-cave)
 - [Dungeons **Add Dungeon: Toh-Kiden Cave** is found](#dungeons-add-dungeon-toh-kiden-cave-is-found)
+
 ## Basic information
 
 |   |   |

@@ -8,7 +8,9 @@ title: Plan: U-Ring (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Plans added to Remake System after collecting **Plan: U-Ring**](#plans-added-to-remake-system-after-collecting-plan-u-ring)
+- [Monsters which drop **Plan: U-Ring**](#monsters-which-drop-plan-u-ring)
 - [Dungeons **Plan: U-Ring** is found](#dungeons-plan-u-ring-is-found)
+
 ## Basic information
 
 |   |   |
@@ -28,6 +30,13 @@ title: Plan: U-Ring (Item) - Hyperdimension Neptunia Re;Birth1
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
 | <input type="checkbox" id="rb1-remake-11-395" class="trackbox" /> | 395 | [Additional Content Package 2](/neptunia/rb1/dlc/11-pack2.html) | [U-Ring](/neptunia/rb1/remake/11-395-u-ring.html)<br /> → [U-Ring](/neptunia/rb1/item/11-2565-u-ring.html) (Armor) |
+
+
+## Monsters which drop **Plan: U-Ring**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-11-366" class="trackbox" /> | 366 | [Additional Content Package 2](/neptunia/rb1/dlc/11-pack2.html) | [Clione](/neptunia/rb1/monster/11-366-clione.html) |
 
 
 ## Dungeons **Plan: U-Ring** is found

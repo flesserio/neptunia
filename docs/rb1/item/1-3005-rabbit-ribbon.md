@@ -10,6 +10,7 @@ title: Rabbit Ribbon (Item) - Hyperdimension Neptunia Re;Birth1
 - [Remake System plans which unlock **Rabbit Ribbon** in shop](#remake-system-plans-which-unlock-rabbit-ribbon-in-shop)
 - [Remake System plans which require **Rabbit Ribbon**](#remake-system-plans-which-require-rabbit-ribbon)
 - [Player characters who can equip **Rabbit Ribbon**](#player-characters-who-can-equip-rabbit-ribbon)
+
 ## Basic information
 
 |   |   |

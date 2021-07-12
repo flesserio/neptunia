@@ -7,8 +7,10 @@ title: Yummy Dolphin Soup (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Yummy Dolphin Soup**](#monsters-which-drop-yummy-dolphin-soup)
 - [Dungeons **Yummy Dolphin Soup** is found](#dungeons-yummy-dolphin-soup-is-found)
 - [Remake System plans which require **Yummy Dolphin Soup**](#remake-system-plans-which-require-yummy-dolphin-soup)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,13 @@ title: Yummy Dolphin Soup (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 3256 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Yummy Dolphin Soup**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-10-416" class="trackbox" /> | 416 | [Additional Content Package 1](/neptunia/rb1/dlc/10-pack1.html) | [1000-Year Dolphin](/neptunia/rb1/monster/10-416-1000-year-dolphin.html) |
 
 
 ## Dungeons **Yummy Dolphin Soup** is found

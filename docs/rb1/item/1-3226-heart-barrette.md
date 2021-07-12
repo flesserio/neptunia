@@ -10,6 +10,7 @@ title: Heart Barrette (Item) - Hyperdimension Neptunia Re;Birth1
 - [Remake System plans which unlock **Heart Barrette** in shop](#remake-system-plans-which-unlock-heart-barrette-in-shop)
 - [Remake System plans which require **Heart Barrette**](#remake-system-plans-which-require-heart-barrette)
 - [Player characters who can equip **Heart Barrette**](#player-characters-who-can-equip-heart-barrette)
+
 ## Basic information
 
 |   |   |

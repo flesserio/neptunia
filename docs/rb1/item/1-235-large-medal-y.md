@@ -8,6 +8,7 @@ title: Large Medal Y (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Dungeons **Large Medal Y** is found](#dungeons-large-medal-y-is-found)
+
 ## Basic information
 
 |   |   |

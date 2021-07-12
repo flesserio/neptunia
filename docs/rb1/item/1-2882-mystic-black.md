@@ -9,6 +9,7 @@ title: Mystic Black (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Player characters who have **Mystic Black** equipped by default](#player-characters-who-have-mystic-black-equipped-by-default)
 - [Player characters who can equip **Mystic Black**](#player-characters-who-can-equip-mystic-black)
+
 ## Basic information
 
 |   |   |

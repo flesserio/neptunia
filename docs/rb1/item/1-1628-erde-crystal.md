@@ -9,6 +9,7 @@ title: Erde Crystal (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Erde Crystal** is found](#dungeons-erde-crystal-is-found)
 - [Remake System plans which require **Erde Crystal**](#remake-system-plans-which-require-erde-crystal)
+
 ## Basic information
 
 |   |   |

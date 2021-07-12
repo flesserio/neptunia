@@ -10,6 +10,7 @@ title: Test Potion V (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Player characters who have **Test Potion V** equipped by default](#player-characters-who-have-test-potion-v-equipped-by-default)
 - [Player characters who can equip **Test Potion V**](#player-characters-who-can-equip-test-potion-v)
+
 ## Basic information
 
 |   |   |

@@ -7,8 +7,10 @@ title: Cat Gloves (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Cat Gloves**](#monsters-which-drop-cat-gloves)
 - [Dungeons **Cat Gloves** is found](#dungeons-cat-gloves-is-found)
 - [Remake System plans which require **Cat Gloves**](#remake-system-plans-which-require-cat-gloves)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,13 @@ title: Cat Gloves (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 172 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Cat Gloves**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-10-411" class="trackbox" /> | 411 | [Additional Content Package 1](/neptunia/rb1/dlc/10-pack1.html) | [Boxer Cat](/neptunia/rb1/monster/10-411-boxer-cat.html) |
 
 
 ## Dungeons **Cat Gloves** is found

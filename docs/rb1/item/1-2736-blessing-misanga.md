@@ -10,6 +10,7 @@ title: Blessing Misanga (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Remake System plans which unlock **Blessing Misanga** in shop](#remake-system-plans-which-unlock-blessing-misanga-in-shop)
 - [Player characters who can equip **Blessing Misanga**](#player-characters-who-can-equip-blessing-misanga)
+
 ## Basic information
 
 |   |   |

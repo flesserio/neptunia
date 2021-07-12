@@ -9,6 +9,7 @@ title: Royal Crown (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Royal Crown** in shop](#remake-system-plans-which-unlock-royal-crown-in-shop)
 - [Player characters who can equip **Royal Crown**](#player-characters-who-can-equip-royal-crown)
+
 ## Basic information
 
 |   |   |

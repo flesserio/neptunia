@@ -10,6 +10,7 @@ title: Chignon Cap (Item) - Hyperdimension Neptunia Re;Birth1
 - [Remake System plans which unlock **Chignon Cap** in shop](#remake-system-plans-which-unlock-chignon-cap-in-shop)
 - [Remake System plans which require **Chignon Cap**](#remake-system-plans-which-require-chignon-cap)
 - [Player characters who can equip **Chignon Cap**](#player-characters-who-can-equip-chignon-cap)
+
 ## Basic information
 
 |   |   |

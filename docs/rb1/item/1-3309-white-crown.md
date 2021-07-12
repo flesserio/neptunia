@@ -9,6 +9,7 @@ title: White Crown (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **White Crown** in shop](#remake-system-plans-which-unlock-white-crown-in-shop)
 - [Player characters who can equip **White Crown**](#player-characters-who-can-equip-white-crown)
+
 ## Basic information
 
 |   |   |

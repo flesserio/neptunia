@@ -7,9 +7,11 @@ title: Illegal Circuit (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Illegal Circuit**](#monsters-which-drop-illegal-circuit)
 - [Dungeons **Illegal Circuit** is found](#dungeons-illegal-circuit-is-found)
 - [Quests which require gathering **Illegal Circuit**](#quests-which-require-gathering-illegal-circuit)
 - [Remake System plans which require **Illegal Circuit**](#remake-system-plans-which-require-illegal-circuit)
+
 ## Basic information
 
 |   |   |
@@ -22,6 +24,14 @@ title: Illegal Circuit (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 11 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Illegal Circuit**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-128" class="trackbox" /> | 128 | [Base](/neptunia/rb1/dlc/1-base.html) | [Bit Custom](/neptunia/rb1/monster/1-128-bit-custom.html) |
+| <input type="checkbox" id="rb1-monster-1-342" class="trackbox" /> | 342 | [Base](/neptunia/rb1/dlc/1-base.html) | [A2-i](/neptunia/rb1/monster/1-342-a2-i.html) |
 
 
 ## Dungeons **Illegal Circuit** is found

@@ -9,6 +9,7 @@ title: 1st Place Ribbon (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **1st Place Ribbon** in shop](#remake-system-plans-which-unlock-1st-place-ribbon-in-shop)
 - [Player characters who can equip **1st Place Ribbon**](#player-characters-who-can-equip-1st-place-ribbon)
+
 ## Basic information
 
 |   |   |

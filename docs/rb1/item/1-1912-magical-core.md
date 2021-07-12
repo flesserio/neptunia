@@ -7,9 +7,11 @@ title: Magical Core (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Magical Core**](#monsters-which-drop-magical-core)
 - [Dungeons **Magical Core** is found](#dungeons-magical-core-is-found)
 - [Quests which require gathering **Magical Core**](#quests-which-require-gathering-magical-core)
 - [Remake System plans which require **Magical Core**](#remake-system-plans-which-require-magical-core)
+
 ## Basic information
 
 |   |   |
@@ -22,6 +24,14 @@ title: Magical Core (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 221 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Magical Core**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-220" class="trackbox" /> | 220 | [Base](/neptunia/rb1/dlc/1-base.html) | [Ruin Guardian](/neptunia/rb1/monster/1-220-ruin-guardian.html) |
+| <input type="checkbox" id="rb1-monster-1-221" class="trackbox" /> | 221 | [Base](/neptunia/rb1/dlc/1-base.html) | [Viral Ruin Guardian](/neptunia/rb1/monster/1-221-viral-ruin-guardian.html) |
 
 
 ## Dungeons **Magical Core** is found

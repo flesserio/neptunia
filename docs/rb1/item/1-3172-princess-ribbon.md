@@ -8,6 +8,7 @@ title: Princess Ribbon (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Player characters who can equip **Princess Ribbon**](#player-characters-who-can-equip-princess-ribbon)
+
 ## Basic information
 
 |   |   |

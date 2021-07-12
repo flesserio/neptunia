@@ -9,6 +9,7 @@ title: Gothic Headdress (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Gothic Headdress** in shop](#remake-system-plans-which-unlock-gothic-headdress-in-shop)
 - [Player characters who can equip **Gothic Headdress**](#player-characters-who-can-equip-gothic-headdress)
+
 ## Basic information
 
 |   |   |

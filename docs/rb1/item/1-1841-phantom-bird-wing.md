@@ -7,8 +7,10 @@ title: Phantom Bird Wing (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Phantom Bird Wing**](#monsters-which-drop-phantom-bird-wing)
 - [Dungeons **Phantom Bird Wing** is found](#dungeons-phantom-bird-wing-is-found)
 - [Remake System plans which require **Phantom Bird Wing**](#remake-system-plans-which-require-phantom-bird-wing)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,17 @@ title: Phantom Bird Wing (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 1111 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Phantom Bird Wing**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-190" class="trackbox" /> | 190 | [Base](/neptunia/rb1/dlc/1-base.html) | [Garuda](/neptunia/rb1/monster/1-190-garuda.html) |
+| <input type="checkbox" id="rb1-monster-1-307" class="trackbox" /> | 307 | [Base](/neptunia/rb1/dlc/1-base.html) | [Roc](/neptunia/rb1/monster/1-307-roc.html) |
+| <input type="checkbox" id="rb1-monster-1-389" class="trackbox" /> | 389 | [Base](/neptunia/rb1/dlc/1-base.html) | [Gyps](/neptunia/rb1/monster/1-389-gyps.html) |
+| <input type="checkbox" id="rb1-monster-1-390" class="trackbox" /> | 390 | [Base](/neptunia/rb1/dlc/1-base.html) | [Viral Eerie Bird](/neptunia/rb1/monster/1-390-viral-eerie-bird.html) |
+| <input type="checkbox" id="rb1-monster-1-1012" class="trackbox" /> | 1012 | [Base](/neptunia/rb1/dlc/1-base.html) | [Hraesvelgr](/neptunia/rb1/monster/1-1012-hraesvelgr.html) |
 
 
 ## Dungeons **Phantom Bird Wing** is found

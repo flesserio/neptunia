@@ -7,9 +7,11 @@ title: Low-Grade Ribbon (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Low-Grade Ribbon**](#monsters-which-drop-low-grade-ribbon)
 - [Dungeons **Low-Grade Ribbon** is found](#dungeons-low-grade-ribbon-is-found)
 - [Remake System plans which require **Low-Grade Ribbon**](#remake-system-plans-which-require-low-grade-ribbon)
 - [Player characters who can equip **Low-Grade Ribbon**](#player-characters-who-can-equip-low-grade-ribbon)
+
 ## Basic information
 
 |   |   |
@@ -22,6 +24,13 @@ title: Low-Grade Ribbon (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 1000 |
 | **Sell Price** | 500 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Low-Grade Ribbon**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-165" class="trackbox" /> | 165 | [Base](/neptunia/rb1/dlc/1-base.html) | [Violent Good Girl](/neptunia/rb1/monster/1-165-violent-good-girl.html) |
 
 
 ## Dungeons **Low-Grade Ribbon** is found

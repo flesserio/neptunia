@@ -9,6 +9,7 @@ title: Variable Sword (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Variable Sword**](#player-characters-who-can-equip-variable-sword)
+
 ## Basic information
 
 |   |   |

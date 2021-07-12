@@ -7,8 +7,10 @@ title: Mystic Hat (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Mystic Hat**](#monsters-which-drop-mystic-hat)
 - [Dungeons **Mystic Hat** is found](#dungeons-mystic-hat-is-found)
 - [Player characters who can equip **Mystic Hat**](#player-characters-who-can-equip-mystic-hat)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,13 @@ title: Mystic Hat (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 1000 |
 | **Sell Price** | 500 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Mystic Hat**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-170" class="trackbox" /> | 170 | [Base](/neptunia/rb1/dlc/1-base.html) | [DSTT](/neptunia/rb1/monster/1-170-dstt.html) |
 
 
 ## Dungeons **Mystic Hat** is found

@@ -7,7 +7,9 @@ title: Large Medal U (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Large Medal U**](#monsters-which-drop-large-medal-u)
 - [Dungeons **Large Medal U** is found](#dungeons-large-medal-u-is-found)
+
 ## Basic information
 
 |   |   |
@@ -20,6 +22,13 @@ title: Large Medal U (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 0 |
 | **Max inventory** | 1 |
+
+
+## Monsters which drop **Large Medal U**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-376" class="trackbox" /> | 376 | [Base](/neptunia/rb1/dlc/1-base.html) | [Clione](/neptunia/rb1/monster/1-376-clione.html) |
 
 
 ## Dungeons **Large Medal U** is found

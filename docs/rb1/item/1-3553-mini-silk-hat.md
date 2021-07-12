@@ -10,6 +10,7 @@ title: Mini Silk Hat (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Quests which reward **Mini Silk Hat**](#quests-which-reward-mini-silk-hat)
 - [Player characters who can equip **Mini Silk Hat**](#player-characters-who-can-equip-mini-silk-hat)
+
 ## Basic information
 
 |   |   |

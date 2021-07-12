@@ -9,6 +9,7 @@ title: Terra S (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Terra S**](#player-characters-who-can-equip-terra-s)
+
 ## Basic information
 
 |   |   |

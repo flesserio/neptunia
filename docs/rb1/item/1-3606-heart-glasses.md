@@ -8,8 +8,10 @@ title: Heart Glasses (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Stats](#stats)
+- [Monsters which drop **Heart Glasses**](#monsters-which-drop-heart-glasses)
 - [Dungeons **Heart Glasses** is found](#dungeons-heart-glasses-is-found)
 - [Player characters who can equip **Heart Glasses**](#player-characters-who-can-equip-heart-glasses)
+
 ## Basic information
 
 |   |   |
@@ -29,6 +31,13 @@ title: Heart Glasses (Item) - Hyperdimension Neptunia Re;Birth1
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 0 | 0 | 15 | 0 | 0 | 0 | 0 | 10 | 0 | 0 | 0 |
+
+
+## Monsters which drop **Heart Glasses**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-383" class="trackbox" /> | 383 | [Base](/neptunia/rb1/dlc/1-base.html) | [Mega Turtle](/neptunia/rb1/monster/1-383-mega-turtle.html) |
 
 
 ## Dungeons **Heart Glasses** is found

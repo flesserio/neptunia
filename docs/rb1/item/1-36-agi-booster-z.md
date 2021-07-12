@@ -12,6 +12,7 @@ title: AGI Booster Z (Item) - Hyperdimension Neptunia Re;Birth1
 - [Colosseum quests which reward **AGI Booster Z**](#colosseum-quests-which-reward-agi-booster-z)
 - [Quests which reward **AGI Booster Z**](#quests-which-reward-agi-booster-z)
 - [Remake System plans which require **AGI Booster Z**](#remake-system-plans-which-require-agi-booster-z)
+
 ## Basic information
 
 |   |   |

@@ -10,6 +10,7 @@ title: Green L (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Player characters who have **Green L** equipped by default](#player-characters-who-have-green-l-equipped-by-default)
 - [Player characters who can equip **Green L**](#player-characters-who-can-equip-green-l)
+
 ## Basic information
 
 |   |   |

@@ -8,6 +8,7 @@ title: Child-oriented (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Colosseum quests which reward **Child-oriented**](#colosseum-quests-which-reward-child-oriented)
+
 ## Basic information
 
 |   |   |

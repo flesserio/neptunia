@@ -9,6 +9,7 @@ title: Plan: Thunderclap Ring (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **Plan: Thunderclap Ring**](#chirpers-who-give-plan-thunderclap-ring)
 - [Plans added to Remake System after collecting **Plan: Thunderclap Ring**](#plans-added-to-remake-system-after-collecting-plan-thunderclap-ring)
+
 ## Basic information
 
 |   |   |

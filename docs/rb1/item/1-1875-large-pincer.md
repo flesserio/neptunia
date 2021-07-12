@@ -7,8 +7,10 @@ title: Large Pincer (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Large Pincer**](#monsters-which-drop-large-pincer)
 - [Dungeons **Large Pincer** is found](#dungeons-large-pincer-is-found)
 - [Remake System plans which require **Large Pincer**](#remake-system-plans-which-require-large-pincer)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,13 @@ title: Large Pincer (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 418 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Large Pincer**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-181" class="trackbox" /> | 181 | [Base](/neptunia/rb1/dlc/1-base.html) | [King Crab](/neptunia/rb1/monster/1-181-king-crab.html) |
 
 
 ## Dungeons **Large Pincer** is found

@@ -10,6 +10,7 @@ title: Base Core C (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Player characters who have **Base Core C** equipped by default](#player-characters-who-have-base-core-c-equipped-by-default)
 - [Player characters who can equip **Base Core C**](#player-characters-who-can-equip-base-core-c)
+
 ## Basic information
 
 |   |   |

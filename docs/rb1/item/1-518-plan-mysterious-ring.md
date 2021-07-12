@@ -9,6 +9,7 @@ title: Plan: Mysterious Ring (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Plans added to Remake System after collecting **Plan: Mysterious Ring**](#plans-added-to-remake-system-after-collecting-plan-mysterious-ring)
 - [Dungeons **Plan: Mysterious Ring** is found](#dungeons-plan-mysterious-ring-is-found)
+
 ## Basic information
 
 |   |   |

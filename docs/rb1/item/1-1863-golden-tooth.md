@@ -7,8 +7,10 @@ title: Golden Tooth (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Golden Tooth**](#monsters-which-drop-golden-tooth)
 - [Dungeons **Golden Tooth** is found](#dungeons-golden-tooth-is-found)
 - [Remake System plans which require **Golden Tooth**](#remake-system-plans-which-require-golden-tooth)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,13 @@ title: Golden Tooth (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 527 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Golden Tooth**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-241" class="trackbox" /> | 241 | [Base](/neptunia/rb1/dlc/1-base.html) | [Skull](/neptunia/rb1/monster/1-241-skull.html) |
 
 
 ## Dungeons **Golden Tooth** is found

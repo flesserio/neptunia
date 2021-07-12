@@ -9,6 +9,7 @@ title: Superior Blade (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Superior Blade**](#player-characters-who-can-equip-superior-blade)
+
 ## Basic information
 
 |   |   |

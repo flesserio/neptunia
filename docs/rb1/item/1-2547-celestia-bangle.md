@@ -8,7 +8,9 @@ title: Celestia Bangle (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Stats](#stats)
+- [Monsters which drop **Celestia Bangle**](#monsters-which-drop-celestia-bangle)
 - [Player characters who can equip **Celestia Bangle**](#player-characters-who-can-equip-celestia-bangle)
+
 ## Basic information
 
 |   |   |
@@ -28,6 +30,13 @@ title: Celestia Bangle (Item) - Hyperdimension Neptunia Re;Birth1
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 0 | 2240 | 0 | 2240 | 112 | 0 | 0 | 0 | 0 | 0 | 0 |
+
+
+## Monsters which drop **Celestia Bangle**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-1059" class="trackbox" /> | 1059 | [Base](/neptunia/rb1/dlc/1-base.html) | [True Arfoire](/neptunia/rb1/monster/1-1059-true-arfoire.html) |
 
 
 ## Player characters who can equip **Celestia Bangle**

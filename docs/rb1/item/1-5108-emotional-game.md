@@ -9,6 +9,7 @@ title: Emotional Game (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Emotional Game** is found](#dungeons-emotional-game-is-found)
 - [Quests which reward **Emotional Game**](#quests-which-reward-emotional-game)
+
 ## Basic information
 
 |   |   |

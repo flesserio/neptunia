@@ -9,6 +9,7 @@ title: Stone Leek Style (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Stone Leek Style** in shop](#remake-system-plans-which-unlock-stone-leek-style-in-shop)
 - [Player characters who can equip **Stone Leek Style**](#player-characters-who-can-equip-stone-leek-style)
+
 ## Basic information
 
 |   |   |

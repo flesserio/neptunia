@@ -9,6 +9,7 @@ title: Witch Hat (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Witch Hat** in shop](#remake-system-plans-which-unlock-witch-hat-in-shop)
 - [Player characters who can equip **Witch Hat**](#player-characters-who-can-equip-witch-hat)
+
 ## Basic information
 
 |   |   |

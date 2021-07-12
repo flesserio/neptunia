@@ -7,8 +7,10 @@ title: Phoenix Wing (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Phoenix Wing**](#monsters-which-drop-phoenix-wing)
 - [Dungeons **Phoenix Wing** is found](#dungeons-phoenix-wing-is-found)
 - [Remake System plans which require **Phoenix Wing**](#remake-system-plans-which-require-phoenix-wing)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,13 @@ title: Phoenix Wing (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 186 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Phoenix Wing**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-124" class="trackbox" /> | 124 | [Base](/neptunia/rb1/dlc/1-base.html) | [Phoenix](/neptunia/rb1/monster/1-124-phoenix.html) |
 
 
 ## Dungeons **Phoenix Wing** is found

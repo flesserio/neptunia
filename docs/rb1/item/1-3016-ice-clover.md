@@ -10,6 +10,7 @@ title: Ice Clover (Item) - Hyperdimension Neptunia Re;Birth1
 - [Remake System plans which unlock **Ice Clover** in shop](#remake-system-plans-which-unlock-ice-clover-in-shop)
 - [Remake System plans which require **Ice Clover**](#remake-system-plans-which-require-ice-clover)
 - [Player characters who can equip **Ice Clover**](#player-characters-who-can-equip-ice-clover)
+
 ## Basic information
 
 |   |   |

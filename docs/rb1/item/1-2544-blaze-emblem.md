@@ -9,6 +9,7 @@ title: Blaze Emblem (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Blaze Emblem**](#player-characters-who-can-equip-blaze-emblem)
+
 ## Basic information
 
 |   |   |

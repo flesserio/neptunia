@@ -9,6 +9,7 @@ title: Minimum Crown (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Minimum Crown** in shop](#remake-system-plans-which-unlock-minimum-crown-in-shop)
 - [Player characters who can equip **Minimum Crown**](#player-characters-who-can-equip-minimum-crown)
+
 ## Basic information
 
 |   |   |

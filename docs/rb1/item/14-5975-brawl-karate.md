@@ -9,6 +9,7 @@ title: Brawl Karate+? (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Colosseum quests which reward **Brawl Karate+?**](#colosseum-quests-which-reward-brawl-karate)
 - [Player characters who can equip **Brawl Karate+?**](#player-characters-who-can-equip-brawl-karate)
+
 ## Basic information
 
 |   |   |

@@ -7,9 +7,11 @@ title: Youth Heart (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Youth Heart**](#monsters-which-drop-youth-heart)
 - [Dungeons **Youth Heart** is found](#dungeons-youth-heart-is-found)
 - [Quests which require gathering **Youth Heart**](#quests-which-require-gathering-youth-heart)
 - [Remake System plans which require **Youth Heart**](#remake-system-plans-which-require-youth-heart)
+
 ## Basic information
 
 |   |   |
@@ -22,6 +24,13 @@ title: Youth Heart (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 7 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Youth Heart**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-262" class="trackbox" /> | 262 | [Base](/neptunia/rb1/dlc/1-base.html) | [Deus Man](/neptunia/rb1/monster/1-262-deus-man.html) |
 
 
 ## Dungeons **Youth Heart** is found

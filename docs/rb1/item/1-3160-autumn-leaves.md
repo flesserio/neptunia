@@ -8,6 +8,7 @@ title: Autumn Leaves (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Player characters who can equip **Autumn Leaves**](#player-characters-who-can-equip-autumn-leaves)
+
 ## Basic information
 
 |   |   |

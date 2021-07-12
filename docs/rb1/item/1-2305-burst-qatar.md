@@ -10,6 +10,7 @@ title: Burst Qatar (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Remake System plans which unlock **Burst Qatar** in shop](#remake-system-plans-which-unlock-burst-qatar-in-shop)
 - [Player characters who can equip **Burst Qatar**](#player-characters-who-can-equip-burst-qatar)
+
 ## Basic information
 
 |   |   |

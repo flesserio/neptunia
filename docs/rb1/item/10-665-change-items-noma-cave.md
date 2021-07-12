@@ -9,6 +9,7 @@ title: Change Items: Noma Cave (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **Change Items: Noma Cave**](#chirpers-who-give-change-items-noma-cave)
 - [Plans added to Remake System after collecting **Change Items: Noma Cave**](#plans-added-to-remake-system-after-collecting-change-items-noma-cave)
+
 ## Basic information
 
 |   |   |

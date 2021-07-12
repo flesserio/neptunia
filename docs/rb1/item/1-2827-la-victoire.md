@@ -8,6 +8,7 @@ title: La Victoire (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Player characters who can equip **La Victoire**](#player-characters-who-can-equip-la-victoire)
+
 ## Basic information
 
 |   |   |

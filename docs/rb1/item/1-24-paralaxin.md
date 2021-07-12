@@ -9,6 +9,7 @@ title: Paralaxin (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Paralaxin** is found](#dungeons-paralaxin-is-found)
 - [Quests which reward **Paralaxin**](#quests-which-reward-paralaxin)
+
 ## Basic information
 
 |   |   |

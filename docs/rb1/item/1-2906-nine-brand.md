@@ -10,6 +10,7 @@ title: Nine Brand (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Player characters who have **Nine Brand** equipped by default](#player-characters-who-have-nine-brand-equipped-by-default)
 - [Player characters who can equip **Nine Brand**](#player-characters-who-can-equip-nine-brand)
+
 ## Basic information
 
 |   |   |

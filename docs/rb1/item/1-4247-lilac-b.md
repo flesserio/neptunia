@@ -10,6 +10,7 @@ title: Lilac B (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Player characters who have **Lilac B** equipped by default](#player-characters-who-have-lilac-b-equipped-by-default)
 - [Player characters who can equip **Lilac B**](#player-characters-who-can-equip-lilac-b)
+
 ## Basic information
 
 |   |   |

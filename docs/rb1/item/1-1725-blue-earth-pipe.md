@@ -7,9 +7,11 @@ title: Blue Earth Pipe (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Blue Earth Pipe**](#monsters-which-drop-blue-earth-pipe)
 - [Dungeons **Blue Earth Pipe** is found](#dungeons-blue-earth-pipe-is-found)
 - [Quests which require gathering **Blue Earth Pipe**](#quests-which-require-gathering-blue-earth-pipe)
 - [Remake System plans which require **Blue Earth Pipe**](#remake-system-plans-which-require-blue-earth-pipe)
+
 ## Basic information
 
 |   |   |
@@ -22,6 +24,13 @@ title: Blue Earth Pipe (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 189 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Blue Earth Pipe**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-293" class="trackbox" /> | 293 | [Base](/neptunia/rb1/dlc/1-base.html) | [Plam-met](/neptunia/rb1/monster/1-293-plam-met.html) |
 
 
 ## Dungeons **Blue Earth Pipe** is found

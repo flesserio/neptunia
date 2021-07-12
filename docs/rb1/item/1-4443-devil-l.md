@@ -10,6 +10,7 @@ title: Devil L (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Remake System plans which unlock **Devil L** in shop](#remake-system-plans-which-unlock-devil-l-in-shop)
 - [Player characters who can equip **Devil L**](#player-characters-who-can-equip-devil-l)
+
 ## Basic information
 
 |   |   |

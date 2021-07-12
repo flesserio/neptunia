@@ -9,6 +9,7 @@ title: Light Snowfall (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which require **Light Snowfall**](#remake-system-plans-which-require-light-snowfall)
 - [Player characters who can equip **Light Snowfall**](#player-characters-who-can-equip-light-snowfall)
+
 ## Basic information
 
 |   |   |

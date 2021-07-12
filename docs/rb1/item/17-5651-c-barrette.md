@@ -9,6 +9,7 @@ title: C. Barrette (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Player characters who have **C. Barrette** equipped by default](#player-characters-who-have-c-barrette-equipped-by-default)
 - [Player characters who can equip **C. Barrette**](#player-characters-who-can-equip-c-barrette)
+
 ## Basic information
 
 |   |   |

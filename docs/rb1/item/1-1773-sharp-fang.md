@@ -7,8 +7,10 @@ title: Sharp Fang (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Sharp Fang**](#monsters-which-drop-sharp-fang)
 - [Dungeons **Sharp Fang** is found](#dungeons-sharp-fang-is-found)
 - [Remake System plans which require **Sharp Fang**](#remake-system-plans-which-require-sharp-fang)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,16 @@ title: Sharp Fang (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 208 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Sharp Fang**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-310" class="trackbox" /> | 310 | [Base](/neptunia/rb1/dlc/1-base.html) | [Wild Dog](/neptunia/rb1/monster/1-310-wild-dog.html) |
+| <input type="checkbox" id="rb1-monster-1-311" class="trackbox" /> | 311 | [Base](/neptunia/rb1/dlc/1-base.html) | [Viral Wild Dog](/neptunia/rb1/monster/1-311-viral-wild-dog.html) |
+| <input type="checkbox" id="rb1-monster-1-370" class="trackbox" /> | 370 | [Base](/neptunia/rb1/dlc/1-base.html) | [Coyote](/neptunia/rb1/monster/1-370-coyote.html) |
+| <input type="checkbox" id="rb1-monster-1-371" class="trackbox" /> | 371 | [Base](/neptunia/rb1/dlc/1-base.html) | [Viral Coyote](/neptunia/rb1/monster/1-371-viral-coyote.html) |
 
 
 ## Dungeons **Sharp Fang** is found

@@ -7,9 +7,11 @@ title: King Crown (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **King Crown**](#monsters-which-drop-king-crown)
 - [Dungeons **King Crown** is found](#dungeons-king-crown-is-found)
 - [Quests which require gathering **King Crown**](#quests-which-require-gathering-king-crown)
 - [Remake System plans which require **King Crown**](#remake-system-plans-which-require-king-crown)
+
 ## Basic information
 
 |   |   |
@@ -22,6 +24,13 @@ title: King Crown (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 140 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **King Crown**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-347" class="trackbox" /> | 347 | [Base](/neptunia/rb1/dlc/1-base.html) | [King Cardbird](/neptunia/rb1/monster/1-347-king-cardbird.html) |
 
 
 ## Dungeons **King Crown** is found

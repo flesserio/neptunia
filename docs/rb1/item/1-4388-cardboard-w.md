@@ -8,8 +8,10 @@ title: Cardboard W (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Stats](#stats)
+- [Monsters which drop **Cardboard W**](#monsters-which-drop-cardboard-w)
 - [Dungeons **Cardboard W** is found](#dungeons-cardboard-w-is-found)
 - [Player characters who can equip **Cardboard W**](#player-characters-who-can-equip-cardboard-w)
+
 ## Basic information
 
 |   |   |
@@ -29,6 +31,15 @@ title: Cardboard W (Item) - Hyperdimension Neptunia Re;Birth1
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 0 | 0 | 25 | -15 | 0 | 25 | 0 | -20 | 0 | 0 | 0 |
+
+
+## Monsters which drop **Cardboard W**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-21-8052" class="trackbox" /> | 8052 | [Additional Content Pack 12](/neptunia/rb1/dlc/21-pack12.html) | [Terits](/neptunia/rb1/monster/21-8052-terits.html) |
+| <input type="checkbox" id="rb1-monster-1-120" class="trackbox" /> | 120 | [Base](/neptunia/rb1/dlc/1-base.html) | [Terits](/neptunia/rb1/monster/1-120-terits.html) |
+| <input type="checkbox" id="rb1-monster-16-1066" class="trackbox" /> | 1066 | [Additional Content Pack 7](/neptunia/rb1/dlc/16-pack7.html) | [Terits](/neptunia/rb1/monster/16-1066-terits.html) |
 
 
 ## Dungeons **Cardboard W** is found

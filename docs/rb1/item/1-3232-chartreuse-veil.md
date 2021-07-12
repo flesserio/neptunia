@@ -9,6 +9,7 @@ title: Chartreuse Veil (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Chartreuse Veil** in shop](#remake-system-plans-which-unlock-chartreuse-veil-in-shop)
 - [Player characters who can equip **Chartreuse Veil**](#player-characters-who-can-equip-chartreuse-veil)
+
 ## Basic information
 
 |   |   |

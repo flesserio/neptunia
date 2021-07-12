@@ -7,8 +7,10 @@ title: Carrot Leaf (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Carrot Leaf**](#monsters-which-drop-carrot-leaf)
 - [Dungeons **Carrot Leaf** is found](#dungeons-carrot-leaf-is-found)
 - [Remake System plans which require **Carrot Leaf**](#remake-system-plans-which-require-carrot-leaf)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,13 @@ title: Carrot Leaf (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 110 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Carrot Leaf**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-229" class="trackbox" /> | 229 | [Base](/neptunia/rb1/dlc/1-base.html) | [Carroteer](/neptunia/rb1/monster/1-229-carroteer.html) |
 
 
 ## Dungeons **Carrot Leaf** is found

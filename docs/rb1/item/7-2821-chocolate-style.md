@@ -9,6 +9,7 @@ title: Chocolate Style (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Chocolate Style** in shop](#remake-system-plans-which-unlock-chocolate-style-in-shop)
 - [Player characters who can equip **Chocolate Style**](#player-characters-who-can-equip-chocolate-style)
+
 ## Basic information
 
 |   |   |

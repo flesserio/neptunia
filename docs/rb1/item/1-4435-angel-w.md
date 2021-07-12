@@ -10,6 +10,7 @@ title: Angel W (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Remake System plans which unlock **Angel W** in shop](#remake-system-plans-which-unlock-angel-w-in-shop)
 - [Player characters who can equip **Angel W**](#player-characters-who-can-equip-angel-w)
+
 ## Basic information
 
 |   |   |

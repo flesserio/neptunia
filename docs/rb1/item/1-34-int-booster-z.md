@@ -11,6 +11,7 @@ title: INT Booster Z (Item) - Hyperdimension Neptunia Re;Birth1
 - [Dungeons **INT Booster Z** is found](#dungeons-int-booster-z-is-found)
 - [Quests which reward **INT Booster Z**](#quests-which-reward-int-booster-z)
 - [Remake System plans which require **INT Booster Z**](#remake-system-plans-which-require-int-booster-z)
+
 ## Basic information
 
 |   |   |

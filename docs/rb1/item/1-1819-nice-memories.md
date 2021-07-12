@@ -7,8 +7,10 @@ title: Nice Memories... (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Nice Memories...**](#monsters-which-drop-nice-memories)
 - [Dungeons **Nice Memories...** is found](#dungeons-nice-memories-is-found)
 - [Remake System plans which require **Nice Memories...**](#remake-system-plans-which-require-nice-memories)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,13 @@ title: Nice Memories... (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 3156 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Nice Memories...**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-365" class="trackbox" /> | 365 | [Base](/neptunia/rb1/dlc/1-base.html) | [Trick Crown](/neptunia/rb1/monster/1-365-trick-crown.html) |
 
 
 ## Dungeons **Nice Memories...** is found

@@ -8,6 +8,7 @@ title: Non-RPG Growth (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Dungeons **Non-RPG Growth** is found](#dungeons-non-rpg-growth-is-found)
+
 ## Basic information
 
 |   |   |

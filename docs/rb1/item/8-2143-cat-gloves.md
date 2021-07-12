@@ -10,6 +10,7 @@ title: Cat Gloves (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Player characters who have **Cat Gloves** equipped by default](#player-characters-who-have-cat-gloves-equipped-by-default)
 - [Player characters who can equip **Cat Gloves**](#player-characters-who-can-equip-cat-gloves)
+
 ## Basic information
 
 |   |   |

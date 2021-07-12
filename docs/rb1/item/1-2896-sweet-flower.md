@@ -9,6 +9,7 @@ title: Sweet Flower (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Sweet Flower** in shop](#remake-system-plans-which-unlock-sweet-flower-in-shop)
 - [Player characters who can equip **Sweet Flower**](#player-characters-who-can-equip-sweet-flower)
+
 ## Basic information
 
 |   |   |

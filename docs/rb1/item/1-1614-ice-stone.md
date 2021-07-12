@@ -8,6 +8,7 @@ title: Ice Stone (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Dungeons **Ice Stone** is found](#dungeons-ice-stone-is-found)
+
 ## Basic information
 
 |   |   |

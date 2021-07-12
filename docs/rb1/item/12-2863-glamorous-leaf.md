@@ -10,6 +10,7 @@ title: Glamorous Leaf (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Quests which reward **Glamorous Leaf**](#quests-which-reward-glamorous-leaf)
 - [Player characters who can equip **Glamorous Leaf**](#player-characters-who-can-equip-glamorous-leaf)
+
 ## Basic information
 
 |   |   |

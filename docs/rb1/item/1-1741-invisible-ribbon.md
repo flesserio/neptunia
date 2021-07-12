@@ -7,8 +7,10 @@ title: Invisible Ribbon (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Invisible Ribbon**](#monsters-which-drop-invisible-ribbon)
 - [Dungeons **Invisible Ribbon** is found](#dungeons-invisible-ribbon-is-found)
 - [Remake System plans which require **Invisible Ribbon**](#remake-system-plans-which-require-invisible-ribbon)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,13 @@ title: Invisible Ribbon (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 35 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Invisible Ribbon**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-331" class="trackbox" /> | 331 | [Base](/neptunia/rb1/dlc/1-base.html) | [Ms. Pinky](/neptunia/rb1/monster/1-331-ms-pinky.html) |
 
 
 ## Dungeons **Invisible Ribbon** is found

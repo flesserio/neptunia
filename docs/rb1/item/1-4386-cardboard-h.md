@@ -8,8 +8,10 @@ title: Cardboard H (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Stats](#stats)
+- [Monsters which drop **Cardboard H**](#monsters-which-drop-cardboard-h)
 - [Dungeons **Cardboard H** is found](#dungeons-cardboard-h-is-found)
 - [Player characters who can equip **Cardboard H**](#player-characters-who-can-equip-cardboard-h)
+
 ## Basic information
 
 |   |   |
@@ -29,6 +31,13 @@ title: Cardboard H (Item) - Hyperdimension Neptunia Re;Birth1
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 0 | 0 | 25 | -15 | 0 | 0 | 0 | -20 | 0 | 0 | 0 |
+
+
+## Monsters which drop **Cardboard H**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-110" class="trackbox" /> | 110 | [Base](/neptunia/rb1/dlc/1-base.html) | [Cardbird](/neptunia/rb1/monster/1-110-cardbird.html) |
 
 
 ## Dungeons **Cardboard H** is found

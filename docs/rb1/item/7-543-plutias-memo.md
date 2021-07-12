@@ -8,6 +8,7 @@ title: Plutia's Memo (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Plans added to Remake System after collecting **Plutia's Memo**](#plans-added-to-remake-system-after-collecting-plutias-memo)
+
 ## Basic information
 
 |   |   |

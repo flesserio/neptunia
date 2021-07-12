@@ -7,9 +7,11 @@ title: Megaton Shell (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Megaton Shell**](#monsters-which-drop-megaton-shell)
 - [Dungeons **Megaton Shell** is found](#dungeons-megaton-shell-is-found)
 - [Quests which require gathering **Megaton Shell**](#quests-which-require-gathering-megaton-shell)
 - [Remake System plans which require **Megaton Shell**](#remake-system-plans-which-require-megaton-shell)
+
 ## Basic information
 
 |   |   |
@@ -22,6 +24,14 @@ title: Megaton Shell (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 2234 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Megaton Shell**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-216" class="trackbox" /> | 216 | [Base](/neptunia/rb1/dlc/1-base.html) | [Surpression Prototype](/neptunia/rb1/monster/1-216-surpression-prototype.html) |
+| <input type="checkbox" id="rb1-monster-1-325" class="trackbox" /> | 325 | [Base](/neptunia/rb1/dlc/1-base.html) | [Tank Type 99](/neptunia/rb1/monster/1-325-tank-type-99.html) |
 
 
 ## Dungeons **Megaton Shell** is found

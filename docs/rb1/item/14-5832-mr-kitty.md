@@ -9,6 +9,7 @@ title: Mr. Kitty+? (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Colosseum quests which reward **Mr. Kitty+?**](#colosseum-quests-which-reward-mr-kitty)
 - [Player characters who can equip **Mr. Kitty+?**](#player-characters-who-can-equip-mr-kitty)
+
 ## Basic information
 
 |   |   |

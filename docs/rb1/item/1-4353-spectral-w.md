@@ -9,6 +9,7 @@ title: Spectral W (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Spectral W**](#player-characters-who-can-equip-spectral-w)
+
 ## Basic information
 
 |   |   |

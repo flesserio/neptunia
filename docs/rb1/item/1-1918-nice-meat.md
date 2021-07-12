@@ -7,9 +7,11 @@ title: Nice Meat (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Nice Meat**](#monsters-which-drop-nice-meat)
 - [Dungeons **Nice Meat** is found](#dungeons-nice-meat-is-found)
 - [Quests which require gathering **Nice Meat**](#quests-which-require-gathering-nice-meat)
 - [Remake System plans which require **Nice Meat**](#remake-system-plans-which-require-nice-meat)
+
 ## Basic information
 
 |   |   |
@@ -22,6 +24,13 @@ title: Nice Meat (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 2130 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Nice Meat**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-208" class="trackbox" /> | 208 | [Base](/neptunia/rb1/dlc/1-base.html) | [Bincho](/neptunia/rb1/monster/1-208-bincho.html) |
 
 
 ## Dungeons **Nice Meat** is found

@@ -9,6 +9,7 @@ title: Add Super Enemies: Yukawa Ruins (Item) - Hyperdimension Neptunia Re;Birth
 - [Basic information](#basic-information)
 - [Chirpers who give **Add Super Enemies: Yukawa Ruins**](#chirpers-who-give-add-super-enemies-yukawa-ruins)
 - [Plans added to Remake System after collecting **Add Super Enemies: Yukawa Ruins**](#plans-added-to-remake-system-after-collecting-add-super-enemies-yukawa-ruins)
+
 ## Basic information
 
 |   |   |

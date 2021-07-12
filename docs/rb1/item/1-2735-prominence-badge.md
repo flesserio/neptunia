@@ -10,6 +10,7 @@ title: Prominence Badge (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Remake System plans which unlock **Prominence Badge** in shop](#remake-system-plans-which-unlock-prominence-badge-in-shop)
 - [Player characters who can equip **Prominence Badge**](#player-characters-who-can-equip-prominence-badge)
+
 ## Basic information
 
 |   |   |

@@ -9,6 +9,7 @@ title: Plan: Blanc Manju (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **Plan: Blanc Manju**](#chirpers-who-give-plan-blanc-manju)
 - [Plans added to Remake System after collecting **Plan: Blanc Manju**](#plans-added-to-remake-system-after-collecting-plan-blanc-manju)
+
 ## Basic information
 
 |   |   |

@@ -9,6 +9,7 @@ title: Change Items: Toh-Kiden Cave (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **Change Items: Toh-Kiden Cave**](#chirpers-who-give-change-items-toh-kiden-cave)
 - [Plans added to Remake System after collecting **Change Items: Toh-Kiden Cave**](#plans-added-to-remake-system-after-collecting-change-items-toh-kiden-cave)
+
 ## Basic information
 
 |   |   |

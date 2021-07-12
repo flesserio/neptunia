@@ -7,8 +7,10 @@ title: Red Earth Pipe (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Red Earth Pipe**](#monsters-which-drop-red-earth-pipe)
 - [Dungeons **Red Earth Pipe** is found](#dungeons-red-earth-pipe-is-found)
 - [Remake System plans which require **Red Earth Pipe**](#remake-system-plans-which-require-red-earth-pipe)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,13 @@ title: Red Earth Pipe (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 208 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Red Earth Pipe**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-193" class="trackbox" /> | 193 | [Base](/neptunia/rb1/dlc/1-base.html) | [Plom-met](/neptunia/rb1/monster/1-193-plom-met.html) |
 
 
 ## Dungeons **Red Earth Pipe** is found

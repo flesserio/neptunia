@@ -9,6 +9,7 @@ title: Crystal Butterfly (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which require **Crystal Butterfly**](#remake-system-plans-which-require-crystal-butterfly)
 - [Player characters who can equip **Crystal Butterfly**](#player-characters-who-can-equip-crystal-butterfly)
+
 ## Basic information
 
 |   |   |

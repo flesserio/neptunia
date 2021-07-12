@@ -10,6 +10,7 @@ title: Heart Knit (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Player characters who have **Heart Knit** equipped by default](#player-characters-who-have-heart-knit-equipped-by-default)
 - [Player characters who can equip **Heart Knit**](#player-characters-who-can-equip-heart-knit)
+
 ## Basic information
 
 |   |   |

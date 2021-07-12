@@ -8,7 +8,9 @@ title: Angellic Tome (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Plans added to Remake System after collecting **Angellic Tome**](#plans-added-to-remake-system-after-collecting-angellic-tome)
+- [Monsters which drop **Angellic Tome**](#monsters-which-drop-angellic-tome)
 - [Dungeons **Angellic Tome** is found](#dungeons-angellic-tome-is-found)
+
 ## Basic information
 
 |   |   |
@@ -33,6 +35,13 @@ title: Angellic Tome (Item) - Hyperdimension Neptunia Re;Birth1
 | <input type="checkbox" id="rb1-remake-1-856" class="trackbox" /> | 856 | [Base](/neptunia/rb1/dlc/1-base.html) | [Angel W](/neptunia/rb1/remake/1-856-angel-w.html)<br /> → [Angel W](/neptunia/rb1/item/1-4435-angel-w.html) (Processor (W)) |
 | <input type="checkbox" id="rb1-remake-1-857" class="trackbox" /> | 857 | [Base](/neptunia/rb1/dlc/1-base.html) | [Angel B](/neptunia/rb1/remake/1-857-angel-b.html)<br /> → [Angel B](/neptunia/rb1/item/1-4436-angel-b.html) (Processor (B)) |
 | <input type="checkbox" id="rb1-remake-1-858" class="trackbox" /> | 858 | [Base](/neptunia/rb1/dlc/1-base.html) | [Angel L](/neptunia/rb1/remake/1-858-angel-l.html)<br /> → [Angel L](/neptunia/rb1/item/1-4437-angel-l.html) (Processor (L)) |
+
+
+## Monsters which drop **Angellic Tome**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-315" class="trackbox" /> | 315 | [Base](/neptunia/rb1/dlc/1-base.html) | [Hachibei](/neptunia/rb1/monster/1-315-hachibei.html) |
 
 
 ## Dungeons **Angellic Tome** is found

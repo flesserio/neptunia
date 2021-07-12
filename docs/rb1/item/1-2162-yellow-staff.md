@@ -9,6 +9,7 @@ title: Yellow Staff (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Yellow Staff**](#player-characters-who-can-equip-yellow-staff)
+
 ## Basic information
 
 |   |   |

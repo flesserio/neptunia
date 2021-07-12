@@ -7,8 +7,10 @@ title: Old Dragon...Ball (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Old Dragon...Ball**](#monsters-which-drop-old-dragonball)
 - [Dungeons **Old Dragon...Ball** is found](#dungeons-old-dragonball-is-found)
 - [Remake System plans which require **Old Dragon...Ball**](#remake-system-plans-which-require-old-dragonball)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,13 @@ title: Old Dragon...Ball (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 1545 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Old Dragon...Ball**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-343" class="trackbox" /> | 343 | [Base](/neptunia/rb1/dlc/1-base.html) | [Ruin Dragon](/neptunia/rb1/monster/1-343-ruin-dragon.html) |
 
 
 ## Dungeons **Old Dragon...Ball** is found

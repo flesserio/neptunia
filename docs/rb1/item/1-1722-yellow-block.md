@@ -7,8 +7,10 @@ title: Yellow Block (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Yellow Block**](#monsters-which-drop-yellow-block)
 - [Dungeons **Yellow Block** is found](#dungeons-yellow-block-is-found)
 - [Remake System plans which require **Yellow Block**](#remake-system-plans-which-require-yellow-block)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,13 @@ title: Yellow Block (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 97 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Yellow Block**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-194" class="trackbox" /> | 194 | [Base](/neptunia/rb1/dlc/1-base.html) | [Testri](/neptunia/rb1/monster/1-194-testri.html) |
 
 
 ## Dungeons **Yellow Block** is found

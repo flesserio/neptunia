@@ -9,6 +9,7 @@ title: Sunny Robe (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Sunny Robe** in shop](#remake-system-plans-which-unlock-sunny-robe-in-shop)
 - [Player characters who can equip **Sunny Robe**](#player-characters-who-can-equip-sunny-robe)
+
 ## Basic information
 
 |   |   |

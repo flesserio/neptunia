@@ -10,6 +10,7 @@ title: Red Pigment (Item) - Hyperdimension Neptunia Re;Birth1
 - [Remake System plans which unlock **Red Pigment** in shop](#remake-system-plans-which-unlock-red-pigment-in-shop)
 - [Dungeons **Red Pigment** is found](#dungeons-red-pigment-is-found)
 - [Remake System plans which require **Red Pigment**](#remake-system-plans-which-require-red-pigment)
+
 ## Basic information
 
 |   |   |

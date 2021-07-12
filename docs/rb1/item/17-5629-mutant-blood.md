@@ -9,6 +9,7 @@ title: Mutant Blood ﾎｲ (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Mutant Blood ﾎｲ**](#player-characters-who-can-equip-mutant-blood-ﾎｲ)
+
 ## Basic information
 
 |   |   |

@@ -7,8 +7,10 @@ title: Black Ribbon (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Black Ribbon**](#monsters-which-drop-black-ribbon)
 - [Dungeons **Black Ribbon** is found](#dungeons-black-ribbon-is-found)
 - [Remake System plans which require **Black Ribbon**](#remake-system-plans-which-require-black-ribbon)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,13 @@ title: Black Ribbon (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 102 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Black Ribbon**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-202" class="trackbox" /> | 202 | [Base](/neptunia/rb1/dlc/1-base.html) | [Magma Girl](/neptunia/rb1/monster/1-202-magma-girl.html) |
 
 
 ## Dungeons **Black Ribbon** is found

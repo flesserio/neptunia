@@ -9,6 +9,7 @@ title: Gold Ore (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Gold Ore** is found](#dungeons-gold-ore-is-found)
 - [Remake System plans which require **Gold Ore**](#remake-system-plans-which-require-gold-ore)
+
 ## Basic information
 
 |   |   |

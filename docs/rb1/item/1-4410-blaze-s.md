@@ -9,6 +9,7 @@ title: Blaze S (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Blaze S**](#player-characters-who-can-equip-blaze-s)
+
 ## Basic information
 
 |   |   |

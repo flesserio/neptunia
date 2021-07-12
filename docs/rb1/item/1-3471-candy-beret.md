@@ -9,6 +9,7 @@ title: Candy Beret (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Candy Beret** in shop](#remake-system-plans-which-unlock-candy-beret-in-shop)
 - [Player characters who can equip **Candy Beret**](#player-characters-who-can-equip-candy-beret)
+
 ## Basic information
 
 |   |   |

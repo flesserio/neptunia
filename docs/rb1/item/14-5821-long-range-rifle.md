@@ -9,6 +9,7 @@ title: Long Range Rifle+? (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Colosseum quests which reward **Long Range Rifle+?**](#colosseum-quests-which-reward-long-range-rifle)
 - [Player characters who can equip **Long Range Rifle+?**](#player-characters-who-can-equip-long-range-rifle)
+
 ## Basic information
 
 |   |   |

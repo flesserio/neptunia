@@ -7,8 +7,10 @@ title: Orichalcum (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Orichalcum**](#monsters-which-drop-orichalcum)
 - [Dungeons **Orichalcum** is found](#dungeons-orichalcum-is-found)
 - [Remake System plans which require **Orichalcum**](#remake-system-plans-which-require-orichalcum)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,13 @@ title: Orichalcum (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 2000 |
 | **Sell Price** | 1000 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Orichalcum**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-354" class="trackbox" /> | 354 | [Base](/neptunia/rb1/dlc/1-base.html) | [Deneb](/neptunia/rb1/monster/1-354-deneb.html) |
 
 
 ## Dungeons **Orichalcum** is found

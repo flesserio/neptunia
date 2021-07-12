@@ -9,6 +9,7 @@ title: Change Items: Hyrarule Snowfield (Item) - Hyperdimension Neptunia Re;Birt
 - [Basic information](#basic-information)
 - [Chirpers who give **Change Items: Hyrarule Snowfield**](#chirpers-who-give-change-items-hyrarule-snowfield)
 - [Plans added to Remake System after collecting **Change Items: Hyrarule Snowfield**](#plans-added-to-remake-system-after-collecting-change-items-hyrarule-snowfield)
+
 ## Basic information
 
 |   |   |

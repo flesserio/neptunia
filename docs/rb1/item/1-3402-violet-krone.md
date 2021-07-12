@@ -9,6 +9,7 @@ title: Violet Krone (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which require **Violet Krone**](#remake-system-plans-which-require-violet-krone)
 - [Player characters who can equip **Violet Krone**](#player-characters-who-can-equip-violet-krone)
+
 ## Basic information
 
 |   |   |

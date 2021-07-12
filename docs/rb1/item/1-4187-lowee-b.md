@@ -10,6 +10,7 @@ title: Lowee B (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Remake System plans which unlock **Lowee B** in shop](#remake-system-plans-which-unlock-lowee-b-in-shop)
 - [Player characters who can equip **Lowee B**](#player-characters-who-can-equip-lowee-b)
+
 ## Basic information
 
 |   |   |

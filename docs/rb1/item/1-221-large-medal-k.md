@@ -7,7 +7,9 @@ title: Large Medal K (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Large Medal K**](#monsters-which-drop-large-medal-k)
 - [Dungeons **Large Medal K** is found](#dungeons-large-medal-k-is-found)
+
 ## Basic information
 
 |   |   |
@@ -20,6 +22,13 @@ title: Large Medal K (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 0 |
 | **Max inventory** | 1 |
+
+
+## Monsters which drop **Large Medal K**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-175" class="trackbox" /> | 175 | [Base](/neptunia/rb1/dlc/1-base.html) | [Wild Pirachu](/neptunia/rb1/monster/1-175-wild-pirachu.html) |
 
 
 ## Dungeons **Large Medal K** is found

@@ -7,8 +7,10 @@ title: Yellow Ribbon (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Yellow Ribbon**](#monsters-which-drop-yellow-ribbon)
 - [Dungeons **Yellow Ribbon** is found](#dungeons-yellow-ribbon-is-found)
 - [Remake System plans which require **Yellow Ribbon**](#remake-system-plans-which-require-yellow-ribbon)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,13 @@ title: Yellow Ribbon (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 417 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Yellow Ribbon**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-12-395" class="trackbox" /> | 395 | [Additional Content Package 3](/neptunia/rb1/dlc/12-pack3.html) | [Death Girl](/neptunia/rb1/monster/12-395-death-girl.html) |
 
 
 ## Dungeons **Yellow Ribbon** is found

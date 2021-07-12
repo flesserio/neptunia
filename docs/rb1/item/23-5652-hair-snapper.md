@@ -9,6 +9,7 @@ title: Hair Snapper (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Player characters who have **Hair Snapper** equipped by default](#player-characters-who-have-hair-snapper-equipped-by-default)
 - [Player characters who can equip **Hair Snapper**](#player-characters-who-can-equip-hair-snapper)
+
 ## Basic information
 
 |   |   |

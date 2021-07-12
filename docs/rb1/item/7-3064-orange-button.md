@@ -9,6 +9,7 @@ title: Orange Button (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Orange Button** in shop](#remake-system-plans-which-unlock-orange-button-in-shop)
 - [Player characters who can equip **Orange Button**](#player-characters-who-can-equip-orange-button)
+
 ## Basic information
 
 |   |   |

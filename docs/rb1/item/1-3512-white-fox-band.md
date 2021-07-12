@@ -9,6 +9,7 @@ title: White Fox Band (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **White Fox Band** in shop](#remake-system-plans-which-unlock-white-fox-band-in-shop)
 - [Player characters who can equip **White Fox Band**](#player-characters-who-can-equip-white-fox-band)
+
 ## Basic information
 
 |   |   |

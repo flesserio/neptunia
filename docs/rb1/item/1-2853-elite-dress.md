@@ -7,8 +7,10 @@ title: Elite Dress (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Elite Dress**](#monsters-which-drop-elite-dress)
 - [Quests which reward **Elite Dress**](#quests-which-reward-elite-dress)
 - [Player characters who can equip **Elite Dress**](#player-characters-who-can-equip-elite-dress)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,13 @@ title: Elite Dress (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 1000 |
 | **Sell Price** | 500 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Elite Dress**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-1052" class="trackbox" /> | 1052 | [Base](/neptunia/rb1/dlc/1-base.html) | [Fake Green Heart](/neptunia/rb1/monster/1-1052-fake-green-heart.html) |
 
 
 ## Quests which reward **Elite Dress**

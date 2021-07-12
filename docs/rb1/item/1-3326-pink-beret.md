@@ -9,6 +9,7 @@ title: Pink Beret (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Pink Beret** in shop](#remake-system-plans-which-unlock-pink-beret-in-shop)
 - [Player characters who can equip **Pink Beret**](#player-characters-who-can-equip-pink-beret)
+
 ## Basic information
 
 |   |   |

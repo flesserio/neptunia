@@ -10,6 +10,7 @@ title: Super Ring 2 (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Player characters who have **Super Ring 2** equipped by default](#player-characters-who-have-super-ring-2-equipped-by-default)
 - [Player characters who can equip **Super Ring 2**](#player-characters-who-can-equip-super-ring-2)
+
 ## Basic information
 
 |   |   |

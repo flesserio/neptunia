@@ -7,9 +7,11 @@ title: SP Charger (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **SP Charger**](#monsters-which-drop-sp-charger)
 - [Dungeons **SP Charger** is found](#dungeons-sp-charger-is-found)
 - [Colosseum quests which reward **SP Charger**](#colosseum-quests-which-reward-sp-charger)
 - [Quests which reward **SP Charger**](#quests-which-reward-sp-charger)
+
 ## Basic information
 
 |   |   |
@@ -24,6 +26,13 @@ title: SP Charger (Item) - Hyperdimension Neptunia Re;Birth1
 | **Max inventory** | 99 |
 | **Tool skill** | [SP Charger](/neptunia/rb1/skill/1-10014-sp-charger.html) |
 | **To unlock in shop** | Method 1<br />- View scene [Chapter 2: Lastation](/neptunia/rb1/scene/1-202-chapter-2-lastation.html) |
+
+
+## Monsters which drop **SP Charger**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-1006" class="trackbox" /> | 1006 | [Base](/neptunia/rb1/dlc/1-base.html) | [Guard Vermin](/neptunia/rb1/monster/1-1006-guard-vermin.html) |
 
 
 ## Dungeons **SP Charger** is found

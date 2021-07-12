@@ -9,6 +9,7 @@ title: White Bunny (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **White Bunny** in shop](#remake-system-plans-which-unlock-white-bunny-in-shop)
 - [Player characters who can equip **White Bunny**](#player-characters-who-can-equip-white-bunny)
+
 ## Basic information
 
 |   |   |

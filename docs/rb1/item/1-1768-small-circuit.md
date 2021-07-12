@@ -7,8 +7,10 @@ title: Small Circuit (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Small Circuit**](#monsters-which-drop-small-circuit)
 - [Dungeons **Small Circuit** is found](#dungeons-small-circuit-is-found)
 - [Remake System plans which require **Small Circuit**](#remake-system-plans-which-require-small-circuit)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,13 @@ title: Small Circuit (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 3 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Small Circuit**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-261" class="trackbox" /> | 261 | [Base](/neptunia/rb1/dlc/1-base.html) | [Bit](/neptunia/rb1/monster/1-261-bit.html) |
 
 
 ## Dungeons **Small Circuit** is found

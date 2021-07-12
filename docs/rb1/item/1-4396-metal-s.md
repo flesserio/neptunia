@@ -9,6 +9,7 @@ title: Metal S (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Metal S**](#player-characters-who-can-equip-metal-s)
+
 ## Basic information
 
 |   |   |

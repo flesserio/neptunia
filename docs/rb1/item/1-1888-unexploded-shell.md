@@ -7,9 +7,11 @@ title: Unexploded Shell (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Unexploded Shell**](#monsters-which-drop-unexploded-shell)
 - [Dungeons **Unexploded Shell** is found](#dungeons-unexploded-shell-is-found)
 - [Quests which require gathering **Unexploded Shell**](#quests-which-require-gathering-unexploded-shell)
 - [Remake System plans which require **Unexploded Shell**](#remake-system-plans-which-require-unexploded-shell)
+
 ## Basic information
 
 |   |   |
@@ -22,6 +24,13 @@ title: Unexploded Shell (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 558 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Unexploded Shell**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-173" class="trackbox" /> | 173 | [Base](/neptunia/rb1/dlc/1-base.html) | [Heavy Tank](/neptunia/rb1/monster/1-173-heavy-tank.html) |
 
 
 ## Dungeons **Unexploded Shell** is found

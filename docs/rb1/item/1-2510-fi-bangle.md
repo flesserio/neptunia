@@ -10,6 +10,7 @@ title: Fi-Bangle (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Player characters who have **Fi-Bangle** equipped by default](#player-characters-who-have-fi-bangle-equipped-by-default)
 - [Player characters who can equip **Fi-Bangle**](#player-characters-who-can-equip-fi-bangle)
+
 ## Basic information
 
 |   |   |

@@ -9,6 +9,7 @@ title: 100-Ton Gloves (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **100-Ton Gloves**](#player-characters-who-can-equip-100-ton-gloves)
+
 ## Basic information
 
 |   |   |

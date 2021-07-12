@@ -9,6 +9,7 @@ title: Blue Wand (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Blue Wand**](#player-characters-who-can-equip-blue-wand)
+
 ## Basic information
 
 |   |   |

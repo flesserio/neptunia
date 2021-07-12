@@ -7,8 +7,10 @@ title: Turtle Shell (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Turtle Shell**](#monsters-which-drop-turtle-shell)
 - [Dungeons **Turtle Shell** is found](#dungeons-turtle-shell-is-found)
 - [Remake System plans which require **Turtle Shell**](#remake-system-plans-which-require-turtle-shell)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,13 @@ title: Turtle Shell (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 363 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Turtle Shell**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-147" class="trackbox" /> | 147 | [Base](/neptunia/rb1/dlc/1-base.html) | [Turtle](/neptunia/rb1/monster/1-147-turtle.html) |
 
 
 ## Dungeons **Turtle Shell** is found

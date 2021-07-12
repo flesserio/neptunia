@@ -10,6 +10,7 @@ title: Lastation Patrol (Item) - Hyperdimension Neptunia Re;Birth1
 - [Remake System plans which unlock **Lastation Patrol** in shop](#remake-system-plans-which-unlock-lastation-patrol-in-shop)
 - [Remake System plans which require **Lastation Patrol**](#remake-system-plans-which-require-lastation-patrol)
 - [Player characters who can equip **Lastation Patrol**](#player-characters-who-can-equip-lastation-patrol)
+
 ## Basic information
 
 |   |   |

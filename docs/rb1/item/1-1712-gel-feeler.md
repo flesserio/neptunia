@@ -7,9 +7,11 @@ title: Gel Feeler (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Gel Feeler**](#monsters-which-drop-gel-feeler)
 - [Dungeons **Gel Feeler** is found](#dungeons-gel-feeler-is-found)
 - [Quests which require gathering **Gel Feeler**](#quests-which-require-gathering-gel-feeler)
 - [Remake System plans which require **Gel Feeler**](#remake-system-plans-which-require-gel-feeler)
+
 ## Basic information
 
 |   |   |
@@ -22,6 +24,14 @@ title: Gel Feeler (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 9 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Gel Feeler**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-187" class="trackbox" /> | 187 | [Base](/neptunia/rb1/dlc/1-base.html) | [Jellyfish Dogoo](/neptunia/rb1/monster/1-187-jellyfish-dogoo.html) |
+| <input type="checkbox" id="rb1-monster-1-255" class="trackbox" /> | 255 | [Base](/neptunia/rb1/dlc/1-base.html) | [Heal Dogoo](/neptunia/rb1/monster/1-255-heal-dogoo.html) |
 
 
 ## Dungeons **Gel Feeler** is found

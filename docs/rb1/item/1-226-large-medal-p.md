@@ -7,7 +7,9 @@ title: Large Medal P (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Large Medal P**](#monsters-which-drop-large-medal-p)
 - [Dungeons **Large Medal P** is found](#dungeons-large-medal-p-is-found)
+
 ## Basic information
 
 |   |   |
@@ -20,6 +22,13 @@ title: Large Medal P (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 0 |
 | **Max inventory** | 1 |
+
+
+## Monsters which drop **Large Medal P**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-168" class="trackbox" /> | 168 | [Base](/neptunia/rb1/dlc/1-base.html) | [Mekidrygar](/neptunia/rb1/monster/1-168-mekidrygar.html) |
 
 
 ## Dungeons **Large Medal P** is found

@@ -10,6 +10,7 @@ title: Brisk Qatar (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Remake System plans which unlock **Brisk Qatar** in shop](#remake-system-plans-which-unlock-brisk-qatar-in-shop)
 - [Player characters who can equip **Brisk Qatar**](#player-characters-who-can-equip-brisk-qatar)
+
 ## Basic information
 
 |   |   |

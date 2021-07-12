@@ -8,8 +8,10 @@ title: Busted Headphones (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Stats](#stats)
+- [Monsters which drop **Busted Headphones**](#monsters-which-drop-busted-headphones)
 - [Dungeons **Busted Headphones** is found](#dungeons-busted-headphones-is-found)
 - [Player characters who can equip **Busted Headphones**](#player-characters-who-can-equip-busted-headphones)
+
 ## Basic information
 
 |   |   |
@@ -29,6 +31,13 @@ title: Busted Headphones (Item) - Hyperdimension Neptunia Re;Birth1
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 0 | 0 | 30 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+
+
+## Monsters which drop **Busted Headphones**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-198" class="trackbox" /> | 198 | [Base](/neptunia/rb1/dlc/1-base.html) | [Cerberus](/neptunia/rb1/monster/1-198-cerberus.html) |
 
 
 ## Dungeons **Busted Headphones** is found

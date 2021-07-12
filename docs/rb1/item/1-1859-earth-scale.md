@@ -7,8 +7,10 @@ title: Earth Scale (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Earth Scale**](#monsters-which-drop-earth-scale)
 - [Dungeons **Earth Scale** is found](#dungeons-earth-scale-is-found)
 - [Remake System plans which require **Earth Scale**](#remake-system-plans-which-require-earth-scale)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,14 @@ title: Earth Scale (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 235 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Earth Scale**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-185" class="trackbox" /> | 185 | [Base](/neptunia/rb1/dlc/1-base.html) | [Ice Lizard](/neptunia/rb1/monster/1-185-ice-lizard.html) |
+| <input type="checkbox" id="rb1-monster-1-186" class="trackbox" /> | 186 | [Base](/neptunia/rb1/dlc/1-base.html) | [Viral Ice Lizard](/neptunia/rb1/monster/1-186-viral-ice-lizard.html) |
 
 
 ## Dungeons **Earth Scale** is found

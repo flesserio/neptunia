@@ -10,6 +10,7 @@ title: Gordian Hammer (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Remake System plans which unlock **Gordian Hammer** in shop](#remake-system-plans-which-unlock-gordian-hammer-in-shop)
 - [Player characters who can equip **Gordian Hammer**](#player-characters-who-can-equip-gordian-hammer)
+
 ## Basic information
 
 |   |   |

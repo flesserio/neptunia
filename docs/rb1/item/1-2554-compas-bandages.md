@@ -10,6 +10,7 @@ title: Compa's Bandages (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Player characters who have **Compa's Bandages** equipped by default](#player-characters-who-have-compas-bandages-equipped-by-default)
 - [Player characters who can equip **Compa's Bandages**](#player-characters-who-can-equip-compas-bandages)
+
 ## Basic information
 
 |   |   |

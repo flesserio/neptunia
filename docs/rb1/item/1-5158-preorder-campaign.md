@@ -8,6 +8,7 @@ title: Preorder Campaign (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Dungeons **Preorder Campaign** is found](#dungeons-preorder-campaign-is-found)
+
 ## Basic information
 
 |   |   |

@@ -8,8 +8,10 @@ title: Face Visor (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Stats](#stats)
+- [Monsters which drop **Face Visor**](#monsters-which-drop-face-visor)
 - [Dungeons **Face Visor** is found](#dungeons-face-visor-is-found)
 - [Player characters who can equip **Face Visor**](#player-characters-who-can-equip-face-visor)
+
 ## Basic information
 
 |   |   |
@@ -29,6 +31,13 @@ title: Face Visor (Item) - Hyperdimension Neptunia Re;Birth1
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 20 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+
+
+## Monsters which drop **Face Visor**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-242" class="trackbox" /> | 242 | [Base](/neptunia/rb1/dlc/1-base.html) | [Prince Boxbird](/neptunia/rb1/monster/1-242-prince-boxbird.html) |
 
 
 ## Dungeons **Face Visor** is found

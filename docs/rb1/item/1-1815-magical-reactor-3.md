@@ -7,8 +7,10 @@ title: Magical Reactor 3 (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Magical Reactor 3**](#monsters-which-drop-magical-reactor-3)
 - [Dungeons **Magical Reactor 3** is found](#dungeons-magical-reactor-3-is-found)
 - [Remake System plans which require **Magical Reactor 3**](#remake-system-plans-which-require-magical-reactor-3)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,13 @@ title: Magical Reactor 3 (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 1552 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Magical Reactor 3**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-317" class="trackbox" /> | 317 | [Base](/neptunia/rb1/dlc/1-base.html) | [Antares](/neptunia/rb1/monster/1-317-antares.html) |
 
 
 ## Dungeons **Magical Reactor 3** is found

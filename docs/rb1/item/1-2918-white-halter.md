@@ -10,6 +10,7 @@ title: White Halter (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Remake System plans which unlock **White Halter** in shop](#remake-system-plans-which-unlock-white-halter-in-shop)
 - [Player characters who can equip **White Halter**](#player-characters-who-can-equip-white-halter)
+
 ## Basic information
 
 |   |   |

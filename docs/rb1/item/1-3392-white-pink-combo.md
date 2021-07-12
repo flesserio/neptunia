@@ -9,6 +9,7 @@ title: White-Pink Combo (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **White-Pink Combo** in shop](#remake-system-plans-which-unlock-white-pink-combo-in-shop)
 - [Player characters who can equip **White-Pink Combo**](#player-characters-who-can-equip-white-pink-combo)
+
 ## Basic information
 
 |   |   |

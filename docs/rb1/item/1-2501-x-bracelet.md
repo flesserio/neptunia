@@ -10,6 +10,7 @@ title: X-Bracelet (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Player characters who have **X-Bracelet** equipped by default](#player-characters-who-have-x-bracelet-equipped-by-default)
 - [Player characters who can equip **X-Bracelet**](#player-characters-who-can-equip-x-bracelet)
+
 ## Basic information
 
 |   |   |

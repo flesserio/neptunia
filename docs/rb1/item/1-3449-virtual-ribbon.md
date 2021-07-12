@@ -9,6 +9,7 @@ title: Virtual Ribbon (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Virtual Ribbon** in shop](#remake-system-plans-which-unlock-virtual-ribbon-in-shop)
 - [Player characters who can equip **Virtual Ribbon**](#player-characters-who-can-equip-virtual-ribbon)
+
 ## Basic information
 
 |   |   |

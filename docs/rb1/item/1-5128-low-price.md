@@ -8,6 +8,7 @@ title: Low Price (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Dungeons **Low Price** is found](#dungeons-low-price-is-found)
+
 ## Basic information
 
 |   |   |

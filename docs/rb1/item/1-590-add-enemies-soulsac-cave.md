@@ -9,6 +9,7 @@ title: Add Enemies: Soulsac Cave (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **Add Enemies: Soulsac Cave**](#chirpers-who-give-add-enemies-soulsac-cave)
 - [Plans added to Remake System after collecting **Add Enemies: Soulsac Cave**](#plans-added-to-remake-system-after-collecting-add-enemies-soulsac-cave)
+
 ## Basic information
 
 |   |   |

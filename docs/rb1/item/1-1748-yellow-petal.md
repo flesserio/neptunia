@@ -7,8 +7,10 @@ title: Yellow Petal (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Yellow Petal**](#monsters-which-drop-yellow-petal)
 - [Dungeons **Yellow Petal** is found](#dungeons-yellow-petal-is-found)
 - [Remake System plans which require **Yellow Petal**](#remake-system-plans-which-require-yellow-petal)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,14 @@ title: Yellow Petal (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 2 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Yellow Petal**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-102" class="trackbox" /> | 102 | [Base](/neptunia/rb1/dlc/1-base.html) | [Tulip](/neptunia/rb1/monster/1-102-tulip.html) |
+| <input type="checkbox" id="rb1-monster-1-279" class="trackbox" /> | 279 | [Base](/neptunia/rb1/dlc/1-base.html) | [Crack Tail](/neptunia/rb1/monster/1-279-crack-tail.html) |
 
 
 ## Dungeons **Yellow Petal** is found

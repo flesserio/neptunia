@@ -10,6 +10,7 @@ title: Vermillion Flower (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Quests which reward **Vermillion Flower**](#quests-which-reward-vermillion-flower)
 - [Player characters who can equip **Vermillion Flower**](#player-characters-who-can-equip-vermillion-flower)
+
 ## Basic information
 
 |   |   |

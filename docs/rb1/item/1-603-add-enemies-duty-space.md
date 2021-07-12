@@ -9,6 +9,7 @@ title: Add Enemies: Duty Space (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **Add Enemies: Duty Space**](#chirpers-who-give-add-enemies-duty-space)
 - [Plans added to Remake System after collecting **Add Enemies: Duty Space**](#plans-added-to-remake-system-after-collecting-add-enemies-duty-space)
+
 ## Basic information
 
 |   |   |

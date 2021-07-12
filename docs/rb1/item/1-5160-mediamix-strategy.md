@@ -7,7 +7,9 @@ title: Mediamix Strategy (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Mediamix Strategy**](#monsters-which-drop-mediamix-strategy)
 - [Dungeons **Mediamix Strategy** is found](#dungeons-mediamix-strategy-is-found)
+
 ## Basic information
 
 |   |   |
@@ -22,6 +24,13 @@ title: Mediamix Strategy (Item) - Hyperdimension Neptunia Re;Birth1
 | **Max inventory** | 99 |
 | **Idea Chip level** | 3 |
 | **Idea Chip ability** | [Escape Rate Up Lv.3](/neptunia/rb1/avatar/1-9659-escape-rate-up-lv-3.html)<br />Increases Escape Rate by 30% |
+
+
+## Monsters which drop **Mediamix Strategy**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-174" class="trackbox" /> | 174 | [Base](/neptunia/rb1/dlc/1-base.html) | [Eggplant Rider](/neptunia/rb1/monster/1-174-eggplant-rider.html) |
 
 
 ## Dungeons **Mediamix Strategy** is found

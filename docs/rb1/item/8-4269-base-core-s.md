@@ -10,6 +10,7 @@ title: Base Core S (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Player characters who have **Base Core S** equipped by default](#player-characters-who-have-base-core-s-equipped-by-default)
 - [Player characters who can equip **Base Core S**](#player-characters-who-can-equip-base-core-s)
+
 ## Basic information
 
 |   |   |

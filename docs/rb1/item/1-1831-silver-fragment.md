@@ -7,8 +7,10 @@ title: Silver Fragment (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Silver Fragment**](#monsters-which-drop-silver-fragment)
 - [Dungeons **Silver Fragment** is found](#dungeons-silver-fragment-is-found)
 - [Remake System plans which require **Silver Fragment**](#remake-system-plans-which-require-silver-fragment)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,13 @@ title: Silver Fragment (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 181 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Silver Fragment**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-358" class="trackbox" /> | 358 | [Base](/neptunia/rb1/dlc/1-base.html) | [Lowee Magical Soldier](/neptunia/rb1/monster/1-358-lowee-magical-soldier.html) |
 
 
 ## Dungeons **Silver Fragment** is found

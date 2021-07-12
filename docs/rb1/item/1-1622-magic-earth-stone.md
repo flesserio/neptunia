@@ -9,6 +9,7 @@ title: Magic Earth Stone (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Magic Earth Stone** is found](#dungeons-magic-earth-stone-is-found)
 - [Remake System plans which require **Magic Earth Stone**](#remake-system-plans-which-require-magic-earth-stone)
+
 ## Basic information
 
 |   |   |

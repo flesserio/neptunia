@@ -9,6 +9,7 @@ title: Yggdrasil Leaf (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Yggdrasil Leaf** is found](#dungeons-yggdrasil-leaf-is-found)
 - [Remake System plans which require **Yggdrasil Leaf**](#remake-system-plans-which-require-yggdrasil-leaf)
+
 ## Basic information
 
 |   |   |

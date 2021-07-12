@@ -10,6 +10,7 @@ title: Cellphone Strap (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Player characters who have **Cellphone Strap** equipped by default](#player-characters-who-have-cellphone-strap-equipped-by-default)
 - [Player characters who can equip **Cellphone Strap**](#player-characters-who-can-equip-cellphone-strap)
+
 ## Basic information
 
 |   |   |

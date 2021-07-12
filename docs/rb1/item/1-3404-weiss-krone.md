@@ -9,6 +9,7 @@ title: Weiss Krone (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Weiss Krone** in shop](#remake-system-plans-which-unlock-weiss-krone-in-shop)
 - [Player characters who can equip **Weiss Krone**](#player-characters-who-can-equip-weiss-krone)
+
 ## Basic information
 
 |   |   |

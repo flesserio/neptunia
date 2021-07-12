@@ -9,6 +9,7 @@ title: Add Super Enemies: Naasne Volcano (Item) - Hyperdimension Neptunia Re;Bir
 - [Basic information](#basic-information)
 - [Chirpers who give **Add Super Enemies: Naasne Volcano**](#chirpers-who-give-add-super-enemies-naasne-volcano)
 - [Plans added to Remake System after collecting **Add Super Enemies: Naasne Volcano**](#plans-added-to-remake-system-after-collecting-add-super-enemies-naasne-volcano)
+
 ## Basic information
 
 |   |   |

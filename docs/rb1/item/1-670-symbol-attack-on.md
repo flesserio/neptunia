@@ -8,7 +8,9 @@ title: Symbol Attack On (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Plans added to Remake System after collecting **Symbol Attack On**](#plans-added-to-remake-system-after-collecting-symbol-attack-on)
+- [Monsters which drop **Symbol Attack On**](#monsters-which-drop-symbol-attack-on)
 - [Dungeons **Symbol Attack On** is found](#dungeons-symbol-attack-on-is-found)
+
 ## Basic information
 
 |   |   |
@@ -28,6 +30,13 @@ title: Symbol Attack On (Item) - Hyperdimension Neptunia Re;Birth1
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
 | <input type="checkbox" id="rb1-remake-1-13" class="trackbox" /> | 13 | [Base](/neptunia/rb1/dlc/1-base.html) | [Guaranteed Symbol Attack](/neptunia/rb1/remake/1-13-guaranteed-symbol-attack.html) |
+
+
+## Monsters which drop **Symbol Attack On**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-318" class="trackbox" /> | 318 | [Base](/neptunia/rb1/dlc/1-base.html) | [Peacock](/neptunia/rb1/monster/1-318-peacock.html) |
 
 
 ## Dungeons **Symbol Attack On** is found

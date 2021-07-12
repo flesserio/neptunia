@@ -9,6 +9,7 @@ title: Black Circle (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Player characters who have **Black Circle** equipped by default](#player-characters-who-have-black-circle-equipped-by-default)
 - [Player characters who can equip **Black Circle**](#player-characters-who-can-equip-black-circle)
+
 ## Basic information
 
 |   |   |

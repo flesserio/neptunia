@@ -10,6 +10,7 @@ title: B.K. True Deity (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Colosseum quests which reward **B.K. True Deity**](#colosseum-quests-which-reward-bk-true-deity)
 - [Player characters who can equip **B.K. True Deity**](#player-characters-who-can-equip-bk-true-deity)
+
 ## Basic information
 
 |   |   |

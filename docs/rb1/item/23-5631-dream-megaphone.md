@@ -10,6 +10,7 @@ title: Dream Megaphone (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Player characters who have **Dream Megaphone** equipped by default](#player-characters-who-have-dream-megaphone-equipped-by-default)
 - [Player characters who can equip **Dream Megaphone**](#player-characters-who-can-equip-dream-megaphone)
+
 ## Basic information
 
 |   |   |

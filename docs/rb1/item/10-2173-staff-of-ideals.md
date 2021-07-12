@@ -8,8 +8,10 @@ title: Staff of Ideals (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Stats](#stats)
+- [Monsters which drop **Staff of Ideals**](#monsters-which-drop-staff-of-ideals)
 - [Dungeons **Staff of Ideals** is found](#dungeons-staff-of-ideals-is-found)
 - [Player characters who can equip **Staff of Ideals**](#player-characters-who-can-equip-staff-of-ideals)
+
 ## Basic information
 
 |   |   |
@@ -30,6 +32,13 @@ title: Staff of Ideals (Item) - Hyperdimension Neptunia Re;Birth1
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 3000 | 0 | 0 | 2475 | 250 | 3525 | 0 | 0 | 300 | 200 | 0 | 0 | 0 | 0 |
+
+
+## Monsters which drop **Staff of Ideals**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-10-337" class="trackbox" /> | 337 | [Additional Content Package 1](/neptunia/rb1/dlc/10-pack1.html) | [Super Gebachu](/neptunia/rb1/monster/10-337-super-gebachu.html) |
 
 
 ## Dungeons **Staff of Ideals** is found

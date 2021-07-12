@@ -9,6 +9,7 @@ title: Black Heart Apron (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Black Heart Apron** in shop](#remake-system-plans-which-unlock-black-heart-apron-in-shop)
 - [Player characters who can equip **Black Heart Apron**](#player-characters-who-can-equip-black-heart-apron)
+
 ## Basic information
 
 |   |   |

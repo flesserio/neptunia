@@ -10,6 +10,7 @@ title: Twin Purgatory (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Dungeons **Twin Purgatory** is found](#dungeons-twin-purgatory-is-found)
 - [Player characters who can equip **Twin Purgatory**](#player-characters-who-can-equip-twin-purgatory)
+
 ## Basic information
 
 |   |   |

@@ -9,6 +9,7 @@ title: Elite Suit (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Player characters who have **Elite Suit** equipped by default](#player-characters-who-have-elite-suit-equipped-by-default)
 - [Player characters who can equip **Elite Suit**](#player-characters-who-can-equip-elite-suit)
+
 ## Basic information
 
 |   |   |

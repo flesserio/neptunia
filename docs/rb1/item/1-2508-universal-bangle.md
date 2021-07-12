@@ -10,6 +10,7 @@ title: Universal Bangle (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Player characters who have **Universal Bangle** equipped by default](#player-characters-who-have-universal-bangle-equipped-by-default)
 - [Player characters who can equip **Universal Bangle**](#player-characters-who-can-equip-universal-bangle)
+
 ## Basic information
 
 |   |   |

@@ -8,8 +8,10 @@ title: Genius Brain (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Stats](#stats)
+- [Monsters which drop **Genius Brain**](#monsters-which-drop-genius-brain)
 - [Dungeons **Genius Brain** is found](#dungeons-genius-brain-is-found)
 - [Player characters who can equip **Genius Brain**](#player-characters-who-can-equip-genius-brain)
+
 ## Basic information
 
 |   |   |
@@ -29,6 +31,13 @@ title: Genius Brain (Item) - Hyperdimension Neptunia Re;Birth1
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 0 | 0 | 30 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+
+
+## Monsters which drop **Genius Brain**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-348" class="trackbox" /> | 348 | [Base](/neptunia/rb1/dlc/1-base.html) | [Magical Dogoo](/neptunia/rb1/monster/1-348-magical-dogoo.html) |
 
 
 ## Dungeons **Genius Brain** is found

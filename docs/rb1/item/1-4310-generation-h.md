@@ -9,6 +9,7 @@ title: Generation H (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Generation H**](#player-characters-who-can-equip-generation-h)
+
 ## Basic information
 
 |   |   |

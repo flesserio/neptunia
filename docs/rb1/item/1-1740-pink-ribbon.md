@@ -7,8 +7,10 @@ title: Pink Ribbon (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Pink Ribbon**](#monsters-which-drop-pink-ribbon)
 - [Dungeons **Pink Ribbon** is found](#dungeons-pink-ribbon-is-found)
 - [Remake System plans which require **Pink Ribbon**](#remake-system-plans-which-require-pink-ribbon)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,16 @@ title: Pink Ribbon (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 10 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Pink Ribbon**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-179" class="trackbox" /> | 179 | [Base](/neptunia/rb1/dlc/1-base.html) | [Cold Girl](/neptunia/rb1/monster/1-179-cold-girl.html) |
+| <input type="checkbox" id="rb1-monster-1-268" class="trackbox" /> | 268 | [Base](/neptunia/rb1/dlc/1-base.html) | [Ice Girl](/neptunia/rb1/monster/1-268-ice-girl.html) |
+| <input type="checkbox" id="rb1-monster-1-380" class="trackbox" /> | 380 | [Base](/neptunia/rb1/dlc/1-base.html) | [Snow Girl](/neptunia/rb1/monster/1-380-snow-girl.html) |
+| <input type="checkbox" id="rb1-monster-16-1061" class="trackbox" /> | 1061 | [Additional Content Pack 7](/neptunia/rb1/dlc/16-pack7.html) | [Snow Girl](/neptunia/rb1/monster/16-1061-snow-girl.html) |
 
 
 ## Dungeons **Pink Ribbon** is found

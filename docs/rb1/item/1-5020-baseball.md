@@ -7,7 +7,9 @@ title: Baseball (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Baseball**](#monsters-which-drop-baseball)
 - [Dungeons **Baseball** is found](#dungeons-baseball-is-found)
+
 ## Basic information
 
 |   |   |
@@ -22,6 +24,13 @@ title: Baseball (Item) - Hyperdimension Neptunia Re;Birth1
 | **Max inventory** | 99 |
 | **Idea Chip level** | 5 |
 | **Idea Chip ability** | [Critical Rate + Lv.5](/neptunia/rb1/avatar/1-9519-critical-rate-lv-5.html)<br />Increases Critical Rate by 15% |
+
+
+## Monsters which drop **Baseball**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-364" class="trackbox" /> | 364 | [Base](/neptunia/rb1/dlc/1-base.html) | [Blue Whale](/neptunia/rb1/monster/1-364-blue-whale.html) |
 
 
 ## Dungeons **Baseball** is found

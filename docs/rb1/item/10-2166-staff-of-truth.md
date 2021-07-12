@@ -8,8 +8,10 @@ title: Staff of Truth (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Stats](#stats)
+- [Monsters which drop **Staff of Truth**](#monsters-which-drop-staff-of-truth)
 - [Dungeons **Staff of Truth** is found](#dungeons-staff-of-truth-is-found)
 - [Player characters who can equip **Staff of Truth**](#player-characters-who-can-equip-staff-of-truth)
+
 ## Basic information
 
 |   |   |
@@ -30,6 +32,13 @@ title: Staff of Truth (Item) - Hyperdimension Neptunia Re;Birth1
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 3000 | 0 | 0 | 2475 | 250 | 3525 | 0 | 300 | 0 | 200 | 0 | 0 | 0 | 0 |
+
+
+## Monsters which drop **Staff of Truth**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-10-319" class="trackbox" /> | 319 | [Additional Content Package 1](/neptunia/rb1/dlc/10-pack1.html) | [Clione](/neptunia/rb1/monster/10-319-clione.html) |
 
 
 ## Dungeons **Staff of Truth** is found

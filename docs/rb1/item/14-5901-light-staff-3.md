@@ -9,6 +9,7 @@ title: Light Staff+3 (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Light Staff+3**](#player-characters-who-can-equip-light-staff-3)
+
 ## Basic information
 
 |   |   |

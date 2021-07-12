@@ -10,6 +10,7 @@ title: Durandal (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Remake System plans which unlock **Durandal** in shop](#remake-system-plans-which-unlock-durandal-in-shop)
 - [Player characters who can equip **Durandal**](#player-characters-who-can-equip-durandal)
+
 ## Basic information
 
 |   |   |

@@ -7,7 +7,9 @@ title: Near Future (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Near Future**](#monsters-which-drop-near-future)
 - [Dungeons **Near Future** is found](#dungeons-near-future-is-found)
+
 ## Basic information
 
 |   |   |
@@ -22,6 +24,13 @@ title: Near Future (Item) - Hyperdimension Neptunia Re;Birth1
 | **Max inventory** | 99 |
 | **Idea Chip level** | 4 |
 | **Idea Chip ability** | [Lily Up + Lv.4](/neptunia/rb1/avatar/1-9680-lily-up-lv-4.html)<br />Increases Lily Rank Gained XP by 400% |
+
+
+## Monsters which drop **Near Future**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-316" class="trackbox" /> | 316 | [Base](/neptunia/rb1/dlc/1-base.html) | [Tortoise](/neptunia/rb1/monster/1-316-tortoise.html) |
 
 
 ## Dungeons **Near Future** is found

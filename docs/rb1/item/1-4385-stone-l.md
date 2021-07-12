@@ -8,7 +8,9 @@ title: Stone L (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Stats](#stats)
+- [Monsters which drop **Stone L**](#monsters-which-drop-stone-l)
 - [Player characters who can equip **Stone L**](#player-characters-who-can-equip-stone-l)
+
 ## Basic information
 
 |   |   |
@@ -28,6 +30,13 @@ title: Stone L (Item) - Hyperdimension Neptunia Re;Birth1
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | -15 | 40 | 0 | 0 | -30 | 0 | 0 | 0 | 0 | 0 | 20 |
+
+
+## Monsters which drop **Stone L**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-1033" class="trackbox" /> | 1033 | [Base](/neptunia/rb1/dlc/1-base.html) | [Self-Defense System](/neptunia/rb1/monster/1-1033-self-defense-system.html) |
 
 
 ## Player characters who can equip **Stone L**

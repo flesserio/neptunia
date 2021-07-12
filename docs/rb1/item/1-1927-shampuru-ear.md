@@ -7,8 +7,10 @@ title: Shampuru Ear (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Shampuru Ear**](#monsters-which-drop-shampuru-ear)
 - [Dungeons **Shampuru Ear** is found](#dungeons-shampuru-ear-is-found)
 - [Remake System plans which require **Shampuru Ear**](#remake-system-plans-which-require-shampuru-ear)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,15 @@ title: Shampuru Ear (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 12 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Shampuru Ear**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-246" class="trackbox" /> | 246 | [Base](/neptunia/rb1/dlc/1-base.html) | [Normal Shampuru](/neptunia/rb1/monster/1-246-normal-shampuru.html) |
+| <input type="checkbox" id="rb1-monster-1-247" class="trackbox" /> | 247 | [Base](/neptunia/rb1/dlc/1-base.html) | [Buff Shampuru](/neptunia/rb1/monster/1-247-buff-shampuru.html) |
+| <input type="checkbox" id="rb1-monster-1-248" class="trackbox" /> | 248 | [Base](/neptunia/rb1/dlc/1-base.html) | [Magical Shampuru](/neptunia/rb1/monster/1-248-magical-shampuru.html) |
 
 
 ## Dungeons **Shampuru Ear** is found

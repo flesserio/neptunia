@@ -10,6 +10,7 @@ title: Planeptune W (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Colosseum quests which reward **Planeptune W**](#colosseum-quests-which-reward-planeptune-w)
 - [Player characters who can equip **Planeptune W**](#player-characters-who-can-equip-planeptune-w)
+
 ## Basic information
 
 |   |   |

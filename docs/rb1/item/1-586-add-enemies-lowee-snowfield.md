@@ -9,6 +9,7 @@ title: Add Enemies: Lowee Snowfield (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **Add Enemies: Lowee Snowfield**](#chirpers-who-give-add-enemies-lowee-snowfield)
 - [Plans added to Remake System after collecting **Add Enemies: Lowee Snowfield**](#plans-added-to-remake-system-after-collecting-add-enemies-lowee-snowfield)
+
 ## Basic information
 
 |   |   |

@@ -7,8 +7,10 @@ title: Hard Earth Pipe (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Hard Earth Pipe**](#monsters-which-drop-hard-earth-pipe)
 - [Dungeons **Hard Earth Pipe** is found](#dungeons-hard-earth-pipe-is-found)
 - [Remake System plans which require **Hard Earth Pipe**](#remake-system-plans-which-require-hard-earth-pipe)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,13 @@ title: Hard Earth Pipe (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 551 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Hard Earth Pipe**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-10-415" class="trackbox" /> | 415 | [Additional Content Package 1](/neptunia/rb1/dlc/10-pack1.html) | [Dogoonie](/neptunia/rb1/monster/10-415-dogoonie.html) |
 
 
 ## Dungeons **Hard Earth Pipe** is found

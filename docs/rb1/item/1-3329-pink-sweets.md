@@ -9,6 +9,7 @@ title: Pink Sweets (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Pink Sweets** in shop](#remake-system-plans-which-unlock-pink-sweets-in-shop)
 - [Player characters who can equip **Pink Sweets**](#player-characters-who-can-equip-pink-sweets)
+
 ## Basic information
 
 |   |   |

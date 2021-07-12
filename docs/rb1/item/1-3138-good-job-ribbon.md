@@ -9,6 +9,7 @@ title: Good-Job Ribbon (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Good-Job Ribbon** in shop](#remake-system-plans-which-unlock-good-job-ribbon-in-shop)
 - [Player characters who can equip **Good-Job Ribbon**](#player-characters-who-can-equip-good-job-ribbon)
+
 ## Basic information
 
 |   |   |

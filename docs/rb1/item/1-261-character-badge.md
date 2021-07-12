@@ -8,6 +8,7 @@ title: Character Badge (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Quests which reward **Character Badge**](#quests-which-reward-character-badge)
+
 ## Basic information
 
 |   |   |

@@ -11,6 +11,7 @@ title: Energy Fragment (Item) - Hyperdimension Neptunia Re;Birth1
 - [Dungeons **Energy Fragment** is found](#dungeons-energy-fragment-is-found)
 - [Quests which reward **Energy Fragment**](#quests-which-reward-energy-fragment)
 - [Remake System plans which require **Energy Fragment**](#remake-system-plans-which-require-energy-fragment)
+
 ## Basic information
 
 |   |   |

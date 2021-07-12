@@ -7,9 +7,11 @@ title: Negative Bark (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Negative Bark**](#monsters-which-drop-negative-bark)
 - [Dungeons **Negative Bark** is found](#dungeons-negative-bark-is-found)
 - [Quests which require gathering **Negative Bark**](#quests-which-require-gathering-negative-bark)
 - [Remake System plans which require **Negative Bark**](#remake-system-plans-which-require-negative-bark)
+
 ## Basic information
 
 |   |   |
@@ -22,6 +24,14 @@ title: Negative Bark (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 165 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Negative Bark**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-349" class="trackbox" /> | 349 | [Base](/neptunia/rb1/dlc/1-base.html) | [Insatiable Tree](/neptunia/rb1/monster/1-349-insatiable-tree.html) |
+| <input type="checkbox" id="rb1-monster-1-350" class="trackbox" /> | 350 | [Base](/neptunia/rb1/dlc/1-base.html) | [Viral Insatiable Tree](/neptunia/rb1/monster/1-350-viral-insatiable-tree.html) |
 
 
 ## Dungeons **Negative Bark** is found

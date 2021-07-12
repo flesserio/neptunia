@@ -8,8 +8,10 @@ title: Orbital-S S (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Stats](#stats)
+- [Monsters which drop **Orbital-S S**](#monsters-which-drop-orbital-s-s)
 - [Dungeons **Orbital-S S** is found](#dungeons-orbital-s-s-is-found)
 - [Player characters who can equip **Orbital-S S**](#player-characters-who-can-equip-orbital-s-s)
+
 ## Basic information
 
 |   |   |
@@ -29,6 +31,13 @@ title: Orbital-S S (Item) - Hyperdimension Neptunia Re;Birth1
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 90 | 0 | -15 | 35 | 0 | 0 | 35 | 0 | 0 | 0 | 0 |
+
+
+## Monsters which drop **Orbital-S S**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-388" class="trackbox" /> | 388 | [Base](/neptunia/rb1/dlc/1-base.html) | [Old Death](/neptunia/rb1/monster/1-388-old-death.html) |
 
 
 ## Dungeons **Orbital-S S** is found

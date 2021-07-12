@@ -9,6 +9,7 @@ title: Weird Sidekick (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Weird Sidekick** is found](#dungeons-weird-sidekick-is-found)
 - [Colosseum quests which reward **Weird Sidekick**](#colosseum-quests-which-reward-weird-sidekick)
+
 ## Basic information
 
 |   |   |

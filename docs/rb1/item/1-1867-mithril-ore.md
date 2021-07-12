@@ -7,8 +7,10 @@ title: Mithril Ore (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Mithril Ore**](#monsters-which-drop-mithril-ore)
 - [Dungeons **Mithril Ore** is found](#dungeons-mithril-ore-is-found)
 - [Remake System plans which require **Mithril Ore**](#remake-system-plans-which-require-mithril-ore)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,15 @@ title: Mithril Ore (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 312 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Mithril Ore**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-21-8051" class="trackbox" /> | 8051 | [Additional Content Pack 12](/neptunia/rb1/dlc/21-pack12.html) | [Missile Golem](/neptunia/rb1/monster/21-8051-missile-golem.html) |
+| <input type="checkbox" id="rb1-monster-1-188" class="trackbox" /> | 188 | [Base](/neptunia/rb1/dlc/1-base.html) | [Missile Golem](/neptunia/rb1/monster/1-188-missile-golem.html) |
+| <input type="checkbox" id="rb1-monster-1-189" class="trackbox" /> | 189 | [Base](/neptunia/rb1/dlc/1-base.html) | [Viral Missle Golem](/neptunia/rb1/monster/1-189-viral-missle-golem.html) |
 
 
 ## Dungeons **Mithril Ore** is found

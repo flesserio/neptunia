@@ -8,6 +8,7 @@ title: Overlord's L. Leg (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Colosseum quests which reward **Overlord's L. Leg**](#colosseum-quests-which-reward-overlords-l-leg)
+
 ## Basic information
 
 |   |   |

@@ -7,8 +7,10 @@ title: Big Butterfly Wing (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Big Butterfly Wing**](#monsters-which-drop-big-butterfly-wing)
 - [Dungeons **Big Butterfly Wing** is found](#dungeons-big-butterfly-wing-is-found)
 - [Remake System plans which require **Big Butterfly Wing**](#remake-system-plans-which-require-big-butterfly-wing)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,14 @@ title: Big Butterfly Wing (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 42 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Big Butterfly Wing**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-156" class="trackbox" /> | 156 | [Base](/neptunia/rb1/dlc/1-base.html) | [Swallowtail](/neptunia/rb1/monster/1-156-swallowtail.html) |
+| <input type="checkbox" id="rb1-monster-1-157" class="trackbox" /> | 157 | [Base](/neptunia/rb1/dlc/1-base.html) | [Viral Swallowtail](/neptunia/rb1/monster/1-157-viral-swallowtail.html) |
 
 
 ## Dungeons **Big Butterfly Wing** is found

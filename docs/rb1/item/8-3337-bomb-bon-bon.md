@@ -9,6 +9,7 @@ title: Bomb Bon Bon (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Player characters who have **Bomb Bon Bon** equipped by default](#player-characters-who-have-bomb-bon-bon-equipped-by-default)
 - [Player characters who can equip **Bomb Bon Bon**](#player-characters-who-can-equip-bomb-bon-bon)
+
 ## Basic information
 
 |   |   |

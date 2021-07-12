@@ -7,8 +7,10 @@ title: Phantom Wing (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Phantom Wing**](#monsters-which-drop-phantom-wing)
 - [Dungeons **Phantom Wing** is found](#dungeons-phantom-wing-is-found)
 - [Remake System plans which require **Phantom Wing**](#remake-system-plans-which-require-phantom-wing)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,15 @@ title: Phantom Wing (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 60 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Phantom Wing**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-21-8056" class="trackbox" /> | 8056 | [Additional Content Pack 12](/neptunia/rb1/dlc/21-pack12.html) | [Fairyfly](/neptunia/rb1/monster/21-8056-fairyfly.html) |
+| <input type="checkbox" id="rb1-monster-1-323" class="trackbox" /> | 323 | [Base](/neptunia/rb1/dlc/1-base.html) | [Fairyfly](/neptunia/rb1/monster/1-323-fairyfly.html) |
+| <input type="checkbox" id="rb1-monster-1-324" class="trackbox" /> | 324 | [Base](/neptunia/rb1/dlc/1-base.html) | [Viral Fairyfly](/neptunia/rb1/monster/1-324-viral-fairyfly.html) |
 
 
 ## Dungeons **Phantom Wing** is found

@@ -10,6 +10,7 @@ title: Esperance (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Dungeons **Esperance** is found](#dungeons-esperance-is-found)
 - [Player characters who can equip **Esperance**](#player-characters-who-can-equip-esperance)
+
 ## Basic information
 
 |   |   |

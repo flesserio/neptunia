@@ -9,6 +9,7 @@ title: Leaf-Thin Book (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Leaf-Thin Book**](#player-characters-who-can-equip-leaf-thin-book)
+
 ## Basic information
 
 |   |   |

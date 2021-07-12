@@ -9,6 +9,7 @@ title: LAN Party (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **LAN Party** is found](#dungeons-lan-party-is-found)
 - [Colosseum quests which reward **LAN Party**](#colosseum-quests-which-reward-lan-party)
+
 ## Basic information
 
 |   |   |

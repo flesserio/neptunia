@@ -10,6 +10,7 @@ title: Crimson Princess (Item) - Hyperdimension Neptunia Re;Birth1
 - [Quests which reward **Crimson Princess**](#quests-which-reward-crimson-princess)
 - [Remake System plans which require **Crimson Princess**](#remake-system-plans-which-require-crimson-princess)
 - [Player characters who can equip **Crimson Princess**](#player-characters-who-can-equip-crimson-princess)
+
 ## Basic information
 
 |   |   |

@@ -9,6 +9,7 @@ title: Fancy Style (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Fancy Style** in shop](#remake-system-plans-which-unlock-fancy-style-in-shop)
 - [Player characters who can equip **Fancy Style**](#player-characters-who-can-equip-fancy-style)
+
 ## Basic information
 
 |   |   |

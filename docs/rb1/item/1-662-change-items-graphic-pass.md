@@ -9,6 +9,7 @@ title: Change Items: Graphic Pass (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **Change Items: Graphic Pass**](#chirpers-who-give-change-items-graphic-pass)
 - [Plans added to Remake System after collecting **Change Items: Graphic Pass**](#plans-added-to-remake-system-after-collecting-change-items-graphic-pass)
+
 ## Basic information
 
 |   |   |

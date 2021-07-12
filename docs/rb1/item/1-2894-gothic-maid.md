@@ -9,6 +9,7 @@ title: Gothic Maid (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Gothic Maid** in shop](#remake-system-plans-which-unlock-gothic-maid-in-shop)
 - [Player characters who can equip **Gothic Maid**](#player-characters-who-can-equip-gothic-maid)
+
 ## Basic information
 
 |   |   |

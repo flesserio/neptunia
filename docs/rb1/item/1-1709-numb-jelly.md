@@ -7,8 +7,10 @@ title: Numb Jelly (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Numb Jelly**](#monsters-which-drop-numb-jelly)
 - [Dungeons **Numb Jelly** is found](#dungeons-numb-jelly-is-found)
 - [Remake System plans which require **Numb Jelly**](#remake-system-plans-which-require-numb-jelly)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,13 @@ title: Numb Jelly (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 120 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Numb Jelly**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-286" class="trackbox" /> | 286 | [Base](/neptunia/rb1/dlc/1-base.html) | [Numb Dogoo](/neptunia/rb1/monster/1-286-numb-dogoo.html) |
 
 
 ## Dungeons **Numb Jelly** is found

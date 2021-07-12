@@ -9,6 +9,7 @@ title: Core Turbo B (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Core Turbo B**](#player-characters-who-can-equip-core-turbo-b)
+
 ## Basic information
 
 |   |   |

@@ -9,6 +9,7 @@ title: Plan: Healing Field (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Plans added to Remake System after collecting **Plan: Healing Field**](#plans-added-to-remake-system-after-collecting-plan-healing-field)
 - [Dungeons **Plan: Healing Field** is found](#dungeons-plan-healing-field-is-found)
+
 ## Basic information
 
 |   |   |

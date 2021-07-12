@@ -9,6 +9,7 @@ title: Black Light (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Black Light** in shop](#remake-system-plans-which-unlock-black-light-in-shop)
 - [Player characters who can equip **Black Light**](#player-characters-who-can-equip-black-light)
+
 ## Basic information
 
 |   |   |

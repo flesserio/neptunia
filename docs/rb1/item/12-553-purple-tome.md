@@ -9,6 +9,7 @@ title: Purple Tome (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Plans added to Remake System after collecting **Purple Tome**](#plans-added-to-remake-system-after-collecting-purple-tome)
 - [Colosseum quests which reward **Purple Tome**](#colosseum-quests-which-reward-purple-tome)
+
 ## Basic information
 
 |   |   |

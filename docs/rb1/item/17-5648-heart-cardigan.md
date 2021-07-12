@@ -9,6 +9,7 @@ title: Heart Cardigan (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Player characters who have **Heart Cardigan** equipped by default](#player-characters-who-have-heart-cardigan-equipped-by-default)
 - [Player characters who can equip **Heart Cardigan**](#player-characters-who-can-equip-heart-cardigan)
+
 ## Basic information
 
 |   |   |

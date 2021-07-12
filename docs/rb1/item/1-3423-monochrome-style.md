@@ -9,6 +9,7 @@ title: Monochrome Style (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Monochrome Style** in shop](#remake-system-plans-which-unlock-monochrome-style-in-shop)
 - [Player characters who can equip **Monochrome Style**](#player-characters-who-can-equip-monochrome-style)
+
 ## Basic information
 
 |   |   |

@@ -10,6 +10,7 @@ title: Primrose (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Remake System plans which unlock **Primrose** in shop](#remake-system-plans-which-unlock-primrose-in-shop)
 - [Player characters who can equip **Primrose**](#player-characters-who-can-equip-primrose)
+
 ## Basic information
 
 |   |   |

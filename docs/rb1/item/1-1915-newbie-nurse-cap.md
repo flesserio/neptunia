@@ -7,9 +7,11 @@ title: Newbie Nurse Cap (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Newbie Nurse Cap**](#monsters-which-drop-newbie-nurse-cap)
 - [Dungeons **Newbie Nurse Cap** is found](#dungeons-newbie-nurse-cap-is-found)
 - [Quests which require gathering **Newbie Nurse Cap**](#quests-which-require-gathering-newbie-nurse-cap)
 - [Remake System plans which require **Newbie Nurse Cap**](#remake-system-plans-which-require-newbie-nurse-cap)
+
 ## Basic information
 
 |   |   |
@@ -22,6 +24,13 @@ title: Newbie Nurse Cap (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 490 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Newbie Nurse Cap**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-266" class="trackbox" /> | 266 | [Base](/neptunia/rb1/dlc/1-base.html) | [Nurse Binder](/neptunia/rb1/monster/1-266-nurse-binder.html) |
 
 
 ## Dungeons **Newbie Nurse Cap** is found

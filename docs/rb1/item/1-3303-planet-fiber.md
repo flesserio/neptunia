@@ -9,6 +9,7 @@ title: Planet Fiber (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which require **Planet Fiber**](#remake-system-plans-which-require-planet-fiber)
 - [Player characters who can equip **Planet Fiber**](#player-characters-who-can-equip-planet-fiber)
+
 ## Basic information
 
 |   |   |

@@ -9,6 +9,7 @@ title: Arcade Spear (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Arcade Spear**](#player-characters-who-can-equip-arcade-spear)
+
 ## Basic information
 
 |   |   |

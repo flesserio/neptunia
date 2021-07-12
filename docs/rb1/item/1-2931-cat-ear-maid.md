@@ -10,6 +10,7 @@ title: Cat Ear Maid (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Colosseum quests which reward **Cat Ear Maid**](#colosseum-quests-which-reward-cat-ear-maid)
 - [Player characters who can equip **Cat Ear Maid**](#player-characters-who-can-equip-cat-ear-maid)
+
 ## Basic information
 
 |   |   |

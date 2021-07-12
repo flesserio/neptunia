@@ -7,8 +7,10 @@ title: Frozen Cloth (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Frozen Cloth**](#monsters-which-drop-frozen-cloth)
 - [Dungeons **Frozen Cloth** is found](#dungeons-frozen-cloth-is-found)
 - [Remake System plans which require **Frozen Cloth**](#remake-system-plans-which-require-frozen-cloth)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,14 @@ title: Frozen Cloth (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 9 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Frozen Cloth**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-178" class="trackbox" /> | 178 | [Base](/neptunia/rb1/dlc/1-base.html) | [Call Boy](/neptunia/rb1/monster/1-178-call-boy.html) |
+| <input type="checkbox" id="rb1-monster-1-267" class="trackbox" /> | 267 | [Base](/neptunia/rb1/dlc/1-base.html) | [Ice Boy](/neptunia/rb1/monster/1-267-ice-boy.html) |
 
 
 ## Dungeons **Frozen Cloth** is found

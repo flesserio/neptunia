@@ -9,6 +9,7 @@ title: Ice Blue Beret (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Ice Blue Beret** in shop](#remake-system-plans-which-unlock-ice-blue-beret-in-shop)
 - [Player characters who can equip **Ice Blue Beret**](#player-characters-who-can-equip-ice-blue-beret)
+
 ## Basic information
 
 |   |   |

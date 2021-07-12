@@ -9,6 +9,7 @@ title: Black Wand (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Black Wand**](#player-characters-who-can-equip-black-wand)
+
 ## Basic information
 
 |   |   |

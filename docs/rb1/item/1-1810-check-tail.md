@@ -7,8 +7,10 @@ title: Check Tail (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Check Tail**](#monsters-which-drop-check-tail)
 - [Dungeons **Check Tail** is found](#dungeons-check-tail-is-found)
 - [Remake System plans which require **Check Tail**](#remake-system-plans-which-require-check-tail)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,13 @@ title: Check Tail (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 2193 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Check Tail**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-235" class="trackbox" /> | 235 | [Base](/neptunia/rb1/dlc/1-base.html) | [Dolichorhynchops](/neptunia/rb1/monster/1-235-dolichorhynchops.html) |
 
 
 ## Dungeons **Check Tail** is found

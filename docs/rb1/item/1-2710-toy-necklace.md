@@ -10,6 +10,7 @@ title: Toy Necklace (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Player characters who have **Toy Necklace** equipped by default](#player-characters-who-have-toy-necklace-equipped-by-default)
 - [Player characters who can equip **Toy Necklace**](#player-characters-who-can-equip-toy-necklace)
+
 ## Basic information
 
 |   |   |

@@ -9,6 +9,7 @@ title: Dress Hat (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Dress Hat** in shop](#remake-system-plans-which-unlock-dress-hat-in-shop)
 - [Player characters who can equip **Dress Hat**](#player-characters-who-can-equip-dress-hat)
+
 ## Basic information
 
 |   |   |

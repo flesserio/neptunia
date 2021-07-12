@@ -10,6 +10,7 @@ title: Point Guard (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Player characters who have **Point Guard** equipped by default](#player-characters-who-have-point-guard-equipped-by-default)
 - [Player characters who can equip **Point Guard**](#player-characters-who-can-equip-point-guard)
+
 ## Basic information
 
 |   |   |

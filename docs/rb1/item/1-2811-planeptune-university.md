@@ -8,8 +8,10 @@ title: Planeptune University (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Stats](#stats)
+- [Monsters which drop **Planeptune University**](#monsters-which-drop-planeptune-university)
 - [Dungeons **Planeptune University** is found](#dungeons-planeptune-university-is-found)
 - [Player characters who can equip **Planeptune University**](#player-characters-who-can-equip-planeptune-university)
+
 ## Basic information
 
 |   |   |
@@ -29,6 +31,14 @@ title: Planeptune University (Item) - Hyperdimension Neptunia Re;Birth1
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 0 | 30 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+
+
+## Monsters which drop **Planeptune University**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-18-7031" class="trackbox" /> | 7031 | [Additional Content Pack 9](/neptunia/rb1/dlc/18-pack9.html) | [Clione](/neptunia/rb1/monster/18-7031-clione.html) |
+| <input type="checkbox" id="rb1-monster-1-376" class="trackbox" /> | 376 | [Base](/neptunia/rb1/dlc/1-base.html) | [Clione](/neptunia/rb1/monster/1-376-clione.html) |
 
 
 ## Dungeons **Planeptune University** is found

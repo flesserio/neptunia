@@ -10,6 +10,7 @@ title: Purple C (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Player characters who have **Purple C** equipped by default](#player-characters-who-have-purple-c-equipped-by-default)
 - [Player characters who can equip **Purple C**](#player-characters-who-can-equip-purple-c)
+
 ## Basic information
 
 |   |   |

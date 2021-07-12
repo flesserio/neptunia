@@ -10,6 +10,7 @@ title: Approved Red (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Quests which reward **Approved Red**](#quests-which-reward-approved-red)
 - [Player characters who can equip **Approved Red**](#player-characters-who-can-equip-approved-red)
+
 ## Basic information
 
 |   |   |

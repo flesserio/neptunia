@@ -9,6 +9,7 @@ title: Healing Grass (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Healing Grass** is found](#dungeons-healing-grass-is-found)
 - [Quests which reward **Healing Grass**](#quests-which-reward-healing-grass)
+
 ## Basic information
 
 |   |   |

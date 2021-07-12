@@ -9,6 +9,7 @@ title: Gigatoxin (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Gigatoxin**](#player-characters-who-can-equip-gigatoxin)
+
 ## Basic information
 
 |   |   |

@@ -8,8 +8,10 @@ title: Nurse Cap (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Stats](#stats)
+- [Monsters which drop **Nurse Cap**](#monsters-which-drop-nurse-cap)
 - [Dungeons **Nurse Cap** is found](#dungeons-nurse-cap-is-found)
 - [Player characters who can equip **Nurse Cap**](#player-characters-who-can-equip-nurse-cap)
+
 ## Basic information
 
 |   |   |
@@ -29,6 +31,13 @@ title: Nurse Cap (Item) - Hyperdimension Neptunia Re;Birth1
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 0 | 0 | 0 | 5 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+
+
+## Monsters which drop **Nurse Cap**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-12-395" class="trackbox" /> | 395 | [Additional Content Package 3](/neptunia/rb1/dlc/12-pack3.html) | [Death Girl](/neptunia/rb1/monster/12-395-death-girl.html) |
 
 
 ## Dungeons **Nurse Cap** is found

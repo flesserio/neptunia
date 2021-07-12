@@ -9,6 +9,7 @@ title: Angel Wings (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Angel Wings** in shop](#remake-system-plans-which-unlock-angel-wings-in-shop)
 - [Dungeons **Angel Wings** is found](#dungeons-angel-wings-is-found)
+
 ## Basic information
 
 |   |   |

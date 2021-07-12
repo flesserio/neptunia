@@ -10,6 +10,7 @@ title: Orange L (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Player characters who have **Orange L** equipped by default](#player-characters-who-have-orange-l-equipped-by-default)
 - [Player characters who can equip **Orange L**](#player-characters-who-can-equip-orange-l)
+
 ## Basic information
 
 |   |   |

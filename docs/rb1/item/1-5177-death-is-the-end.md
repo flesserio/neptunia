@@ -7,7 +7,9 @@ title: Death is The End (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Death is The End**](#monsters-which-drop-death-is-the-end)
 - [Dungeons **Death is The End** is found](#dungeons-death-is-the-end-is-found)
+
 ## Basic information
 
 |   |   |
@@ -22,6 +24,13 @@ title: Death is The End (Item) - Hyperdimension Neptunia Re;Birth1
 | **Max inventory** | 99 |
 | **Idea Chip level** | 5 |
 | **Idea Chip ability** | [Critical Defense + Lv.5](/neptunia/rb1/avatar/1-9676-critical-defense-lv-5.html)<br />Increases Critical Defense by 50% |
+
+
+## Monsters which drop **Death is The End**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-199" class="trackbox" /> | 199 | [Base](/neptunia/rb1/dlc/1-base.html) | [Cyber Whale](/neptunia/rb1/monster/1-199-cyber-whale.html) |
 
 
 ## Dungeons **Death is The End** is found

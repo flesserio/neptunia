@@ -9,6 +9,7 @@ title: Add Dungeon: Mechtro Factory (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Plans added to Remake System after collecting **Add Dungeon: Mechtro Factory**](#plans-added-to-remake-system-after-collecting-add-dungeon-mechtro-factory)
 - [Dungeons **Add Dungeon: Mechtro Factory** is found](#dungeons-add-dungeon-mechtro-factory-is-found)
+
 ## Basic information
 
 |   |   |

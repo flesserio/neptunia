@@ -9,6 +9,7 @@ title: Misanga (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Misanga**](#player-characters-who-can-equip-misanga)
+
 ## Basic information
 
 |   |   |

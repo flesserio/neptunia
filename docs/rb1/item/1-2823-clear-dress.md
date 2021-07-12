@@ -10,6 +10,7 @@ title: Clear Dress (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Player characters who have **Clear Dress** equipped by default](#player-characters-who-have-clear-dress-equipped-by-default)
 - [Player characters who can equip **Clear Dress**](#player-characters-who-can-equip-clear-dress)
+
 ## Basic information
 
 |   |   |

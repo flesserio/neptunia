@@ -8,6 +8,7 @@ title: Business Sim (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Dungeons **Business Sim** is found](#dungeons-business-sim-is-found)
+
 ## Basic information
 
 |   |   |

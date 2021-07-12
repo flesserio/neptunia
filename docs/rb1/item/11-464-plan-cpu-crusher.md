@@ -8,7 +8,9 @@ title: Plan: CPU Crusher (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Plans added to Remake System after collecting **Plan: CPU Crusher**](#plans-added-to-remake-system-after-collecting-plan-cpu-crusher)
+- [Monsters which drop **Plan: CPU Crusher**](#monsters-which-drop-plan-cpu-crusher)
 - [Dungeons **Plan: CPU Crusher** is found](#dungeons-plan-cpu-crusher-is-found)
+
 ## Basic information
 
 |   |   |
@@ -28,6 +30,13 @@ title: Plan: CPU Crusher (Item) - Hyperdimension Neptunia Re;Birth1
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
 | <input type="checkbox" id="rb1-remake-11-373" class="trackbox" /> | 373 | [Additional Content Package 2](/neptunia/rb1/dlc/11-pack2.html) | [CPU Crusher](/neptunia/rb1/remake/11-373-cpu-crusher.html)<br /> → [CPU Crusher](/neptunia/rb1/item/11-2099-cpu-crusher.html) (Hammer (Blanc)) |
+
+
+## Monsters which drop **Plan: CPU Crusher**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-11-366" class="trackbox" /> | 366 | [Additional Content Package 2](/neptunia/rb1/dlc/11-pack2.html) | [Clione](/neptunia/rb1/monster/11-366-clione.html) |
 
 
 ## Dungeons **Plan: CPU Crusher** is found

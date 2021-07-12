@@ -9,6 +9,7 @@ title: Amphetamine Qatar (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Amphetamine Qatar**](#player-characters-who-can-equip-amphetamine-qatar)
+
 ## Basic information
 
 |   |   |

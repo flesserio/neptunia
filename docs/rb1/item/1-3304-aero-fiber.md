@@ -9,6 +9,7 @@ title: Aero Fiber (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Aero Fiber** in shop](#remake-system-plans-which-unlock-aero-fiber-in-shop)
 - [Player characters who can equip **Aero Fiber**](#player-characters-who-can-equip-aero-fiber)
+
 ## Basic information
 
 |   |   |

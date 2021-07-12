@@ -9,6 +9,7 @@ title: Plan: Demon Blade Rain (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **Plan: Demon Blade Rain**](#chirpers-who-give-plan-demon-blade-rain)
 - [Plans added to Remake System after collecting **Plan: Demon Blade Rain**](#plans-added-to-remake-system-after-collecting-plan-demon-blade-rain)
+
 ## Basic information
 
 |   |   |

@@ -9,6 +9,7 @@ title: Plan: Anti-Poison Patch (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **Plan: Anti-Poison Patch**](#chirpers-who-give-plan-anti-poison-patch)
 - [Plans added to Remake System after collecting **Plan: Anti-Poison Patch**](#plans-added-to-remake-system-after-collecting-plan-anti-poison-patch)
+
 ## Basic information
 
 |   |   |

@@ -7,8 +7,10 @@ title: Generous Spirit (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Generous Spirit**](#monsters-which-drop-generous-spirit)
 - [Dungeons **Generous Spirit** is found](#dungeons-generous-spirit-is-found)
 - [Remake System plans which require **Generous Spirit**](#remake-system-plans-which-require-generous-spirit)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,13 @@ title: Generous Spirit (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 10000 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Generous Spirit**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-376" class="trackbox" /> | 376 | [Base](/neptunia/rb1/dlc/1-base.html) | [Clione](/neptunia/rb1/monster/1-376-clione.html) |
 
 
 ## Dungeons **Generous Spirit** is found

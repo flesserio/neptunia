@@ -7,8 +7,10 @@ title: Illegal RAM (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Illegal RAM**](#monsters-which-drop-illegal-ram)
 - [Dungeons **Illegal RAM** is found](#dungeons-illegal-ram-is-found)
 - [Remake System plans which require **Illegal RAM**](#remake-system-plans-which-require-illegal-ram)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,13 @@ title: Illegal RAM (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 134 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Illegal RAM**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-321" class="trackbox" /> | 321 | [Base](/neptunia/rb1/dlc/1-base.html) | [EDGE](/neptunia/rb1/monster/1-321-edge.html) |
 
 
 ## Dungeons **Illegal RAM** is found

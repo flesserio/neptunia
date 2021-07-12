@@ -9,6 +9,7 @@ title: Add Enemies: Fantasy Zone (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **Add Enemies: Fantasy Zone**](#chirpers-who-give-add-enemies-fantasy-zone)
 - [Plans added to Remake System after collecting **Add Enemies: Fantasy Zone**](#plans-added-to-remake-system-after-collecting-add-enemies-fantasy-zone)
+
 ## Basic information
 
 |   |   |

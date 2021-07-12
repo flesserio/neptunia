@@ -9,6 +9,7 @@ title: Plan: Truth Slayer (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Plans added to Remake System after collecting **Plan: Truth Slayer**](#plans-added-to-remake-system-after-collecting-plan-truth-slayer)
 - [Dungeons **Plan: Truth Slayer** is found](#dungeons-plan-truth-slayer-is-found)
+
 ## Basic information
 
 |   |   |

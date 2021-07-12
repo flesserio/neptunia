@@ -9,6 +9,7 @@ title: Plan: Excalibur (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Plans added to Remake System after collecting **Plan: Excalibur**](#plans-added-to-remake-system-after-collecting-plan-excalibur)
 - [Dungeons **Plan: Excalibur** is found](#dungeons-plan-excalibur-is-found)
+
 ## Basic information
 
 |   |   |

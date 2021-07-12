@@ -8,6 +8,7 @@ title: Mahjong (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Dungeons **Mahjong** is found](#dungeons-mahjong-is-found)
+
 ## Basic information
 
 |   |   |

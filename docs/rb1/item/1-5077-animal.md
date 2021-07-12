@@ -9,6 +9,7 @@ title: Animal (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Animal** is found](#dungeons-animal-is-found)
 - [Quests which reward **Animal**](#quests-which-reward-animal)
+
 ## Basic information
 
 |   |   |

@@ -7,8 +7,10 @@ title: Slippery Wing (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Slippery Wing**](#monsters-which-drop-slippery-wing)
 - [Dungeons **Slippery Wing** is found](#dungeons-slippery-wing-is-found)
 - [Remake System plans which require **Slippery Wing**](#remake-system-plans-which-require-slippery-wing)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,13 @@ title: Slippery Wing (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 146 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Slippery Wing**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-378" class="trackbox" /> | 378 | [Base](/neptunia/rb1/dlc/1-base.html) | [Penguin](/neptunia/rb1/monster/1-378-penguin.html) |
 
 
 ## Dungeons **Slippery Wing** is found

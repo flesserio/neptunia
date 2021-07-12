@@ -9,6 +9,7 @@ title: Princess Dress (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Player characters who have **Princess Dress** equipped by default](#player-characters-who-have-princess-dress-equipped-by-default)
 - [Player characters who can equip **Princess Dress**](#player-characters-who-can-equip-princess-dress)
+
 ## Basic information
 
 |   |   |

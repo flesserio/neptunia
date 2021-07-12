@@ -9,6 +9,7 @@ title: Leather Bracelet (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Leather Bracelet**](#player-characters-who-can-equip-leather-bracelet)
+
 ## Basic information
 
 |   |   |

@@ -10,6 +10,7 @@ title: Planeptune S (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Colosseum quests which reward **Planeptune S**](#colosseum-quests-which-reward-planeptune-s)
 - [Player characters who can equip **Planeptune S**](#player-characters-who-can-equip-planeptune-s)
+
 ## Basic information
 
 |   |   |

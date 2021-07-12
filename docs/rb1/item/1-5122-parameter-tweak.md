@@ -8,6 +8,7 @@ title: Parameter Tweak (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Dungeons **Parameter Tweak** is found](#dungeons-parameter-tweak-is-found)
+
 ## Basic information
 
 |   |   |

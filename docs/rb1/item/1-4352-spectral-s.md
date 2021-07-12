@@ -9,6 +9,7 @@ title: Spectral S (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Spectral S**](#player-characters-who-can-equip-spectral-s)
+
 ## Basic information
 
 |   |   |

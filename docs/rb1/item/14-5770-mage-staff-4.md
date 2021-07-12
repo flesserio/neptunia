@@ -9,6 +9,7 @@ title: Mage Staff+4 (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Mage Staff+4**](#player-characters-who-can-equip-mage-staff-4)
+
 ## Basic information
 
 |   |   |

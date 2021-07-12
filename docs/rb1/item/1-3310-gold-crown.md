@@ -9,6 +9,7 @@ title: Gold Crown (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Gold Crown** in shop](#remake-system-plans-which-unlock-gold-crown-in-shop)
 - [Player characters who can equip **Gold Crown**](#player-characters-who-can-equip-gold-crown)
+
 ## Basic information
 
 |   |   |

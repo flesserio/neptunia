@@ -7,7 +7,9 @@ title: Green Heart PVC (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Green Heart PVC**](#monsters-which-drop-green-heart-pvc)
 - [Dungeons **Green Heart PVC** is found](#dungeons-green-heart-pvc-is-found)
+
 ## Basic information
 
 |   |   |
@@ -20,6 +22,13 @@ title: Green Heart PVC (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 0 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Green Heart PVC**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-11-410" class="trackbox" /> | 410 | [Additional Content Package 2](/neptunia/rb1/dlc/11-pack2.html) | [Hyper Gebachu](/neptunia/rb1/monster/11-410-hyper-gebachu.html) |
 
 
 ## Dungeons **Green Heart PVC** is found

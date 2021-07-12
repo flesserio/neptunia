@@ -9,6 +9,7 @@ title: Add Enemies: Gheytz Forest (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **Add Enemies: Gheytz Forest**](#chirpers-who-give-add-enemies-gheytz-forest)
 - [Plans added to Remake System after collecting **Add Enemies: Gheytz Forest**](#plans-added-to-remake-system-after-collecting-add-enemies-gheytz-forest)
+
 ## Basic information
 
 |   |   |

@@ -8,6 +8,7 @@ title: Middle School (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Dungeons **Middle School** is found](#dungeons-middle-school-is-found)
+
 ## Basic information
 
 |   |   |

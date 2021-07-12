@@ -10,6 +10,7 @@ title: Gae Bolg (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Remake System plans which unlock **Gae Bolg** in shop](#remake-system-plans-which-unlock-gae-bolg-in-shop)
 - [Player characters who can equip **Gae Bolg**](#player-characters-who-can-equip-gae-bolg)
+
 ## Basic information
 
 |   |   |

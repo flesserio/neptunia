@@ -9,6 +9,7 @@ title: Simple Headdress (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Simple Headdress** in shop](#remake-system-plans-which-unlock-simple-headdress-in-shop)
 - [Player characters who can equip **Simple Headdress**](#player-characters-who-can-equip-simple-headdress)
+
 ## Basic information
 
 |   |   |

@@ -7,9 +7,11 @@ title: White Cat Ears (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **White Cat Ears**](#monsters-which-drop-white-cat-ears)
 - [Dungeons **White Cat Ears** is found](#dungeons-white-cat-ears-is-found)
 - [Remake System plans which require **White Cat Ears**](#remake-system-plans-which-require-white-cat-ears)
 - [Player characters who can equip **White Cat Ears**](#player-characters-who-can-equip-white-cat-ears)
+
 ## Basic information
 
 |   |   |
@@ -22,6 +24,14 @@ title: White Cat Ears (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 1000 |
 | **Sell Price** | 500 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **White Cat Ears**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-156" class="trackbox" /> | 156 | [Base](/neptunia/rb1/dlc/1-base.html) | [Swallowtail](/neptunia/rb1/monster/1-156-swallowtail.html) |
+| <input type="checkbox" id="rb1-monster-1-157" class="trackbox" /> | 157 | [Base](/neptunia/rb1/dlc/1-base.html) | [Viral Swallowtail](/neptunia/rb1/monster/1-157-viral-swallowtail.html) |
 
 
 ## Dungeons **White Cat Ears** is found

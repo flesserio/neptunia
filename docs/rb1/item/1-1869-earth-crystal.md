@@ -7,9 +7,11 @@ title: Earth Crystal (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Earth Crystal**](#monsters-which-drop-earth-crystal)
 - [Dungeons **Earth Crystal** is found](#dungeons-earth-crystal-is-found)
 - [Quests which require gathering **Earth Crystal**](#quests-which-require-gathering-earth-crystal)
 - [Remake System plans which require **Earth Crystal**](#remake-system-plans-which-require-earth-crystal)
+
 ## Basic information
 
 |   |   |
@@ -22,6 +24,14 @@ title: Earth Crystal (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 72 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Earth Crystal**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-269" class="trackbox" /> | 269 | [Base](/neptunia/rb1/dlc/1-base.html) | [Earth Golem](/neptunia/rb1/monster/1-269-earth-golem.html) |
+| <input type="checkbox" id="rb1-monster-1-270" class="trackbox" /> | 270 | [Base](/neptunia/rb1/dlc/1-base.html) | [Viral Earth Golem](/neptunia/rb1/monster/1-270-viral-earth-golem.html) |
 
 
 ## Dungeons **Earth Crystal** is found

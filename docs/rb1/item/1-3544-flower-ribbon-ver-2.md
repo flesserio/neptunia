@@ -8,8 +8,10 @@ title: Flower Ribbon Ver-2 (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Stats](#stats)
+- [Monsters which drop **Flower Ribbon Ver-2**](#monsters-which-drop-flower-ribbon-ver-2)
 - [Dungeons **Flower Ribbon Ver-2** is found](#dungeons-flower-ribbon-ver-2-is-found)
 - [Player characters who can equip **Flower Ribbon Ver-2**](#player-characters-who-can-equip-flower-ribbon-ver-2)
+
 ## Basic information
 
 |   |   |
@@ -29,6 +31,13 @@ title: Flower Ribbon Ver-2 (Item) - Hyperdimension Neptunia Re;Birth1
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 5 | 0 | 0 | 0 | 0 | 0 |
+
+
+## Monsters which drop **Flower Ribbon Ver-2**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-138" class="trackbox" /> | 138 | [Base](/neptunia/rb1/dlc/1-base.html) | [Apeldoom](/neptunia/rb1/monster/1-138-apeldoom.html) |
 
 
 ## Dungeons **Flower Ribbon Ver-2** is found

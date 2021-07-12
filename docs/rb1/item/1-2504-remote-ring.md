@@ -10,6 +10,7 @@ title: Remote Ring (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Player characters who have **Remote Ring** equipped by default](#player-characters-who-have-remote-ring-equipped-by-default)
 - [Player characters who can equip **Remote Ring**](#player-characters-who-can-equip-remote-ring)
+
 ## Basic information
 
 |   |   |

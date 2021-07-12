@@ -7,9 +7,11 @@ title: Large Beak (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Large Beak**](#monsters-which-drop-large-beak)
 - [Dungeons **Large Beak** is found](#dungeons-large-beak-is-found)
 - [Quests which require gathering **Large Beak**](#quests-which-require-gathering-large-beak)
 - [Remake System plans which require **Large Beak**](#remake-system-plans-which-require-large-beak)
+
 ## Basic information
 
 |   |   |
@@ -22,6 +24,14 @@ title: Large Beak (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 16 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Large Beak**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-115" class="trackbox" /> | 115 | [Base](/neptunia/rb1/dlc/1-base.html) | [Shoebill](/neptunia/rb1/monster/1-115-shoebill.html) |
+| <input type="checkbox" id="rb1-monster-1-116" class="trackbox" /> | 116 | [Base](/neptunia/rb1/dlc/1-base.html) | [Viral Shoebill](/neptunia/rb1/monster/1-116-viral-shoebill.html) |
 
 
 ## Dungeons **Large Beak** is found

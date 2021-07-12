@@ -8,6 +8,7 @@ title: Strategic Smarts (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Dungeons **Strategic Smarts** is found](#dungeons-strategic-smarts-is-found)
+
 ## Basic information
 
 |   |   |

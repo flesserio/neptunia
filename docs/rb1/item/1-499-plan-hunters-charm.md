@@ -7,6 +7,7 @@ title: Plan: Hunter's Charm (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+
 ## Basic information
 
 |   |   |

@@ -9,6 +9,7 @@ title: Killer Aim (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Killer Aim** is found](#dungeons-killer-aim-is-found)
 - [Colosseum quests which reward **Killer Aim**](#colosseum-quests-which-reward-killer-aim)
+
 ## Basic information
 
 |   |   |

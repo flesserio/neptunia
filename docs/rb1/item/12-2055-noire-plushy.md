@@ -10,6 +10,7 @@ title: Noire Plushy (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Colosseum quests which reward **Noire Plushy**](#colosseum-quests-which-reward-noire-plushy)
 - [Player characters who can equip **Noire Plushy**](#player-characters-who-can-equip-noire-plushy)
+
 ## Basic information
 
 |   |   |

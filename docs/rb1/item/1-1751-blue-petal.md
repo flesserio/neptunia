@@ -9,6 +9,7 @@ title: Blue Petal (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Blue Petal** is found](#dungeons-blue-petal-is-found)
 - [Remake System plans which require **Blue Petal**](#remake-system-plans-which-require-blue-petal)
+
 ## Basic information
 
 |   |   |

@@ -9,6 +9,7 @@ title: Plan: Brisk Qatar (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Plans added to Remake System after collecting **Plan: Brisk Qatar**](#plans-added-to-remake-system-after-collecting-plan-brisk-qatar)
 - [Dungeons **Plan: Brisk Qatar** is found](#dungeons-plan-brisk-qatar-is-found)
+
 ## Basic information
 
 |   |   |

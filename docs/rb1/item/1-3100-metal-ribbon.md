@@ -9,6 +9,7 @@ title: Metal Ribbon (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Metal Ribbon**](#player-characters-who-can-equip-metal-ribbon)
+
 ## Basic information
 
 |   |   |

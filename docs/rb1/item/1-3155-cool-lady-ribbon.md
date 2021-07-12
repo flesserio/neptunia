@@ -8,7 +8,9 @@ title: Cool Lady Ribbon (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Stats](#stats)
+- [Monsters which drop **Cool Lady Ribbon**](#monsters-which-drop-cool-lady-ribbon)
 - [Player characters who can equip **Cool Lady Ribbon**](#player-characters-who-can-equip-cool-lady-ribbon)
+
 ## Basic information
 
 |   |   |
@@ -28,6 +30,13 @@ title: Cool Lady Ribbon (Item) - Hyperdimension Neptunia Re;Birth1
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 0 | 15 | 0 | 0 | 0 | 0 | 15 | 0 | 0 | 0 | 0 |
+
+
+## Monsters which drop **Cool Lady Ribbon**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-1049" class="trackbox" /> | 1049 | [Base](/neptunia/rb1/dlc/1-base.html) | [Fake Black Heart](/neptunia/rb1/monster/1-1049-fake-black-heart.html) |
 
 
 ## Player characters who can equip **Cool Lady Ribbon**

@@ -9,6 +9,7 @@ title: Plan: Hades Bangle (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Plans added to Remake System after collecting **Plan: Hades Bangle**](#plans-added-to-remake-system-after-collecting-plan-hades-bangle)
 - [Dungeons **Plan: Hades Bangle** is found](#dungeons-plan-hades-bangle-is-found)
+
 ## Basic information
 
 |   |   |

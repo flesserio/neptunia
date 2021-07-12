@@ -8,6 +8,7 @@ title: Scrap Card (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Colosseum quests which reward **Scrap Card**](#colosseum-quests-which-reward-scrap-card)
+
 ## Basic information
 
 |   |   |

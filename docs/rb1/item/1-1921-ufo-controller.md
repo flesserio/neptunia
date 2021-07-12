@@ -7,8 +7,10 @@ title: UFO Controller (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **UFO Controller**](#monsters-which-drop-ufo-controller)
 - [Dungeons **UFO Controller** is found](#dungeons-ufo-controller-is-found)
 - [Remake System plans which require **UFO Controller**](#remake-system-plans-which-require-ufo-controller)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,13 @@ title: UFO Controller (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 2771 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **UFO Controller**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-219" class="trackbox" /> | 219 | [Base](/neptunia/rb1/dlc/1-base.html) | [Invader](/neptunia/rb1/monster/1-219-invader.html) |
 
 
 ## Dungeons **UFO Controller** is found

@@ -9,6 +9,7 @@ title: D-Ace Lite L (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **D-Ace Lite L**](#player-characters-who-can-equip-d-ace-lite-l)
+
 ## Basic information
 
 |   |   |

@@ -10,6 +10,7 @@ title: Planeptune Ring (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Player characters who have **Planeptune Ring** equipped by default](#player-characters-who-have-planeptune-ring-equipped-by-default)
 - [Player characters who can equip **Planeptune Ring**](#player-characters-who-can-equip-planeptune-ring)
+
 ## Basic information
 
 |   |   |

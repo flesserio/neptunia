@@ -9,6 +9,7 @@ title: Radish Ribbon (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Radish Ribbon** in shop](#remake-system-plans-which-unlock-radish-ribbon-in-shop)
 - [Player characters who can equip **Radish Ribbon**](#player-characters-who-can-equip-radish-ribbon)
+
 ## Basic information
 
 |   |   |

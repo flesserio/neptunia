@@ -7,9 +7,11 @@ title: Pachimon Circuit (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Pachimon Circuit**](#monsters-which-drop-pachimon-circuit)
 - [Dungeons **Pachimon Circuit** is found](#dungeons-pachimon-circuit-is-found)
 - [Quests which require gathering **Pachimon Circuit**](#quests-which-require-gathering-pachimon-circuit)
 - [Remake System plans which require **Pachimon Circuit**](#remake-system-plans-which-require-pachimon-circuit)
+
 ## Basic information
 
 |   |   |
@@ -22,6 +24,13 @@ title: Pachimon Circuit (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 3439 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Pachimon Circuit**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-384" class="trackbox" /> | 384 | [Base](/neptunia/rb1/dlc/1-base.html) | [Killachine](/neptunia/rb1/monster/1-384-killachine.html) |
 
 
 ## Dungeons **Pachimon Circuit** is found

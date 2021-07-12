@@ -10,6 +10,7 @@ title: Milfeulle (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Colosseum quests which reward **Milfeulle**](#colosseum-quests-which-reward-milfeulle)
 - [Player characters who can equip **Milfeulle**](#player-characters-who-can-equip-milfeulle)
+
 ## Basic information
 
 |   |   |

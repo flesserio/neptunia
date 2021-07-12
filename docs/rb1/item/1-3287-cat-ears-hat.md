@@ -10,6 +10,7 @@ title: Cat Ears Hat (Item) - Hyperdimension Neptunia Re;Birth1
 - [Remake System plans which unlock **Cat Ears Hat** in shop](#remake-system-plans-which-unlock-cat-ears-hat-in-shop)
 - [Remake System plans which require **Cat Ears Hat**](#remake-system-plans-which-require-cat-ears-hat)
 - [Player characters who can equip **Cat Ears Hat**](#player-characters-who-can-equip-cat-ears-hat)
+
 ## Basic information
 
 |   |   |

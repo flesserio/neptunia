@@ -9,6 +9,7 @@ title: Rosy Bunny (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which require **Rosy Bunny**](#remake-system-plans-which-require-rosy-bunny)
 - [Player characters who can equip **Rosy Bunny**](#player-characters-who-can-equip-rosy-bunny)
+
 ## Basic information
 
 |   |   |

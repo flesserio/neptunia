@@ -8,6 +8,7 @@ title: Eyepatch Nurse (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Player characters who can equip **Eyepatch Nurse**](#player-characters-who-can-equip-eyepatch-nurse)
+
 ## Basic information
 
 |   |   |

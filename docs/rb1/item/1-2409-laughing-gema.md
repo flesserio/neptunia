@@ -10,6 +10,7 @@ title: Laughing Gema (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Colosseum quests which reward **Laughing Gema**](#colosseum-quests-which-reward-laughing-gema)
 - [Player characters who can equip **Laughing Gema**](#player-characters-who-can-equip-laughing-gema)
+
 ## Basic information
 
 |   |   |

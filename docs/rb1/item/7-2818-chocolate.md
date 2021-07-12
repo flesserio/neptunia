@@ -9,6 +9,7 @@ title: Chocolate (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which require **Chocolate**](#remake-system-plans-which-require-chocolate)
 - [Player characters who can equip **Chocolate**](#player-characters-who-can-equip-chocolate)
+
 ## Basic information
 
 |   |   |

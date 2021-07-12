@@ -9,6 +9,7 @@ title: Jet Ribbon (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Jet Ribbon** in shop](#remake-system-plans-which-unlock-jet-ribbon-in-shop)
 - [Player characters who can equip **Jet Ribbon**](#player-characters-who-can-equip-jet-ribbon)
+
 ## Basic information
 
 |   |   |

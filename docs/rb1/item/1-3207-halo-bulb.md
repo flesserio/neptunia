@@ -9,6 +9,7 @@ title: Halo Bulb (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which require **Halo Bulb**](#remake-system-plans-which-require-halo-bulb)
 - [Player characters who can equip **Halo Bulb**](#player-characters-who-can-equip-halo-bulb)
+
 ## Basic information
 
 |   |   |

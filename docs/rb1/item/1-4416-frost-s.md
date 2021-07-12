@@ -8,8 +8,10 @@ title: Frost S (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Stats](#stats)
+- [Monsters which drop **Frost S**](#monsters-which-drop-frost-s)
 - [Dungeons **Frost S** is found](#dungeons-frost-s-is-found)
 - [Player characters who can equip **Frost S**](#player-characters-who-can-equip-frost-s)
+
 ## Basic information
 
 |   |   |
@@ -29,6 +31,13 @@ title: Frost S (Item) - Hyperdimension Neptunia Re;Birth1
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 0 | -10 | -10 | 0 | 30 | 15 | 45 | -7 | 15 | 0 | 0 |
+
+
+## Monsters which drop **Frost S**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-140" class="trackbox" /> | 140 | [Base](/neptunia/rb1/dlc/1-base.html) | [Dolphin](/neptunia/rb1/monster/1-140-dolphin.html) |
 
 
 ## Dungeons **Frost S** is found

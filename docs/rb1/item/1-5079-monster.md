@@ -7,7 +7,9 @@ title: Monster (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Monster**](#monsters-which-drop-monster)
 - [Dungeons **Monster** is found](#dungeons-monster-is-found)
+
 ## Basic information
 
 |   |   |
@@ -22,6 +24,13 @@ title: Monster (Item) - Hyperdimension Neptunia Re;Birth1
 | **Max inventory** | 99 |
 | **Idea Chip level** | 3 |
 | **Idea Chip ability** | [Aquatic Defense Lv.3](/neptunia/rb1/avatar/1-9578-aquatic-defense-lv-3.html)<br />Increases Aquatic Defense by 20% |
+
+
+## Monsters which drop **Monster**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-167" class="trackbox" /> | 167 | [Base](/neptunia/rb1/dlc/1-base.html) | [Ice Whale](/neptunia/rb1/monster/1-167-ice-whale.html) |
 
 
 ## Dungeons **Monster** is found

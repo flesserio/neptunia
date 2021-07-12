@@ -9,6 +9,7 @@ title: Change Items: Naasne Volcano (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **Change Items: Naasne Volcano**](#chirpers-who-give-change-items-naasne-volcano)
 - [Plans added to Remake System after collecting **Change Items: Naasne Volcano**](#plans-added-to-remake-system-after-collecting-change-items-naasne-volcano)
+
 ## Basic information
 
 |   |   |

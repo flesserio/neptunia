@@ -7,8 +7,10 @@ title: Hunting (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Hunting**](#monsters-which-drop-hunting)
 - [Dungeons **Hunting** is found](#dungeons-hunting-is-found)
 - [Quests which reward **Hunting**](#quests-which-reward-hunting)
+
 ## Basic information
 
 |   |   |
@@ -23,6 +25,13 @@ title: Hunting (Item) - Hyperdimension Neptunia Re;Birth1
 | **Max inventory** | 99 |
 | **Idea Chip level** | 5 |
 | **Idea Chip ability** | [Add Paralysis Lv.5](/neptunia/rb1/avatar/1-9549-add-paralysis-lv-5.html)<br />Increases Add Paralysis by 20% |
+
+
+## Monsters which drop **Hunting**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-375" class="trackbox" /> | 375 | [Base](/neptunia/rb1/dlc/1-base.html) | [Sirius](/neptunia/rb1/monster/1-375-sirius.html) |
 
 
 ## Dungeons **Hunting** is found

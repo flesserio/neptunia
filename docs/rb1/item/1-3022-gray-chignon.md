@@ -9,6 +9,7 @@ title: Gray Chignon (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Gray Chignon** in shop](#remake-system-plans-which-unlock-gray-chignon-in-shop)
 - [Player characters who can equip **Gray Chignon**](#player-characters-who-can-equip-gray-chignon)
+
 ## Basic information
 
 |   |   |

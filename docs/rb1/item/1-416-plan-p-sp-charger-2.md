@@ -9,6 +9,7 @@ title: Plan: P. SP Charger 2 (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Plans added to Remake System after collecting **Plan: P. SP Charger 2**](#plans-added-to-remake-system-after-collecting-plan-p-sp-charger-2)
 - [Dungeons **Plan: P. SP Charger 2** is found](#dungeons-plan-p-sp-charger-2-is-found)
+
 ## Basic information
 
 |   |   |

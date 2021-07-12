@@ -7,9 +7,11 @@ title: Crystal Skull (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Crystal Skull**](#monsters-which-drop-crystal-skull)
 - [Dungeons **Crystal Skull** is found](#dungeons-crystal-skull-is-found)
 - [Quests which require gathering **Crystal Skull**](#quests-which-require-gathering-crystal-skull)
 - [Remake System plans which require **Crystal Skull**](#remake-system-plans-which-require-crystal-skull)
+
 ## Basic information
 
 |   |   |
@@ -22,6 +24,14 @@ title: Crystal Skull (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 21 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Crystal Skull**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-277" class="trackbox" /> | 277 | [Base](/neptunia/rb1/dlc/1-base.html) | [Crystal Golem](/neptunia/rb1/monster/1-277-crystal-golem.html) |
+| <input type="checkbox" id="rb1-monster-1-278" class="trackbox" /> | 278 | [Base](/neptunia/rb1/dlc/1-base.html) | [Viral Crystal Golem](/neptunia/rb1/monster/1-278-viral-crystal-golem.html) |
 
 
 ## Dungeons **Crystal Skull** is found

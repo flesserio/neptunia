@@ -7,8 +7,10 @@ title: Pretty 3D CG (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Pretty 3D CG**](#monsters-which-drop-pretty-3d-cg)
 - [Dungeons **Pretty 3D CG** is found](#dungeons-pretty-3d-cg-is-found)
 - [Colosseum quests which reward **Pretty 3D CG**](#colosseum-quests-which-reward-pretty-3d-cg)
+
 ## Basic information
 
 |   |   |
@@ -23,6 +25,13 @@ title: Pretty 3D CG (Item) - Hyperdimension Neptunia Re;Birth1
 | **Max inventory** | 99 |
 | **Idea Chip level** | 5 |
 | **Idea Chip ability** | [Dogoo Defense Lv.5](/neptunia/rb1/avatar/1-9585-dogoo-defense-lv-5.html)<br />Increases Dogoo Defense by 30% |
+
+
+## Monsters which drop **Pretty 3D CG**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-392" class="trackbox" /> | 392 | [Base](/neptunia/rb1/dlc/1-base.html) | [Dreadnaught Dogoo](/neptunia/rb1/monster/1-392-dreadnaught-dogoo.html) |
 
 
 ## Dungeons **Pretty 3D CG** is found

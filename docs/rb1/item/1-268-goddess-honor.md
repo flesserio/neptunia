@@ -8,6 +8,7 @@ title: Goddess Honor (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Quests which reward **Goddess Honor**](#quests-which-reward-goddess-honor)
+
 ## Basic information
 
 |   |   |

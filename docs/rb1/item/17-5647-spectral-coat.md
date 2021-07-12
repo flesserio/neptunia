@@ -9,6 +9,7 @@ title: Spectral Coat (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Player characters who have **Spectral Coat** equipped by default](#player-characters-who-have-spectral-coat-equipped-by-default)
 - [Player characters who can equip **Spectral Coat**](#player-characters-who-can-equip-spectral-coat)
+
 ## Basic information
 
 |   |   |

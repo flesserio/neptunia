@@ -9,6 +9,7 @@ title: Tunnel Armor (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Tunnel Armor** in shop](#remake-system-plans-which-unlock-tunnel-armor-in-shop)
 - [Player characters who can equip **Tunnel Armor**](#player-characters-who-can-equip-tunnel-armor)
+
 ## Basic information
 
 |   |   |

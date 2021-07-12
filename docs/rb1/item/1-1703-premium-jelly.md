@@ -7,9 +7,11 @@ title: Premium Jelly (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Premium Jelly**](#monsters-which-drop-premium-jelly)
 - [Dungeons **Premium Jelly** is found](#dungeons-premium-jelly-is-found)
 - [Quests which require gathering **Premium Jelly**](#quests-which-require-gathering-premium-jelly)
 - [Remake System plans which require **Premium Jelly**](#remake-system-plans-which-require-premium-jelly)
+
 ## Basic information
 
 |   |   |
@@ -22,6 +24,13 @@ title: Premium Jelly (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 153 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Premium Jelly**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-119" class="trackbox" /> | 119 | [Base](/neptunia/rb1/dlc/1-base.html) | [Huge Dogoo](/neptunia/rb1/monster/1-119-huge-dogoo.html) |
 
 
 ## Dungeons **Premium Jelly** is found

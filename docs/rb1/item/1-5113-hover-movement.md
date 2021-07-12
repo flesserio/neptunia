@@ -8,6 +8,7 @@ title: Hover Movement (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Dungeons **Hover Movement** is found](#dungeons-hover-movement-is-found)
+
 ## Basic information
 
 |   |   |

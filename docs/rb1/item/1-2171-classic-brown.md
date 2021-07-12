@@ -9,6 +9,7 @@ title: Classic Brown (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Classic Brown**](#player-characters-who-can-equip-classic-brown)
+
 ## Basic information
 
 |   |   |

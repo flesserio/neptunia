@@ -9,6 +9,7 @@ title: Rose Devil (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Rose Devil** in shop](#remake-system-plans-which-unlock-rose-devil-in-shop)
 - [Player characters who can equip **Rose Devil**](#player-characters-who-can-equip-rose-devil)
+
 ## Basic information
 
 |   |   |

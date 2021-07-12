@@ -10,6 +10,7 @@ title: Megatoxin (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Dungeons **Megatoxin** is found](#dungeons-megatoxin-is-found)
 - [Player characters who can equip **Megatoxin**](#player-characters-who-can-equip-megatoxin)
+
 ## Basic information
 
 |   |   |

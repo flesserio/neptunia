@@ -7,8 +7,10 @@ title: Crab Shell (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Crab Shell**](#monsters-which-drop-crab-shell)
 - [Dungeons **Crab Shell** is found](#dungeons-crab-shell-is-found)
 - [Remake System plans which require **Crab Shell**](#remake-system-plans-which-require-crab-shell)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,13 @@ title: Crab Shell (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 1890 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Crab Shell**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-282" class="trackbox" /> | 282 | [Base](/neptunia/rb1/dlc/1-base.html) | [Forest Crab](/neptunia/rb1/monster/1-282-forest-crab.html) |
 
 
 ## Dungeons **Crab Shell** is found

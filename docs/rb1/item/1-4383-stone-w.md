@@ -8,7 +8,9 @@ title: Stone W (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Stats](#stats)
+- [Monsters which drop **Stone W**](#monsters-which-drop-stone-w)
 - [Player characters who can equip **Stone W**](#player-characters-who-can-equip-stone-w)
+
 ## Basic information
 
 |   |   |
@@ -28,6 +30,13 @@ title: Stone W (Item) - Hyperdimension Neptunia Re;Birth1
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | -15 | 65 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 20 |
+
+
+## Monsters which drop **Stone W**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-1035" class="trackbox" /> | 1035 | [Base](/neptunia/rb1/dlc/1-base.html) | [Skill Jammer Pod](/neptunia/rb1/monster/1-1035-skill-jammer-pod.html) |
 
 
 ## Player characters who can equip **Stone W**

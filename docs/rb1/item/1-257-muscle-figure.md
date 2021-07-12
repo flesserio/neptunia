@@ -8,6 +8,7 @@ title: Muscle Figure (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Colosseum quests which reward **Muscle Figure**](#colosseum-quests-which-reward-muscle-figure)
+
 ## Basic information
 
 |   |   |

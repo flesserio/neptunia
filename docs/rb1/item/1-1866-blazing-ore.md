@@ -7,9 +7,11 @@ title: Blazing Ore (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Blazing Ore**](#monsters-which-drop-blazing-ore)
 - [Dungeons **Blazing Ore** is found](#dungeons-blazing-ore-is-found)
 - [Quests which require gathering **Blazing Ore**](#quests-which-require-gathering-blazing-ore)
 - [Remake System plans which require **Blazing Ore**](#remake-system-plans-which-require-blazing-ore)
+
 ## Basic information
 
 |   |   |
@@ -22,6 +24,13 @@ title: Blazing Ore (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 211 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Blazing Ore**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-204" class="trackbox" /> | 204 | [Base](/neptunia/rb1/dlc/1-base.html) | [Volcano Crab](/neptunia/rb1/monster/1-204-volcano-crab.html) |
 
 
 ## Dungeons **Blazing Ore** is found

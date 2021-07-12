@@ -8,7 +8,9 @@ title: Stone H (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Stats](#stats)
+- [Monsters which drop **Stone H**](#monsters-which-drop-stone-h)
 - [Player characters who can equip **Stone H**](#player-characters-who-can-equip-stone-h)
+
 ## Basic information
 
 |   |   |
@@ -28,6 +30,13 @@ title: Stone H (Item) - Hyperdimension Neptunia Re;Birth1
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | -15 | 30 | 25 | 35 | 0 | 0 | 0 | 0 | 0 | 0 | 20 |
+
+
+## Monsters which drop **Stone H**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-1034" class="trackbox" /> | 1034 | [Base](/neptunia/rb1/dlc/1-base.html) | [Item Jammer Pod](/neptunia/rb1/monster/1-1034-item-jammer-pod.html) |
 
 
 ## Player characters who can equip **Stone H**

@@ -9,6 +9,7 @@ title: Sakura Ribbon (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Sakura Ribbon** in shop](#remake-system-plans-which-unlock-sakura-ribbon-in-shop)
 - [Player characters who can equip **Sakura Ribbon**](#player-characters-who-can-equip-sakura-ribbon)
+
 ## Basic information
 
 |   |   |

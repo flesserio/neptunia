@@ -9,6 +9,7 @@ title: Future Ribbon (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Future Ribbon** in shop](#remake-system-plans-which-unlock-future-ribbon-in-shop)
 - [Player characters who can equip **Future Ribbon**](#player-characters-who-can-equip-future-ribbon)
+
 ## Basic information
 
 |   |   |

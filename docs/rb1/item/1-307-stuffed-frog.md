@@ -8,6 +8,7 @@ title: Stuffed Frog? (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Quests which reward **Stuffed Frog?**](#quests-which-reward-stuffed-frog)
+
 ## Basic information
 
 |   |   |

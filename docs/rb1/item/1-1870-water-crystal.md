@@ -7,8 +7,10 @@ title: Water Crystal (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Water Crystal**](#monsters-which-drop-water-crystal)
 - [Dungeons **Water Crystal** is found](#dungeons-water-crystal-is-found)
 - [Remake System plans which require **Water Crystal**](#remake-system-plans-which-require-water-crystal)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,14 @@ title: Water Crystal (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 452 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Water Crystal**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-381" class="trackbox" /> | 381 | [Base](/neptunia/rb1/dlc/1-base.html) | [Snow Golem](/neptunia/rb1/monster/1-381-snow-golem.html) |
+| <input type="checkbox" id="rb1-monster-1-382" class="trackbox" /> | 382 | [Base](/neptunia/rb1/dlc/1-base.html) | [Viral Snow Golem](/neptunia/rb1/monster/1-382-viral-snow-golem.html) |
 
 
 ## Dungeons **Water Crystal** is found

@@ -9,6 +9,7 @@ title: Breastplate (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Player characters who have **Breastplate** equipped by default](#player-characters-who-have-breastplate-equipped-by-default)
 - [Player characters who can equip **Breastplate**](#player-characters-who-can-equip-breastplate)
+
 ## Basic information
 
 |   |   |

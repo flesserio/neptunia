@@ -9,6 +9,7 @@ title: Plan: Elysdeon (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Plans added to Remake System after collecting **Plan: Elysdeon**](#plans-added-to-remake-system-after-collecting-plan-elysdeon)
 - [Dungeons **Plan: Elysdeon** is found](#dungeons-plan-elysdeon-is-found)
+
 ## Basic information
 
 |   |   |

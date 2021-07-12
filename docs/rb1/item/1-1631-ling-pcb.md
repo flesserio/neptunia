@@ -9,6 +9,7 @@ title: LING PCB (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **LING PCB** is found](#dungeons-ling-pcb-is-found)
 - [Remake System plans which require **LING PCB**](#remake-system-plans-which-require-ling-pcb)
+
 ## Basic information
 
 |   |   |

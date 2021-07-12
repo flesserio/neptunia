@@ -10,6 +10,7 @@ title: Purple Pigment (Item) - Hyperdimension Neptunia Re;Birth1
 - [Remake System plans which unlock **Purple Pigment** in shop](#remake-system-plans-which-unlock-purple-pigment-in-shop)
 - [Dungeons **Purple Pigment** is found](#dungeons-purple-pigment-is-found)
 - [Remake System plans which require **Purple Pigment**](#remake-system-plans-which-require-purple-pigment)
+
 ## Basic information
 
 |   |   |

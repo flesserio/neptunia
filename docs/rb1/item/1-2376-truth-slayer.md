@@ -10,6 +10,7 @@ title: Truth Slayer (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Remake System plans which unlock **Truth Slayer** in shop](#remake-system-plans-which-unlock-truth-slayer-in-shop)
 - [Player characters who can equip **Truth Slayer**](#player-characters-who-can-equip-truth-slayer)
+
 ## Basic information
 
 |   |   |

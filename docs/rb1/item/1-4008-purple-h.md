@@ -10,6 +10,7 @@ title: Purple H (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Player characters who have **Purple H** equipped by default](#player-characters-who-have-purple-h-equipped-by-default)
 - [Player characters who can equip **Purple H**](#player-characters-who-can-equip-purple-h)
+
 ## Basic information
 
 |   |   |

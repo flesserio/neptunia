@@ -7,7 +7,9 @@ title: Large Medal V (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Large Medal V**](#monsters-which-drop-large-medal-v)
 - [Dungeons **Large Medal V** is found](#dungeons-large-medal-v-is-found)
+
 ## Basic information
 
 |   |   |
@@ -20,6 +22,13 @@ title: Large Medal V (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 0 |
 | **Max inventory** | 1 |
+
+
+## Monsters which drop **Large Medal V**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-327" class="trackbox" /> | 327 | [Base](/neptunia/rb1/dlc/1-base.html) | [Clione](/neptunia/rb1/monster/1-327-clione.html) |
 
 
 ## Dungeons **Large Medal V** is found

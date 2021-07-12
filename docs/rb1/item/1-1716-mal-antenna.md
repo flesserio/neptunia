@@ -7,8 +7,10 @@ title: Mal Antenna (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Mal Antenna**](#monsters-which-drop-mal-antenna)
 - [Dungeons **Mal Antenna** is found](#dungeons-mal-antenna-is-found)
 - [Remake System plans which require **Mal Antenna**](#remake-system-plans-which-require-mal-antenna)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,13 @@ title: Mal Antenna (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 11 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Mal Antenna**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-127" class="trackbox" /> | 127 | [Base](/neptunia/rb1/dlc/1-base.html) | [Poxvader](/neptunia/rb1/monster/1-127-poxvader.html) |
 
 
 ## Dungeons **Mal Antenna** is found

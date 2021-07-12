@@ -9,6 +9,7 @@ title: Plan: Time Rod (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **Plan: Time Rod**](#chirpers-who-give-plan-time-rod)
 - [Plans added to Remake System after collecting **Plan: Time Rod**](#plans-added-to-remake-system-after-collecting-plan-time-rod)
+
 ## Basic information
 
 |   |   |

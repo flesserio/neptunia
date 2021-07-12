@@ -7,9 +7,11 @@ title: Metal Jelly (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Metal Jelly**](#monsters-which-drop-metal-jelly)
 - [Dungeons **Metal Jelly** is found](#dungeons-metal-jelly-is-found)
 - [Quests which require gathering **Metal Jelly**](#quests-which-require-gathering-metal-jelly)
 - [Remake System plans which require **Metal Jelly**](#remake-system-plans-which-require-metal-jelly)
+
 ## Basic information
 
 |   |   |
@@ -22,6 +24,13 @@ title: Metal Jelly (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 235 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Metal Jelly**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-143" class="trackbox" /> | 143 | [Base](/neptunia/rb1/dlc/1-base.html) | [Metal Dogoo](/neptunia/rb1/monster/1-143-metal-dogoo.html) |
 
 
 ## Dungeons **Metal Jelly** is found

@@ -9,6 +9,7 @@ title: Plan: Nep Bull SP (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Plans added to Remake System after collecting **Plan: Nep Bull SP**](#plans-added-to-remake-system-after-collecting-plan-nep-bull-sp)
 - [Dungeons **Plan: Nep Bull SP** is found](#dungeons-plan-nep-bull-sp-is-found)
+
 ## Basic information
 
 |   |   |

@@ -7,8 +7,10 @@ title: Spider Thread (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Spider Thread**](#monsters-which-drop-spider-thread)
 - [Dungeons **Spider Thread** is found](#dungeons-spider-thread-is-found)
 - [Remake System plans which require **Spider Thread**](#remake-system-plans-which-require-spider-thread)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,13 @@ title: Spider Thread (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 11 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Spider Thread**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-122" class="trackbox" /> | 122 | [Base](/neptunia/rb1/dlc/1-base.html) | [Spider](/neptunia/rb1/monster/1-122-spider.html) |
 
 
 ## Dungeons **Spider Thread** is found

@@ -8,6 +8,7 @@ title: Hardcore-oriented (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Dungeons **Hardcore-oriented** is found](#dungeons-hardcore-oriented-is-found)
+
 ## Basic information
 
 |   |   |

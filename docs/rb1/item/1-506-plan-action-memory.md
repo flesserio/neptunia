@@ -9,6 +9,7 @@ title: Plan: Action Memory (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Plans added to Remake System after collecting **Plan: Action Memory**](#plans-added-to-remake-system-after-collecting-plan-action-memory)
 - [Dungeons **Plan: Action Memory** is found](#dungeons-plan-action-memory-is-found)
+
 ## Basic information
 
 |   |   |

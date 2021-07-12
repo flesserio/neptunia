@@ -7,8 +7,10 @@ title: Amazing Jelly (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Amazing Jelly**](#monsters-which-drop-amazing-jelly)
 - [Dungeons **Amazing Jelly** is found](#dungeons-amazing-jelly-is-found)
 - [Remake System plans which require **Amazing Jelly**](#remake-system-plans-which-require-amazing-jelly)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,13 @@ title: Amazing Jelly (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 2937 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Amazing Jelly**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-327" class="trackbox" /> | 327 | [Base](/neptunia/rb1/dlc/1-base.html) | [Clione](/neptunia/rb1/monster/1-327-clione.html) |
 
 
 ## Dungeons **Amazing Jelly** is found

@@ -10,6 +10,7 @@ title: Youth Bandage (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Remake System plans which unlock **Youth Bandage** in shop](#remake-system-plans-which-unlock-youth-bandage-in-shop)
 - [Player characters who can equip **Youth Bandage**](#player-characters-who-can-equip-youth-bandage)
+
 ## Basic information
 
 |   |   |

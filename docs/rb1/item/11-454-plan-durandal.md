@@ -8,7 +8,9 @@ title: Plan: Durandal (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Plans added to Remake System after collecting **Plan: Durandal**](#plans-added-to-remake-system-after-collecting-plan-durandal)
+- [Monsters which drop **Plan: Durandal**](#monsters-which-drop-plan-durandal)
 - [Dungeons **Plan: Durandal** is found](#dungeons-plan-durandal-is-found)
+
 ## Basic information
 
 |   |   |
@@ -28,6 +30,13 @@ title: Plan: Durandal (Item) - Hyperdimension Neptunia Re;Birth1
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
 | <input type="checkbox" id="rb1-remake-11-369" class="trackbox" /> | 369 | [Additional Content Package 2](/neptunia/rb1/dlc/11-pack2.html) | [Durandal](/neptunia/rb1/remake/11-369-durandal.html)<br /> → [Durandal](/neptunia/rb1/item/11-2076-durandal.html) (Short Sword (Noire)) |
+
+
+## Monsters which drop **Plan: Durandal**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-11-328" class="trackbox" /> | 328 | [Additional Content Package 2](/neptunia/rb1/dlc/11-pack2.html) | [Delphi Eggplant MK-2](/neptunia/rb1/monster/11-328-delphi-eggplant-mk-2.html) |
 
 
 ## Dungeons **Plan: Durandal** is found

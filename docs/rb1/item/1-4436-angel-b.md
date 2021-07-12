@@ -10,6 +10,7 @@ title: Angel B (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Remake System plans which unlock **Angel B** in shop](#remake-system-plans-which-unlock-angel-b-in-shop)
 - [Player characters who can equip **Angel B**](#player-characters-who-can-equip-angel-b)
+
 ## Basic information
 
 |   |   |

@@ -10,6 +10,7 @@ title: Angel S (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Remake System plans which unlock **Angel S** in shop](#remake-system-plans-which-unlock-angel-s-in-shop)
 - [Player characters who can equip **Angel S**](#player-characters-who-can-equip-angel-s)
+
 ## Basic information
 
 |   |   |

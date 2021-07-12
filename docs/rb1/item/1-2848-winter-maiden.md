@@ -9,6 +9,7 @@ title: Winter Maiden (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Winter Maiden** in shop](#remake-system-plans-which-unlock-winter-maiden-in-shop)
 - [Player characters who can equip **Winter Maiden**](#player-characters-who-can-equip-winter-maiden)
+
 ## Basic information
 
 |   |   |

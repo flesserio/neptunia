@@ -10,6 +10,7 @@ title: Blue Pigment (Item) - Hyperdimension Neptunia Re;Birth1
 - [Remake System plans which unlock **Blue Pigment** in shop](#remake-system-plans-which-unlock-blue-pigment-in-shop)
 - [Dungeons **Blue Pigment** is found](#dungeons-blue-pigment-is-found)
 - [Remake System plans which require **Blue Pigment**](#remake-system-plans-which-require-blue-pigment)
+
 ## Basic information
 
 |   |   |

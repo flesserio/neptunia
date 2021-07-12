@@ -8,6 +8,7 @@ title: White Heart Doll (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Colosseum quests which reward **White Heart Doll**](#colosseum-quests-which-reward-white-heart-doll)
+
 ## Basic information
 
 |   |   |

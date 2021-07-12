@@ -9,6 +9,7 @@ title: Shinobikini (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **Shinobikini**](#chirpers-who-give-shinobikini)
 - [Plans added to Remake System after collecting **Shinobikini**](#plans-added-to-remake-system-after-collecting-shinobikini)
+
 ## Basic information
 
 |   |   |

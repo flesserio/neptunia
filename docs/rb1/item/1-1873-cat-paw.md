@@ -7,9 +7,11 @@ title: Cat Paw (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Cat Paw**](#monsters-which-drop-cat-paw)
 - [Dungeons **Cat Paw** is found](#dungeons-cat-paw-is-found)
 - [Quests which require gathering **Cat Paw**](#quests-which-require-gathering-cat-paw)
 - [Remake System plans which require **Cat Paw**](#remake-system-plans-which-require-cat-paw)
+
 ## Basic information
 
 |   |   |
@@ -22,6 +24,13 @@ title: Cat Paw (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 116 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Cat Paw**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-228" class="trackbox" /> | 228 | [Base](/neptunia/rb1/dlc/1-base.html) | [Max](/neptunia/rb1/monster/1-228-max.html) |
 
 
 ## Dungeons **Cat Paw** is found

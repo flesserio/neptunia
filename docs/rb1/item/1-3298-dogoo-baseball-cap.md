@@ -9,6 +9,7 @@ title: Dogoo Baseball Cap (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Dogoo Baseball Cap** in shop](#remake-system-plans-which-unlock-dogoo-baseball-cap-in-shop)
 - [Player characters who can equip **Dogoo Baseball Cap**](#player-characters-who-can-equip-dogoo-baseball-cap)
+
 ## Basic information
 
 |   |   |

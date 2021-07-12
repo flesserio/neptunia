@@ -7,7 +7,9 @@ title: Large Medal A (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Large Medal A**](#monsters-which-drop-large-medal-a)
 - [Dungeons **Large Medal A** is found](#dungeons-large-medal-a-is-found)
+
 ## Basic information
 
 |   |   |
@@ -20,6 +22,13 @@ title: Large Medal A (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 0 |
 | **Max inventory** | 1 |
+
+
+## Monsters which drop **Large Medal A**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-251" class="trackbox" /> | 251 | [Base](/neptunia/rb1/dlc/1-base.html) | [Crazy Buff Shampuru](/neptunia/rb1/monster/1-251-crazy-buff-shampuru.html) |
 
 
 ## Dungeons **Large Medal A** is found

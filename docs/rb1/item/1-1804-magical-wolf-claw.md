@@ -7,8 +7,10 @@ title: Magical Wolf Claw (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Magical Wolf Claw**](#monsters-which-drop-magical-wolf-claw)
 - [Dungeons **Magical Wolf Claw** is found](#dungeons-magical-wolf-claw-is-found)
 - [Remake System plans which require **Magical Wolf Claw**](#remake-system-plans-which-require-magical-wolf-claw)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,13 @@ title: Magical Wolf Claw (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 1595 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Magical Wolf Claw**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-158" class="trackbox" /> | 158 | [Base](/neptunia/rb1/dlc/1-base.html) | [Fenrir Wolf](/neptunia/rb1/monster/1-158-fenrir-wolf.html) |
 
 
 ## Dungeons **Magical Wolf Claw** is found

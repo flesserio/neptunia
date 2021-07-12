@@ -9,6 +9,7 @@ title: Light Spear+? (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Colosseum quests which reward **Light Spear+?**](#colosseum-quests-which-reward-light-spear)
 - [Player characters who can equip **Light Spear+?**](#player-characters-who-can-equip-light-spear)
+
 ## Basic information
 
 |   |   |

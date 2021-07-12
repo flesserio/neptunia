@@ -9,6 +9,7 @@ title: Sweets Hat (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which require **Sweets Hat**](#remake-system-plans-which-require-sweets-hat)
 - [Player characters who can equip **Sweets Hat**](#player-characters-who-can-equip-sweets-hat)
+
 ## Basic information
 
 |   |   |

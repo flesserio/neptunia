@@ -8,6 +8,7 @@ title: Black Sailor (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Player characters who can equip **Black Sailor**](#player-characters-who-can-equip-black-sailor)
+
 ## Basic information
 
 |   |   |

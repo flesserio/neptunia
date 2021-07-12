@@ -7,9 +7,11 @@ title: Insane Contract (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Insane Contract**](#monsters-which-drop-insane-contract)
 - [Dungeons **Insane Contract** is found](#dungeons-insane-contract-is-found)
 - [Quests which require gathering **Insane Contract**](#quests-which-require-gathering-insane-contract)
 - [Remake System plans which require **Insane Contract**](#remake-system-plans-which-require-insane-contract)
+
 ## Basic information
 
 |   |   |
@@ -22,6 +24,13 @@ title: Insane Contract (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 142 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Insane Contract**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-339" class="trackbox" /> | 339 | [Base](/neptunia/rb1/dlc/1-base.html) | [Promise Ring](/neptunia/rb1/monster/1-339-promise-ring.html) |
 
 
 ## Dungeons **Insane Contract** is found

@@ -9,6 +9,7 @@ title: Aqua Butterfly (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Aqua Butterfly** in shop](#remake-system-plans-which-unlock-aqua-butterfly-in-shop)
 - [Player characters who can equip **Aqua Butterfly**](#player-characters-who-can-equip-aqua-butterfly)
+
 ## Basic information
 
 |   |   |

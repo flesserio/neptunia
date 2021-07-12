@@ -9,6 +9,7 @@ title: Military Ribbon (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Military Ribbon**](#player-characters-who-can-equip-military-ribbon)
+
 ## Basic information
 
 |   |   |

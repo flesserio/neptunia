@@ -9,6 +9,7 @@ title: Laplace's Eye (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **Laplace's Eye**](#chirpers-who-give-laplaces-eye)
 - [Plans added to Remake System after collecting **Laplace's Eye**](#plans-added-to-remake-system-after-collecting-laplaces-eye)
+
 ## Basic information
 
 |   |   |

@@ -9,6 +9,7 @@ title: Add Enemies: Halo Mountain (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **Add Enemies: Halo Mountain**](#chirpers-who-give-add-enemies-halo-mountain)
 - [Plans added to Remake System after collecting **Add Enemies: Halo Mountain**](#plans-added-to-remake-system-after-collecting-add-enemies-halo-mountain)
+
 ## Basic information
 
 |   |   |

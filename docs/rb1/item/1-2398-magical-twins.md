@@ -9,6 +9,7 @@ title: Magical Twins (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Magical Twins**](#player-characters-who-can-equip-magical-twins)
+
 ## Basic information
 
 |   |   |

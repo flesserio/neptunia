@@ -9,6 +9,7 @@ title: Add Dungeon: Zeca Ruins No.1 (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **Add Dungeon: Zeca Ruins No.1**](#chirpers-who-give-add-dungeon-zeca-ruins-no1)
 - [Plans added to Remake System after collecting **Add Dungeon: Zeca Ruins No.1**](#plans-added-to-remake-system-after-collecting-add-dungeon-zeca-ruins-no1)
+
 ## Basic information
 
 |   |   |

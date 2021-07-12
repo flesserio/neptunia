@@ -9,6 +9,7 @@ title: Plan: Soda (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Plans added to Remake System after collecting **Plan: Soda**](#plans-added-to-remake-system-after-collecting-plan-soda)
 - [Dungeons **Plan: Soda** is found](#dungeons-plan-soda-is-found)
+
 ## Basic information
 
 |   |   |

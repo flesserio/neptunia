@@ -10,6 +10,7 @@ title: Beam Saber (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Player characters who have **Beam Saber** equipped by default](#player-characters-who-have-beam-saber-equipped-by-default)
 - [Player characters who can equip **Beam Saber**](#player-characters-who-can-equip-beam-saber)
+
 ## Basic information
 
 |   |   |

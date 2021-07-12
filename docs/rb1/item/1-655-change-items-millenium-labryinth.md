@@ -9,6 +9,7 @@ title: Change Items: Millenium Labryinth (Item) - Hyperdimension Neptunia Re;Bir
 - [Basic information](#basic-information)
 - [Chirpers who give **Change Items: Millenium Labryinth**](#chirpers-who-give-change-items-millenium-labryinth)
 - [Plans added to Remake System after collecting **Change Items: Millenium Labryinth**](#plans-added-to-remake-system-after-collecting-change-items-millenium-labryinth)
+
 ## Basic information
 
 |   |   |

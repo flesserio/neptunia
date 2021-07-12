@@ -10,6 +10,7 @@ title: Megapolis H (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Colosseum quests which reward **Megapolis H**](#colosseum-quests-which-reward-megapolis-h)
 - [Player characters who can equip **Megapolis H**](#player-characters-who-can-equip-megapolis-h)
+
 ## Basic information
 
 |   |   |

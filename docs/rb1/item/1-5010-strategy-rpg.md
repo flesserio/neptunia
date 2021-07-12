@@ -8,6 +8,7 @@ title: Strategy RPG (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Dungeons **Strategy RPG** is found](#dungeons-strategy-rpg-is-found)
+
 ## Basic information
 
 |   |   |

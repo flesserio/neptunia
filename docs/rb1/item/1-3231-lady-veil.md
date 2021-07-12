@@ -9,6 +9,7 @@ title: Lady Veil (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Lady Veil** in shop](#remake-system-plans-which-unlock-lady-veil-in-shop)
 - [Player characters who can equip **Lady Veil**](#player-characters-who-can-equip-lady-veil)
+
 ## Basic information
 
 |   |   |

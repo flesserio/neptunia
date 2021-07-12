@@ -10,6 +10,7 @@ title: Chill Ring (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Remake System plans which require **Chill Ring**](#remake-system-plans-which-require-chill-ring)
 - [Player characters who can equip **Chill Ring**](#player-characters-who-can-equip-chill-ring)
+
 ## Basic information
 
 |   |   |

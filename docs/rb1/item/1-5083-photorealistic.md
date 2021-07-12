@@ -8,6 +8,7 @@ title: Photorealistic (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Dungeons **Photorealistic** is found](#dungeons-photorealistic-is-found)
+
 ## Basic information
 
 |   |   |

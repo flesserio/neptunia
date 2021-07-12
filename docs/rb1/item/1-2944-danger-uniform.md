@@ -10,6 +10,7 @@ title: Danger Uniform (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Quests which reward **Danger Uniform**](#quests-which-reward-danger-uniform)
 - [Player characters who can equip **Danger Uniform**](#player-characters-who-can-equip-danger-uniform)
+
 ## Basic information
 
 |   |   |

@@ -9,6 +9,7 @@ title: Cord Bracelet (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Cord Bracelet**](#player-characters-who-can-equip-cord-bracelet)
+
 ## Basic information
 
 |   |   |

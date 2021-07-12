@@ -9,6 +9,7 @@ title: Change Items: Duty Space (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **Change Items: Duty Space**](#chirpers-who-give-change-items-duty-space)
 - [Plans added to Remake System after collecting **Change Items: Duty Space**](#plans-added-to-remake-system-after-collecting-change-items-duty-space)
+
 ## Basic information
 
 |   |   |

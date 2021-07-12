@@ -9,6 +9,7 @@ title: Plan: Healing Drink (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Plans added to Remake System after collecting **Plan: Healing Drink**](#plans-added-to-remake-system-after-collecting-plan-healing-drink)
 - [Dungeons **Plan: Healing Drink** is found](#dungeons-plan-healing-drink-is-found)
+
 ## Basic information
 
 |   |   |

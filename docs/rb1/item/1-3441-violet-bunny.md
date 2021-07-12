@@ -9,6 +9,7 @@ title: Violet Bunny (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Violet Bunny** in shop](#remake-system-plans-which-unlock-violet-bunny-in-shop)
 - [Player characters who can equip **Violet Bunny**](#player-characters-who-can-equip-violet-bunny)
+
 ## Basic information
 
 |   |   |

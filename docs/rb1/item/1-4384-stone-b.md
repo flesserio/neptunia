@@ -8,7 +8,9 @@ title: Stone B (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Stats](#stats)
+- [Monsters which drop **Stone B**](#monsters-which-drop-stone-b)
 - [Player characters who can equip **Stone B**](#player-characters-who-can-equip-stone-b)
+
 ## Basic information
 
 |   |   |
@@ -28,6 +30,13 @@ title: Stone B (Item) - Hyperdimension Neptunia Re;Birth1
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | -15 | 20 | 0 | 0 | -25 | 0 | 25 | 0 | 0 | 0 | 20 |
+
+
+## Monsters which drop **Stone B**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-1032" class="trackbox" /> | 1032 | [Base](/neptunia/rb1/dlc/1-base.html) | [Killachine 1.01](/neptunia/rb1/monster/1-1032-killachine-1-01.html) |
 
 
 ## Player characters who can equip **Stone B**

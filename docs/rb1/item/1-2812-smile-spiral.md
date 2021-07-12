@@ -8,7 +8,9 @@ title: Smile Spiral (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Stats](#stats)
+- [Monsters which drop **Smile Spiral**](#monsters-which-drop-smile-spiral)
 - [Player characters who can equip **Smile Spiral**](#player-characters-who-can-equip-smile-spiral)
+
 ## Basic information
 
 |   |   |
@@ -28,6 +30,13 @@ title: Smile Spiral (Item) - Hyperdimension Neptunia Re;Birth1
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 30 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+
+
+## Monsters which drop **Smile Spiral**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-1047" class="trackbox" /> | 1047 | [Base](/neptunia/rb1/dlc/1-base.html) | [Fake Purple Heart](/neptunia/rb1/monster/1-1047-fake-purple-heart.html) |
 
 
 ## Player characters who can equip **Smile Spiral**

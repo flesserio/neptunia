@@ -9,6 +9,7 @@ title: Fine Black (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Fine Black** in shop](#remake-system-plans-which-unlock-fine-black-in-shop)
 - [Player characters who can equip **Fine Black**](#player-characters-who-can-equip-fine-black)
+
 ## Basic information
 
 |   |   |

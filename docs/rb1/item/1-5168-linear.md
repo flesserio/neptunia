@@ -8,6 +8,7 @@ title: Linear (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Dungeons **Linear** is found](#dungeons-linear-is-found)
+
 ## Basic information
 
 |   |   |

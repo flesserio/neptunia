@@ -7,8 +7,10 @@ title: Green Castella (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Green Castella**](#monsters-which-drop-green-castella)
 - [Dungeons **Green Castella** is found](#dungeons-green-castella-is-found)
 - [Remake System plans which require **Green Castella**](#remake-system-plans-which-require-green-castella)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,13 @@ title: Green Castella (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 15 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Green Castella**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-6086" class="trackbox" /> | 6086 | [Base](/neptunia/rb1/dlc/1-base.html) | [XDog](/neptunia/rb1/monster/1-6086-xdog.html) |
 
 
 ## Dungeons **Green Castella** is found

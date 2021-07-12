@@ -9,6 +9,7 @@ title: Leafy Bow HC (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Leafy Bow HC** in shop](#remake-system-plans-which-unlock-leafy-bow-hc-in-shop)
 - [Player characters who can equip **Leafy Bow HC**](#player-characters-who-can-equip-leafy-bow-hc)
+
 ## Basic information
 
 |   |   |

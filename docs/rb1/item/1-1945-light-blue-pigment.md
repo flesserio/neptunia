@@ -10,6 +10,7 @@ title: Light Blue Pigment (Item) - Hyperdimension Neptunia Re;Birth1
 - [Remake System plans which unlock **Light Blue Pigment** in shop](#remake-system-plans-which-unlock-light-blue-pigment-in-shop)
 - [Dungeons **Light Blue Pigment** is found](#dungeons-light-blue-pigment-is-found)
 - [Remake System plans which require **Light Blue Pigment**](#remake-system-plans-which-require-light-blue-pigment)
+
 ## Basic information
 
 |   |   |

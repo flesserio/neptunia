@@ -7,9 +7,11 @@ title: Random Encounters (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Random Encounters**](#monsters-which-drop-random-encounters)
 - [Dungeons **Random Encounters** is found](#dungeons-random-encounters-is-found)
 - [Quests which reward **Random Encounters**](#quests-which-reward-random-encounters)
 - [Remake System plans which require **Random Encounters**](#remake-system-plans-which-require-random-encounters)
+
 ## Basic information
 
 |   |   |
@@ -24,6 +26,13 @@ title: Random Encounters (Item) - Hyperdimension Neptunia Re;Birth1
 | **Max inventory** | 99 |
 | **Idea Chip level** | 2 |
 | **Idea Chip ability** | [Physical Defense + Lv.2](/neptunia/rb1/avatar/1-9617-physical-defense-lv-2.html)<br />Increases Phys. Defense by 15% |
+
+
+## Monsters which drop **Random Encounters**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-249" class="trackbox" /> | 249 | [Base](/neptunia/rb1/dlc/1-base.html) | [Dangerous Shampuru](/neptunia/rb1/monster/1-249-dangerous-shampuru.html) |
 
 
 ## Dungeons **Random Encounters** is found

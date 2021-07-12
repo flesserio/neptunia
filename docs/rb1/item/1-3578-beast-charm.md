@@ -10,6 +10,7 @@ title: Beast Charm (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Dungeons **Beast Charm** is found](#dungeons-beast-charm-is-found)
 - [Player characters who can equip **Beast Charm**](#player-characters-who-can-equip-beast-charm)
+
 ## Basic information
 
 |   |   |

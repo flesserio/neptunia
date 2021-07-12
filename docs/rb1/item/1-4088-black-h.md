@@ -10,6 +10,7 @@ title: Black H (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Player characters who have **Black H** equipped by default](#player-characters-who-have-black-h-equipped-by-default)
 - [Player characters who can equip **Black H**](#player-characters-who-can-equip-black-h)
+
 ## Basic information
 
 |   |   |

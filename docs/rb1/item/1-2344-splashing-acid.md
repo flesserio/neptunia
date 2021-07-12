@@ -10,6 +10,7 @@ title: Splashing Acid (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Colosseum quests which reward **Splashing Acid**](#colosseum-quests-which-reward-splashing-acid)
 - [Player characters who can equip **Splashing Acid**](#player-characters-who-can-equip-splashing-acid)
+
 ## Basic information
 
 |   |   |

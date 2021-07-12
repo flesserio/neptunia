@@ -10,6 +10,7 @@ title: Hand-made Bookmark (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Player characters who have **Hand-made Bookmark** equipped by default](#player-characters-who-have-hand-made-bookmark-equipped-by-default)
 - [Player characters who can equip **Hand-made Bookmark**](#player-characters-who-can-equip-hand-made-bookmark)
+
 ## Basic information
 
 |   |   |

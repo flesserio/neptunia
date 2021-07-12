@@ -7,8 +7,10 @@ title: Powered Replay (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Powered Replay**](#monsters-which-drop-powered-replay)
 - [Dungeons **Powered Replay** is found](#dungeons-powered-replay-is-found)
 - [Remake System plans which require **Powered Replay**](#remake-system-plans-which-require-powered-replay)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,13 @@ title: Powered Replay (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 947 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Powered Replay**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-275" class="trackbox" /> | 275 | [Base](/neptunia/rb1/dlc/1-base.html) | [Replicant](/neptunia/rb1/monster/1-275-replicant.html) |
 
 
 ## Dungeons **Powered Replay** is found

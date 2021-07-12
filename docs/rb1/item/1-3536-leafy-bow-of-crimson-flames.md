@@ -10,6 +10,7 @@ title: Leafy Bow of Crimson Flames (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Quests which reward **Leafy Bow of Crimson Flames**](#quests-which-reward-leafy-bow-of-crimson-flames)
 - [Player characters who can equip **Leafy Bow of Crimson Flames**](#player-characters-who-can-equip-leafy-bow-of-crimson-flames)
+
 ## Basic information
 
 |   |   |

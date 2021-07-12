@@ -7,9 +7,11 @@ title: Dolphin Tail (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Dolphin Tail**](#monsters-which-drop-dolphin-tail)
 - [Dungeons **Dolphin Tail** is found](#dungeons-dolphin-tail-is-found)
 - [Quests which require gathering **Dolphin Tail**](#quests-which-require-gathering-dolphin-tail)
 - [Remake System plans which require **Dolphin Tail**](#remake-system-plans-which-require-dolphin-tail)
+
 ## Basic information
 
 |   |   |
@@ -22,6 +24,13 @@ title: Dolphin Tail (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 157 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Dolphin Tail**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-140" class="trackbox" /> | 140 | [Base](/neptunia/rb1/dlc/1-base.html) | [Dolphin](/neptunia/rb1/monster/1-140-dolphin.html) |
 
 
 ## Dungeons **Dolphin Tail** is found

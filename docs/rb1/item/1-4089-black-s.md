@@ -10,6 +10,7 @@ title: Black S (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Player characters who have **Black S** equipped by default](#player-characters-who-have-black-s-equipped-by-default)
 - [Player characters who can equip **Black S**](#player-characters-who-can-equip-black-s)
+
 ## Basic information
 
 |   |   |

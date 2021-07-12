@@ -9,6 +9,7 @@ title: Aqua Headdress (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Aqua Headdress** in shop](#remake-system-plans-which-unlock-aqua-headdress-in-shop)
 - [Player characters who can equip **Aqua Headdress**](#player-characters-who-can-equip-aqua-headdress)
+
 ## Basic information
 
 |   |   |

@@ -9,6 +9,7 @@ title: Virtual Style (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Virtual Style** in shop](#remake-system-plans-which-unlock-virtual-style-in-shop)
 - [Player characters who can equip **Virtual Style**](#player-characters-who-can-equip-virtual-style)
+
 ## Basic information
 
 |   |   |

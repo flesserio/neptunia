@@ -7,8 +7,10 @@ title: Soluble Cloth (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Soluble Cloth**](#monsters-which-drop-soluble-cloth)
 - [Dungeons **Soluble Cloth** is found](#dungeons-soluble-cloth-is-found)
 - [Remake System plans which require **Soluble Cloth**](#remake-system-plans-which-require-soluble-cloth)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,14 @@ title: Soluble Cloth (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 138 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Soluble Cloth**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-379" class="trackbox" /> | 379 | [Base](/neptunia/rb1/dlc/1-base.html) | [Snow Boy](/neptunia/rb1/monster/1-379-snow-boy.html) |
+| <input type="checkbox" id="rb1-monster-16-1060" class="trackbox" /> | 1060 | [Additional Content Pack 7](/neptunia/rb1/dlc/16-pack7.html) | [Snow Boy](/neptunia/rb1/monster/16-1060-snow-boy.html) |
 
 
 ## Dungeons **Soluble Cloth** is found

@@ -9,6 +9,7 @@ title: Purple Ribbon Hat (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which require **Purple Ribbon Hat**](#remake-system-plans-which-require-purple-ribbon-hat)
 - [Player characters who can equip **Purple Ribbon Hat**](#player-characters-who-can-equip-purple-ribbon-hat)
+
 ## Basic information
 
 |   |   |

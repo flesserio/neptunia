@@ -10,6 +10,7 @@ title: Scholar Hat (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Player characters who have **Scholar Hat** equipped by default](#player-characters-who-have-scholar-hat-equipped-by-default)
 - [Player characters who can equip **Scholar Hat**](#player-characters-who-can-equip-scholar-hat)
+
 ## Basic information
 
 |   |   |

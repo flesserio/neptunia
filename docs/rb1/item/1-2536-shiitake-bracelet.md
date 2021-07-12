@@ -10,6 +10,7 @@ title: Shiitake Bracelet (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Colosseum quests which reward **Shiitake Bracelet**](#colosseum-quests-which-reward-shiitake-bracelet)
 - [Player characters who can equip **Shiitake Bracelet**](#player-characters-who-can-equip-shiitake-bracelet)
+
 ## Basic information
 
 |   |   |

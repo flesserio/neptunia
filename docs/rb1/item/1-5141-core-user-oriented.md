@@ -8,6 +8,7 @@ title: Core User-oriented (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Dungeons **Core User-oriented** is found](#dungeons-core-user-oriented-is-found)
+
 ## Basic information
 
 |   |   |

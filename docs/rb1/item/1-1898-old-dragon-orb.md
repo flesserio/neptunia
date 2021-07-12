@@ -7,8 +7,10 @@ title: Old Dragon...Orb (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Old Dragon...Orb**](#monsters-which-drop-old-dragonorb)
 - [Dungeons **Old Dragon...Orb** is found](#dungeons-old-dragonorb-is-found)
 - [Remake System plans which require **Old Dragon...Orb**](#remake-system-plans-which-require-old-dragonorb)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,14 @@ title: Old Dragon...Orb (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 87 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Old Dragon...Orb**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-118" class="trackbox" /> | 118 | [Base](/neptunia/rb1/dlc/1-base.html) | [Ancient Dragon](/neptunia/rb1/monster/1-118-ancient-dragon.html) |
+| <input type="checkbox" id="rb1-monster-1-1029" class="trackbox" /> | 1029 | [Base](/neptunia/rb1/dlc/1-base.html) | [Ancient Dragon](/neptunia/rb1/monster/1-1029-ancient-dragon.html) |
 
 
 ## Dungeons **Old Dragon...Orb** is found

@@ -9,6 +9,7 @@ title: Stripe Ribbon (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Stripe Ribbon** in shop](#remake-system-plans-which-unlock-stripe-ribbon-in-shop)
 - [Player characters who can equip **Stripe Ribbon**](#player-characters-who-can-equip-stripe-ribbon)
+
 ## Basic information
 
 |   |   |

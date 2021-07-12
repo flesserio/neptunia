@@ -9,6 +9,7 @@ title: Protagonist Ribbon (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Protagonist Ribbon** in shop](#remake-system-plans-which-unlock-protagonist-ribbon-in-shop)
 - [Player characters who can equip **Protagonist Ribbon**](#player-characters-who-can-equip-protagonist-ribbon)
+
 ## Basic information
 
 |   |   |

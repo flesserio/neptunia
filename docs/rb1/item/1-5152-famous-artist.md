@@ -7,8 +7,10 @@ title: Famous Artist (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Famous Artist**](#monsters-which-drop-famous-artist)
 - [Dungeons **Famous Artist** is found](#dungeons-famous-artist-is-found)
 - [Colosseum quests which reward **Famous Artist**](#colosseum-quests-which-reward-famous-artist)
+
 ## Basic information
 
 |   |   |
@@ -23,6 +25,14 @@ title: Famous Artist (Item) - Hyperdimension Neptunia Re;Birth1
 | **Max inventory** | 99 |
 | **Idea Chip level** | 5 |
 | **Idea Chip ability** | [Gradual HP Recovery Lv.5](/neptunia/rb1/avatar/1-9651-gradual-hp-recovery-lv-5.html)<br />Increases HP Recovery Per Turn by 10% |
+
+
+## Monsters which drop **Famous Artist**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-11-408" class="trackbox" /> | 408 | [Additional Content Package 2](/neptunia/rb1/dlc/11-pack2.html) | [Blaze Whale](/neptunia/rb1/monster/11-408-blaze-whale.html) |
+| <input type="checkbox" id="rb1-monster-12-401" class="trackbox" /> | 401 | [Additional Content Package 3](/neptunia/rb1/dlc/12-pack3.html) | [Clione](/neptunia/rb1/monster/12-401-clione.html) |
 
 
 ## Dungeons **Famous Artist** is found

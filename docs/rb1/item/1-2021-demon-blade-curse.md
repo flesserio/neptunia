@@ -10,6 +10,7 @@ title: Demon Blade Curse (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Remake System plans which unlock **Demon Blade Curse** in shop](#remake-system-plans-which-unlock-demon-blade-curse-in-shop)
 - [Player characters who can equip **Demon Blade Curse**](#player-characters-who-can-equip-demon-blade-curse)
+
 ## Basic information
 
 |   |   |

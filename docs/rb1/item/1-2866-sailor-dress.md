@@ -9,6 +9,7 @@ title: Sailor Dress (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Player characters who have **Sailor Dress** equipped by default](#player-characters-who-have-sailor-dress-equipped-by-default)
 - [Player characters who can equip **Sailor Dress**](#player-characters-who-can-equip-sailor-dress)
+
 ## Basic information
 
 |   |   |

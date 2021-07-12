@@ -9,6 +9,7 @@ title: Yellow Fox (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Yellow Fox** in shop](#remake-system-plans-which-unlock-yellow-fox-in-shop)
 - [Player characters who can equip **Yellow Fox**](#player-characters-who-can-equip-yellow-fox)
+
 ## Basic information
 
 |   |   |

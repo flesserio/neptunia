@@ -9,6 +9,7 @@ title: Alkaloid (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Alkaloid**](#player-characters-who-can-equip-alkaloid)
+
 ## Basic information
 
 |   |   |

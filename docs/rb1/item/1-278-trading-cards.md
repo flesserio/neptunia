@@ -8,6 +8,7 @@ title: Trading Cards (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Quests which reward **Trading Cards**](#quests-which-reward-trading-cards)
+
 ## Basic information
 
 |   |   |

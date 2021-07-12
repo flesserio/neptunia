@@ -9,6 +9,7 @@ title: Includes Videos (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Includes Videos** is found](#dungeons-includes-videos-is-found)
 - [Quests which reward **Includes Videos**](#quests-which-reward-includes-videos)
+
 ## Basic information
 
 |   |   |

@@ -7,8 +7,10 @@ title: Blacklight Scale (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Blacklight Scale**](#monsters-which-drop-blacklight-scale)
 - [Dungeons **Blacklight Scale** is found](#dungeons-blacklight-scale-is-found)
 - [Remake System plans which require **Blacklight Scale**](#remake-system-plans-which-require-blacklight-scale)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,15 @@ title: Blacklight Scale (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 333 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Blacklight Scale**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-239" class="trackbox" /> | 239 | [Base](/neptunia/rb1/dlc/1-base.html) | [Viral Lizard Knight](/neptunia/rb1/monster/1-239-viral-lizard-knight.html) |
+| <input type="checkbox" id="rb1-monster-1-340" class="trackbox" /> | 340 | [Base](/neptunia/rb1/dlc/1-base.html) | [High Lizard](/neptunia/rb1/monster/1-340-high-lizard.html) |
+| <input type="checkbox" id="rb1-monster-1-341" class="trackbox" /> | 341 | [Base](/neptunia/rb1/dlc/1-base.html) | [Viral High Lizard](/neptunia/rb1/monster/1-341-viral-high-lizard.html) |
 
 
 ## Dungeons **Blacklight Scale** is found

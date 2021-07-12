@@ -7,9 +7,11 @@ title: Magical Beak (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Magical Beak**](#monsters-which-drop-magical-beak)
 - [Dungeons **Magical Beak** is found](#dungeons-magical-beak-is-found)
 - [Quests which require gathering **Magical Beak**](#quests-which-require-gathering-magical-beak)
 - [Remake System plans which require **Magical Beak**](#remake-system-plans-which-require-magical-beak)
+
 ## Basic information
 
 |   |   |
@@ -22,6 +24,14 @@ title: Magical Beak (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 459 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Magical Beak**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-372" class="trackbox" /> | 372 | [Base](/neptunia/rb1/dlc/1-base.html) | [Nue](/neptunia/rb1/monster/1-372-nue.html) |
+| <input type="checkbox" id="rb1-monster-1-373" class="trackbox" /> | 373 | [Base](/neptunia/rb1/dlc/1-base.html) | [Viral Nue](/neptunia/rb1/monster/1-373-viral-nue.html) |
 
 
 ## Dungeons **Magical Beak** is found

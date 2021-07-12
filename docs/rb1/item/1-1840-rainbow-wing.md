@@ -7,9 +7,11 @@ title: Rainbow Wing (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Rainbow Wing**](#monsters-which-drop-rainbow-wing)
 - [Dungeons **Rainbow Wing** is found](#dungeons-rainbow-wing-is-found)
 - [Quests which require gathering **Rainbow Wing**](#quests-which-require-gathering-rainbow-wing)
 - [Remake System plans which require **Rainbow Wing**](#remake-system-plans-which-require-rainbow-wing)
+
 ## Basic information
 
 |   |   |
@@ -22,6 +24,14 @@ title: Rainbow Wing (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 105 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Rainbow Wing**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-332" class="trackbox" /> | 332 | [Base](/neptunia/rb1/dlc/1-base.html) | [Paradise Avian](/neptunia/rb1/monster/1-332-paradise-avian.html) |
+| <input type="checkbox" id="rb1-monster-1-333" class="trackbox" /> | 333 | [Base](/neptunia/rb1/dlc/1-base.html) | [Viral Paradise Avian](/neptunia/rb1/monster/1-333-viral-paradise-avian.html) |
 
 
 ## Dungeons **Rainbow Wing** is found

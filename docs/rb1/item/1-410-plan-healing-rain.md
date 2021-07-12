@@ -9,6 +9,7 @@ title: Plan: Healing Rain (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Plans added to Remake System after collecting **Plan: Healing Rain**](#plans-added-to-remake-system-after-collecting-plan-healing-rain)
 - [Dungeons **Plan: Healing Rain** is found](#dungeons-plan-healing-rain-is-found)
+
 ## Basic information
 
 |   |   |

@@ -9,6 +9,7 @@ title: Test Potion V+9 (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Test Potion V+9**](#player-characters-who-can-equip-test-potion-v-9)
+
 ## Basic information
 
 |   |   |

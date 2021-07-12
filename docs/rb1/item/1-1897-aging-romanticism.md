@@ -7,9 +7,11 @@ title: Aging Romanticism (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Aging Romanticism**](#monsters-which-drop-aging-romanticism)
 - [Dungeons **Aging Romanticism** is found](#dungeons-aging-romanticism-is-found)
 - [Quests which require gathering **Aging Romanticism**](#quests-which-require-gathering-aging-romanticism)
 - [Remake System plans which require **Aging Romanticism**](#remake-system-plans-which-require-aging-romanticism)
+
 ## Basic information
 
 |   |   |
@@ -22,6 +24,13 @@ title: Aging Romanticism (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 382 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Aging Romanticism**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-388" class="trackbox" /> | 388 | [Base](/neptunia/rb1/dlc/1-base.html) | [Old Death](/neptunia/rb1/monster/1-388-old-death.html) |
 
 
 ## Dungeons **Aging Romanticism** is found

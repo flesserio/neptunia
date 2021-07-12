@@ -10,6 +10,7 @@ title: PCF-XXX C (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Remake System plans which unlock **PCF-XXX C** in shop](#remake-system-plans-which-unlock-pcf-xxx-c-in-shop)
 - [Player characters who can equip **PCF-XXX C**](#player-characters-who-can-equip-pcf-xxx-c)
+
 ## Basic information
 
 |   |   |

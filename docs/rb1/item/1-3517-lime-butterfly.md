@@ -9,6 +9,7 @@ title: Lime Butterfly (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Lime Butterfly** in shop](#remake-system-plans-which-unlock-lime-butterfly-in-shop)
 - [Player characters who can equip **Lime Butterfly**](#player-characters-who-can-equip-lime-butterfly)
+
 ## Basic information
 
 |   |   |

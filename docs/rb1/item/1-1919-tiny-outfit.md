@@ -7,8 +7,10 @@ title: Tiny Outfit (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Tiny Outfit**](#monsters-which-drop-tiny-outfit)
 - [Dungeons **Tiny Outfit** is found](#dungeons-tiny-outfit-is-found)
 - [Remake System plans which require **Tiny Outfit**](#remake-system-plans-which-require-tiny-outfit)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,14 @@ title: Tiny Outfit (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 135 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Tiny Outfit**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-230" class="trackbox" /> | 230 | [Base](/neptunia/rb1/dlc/1-base.html) | [Speckle](/neptunia/rb1/monster/1-230-speckle.html) |
+| <input type="checkbox" id="rb1-monster-1-231" class="trackbox" /> | 231 | [Base](/neptunia/rb1/dlc/1-base.html) | [Viral Speckle](/neptunia/rb1/monster/1-231-viral-speckle.html) |
 
 
 ## Dungeons **Tiny Outfit** is found

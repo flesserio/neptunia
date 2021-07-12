@@ -7,8 +7,10 @@ title: Pretty Girl Game (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Pretty Girl Game**](#monsters-which-drop-pretty-girl-game)
 - [Dungeons **Pretty Girl Game** is found](#dungeons-pretty-girl-game-is-found)
 - [Colosseum quests which reward **Pretty Girl Game**](#colosseum-quests-which-reward-pretty-girl-game)
+
 ## Basic information
 
 |   |   |
@@ -23,6 +25,13 @@ title: Pretty Girl Game (Item) - Hyperdimension Neptunia Re;Birth1
 | **Max inventory** | 99 |
 | **Idea Chip level** | 5 |
 | **Idea Chip ability** | [Consumed SP Down Lv.5](/neptunia/rb1/avatar/1-9524-consumed-sp-down-lv-5.html)<br />Decreases SP Required by 15% |
+
+
+## Monsters which drop **Pretty Girl Game**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-335" class="trackbox" /> | 335 | [Base](/neptunia/rb1/dlc/1-base.html) | [Lizard King](/neptunia/rb1/monster/1-335-lizard-king.html) |
 
 
 ## Dungeons **Pretty Girl Game** is found

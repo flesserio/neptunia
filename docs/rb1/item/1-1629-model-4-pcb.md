@@ -9,6 +9,7 @@ title: MODEL 4 PCB (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **MODEL 4 PCB** is found](#dungeons-model-4-pcb-is-found)
 - [Remake System plans which require **MODEL 4 PCB**](#remake-system-plans-which-require-model-4-pcb)
+
 ## Basic information
 
 |   |   |

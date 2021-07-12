@@ -10,6 +10,7 @@ title: Green B (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Player characters who have **Green B** equipped by default](#player-characters-who-have-green-b-equipped-by-default)
 - [Player characters who can equip **Green B**](#player-characters-who-can-equip-green-b)
+
 ## Basic information
 
 |   |   |

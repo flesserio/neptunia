@@ -8,8 +8,10 @@ title: Double Round W (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Stats](#stats)
+- [Monsters which drop **Double Round W**](#monsters-which-drop-double-round-w)
 - [Dungeons **Double Round W** is found](#dungeons-double-round-w-is-found)
 - [Player characters who can equip **Double Round W**](#player-characters-who-can-equip-double-round-w)
+
 ## Basic information
 
 |   |   |
@@ -30,6 +32,13 @@ title: Double Round W (Item) - Hyperdimension Neptunia Re;Birth1
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 25 | 0 | -15 | 0 | 40 | 0 | 90 | 0 | 0 | 0 | 0 |
+
+
+## Monsters which drop **Double Round W**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-16-1064" class="trackbox" /> | 1064 | [Additional Content Pack 7](/neptunia/rb1/dlc/16-pack7.html) | [Frozen Hermit Crab](/neptunia/rb1/monster/16-1064-frozen-hermit-crab.html) |
 
 
 ## Dungeons **Double Round W** is found

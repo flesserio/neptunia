@@ -9,6 +9,7 @@ title: Crimson Stone (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Crimson Stone** is found](#dungeons-crimson-stone-is-found)
 - [Remake System plans which require **Crimson Stone**](#remake-system-plans-which-require-crimson-stone)
+
 ## Basic information
 
 |   |   |

@@ -10,6 +10,7 @@ title: Akashic Record (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Player characters who have **Akashic Record** equipped by default](#player-characters-who-have-akashic-record-equipped-by-default)
 - [Player characters who can equip **Akashic Record**](#player-characters-who-can-equip-akashic-record)
+
 ## Basic information
 
 |   |   |

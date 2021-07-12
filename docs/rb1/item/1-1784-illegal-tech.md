@@ -7,9 +7,11 @@ title: Illegal Tech (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Illegal Tech**](#monsters-which-drop-illegal-tech)
 - [Dungeons **Illegal Tech** is found](#dungeons-illegal-tech-is-found)
 - [Quests which require gathering **Illegal Tech**](#quests-which-require-gathering-illegal-tech)
 - [Remake System plans which require **Illegal Tech**](#remake-system-plans-which-require-illegal-tech)
+
 ## Basic information
 
 |   |   |
@@ -22,6 +24,13 @@ title: Illegal Tech (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 119 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Illegal Tech**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-214" class="trackbox" /> | 214 | [Base](/neptunia/rb1/dlc/1-base.html) | [Next Dimension Bit](/neptunia/rb1/monster/1-214-next-dimension-bit.html) |
 
 
 ## Dungeons **Illegal Tech** is found

@@ -7,8 +7,10 @@ title: Illegal SSD (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Illegal SSD**](#monsters-which-drop-illegal-ssd)
 - [Dungeons **Illegal SSD** is found](#dungeons-illegal-ssd-is-found)
 - [Remake System plans which require **Illegal SSD**](#remake-system-plans-which-require-illegal-ssd)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,13 @@ title: Illegal SSD (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 418 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Illegal SSD**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-213" class="trackbox" /> | 213 | [Base](/neptunia/rb1/dlc/1-base.html) | [R-4 Custom](/neptunia/rb1/monster/1-213-r-4-custom.html) |
 
 
 ## Dungeons **Illegal SSD** is found

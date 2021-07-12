@@ -9,6 +9,7 @@ title: Monochrome Button (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Monochrome Button** in shop](#remake-system-plans-which-unlock-monochrome-button-in-shop)
 - [Player characters who can equip **Monochrome Button**](#player-characters-who-can-equip-monochrome-button)
+
 ## Basic information
 
 |   |   |

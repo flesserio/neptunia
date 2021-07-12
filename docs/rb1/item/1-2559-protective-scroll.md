@@ -10,6 +10,7 @@ title: Protective Scroll (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Player characters who have **Protective Scroll** equipped by default](#player-characters-who-have-protective-scroll-equipped-by-default)
 - [Player characters who can equip **Protective Scroll**](#player-characters-who-can-equip-protective-scroll)
+
 ## Basic information
 
 |   |   |

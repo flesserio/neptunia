@@ -7,9 +7,11 @@ title: Strangled Lump (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Strangled Lump**](#monsters-which-drop-strangled-lump)
 - [Dungeons **Strangled Lump** is found](#dungeons-strangled-lump-is-found)
 - [Quests which require gathering **Strangled Lump**](#quests-which-require-gathering-strangled-lump)
 - [Remake System plans which require **Strangled Lump**](#remake-system-plans-which-require-strangled-lump)
+
 ## Basic information
 
 |   |   |
@@ -22,6 +24,14 @@ title: Strangled Lump (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 122 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Strangled Lump**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-386" class="trackbox" /> | 386 | [Base](/neptunia/rb1/dlc/1-base.html) | [Tetrisi](/neptunia/rb1/monster/1-386-tetrisi.html) |
+| <input type="checkbox" id="rb1-monster-1-1052" class="trackbox" /> | 1052 | [Base](/neptunia/rb1/dlc/1-base.html) | [Fake Green Heart](/neptunia/rb1/monster/1-1052-fake-green-heart.html) |
 
 
 ## Dungeons **Strangled Lump** is found

@@ -9,6 +9,7 @@ title: Plan: Gae Bolg (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Plans added to Remake System after collecting **Plan: Gae Bolg**](#plans-added-to-remake-system-after-collecting-plan-gae-bolg)
 - [Dungeons **Plan: Gae Bolg** is found](#dungeons-plan-gae-bolg-is-found)
+
 ## Basic information
 
 |   |   |

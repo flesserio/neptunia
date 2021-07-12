@@ -11,6 +11,7 @@ title: INT Booster (Item) - Hyperdimension Neptunia Re;Birth1
 - [Dungeons **INT Booster** is found](#dungeons-int-booster-is-found)
 - [Quests which reward **INT Booster**](#quests-which-reward-int-booster)
 - [Remake System plans which require **INT Booster**](#remake-system-plans-which-require-int-booster)
+
 ## Basic information
 
 |   |   |

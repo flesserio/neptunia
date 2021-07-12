@@ -8,6 +8,7 @@ title: Nep Bull (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Nep Bull** in shop](#remake-system-plans-which-unlock-nep-bull-in-shop)
+
 ## Basic information
 
 |   |   |

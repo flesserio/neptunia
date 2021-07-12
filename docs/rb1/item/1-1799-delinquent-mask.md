@@ -7,8 +7,10 @@ title: Delinquent Mask (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Delinquent Mask**](#monsters-which-drop-delinquent-mask)
 - [Dungeons **Delinquent Mask** is found](#dungeons-delinquent-mask-is-found)
 - [Remake System plans which require **Delinquent Mask**](#remake-system-plans-which-require-delinquent-mask)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,13 @@ title: Delinquent Mask (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 7 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Delinquent Mask**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-264" class="trackbox" /> | 264 | [Base](/neptunia/rb1/dlc/1-base.html) | [Delinquent Cat](/neptunia/rb1/monster/1-264-delinquent-cat.html) |
 
 
 ## Dungeons **Delinquent Mask** is found

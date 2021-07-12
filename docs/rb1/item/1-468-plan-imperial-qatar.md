@@ -9,6 +9,7 @@ title: Plan: Imperial Qatar (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **Plan: Imperial Qatar**](#chirpers-who-give-plan-imperial-qatar)
 - [Plans added to Remake System after collecting **Plan: Imperial Qatar**](#plans-added-to-remake-system-after-collecting-plan-imperial-qatar)
+
 ## Basic information
 
 |   |   |

@@ -9,6 +9,7 @@ title: Cat Hat Glasses (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Cat Hat Glasses** in shop](#remake-system-plans-which-unlock-cat-hat-glasses-in-shop)
 - [Player characters who can equip **Cat Hat Glasses**](#player-characters-who-can-equip-cat-hat-glasses)
+
 ## Basic information
 
 |   |   |

@@ -8,6 +8,7 @@ title: Vitamin Straw (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Player characters who can equip **Vitamin Straw**](#player-characters-who-can-equip-vitamin-straw)
+
 ## Basic information
 
 |   |   |

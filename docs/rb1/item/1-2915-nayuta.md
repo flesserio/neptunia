@@ -7,8 +7,10 @@ title: Nayuta (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Nayuta**](#monsters-which-drop-nayuta)
 - [Dungeons **Nayuta** is found](#dungeons-nayuta-is-found)
 - [Player characters who can equip **Nayuta**](#player-characters-who-can-equip-nayuta)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,13 @@ title: Nayuta (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 1000 |
 | **Sell Price** | 500 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Nayuta**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-245" class="trackbox" /> | 245 | [Base](/neptunia/rb1/dlc/1-base.html) | [Next-Gen Ricky](/neptunia/rb1/monster/1-245-next-gen-ricky.html) |
 
 
 ## Dungeons **Nayuta** is found

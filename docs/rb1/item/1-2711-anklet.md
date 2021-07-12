@@ -9,6 +9,7 @@ title: Anklet (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Anklet**](#player-characters-who-can-equip-anklet)
+
 ## Basic information
 
 |   |   |

@@ -9,6 +9,7 @@ title: Feather Hammer+6 (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Feather Hammer+6**](#player-characters-who-can-equip-feather-hammer-6)
+
 ## Basic information
 
 |   |   |

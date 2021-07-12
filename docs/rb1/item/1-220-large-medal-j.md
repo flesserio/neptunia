@@ -7,7 +7,9 @@ title: Large Medal J (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Large Medal J**](#monsters-which-drop-large-medal-j)
 - [Dungeons **Large Medal J** is found](#dungeons-large-medal-j-is-found)
+
 ## Basic information
 
 |   |   |
@@ -20,6 +22,13 @@ title: Large Medal J (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 0 |
 | **Max inventory** | 1 |
+
+
+## Monsters which drop **Large Medal J**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-149" class="trackbox" /> | 149 | [Base](/neptunia/rb1/dlc/1-base.html) | [Big Pirachu](/neptunia/rb1/monster/1-149-big-pirachu.html) |
 
 
 ## Dungeons **Large Medal J** is found

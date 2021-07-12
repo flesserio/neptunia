@@ -9,6 +9,7 @@ title: Gate Keeper Beta (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Gate Keeper Beta**](#player-characters-who-can-equip-gate-keeper-beta)
+
 ## Basic information
 
 |   |   |

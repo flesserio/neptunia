@@ -11,6 +11,7 @@ title: Anti-Venom (Item) - Hyperdimension Neptunia Re;Birth1
 - [Dungeons **Anti-Venom** is found](#dungeons-anti-venom-is-found)
 - [Colosseum quests which reward **Anti-Venom**](#colosseum-quests-which-reward-anti-venom)
 - [Remake System plans which require **Anti-Venom**](#remake-system-plans-which-require-anti-venom)
+
 ## Basic information
 
 |   |   |

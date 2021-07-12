@@ -8,6 +8,7 @@ title: Pink D-Clips (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Player characters who can equip **Pink D-Clips**](#player-characters-who-can-equip-pink-d-clips)
+
 ## Basic information
 
 |   |   |

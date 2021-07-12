@@ -9,6 +9,7 @@ title: Plan: Silver Armlet (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Plans added to Remake System after collecting **Plan: Silver Armlet**](#plans-added-to-remake-system-after-collecting-plan-silver-armlet)
 - [Dungeons **Plan: Silver Armlet** is found](#dungeons-plan-silver-armlet-is-found)
+
 ## Basic information
 
 |   |   |

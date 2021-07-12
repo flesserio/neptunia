@@ -9,6 +9,7 @@ title: Ice Muffin (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Player characters who have **Ice Muffin** equipped by default](#player-characters-who-have-ice-muffin-equipped-by-default)
 - [Player characters who can equip **Ice Muffin**](#player-characters-who-can-equip-ice-muffin)
+
 ## Basic information
 
 |   |   |

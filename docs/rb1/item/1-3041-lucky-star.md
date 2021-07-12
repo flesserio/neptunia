@@ -9,6 +9,7 @@ title: Lucky Star (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Lucky Star** in shop](#remake-system-plans-which-unlock-lucky-star-in-shop)
 - [Player characters who can equip **Lucky Star**](#player-characters-who-can-equip-lucky-star)
+
 ## Basic information
 
 |   |   |

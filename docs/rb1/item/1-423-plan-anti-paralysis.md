@@ -9,6 +9,7 @@ title: Plan: Anti-Paralysis (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **Plan: Anti-Paralysis**](#chirpers-who-give-plan-anti-paralysis)
 - [Plans added to Remake System after collecting **Plan: Anti-Paralysis**](#plans-added-to-remake-system-after-collecting-plan-anti-paralysis)
+
 ## Basic information
 
 |   |   |

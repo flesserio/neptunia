@@ -7,8 +7,10 @@ title: Dancing Controller (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Dancing Controller**](#monsters-which-drop-dancing-controller)
 - [Dungeons **Dancing Controller** is found](#dungeons-dancing-controller-is-found)
 - [Remake System plans which require **Dancing Controller**](#remake-system-plans-which-require-dancing-controller)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,13 @@ title: Dancing Controller (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 746 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Dancing Controller**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-135" class="trackbox" /> | 135 | [Base](/neptunia/rb1/dlc/1-base.html) | [Alkaid](/neptunia/rb1/monster/1-135-alkaid.html) |
 
 
 ## Dungeons **Dancing Controller** is found

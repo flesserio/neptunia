@@ -9,6 +9,7 @@ title: Plan: Hitting Badge (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Plans added to Remake System after collecting **Plan: Hitting Badge**](#plans-added-to-remake-system-after-collecting-plan-hitting-badge)
 - [Dungeons **Plan: Hitting Badge** is found](#dungeons-plan-hitting-badge-is-found)
+
 ## Basic information
 
 |   |   |

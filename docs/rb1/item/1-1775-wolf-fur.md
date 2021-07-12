@@ -7,9 +7,11 @@ title: Wolf Fur (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Wolf Fur**](#monsters-which-drop-wolf-fur)
 - [Dungeons **Wolf Fur** is found](#dungeons-wolf-fur-is-found)
 - [Quests which require gathering **Wolf Fur**](#quests-which-require-gathering-wolf-fur)
 - [Remake System plans which require **Wolf Fur**](#remake-system-plans-which-require-wolf-fur)
+
 ## Basic information
 
 |   |   |
@@ -22,6 +24,14 @@ title: Wolf Fur (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 58 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Wolf Fur**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-256" class="trackbox" /> | 256 | [Base](/neptunia/rb1/dlc/1-base.html) | [Child Wolf](/neptunia/rb1/monster/1-256-child-wolf.html) |
+| <input type="checkbox" id="rb1-monster-1-257" class="trackbox" /> | 257 | [Base](/neptunia/rb1/dlc/1-base.html) | [Viral Child Wolf](/neptunia/rb1/monster/1-257-viral-child-wolf.html) |
 
 
 ## Dungeons **Wolf Fur** is found

@@ -8,6 +8,7 @@ title: Touch Controls (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Dungeons **Touch Controls** is found](#dungeons-touch-controls-is-found)
+
 ## Basic information
 
 |   |   |

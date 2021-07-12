@@ -10,6 +10,7 @@ title: Newbie Charm (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Player characters who have **Newbie Charm** equipped by default](#player-characters-who-have-newbie-charm-equipped-by-default)
 - [Player characters who can equip **Newbie Charm**](#player-characters-who-can-equip-newbie-charm)
+
 ## Basic information
 
 |   |   |

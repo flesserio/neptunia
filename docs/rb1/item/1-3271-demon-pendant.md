@@ -7,9 +7,11 @@ title: Demon Pendant (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Demon Pendant**](#monsters-which-drop-demon-pendant)
 - [Dungeons **Demon Pendant** is found](#dungeons-demon-pendant-is-found)
 - [Remake System plans which require **Demon Pendant**](#remake-system-plans-which-require-demon-pendant)
 - [Player characters who can equip **Demon Pendant**](#player-characters-who-can-equip-demon-pendant)
+
 ## Basic information
 
 |   |   |
@@ -22,6 +24,13 @@ title: Demon Pendant (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 1000 |
 | **Sell Price** | 500 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Demon Pendant**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-294" class="trackbox" /> | 294 | [Base](/neptunia/rb1/dlc/1-base.html) | [Cuberial](/neptunia/rb1/monster/1-294-cuberial.html) |
 
 
 ## Dungeons **Demon Pendant** is found

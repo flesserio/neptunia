@@ -8,8 +8,10 @@ title: Frost L (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Stats](#stats)
+- [Monsters which drop **Frost L**](#monsters-which-drop-frost-l)
 - [Dungeons **Frost L** is found](#dungeons-frost-l-is-found)
 - [Player characters who can equip **Frost L**](#player-characters-who-can-equip-frost-l)
+
 ## Basic information
 
 |   |   |
@@ -29,6 +31,13 @@ title: Frost L (Item) - Hyperdimension Neptunia Re;Birth1
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | -10 | 0 | 30 | 45 | 15 | -10 | 0 | -7 | 15 | 0 | 0 |
+
+
+## Monsters which drop **Frost L**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-143" class="trackbox" /> | 143 | [Base](/neptunia/rb1/dlc/1-base.html) | [Metal Dogoo](/neptunia/rb1/monster/1-143-metal-dogoo.html) |
 
 
 ## Dungeons **Frost L** is found

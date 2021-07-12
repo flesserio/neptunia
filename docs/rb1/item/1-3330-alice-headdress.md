@@ -9,6 +9,7 @@ title: Alice Headdress (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Alice Headdress** in shop](#remake-system-plans-which-unlock-alice-headdress-in-shop)
 - [Player characters who can equip **Alice Headdress**](#player-characters-who-can-equip-alice-headdress)
+
 ## Basic information
 
 |   |   |

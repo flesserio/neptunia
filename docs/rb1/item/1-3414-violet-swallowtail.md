@@ -9,6 +9,7 @@ title: Violet Swallowtail (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which require **Violet Swallowtail**](#remake-system-plans-which-require-violet-swallowtail)
 - [Player characters who can equip **Violet Swallowtail**](#player-characters-who-can-equip-violet-swallowtail)
+
 ## Basic information
 
 |   |   |

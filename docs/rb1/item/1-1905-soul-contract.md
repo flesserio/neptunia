@@ -7,8 +7,10 @@ title: Soul Contract (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Soul Contract**](#monsters-which-drop-soul-contract)
 - [Dungeons **Soul Contract** is found](#dungeons-soul-contract-is-found)
 - [Remake System plans which require **Soul Contract**](#remake-system-plans-which-require-soul-contract)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,13 @@ title: Soul Contract (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 89 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Soul Contract**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-294" class="trackbox" /> | 294 | [Base](/neptunia/rb1/dlc/1-base.html) | [Cuberial](/neptunia/rb1/monster/1-294-cuberial.html) |
 
 
 ## Dungeons **Soul Contract** is found

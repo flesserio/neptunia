@@ -7,8 +7,10 @@ title: Bomb Fragment (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Bomb Fragment**](#monsters-which-drop-bomb-fragment)
 - [Dungeons **Bomb Fragment** is found](#dungeons-bomb-fragment-is-found)
 - [Remake System plans which require **Bomb Fragment**](#remake-system-plans-which-require-bomb-fragment)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,13 @@ title: Bomb Fragment (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 15 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Bomb Fragment**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-137" class="trackbox" /> | 137 | [Base](/neptunia/rb1/dlc/1-base.html) | [WD Head](/neptunia/rb1/monster/1-137-wd-head.html) |
 
 
 ## Dungeons **Bomb Fragment** is found

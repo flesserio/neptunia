@@ -9,6 +9,7 @@ title: Change Items: MS Mountain (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **Change Items: MS Mountain**](#chirpers-who-give-change-items-ms-mountain)
 - [Plans added to Remake System after collecting **Change Items: MS Mountain**](#plans-added-to-remake-system-after-collecting-change-items-ms-mountain)
+
 ## Basic information
 
 |   |   |

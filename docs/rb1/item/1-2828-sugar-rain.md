@@ -9,6 +9,7 @@ title: Sugar Rain (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which require **Sugar Rain**](#remake-system-plans-which-require-sugar-rain)
 - [Player characters who can equip **Sugar Rain**](#player-characters-who-can-equip-sugar-rain)
+
 ## Basic information
 
 |   |   |

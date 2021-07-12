@@ -8,6 +8,7 @@ title: Cure Ribbon (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Player characters who can equip **Cure Ribbon**](#player-characters-who-can-equip-cure-ribbon)
+
 ## Basic information
 
 |   |   |

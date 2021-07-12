@@ -9,6 +9,7 @@ title: Blood Veil (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Blood Veil** in shop](#remake-system-plans-which-unlock-blood-veil-in-shop)
 - [Player characters who can equip **Blood Veil**](#player-characters-who-can-equip-blood-veil)
+
 ## Basic information
 
 |   |   |

@@ -7,9 +7,11 @@ title: Hobby Soul (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Hobby Soul**](#monsters-which-drop-hobby-soul)
 - [Dungeons **Hobby Soul** is found](#dungeons-hobby-soul-is-found)
 - [Quests which require gathering **Hobby Soul**](#quests-which-require-gathering-hobby-soul)
 - [Remake System plans which require **Hobby Soul**](#remake-system-plans-which-require-hobby-soul)
+
 ## Basic information
 
 |   |   |
@@ -22,6 +24,13 @@ title: Hobby Soul (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 306 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Hobby Soul**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-215" class="trackbox" /> | 215 | [Base](/neptunia/rb1/dlc/1-base.html) | [Bundodo Old Man](/neptunia/rb1/monster/1-215-bundodo-old-man.html) |
 
 
 ## Dungeons **Hobby Soul** is found

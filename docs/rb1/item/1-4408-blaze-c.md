@@ -9,6 +9,7 @@ title: Blaze C (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Blaze C**](#player-characters-who-can-equip-blaze-c)
+
 ## Basic information
 
 |   |   |

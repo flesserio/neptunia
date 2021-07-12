@@ -10,6 +10,7 @@ title: White W (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Player characters who have **White W** equipped by default](#player-characters-who-have-white-w-equipped-by-default)
 - [Player characters who can equip **White W**](#player-characters-who-can-equip-white-w)
+
 ## Basic information
 
 |   |   |

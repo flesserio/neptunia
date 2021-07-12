@@ -7,8 +7,10 @@ title: Lost Holy Cloth (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Lost Holy Cloth**](#monsters-which-drop-lost-holy-cloth)
 - [Dungeons **Lost Holy Cloth** is found](#dungeons-lost-holy-cloth-is-found)
 - [Remake System plans which require **Lost Holy Cloth**](#remake-system-plans-which-require-lost-holy-cloth)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,13 @@ title: Lost Holy Cloth (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 72 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Lost Holy Cloth**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-360" class="trackbox" /> | 360 | [Base](/neptunia/rb1/dlc/1-base.html) | [Lost Boy](/neptunia/rb1/monster/1-360-lost-boy.html) |
 
 
 ## Dungeons **Lost Holy Cloth** is found

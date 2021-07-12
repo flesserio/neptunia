@@ -7,8 +7,10 @@ title: Nayuta Ribbon (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Nayuta Ribbon**](#monsters-which-drop-nayuta-ribbon)
 - [Dungeons **Nayuta Ribbon** is found](#dungeons-nayuta-ribbon-is-found)
 - [Player characters who can equip **Nayuta Ribbon**](#player-characters-who-can-equip-nayuta-ribbon)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,13 @@ title: Nayuta Ribbon (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 1000 |
 | **Sell Price** | 500 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Nayuta Ribbon**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-362" class="trackbox" /> | 362 | [Base](/neptunia/rb1/dlc/1-base.html) | [Promise Keeper](/neptunia/rb1/monster/1-362-promise-keeper.html) |
 
 
 ## Dungeons **Nayuta Ribbon** is found

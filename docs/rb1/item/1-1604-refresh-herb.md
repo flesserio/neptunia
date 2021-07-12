@@ -9,6 +9,7 @@ title: Refresh Herb (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Refresh Herb** is found](#dungeons-refresh-herb-is-found)
 - [Remake System plans which require **Refresh Herb**](#remake-system-plans-which-require-refresh-herb)
+
 ## Basic information
 
 |   |   |

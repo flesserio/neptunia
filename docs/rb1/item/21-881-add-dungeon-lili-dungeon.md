@@ -9,6 +9,7 @@ title: Add Dungeon: Lili Dungeon (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **Add Dungeon: Lili Dungeon**](#chirpers-who-give-add-dungeon-lili-dungeon)
 - [Plans added to Remake System after collecting **Add Dungeon: Lili Dungeon**](#plans-added-to-remake-system-after-collecting-add-dungeon-lili-dungeon)
+
 ## Basic information
 
 |   |   |

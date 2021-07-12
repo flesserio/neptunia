@@ -7,8 +7,10 @@ title: Pyocola's Hat (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Pyocola's Hat**](#monsters-which-drop-pyocolas-hat)
 - [Dungeons **Pyocola's Hat** is found](#dungeons-pyocolas-hat-is-found)
 - [Player characters who can equip **Pyocola's Hat**](#player-characters-who-can-equip-pyocolas-hat)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,13 @@ title: Pyocola's Hat (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 1000 |
 | **Sell Price** | 500 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Pyocola's Hat**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-378" class="trackbox" /> | 378 | [Base](/neptunia/rb1/dlc/1-base.html) | [Penguin](/neptunia/rb1/monster/1-378-penguin.html) |
 
 
 ## Dungeons **Pyocola's Hat** is found

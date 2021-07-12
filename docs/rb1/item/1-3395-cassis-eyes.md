@@ -9,6 +9,7 @@ title: Cassis Eyes (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Cassis Eyes** in shop](#remake-system-plans-which-unlock-cassis-eyes-in-shop)
 - [Player characters who can equip **Cassis Eyes**](#player-characters-who-can-equip-cassis-eyes)
+
 ## Basic information
 
 |   |   |

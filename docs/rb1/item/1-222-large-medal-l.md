@@ -8,6 +8,7 @@ title: Large Medal L (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Quests which reward **Large Medal L**](#quests-which-reward-large-medal-l)
+
 ## Basic information
 
 |   |   |

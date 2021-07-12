@@ -9,6 +9,7 @@ title: Tortoise Gloves (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Tortoise Gloves**](#player-characters-who-can-equip-tortoise-gloves)
+
 ## Basic information
 
 |   |   |

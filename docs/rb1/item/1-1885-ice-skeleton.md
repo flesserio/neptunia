@@ -7,8 +7,10 @@ title: Ice Skeleton (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Ice Skeleton**](#monsters-which-drop-ice-skeleton)
 - [Dungeons **Ice Skeleton** is found](#dungeons-ice-skeleton-is-found)
 - [Remake System plans which require **Ice Skeleton**](#remake-system-plans-which-require-ice-skeleton)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,13 @@ title: Ice Skeleton (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 195 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Ice Skeleton**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-164" class="trackbox" /> | 164 | [Base](/neptunia/rb1/dlc/1-base.html) | [Frozen Skull](/neptunia/rb1/monster/1-164-frozen-skull.html) |
 
 
 ## Dungeons **Ice Skeleton** is found

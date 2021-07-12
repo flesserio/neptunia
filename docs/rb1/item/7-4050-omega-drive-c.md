@@ -10,6 +10,7 @@ title: Omega Drive C (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Player characters who have **Omega Drive C** equipped by default](#player-characters-who-have-omega-drive-c-equipped-by-default)
 - [Player characters who can equip **Omega Drive C**](#player-characters-who-can-equip-omega-drive-c)
+
 ## Basic information
 
 |   |   |

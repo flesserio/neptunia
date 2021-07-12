@@ -8,6 +8,7 @@ title: Princess Rose (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Player characters who can equip **Princess Rose**](#player-characters-who-can-equip-princess-rose)
+
 ## Basic information
 
 |   |   |

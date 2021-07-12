@@ -9,6 +9,7 @@ title: Fantasy Headdress (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Fantasy Headdress** in shop](#remake-system-plans-which-unlock-fantasy-headdress-in-shop)
 - [Player characters who can equip **Fantasy Headdress**](#player-characters-who-can-equip-fantasy-headdress)
+
 ## Basic information
 
 |   |   |

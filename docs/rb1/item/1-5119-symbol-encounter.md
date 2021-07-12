@@ -8,6 +8,7 @@ title: Symbol Encounter (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Dungeons **Symbol Encounter** is found](#dungeons-symbol-encounter-is-found)
+
 ## Basic information
 
 |   |   |

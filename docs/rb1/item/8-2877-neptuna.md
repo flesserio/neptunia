@@ -9,6 +9,7 @@ title: Neptuna (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which require **Neptuna**](#remake-system-plans-which-require-neptuna)
 - [Player characters who can equip **Neptuna**](#player-characters-who-can-equip-neptuna)
+
 ## Basic information
 
 |   |   |

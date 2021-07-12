@@ -7,9 +7,11 @@ title: Black Box Set (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Black Box Set**](#monsters-which-drop-black-box-set)
 - [Dungeons **Black Box Set** is found](#dungeons-black-box-set-is-found)
 - [Quests which require gathering **Black Box Set**](#quests-which-require-gathering-black-box-set)
 - [Remake System plans which require **Black Box Set**](#remake-system-plans-which-require-black-box-set)
+
 ## Basic information
 
 |   |   |
@@ -22,6 +24,13 @@ title: Black Box Set (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 180 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Black Box Set**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-165" class="trackbox" /> | 165 | [Base](/neptunia/rb1/dlc/1-base.html) | [Violent Good Girl](/neptunia/rb1/monster/1-165-violent-good-girl.html) |
 
 
 ## Dungeons **Black Box Set** is found

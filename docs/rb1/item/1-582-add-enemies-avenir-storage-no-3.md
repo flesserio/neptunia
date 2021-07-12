@@ -9,6 +9,7 @@ title: Add Enemies: Avenir Storage No.3 (Item) - Hyperdimension Neptunia Re;Birt
 - [Basic information](#basic-information)
 - [Chirpers who give **Add Enemies: Avenir Storage No.3**](#chirpers-who-give-add-enemies-avenir-storage-no3)
 - [Plans added to Remake System after collecting **Add Enemies: Avenir Storage No.3**](#plans-added-to-remake-system-after-collecting-add-enemies-avenir-storage-no3)
+
 ## Basic information
 
 |   |   |

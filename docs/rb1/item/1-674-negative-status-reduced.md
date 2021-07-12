@@ -9,6 +9,7 @@ title: Negative Status Reduced (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **Negative Status Reduced**](#chirpers-who-give-negative-status-reduced)
 - [Plans added to Remake System after collecting **Negative Status Reduced**](#plans-added-to-remake-system-after-collecting-negative-status-reduced)
+
 ## Basic information
 
 |   |   |

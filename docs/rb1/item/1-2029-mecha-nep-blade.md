@@ -10,6 +10,7 @@ title: Mecha-Nep Blade (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Colosseum quests which reward **Mecha-Nep Blade**](#colosseum-quests-which-reward-mecha-nep-blade)
 - [Player characters who can equip **Mecha-Nep Blade**](#player-characters-who-can-equip-mecha-nep-blade)
+
 ## Basic information
 
 |   |   |

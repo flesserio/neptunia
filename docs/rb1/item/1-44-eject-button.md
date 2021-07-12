@@ -9,6 +9,7 @@ title: Eject Button (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Eject Button** in shop](#remake-system-plans-which-unlock-eject-button-in-shop)
 - [Dungeons **Eject Button** is found](#dungeons-eject-button-is-found)
+
 ## Basic information
 
 |   |   |

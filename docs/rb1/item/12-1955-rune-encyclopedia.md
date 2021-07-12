@@ -7,8 +7,10 @@ title: Rune Encyclopedia (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Rune Encyclopedia**](#monsters-which-drop-rune-encyclopedia)
 - [Dungeons **Rune Encyclopedia** is found](#dungeons-rune-encyclopedia-is-found)
 - [Remake System plans which require **Rune Encyclopedia**](#remake-system-plans-which-require-rune-encyclopedia)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,13 @@ title: Rune Encyclopedia (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 10000 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Rune Encyclopedia**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-12-401" class="trackbox" /> | 401 | [Additional Content Package 3](/neptunia/rb1/dlc/12-pack3.html) | [Clione](/neptunia/rb1/monster/12-401-clione.html) |
 
 
 ## Dungeons **Rune Encyclopedia** is found

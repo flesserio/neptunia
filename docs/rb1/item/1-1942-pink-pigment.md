@@ -10,6 +10,7 @@ title: Pink Pigment (Item) - Hyperdimension Neptunia Re;Birth1
 - [Remake System plans which unlock **Pink Pigment** in shop](#remake-system-plans-which-unlock-pink-pigment-in-shop)
 - [Dungeons **Pink Pigment** is found](#dungeons-pink-pigment-is-found)
 - [Remake System plans which require **Pink Pigment**](#remake-system-plans-which-require-pink-pigment)
+
 ## Basic information
 
 |   |   |

@@ -9,6 +9,7 @@ title: Add Enemies: Nights' Dimension (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **Add Enemies: Nights' Dimension**](#chirpers-who-give-add-enemies-nights-dimension)
 - [Plans added to Remake System after collecting **Add Enemies: Nights' Dimension**](#plans-added-to-remake-system-after-collecting-add-enemies-nights-dimension)
+
 ## Basic information
 
 |   |   |

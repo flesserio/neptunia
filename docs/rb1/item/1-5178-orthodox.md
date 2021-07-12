@@ -8,6 +8,7 @@ title: Orthodox (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Dungeons **Orthodox** is found](#dungeons-orthodox-is-found)
+
 ## Basic information
 
 |   |   |

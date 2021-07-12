@@ -9,6 +9,7 @@ title: White Camellia (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **White Camellia** in shop](#remake-system-plans-which-unlock-white-camellia-in-shop)
 - [Player characters who can equip **White Camellia**](#player-characters-who-can-equip-white-camellia)
+
 ## Basic information
 
 |   |   |

@@ -9,6 +9,7 @@ title: Amethyst Ribbon (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which require **Amethyst Ribbon**](#remake-system-plans-which-require-amethyst-ribbon)
 - [Player characters who can equip **Amethyst Ribbon**](#player-characters-who-can-equip-amethyst-ribbon)
+
 ## Basic information
 
 |   |   |

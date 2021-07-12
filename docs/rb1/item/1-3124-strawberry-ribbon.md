@@ -7,9 +7,11 @@ title: Strawberry Ribbon (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Strawberry Ribbon**](#monsters-which-drop-strawberry-ribbon)
 - [Dungeons **Strawberry Ribbon** is found](#dungeons-strawberry-ribbon-is-found)
 - [Remake System plans which require **Strawberry Ribbon**](#remake-system-plans-which-require-strawberry-ribbon)
 - [Player characters who can equip **Strawberry Ribbon**](#player-characters-who-can-equip-strawberry-ribbon)
+
 ## Basic information
 
 |   |   |
@@ -22,6 +24,13 @@ title: Strawberry Ribbon (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 1000 |
 | **Sell Price** | 500 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Strawberry Ribbon**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-122" class="trackbox" /> | 122 | [Base](/neptunia/rb1/dlc/1-base.html) | [Spider](/neptunia/rb1/monster/1-122-spider.html) |
 
 
 ## Dungeons **Strawberry Ribbon** is found

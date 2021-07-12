@@ -11,6 +11,7 @@ title: Energy Lump (Item) - Hyperdimension Neptunia Re;Birth1
 - [Dungeons **Energy Lump** is found](#dungeons-energy-lump-is-found)
 - [Colosseum quests which reward **Energy Lump**](#colosseum-quests-which-reward-energy-lump)
 - [Quests which reward **Energy Lump**](#quests-which-reward-energy-lump)
+
 ## Basic information
 
 |   |   |

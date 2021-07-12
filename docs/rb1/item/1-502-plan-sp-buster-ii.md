@@ -9,6 +9,7 @@ title: Plan: SP Buster II (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Plans added to Remake System after collecting **Plan: SP Buster II**](#plans-added-to-remake-system-after-collecting-plan-sp-buster-ii)
 - [Dungeons **Plan: SP Buster II** is found](#dungeons-plan-sp-buster-ii-is-found)
+
 ## Basic information
 
 |   |   |

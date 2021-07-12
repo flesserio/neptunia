@@ -8,6 +8,7 @@ title: <BLANK> B (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Player characters who can equip **&lt;BLANK&gt; B**](#player-characters-who-can-equip-blank-b)
+
 ## Basic information
 
 |   |   |

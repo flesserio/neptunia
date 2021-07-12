@@ -9,6 +9,7 @@ title: Black Glasses (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Black Glasses** in shop](#remake-system-plans-which-unlock-black-glasses-in-shop)
 - [Player characters who can equip **Black Glasses**](#player-characters-who-can-equip-black-glasses)
+
 ## Basic information
 
 |   |   |

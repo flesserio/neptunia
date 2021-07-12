@@ -7,8 +7,10 @@ title: Dream Dolphin Tail (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Dream Dolphin Tail**](#monsters-which-drop-dream-dolphin-tail)
 - [Dungeons **Dream Dolphin Tail** is found](#dungeons-dream-dolphin-tail-is-found)
 - [Remake System plans which require **Dream Dolphin Tail**](#remake-system-plans-which-require-dream-dolphin-tail)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,13 @@ title: Dream Dolphin Tail (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 1891 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Dream Dolphin Tail**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-166" class="trackbox" /> | 166 | [Base](/neptunia/rb1/dlc/1-base.html) | [Plaid Dolphin](/neptunia/rb1/monster/1-166-plaid-dolphin.html) |
 
 
 ## Dungeons **Dream Dolphin Tail** is found

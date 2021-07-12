@@ -10,6 +10,7 @@ title: Mage Staff (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Player characters who have **Mage Staff** equipped by default](#player-characters-who-have-mage-staff-equipped-by-default)
 - [Player characters who can equip **Mage Staff**](#player-characters-who-can-equip-mage-staff)
+
 ## Basic information
 
 |   |   |

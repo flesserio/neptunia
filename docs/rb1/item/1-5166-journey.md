@@ -7,8 +7,10 @@ title: Journey (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Journey**](#monsters-which-drop-journey)
 - [Dungeons **Journey** is found](#dungeons-journey-is-found)
 - [Colosseum quests which reward **Journey**](#colosseum-quests-which-reward-journey)
+
 ## Basic information
 
 |   |   |
@@ -23,6 +25,14 @@ title: Journey (Item) - Hyperdimension Neptunia Re;Birth1
 | **Max inventory** | 99 |
 | **Idea Chip level** | 4 |
 | **Idea Chip ability** | [Gained Credits Up Lv.4](/neptunia/rb1/avatar/1-9665-gained-credits-up-lv-4.html)<br />Increases Gained Credits by 40% |
+
+
+## Monsters which drop **Journey**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-148" class="trackbox" /> | 148 | [Base](/neptunia/rb1/dlc/1-base.html) | [Land Whale](/neptunia/rb1/monster/1-148-land-whale.html) |
+| <input type="checkbox" id="rb1-monster-1-1028" class="trackbox" /> | 1028 | [Base](/neptunia/rb1/dlc/1-base.html) | [Arfoire](/neptunia/rb1/monster/1-1028-arfoire.html) |
 
 
 ## Dungeons **Journey** is found

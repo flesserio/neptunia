@@ -9,6 +9,7 @@ title: White D-Clips (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Player characters who have **White D-Clips** equipped by default](#player-characters-who-have-white-d-clips-equipped-by-default)
 - [Player characters who can equip **White D-Clips**](#player-characters-who-can-equip-white-d-clips)
+
 ## Basic information
 
 |   |   |

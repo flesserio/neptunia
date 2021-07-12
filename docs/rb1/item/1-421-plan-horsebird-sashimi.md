@@ -9,6 +9,7 @@ title: Plan: Horsebird Sashimi (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Plans added to Remake System after collecting **Plan: Horsebird Sashimi**](#plans-added-to-remake-system-after-collecting-plan-horsebird-sashimi)
 - [Dungeons **Plan: Horsebird Sashimi** is found](#dungeons-plan-horsebird-sashimi-is-found)
+
 ## Basic information
 
 |   |   |

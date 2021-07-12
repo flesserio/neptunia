@@ -8,6 +8,7 @@ title: Wind Dress (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Player characters who can equip **Wind Dress**](#player-characters-who-can-equip-wind-dress)
+
 ## Basic information
 
 |   |   |

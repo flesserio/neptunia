@@ -10,6 +10,7 @@ title: Orange Necktie (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Player characters who have **Orange Necktie** equipped by default](#player-characters-who-have-orange-necktie-equipped-by-default)
 - [Player characters who can equip **Orange Necktie**](#player-characters-who-can-equip-orange-necktie)
+
 ## Basic information
 
 |   |   |

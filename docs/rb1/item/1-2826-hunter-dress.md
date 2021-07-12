@@ -10,6 +10,7 @@ title: Hunter Dress (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Chirpers who give **Hunter Dress**](#chirpers-who-give-hunter-dress)
 - [Player characters who can equip **Hunter Dress**](#player-characters-who-can-equip-hunter-dress)
+
 ## Basic information
 
 |   |   |

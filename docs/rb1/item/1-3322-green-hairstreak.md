@@ -9,6 +9,7 @@ title: Green Hairstreak (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Green Hairstreak** in shop](#remake-system-plans-which-unlock-green-hairstreak-in-shop)
 - [Player characters who can equip **Green Hairstreak**](#player-characters-who-can-equip-green-hairstreak)
+
 ## Basic information
 
 |   |   |

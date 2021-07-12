@@ -10,6 +10,7 @@ title: Ark Anklet (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Remake System plans which unlock **Ark Anklet** in shop](#remake-system-plans-which-unlock-ark-anklet-in-shop)
 - [Player characters who can equip **Ark Anklet**](#player-characters-who-can-equip-ark-anklet)
+
 ## Basic information
 
 |   |   |

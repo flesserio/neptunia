@@ -9,6 +9,7 @@ title: Get Thee Painting! (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **Get Thee Painting!**](#chirpers-who-give-get-thee-painting)
 - [Plans added to Remake System after collecting **Get Thee Painting!**](#plans-added-to-remake-system-after-collecting-get-thee-painting)
+
 ## Basic information
 
 |   |   |

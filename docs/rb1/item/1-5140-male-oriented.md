@@ -7,8 +7,10 @@ title: Male-oriented (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Male-oriented**](#monsters-which-drop-male-oriented)
 - [Dungeons **Male-oriented** is found](#dungeons-male-oriented-is-found)
 - [Quests which reward **Male-oriented**](#quests-which-reward-male-oriented)
+
 ## Basic information
 
 |   |   |
@@ -23,6 +25,13 @@ title: Male-oriented (Item) - Hyperdimension Neptunia Re;Birth1
 | **Max inventory** | 99 |
 | **Idea Chip level** | 3 |
 | **Idea Chip ability** | [Battle End SP Heal Lv.3](/neptunia/rb1/avatar/1-9639-battle-end-sp-heal-lv-3.html)<br />Increases Battle End SP Heal by 6% |
+
+
+## Monsters which drop **Male-oriented**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-125" class="trackbox" /> | 125 | [Base](/neptunia/rb1/dlc/1-base.html) | [Boss Lizard](/neptunia/rb1/monster/1-125-boss-lizard.html) |
 
 
 ## Dungeons **Male-oriented** is found

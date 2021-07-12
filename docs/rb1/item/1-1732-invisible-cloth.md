@@ -7,8 +7,10 @@ title: Invisible Cloth (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Invisible Cloth**](#monsters-which-drop-invisible-cloth)
 - [Dungeons **Invisible Cloth** is found](#dungeons-invisible-cloth-is-found)
 - [Remake System plans which require **Invisible Cloth**](#remake-system-plans-which-require-invisible-cloth)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,13 @@ title: Invisible Cloth (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 31 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Invisible Cloth**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-330" class="trackbox" /> | 330 | [Base](/neptunia/rb1/dlc/1-base.html) | [Pinky](/neptunia/rb1/monster/1-330-pinky.html) |
 
 
 ## Dungeons **Invisible Cloth** is found

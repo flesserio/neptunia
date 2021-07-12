@@ -10,6 +10,7 @@ title: Ice Ribbon (Item) - Hyperdimension Neptunia Re;Birth1
 - [Remake System plans which unlock **Ice Ribbon** in shop](#remake-system-plans-which-unlock-ice-ribbon-in-shop)
 - [Remake System plans which require **Ice Ribbon**](#remake-system-plans-which-require-ice-ribbon)
 - [Player characters who can equip **Ice Ribbon**](#player-characters-who-can-equip-ice-ribbon)
+
 ## Basic information
 
 |   |   |

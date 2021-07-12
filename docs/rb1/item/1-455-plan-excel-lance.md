@@ -9,6 +9,7 @@ title: Plan: Excel-Lance (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **Plan: Excel-Lance**](#chirpers-who-give-plan-excel-lance)
 - [Plans added to Remake System after collecting **Plan: Excel-Lance**](#plans-added-to-remake-system-after-collecting-plan-excel-lance)
+
 ## Basic information
 
 |   |   |

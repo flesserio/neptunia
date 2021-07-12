@@ -9,6 +9,7 @@ title: Gale Stone (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Gale Stone** is found](#dungeons-gale-stone-is-found)
 - [Remake System plans which require **Gale Stone**](#remake-system-plans-which-require-gale-stone)
+
 ## Basic information
 
 |   |   |

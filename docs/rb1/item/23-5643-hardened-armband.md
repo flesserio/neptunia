@@ -10,6 +10,7 @@ title: Hardened Armband (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Player characters who have **Hardened Armband** equipped by default](#player-characters-who-have-hardened-armband-equipped-by-default)
 - [Player characters who can equip **Hardened Armband**](#player-characters-who-can-equip-hardened-armband)
+
 ## Basic information
 
 |   |   |

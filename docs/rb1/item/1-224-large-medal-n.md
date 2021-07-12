@@ -7,7 +7,9 @@ title: Large Medal N (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Large Medal N**](#monsters-which-drop-large-medal-n)
 - [Dungeons **Large Medal N** is found](#dungeons-large-medal-n-is-found)
+
 ## Basic information
 
 |   |   |
@@ -20,6 +22,13 @@ title: Large Medal N (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 0 |
 | **Max inventory** | 1 |
+
+
+## Monsters which drop **Large Medal N**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-318" class="trackbox" /> | 318 | [Base](/neptunia/rb1/dlc/1-base.html) | [Peacock](/neptunia/rb1/monster/1-318-peacock.html) |
 
 
 ## Dungeons **Large Medal N** is found

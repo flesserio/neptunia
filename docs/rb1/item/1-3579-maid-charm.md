@@ -9,6 +9,7 @@ title: Maid Charm (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Maid Charm**](#player-characters-who-can-equip-maid-charm)
+
 ## Basic information
 
 |   |   |

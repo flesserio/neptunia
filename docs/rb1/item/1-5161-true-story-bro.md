@@ -9,6 +9,7 @@ title: True Story, Bro (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **True Story, Bro** is found](#dungeons-true-story-bro-is-found)
 - [Colosseum quests which reward **True Story, Bro**](#colosseum-quests-which-reward-true-story-bro)
+
 ## Basic information
 
 |   |   |

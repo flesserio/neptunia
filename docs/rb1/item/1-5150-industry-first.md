@@ -9,6 +9,7 @@ title: Industry First! (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Industry First!** is found](#dungeons-industry-first-is-found)
 - [Quests which reward **Industry First!**](#quests-which-reward-industry-first)
+
 ## Basic information
 
 |   |   |

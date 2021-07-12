@@ -9,6 +9,7 @@ title: Strategy Guide (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Strategy Guide**](#player-characters-who-can-equip-strategy-guide)
+
 ## Basic information
 
 |   |   |

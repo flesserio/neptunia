@@ -9,6 +9,7 @@ title: Fluffy Sheep (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Fluffy Sheep** in shop](#remake-system-plans-which-unlock-fluffy-sheep-in-shop)
 - [Player characters who can equip **Fluffy Sheep**](#player-characters-who-can-equip-fluffy-sheep)
+
 ## Basic information
 
 |   |   |

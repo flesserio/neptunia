@@ -9,6 +9,7 @@ title: Copper Ore (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Copper Ore** is found](#dungeons-copper-ore-is-found)
 - [Remake System plans which require **Copper Ore**](#remake-system-plans-which-require-copper-ore)
+
 ## Basic information
 
 |   |   |

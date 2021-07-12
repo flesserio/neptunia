@@ -10,6 +10,7 @@ title: School Hat (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Quests which reward **School Hat**](#quests-which-reward-school-hat)
 - [Player characters who can equip **School Hat**](#player-characters-who-can-equip-school-hat)
+
 ## Basic information
 
 |   |   |

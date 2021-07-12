@@ -10,6 +10,7 @@ title: Mysterious Ring (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Remake System plans which unlock **Mysterious Ring** in shop](#remake-system-plans-which-unlock-mysterious-ring-in-shop)
 - [Player characters who can equip **Mysterious Ring**](#player-characters-who-can-equip-mysterious-ring)
+
 ## Basic information
 
 |   |   |

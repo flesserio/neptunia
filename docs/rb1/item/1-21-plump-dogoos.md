@@ -9,6 +9,7 @@ title: Plump Dogoos (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Plump Dogoos** is found](#dungeons-plump-dogoos-is-found)
 - [Quests which reward **Plump Dogoos**](#quests-which-reward-plump-dogoos)
+
 ## Basic information
 
 |   |   |

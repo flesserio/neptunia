@@ -7,9 +7,11 @@ title: Magical Wolf Fang (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Magical Wolf Fang**](#monsters-which-drop-magical-wolf-fang)
 - [Dungeons **Magical Wolf Fang** is found](#dungeons-magical-wolf-fang-is-found)
 - [Quests which require gathering **Magical Wolf Fang**](#quests-which-require-gathering-magical-wolf-fang)
 - [Remake System plans which require **Magical Wolf Fang**](#remake-system-plans-which-require-magical-wolf-fang)
+
 ## Basic information
 
 |   |   |
@@ -22,6 +24,13 @@ title: Magical Wolf Fang (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 466 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Magical Wolf Fang**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-265" class="trackbox" /> | 265 | [Base](/neptunia/rb1/dlc/1-base.html) | [Fenrir](/neptunia/rb1/monster/1-265-fenrir.html) |
 
 
 ## Dungeons **Magical Wolf Fang** is found

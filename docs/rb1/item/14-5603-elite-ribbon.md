@@ -10,6 +10,7 @@ title: Elite Ribbon (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Player characters who have **Elite Ribbon** equipped by default](#player-characters-who-have-elite-ribbon-equipped-by-default)
 - [Player characters who can equip **Elite Ribbon**](#player-characters-who-can-equip-elite-ribbon)
+
 ## Basic information
 
 |   |   |

@@ -7,8 +7,10 @@ title: Black Gel Feeler (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Black Gel Feeler**](#monsters-which-drop-black-gel-feeler)
 - [Dungeons **Black Gel Feeler** is found](#dungeons-black-gel-feeler-is-found)
 - [Remake System plans which require **Black Gel Feeler**](#remake-system-plans-which-require-black-gel-feeler)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,13 @@ title: Black Gel Feeler (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 106 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Black Gel Feeler**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-151" class="trackbox" /> | 151 | [Base](/neptunia/rb1/dlc/1-base.html) | [High Heal Dogoo](/neptunia/rb1/monster/1-151-high-heal-dogoo.html) |
 
 
 ## Dungeons **Black Gel Feeler** is found

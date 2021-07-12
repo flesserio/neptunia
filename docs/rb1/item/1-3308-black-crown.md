@@ -9,6 +9,7 @@ title: Black Crown (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Black Crown** in shop](#remake-system-plans-which-unlock-black-crown-in-shop)
 - [Player characters who can equip **Black Crown**](#player-characters-who-can-equip-black-crown)
+
 ## Basic information
 
 |   |   |

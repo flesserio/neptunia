@@ -9,6 +9,7 @@ title: B.K. Emperor (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **B.K. Emperor**](#player-characters-who-can-equip-bk-emperor)
+
 ## Basic information
 
 |   |   |

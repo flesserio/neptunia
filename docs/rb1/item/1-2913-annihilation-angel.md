@@ -8,6 +8,7 @@ title: Annihilation Angel (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Player characters who can equip **Annihilation Angel**](#player-characters-who-can-equip-annihilation-angel)
+
 ## Basic information
 
 |   |   |

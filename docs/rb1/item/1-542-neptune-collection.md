@@ -9,6 +9,7 @@ title: Neptune Collection (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **Neptune Collection**](#chirpers-who-give-neptune-collection)
 - [Plans added to Remake System after collecting **Neptune Collection**](#plans-added-to-remake-system-after-collecting-neptune-collection)
+
 ## Basic information
 
 |   |   |

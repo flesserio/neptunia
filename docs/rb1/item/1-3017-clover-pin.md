@@ -10,6 +10,7 @@ title: Clover Pin (Item) - Hyperdimension Neptunia Re;Birth1
 - [Remake System plans which unlock **Clover Pin** in shop](#remake-system-plans-which-unlock-clover-pin-in-shop)
 - [Remake System plans which require **Clover Pin**](#remake-system-plans-which-require-clover-pin)
 - [Player characters who can equip **Clover Pin**](#player-characters-who-can-equip-clover-pin)
+
 ## Basic information
 
 |   |   |

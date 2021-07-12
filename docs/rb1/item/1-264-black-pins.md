@@ -8,6 +8,7 @@ title: Black Pins (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Colosseum quests which reward **Black Pins**](#colosseum-quests-which-reward-black-pins)
+
 ## Basic information
 
 |   |   |

@@ -7,8 +7,10 @@ title: Crude Circuit (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Crude Circuit**](#monsters-which-drop-crude-circuit)
 - [Dungeons **Crude Circuit** is found](#dungeons-crude-circuit-is-found)
 - [Remake System plans which require **Crude Circuit**](#remake-system-plans-which-require-crude-circuit)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,14 @@ title: Crude Circuit (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 7 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Crude Circuit**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-263" class="trackbox" /> | 263 | [Base](/neptunia/rb1/dlc/1-base.html) | [M-3](/neptunia/rb1/monster/1-263-m-3.html) |
+| <input type="checkbox" id="rb1-monster-11-406" class="trackbox" /> | 406 | [Additional Content Package 2](/neptunia/rb1/dlc/11-pack2.html) | [M-3D](/neptunia/rb1/monster/11-406-m-3d.html) |
 
 
 ## Dungeons **Crude Circuit** is found

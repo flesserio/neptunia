@@ -10,6 +10,7 @@ title: Green W (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Player characters who have **Green W** equipped by default](#player-characters-who-have-green-w-equipped-by-default)
 - [Player characters who can equip **Green W**](#player-characters-who-can-equip-green-w)
+
 ## Basic information
 
 |   |   |

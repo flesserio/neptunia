@@ -8,6 +8,7 @@ title: Special Peripheral (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Dungeons **Special Peripheral** is found](#dungeons-special-peripheral-is-found)
+
 ## Basic information
 
 |   |   |

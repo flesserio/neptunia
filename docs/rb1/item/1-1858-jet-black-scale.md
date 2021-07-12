@@ -7,9 +7,11 @@ title: Jet-Black Scale (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Jet-Black Scale**](#monsters-which-drop-jet-black-scale)
 - [Dungeons **Jet-Black Scale** is found](#dungeons-jet-black-scale-is-found)
 - [Quests which require gathering **Jet-Black Scale**](#quests-which-require-gathering-jet-black-scale)
 - [Remake System plans which require **Jet-Black Scale**](#remake-system-plans-which-require-jet-black-scale)
+
 ## Basic information
 
 |   |   |
@@ -22,6 +24,14 @@ title: Jet-Black Scale (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 229 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Jet-Black Scale**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-296" class="trackbox" /> | 296 | [Base](/neptunia/rb1/dlc/1-base.html) | [Death Stalker](/neptunia/rb1/monster/1-296-death-stalker.html) |
+| <input type="checkbox" id="rb1-monster-1-297" class="trackbox" /> | 297 | [Base](/neptunia/rb1/dlc/1-base.html) | [Viral Death Stalker](/neptunia/rb1/monster/1-297-viral-death-stalker.html) |
 
 
 ## Dungeons **Jet-Black Scale** is found

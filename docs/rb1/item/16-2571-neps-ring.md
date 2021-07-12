@@ -8,8 +8,10 @@ title: Nep's Ring (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Stats](#stats)
+- [Monsters which drop **Nep's Ring**](#monsters-which-drop-neps-ring)
 - [Dungeons **Nep's Ring** is found](#dungeons-neps-ring-is-found)
 - [Player characters who can equip **Nep's Ring**](#player-characters-who-can-equip-neps-ring)
+
 ## Basic information
 
 |   |   |
@@ -29,6 +31,14 @@ title: Nep's Ring (Item) - Hyperdimension Neptunia Re;Birth1
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 2875 | 0 | 0 | 143 | 2875 | -213 | 2125 | 0 | 0 | 143 | 0 | 0 | 0 | 0 |
+
+
+## Monsters which drop **Nep's Ring**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-16-1063" class="trackbox" /> | 1063 | [Additional Content Pack 7](/neptunia/rb1/dlc/16-pack7.html) | [Clione](/neptunia/rb1/monster/16-1063-clione.html) |
+| <input type="checkbox" id="rb1-monster-16-1065" class="trackbox" /> | 1065 | [Additional Content Pack 7](/neptunia/rb1/dlc/16-pack7.html) | [Clione](/neptunia/rb1/monster/16-1065-clione.html) |
 
 
 ## Dungeons **Nep's Ring** is found

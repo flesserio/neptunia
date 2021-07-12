@@ -9,6 +9,7 @@ title: Stupid Game (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Stupid Game** is found](#dungeons-stupid-game-is-found)
 - [Quests which reward **Stupid Game**](#quests-which-reward-stupid-game)
+
 ## Basic information
 
 |   |   |

@@ -10,6 +10,7 @@ title: Medical Drug (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Remake System plans which unlock **Medical Drug** in shop](#remake-system-plans-which-unlock-medical-drug-in-shop)
 - [Player characters who can equip **Medical Drug**](#player-characters-who-can-equip-medical-drug)
+
 ## Basic information
 
 |   |   |

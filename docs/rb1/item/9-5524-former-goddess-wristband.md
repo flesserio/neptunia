@@ -10,6 +10,7 @@ title: Former Goddess' Wristband (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Player characters who have **Former Goddess' Wristband** equipped by default](#player-characters-who-have-former-goddess-wristband-equipped-by-default)
 - [Player characters who can equip **Former Goddess' Wristband**](#player-characters-who-can-equip-former-goddess-wristband)
+
 ## Basic information
 
 |   |   |

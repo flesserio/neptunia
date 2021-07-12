@@ -10,6 +10,7 @@ title: Healing Circle (Item) - Hyperdimension Neptunia Re;Birth1
 - [Remake System plans which unlock **Healing Circle** in shop](#remake-system-plans-which-unlock-healing-circle-in-shop)
 - [Dungeons **Healing Circle** is found](#dungeons-healing-circle-is-found)
 - [Quests which reward **Healing Circle**](#quests-which-reward-healing-circle)
+
 ## Basic information
 
 |   |   |

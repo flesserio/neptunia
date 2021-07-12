@@ -9,6 +9,7 @@ title: Crust Stone (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Crust Stone** is found](#dungeons-crust-stone-is-found)
 - [Remake System plans which require **Crust Stone**](#remake-system-plans-which-require-crust-stone)
+
 ## Basic information
 
 |   |   |

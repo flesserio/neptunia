@@ -8,6 +8,7 @@ title: Hero Stamp (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Colosseum quests which reward **Hero Stamp**](#colosseum-quests-which-reward-hero-stamp)
+
 ## Basic information
 
 |   |   |

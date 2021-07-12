@@ -9,6 +9,7 @@ title: Add Dungeon: Nights' Dimension (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **Add Dungeon: Nights' Dimension**](#chirpers-who-give-add-dungeon-nights-dimension)
 - [Plans added to Remake System after collecting **Add Dungeon: Nights' Dimension**](#plans-added-to-remake-system-after-collecting-add-dungeon-nights-dimension)
+
 ## Basic information
 
 |   |   |

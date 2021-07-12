@@ -9,6 +9,7 @@ title: Old Pupa Ornament (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Old Pupa Ornament** in shop](#remake-system-plans-which-unlock-old-pupa-ornament-in-shop)
 - [Player characters who can equip **Old Pupa Ornament**](#player-characters-who-can-equip-old-pupa-ornament)
+
 ## Basic information
 
 |   |   |

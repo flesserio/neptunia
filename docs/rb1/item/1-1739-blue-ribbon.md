@@ -7,8 +7,10 @@ title: Blue Ribbon (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Blue Ribbon**](#monsters-which-drop-blue-ribbon)
 - [Dungeons **Blue Ribbon** is found](#dungeons-blue-ribbon-is-found)
 - [Remake System plans which require **Blue Ribbon**](#remake-system-plans-which-require-blue-ribbon)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,13 @@ title: Blue Ribbon (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 4 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Blue Ribbon**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-107" class="trackbox" /> | 107 | [Base](/neptunia/rb1/dlc/1-base.html) | [Ms. Clyde](/neptunia/rb1/monster/1-107-ms-clyde.html) |
 
 
 ## Dungeons **Blue Ribbon** is found

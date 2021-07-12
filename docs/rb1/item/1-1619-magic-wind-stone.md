@@ -8,6 +8,7 @@ title: Magic Wind Stone (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Dungeons **Magic Wind Stone** is found](#dungeons-magic-wind-stone-is-found)
+
 ## Basic information
 
 |   |   |

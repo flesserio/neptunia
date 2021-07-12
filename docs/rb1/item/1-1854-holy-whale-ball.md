@@ -7,9 +7,11 @@ title: Holy Whale Ball (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Holy Whale Ball**](#monsters-which-drop-holy-whale-ball)
 - [Dungeons **Holy Whale Ball** is found](#dungeons-holy-whale-ball-is-found)
 - [Quests which require gathering **Holy Whale Ball**](#quests-which-require-gathering-holy-whale-ball)
 - [Remake System plans which require **Holy Whale Ball**](#remake-system-plans-which-require-holy-whale-ball)
+
 ## Basic information
 
 |   |   |
@@ -22,6 +24,13 @@ title: Holy Whale Ball (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 486 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Holy Whale Ball**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-259" class="trackbox" /> | 259 | [Base](/neptunia/rb1/dlc/1-base.html) | [Child Whale](/neptunia/rb1/monster/1-259-child-whale.html) |
 
 
 ## Dungeons **Holy Whale Ball** is found

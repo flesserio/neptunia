@@ -7,9 +7,11 @@ title: Old Man's Pathos (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Old Man's Pathos**](#monsters-which-drop-old-mans-pathos)
 - [Dungeons **Old Man's Pathos** is found](#dungeons-old-mans-pathos-is-found)
 - [Quests which require gathering **Old Man's Pathos**](#quests-which-require-gathering-old-mans-pathos)
 - [Remake System plans which require **Old Man's Pathos**](#remake-system-plans-which-require-old-mans-pathos)
+
 ## Basic information
 
 |   |   |
@@ -22,6 +24,13 @@ title: Old Man's Pathos (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 192 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Old Man's Pathos**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-276" class="trackbox" /> | 276 | [Base](/neptunia/rb1/dlc/1-base.html) | [Old Man Deus](/neptunia/rb1/monster/1-276-old-man-deus.html) |
 
 
 ## Dungeons **Old Man's Pathos** is found

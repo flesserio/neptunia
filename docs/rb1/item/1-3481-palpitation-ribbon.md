@@ -9,6 +9,7 @@ title: Palpitation Ribbon (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Palpitation Ribbon**](#player-characters-who-can-equip-palpitation-ribbon)
+
 ## Basic information
 
 |   |   |

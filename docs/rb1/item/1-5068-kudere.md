@@ -8,6 +8,7 @@ title: Kudere (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Dungeons **Kudere** is found](#dungeons-kudere-is-found)
+
 ## Basic information
 
 |   |   |

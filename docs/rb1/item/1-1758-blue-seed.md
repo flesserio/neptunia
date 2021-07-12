@@ -7,8 +7,10 @@ title: Blue Seed (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Blue Seed**](#monsters-which-drop-blue-seed)
 - [Dungeons **Blue Seed** is found](#dungeons-blue-seed-is-found)
 - [Remake System plans which require **Blue Seed**](#remake-system-plans-which-require-blue-seed)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,13 @@ title: Blue Seed (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 121 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Blue Seed**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-184" class="trackbox" /> | 184 | [Base](/neptunia/rb1/dlc/1-base.html) | [Blue Sun](/neptunia/rb1/monster/1-184-blue-sun.html) |
 
 
 ## Dungeons **Blue Seed** is found

@@ -7,8 +7,10 @@ title: Indulgence (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Indulgence**](#monsters-which-drop-indulgence)
 - [Dungeons **Indulgence** is found](#dungeons-indulgence-is-found)
 - [Remake System plans which require **Indulgence**](#remake-system-plans-which-require-indulgence)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,13 @@ title: Indulgence (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 382 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Indulgence**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-338" class="trackbox" /> | 338 | [Base](/neptunia/rb1/dlc/1-base.html) | [Blushing Hot Guy](/neptunia/rb1/monster/1-338-blushing-hot-guy.html) |
 
 
 ## Dungeons **Indulgence** is found

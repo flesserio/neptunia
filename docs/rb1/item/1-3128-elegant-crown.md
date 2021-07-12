@@ -9,6 +9,7 @@ title: Elegant Crown (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which require **Elegant Crown**](#remake-system-plans-which-require-elegant-crown)
 - [Player characters who can equip **Elegant Crown**](#player-characters-who-can-equip-elegant-crown)
+
 ## Basic information
 
 |   |   |

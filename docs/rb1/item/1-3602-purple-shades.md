@@ -9,6 +9,7 @@ title: Purple Shades (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Quests which reward **Purple Shades**](#quests-which-reward-purple-shades)
 - [Player characters who can equip **Purple Shades**](#player-characters-who-can-equip-purple-shades)
+
 ## Basic information
 
 |   |   |

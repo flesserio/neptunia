@@ -9,6 +9,7 @@ title: Generation S (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Generation S**](#player-characters-who-can-equip-generation-s)
+
 ## Basic information
 
 |   |   |

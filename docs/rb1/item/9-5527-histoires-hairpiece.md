@@ -10,6 +10,7 @@ title: Histoire's Hairpiece (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Player characters who have **Histoire's Hairpiece** equipped by default](#player-characters-who-have-histoires-hairpiece-equipped-by-default)
 - [Player characters who can equip **Histoire's Hairpiece**](#player-characters-who-can-equip-histoires-hairpiece)
+
 ## Basic information
 
 |   |   |

@@ -8,6 +8,7 @@ title: Giant Safety Pin (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Colosseum quests which reward **Giant Safety Pin**](#colosseum-quests-which-reward-giant-safety-pin)
+
 ## Basic information
 
 |   |   |

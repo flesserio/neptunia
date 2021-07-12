@@ -9,6 +9,7 @@ title: Escape Anywhere (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **Escape Anywhere**](#chirpers-who-give-escape-anywhere)
 - [Plans added to Remake System after collecting **Escape Anywhere**](#plans-added-to-remake-system-after-collecting-escape-anywhere)
+
 ## Basic information
 
 |   |   |

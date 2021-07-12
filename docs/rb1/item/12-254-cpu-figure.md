@@ -8,6 +8,7 @@ title: CPU Figure (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Colosseum quests which reward **CPU Figure**](#colosseum-quests-which-reward-cpu-figure)
+
 ## Basic information
 
 |   |   |

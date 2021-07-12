@@ -9,6 +9,7 @@ title: Add Enemies: Donkong Ruins (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **Add Enemies: Donkong Ruins**](#chirpers-who-give-add-enemies-donkong-ruins)
 - [Plans added to Remake System after collecting **Add Enemies: Donkong Ruins**](#plans-added-to-remake-system-after-collecting-add-enemies-donkong-ruins)
+
 ## Basic information
 
 |   |   |

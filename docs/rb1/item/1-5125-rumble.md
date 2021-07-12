@@ -8,6 +8,7 @@ title: Rumble (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Dungeons **Rumble** is found](#dungeons-rumble-is-found)
+
 ## Basic information
 
 |   |   |

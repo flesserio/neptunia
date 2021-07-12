@@ -10,6 +10,7 @@ title: Demon Pendant (Item) - Hyperdimension Neptunia Re;Birth1
 - [Quests which reward **Demon Pendant**](#quests-which-reward-demon-pendant)
 - [Remake System plans which require **Demon Pendant**](#remake-system-plans-which-require-demon-pendant)
 - [Player characters who can equip **Demon Pendant**](#player-characters-who-can-equip-demon-pendant)
+
 ## Basic information
 
 |   |   |

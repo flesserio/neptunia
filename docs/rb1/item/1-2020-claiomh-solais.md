@@ -10,6 +10,7 @@ title: Claiomh Solais  (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Dungeons **Claiomh Solais ** is found](#dungeons-claiomh-solais-is-found)
 - [Player characters who can equip **Claiomh Solais **](#player-characters-who-can-equip-claiomh-solais)
+
 ## Basic information
 
 |   |   |

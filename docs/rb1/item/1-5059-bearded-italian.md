@@ -8,6 +8,7 @@ title: Bearded Italian (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Dungeons **Bearded Italian** is found](#dungeons-bearded-italian-is-found)
+
 ## Basic information
 
 |   |   |

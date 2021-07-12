@@ -9,6 +9,7 @@ title: Histoire (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Histoire**](#player-characters-who-can-equip-histoire)
+
 ## Basic information
 
 |   |   |

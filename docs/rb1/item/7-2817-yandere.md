@@ -9,6 +9,7 @@ title: Yandere (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which require **Yandere**](#remake-system-plans-which-require-yandere)
 - [Player characters who can equip **Yandere**](#player-characters-who-can-equip-yandere)
+
 ## Basic information
 
 |   |   |

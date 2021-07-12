@@ -8,6 +8,7 @@ title: Martial Cross (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Colosseum quests which reward **Martial Cross**](#colosseum-quests-which-reward-martial-cross)
+
 ## Basic information
 
 |   |   |

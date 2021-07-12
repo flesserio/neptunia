@@ -7,8 +7,10 @@ title: Strong Wood (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Strong Wood**](#monsters-which-drop-strong-wood)
 - [Dungeons **Strong Wood** is found](#dungeons-strong-wood-is-found)
 - [Remake System plans which require **Strong Wood**](#remake-system-plans-which-require-strong-wood)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,14 @@ title: Strong Wood (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 275 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Strong Wood**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-312" class="trackbox" /> | 312 | [Base](/neptunia/rb1/dlc/1-base.html) | [Wood Skeleton](/neptunia/rb1/monster/1-312-wood-skeleton.html) |
+| <input type="checkbox" id="rb1-monster-16-1069" class="trackbox" /> | 1069 | [Additional Content Pack 7](/neptunia/rb1/dlc/16-pack7.html) | [Wood Skeleton](/neptunia/rb1/monster/16-1069-wood-skeleton.html) |
 
 
 ## Dungeons **Strong Wood** is found

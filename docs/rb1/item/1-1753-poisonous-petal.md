@@ -7,8 +7,10 @@ title: Poisonous Petal (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Poisonous Petal**](#monsters-which-drop-poisonous-petal)
 - [Dungeons **Poisonous Petal** is found](#dungeons-poisonous-petal-is-found)
 - [Remake System plans which require **Poisonous Petal**](#remake-system-plans-which-require-poisonous-petal)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,14 @@ title: Poisonous Petal (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 362 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Poisonous Petal**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-206" class="trackbox" /> | 206 | [Base](/neptunia/rb1/dlc/1-base.html) | [Rafflesia](/neptunia/rb1/monster/1-206-rafflesia.html) |
+| <input type="checkbox" id="rb1-monster-1-207" class="trackbox" /> | 207 | [Base](/neptunia/rb1/dlc/1-base.html) | [Viral Rafflesia](/neptunia/rb1/monster/1-207-viral-rafflesia.html) |
 
 
 ## Dungeons **Poisonous Petal** is found

@@ -9,6 +9,7 @@ title: Pink Glasses (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which require **Pink Glasses**](#remake-system-plans-which-require-pink-glasses)
 - [Player characters who can equip **Pink Glasses**](#player-characters-who-can-equip-pink-glasses)
+
 ## Basic information
 
 |   |   |

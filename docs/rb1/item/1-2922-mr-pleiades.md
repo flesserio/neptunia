@@ -7,8 +7,10 @@ title: Mr. Pleiades (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Mr. Pleiades**](#monsters-which-drop-mr-pleiades)
 - [Dungeons **Mr. Pleiades** is found](#dungeons-mr-pleiades-is-found)
 - [Player characters who can equip **Mr. Pleiades**](#player-characters-who-can-equip-mr-pleiades)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,13 @@ title: Mr. Pleiades (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 1000 |
 | **Sell Price** | 500 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Mr. Pleiades**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-317" class="trackbox" /> | 317 | [Base](/neptunia/rb1/dlc/1-base.html) | [Antares](/neptunia/rb1/monster/1-317-antares.html) |
 
 
 ## Dungeons **Mr. Pleiades** is found

@@ -10,6 +10,7 @@ title: Cat Badge (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Player characters who have **Cat Badge** equipped by default](#player-characters-who-have-cat-badge-equipped-by-default)
 - [Player characters who can equip **Cat Badge**](#player-characters-who-can-equip-cat-badge)
+
 ## Basic information
 
 |   |   |

@@ -9,6 +9,7 @@ title: V Crystal (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **V Crystal**](#player-characters-who-can-equip-v-crystal)
+
 ## Basic information
 
 |   |   |

@@ -8,6 +8,7 @@ title: Life Game (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Dungeons **Life Game** is found](#dungeons-life-game-is-found)
+
 ## Basic information
 
 |   |   |

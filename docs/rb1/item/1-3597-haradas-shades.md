@@ -8,6 +8,7 @@ title: Harada's Shades (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Player characters who can equip **Harada's Shades**](#player-characters-who-can-equip-haradas-shades)
+
 ## Basic information
 
 |   |   |

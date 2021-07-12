@@ -7,8 +7,10 @@ title: All Nighter (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **All Nighter**](#monsters-which-drop-all-nighter)
 - [Dungeons **All Nighter** is found](#dungeons-all-nighter-is-found)
 - [Quests which reward **All Nighter**](#quests-which-reward-all-nighter)
+
 ## Basic information
 
 |   |   |
@@ -23,6 +25,13 @@ title: All Nighter (Item) - Hyperdimension Neptunia Re;Birth1
 | **Max inventory** | 99 |
 | **Idea Chip level** | 3 |
 | **Idea Chip ability** | [Battle End HP Heal Lv.3](/neptunia/rb1/avatar/1-9634-battle-end-hp-heal-lv-3.html)<br />Increases Battle End HP Heal by 6% |
+
+
+## Monsters which drop **All Nighter**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-326" class="trackbox" /> | 326 | [Base](/neptunia/rb1/dlc/1-base.html) | [Gargoyle](/neptunia/rb1/monster/1-326-gargoyle.html) |
 
 
 ## Dungeons **All Nighter** is found

@@ -9,6 +9,7 @@ title: Headband (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Headband**](#player-characters-who-can-equip-headband)
+
 ## Basic information
 
 |   |   |

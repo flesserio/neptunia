@@ -9,6 +9,7 @@ title: Tiny Crown (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which require **Tiny Crown**](#remake-system-plans-which-require-tiny-crown)
 - [Player characters who can equip **Tiny Crown**](#player-characters-who-can-equip-tiny-crown)
+
 ## Basic information
 
 |   |   |

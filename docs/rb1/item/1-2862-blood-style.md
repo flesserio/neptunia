@@ -9,6 +9,7 @@ title: Blood Style (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Blood Style** in shop](#remake-system-plans-which-unlock-blood-style-in-shop)
 - [Player characters who can equip **Blood Style**](#player-characters-who-can-equip-blood-style)
+
 ## Basic information
 
 |   |   |

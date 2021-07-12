@@ -9,6 +9,7 @@ title: Blue Ribbon (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Blue Ribbon** in shop](#remake-system-plans-which-unlock-blue-ribbon-in-shop)
 - [Player characters who can equip **Blue Ribbon**](#player-characters-who-can-equip-blue-ribbon)
+
 ## Basic information
 
 |   |   |

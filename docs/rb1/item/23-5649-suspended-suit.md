@@ -9,6 +9,7 @@ title: Suspended Suit (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Player characters who have **Suspended Suit** equipped by default](#player-characters-who-have-suspended-suit-equipped-by-default)
 - [Player characters who can equip **Suspended Suit**](#player-characters-who-can-equip-suspended-suit)
+
 ## Basic information
 
 |   |   |

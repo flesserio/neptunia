@@ -10,6 +10,7 @@ title: Morning Mourning (Item) - Hyperdimension Neptunia Re;Birth1
 - [Remake System plans which unlock **Morning Mourning** in shop](#remake-system-plans-which-unlock-morning-mourning-in-shop)
 - [Remake System plans which require **Morning Mourning**](#remake-system-plans-which-require-morning-mourning)
 - [Player characters who can equip **Morning Mourning**](#player-characters-who-can-equip-morning-mourning)
+
 ## Basic information
 
 |   |   |

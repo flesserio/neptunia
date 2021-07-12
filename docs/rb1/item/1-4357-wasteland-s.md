@@ -9,6 +9,7 @@ title: Wasteland S (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Wasteland S**](#player-characters-who-can-equip-wasteland-s)
+
 ## Basic information
 
 |   |   |

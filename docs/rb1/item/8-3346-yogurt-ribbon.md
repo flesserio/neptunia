@@ -9,6 +9,7 @@ title: Yogurt Ribbon (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Yogurt Ribbon** in shop](#remake-system-plans-which-unlock-yogurt-ribbon-in-shop)
 - [Player characters who can equip **Yogurt Ribbon**](#player-characters-who-can-equip-yogurt-ribbon)
+
 ## Basic information
 
 |   |   |

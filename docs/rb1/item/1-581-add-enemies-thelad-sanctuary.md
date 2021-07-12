@@ -9,6 +9,7 @@ title: Add Enemies: Thelad Sanctuary (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **Add Enemies: Thelad Sanctuary**](#chirpers-who-give-add-enemies-thelad-sanctuary)
 - [Plans added to Remake System after collecting **Add Enemies: Thelad Sanctuary**](#plans-added-to-remake-system-after-collecting-add-enemies-thelad-sanctuary)
+
 ## Basic information
 
 |   |   |

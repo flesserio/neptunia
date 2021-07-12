@@ -8,6 +8,7 @@ title: Sweet Straw (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Player characters who can equip **Sweet Straw**](#player-characters-who-can-equip-sweet-straw)
+
 ## Basic information
 
 |   |   |

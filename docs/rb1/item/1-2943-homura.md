@@ -7,8 +7,10 @@ title: Homura (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Homura**](#monsters-which-drop-homura)
 - [Dungeons **Homura** is found](#dungeons-homura-is-found)
 - [Player characters who can equip **Homura**](#player-characters-who-can-equip-homura)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,13 @@ title: Homura (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 1000 |
 | **Sell Price** | 500 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Homura**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-385" class="trackbox" /> | 385 | [Base](/neptunia/rb1/dlc/1-base.html) | [Epsilon](/neptunia/rb1/monster/1-385-epsilon.html) |
 
 
 ## Dungeons **Homura** is found

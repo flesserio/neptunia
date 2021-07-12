@@ -9,6 +9,7 @@ title: Short Sword+5 (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Short Sword+5**](#player-characters-who-can-equip-short-sword-5)
+
 ## Basic information
 
 |   |   |

@@ -9,6 +9,7 @@ title: Worldwide (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Worldwide** is found](#dungeons-worldwide-is-found)
 - [Colosseum quests which reward **Worldwide**](#colosseum-quests-which-reward-worldwide)
+
 ## Basic information
 
 |   |   |

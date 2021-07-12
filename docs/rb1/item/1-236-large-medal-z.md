@@ -7,6 +7,8 @@ title: Large Medal Z (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Large Medal Z**](#monsters-which-drop-large-medal-z)
+
 ## Basic information
 
 |   |   |
@@ -19,3 +21,10 @@ title: Large Medal Z (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 0 |
 | **Max inventory** | 1 |
+
+
+## Monsters which drop **Large Medal Z**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-1050" class="trackbox" /> | 1050 | [Base](/neptunia/rb1/dlc/1-base.html) | [Fake Black Heart](/neptunia/rb1/monster/1-1050-fake-black-heart.html) |

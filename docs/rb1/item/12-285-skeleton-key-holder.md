@@ -8,6 +8,7 @@ title: Skeleton Key Holder (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Colosseum quests which reward **Skeleton Key Holder**](#colosseum-quests-which-reward-skeleton-key-holder)
+
 ## Basic information
 
 |   |   |

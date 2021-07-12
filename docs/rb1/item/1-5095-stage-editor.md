@@ -8,6 +8,7 @@ title: Stage Editor (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Dungeons **Stage Editor** is found](#dungeons-stage-editor-is-found)
+
 ## Basic information
 
 |   |   |

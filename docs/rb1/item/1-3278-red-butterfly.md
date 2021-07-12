@@ -9,6 +9,7 @@ title: Red Butterfly (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Red Butterfly** in shop](#remake-system-plans-which-unlock-red-butterfly-in-shop)
 - [Player characters who can equip **Red Butterfly**](#player-characters-who-can-equip-red-butterfly)
+
 ## Basic information
 
 |   |   |

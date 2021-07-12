@@ -9,6 +9,7 @@ title: Liebe Rose (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Liebe Rose** in shop](#remake-system-plans-which-unlock-liebe-rose-in-shop)
 - [Player characters who can equip **Liebe Rose**](#player-characters-who-can-equip-liebe-rose)
+
 ## Basic information
 
 |   |   |

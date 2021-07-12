@@ -10,6 +10,7 @@ title: Black C (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Player characters who have **Black C** equipped by default](#player-characters-who-have-black-c-equipped-by-default)
 - [Player characters who can equip **Black C**](#player-characters-who-can-equip-black-c)
+
 ## Basic information
 
 |   |   |

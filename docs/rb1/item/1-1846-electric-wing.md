@@ -7,8 +7,10 @@ title: Electric Wing (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Electric Wing**](#monsters-which-drop-electric-wing)
 - [Dungeons **Electric Wing** is found](#dungeons-electric-wing-is-found)
 - [Remake System plans which require **Electric Wing**](#remake-system-plans-which-require-electric-wing)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,14 @@ title: Electric Wing (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 161 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Electric Wing**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-196" class="trackbox" /> | 196 | [Base](/neptunia/rb1/dlc/1-base.html) | [Cyberfly](/neptunia/rb1/monster/1-196-cyberfly.html) |
+| <input type="checkbox" id="rb1-monster-1-197" class="trackbox" /> | 197 | [Base](/neptunia/rb1/dlc/1-base.html) | [Viral Cyberfly](/neptunia/rb1/monster/1-197-viral-cyberfly.html) |
 
 
 ## Dungeons **Electric Wing** is found

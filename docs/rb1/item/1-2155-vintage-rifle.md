@@ -9,6 +9,7 @@ title: Vintage Rifle (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Vintage Rifle**](#player-characters-who-can-equip-vintage-rifle)
+
 ## Basic information
 
 |   |   |

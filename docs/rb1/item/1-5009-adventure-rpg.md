@@ -8,6 +8,7 @@ title: Adventure RPG (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Dungeons **Adventure RPG** is found](#dungeons-adventure-rpg-is-found)
+
 ## Basic information
 
 |   |   |

@@ -10,6 +10,7 @@ title: Dejiko's Hat (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Quests which reward **Dejiko's Hat**](#quests-which-reward-dejikos-hat)
 - [Player characters who can equip **Dejiko's Hat**](#player-characters-who-can-equip-dejikos-hat)
+
 ## Basic information
 
 |   |   |

@@ -9,6 +9,7 @@ title: Black Ribbon (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Black Ribbon** in shop](#remake-system-plans-which-unlock-black-ribbon-in-shop)
 - [Player characters who can equip **Black Ribbon**](#player-characters-who-can-equip-black-ribbon)
+
 ## Basic information
 
 |   |   |

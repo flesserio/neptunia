@@ -8,6 +8,7 @@ title: Casual-oriented (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Dungeons **Casual-oriented** is found](#dungeons-casual-oriented-is-found)
+
 ## Basic information
 
 |   |   |

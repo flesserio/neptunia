@@ -10,6 +10,7 @@ title: Autumn Ornament (Item) - Hyperdimension Neptunia Re;Birth1
 - [Remake System plans which unlock **Autumn Ornament** in shop](#remake-system-plans-which-unlock-autumn-ornament-in-shop)
 - [Remake System plans which require **Autumn Ornament**](#remake-system-plans-which-require-autumn-ornament)
 - [Player characters who can equip **Autumn Ornament**](#player-characters-who-can-equip-autumn-ornament)
+
 ## Basic information
 
 |   |   |

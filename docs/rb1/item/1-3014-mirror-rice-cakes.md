@@ -9,6 +9,7 @@ title: Mirror Rice Cakes (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Mirror Rice Cakes** in shop](#remake-system-plans-which-unlock-mirror-rice-cakes-in-shop)
 - [Player characters who can equip **Mirror Rice Cakes**](#player-characters-who-can-equip-mirror-rice-cakes)
+
 ## Basic information
 
 |   |   |

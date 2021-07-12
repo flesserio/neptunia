@@ -9,6 +9,7 @@ title: Clear Purple Ribbon (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which require **Clear Purple Ribbon**](#remake-system-plans-which-require-clear-purple-ribbon)
 - [Player characters who can equip **Clear Purple Ribbon**](#player-characters-who-can-equip-clear-purple-ribbon)
+
 ## Basic information
 
 |   |   |

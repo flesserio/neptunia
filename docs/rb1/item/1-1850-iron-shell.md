@@ -7,8 +7,10 @@ title: Iron Shell (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Iron Shell**](#monsters-which-drop-iron-shell)
 - [Dungeons **Iron Shell** is found](#dungeons-iron-shell-is-found)
 - [Remake System plans which require **Iron Shell**](#remake-system-plans-which-require-iron-shell)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,13 @@ title: Iron Shell (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 2727 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Iron Shell**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-383" class="trackbox" /> | 383 | [Base](/neptunia/rb1/dlc/1-base.html) | [Mega Turtle](/neptunia/rb1/monster/1-383-mega-turtle.html) |
 
 
 ## Dungeons **Iron Shell** is found

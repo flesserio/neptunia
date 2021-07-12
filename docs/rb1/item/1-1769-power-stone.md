@@ -7,8 +7,10 @@ title: Power Stone (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Power Stone**](#monsters-which-drop-power-stone)
 - [Dungeons **Power Stone** is found](#dungeons-power-stone-is-found)
 - [Remake System plans which require **Power Stone**](#remake-system-plans-which-require-power-stone)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,13 @@ title: Power Stone (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 11 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Power Stone**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-112" class="trackbox" /> | 112 | [Base](/neptunia/rb1/dlc/1-base.html) | [Pal Shell](/neptunia/rb1/monster/1-112-pal-shell.html) |
 
 
 ## Dungeons **Power Stone** is found

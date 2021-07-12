@@ -10,6 +10,7 @@ title: White C (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Player characters who have **White C** equipped by default](#player-characters-who-have-white-c-equipped-by-default)
 - [Player characters who can equip **White C**](#player-characters-who-can-equip-white-c)
+
 ## Basic information
 
 |   |   |

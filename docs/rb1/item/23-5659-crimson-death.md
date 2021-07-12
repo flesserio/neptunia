@@ -9,6 +9,7 @@ title: Crimson Death (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Crimson Death**](#player-characters-who-can-equip-crimson-death)
+
 ## Basic information
 
 |   |   |

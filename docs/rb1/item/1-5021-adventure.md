@@ -8,6 +8,7 @@ title: Adventure (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Dungeons **Adventure** is found](#dungeons-adventure-is-found)
+
 ## Basic information
 
 |   |   |

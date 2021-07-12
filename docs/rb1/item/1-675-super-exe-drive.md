@@ -9,6 +9,7 @@ title: Super EXE Drive (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **Super EXE Drive**](#chirpers-who-give-super-exe-drive)
 - [Plans added to Remake System after collecting **Super EXE Drive**](#plans-added-to-remake-system-after-collecting-super-exe-drive)
+
 ## Basic information
 
 |   |   |

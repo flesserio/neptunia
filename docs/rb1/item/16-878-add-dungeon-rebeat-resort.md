@@ -9,6 +9,7 @@ title: Add Dungeon: Rebeat Resort (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **Add Dungeon: Rebeat Resort**](#chirpers-who-give-add-dungeon-rebeat-resort)
 - [Plans added to Remake System after collecting **Add Dungeon: Rebeat Resort**](#plans-added-to-remake-system-after-collecting-add-dungeon-rebeat-resort)
+
 ## Basic information
 
 |   |   |

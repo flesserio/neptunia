@@ -8,6 +8,7 @@ title: Hibari (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Player characters who can equip **Hibari**](#player-characters-who-can-equip-hibari)
+
 ## Basic information
 
 |   |   |

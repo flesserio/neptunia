@@ -9,6 +9,7 @@ title: MAONI PCB (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **MAONI PCB** is found](#dungeons-maoni-pcb-is-found)
 - [Remake System plans which require **MAONI PCB**](#remake-system-plans-which-require-maoni-pcb)
+
 ## Basic information
 
 |   |   |

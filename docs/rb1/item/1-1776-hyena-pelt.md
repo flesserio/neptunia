@@ -7,8 +7,10 @@ title: Hyena Pelt (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Hyena Pelt**](#monsters-which-drop-hyena-pelt)
 - [Dungeons **Hyena Pelt** is found](#dungeons-hyena-pelt-is-found)
 - [Remake System plans which require **Hyena Pelt**](#remake-system-plans-which-require-hyena-pelt)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,14 @@ title: Hyena Pelt (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 74 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Hyena Pelt**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-304" class="trackbox" /> | 304 | [Base](/neptunia/rb1/dlc/1-base.html) | [Hyena](/neptunia/rb1/monster/1-304-hyena.html) |
+| <input type="checkbox" id="rb1-monster-1-305" class="trackbox" /> | 305 | [Base](/neptunia/rb1/dlc/1-base.html) | [Viral Hyena](/neptunia/rb1/monster/1-305-viral-hyena.html) |
 
 
 ## Dungeons **Hyena Pelt** is found

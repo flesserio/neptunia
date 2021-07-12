@@ -7,8 +7,10 @@ title: Energy Pack (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Energy Pack**](#monsters-which-drop-energy-pack)
 - [Dungeons **Energy Pack** is found](#dungeons-energy-pack-is-found)
 - [Remake System plans which require **Energy Pack**](#remake-system-plans-which-require-energy-pack)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,13 @@ title: Energy Pack (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 2929 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Energy Pack**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-336" class="trackbox" /> | 336 | [Base](/neptunia/rb1/dlc/1-base.html) | [Nemesis](/neptunia/rb1/monster/1-336-nemesis.html) |
 
 
 ## Dungeons **Energy Pack** is found

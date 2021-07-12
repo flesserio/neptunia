@@ -9,6 +9,7 @@ title: Add Super Enemies: Nights' Dimension (Item) - Hyperdimension Neptunia Re;
 - [Basic information](#basic-information)
 - [Chirpers who give **Add Super Enemies: Nights' Dimension**](#chirpers-who-give-add-super-enemies-nights-dimension)
 - [Plans added to Remake System after collecting **Add Super Enemies: Nights' Dimension**](#plans-added-to-remake-system-after-collecting-add-super-enemies-nights-dimension)
+
 ## Basic information
 
 |   |   |

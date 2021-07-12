@@ -8,6 +8,7 @@ title: Purple Pins (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Colosseum quests which reward **Purple Pins**](#colosseum-quests-which-reward-purple-pins)
+
 ## Basic information
 
 |   |   |

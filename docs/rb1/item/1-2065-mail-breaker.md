@@ -9,6 +9,7 @@ title: Mail Breaker (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Mail Breaker**](#player-characters-who-can-equip-mail-breaker)
+
 ## Basic information
 
 |   |   |

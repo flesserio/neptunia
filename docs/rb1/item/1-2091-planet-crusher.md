@@ -10,6 +10,7 @@ title: Planet Crusher (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Dungeons **Planet Crusher** is found](#dungeons-planet-crusher-is-found)
 - [Player characters who can equip **Planet Crusher**](#player-characters-who-can-equip-planet-crusher)
+
 ## Basic information
 
 |   |   |

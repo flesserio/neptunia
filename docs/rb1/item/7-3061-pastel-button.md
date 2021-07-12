@@ -10,6 +10,7 @@ title: Pastel Button (Item) - Hyperdimension Neptunia Re;Birth1
 - [Remake System plans which unlock **Pastel Button** in shop](#remake-system-plans-which-unlock-pastel-button-in-shop)
 - [Remake System plans which require **Pastel Button**](#remake-system-plans-which-require-pastel-button)
 - [Player characters who can equip **Pastel Button**](#player-characters-who-can-equip-pastel-button)
+
 ## Basic information
 
 |   |   |

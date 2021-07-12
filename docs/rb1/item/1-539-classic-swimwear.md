@@ -9,6 +9,7 @@ title: Classic Swimwear (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **Classic Swimwear**](#chirpers-who-give-classic-swimwear)
 - [Plans added to Remake System after collecting **Classic Swimwear**](#plans-added-to-remake-system-after-collecting-classic-swimwear)
+
 ## Basic information
 
 |   |   |

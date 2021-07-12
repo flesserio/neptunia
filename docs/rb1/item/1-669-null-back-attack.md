@@ -8,7 +8,9 @@ title: Null Back Attack (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Plans added to Remake System after collecting **Null Back Attack**](#plans-added-to-remake-system-after-collecting-null-back-attack)
+- [Monsters which drop **Null Back Attack**](#monsters-which-drop-null-back-attack)
 - [Dungeons **Null Back Attack** is found](#dungeons-null-back-attack-is-found)
+
 ## Basic information
 
 |   |   |
@@ -28,6 +30,13 @@ title: Null Back Attack (Item) - Hyperdimension Neptunia Re;Birth1
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
 | <input type="checkbox" id="rb1-remake-1-12" class="trackbox" /> | 12 | [Base](/neptunia/rb1/dlc/1-base.html) | [Eyes All Over](/neptunia/rb1/remake/1-12-eyes-all-over.html) |
+
+
+## Monsters which drop **Null Back Attack**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-327" class="trackbox" /> | 327 | [Base](/neptunia/rb1/dlc/1-base.html) | [Clione](/neptunia/rb1/monster/1-327-clione.html) |
 
 
 ## Dungeons **Null Back Attack** is found

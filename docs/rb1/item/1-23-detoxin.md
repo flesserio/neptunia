@@ -8,6 +8,7 @@ title: Detoxin (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Quests which reward **Detoxin**](#quests-which-reward-detoxin)
+
 ## Basic information
 
 |   |   |

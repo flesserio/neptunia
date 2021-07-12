@@ -9,6 +9,7 @@ title: Summer Night (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which require **Summer Night**](#remake-system-plans-which-require-summer-night)
 - [Player characters who can equip **Summer Night**](#player-characters-who-can-equip-summer-night)
+
 ## Basic information
 
 |   |   |

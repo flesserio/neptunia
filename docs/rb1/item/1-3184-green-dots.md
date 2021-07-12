@@ -9,6 +9,7 @@ title: Green Dots (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Green Dots** in shop](#remake-system-plans-which-unlock-green-dots-in-shop)
 - [Player characters who can equip **Green Dots**](#player-characters-who-can-equip-green-dots)
+
 ## Basic information
 
 |   |   |

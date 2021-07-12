@@ -7,7 +7,9 @@ title: Magical Shell (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Magical Shell**](#monsters-which-drop-magical-shell)
 - [Dungeons **Magical Shell** is found](#dungeons-magical-shell-is-found)
+
 ## Basic information
 
 |   |   |
@@ -20,6 +22,13 @@ title: Magical Shell (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 8377 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Magical Shell**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-12-399" class="trackbox" /> | 399 | [Additional Content Package 3](/neptunia/rb1/dlc/12-pack3.html) | [Dominance Machine](/neptunia/rb1/monster/12-399-dominance-machine.html) |
 
 
 ## Dungeons **Magical Shell** is found

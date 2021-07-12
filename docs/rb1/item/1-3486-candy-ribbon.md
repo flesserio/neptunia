@@ -10,6 +10,7 @@ title: Candy Ribbon (Item) - Hyperdimension Neptunia Re;Birth1
 - [Remake System plans which unlock **Candy Ribbon** in shop](#remake-system-plans-which-unlock-candy-ribbon-in-shop)
 - [Remake System plans which require **Candy Ribbon**](#remake-system-plans-which-require-candy-ribbon)
 - [Player characters who can equip **Candy Ribbon**](#player-characters-who-can-equip-candy-ribbon)
+
 ## Basic information
 
 |   |   |

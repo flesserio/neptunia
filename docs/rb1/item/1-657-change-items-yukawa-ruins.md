@@ -9,6 +9,7 @@ title: Change Items: Yukawa Ruins (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **Change Items: Yukawa Ruins**](#chirpers-who-give-change-items-yukawa-ruins)
 - [Plans added to Remake System after collecting **Change Items: Yukawa Ruins**](#plans-added-to-remake-system-after-collecting-change-items-yukawa-ruins)
+
 ## Basic information
 
 |   |   |

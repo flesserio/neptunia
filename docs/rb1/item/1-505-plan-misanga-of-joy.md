@@ -9,6 +9,7 @@ title: Plan: Misanga of Joy (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Plans added to Remake System after collecting **Plan: Misanga of Joy**](#plans-added-to-remake-system-after-collecting-plan-misanga-of-joy)
 - [Dungeons **Plan: Misanga of Joy** is found](#dungeons-plan-misanga-of-joy-is-found)
+
 ## Basic information
 
 |   |   |

@@ -10,6 +10,7 @@ title: Cassis Rayure (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Quests which reward **Cassis Rayure**](#quests-which-reward-cassis-rayure)
 - [Player characters who can equip **Cassis Rayure**](#player-characters-who-can-equip-cassis-rayure)
+
 ## Basic information
 
 |   |   |

@@ -8,6 +8,7 @@ title: Star Scrunchie (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Player characters who can equip **Star Scrunchie**](#player-characters-who-can-equip-star-scrunchie)
+
 ## Basic information
 
 |   |   |

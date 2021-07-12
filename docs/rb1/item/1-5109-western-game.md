@@ -8,6 +8,7 @@ title: Western Game (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Dungeons **Western Game** is found](#dungeons-western-game-is-found)
+
 ## Basic information
 
 |   |   |

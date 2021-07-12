@@ -7,8 +7,10 @@ title: Legendary Relic (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Legendary Relic**](#monsters-which-drop-legendary-relic)
 - [Dungeons **Legendary Relic** is found](#dungeons-legendary-relic-is-found)
 - [Remake System plans which require **Legendary Relic**](#remake-system-plans-which-require-legendary-relic)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,13 @@ title: Legendary Relic (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 10000 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Legendary Relic**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-11-409" class="trackbox" /> | 409 | [Additional Content Package 2](/neptunia/rb1/dlc/11-pack2.html) | [Clione](/neptunia/rb1/monster/11-409-clione.html) |
 
 
 ## Dungeons **Legendary Relic** is found

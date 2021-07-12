@@ -9,6 +9,7 @@ title: High Output Megaphone (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **High Output Megaphone**](#player-characters-who-can-equip-high-output-megaphone)
+
 ## Basic information
 
 |   |   |

@@ -9,6 +9,7 @@ title: Magenta Papillon (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Magenta Papillon** in shop](#remake-system-plans-which-unlock-magenta-papillon-in-shop)
 - [Player characters who can equip **Magenta Papillon**](#player-characters-who-can-equip-magenta-papillon)
+
 ## Basic information
 
 |   |   |

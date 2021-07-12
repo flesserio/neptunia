@@ -8,7 +8,9 @@ title: Cool Girl (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Stats](#stats)
+- [Monsters which drop **Cool Girl**](#monsters-which-drop-cool-girl)
 - [Player characters who can equip **Cool Girl**](#player-characters-who-can-equip-cool-girl)
+
 ## Basic information
 
 |   |   |
@@ -28,6 +30,13 @@ title: Cool Girl (Item) - Hyperdimension Neptunia Re;Birth1
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 0 | 30 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+
+
+## Monsters which drop **Cool Girl**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-1050" class="trackbox" /> | 1050 | [Base](/neptunia/rb1/dlc/1-base.html) | [Fake Black Heart](/neptunia/rb1/monster/1-1050-fake-black-heart.html) |
 
 
 ## Player characters who can equip **Cool Girl**

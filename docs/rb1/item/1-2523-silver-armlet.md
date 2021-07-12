@@ -10,6 +10,7 @@ title: Silver Armlet (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Remake System plans which unlock **Silver Armlet** in shop](#remake-system-plans-which-unlock-silver-armlet-in-shop)
 - [Player characters who can equip **Silver Armlet**](#player-characters-who-can-equip-silver-armlet)
+
 ## Basic information
 
 |   |   |

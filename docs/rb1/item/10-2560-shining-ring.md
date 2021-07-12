@@ -10,6 +10,7 @@ title: Shining Ring (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Remake System plans which unlock **Shining Ring** in shop](#remake-system-plans-which-unlock-shining-ring-in-shop)
 - [Player characters who can equip **Shining Ring**](#player-characters-who-can-equip-shining-ring)
+
 ## Basic information
 
 |   |   |

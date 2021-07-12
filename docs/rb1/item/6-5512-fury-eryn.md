@@ -9,6 +9,7 @@ title: Fury (Eryn) (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Fury (Eryn)**](#player-characters-who-can-equip-fury-eryn)
+
 ## Basic information
 
 |   |   |

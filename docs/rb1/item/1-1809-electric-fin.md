@@ -7,8 +7,10 @@ title: Electric Fin (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Electric Fin**](#monsters-which-drop-electric-fin)
 - [Dungeons **Electric Fin** is found](#dungeons-electric-fin-is-found)
 - [Remake System plans which require **Electric Fin**](#remake-system-plans-which-require-electric-fin)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,13 @@ title: Electric Fin (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 2193 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Electric Fin**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-353" class="trackbox" /> | 353 | [Base](/neptunia/rb1/dlc/1-base.html) | [Cyber Dolphin](/neptunia/rb1/monster/1-353-cyber-dolphin.html) |
 
 
 ## Dungeons **Electric Fin** is found

@@ -7,8 +7,10 @@ title: Rare Plate (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Rare Plate**](#monsters-which-drop-rare-plate)
 - [Dungeons **Rare Plate** is found](#dungeons-rare-plate-is-found)
 - [Remake System plans which require **Rare Plate**](#remake-system-plans-which-require-rare-plate)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,13 @@ title: Rare Plate (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 1844 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Rare Plate**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-218" class="trackbox" /> | 218 | [Base](/neptunia/rb1/dlc/1-base.html) | [Zeta Herobo](/neptunia/rb1/monster/1-218-zeta-herobo.html) |
 
 
 ## Dungeons **Rare Plate** is found

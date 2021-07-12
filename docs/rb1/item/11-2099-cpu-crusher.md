@@ -10,6 +10,7 @@ title: CPU Crusher (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Remake System plans which unlock **CPU Crusher** in shop](#remake-system-plans-which-unlock-cpu-crusher-in-shop)
 - [Player characters who can equip **CPU Crusher**](#player-characters-who-can-equip-cpu-crusher)
+
 ## Basic information
 
 |   |   |

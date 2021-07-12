@@ -7,8 +7,10 @@ title: Horsebird Feather (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Horsebird Feather**](#monsters-which-drop-horsebird-feather)
 - [Dungeons **Horsebird Feather** is found](#dungeons-horsebird-feather-is-found)
 - [Remake System plans which require **Horsebird Feather**](#remake-system-plans-which-require-horsebird-feather)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,13 @@ title: Horsebird Feather (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 88 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Horsebird Feather**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-154" class="trackbox" /> | 154 | [Base](/neptunia/rb1/dlc/1-base.html) | [Horsebird](/neptunia/rb1/monster/1-154-horsebird.html) |
 
 
 ## Dungeons **Horsebird Feather** is found

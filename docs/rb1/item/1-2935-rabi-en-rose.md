@@ -8,6 +8,7 @@ title: Rabi En Rose (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Player characters who can equip **Rabi En Rose**](#player-characters-who-can-equip-rabi-en-rose)
+
 ## Basic information
 
 |   |   |

@@ -9,6 +9,7 @@ title: Black Beret (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Black Beret** in shop](#remake-system-plans-which-unlock-black-beret-in-shop)
 - [Player characters who can equip **Black Beret**](#player-characters-who-can-equip-black-beret)
+
 ## Basic information
 
 |   |   |

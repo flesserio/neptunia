@@ -10,6 +10,7 @@ title: Dogoo Pencil (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Player characters who have **Dogoo Pencil** equipped by default](#player-characters-who-have-dogoo-pencil-equipped-by-default)
 - [Player characters who can equip **Dogoo Pencil**](#player-characters-who-can-equip-dogoo-pencil)
+
 ## Basic information
 
 |   |   |

@@ -10,6 +10,7 @@ title: Frost B (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Dungeons **Frost B** is found](#dungeons-frost-b-is-found)
 - [Player characters who can equip **Frost B**](#player-characters-who-can-equip-frost-b)
+
 ## Basic information
 
 |   |   |

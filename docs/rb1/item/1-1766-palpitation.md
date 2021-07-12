@@ -7,9 +7,11 @@ title: Palpitation (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Palpitation**](#monsters-which-drop-palpitation)
 - [Dungeons **Palpitation** is found](#dungeons-palpitation-is-found)
 - [Quests which require gathering **Palpitation**](#quests-which-require-gathering-palpitation)
 - [Remake System plans which require **Palpitation**](#remake-system-plans-which-require-palpitation)
+
 ## Basic information
 
 |   |   |
@@ -22,6 +24,13 @@ title: Palpitation (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 29 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Palpitation**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-123" class="trackbox" /> | 123 | [Base](/neptunia/rb1/dlc/1-base.html) | [Tokimeki Sister](/neptunia/rb1/monster/1-123-tokimeki-sister.html) |
 
 
 ## Dungeons **Palpitation** is found

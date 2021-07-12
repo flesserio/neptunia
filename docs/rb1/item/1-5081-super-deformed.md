@@ -8,6 +8,7 @@ title: Super Deformed (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Dungeons **Super Deformed** is found](#dungeons-super-deformed-is-found)
+
 ## Basic information
 
 |   |   |

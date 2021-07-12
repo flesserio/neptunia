@@ -9,6 +9,7 @@ title: Scholar Hat (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Scholar Hat** in shop](#remake-system-plans-which-unlock-scholar-hat-in-shop)
 - [Player characters who can equip **Scholar Hat**](#player-characters-who-can-equip-scholar-hat)
+
 ## Basic information
 
 |   |   |

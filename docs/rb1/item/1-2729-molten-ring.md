@@ -10,6 +10,7 @@ title: Molten Ring (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Remake System plans which unlock **Molten Ring** in shop](#remake-system-plans-which-unlock-molten-ring-in-shop)
 - [Player characters who can equip **Molten Ring**](#player-characters-who-can-equip-molten-ring)
+
 ## Basic information
 
 |   |   |

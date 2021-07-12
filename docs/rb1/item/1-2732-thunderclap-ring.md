@@ -10,6 +10,7 @@ title: Thunderclap Ring (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Remake System plans which unlock **Thunderclap Ring** in shop](#remake-system-plans-which-unlock-thunderclap-ring-in-shop)
 - [Player characters who can equip **Thunderclap Ring**](#player-characters-who-can-equip-thunderclap-ring)
+
 ## Basic information
 
 |   |   |

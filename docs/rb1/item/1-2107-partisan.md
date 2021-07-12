@@ -10,6 +10,7 @@ title: Partisan (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Remake System plans which unlock **Partisan** in shop](#remake-system-plans-which-unlock-partisan-in-shop)
 - [Player characters who can equip **Partisan**](#player-characters-who-can-equip-partisan)
+
 ## Basic information
 
 |   |   |

@@ -7,10 +7,12 @@ title: AG System (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **AG System**](#monsters-which-drop-ag-system)
 - [Dungeons **AG System** is found](#dungeons-ag-system-is-found)
 - [Colosseum quests which reward **AG System**](#colosseum-quests-which-reward-ag-system)
 - [Quests which require gathering **AG System**](#quests-which-require-gathering-ag-system)
 - [Remake System plans which require **AG System**](#remake-system-plans-which-require-ag-system)
+
 ## Basic information
 
 |   |   |
@@ -23,6 +25,13 @@ title: AG System (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 414 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **AG System**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-260" class="trackbox" /> | 260 | [Base](/neptunia/rb1/dlc/1-base.html) | [Herobo](/neptunia/rb1/monster/1-260-herobo.html) |
 
 
 ## Dungeons **AG System** is found

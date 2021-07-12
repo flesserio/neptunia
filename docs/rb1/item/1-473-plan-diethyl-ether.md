@@ -9,6 +9,7 @@ title: Plan: Diethyl Ether (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Plans added to Remake System after collecting **Plan: Diethyl Ether**](#plans-added-to-remake-system-after-collecting-plan-diethyl-ether)
 - [Dungeons **Plan: Diethyl Ether** is found](#dungeons-plan-diethyl-ether-is-found)
+
 ## Basic information
 
 |   |   |

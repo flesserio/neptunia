@@ -9,6 +9,7 @@ title: Snow Button (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Snow Button** in shop](#remake-system-plans-which-unlock-snow-button-in-shop)
 - [Player characters who can equip **Snow Button**](#player-characters-who-can-equip-snow-button)
+
 ## Basic information
 
 |   |   |

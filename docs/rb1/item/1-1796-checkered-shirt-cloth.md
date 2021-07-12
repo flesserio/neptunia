@@ -7,8 +7,10 @@ title: Checkered Shirt Cloth (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Checkered Shirt Cloth**](#monsters-which-drop-checkered-shirt-cloth)
 - [Dungeons **Checkered Shirt Cloth** is found](#dungeons-checkered-shirt-cloth-is-found)
 - [Remake System plans which require **Checkered Shirt Cloth**](#remake-system-plans-which-require-checkered-shirt-cloth)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,13 @@ title: Checkered Shirt Cloth (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 2 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Checkered Shirt Cloth**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-108" class="trackbox" /> | 108 | [Base](/neptunia/rb1/dlc/1-base.html) | [Super Otaku](/neptunia/rb1/monster/1-108-super-otaku.html) |
 
 
 ## Dungeons **Checkered Shirt Cloth** is found

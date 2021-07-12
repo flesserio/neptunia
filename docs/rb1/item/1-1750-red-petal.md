@@ -7,8 +7,10 @@ title: Red Petal (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Red Petal**](#monsters-which-drop-red-petal)
 - [Dungeons **Red Petal** is found](#dungeons-red-petal-is-found)
 - [Remake System plans which require **Red Petal**](#remake-system-plans-which-require-red-petal)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,15 @@ title: Red Petal (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 34 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Red Petal**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-138" class="trackbox" /> | 138 | [Base](/neptunia/rb1/dlc/1-base.html) | [Apeldoom](/neptunia/rb1/monster/1-138-apeldoom.html) |
+| <input type="checkbox" id="rb1-monster-1-306" class="trackbox" /> | 306 | [Base](/neptunia/rb1/dlc/1-base.html) | [Floristan](/neptunia/rb1/monster/1-306-floristan.html) |
+| <input type="checkbox" id="rb1-monster-1-387" class="trackbox" /> | 387 | [Base](/neptunia/rb1/dlc/1-base.html) | [Alfred](/neptunia/rb1/monster/1-387-alfred.html) |
 
 
 ## Dungeons **Red Petal** is found

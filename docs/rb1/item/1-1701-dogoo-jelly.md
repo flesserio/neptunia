@@ -7,8 +7,10 @@ title: Dogoo Jelly (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Dogoo Jelly**](#monsters-which-drop-dogoo-jelly)
 - [Dungeons **Dogoo Jelly** is found](#dungeons-dogoo-jelly-is-found)
 - [Remake System plans which require **Dogoo Jelly**](#remake-system-plans-which-require-dogoo-jelly)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,15 @@ title: Dogoo Jelly (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 1 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Dogoo Jelly**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-101" class="trackbox" /> | 101 | [Base](/neptunia/rb1/dlc/1-base.html) | [Dogoo](/neptunia/rb1/monster/1-101-dogoo.html) |
+| <input type="checkbox" id="rb1-monster-1-298" class="trackbox" /> | 298 | [Base](/neptunia/rb1/dlc/1-base.html) | [Giant Dogoo](/neptunia/rb1/monster/1-298-giant-dogoo.html) |
+| <input type="checkbox" id="rb1-monster-1-1004" class="trackbox" /> | 1004 | [Base](/neptunia/rb1/dlc/1-base.html) | [Dogoo](/neptunia/rb1/monster/1-1004-dogoo.html) |
 
 
 ## Dungeons **Dogoo Jelly** is found

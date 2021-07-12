@@ -9,6 +9,7 @@ title: Simple Crown (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Simple Crown** in shop](#remake-system-plans-which-unlock-simple-crown-in-shop)
 - [Player characters who can equip **Simple Crown**](#player-characters-who-can-equip-simple-crown)
+
 ## Basic information
 
 |   |   |

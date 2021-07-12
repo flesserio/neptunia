@@ -8,6 +8,7 @@ title: Crazy Difficult (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Dungeons **Crazy Difficult** is found](#dungeons-crazy-difficult-is-found)
+
 ## Basic information
 
 |   |   |

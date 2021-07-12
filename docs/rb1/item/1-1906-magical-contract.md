@@ -7,9 +7,11 @@ title: Magical Contract (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Magical Contract**](#monsters-which-drop-magical-contract)
 - [Dungeons **Magical Contract** is found](#dungeons-magical-contract-is-found)
 - [Quests which require gathering **Magical Contract**](#quests-which-require-gathering-magical-contract)
 - [Remake System plans which require **Magical Contract**](#remake-system-plans-which-require-magical-contract)
+
 ## Basic information
 
 |   |   |
@@ -22,6 +24,13 @@ title: Magical Contract (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 108 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Magical Contract**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-315" class="trackbox" /> | 315 | [Base](/neptunia/rb1/dlc/1-base.html) | [Hachibei](/neptunia/rb1/monster/1-315-hachibei.html) |
 
 
 ## Dungeons **Magical Contract** is found

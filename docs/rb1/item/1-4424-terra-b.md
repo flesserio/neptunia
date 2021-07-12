@@ -9,6 +9,7 @@ title: Terra B (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Terra B**](#player-characters-who-can-equip-terra-b)
+
 ## Basic information
 
 |   |   |

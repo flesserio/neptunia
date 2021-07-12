@@ -9,6 +9,7 @@ title: Plan: Demon Blade Curse (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Plans added to Remake System after collecting **Plan: Demon Blade Curse**](#plans-added-to-remake-system-after-collecting-plan-demon-blade-curse)
 - [Dungeons **Plan: Demon Blade Curse** is found](#dungeons-plan-demon-blade-curse-is-found)
+
 ## Basic information
 
 |   |   |

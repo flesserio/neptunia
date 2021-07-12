@@ -7,8 +7,10 @@ title: Ancient Shell (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Ancient Shell**](#monsters-which-drop-ancient-shell)
 - [Dungeons **Ancient Shell** is found](#dungeons-ancient-shell-is-found)
 - [Remake System plans which require **Ancient Shell**](#remake-system-plans-which-require-ancient-shell)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,13 @@ title: Ancient Shell (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 1836 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Ancient Shell**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-225" class="trackbox" /> | 225 | [Base](/neptunia/rb1/dlc/1-base.html) | [1000-Year Turtle](/neptunia/rb1/monster/1-225-1000-year-turtle.html) |
 
 
 ## Dungeons **Ancient Shell** is found

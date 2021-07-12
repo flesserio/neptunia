@@ -8,6 +8,7 @@ title: Ripped Macho (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Dungeons **Ripped Macho** is found](#dungeons-ripped-macho-is-found)
+
 ## Basic information
 
 |   |   |

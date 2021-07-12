@@ -9,6 +9,7 @@ title: Plan: Energy Fragment (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **Plan: Energy Fragment**](#chirpers-who-give-plan-energy-fragment)
 - [Plans added to Remake System after collecting **Plan: Energy Fragment**](#plans-added-to-remake-system-after-collecting-plan-energy-fragment)
+
 ## Basic information
 
 |   |   |

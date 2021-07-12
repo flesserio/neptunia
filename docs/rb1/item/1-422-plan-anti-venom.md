@@ -9,6 +9,7 @@ title: Plan: Anti-Venom (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **Plan: Anti-Venom**](#chirpers-who-give-plan-anti-venom)
 - [Plans added to Remake System after collecting **Plan: Anti-Venom**](#plans-added-to-remake-system-after-collecting-plan-anti-venom)
+
 ## Basic information
 
 |   |   |

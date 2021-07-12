@@ -7,8 +7,10 @@ title: 1-Player Online (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **1-Player Online**](#monsters-which-drop-1-player-online)
 - [Dungeons **1-Player Online** is found](#dungeons-1-player-online-is-found)
 - [Quests which reward **1-Player Online**](#quests-which-reward-1-player-online)
+
 ## Basic information
 
 |   |   |
@@ -23,6 +25,13 @@ title: 1-Player Online (Item) - Hyperdimension Neptunia Re;Birth1
 | **Max inventory** | 99 |
 | **Idea Chip level** | 3 |
 | **Idea Chip ability** | [Virus Immunity](/neptunia/rb1/avatar/1-9552-virus-immunity.html)<br />Gives Virus Immunity |
+
+
+## Monsters which drop **1-Player Online**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-354" class="trackbox" /> | 354 | [Base](/neptunia/rb1/dlc/1-base.html) | [Deneb](/neptunia/rb1/monster/1-354-deneb.html) |
 
 
 ## Dungeons **1-Player Online** is found

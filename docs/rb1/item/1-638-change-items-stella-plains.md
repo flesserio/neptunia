@@ -9,6 +9,7 @@ title: Change Items: Stella Plains (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **Change Items: Stella Plains**](#chirpers-who-give-change-items-stella-plains)
 - [Plans added to Remake System after collecting **Change Items: Stella Plains**](#plans-added-to-remake-system-after-collecting-change-items-stella-plains)
+
 ## Basic information
 
 |   |   |

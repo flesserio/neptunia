@@ -7,8 +7,10 @@ title: Phantom Wolf Claw (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Phantom Wolf Claw**](#monsters-which-drop-phantom-wolf-claw)
 - [Dungeons **Phantom Wolf Claw** is found](#dungeons-phantom-wolf-claw-is-found)
 - [Remake System plans which require **Phantom Wolf Claw**](#remake-system-plans-which-require-phantom-wolf-claw)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,13 @@ title: Phantom Wolf Claw (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 3945 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Phantom Wolf Claw**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-391" class="trackbox" /> | 391 | [Base](/neptunia/rb1/dlc/1-base.html) | [Vanargandr](/neptunia/rb1/monster/1-391-vanargandr.html) |
 
 
 ## Dungeons **Phantom Wolf Claw** is found

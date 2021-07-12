@@ -10,6 +10,7 @@ title: Healing Drink (Item) - Hyperdimension Neptunia Re;Birth1
 - [Remake System plans which unlock **Healing Drink** in shop](#remake-system-plans-which-unlock-healing-drink-in-shop)
 - [Dungeons **Healing Drink** is found](#dungeons-healing-drink-is-found)
 - [Quests which reward **Healing Drink**](#quests-which-reward-healing-drink)
+
 ## Basic information
 
 |   |   |

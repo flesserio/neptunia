@@ -10,6 +10,7 @@ title: Round Ring (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Remake System plans which unlock **Round Ring** in shop](#remake-system-plans-which-unlock-round-ring-in-shop)
 - [Player characters who can equip **Round Ring**](#player-characters-who-can-equip-round-ring)
+
 ## Basic information
 
 |   |   |

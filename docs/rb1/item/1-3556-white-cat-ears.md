@@ -8,8 +8,10 @@ title: White Cat Ears (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Stats](#stats)
+- [Monsters which drop **White Cat Ears**](#monsters-which-drop-white-cat-ears)
 - [Dungeons **White Cat Ears** is found](#dungeons-white-cat-ears-is-found)
 - [Player characters who can equip **White Cat Ears**](#player-characters-who-can-equip-white-cat-ears)
+
 ## Basic information
 
 |   |   |
@@ -29,6 +31,13 @@ title: White Cat Ears (Item) - Hyperdimension Neptunia Re;Birth1
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 5 | 0 | 0 | 0 | 0 |
+
+
+## Monsters which drop **White Cat Ears**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-150" class="trackbox" /> | 150 | [Base](/neptunia/rb1/dlc/1-base.html) | [Radisher](/neptunia/rb1/monster/1-150-radisher.html) |
 
 
 ## Dungeons **White Cat Ears** is found

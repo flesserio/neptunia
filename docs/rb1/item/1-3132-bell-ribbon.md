@@ -7,9 +7,11 @@ title: Bell Ribbon (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Bell Ribbon**](#monsters-which-drop-bell-ribbon)
 - [Dungeons **Bell Ribbon** is found](#dungeons-bell-ribbon-is-found)
 - [Remake System plans which require **Bell Ribbon**](#remake-system-plans-which-require-bell-ribbon)
 - [Player characters who can equip **Bell Ribbon**](#player-characters-who-can-equip-bell-ribbon)
+
 ## Basic information
 
 |   |   |
@@ -22,6 +24,13 @@ title: Bell Ribbon (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 1000 |
 | **Sell Price** | 500 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Bell Ribbon**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-329" class="trackbox" /> | 329 | [Base](/neptunia/rb1/dlc/1-base.html) | [Meow](/neptunia/rb1/monster/1-329-meow.html) |
 
 
 ## Dungeons **Bell Ribbon** is found

@@ -9,6 +9,7 @@ title: Brawl Karate+3 (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Brawl Karate+3**](#player-characters-who-can-equip-brawl-karate-3)
+
 ## Basic information
 
 |   |   |

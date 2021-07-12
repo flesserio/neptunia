@@ -10,6 +10,7 @@ title: Paw Band (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Player characters who have **Paw Band** equipped by default](#player-characters-who-have-paw-band-equipped-by-default)
 - [Player characters who can equip **Paw Band**](#player-characters-who-can-equip-paw-band)
+
 ## Basic information
 
 |   |   |

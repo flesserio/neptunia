@@ -9,6 +9,7 @@ title: Plan: Medical Drug (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **Plan: Medical Drug**](#chirpers-who-give-plan-medical-drug)
 - [Plans added to Remake System after collecting **Plan: Medical Drug**](#plans-added-to-remake-system-after-collecting-plan-medical-drug)
+
 ## Basic information
 
 |   |   |

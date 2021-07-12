@@ -10,6 +10,7 @@ title: CPU Ring (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Remake System plans which unlock **CPU Ring** in shop](#remake-system-plans-which-unlock-cpu-ring-in-shop)
 - [Player characters who can equip **CPU Ring**](#player-characters-who-can-equip-cpu-ring)
+
 ## Basic information
 
 |   |   |

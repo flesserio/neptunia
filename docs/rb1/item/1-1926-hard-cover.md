@@ -7,7 +7,9 @@ title: Hard Cover (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Hard Cover**](#monsters-which-drop-hard-cover)
 - [Remake System plans which require **Hard Cover**](#remake-system-plans-which-require-hard-cover)
+
 ## Basic information
 
 |   |   |
@@ -20,6 +22,13 @@ title: Hard Cover (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 16 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Hard Cover**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-1043" class="trackbox" /> | 1043 | [Base](/neptunia/rb1/dlc/1-base.html) | [CPU Breaker](/neptunia/rb1/monster/1-1043-cpu-breaker.html) |
 
 
 ## Remake System plans which require **Hard Cover**

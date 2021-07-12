@@ -9,6 +9,7 @@ title: Eyepatch (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Eyepatch** in shop](#remake-system-plans-which-unlock-eyepatch-in-shop)
 - [Player characters who can equip **Eyepatch**](#player-characters-who-can-equip-eyepatch)
+
 ## Basic information
 
 |   |   |

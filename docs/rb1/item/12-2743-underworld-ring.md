@@ -10,6 +10,7 @@ title: Underworld Ring (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Remake System plans which unlock **Underworld Ring** in shop](#remake-system-plans-which-unlock-underworld-ring-in-shop)
 - [Player characters who can equip **Underworld Ring**](#player-characters-who-can-equip-underworld-ring)
+
 ## Basic information
 
 |   |   |

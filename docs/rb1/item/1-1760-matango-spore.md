@@ -7,9 +7,11 @@ title: Matango Spore (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Matango Spore**](#monsters-which-drop-matango-spore)
 - [Dungeons **Matango Spore** is found](#dungeons-matango-spore-is-found)
 - [Quests which require gathering **Matango Spore**](#quests-which-require-gathering-matango-spore)
 - [Remake System plans which require **Matango Spore**](#remake-system-plans-which-require-matango-spore)
+
 ## Basic information
 
 |   |   |
@@ -22,6 +24,13 @@ title: Matango Spore (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 14 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Matango Spore**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-132" class="trackbox" /> | 132 | [Base](/neptunia/rb1/dlc/1-base.html) | [Matango](/neptunia/rb1/monster/1-132-matango.html) |
 
 
 ## Dungeons **Matango Spore** is found

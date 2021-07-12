@@ -7,8 +7,10 @@ title: Electric Switch (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Electric Switch**](#monsters-which-drop-electric-switch)
 - [Dungeons **Electric Switch** is found](#dungeons-electric-switch-is-found)
 - [Remake System plans which require **Electric Switch**](#remake-system-plans-which-require-electric-switch)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,13 @@ title: Electric Switch (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 10000 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Electric Switch**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-345" class="trackbox" /> | 345 | [Base](/neptunia/rb1/dlc/1-base.html) | [Clione](/neptunia/rb1/monster/1-345-clione.html) |
 
 
 ## Dungeons **Electric Switch** is found

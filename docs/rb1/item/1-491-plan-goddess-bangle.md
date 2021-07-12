@@ -9,6 +9,7 @@ title: Plan: Goddess Bangle (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **Plan: Goddess Bangle**](#chirpers-who-give-plan-goddess-bangle)
 - [Plans added to Remake System after collecting **Plan: Goddess Bangle**](#plans-added-to-remake-system-after-collecting-plan-goddess-bangle)
+
 ## Basic information
 
 |   |   |

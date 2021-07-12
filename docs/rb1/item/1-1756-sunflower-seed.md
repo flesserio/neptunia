@@ -7,8 +7,10 @@ title: Sunflower Seed (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Sunflower Seed**](#monsters-which-drop-sunflower-seed)
 - [Dungeons **Sunflower Seed** is found](#dungeons-sunflower-seed-is-found)
 - [Remake System plans which require **Sunflower Seed**](#remake-system-plans-which-require-sunflower-seed)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,13 @@ title: Sunflower Seed (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 6 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Sunflower Seed**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-111" class="trackbox" /> | 111 | [Base](/neptunia/rb1/dlc/1-base.html) | [Sunflowery](/neptunia/rb1/monster/1-111-sunflowery.html) |
 
 
 ## Dungeons **Sunflower Seed** is found

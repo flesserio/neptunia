@@ -7,8 +7,10 @@ title: Homura Headset (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Homura Headset**](#monsters-which-drop-homura-headset)
 - [Dungeons **Homura Headset** is found](#dungeons-homura-headset-is-found)
 - [Player characters who can equip **Homura Headset**](#player-characters-who-can-equip-homura-headset)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,13 @@ title: Homura Headset (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 1000 |
 | **Sell Price** | 500 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Homura Headset**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-342" class="trackbox" /> | 342 | [Base](/neptunia/rb1/dlc/1-base.html) | [A2-i](/neptunia/rb1/monster/1-342-a2-i.html) |
 
 
 ## Dungeons **Homura Headset** is found

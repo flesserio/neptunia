@@ -9,6 +9,7 @@ title: Dream Megaphone+? (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Colosseum quests which reward **Dream Megaphone+?**](#colosseum-quests-which-reward-dream-megaphone)
 - [Player characters who can equip **Dream Megaphone+?**](#player-characters-who-can-equip-dream-megaphone)
+
 ## Basic information
 
 |   |   |

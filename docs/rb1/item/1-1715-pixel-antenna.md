@@ -7,8 +7,10 @@ title: Pixel Antenna (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Pixel Antenna**](#monsters-which-drop-pixel-antenna)
 - [Dungeons **Pixel Antenna** is found](#dungeons-pixel-antenna-is-found)
 - [Remake System plans which require **Pixel Antenna**](#remake-system-plans-which-require-pixel-antenna)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,13 @@ title: Pixel Antenna (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 4 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Pixel Antenna**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-105" class="trackbox" /> | 105 | [Base](/neptunia/rb1/dlc/1-base.html) | [Pixelvader](/neptunia/rb1/monster/1-105-pixelvader.html) |
 
 
 ## Dungeons **Pixel Antenna** is found

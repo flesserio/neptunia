@@ -7,8 +7,10 @@ title: Red Gel Feeler (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Red Gel Feeler**](#monsters-which-drop-red-gel-feeler)
 - [Dungeons **Red Gel Feeler** is found](#dungeons-red-gel-feeler-is-found)
 - [Remake System plans which require **Red Gel Feeler**](#remake-system-plans-which-require-red-gel-feeler)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,13 @@ title: Red Gel Feeler (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 16 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Red Gel Feeler**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-129" class="trackbox" /> | 129 | [Base](/neptunia/rb1/dlc/1-base.html) | [Healing Dogoo](/neptunia/rb1/monster/1-129-healing-dogoo.html) |
 
 
 ## Dungeons **Red Gel Feeler** is found

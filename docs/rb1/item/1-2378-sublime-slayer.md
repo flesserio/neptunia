@@ -9,6 +9,7 @@ title: Sublime Slayer (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Sublime Slayer**](#player-characters-who-can-equip-sublime-slayer)
+
 ## Basic information
 
 |   |   |

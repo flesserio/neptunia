@@ -10,6 +10,7 @@ title: Requiem (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Dungeons **Requiem** is found](#dungeons-requiem-is-found)
 - [Player characters who can equip **Requiem**](#player-characters-who-can-equip-requiem)
+
 ## Basic information
 
 |   |   |

@@ -8,6 +8,7 @@ title: Purple Circle (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Player characters who can equip **Purple Circle**](#player-characters-who-can-equip-purple-circle)
+
 ## Basic information
 
 |   |   |

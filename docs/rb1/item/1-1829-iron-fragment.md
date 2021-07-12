@@ -7,8 +7,10 @@ title: Iron Fragment (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Iron Fragment**](#monsters-which-drop-iron-fragment)
 - [Dungeons **Iron Fragment** is found](#dungeons-iron-fragment-is-found)
 - [Remake System plans which require **Iron Fragment**](#remake-system-plans-which-require-iron-fragment)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,16 @@ title: Iron Fragment (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 14 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Iron Fragment**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-163" class="trackbox" /> | 163 | [Base](/neptunia/rb1/dlc/1-base.html) | [Lowee Soldier](/neptunia/rb1/monster/1-163-lowee-soldier.html) |
+| <input type="checkbox" id="rb1-monster-1-180" class="trackbox" /> | 180 | [Base](/neptunia/rb1/dlc/1-base.html) | [Lowee Defense Guard](/neptunia/rb1/monster/1-180-lowee-defense-guard.html) |
+| <input type="checkbox" id="rb1-monster-1-302" class="trackbox" /> | 302 | [Base](/neptunia/rb1/dlc/1-base.html) | [Lowee High Guard](/neptunia/rb1/monster/1-302-lowee-high-guard.html) |
+| <input type="checkbox" id="rb1-monster-12-398" class="trackbox" /> | 398 | [Additional Content Package 3](/neptunia/rb1/dlc/12-pack3.html) | [ASIC Remnants](/neptunia/rb1/monster/12-398-asic-remnants.html) |
 
 
 ## Dungeons **Iron Fragment** is found

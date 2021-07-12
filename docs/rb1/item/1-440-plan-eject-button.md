@@ -9,6 +9,7 @@ title: Plan: Eject Button (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **Plan: Eject Button**](#chirpers-who-give-plan-eject-button)
 - [Plans added to Remake System after collecting **Plan: Eject Button**](#plans-added-to-remake-system-after-collecting-plan-eject-button)
+
 ## Basic information
 
 |   |   |

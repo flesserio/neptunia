@@ -8,6 +8,7 @@ title: Overlord Momus (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Colosseum quests which reward **Overlord Momus**](#colosseum-quests-which-reward-overlord-momus)
+
 ## Basic information
 
 |   |   |

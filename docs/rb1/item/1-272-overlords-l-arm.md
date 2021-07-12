@@ -8,6 +8,7 @@ title: Overlord's L. Arm (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Colosseum quests which reward **Overlord's L. Arm**](#colosseum-quests-which-reward-overlords-l-arm)
+
 ## Basic information
 
 |   |   |

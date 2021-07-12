@@ -9,6 +9,7 @@ title: Spectral L (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Spectral L**](#player-characters-who-can-equip-spectral-l)
+
 ## Basic information
 
 |   |   |

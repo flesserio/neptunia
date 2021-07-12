@@ -7,8 +7,10 @@ title: Messy Cloth (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Messy Cloth**](#monsters-which-drop-messy-cloth)
 - [Dungeons **Messy Cloth** is found](#dungeons-messy-cloth-is-found)
 - [Remake System plans which require **Messy Cloth**](#remake-system-plans-which-require-messy-cloth)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,13 @@ title: Messy Cloth (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 4 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Messy Cloth**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-106" class="trackbox" /> | 106 | [Base](/neptunia/rb1/dlc/1-base.html) | [Clyde](/neptunia/rb1/monster/1-106-clyde.html) |
 
 
 ## Dungeons **Messy Cloth** is found

@@ -8,6 +8,7 @@ title: Girl Game (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Dungeons **Girl Game** is found](#dungeons-girl-game-is-found)
+
 ## Basic information
 
 |   |   |

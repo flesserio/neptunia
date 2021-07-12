@@ -9,6 +9,7 @@ title: Mecha Staff (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Mecha Staff**](#player-characters-who-can-equip-mecha-staff)
+
 ## Basic information
 
 |   |   |

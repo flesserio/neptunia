@@ -7,8 +7,10 @@ title: Mint Hat (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Mint Hat**](#monsters-which-drop-mint-hat)
 - [Dungeons **Mint Hat** is found](#dungeons-mint-hat-is-found)
 - [Player characters who can equip **Mint Hat**](#player-characters-who-can-equip-mint-hat)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,13 @@ title: Mint Hat (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 1000 |
 | **Sell Price** | 500 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Mint Hat**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-374" class="trackbox" /> | 374 | [Base](/neptunia/rb1/dlc/1-base.html) | [Orthros](/neptunia/rb1/monster/1-374-orthros.html) |
 
 
 ## Dungeons **Mint Hat** is found

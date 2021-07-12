@@ -9,6 +9,7 @@ title: Sweet S (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Sweet S**](#player-characters-who-can-equip-sweet-s)
+
 ## Basic information
 
 |   |   |

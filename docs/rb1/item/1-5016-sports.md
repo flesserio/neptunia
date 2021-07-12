@@ -8,6 +8,7 @@ title: Sports (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Dungeons **Sports** is found](#dungeons-sports-is-found)
+
 ## Basic information
 
 |   |   |

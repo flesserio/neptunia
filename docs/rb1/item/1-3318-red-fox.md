@@ -9,6 +9,7 @@ title: Red Fox (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Red Fox** in shop](#remake-system-plans-which-unlock-red-fox-in-shop)
 - [Player characters who can equip **Red Fox**](#player-characters-who-can-equip-red-fox)
+
 ## Basic information
 
 |   |   |

@@ -7,8 +7,10 @@ title: Cell Antenna (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Cell Antenna**](#monsters-which-drop-cell-antenna)
 - [Dungeons **Cell Antenna** is found](#dungeons-cell-antenna-is-found)
 - [Remake System plans which require **Cell Antenna**](#remake-system-plans-which-require-cell-antenna)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,14 @@ title: Cell Antenna (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 27 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Cell Antenna**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-21-8050" class="trackbox" /> | 8050 | [Additional Content Pack 12](/neptunia/rb1/dlc/21-pack12.html) | [Nanovader](/neptunia/rb1/monster/21-8050-nanovader.html) |
+| <input type="checkbox" id="rb1-monster-1-285" class="trackbox" /> | 285 | [Base](/neptunia/rb1/dlc/1-base.html) | [Nanovader](/neptunia/rb1/monster/1-285-nanovader.html) |
 
 
 ## Dungeons **Cell Antenna** is found

@@ -9,6 +9,7 @@ title: Add Super Enemies: Uwii Ruins (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **Add Super Enemies: Uwii Ruins**](#chirpers-who-give-add-super-enemies-uwii-ruins)
 - [Plans added to Remake System after collecting **Add Super Enemies: Uwii Ruins**](#plans-added-to-remake-system-after-collecting-add-super-enemies-uwii-ruins)
+
 ## Basic information
 
 |   |   |

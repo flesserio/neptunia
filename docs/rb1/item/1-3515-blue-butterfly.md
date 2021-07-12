@@ -9,6 +9,7 @@ title: Blue Butterfly (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Blue Butterfly** in shop](#remake-system-plans-which-unlock-blue-butterfly-in-shop)
 - [Player characters who can equip **Blue Butterfly**](#player-characters-who-can-equip-blue-butterfly)
+
 ## Basic information
 
 |   |   |

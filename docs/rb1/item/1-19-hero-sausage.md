@@ -8,6 +8,7 @@ title: Hero Sausage (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Hero Sausage** in shop](#remake-system-plans-which-unlock-hero-sausage-in-shop)
+
 ## Basic information
 
 |   |   |

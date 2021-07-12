@@ -9,6 +9,7 @@ title: House Ribbon (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Player characters who have **House Ribbon** equipped by default](#player-characters-who-have-house-ribbon-equipped-by-default)
 - [Player characters who can equip **House Ribbon**](#player-characters-who-can-equip-house-ribbon)
+
 ## Basic information
 
 |   |   |

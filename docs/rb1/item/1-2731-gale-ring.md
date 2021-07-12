@@ -10,6 +10,7 @@ title: Gale Ring (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Remake System plans which unlock **Gale Ring** in shop](#remake-system-plans-which-unlock-gale-ring-in-shop)
 - [Player characters who can equip **Gale Ring**](#player-characters-who-can-equip-gale-ring)
+
 ## Basic information
 
 |   |   |

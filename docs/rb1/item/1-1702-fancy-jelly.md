@@ -7,8 +7,10 @@ title: Fancy Jelly (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Fancy Jelly**](#monsters-which-drop-fancy-jelly)
 - [Dungeons **Fancy Jelly** is found](#dungeons-fancy-jelly-is-found)
 - [Remake System plans which require **Fancy Jelly**](#remake-system-plans-which-require-fancy-jelly)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,14 @@ title: Fancy Jelly (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 3 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Fancy Jelly**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-191" class="trackbox" /> | 191 | [Base](/neptunia/rb1/dlc/1-base.html) | [Unplanned Dogoo](/neptunia/rb1/monster/1-191-unplanned-dogoo.html) |
+| <input type="checkbox" id="rb1-monster-10-412" class="trackbox" /> | 412 | [Additional Content Package 1](/neptunia/rb1/dlc/10-pack1.html) | [Exhausted Jelly](/neptunia/rb1/monster/10-412-exhausted-jelly.html) |
 
 
 ## Dungeons **Fancy Jelly** is found

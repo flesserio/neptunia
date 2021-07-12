@@ -7,7 +7,9 @@ title: Magical Reactor (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Magical Reactor**](#monsters-which-drop-magical-reactor)
 - [Remake System plans which require **Magical Reactor**](#remake-system-plans-which-require-magical-reactor)
+
 ## Basic information
 
 |   |   |
@@ -20,6 +22,13 @@ title: Magical Reactor (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 432 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Magical Reactor**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-1021" class="trackbox" /> | 1021 | [Base](/neptunia/rb1/dlc/1-base.html) | [Killachine](/neptunia/rb1/monster/1-1021-killachine.html) |
 
 
 ## Remake System plans which require **Magical Reactor**

@@ -10,6 +10,7 @@ title: Drive Hammer (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Remake System plans which unlock **Drive Hammer** in shop](#remake-system-plans-which-unlock-drive-hammer-in-shop)
 - [Player characters who can equip **Drive Hammer**](#player-characters-who-can-equip-drive-hammer)
+
 ## Basic information
 
 |   |   |

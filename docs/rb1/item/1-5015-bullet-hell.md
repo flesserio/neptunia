@@ -9,6 +9,7 @@ title: Bullet Hell (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Bullet Hell** is found](#dungeons-bullet-hell-is-found)
 - [Colosseum quests which reward **Bullet Hell**](#colosseum-quests-which-reward-bullet-hell)
+
 ## Basic information
 
 |   |   |

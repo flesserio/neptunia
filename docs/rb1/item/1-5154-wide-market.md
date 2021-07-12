@@ -8,6 +8,7 @@ title: Wide Market (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Dungeons **Wide Market** is found](#dungeons-wide-market-is-found)
+
 ## Basic information
 
 |   |   |

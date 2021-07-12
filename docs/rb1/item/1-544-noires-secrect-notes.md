@@ -9,6 +9,7 @@ title: Noire's Secrect Notes (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **Noire's Secrect Notes**](#chirpers-who-give-noires-secrect-notes)
 - [Plans added to Remake System after collecting **Noire's Secrect Notes**](#plans-added-to-remake-system-after-collecting-noires-secrect-notes)
+
 ## Basic information
 
 |   |   |

@@ -9,6 +9,7 @@ title: Add Dungeon: Gunbreak Underground Cavern (Item) - Hyperdimension Neptunia
 - [Basic information](#basic-information)
 - [Plans added to Remake System after collecting **Add Dungeon: Gunbreak Underground Cavern**](#plans-added-to-remake-system-after-collecting-add-dungeon-gunbreak-underground-cavern)
 - [Dungeons **Add Dungeon: Gunbreak Underground Cavern** is found](#dungeons-add-dungeon-gunbreak-underground-cavern-is-found)
+
 ## Basic information
 
 |   |   |

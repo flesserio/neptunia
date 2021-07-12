@@ -9,6 +9,7 @@ title: B.K. Master (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **B.K. Master**](#player-characters-who-can-equip-bk-master)
+
 ## Basic information
 
 |   |   |

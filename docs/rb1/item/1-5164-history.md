@@ -9,6 +9,7 @@ title: History (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **History** is found](#dungeons-history-is-found)
 - [Colosseum quests which reward **History**](#colosseum-quests-which-reward-history)
+
 ## Basic information
 
 |   |   |

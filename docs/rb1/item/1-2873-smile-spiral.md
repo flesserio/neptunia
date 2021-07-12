@@ -9,6 +9,7 @@ title: Smile Spiral (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Smile Spiral**](#player-characters-who-can-equip-smile-spiral)
+
 ## Basic information
 
 |   |   |

@@ -9,6 +9,7 @@ title: Add Enemies: Kinest Range (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **Add Enemies: Kinest Range**](#chirpers-who-give-add-enemies-kinest-range)
 - [Plans added to Remake System after collecting **Add Enemies: Kinest Range**](#plans-added-to-remake-system-after-collecting-add-enemies-kinest-range)
+
 ## Basic information
 
 |   |   |

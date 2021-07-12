@@ -8,8 +8,10 @@ title: Beam Zapper (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Stats](#stats)
+- [Monsters which drop **Beam Zapper**](#monsters-which-drop-beam-zapper)
 - [Dungeons **Beam Zapper** is found](#dungeons-beam-zapper-is-found)
 - [Player characters who can equip **Beam Zapper**](#player-characters-who-can-equip-beam-zapper)
+
 ## Basic information
 
 |   |   |
@@ -30,6 +32,13 @@ title: Beam Zapper (Item) - Hyperdimension Neptunia Re;Birth1
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 2000 | 0 | 0 | 3150 | 350 | 3000 | 0 | 400 | 0 | 150 | 0 | 0 | 0 | 0 |
+
+
+## Monsters which drop **Beam Zapper**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-10-355" class="trackbox" /> | 355 | [Additional Content Package 1](/neptunia/rb1/dlc/10-pack1.html) | [Moonlight Bug](/neptunia/rb1/monster/10-355-moonlight-bug.html) |
 
 
 ## Dungeons **Beam Zapper** is found

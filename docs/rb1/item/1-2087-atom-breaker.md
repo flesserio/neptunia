@@ -9,6 +9,7 @@ title: Atom Breaker (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Atom Breaker**](#player-characters-who-can-equip-atom-breaker)
+
 ## Basic information
 
 |   |   |

@@ -9,6 +9,7 @@ title: Add Super Enemies: Kinest Range (Item) - Hyperdimension Neptunia Re;Birth
 - [Basic information](#basic-information)
 - [Chirpers who give **Add Super Enemies: Kinest Range**](#chirpers-who-give-add-super-enemies-kinest-range)
 - [Plans added to Remake System after collecting **Add Super Enemies: Kinest Range**](#plans-added-to-remake-system-after-collecting-add-super-enemies-kinest-range)
+
 ## Basic information
 
 |   |   |

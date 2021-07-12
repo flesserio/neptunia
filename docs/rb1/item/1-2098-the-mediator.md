@@ -10,6 +10,7 @@ title: The Mediator (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Colosseum quests which reward **The Mediator**](#colosseum-quests-which-reward-the-mediator)
 - [Player characters who can equip **The Mediator**](#player-characters-who-can-equip-the-mediator)
+
 ## Basic information
 
 |   |   |

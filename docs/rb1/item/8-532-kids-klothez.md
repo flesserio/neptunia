@@ -8,6 +8,7 @@ title: Kid's Klothez (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Plans added to Remake System after collecting **Kid's Klothez**](#plans-added-to-remake-system-after-collecting-kids-klothez)
+
 ## Basic information
 
 |   |   |

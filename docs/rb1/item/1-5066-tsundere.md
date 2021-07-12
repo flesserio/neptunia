@@ -8,6 +8,7 @@ title: Tsundere (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Dungeons **Tsundere** is found](#dungeons-tsundere-is-found)
+
 ## Basic information
 
 |   |   |

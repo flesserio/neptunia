@@ -9,6 +9,7 @@ title: Carrot Ribbon (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Carrot Ribbon** in shop](#remake-system-plans-which-unlock-carrot-ribbon-in-shop)
 - [Player characters who can equip **Carrot Ribbon**](#player-characters-who-can-equip-carrot-ribbon)
+
 ## Basic information
 
 |   |   |

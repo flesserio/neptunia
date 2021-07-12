@@ -8,8 +8,10 @@ title: V Crystal Ring (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Stats](#stats)
+- [Monsters which drop **V Crystal Ring**](#monsters-which-drop-v-crystal-ring)
 - [Dungeons **V Crystal Ring** is found](#dungeons-v-crystal-ring-is-found)
 - [Player characters who can equip **V Crystal Ring**](#player-characters-who-can-equip-v-crystal-ring)
+
 ## Basic information
 
 |   |   |
@@ -29,6 +31,13 @@ title: V Crystal Ring (Item) - Hyperdimension Neptunia Re;Birth1
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 1000 | 0 | 2750 | 343 | 2550 | 0 | 0 | 191 | 0 | 0 | 0 | 0 |
+
+
+## Monsters which drop **V Crystal Ring**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-10-355" class="trackbox" /> | 355 | [Additional Content Package 1](/neptunia/rb1/dlc/10-pack1.html) | [Moonlight Bug](/neptunia/rb1/monster/10-355-moonlight-bug.html) |
 
 
 ## Dungeons **V Crystal Ring** is found

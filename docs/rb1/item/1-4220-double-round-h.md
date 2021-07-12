@@ -8,8 +8,10 @@ title: Double Round H (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Stats](#stats)
+- [Monsters which drop **Double Round H**](#monsters-which-drop-double-round-h)
 - [Dungeons **Double Round H** is found](#dungeons-double-round-h-is-found)
 - [Player characters who can equip **Double Round H**](#player-characters-who-can-equip-double-round-h)
+
 ## Basic information
 
 |   |   |
@@ -29,6 +31,14 @@ title: Double Round H (Item) - Hyperdimension Neptunia Re;Birth1
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 40 | 25 | 0 | 0 | -15 | 90 | 0 | 0 | 0 | 0 | 0 |
+
+
+## Monsters which drop **Double Round H**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-379" class="trackbox" /> | 379 | [Base](/neptunia/rb1/dlc/1-base.html) | [Snow Boy](/neptunia/rb1/monster/1-379-snow-boy.html) |
+| <input type="checkbox" id="rb1-monster-16-1060" class="trackbox" /> | 1060 | [Additional Content Pack 7](/neptunia/rb1/dlc/16-pack7.html) | [Snow Boy](/neptunia/rb1/monster/16-1060-snow-boy.html) |
 
 
 ## Dungeons **Double Round H** is found

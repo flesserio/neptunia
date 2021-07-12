@@ -9,6 +9,7 @@ title: Mr. Cat Puppet (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Mr. Cat Puppet**](#player-characters-who-can-equip-mr-cat-puppet)
+
 ## Basic information
 
 |   |   |

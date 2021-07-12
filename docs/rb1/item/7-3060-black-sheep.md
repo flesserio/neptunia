@@ -9,6 +9,7 @@ title: Black Sheep (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Black Sheep** in shop](#remake-system-plans-which-unlock-black-sheep-in-shop)
 - [Player characters who can equip **Black Sheep**](#player-characters-who-can-equip-black-sheep)
+
 ## Basic information
 
 |   |   |

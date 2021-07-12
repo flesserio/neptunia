@@ -10,6 +10,7 @@ title: Wi-Bangle (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Player characters who have **Wi-Bangle** equipped by default](#player-characters-who-have-wi-bangle-equipped-by-default)
 - [Player characters who can equip **Wi-Bangle**](#player-characters-who-can-equip-wi-bangle)
+
 ## Basic information
 
 |   |   |

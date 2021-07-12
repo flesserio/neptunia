@@ -7,8 +7,10 @@ title: Wolf Pelt (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Wolf Pelt**](#monsters-which-drop-wolf-pelt)
 - [Dungeons **Wolf Pelt** is found](#dungeons-wolf-pelt-is-found)
 - [Remake System plans which require **Wolf Pelt**](#remake-system-plans-which-require-wolf-pelt)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,14 @@ title: Wolf Pelt (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 110 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Wolf Pelt**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-152" class="trackbox" /> | 152 | [Base](/neptunia/rb1/dlc/1-base.html) | [Wolf](/neptunia/rb1/monster/1-152-wolf.html) |
+| <input type="checkbox" id="rb1-monster-1-153" class="trackbox" /> | 153 | [Base](/neptunia/rb1/dlc/1-base.html) | [Viral Wolf](/neptunia/rb1/monster/1-153-viral-wolf.html) |
 
 
 ## Dungeons **Wolf Pelt** is found

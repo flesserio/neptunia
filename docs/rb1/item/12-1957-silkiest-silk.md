@@ -7,8 +7,10 @@ title: Silkiest Silk (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Silkiest Silk**](#monsters-which-drop-silkiest-silk)
 - [Dungeons **Silkiest Silk** is found](#dungeons-silkiest-silk-is-found)
 - [Remake System plans which require **Silkiest Silk**](#remake-system-plans-which-require-silkiest-silk)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,13 @@ title: Silkiest Silk (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 10000 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Silkiest Silk**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-12-377" class="trackbox" /> | 377 | [Additional Content Package 3](/neptunia/rb1/dlc/12-pack3.html) | [Sunlight Bug](/neptunia/rb1/monster/12-377-sunlight-bug.html) |
 
 
 ## Dungeons **Silkiest Silk** is found

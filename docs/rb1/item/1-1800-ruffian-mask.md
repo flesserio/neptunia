@@ -7,8 +7,10 @@ title: Ruffian Mask (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Ruffian Mask**](#monsters-which-drop-ruffian-mask)
 - [Dungeons **Ruffian Mask** is found](#dungeons-ruffian-mask-is-found)
 - [Remake System plans which require **Ruffian Mask**](#remake-system-plans-which-require-ruffian-mask)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,13 @@ title: Ruffian Mask (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 73 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Ruffian Mask**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-172" class="trackbox" /> | 172 | [Base](/neptunia/rb1/dlc/1-base.html) | [Ruffian Cat](/neptunia/rb1/monster/1-172-ruffian-cat.html) |
 
 
 ## Dungeons **Ruffian Mask** is found

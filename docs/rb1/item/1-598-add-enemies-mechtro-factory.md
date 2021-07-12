@@ -9,6 +9,7 @@ title: Add Enemies: Mechtro Factory (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **Add Enemies: Mechtro Factory**](#chirpers-who-give-add-enemies-mechtro-factory)
 - [Plans added to Remake System after collecting **Add Enemies: Mechtro Factory**](#plans-added-to-remake-system-after-collecting-add-enemies-mechtro-factory)
+
 ## Basic information
 
 |   |   |

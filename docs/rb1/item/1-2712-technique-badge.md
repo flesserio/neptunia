@@ -9,6 +9,7 @@ title: Technique Badge (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Technique Badge**](#player-characters-who-can-equip-technique-badge)
+
 ## Basic information
 
 |   |   |

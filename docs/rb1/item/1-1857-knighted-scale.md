@@ -7,8 +7,10 @@ title: Knighted Scale (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Knighted Scale**](#monsters-which-drop-knighted-scale)
 - [Dungeons **Knighted Scale** is found](#dungeons-knighted-scale-is-found)
 - [Remake System plans which require **Knighted Scale**](#remake-system-plans-which-require-knighted-scale)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,18 @@ title: Knighted Scale (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 198 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Knighted Scale**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-280" class="trackbox" /> | 280 | [Base](/neptunia/rb1/dlc/1-base.html) | [Dragon Warrior](/neptunia/rb1/monster/1-280-dragon-warrior.html) |
+| <input type="checkbox" id="rb1-monster-1-281" class="trackbox" /> | 281 | [Base](/neptunia/rb1/dlc/1-base.html) | [Viral Dragon Warrior](/neptunia/rb1/monster/1-281-viral-dragon-warrior.html) |
+| <input type="checkbox" id="rb1-monster-1-313" class="trackbox" /> | 313 | [Base](/neptunia/rb1/dlc/1-base.html) | [Dragon Knight](/neptunia/rb1/monster/1-313-dragon-knight.html) |
+| <input type="checkbox" id="rb1-monster-1-314" class="trackbox" /> | 314 | [Base](/neptunia/rb1/dlc/1-base.html) | [Viral Dragon Knight](/neptunia/rb1/monster/1-314-viral-dragon-knight.html) |
+| <input type="checkbox" id="rb1-monster-12-396" class="trackbox" /> | 396 | [Additional Content Package 3](/neptunia/rb1/dlc/12-pack3.html) | [Dragonia](/neptunia/rb1/monster/12-396-dragonia.html) |
+| <input type="checkbox" id="rb1-monster-12-397" class="trackbox" /> | 397 | [Additional Content Package 3](/neptunia/rb1/dlc/12-pack3.html) | [Viral Dragonia](/neptunia/rb1/monster/12-397-viral-dragonia.html) |
 
 
 ## Dungeons **Knighted Scale** is found

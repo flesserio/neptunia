@@ -8,7 +8,9 @@ title: Sexy Coordination (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Plans added to Remake System after collecting **Sexy Coordination**](#plans-added-to-remake-system-after-collecting-sexy-coordination)
+- [Monsters which drop **Sexy Coordination**](#monsters-which-drop-sexy-coordination)
 - [Dungeons **Sexy Coordination** is found](#dungeons-sexy-coordination-is-found)
+
 ## Basic information
 
 |   |   |
@@ -30,6 +32,13 @@ title: Sexy Coordination (Item) - Hyperdimension Neptunia Re;Birth1
 | <input type="checkbox" id="rb1-remake-1-428" class="trackbox" /> | 428 | [Base](/neptunia/rb1/dlc/1-base.html) | [Princess Style](/neptunia/rb1/remake/1-428-princess-style.html)<br /> → [Princess Style](/neptunia/rb1/item/1-2860-princess-style.html) (Clothing) |
 | <input type="checkbox" id="rb1-remake-1-429" class="trackbox" /> | 429 | [Base](/neptunia/rb1/dlc/1-base.html) | [Elite Style](/neptunia/rb1/remake/1-429-elite-style.html)<br /> → [Elite Style](/neptunia/rb1/item/1-2861-elite-style.html) (Clothing) |
 | <input type="checkbox" id="rb1-remake-1-430" class="trackbox" /> | 430 | [Base](/neptunia/rb1/dlc/1-base.html) | [Blood Style](/neptunia/rb1/remake/1-430-blood-style.html)<br /> → [Blood Style](/neptunia/rb1/item/1-2862-blood-style.html) (Clothing) |
+
+
+## Monsters which drop **Sexy Coordination**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-210" class="trackbox" /> | 210 | [Base](/neptunia/rb1/dlc/1-base.html) | [Gebachu](/neptunia/rb1/monster/1-210-gebachu.html) |
 
 
 ## Dungeons **Sexy Coordination** is found

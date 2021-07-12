@@ -9,6 +9,7 @@ title: Short Blade+? (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Colosseum quests which reward **Short Blade+?**](#colosseum-quests-which-reward-short-blade)
 - [Player characters who can equip **Short Blade+?**](#player-characters-who-can-equip-short-blade)
+
 ## Basic information
 
 |   |   |

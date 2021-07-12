@@ -10,6 +10,7 @@ title: Green H (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Player characters who have **Green H** equipped by default](#player-characters-who-have-green-h-equipped-by-default)
 - [Player characters who can equip **Green H**](#player-characters-who-can-equip-green-h)
+
 ## Basic information
 
 |   |   |

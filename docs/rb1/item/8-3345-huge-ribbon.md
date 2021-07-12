@@ -10,6 +10,7 @@ title: Huge Ribbon (Item) - Hyperdimension Neptunia Re;Birth1
 - [Remake System plans which unlock **Huge Ribbon** in shop](#remake-system-plans-which-unlock-huge-ribbon-in-shop)
 - [Remake System plans which require **Huge Ribbon**](#remake-system-plans-which-require-huge-ribbon)
 - [Player characters who can equip **Huge Ribbon**](#player-characters-who-can-equip-huge-ribbon)
+
 ## Basic information
 
 |   |   |

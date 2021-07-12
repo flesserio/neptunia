@@ -7,8 +7,10 @@ title: Nice Boxbird Wing (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Nice Boxbird Wing**](#monsters-which-drop-nice-boxbird-wing)
 - [Dungeons **Nice Boxbird Wing** is found](#dungeons-nice-boxbird-wing-is-found)
 - [Remake System plans which require **Nice Boxbird Wing**](#remake-system-plans-which-require-nice-boxbird-wing)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,13 @@ title: Nice Boxbird Wing (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 177 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Nice Boxbird Wing**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-242" class="trackbox" /> | 242 | [Base](/neptunia/rb1/dlc/1-base.html) | [Prince Boxbird](/neptunia/rb1/monster/1-242-prince-boxbird.html) |
 
 
 ## Dungeons **Nice Boxbird Wing** is found

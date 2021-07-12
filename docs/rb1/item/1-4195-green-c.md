@@ -10,6 +10,7 @@ title: Green C (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Player characters who have **Green C** equipped by default](#player-characters-who-have-green-c-equipped-by-default)
 - [Player characters who can equip **Green C**](#player-characters-who-can-equip-green-c)
+
 ## Basic information
 
 |   |   |

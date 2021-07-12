@@ -7,8 +7,10 @@ title: Many Resets (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Many Resets**](#monsters-which-drop-many-resets)
 - [Dungeons **Many Resets** is found](#dungeons-many-resets-is-found)
 - [Colosseum quests which reward **Many Resets**](#colosseum-quests-which-reward-many-resets)
+
 ## Basic information
 
 |   |   |
@@ -23,6 +25,13 @@ title: Many Resets (Item) - Hyperdimension Neptunia Re;Birth1
 | **Max inventory** | 99 |
 | **Idea Chip level** | 5 |
 | **Idea Chip ability** | [Gained EXP Up Lv.5](/neptunia/rb1/avatar/1-9671-gained-exp-up-lv-5.html)<br />Increases Gained XP by 30% |
+
+
+## Monsters which drop **Many Resets**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-12-400" class="trackbox" /> | 400 | [Additional Content Package 3](/neptunia/rb1/dlc/12-pack3.html) | [Procyon](/neptunia/rb1/monster/12-400-procyon.html) |
 
 
 ## Dungeons **Many Resets** is found

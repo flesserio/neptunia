@@ -7,8 +7,10 @@ title: Orange Jelly (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Orange Jelly**](#monsters-which-drop-orange-jelly)
 - [Dungeons **Orange Jelly** is found](#dungeons-orange-jelly-is-found)
 - [Remake System plans which require **Orange Jelly**](#remake-system-plans-which-require-orange-jelly)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,14 @@ title: Orange Jelly (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 118 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Orange Jelly**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-21-8049" class="trackbox" /> | 8049 | [Additional Content Pack 12](/neptunia/rb1/dlc/21-pack12.html) | [Red Dogoo](/neptunia/rb1/monster/21-8049-red-dogoo.html) |
+| <input type="checkbox" id="rb1-monster-1-233" class="trackbox" /> | 233 | [Base](/neptunia/rb1/dlc/1-base.html) | [Red Dogoo](/neptunia/rb1/monster/1-233-red-dogoo.html) |
 
 
 ## Dungeons **Orange Jelly** is found

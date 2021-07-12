@@ -9,6 +9,7 @@ title: Plan: Youth Bandage (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Plans added to Remake System after collecting **Plan: Youth Bandage**](#plans-added-to-remake-system-after-collecting-plan-youth-bandage)
 - [Dungeons **Plan: Youth Bandage** is found](#dungeons-plan-youth-bandage-is-found)
+
 ## Basic information
 
 |   |   |

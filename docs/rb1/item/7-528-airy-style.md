@@ -8,6 +8,7 @@ title: Airy Style (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Plans added to Remake System after collecting **Airy Style**](#plans-added-to-remake-system-after-collecting-airy-style)
+
 ## Basic information
 
 |   |   |

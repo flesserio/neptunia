@@ -8,6 +8,7 @@ title: USB Memory Keychain (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Colosseum quests which reward **USB Memory Keychain**](#colosseum-quests-which-reward-usb-memory-keychain)
+
 ## Basic information
 
 |   |   |

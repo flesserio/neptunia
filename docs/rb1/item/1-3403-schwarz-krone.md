@@ -9,6 +9,7 @@ title: Schwarz Krone (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Schwarz Krone** in shop](#remake-system-plans-which-unlock-schwarz-krone-in-shop)
 - [Player characters who can equip **Schwarz Krone**](#player-characters-who-can-equip-schwarz-krone)
+
 ## Basic information
 
 |   |   |

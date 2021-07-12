@@ -7,8 +7,10 @@ title: Usada's Hat (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Usada's Hat**](#monsters-which-drop-usadas-hat)
 - [Dungeons **Usada's Hat** is found](#dungeons-usadas-hat-is-found)
 - [Player characters who can equip **Usada's Hat**](#player-characters-who-can-equip-usadas-hat)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,14 @@ title: Usada's Hat (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 1000 |
 | **Sell Price** | 500 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Usada's Hat**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-223" class="trackbox" /> | 223 | [Base](/neptunia/rb1/dlc/1-base.html) | [Something Tree](/neptunia/rb1/monster/1-223-something-tree.html) |
+| <input type="checkbox" id="rb1-monster-1-224" class="trackbox" /> | 224 | [Base](/neptunia/rb1/dlc/1-base.html) | [Viral Something Tree](/neptunia/rb1/monster/1-224-viral-something-tree.html) |
 
 
 ## Dungeons **Usada's Hat** is found

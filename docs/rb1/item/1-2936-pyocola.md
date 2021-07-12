@@ -7,8 +7,10 @@ title: Pyocola (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Pyocola**](#monsters-which-drop-pyocola)
 - [Dungeons **Pyocola** is found](#dungeons-pyocola-is-found)
 - [Player characters who can equip **Pyocola**](#player-characters-who-can-equip-pyocola)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,13 @@ title: Pyocola (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 1000 |
 | **Sell Price** | 500 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Pyocola**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-227" class="trackbox" /> | 227 | [Base](/neptunia/rb1/dlc/1-base.html) | [Aldebaran](/neptunia/rb1/monster/1-227-aldebaran.html) |
 
 
 ## Dungeons **Pyocola** is found

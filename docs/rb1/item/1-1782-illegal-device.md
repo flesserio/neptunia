@@ -7,8 +7,10 @@ title: Illegal Device (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Illegal Device**](#monsters-which-drop-illegal-device)
 - [Dungeons **Illegal Device** is found](#dungeons-illegal-device-is-found)
 - [Remake System plans which require **Illegal Device**](#remake-system-plans-which-require-illegal-device)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,13 @@ title: Illegal Device (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 69 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Illegal Device**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-169" class="trackbox" /> | 169 | [Base](/neptunia/rb1/dlc/1-base.html) | [High Bit Custom](/neptunia/rb1/monster/1-169-high-bit-custom.html) |
 
 
 ## Dungeons **Illegal Device** is found

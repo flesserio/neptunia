@@ -9,6 +9,7 @@ title: Add Enemies: Hyrarule Snowfield (Item) - Hyperdimension Neptunia Re;Birth
 - [Basic information](#basic-information)
 - [Chirpers who give **Add Enemies: Hyrarule Snowfield**](#chirpers-who-give-add-enemies-hyrarule-snowfield)
 - [Plans added to Remake System after collecting **Add Enemies: Hyrarule Snowfield**](#plans-added-to-remake-system-after-collecting-add-enemies-hyrarule-snowfield)
+
 ## Basic information
 
 |   |   |

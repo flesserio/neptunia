@@ -8,6 +8,7 @@ title: Special Gauges (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Dungeons **Special Gauges** is found](#dungeons-special-gauges-is-found)
+
 ## Basic information
 
 |   |   |

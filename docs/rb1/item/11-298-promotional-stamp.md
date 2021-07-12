@@ -8,6 +8,7 @@ title: Promotional Stamp (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Quests which reward **Promotional Stamp**](#quests-which-reward-promotional-stamp)
+
 ## Basic information
 
 |   |   |

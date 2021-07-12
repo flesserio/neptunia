@@ -7,8 +7,10 @@ title: Bone Fragment (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Bone Fragment**](#monsters-which-drop-bone-fragment)
 - [Dungeons **Bone Fragment** is found](#dungeons-bone-fragment-is-found)
 - [Remake System plans which require **Bone Fragment**](#remake-system-plans-which-require-bone-fragment)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,13 @@ title: Bone Fragment (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 52 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Bone Fragment**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-303" class="trackbox" /> | 303 | [Base](/neptunia/rb1/dlc/1-base.html) | [Skeleton](/neptunia/rb1/monster/1-303-skeleton.html) |
 
 
 ## Dungeons **Bone Fragment** is found

@@ -7,8 +7,10 @@ title: Rotten Pork Soup (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Rotten Pork Soup**](#monsters-which-drop-rotten-pork-soup)
 - [Dungeons **Rotten Pork Soup** is found](#dungeons-rotten-pork-soup-is-found)
 - [Remake System plans which require **Rotten Pork Soup**](#remake-system-plans-which-require-rotten-pork-soup)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,13 @@ title: Rotten Pork Soup (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 10000 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Rotten Pork Soup**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-393" class="trackbox" /> | 393 | [Base](/neptunia/rb1/dlc/1-base.html) | [Clione](/neptunia/rb1/monster/1-393-clione.html) |
 
 
 ## Dungeons **Rotten Pork Soup** is found

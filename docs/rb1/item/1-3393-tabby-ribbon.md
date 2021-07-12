@@ -9,6 +9,7 @@ title: Tabby Ribbon (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Tabby Ribbon** in shop](#remake-system-plans-which-unlock-tabby-ribbon-in-shop)
 - [Player characters who can equip **Tabby Ribbon**](#player-characters-who-can-equip-tabby-ribbon)
+
 ## Basic information
 
 |   |   |

@@ -9,6 +9,7 @@ title: Famous Voice (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Famous Voice** is found](#dungeons-famous-voice-is-found)
 - [Quests which reward **Famous Voice**](#quests-which-reward-famous-voice)
+
 ## Basic information
 
 |   |   |

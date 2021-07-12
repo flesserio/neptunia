@@ -7,8 +7,10 @@ title: Chivalrous Metal (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Chivalrous Metal**](#monsters-which-drop-chivalrous-metal)
 - [Dungeons **Chivalrous Metal** is found](#dungeons-chivalrous-metal-is-found)
 - [Remake System plans which require **Chivalrous Metal**](#remake-system-plans-which-require-chivalrous-metal)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,13 @@ title: Chivalrous Metal (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 10000 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Chivalrous Metal**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-10-418" class="trackbox" /> | 418 | [Additional Content Package 1](/neptunia/rb1/dlc/10-pack1.html) | [Clione](/neptunia/rb1/monster/10-418-clione.html) |
 
 
 ## Dungeons **Chivalrous Metal** is found

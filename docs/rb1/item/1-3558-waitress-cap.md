@@ -10,6 +10,7 @@ title: Waitress Cap (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Dungeons **Waitress Cap** is found](#dungeons-waitress-cap-is-found)
 - [Player characters who can equip **Waitress Cap**](#player-characters-who-can-equip-waitress-cap)
+
 ## Basic information
 
 |   |   |

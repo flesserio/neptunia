@@ -9,6 +9,7 @@ title: Fine Yellow (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Fine Yellow** in shop](#remake-system-plans-which-unlock-fine-yellow-in-shop)
 - [Player characters who can equip **Fine Yellow**](#player-characters-who-can-equip-fine-yellow)
+
 ## Basic information
 
 |   |   |

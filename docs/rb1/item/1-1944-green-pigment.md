@@ -10,6 +10,7 @@ title: Green Pigment (Item) - Hyperdimension Neptunia Re;Birth1
 - [Remake System plans which unlock **Green Pigment** in shop](#remake-system-plans-which-unlock-green-pigment-in-shop)
 - [Dungeons **Green Pigment** is found](#dungeons-green-pigment-is-found)
 - [Remake System plans which require **Green Pigment**](#remake-system-plans-which-require-green-pigment)
+
 ## Basic information
 
 |   |   |

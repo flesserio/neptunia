@@ -7,8 +7,10 @@ title: Illegal Gadget (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Illegal Gadget**](#monsters-which-drop-illegal-gadget)
 - [Dungeons **Illegal Gadget** is found](#dungeons-illegal-gadget-is-found)
 - [Remake System plans which require **Illegal Gadget**](#remake-system-plans-which-require-illegal-gadget)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,13 @@ title: Illegal Gadget (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 22 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Illegal Gadget**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-301" class="trackbox" /> | 301 | [Base](/neptunia/rb1/dlc/1-base.html) | [High Bit](/neptunia/rb1/monster/1-301-high-bit.html) |
 
 
 ## Dungeons **Illegal Gadget** is found

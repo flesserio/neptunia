@@ -7,8 +7,10 @@ title: Wicked Heart (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Wicked Heart**](#monsters-which-drop-wicked-heart)
 - [Dungeons **Wicked Heart** is found](#dungeons-wicked-heart-is-found)
 - [Remake System plans which require **Wicked Heart**](#remake-system-plans-which-require-wicked-heart)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,14 @@ title: Wicked Heart (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 60 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Wicked Heart**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-171" class="trackbox" /> | 171 | [Base](/neptunia/rb1/dlc/1-base.html) | [Strange Person](/neptunia/rb1/monster/1-171-strange-person.html) |
+| <input type="checkbox" id="rb1-monster-14-6116" class="trackbox" /> | 6116 | [Additional Content Pack 5](/neptunia/rb1/dlc/14-pack5.html) | [Strange Person](/neptunia/rb1/monster/14-6116-strange-person.html) |
 
 
 ## Dungeons **Wicked Heart** is found

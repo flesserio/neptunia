@@ -8,6 +8,7 @@ title: Diva Line (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Player characters who can equip **Diva Line**](#player-characters-who-can-equip-diva-line)
+
 ## Basic information
 
 |   |   |

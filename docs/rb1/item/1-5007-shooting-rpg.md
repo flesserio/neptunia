@@ -9,6 +9,7 @@ title: Shooting RPG (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Shooting RPG** is found](#dungeons-shooting-rpg-is-found)
 - [Quests which reward **Shooting RPG**](#quests-which-reward-shooting-rpg)
+
 ## Basic information
 
 |   |   |

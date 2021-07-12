@@ -9,6 +9,7 @@ title: Lolita Headdress (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which require **Lolita Headdress**](#remake-system-plans-which-require-lolita-headdress)
 - [Player characters who can equip **Lolita Headdress**](#player-characters-who-can-equip-lolita-headdress)
+
 ## Basic information
 
 |   |   |

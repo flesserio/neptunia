@@ -7,8 +7,10 @@ title: Action Play (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Action Play**](#monsters-which-drop-action-play)
 - [Dungeons **Action Play** is found](#dungeons-action-play-is-found)
 - [Remake System plans which require **Action Play**](#remake-system-plans-which-require-action-play)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,13 @@ title: Action Play (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 1828 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Action Play**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-309" class="trackbox" /> | 309 | [Base](/neptunia/rb1/dlc/1-base.html) | [Grafchocolo](/neptunia/rb1/monster/1-309-grafchocolo.html) |
 
 
 ## Dungeons **Action Play** is found

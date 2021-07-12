@@ -7,9 +7,11 @@ title: Guitar Controller (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Guitar Controller**](#monsters-which-drop-guitar-controller)
 - [Dungeons **Guitar Controller** is found](#dungeons-guitar-controller-is-found)
 - [Quests which require gathering **Guitar Controller**](#quests-which-require-gathering-guitar-controller)
 - [Remake System plans which require **Guitar Controller**](#remake-system-plans-which-require-guitar-controller)
+
 ## Basic information
 
 |   |   |
@@ -22,6 +24,13 @@ title: Guitar Controller (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 1269 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Guitar Controller**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-160" class="trackbox" /> | 160 | [Base](/neptunia/rb1/dlc/1-base.html) | [Judge's Disciple](/neptunia/rb1/monster/1-160-judges-disciple.html) |
 
 
 ## Dungeons **Guitar Controller** is found

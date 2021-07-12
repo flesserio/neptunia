@@ -9,6 +9,7 @@ title: Pure Beret (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which require **Pure Beret**](#remake-system-plans-which-require-pure-beret)
 - [Player characters who can equip **Pure Beret**](#player-characters-who-can-equip-pure-beret)
+
 ## Basic information
 
 |   |   |

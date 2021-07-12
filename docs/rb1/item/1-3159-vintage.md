@@ -9,6 +9,7 @@ title: Vintage (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Vintage** in shop](#remake-system-plans-which-unlock-vintage-in-shop)
 - [Player characters who can equip **Vintage**](#player-characters-who-can-equip-vintage)
+
 ## Basic information
 
 |   |   |

@@ -7,8 +7,10 @@ title: Small Whale Ball (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Small Whale Ball**](#monsters-which-drop-small-whale-ball)
 - [Dungeons **Small Whale Ball** is found](#dungeons-small-whale-ball-is-found)
 - [Remake System plans which require **Small Whale Ball**](#remake-system-plans-which-require-small-whale-ball)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,13 @@ title: Small Whale Ball (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 3162 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Small Whale Ball**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-226" class="trackbox" /> | 226 | [Base](/neptunia/rb1/dlc/1-base.html) | [Saint Whale](/neptunia/rb1/monster/1-226-saint-whale.html) |
 
 
 ## Dungeons **Small Whale Ball** is found

@@ -10,6 +10,7 @@ title: Vert's Gift (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Player characters who have **Vert's Gift** equipped by default](#player-characters-who-have-verts-gift-equipped-by-default)
 - [Player characters who can equip **Vert's Gift**](#player-characters-who-can-equip-verts-gift)
+
 ## Basic information
 
 |   |   |

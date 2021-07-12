@@ -10,6 +10,7 @@ title: White H (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Player characters who have **White H** equipped by default](#player-characters-who-have-white-h-equipped-by-default)
 - [Player characters who can equip **White H**](#player-characters-who-can-equip-white-h)
+
 ## Basic information
 
 |   |   |

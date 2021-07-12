@@ -9,6 +9,7 @@ title: Mini-Mini Crown (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Mini-Mini Crown** in shop](#remake-system-plans-which-unlock-mini-mini-crown-in-shop)
 - [Player characters who can equip **Mini-Mini Crown**](#player-characters-who-can-equip-mini-mini-crown)
+
 ## Basic information
 
 |   |   |

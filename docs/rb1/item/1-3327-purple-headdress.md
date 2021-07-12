@@ -9,6 +9,7 @@ title: Purple Headdress (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which require **Purple Headdress**](#remake-system-plans-which-require-purple-headdress)
 - [Player characters who can equip **Purple Headdress**](#player-characters-who-can-equip-purple-headdress)
+
 ## Basic information
 
 |   |   |

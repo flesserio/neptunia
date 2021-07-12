@@ -10,6 +10,7 @@ title: Cardboard B (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Quests which reward **Cardboard B**](#quests-which-reward-cardboard-b)
 - [Player characters who can equip **Cardboard B**](#player-characters-who-can-equip-cardboard-b)
+
 ## Basic information
 
 |   |   |

@@ -7,9 +7,11 @@ title: Shaking Leaf (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Shaking Leaf**](#monsters-which-drop-shaking-leaf)
 - [Dungeons **Shaking Leaf** is found](#dungeons-shaking-leaf-is-found)
 - [Quests which require gathering **Shaking Leaf**](#quests-which-require-gathering-shaking-leaf)
 - [Remake System plans which require **Shaking Leaf**](#remake-system-plans-which-require-shaking-leaf)
+
 ## Basic information
 
 |   |   |
@@ -22,6 +24,14 @@ title: Shaking Leaf (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 202 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Shaking Leaf**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-223" class="trackbox" /> | 223 | [Base](/neptunia/rb1/dlc/1-base.html) | [Something Tree](/neptunia/rb1/monster/1-223-something-tree.html) |
+| <input type="checkbox" id="rb1-monster-1-224" class="trackbox" /> | 224 | [Base](/neptunia/rb1/dlc/1-base.html) | [Viral Something Tree](/neptunia/rb1/monster/1-224-viral-something-tree.html) |
 
 
 ## Dungeons **Shaking Leaf** is found

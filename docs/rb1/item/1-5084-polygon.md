@@ -7,7 +7,9 @@ title: Polygon (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Polygon**](#monsters-which-drop-polygon)
 - [Dungeons **Polygon** is found](#dungeons-polygon-is-found)
+
 ## Basic information
 
 |   |   |
@@ -22,6 +24,13 @@ title: Polygon (Item) - Hyperdimension Neptunia Re;Birth1
 | **Max inventory** | 99 |
 | **Idea Chip level** | 3 |
 | **Idea Chip ability** | [Dogoo Defense Lv.3](/neptunia/rb1/avatar/1-9583-dogoo-defense-lv-3.html)<br />Increases Dogoo Defense by 20% |
+
+
+## Monsters which drop **Polygon**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-182" class="trackbox" /> | 182 | [Base](/neptunia/rb1/dlc/1-base.html) | [Special Dogoo](/neptunia/rb1/monster/1-182-special-dogoo.html) |
 
 
 ## Dungeons **Polygon** is found

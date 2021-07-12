@@ -9,6 +9,7 @@ title: Beam Saber+? (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Colosseum quests which reward **Beam Saber+?**](#colosseum-quests-which-reward-beam-saber)
 - [Player characters who can equip **Beam Saber+?**](#player-characters-who-can-equip-beam-saber)
+
 ## Basic information
 
 |   |   |

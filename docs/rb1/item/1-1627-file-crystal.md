@@ -9,6 +9,7 @@ title: File Crystal (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **File Crystal** is found](#dungeons-file-crystal-is-found)
 - [Remake System plans which require **File Crystal**](#remake-system-plans-which-require-file-crystal)
+
 ## Basic information
 
 |   |   |

@@ -7,8 +7,10 @@ title: Ice Crystal (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Ice Crystal**](#monsters-which-drop-ice-crystal)
 - [Dungeons **Ice Crystal** is found](#dungeons-ice-crystal-is-found)
 - [Remake System plans which require **Ice Crystal**](#remake-system-plans-which-require-ice-crystal)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,14 @@ title: Ice Crystal (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 56 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Ice Crystal**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-176" class="trackbox" /> | 176 | [Base](/neptunia/rb1/dlc/1-base.html) | [Ice Golem](/neptunia/rb1/monster/1-176-ice-golem.html) |
+| <input type="checkbox" id="rb1-monster-1-177" class="trackbox" /> | 177 | [Base](/neptunia/rb1/dlc/1-base.html) | [Viral Ice Golem](/neptunia/rb1/monster/1-177-viral-ice-golem.html) |
 
 
 ## Dungeons **Ice Crystal** is found

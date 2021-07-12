@@ -9,6 +9,7 @@ title: Change Items: Zeca Ruins No.2 (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **Change Items: Zeca Ruins No.2**](#chirpers-who-give-change-items-zeca-ruins-no2)
 - [Plans added to Remake System after collecting **Change Items: Zeca Ruins No.2**](#plans-added-to-remake-system-after-collecting-change-items-zeca-ruins-no2)
+
 ## Basic information
 
 |   |   |

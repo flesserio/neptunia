@@ -9,6 +9,7 @@ title: Cord Armlet (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Cord Armlet**](#player-characters-who-can-equip-cord-armlet)
+
 ## Basic information
 
 |   |   |

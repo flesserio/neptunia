@@ -10,6 +10,7 @@ title: Anti-Seal (Item) - Hyperdimension Neptunia Re;Birth1
 - [Remake System plans which unlock **Anti-Seal** in shop](#remake-system-plans-which-unlock-anti-seal-in-shop)
 - [Colosseum quests which reward **Anti-Seal**](#colosseum-quests-which-reward-anti-seal)
 - [Remake System plans which require **Anti-Seal**](#remake-system-plans-which-require-anti-seal)
+
 ## Basic information
 
 |   |   |

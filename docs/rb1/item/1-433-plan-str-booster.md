@@ -9,6 +9,7 @@ title: Plan: STR Booster (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **Plan: STR Booster**](#chirpers-who-give-plan-str-booster)
 - [Plans added to Remake System after collecting **Plan: STR Booster**](#plans-added-to-remake-system-after-collecting-plan-str-booster)
+
 ## Basic information
 
 |   |   |

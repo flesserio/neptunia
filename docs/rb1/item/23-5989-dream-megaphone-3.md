@@ -9,6 +9,7 @@ title: Dream Megaphone+3 (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Dream Megaphone+3**](#player-characters-who-can-equip-dream-megaphone-3)
+
 ## Basic information
 
 |   |   |

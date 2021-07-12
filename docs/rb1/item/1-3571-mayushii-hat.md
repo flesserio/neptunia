@@ -9,6 +9,7 @@ title: Mayushii Hat (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Quests which reward **Mayushii Hat**](#quests-which-reward-mayushii-hat)
 - [Player characters who can equip **Mayushii Hat**](#player-characters-who-can-equip-mayushii-hat)
+
 ## Basic information
 
 |   |   |

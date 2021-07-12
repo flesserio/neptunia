@@ -9,6 +9,7 @@ title: Neptuna Clothes (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Neptuna Clothes** in shop](#remake-system-plans-which-unlock-neptuna-clothes-in-shop)
 - [Player characters who can equip **Neptuna Clothes**](#player-characters-who-can-equip-neptuna-clothes)
+
 ## Basic information
 
 |   |   |

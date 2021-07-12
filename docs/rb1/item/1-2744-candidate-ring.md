@@ -10,6 +10,7 @@ title: Candidate Ring (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Remake System plans which unlock **Candidate Ring** in shop](#remake-system-plans-which-unlock-candidate-ring-in-shop)
 - [Player characters who can equip **Candidate Ring**](#player-characters-who-can-equip-candidate-ring)
+
 ## Basic information
 
 |   |   |

@@ -9,6 +9,7 @@ title: Rom's Drawings of Ram (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **Rom's Drawings of Ram**](#chirpers-who-give-roms-drawings-of-ram)
 - [Plans added to Remake System after collecting **Rom's Drawings of Ram**](#plans-added-to-remake-system-after-collecting-roms-drawings-of-ram)
+
 ## Basic information
 
 |   |   |

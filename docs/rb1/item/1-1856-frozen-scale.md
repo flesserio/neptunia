@@ -7,8 +7,10 @@ title: Frozen Scale (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Frozen Scale**](#monsters-which-drop-frozen-scale)
 - [Dungeons **Frozen Scale** is found](#dungeons-frozen-scale-is-found)
 - [Remake System plans which require **Frozen Scale**](#remake-system-plans-which-require-frozen-scale)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,14 @@ title: Frozen Scale (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 178 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Frozen Scale**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-161" class="trackbox" /> | 161 | [Base](/neptunia/rb1/dlc/1-base.html) | [Gold Lizard](/neptunia/rb1/monster/1-161-gold-lizard.html) |
+| <input type="checkbox" id="rb1-monster-1-162" class="trackbox" /> | 162 | [Base](/neptunia/rb1/dlc/1-base.html) | [Viral Gold Lizard](/neptunia/rb1/monster/1-162-viral-gold-lizard.html) |
 
 
 ## Dungeons **Frozen Scale** is found

@@ -10,6 +10,7 @@ title: Tekken's Soul (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Player characters who have **Tekken's Soul** equipped by default](#player-characters-who-have-tekkens-soul-equipped-by-default)
 - [Player characters who can equip **Tekken's Soul**](#player-characters-who-can-equip-tekkens-soul)
+
 ## Basic information
 
 |   |   |

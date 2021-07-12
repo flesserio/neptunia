@@ -9,6 +9,7 @@ title: Metal W (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Metal W**](#player-characters-who-can-equip-metal-w)
+
 ## Basic information
 
 |   |   |

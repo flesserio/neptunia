@@ -7,8 +7,10 @@ title: Cool Boxbird Wing (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Cool Boxbird Wing**](#monsters-which-drop-cool-boxbird-wing)
 - [Dungeons **Cool Boxbird Wing** is found](#dungeons-cool-boxbird-wing-is-found)
 - [Remake System plans which require **Cool Boxbird Wing**](#remake-system-plans-which-require-cool-boxbird-wing)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,13 @@ title: Cool Boxbird Wing (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 168 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Cool Boxbird Wing**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-203" class="trackbox" /> | 203 | [Base](/neptunia/rb1/dlc/1-base.html) | [King Boxbird](/neptunia/rb1/monster/1-203-king-boxbird.html) |
 
 
 ## Dungeons **Cool Boxbird Wing** is found

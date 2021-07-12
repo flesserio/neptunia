@@ -8,7 +8,9 @@ title: Plan: Black Cat Ring (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Plans added to Remake System after collecting **Plan: Black Cat Ring**](#plans-added-to-remake-system-after-collecting-plan-black-cat-ring)
+- [Monsters which drop **Plan: Black Cat Ring**](#monsters-which-drop-plan-black-cat-ring)
 - [Dungeons **Plan: Black Cat Ring** is found](#dungeons-plan-black-cat-ring-is-found)
+
 ## Basic information
 
 |   |   |
@@ -28,6 +30,13 @@ title: Plan: Black Cat Ring (Item) - Hyperdimension Neptunia Re;Birth1
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
 | <input type="checkbox" id="rb1-remake-11-394" class="trackbox" /> | 394 | [Additional Content Package 2](/neptunia/rb1/dlc/11-pack2.html) | [Black Cat Ring](/neptunia/rb1/remake/11-394-black-cat-ring.html)<br /> → [Black Cat Ring](/neptunia/rb1/item/11-2563-black-cat-ring.html) (Armor) |
+
+
+## Monsters which drop **Plan: Black Cat Ring**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-11-328" class="trackbox" /> | 328 | [Additional Content Package 2](/neptunia/rb1/dlc/11-pack2.html) | [Delphi Eggplant MK-2](/neptunia/rb1/monster/11-328-delphi-eggplant-mk-2.html) |
 
 
 ## Dungeons **Plan: Black Cat Ring** is found

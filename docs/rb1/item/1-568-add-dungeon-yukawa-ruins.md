@@ -9,6 +9,7 @@ title: Add Dungeon: Yukawa Ruins (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Plans added to Remake System after collecting **Add Dungeon: Yukawa Ruins**](#plans-added-to-remake-system-after-collecting-add-dungeon-yukawa-ruins)
 - [Dungeons **Add Dungeon: Yukawa Ruins** is found](#dungeons-add-dungeon-yukawa-ruins-is-found)
+
 ## Basic information
 
 |   |   |

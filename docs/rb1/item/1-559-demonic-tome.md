@@ -9,6 +9,7 @@ title: Demonic Tome (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **Demonic Tome**](#chirpers-who-give-demonic-tome)
 - [Plans added to Remake System after collecting **Demonic Tome**](#plans-added-to-remake-system-after-collecting-demonic-tome)
+
 ## Basic information
 
 |   |   |

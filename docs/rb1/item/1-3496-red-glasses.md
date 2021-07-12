@@ -9,6 +9,7 @@ title: Red Glasses (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Red Glasses** in shop](#remake-system-plans-which-unlock-red-glasses-in-shop)
 - [Player characters who can equip **Red Glasses**](#player-characters-who-can-equip-red-glasses)
+
 ## Basic information
 
 |   |   |

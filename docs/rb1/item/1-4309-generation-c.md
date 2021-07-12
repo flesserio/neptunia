@@ -9,6 +9,7 @@ title: Generation C (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Generation C**](#player-characters-who-can-equip-generation-c)
+
 ## Basic information
 
 |   |   |

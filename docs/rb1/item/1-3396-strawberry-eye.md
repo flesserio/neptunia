@@ -9,6 +9,7 @@ title: Strawberry Eye (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Strawberry Eye** in shop](#remake-system-plans-which-unlock-strawberry-eye-in-shop)
 - [Player characters who can equip **Strawberry Eye**](#player-characters-who-can-equip-strawberry-eye)
+
 ## Basic information
 
 |   |   |

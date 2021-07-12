@@ -9,6 +9,7 @@ title: Moon Robe (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Moon Robe** in shop](#remake-system-plans-which-unlock-moon-robe-in-shop)
 - [Player characters who can equip **Moon Robe**](#player-characters-who-can-equip-moon-robe)
+
 ## Basic information
 
 |   |   |

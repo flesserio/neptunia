@@ -9,6 +9,7 @@ title: Console Pack-in (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Console Pack-in** is found](#dungeons-console-pack-in-is-found)
 - [Colosseum quests which reward **Console Pack-in**](#colosseum-quests-which-reward-console-pack-in)
+
 ## Basic information
 
 |   |   |

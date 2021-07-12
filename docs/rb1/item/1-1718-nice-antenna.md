@@ -7,8 +7,10 @@ title: Nice Antenna (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Nice Antenna**](#monsters-which-drop-nice-antenna)
 - [Dungeons **Nice Antenna** is found](#dungeons-nice-antenna-is-found)
 - [Remake System plans which require **Nice Antenna**](#remake-system-plans-which-require-nice-antenna)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,13 @@ title: Nice Antenna (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 44 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Nice Antenna**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-195" class="trackbox" /> | 195 | [Base](/neptunia/rb1/dlc/1-base.html) | [Malvader](/neptunia/rb1/monster/1-195-malvader.html) |
 
 
 ## Dungeons **Nice Antenna** is found

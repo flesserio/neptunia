@@ -10,6 +10,7 @@ title: Healing Field (Item) - Hyperdimension Neptunia Re;Birth1
 - [Remake System plans which unlock **Healing Field** in shop](#remake-system-plans-which-unlock-healing-field-in-shop)
 - [Dungeons **Healing Field** is found](#dungeons-healing-field-is-found)
 - [Quests which reward **Healing Field**](#quests-which-reward-healing-field)
+
 ## Basic information
 
 |   |   |

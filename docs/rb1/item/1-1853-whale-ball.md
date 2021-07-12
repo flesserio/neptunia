@@ -7,8 +7,10 @@ title: Whale Ball (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Whale Ball**](#monsters-which-drop-whale-ball)
 - [Dungeons **Whale Ball** is found](#dungeons-whale-ball-is-found)
 - [Remake System plans which require **Whale Ball**](#remake-system-plans-which-require-whale-ball)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,13 @@ title: Whale Ball (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 249 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Whale Ball**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-134" class="trackbox" /> | 134 | [Base](/neptunia/rb1/dlc/1-base.html) | [Whale](/neptunia/rb1/monster/1-134-whale.html) |
 
 
 ## Dungeons **Whale Ball** is found

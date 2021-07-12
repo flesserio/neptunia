@@ -9,6 +9,7 @@ title: Green Tome (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Plans added to Remake System after collecting **Green Tome**](#plans-added-to-remake-system-after-collecting-green-tome)
 - [Colosseum quests which reward **Green Tome**](#colosseum-quests-which-reward-green-tome)
+
 ## Basic information
 
 |   |   |

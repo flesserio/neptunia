@@ -10,6 +10,7 @@ title: Teratoxin (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Remake System plans which unlock **Teratoxin** in shop](#remake-system-plans-which-unlock-teratoxin-in-shop)
 - [Player characters who can equip **Teratoxin**](#player-characters-who-can-equip-teratoxin)
+
 ## Basic information
 
 |   |   |

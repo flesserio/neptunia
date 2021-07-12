@@ -9,6 +9,7 @@ title: Reflex (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Reflex** is found](#dungeons-reflex-is-found)
 - [Quests which reward **Reflex**](#quests-which-reward-reflex)
+
 ## Basic information
 
 |   |   |

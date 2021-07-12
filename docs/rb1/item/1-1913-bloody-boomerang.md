@@ -7,8 +7,10 @@ title: Bloody Boomerang (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Bloody Boomerang**](#monsters-which-drop-bloody-boomerang)
 - [Dungeons **Bloody Boomerang** is found](#dungeons-bloody-boomerang-is-found)
 - [Remake System plans which require **Bloody Boomerang**](#remake-system-plans-which-require-bloody-boomerang)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,13 @@ title: Bloody Boomerang (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 13 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Bloody Boomerang**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-136" class="trackbox" /> | 136 | [Base](/neptunia/rb1/dlc/1-base.html) | [Boomerang](/neptunia/rb1/monster/1-136-boomerang.html) |
 
 
 ## Dungeons **Bloody Boomerang** is found

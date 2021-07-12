@@ -10,6 +10,7 @@ title: Short Blade (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Player characters who have **Short Blade** equipped by default](#player-characters-who-have-short-blade-equipped-by-default)
 - [Player characters who can equip **Short Blade**](#player-characters-who-can-equip-short-blade)
+
 ## Basic information
 
 |   |   |

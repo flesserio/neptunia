@@ -10,6 +10,7 @@ title: Cube Hammer (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Remake System plans which unlock **Cube Hammer** in shop](#remake-system-plans-which-unlock-cube-hammer-in-shop)
 - [Player characters who can equip **Cube Hammer**](#player-characters-who-can-equip-cube-hammer)
+
 ## Basic information
 
 |   |   |

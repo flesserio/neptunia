@@ -10,6 +10,7 @@ title: Cassis Ribbon (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Dungeons **Cassis Ribbon** is found](#dungeons-cassis-ribbon-is-found)
 - [Player characters who can equip **Cassis Ribbon**](#player-characters-who-can-equip-cassis-ribbon)
+
 ## Basic information
 
 |   |   |

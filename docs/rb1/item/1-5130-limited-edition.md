@@ -8,6 +8,7 @@ title: Limited Edition (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Dungeons **Limited Edition** is found](#dungeons-limited-edition-is-found)
+
 ## Basic information
 
 |   |   |

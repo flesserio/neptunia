@@ -10,6 +10,7 @@ title: Toy Bracelet (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Player characters who have **Toy Bracelet** equipped by default](#player-characters-who-have-toy-bracelet-equipped-by-default)
 - [Player characters who can equip **Toy Bracelet**](#player-characters-who-can-equip-toy-bracelet)
+
 ## Basic information
 
 |   |   |

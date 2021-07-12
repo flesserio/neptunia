@@ -10,6 +10,7 @@ title: Amphetamine Qatar (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Remake System plans which unlock **Amphetamine Qatar** in shop](#remake-system-plans-which-unlock-amphetamine-qatar-in-shop)
 - [Player characters who can equip **Amphetamine Qatar**](#player-characters-who-can-equip-amphetamine-qatar)
+
 ## Basic information
 
 |   |   |

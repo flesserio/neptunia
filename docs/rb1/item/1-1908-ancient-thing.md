@@ -7,8 +7,10 @@ title: Ancient...Thing (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Ancient...Thing**](#monsters-which-drop-ancientthing)
 - [Dungeons **Ancient...Thing** is found](#dungeons-ancientthing-is-found)
 - [Remake System plans which require **Ancient...Thing**](#remake-system-plans-which-require-ancientthing)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,13 @@ title: Ancient...Thing (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 3723 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Ancient...Thing**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-243" class="trackbox" /> | 243 | [Base](/neptunia/rb1/dlc/1-base.html) | [Lost Dragon](/neptunia/rb1/monster/1-243-lost-dragon.html) |
 
 
 ## Dungeons **Ancient...Thing** is found

@@ -7,8 +7,10 @@ title: Death Cloth (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Death Cloth**](#monsters-which-drop-death-cloth)
 - [Dungeons **Death Cloth** is found](#dungeons-death-cloth-is-found)
 - [Remake System plans which require **Death Cloth**](#remake-system-plans-which-require-death-cloth)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,13 @@ title: Death Cloth (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 377 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Death Cloth**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-12-394" class="trackbox" /> | 394 | [Additional Content Package 3](/neptunia/rb1/dlc/12-pack3.html) | [Death Boy](/neptunia/rb1/monster/12-394-death-boy.html) |
 
 
 ## Dungeons **Death Cloth** is found

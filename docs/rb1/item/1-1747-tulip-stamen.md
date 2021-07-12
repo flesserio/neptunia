@@ -7,8 +7,10 @@ title: Tulip Stamen (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Tulip Stamen**](#monsters-which-drop-tulip-stamen)
 - [Dungeons **Tulip Stamen** is found](#dungeons-tulip-stamen-is-found)
 - [Remake System plans which require **Tulip Stamen**](#remake-system-plans-which-require-tulip-stamen)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,13 @@ title: Tulip Stamen (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 155 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Tulip Stamen**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-211" class="trackbox" /> | 211 | [Base](/neptunia/rb1/dlc/1-base.html) | [Cass Trap](/neptunia/rb1/monster/1-211-cass-trap.html) |
 
 
 ## Dungeons **Tulip Stamen** is found

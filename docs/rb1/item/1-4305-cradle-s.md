@@ -10,6 +10,7 @@ title: Cradle S (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Player characters who have **Cradle S** equipped by default](#player-characters-who-have-cradle-s-equipped-by-default)
 - [Player characters who can equip **Cradle S**](#player-characters-who-can-equip-cradle-s)
+
 ## Basic information
 
 |   |   |

@@ -9,6 +9,7 @@ title: Polka Dot Ribbon (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Polka Dot Ribbon** in shop](#remake-system-plans-which-unlock-polka-dot-ribbon-in-shop)
 - [Player characters who can equip **Polka Dot Ribbon**](#player-characters-who-can-equip-polka-dot-ribbon)
+
 ## Basic information
 
 |   |   |

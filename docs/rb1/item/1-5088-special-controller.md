@@ -8,6 +8,7 @@ title: Special Controller (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Dungeons **Special Controller** is found](#dungeons-special-controller-is-found)
+
 ## Basic information
 
 |   |   |

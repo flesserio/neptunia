@@ -9,6 +9,7 @@ title: Plan: Teratoxin (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Plans added to Remake System after collecting **Plan: Teratoxin**](#plans-added-to-remake-system-after-collecting-plan-teratoxin)
 - [Dungeons **Plan: Teratoxin** is found](#dungeons-plan-teratoxin-is-found)
+
 ## Basic information
 
 |   |   |

@@ -7,8 +7,10 @@ title: Meow Claw (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Meow Claw**](#monsters-which-drop-meow-claw)
 - [Dungeons **Meow Claw** is found](#dungeons-meow-claw-is-found)
 - [Remake System plans which require **Meow Claw**](#remake-system-plans-which-require-meow-claw)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,13 @@ title: Meow Claw (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 31 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Meow Claw**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-329" class="trackbox" /> | 329 | [Base](/neptunia/rb1/dlc/1-base.html) | [Meow](/neptunia/rb1/monster/1-329-meow.html) |
 
 
 ## Dungeons **Meow Claw** is found

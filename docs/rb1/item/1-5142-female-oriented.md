@@ -8,6 +8,7 @@ title: Female-oriented (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Dungeons **Female-oriented** is found](#dungeons-female-oriented-is-found)
+
 ## Basic information
 
 |   |   |

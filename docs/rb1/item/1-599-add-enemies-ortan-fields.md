@@ -9,6 +9,7 @@ title: Add Enemies: Ortan Fields (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **Add Enemies: Ortan Fields**](#chirpers-who-give-add-enemies-ortan-fields)
 - [Plans added to Remake System after collecting **Add Enemies: Ortan Fields**](#plans-added-to-remake-system-after-collecting-add-enemies-ortan-fields)
+
 ## Basic information
 
 |   |   |

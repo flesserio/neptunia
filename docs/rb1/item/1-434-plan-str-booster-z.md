@@ -9,6 +9,7 @@ title: Plan: STR Booster Z (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **Plan: STR Booster Z**](#chirpers-who-give-plan-str-booster-z)
 - [Plans added to Remake System after collecting **Plan: STR Booster Z**](#plans-added-to-remake-system-after-collecting-plan-str-booster-z)
+
 ## Basic information
 
 |   |   |

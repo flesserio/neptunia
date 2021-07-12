@@ -9,6 +9,7 @@ title: Fox Ears (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which require **Fox Ears**](#remake-system-plans-which-require-fox-ears)
 - [Player characters who can equip **Fox Ears**](#player-characters-who-can-equip-fox-ears)
+
 ## Basic information
 
 |   |   |

@@ -7,8 +7,10 @@ title: Visual Memory 16X (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Visual Memory 16X**](#monsters-which-drop-visual-memory-16x)
 - [Dungeons **Visual Memory 16X** is found](#dungeons-visual-memory-16x-is-found)
 - [Remake System plans which require **Visual Memory 16X**](#remake-system-plans-which-require-visual-memory-16x)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,13 @@ title: Visual Memory 16X (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 1323 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Visual Memory 16X**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-292" class="trackbox" /> | 292 | [Base](/neptunia/rb1/dlc/1-base.html) | [Belgarion](/neptunia/rb1/monster/1-292-belgarion.html) |
 
 
 ## Dungeons **Visual Memory 16X** is found

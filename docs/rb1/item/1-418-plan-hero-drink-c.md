@@ -9,6 +9,7 @@ title: Plan: Hero Drink C (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Plans added to Remake System after collecting **Plan: Hero Drink C**](#plans-added-to-remake-system-after-collecting-plan-hero-drink-c)
 - [Dungeons **Plan: Hero Drink C** is found](#dungeons-plan-hero-drink-c-is-found)
+
 ## Basic information
 
 |   |   |

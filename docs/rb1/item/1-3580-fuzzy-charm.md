@@ -8,8 +8,10 @@ title: Fuzzy Charm (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Stats](#stats)
+- [Monsters which drop **Fuzzy Charm**](#monsters-which-drop-fuzzy-charm)
 - [Dungeons **Fuzzy Charm** is found](#dungeons-fuzzy-charm-is-found)
 - [Player characters who can equip **Fuzzy Charm**](#player-characters-who-can-equip-fuzzy-charm)
+
 ## Basic information
 
 |   |   |
@@ -29,6 +31,13 @@ title: Fuzzy Charm (Item) - Hyperdimension Neptunia Re;Birth1
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 10 | 0 | 0 |
+
+
+## Monsters which drop **Fuzzy Charm**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-387" class="trackbox" /> | 387 | [Base](/neptunia/rb1/dlc/1-base.html) | [Alfred](/neptunia/rb1/monster/1-387-alfred.html) |
 
 
 ## Dungeons **Fuzzy Charm** is found

@@ -9,6 +9,7 @@ title: Iron Ore (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Iron Ore** is found](#dungeons-iron-ore-is-found)
 - [Remake System plans which require **Iron Ore**](#remake-system-plans-which-require-iron-ore)
+
 ## Basic information
 
 |   |   |

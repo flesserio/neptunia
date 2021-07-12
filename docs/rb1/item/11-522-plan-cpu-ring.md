@@ -9,6 +9,7 @@ title: Plan: CPU Ring (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **Plan: CPU Ring**](#chirpers-who-give-plan-cpu-ring)
 - [Plans added to Remake System after collecting **Plan: CPU Ring**](#plans-added-to-remake-system-after-collecting-plan-cpu-ring)
+
 ## Basic information
 
 |   |   |

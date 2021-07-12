@@ -9,6 +9,7 @@ title: Blood Ribbon (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Blood Ribbon**](#player-characters-who-can-equip-blood-ribbon)
+
 ## Basic information
 
 |   |   |

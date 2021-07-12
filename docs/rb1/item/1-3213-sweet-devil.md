@@ -9,6 +9,7 @@ title: Sweet Devil (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Sweet Devil** in shop](#remake-system-plans-which-unlock-sweet-devil-in-shop)
 - [Player characters who can equip **Sweet Devil**](#player-characters-who-can-equip-sweet-devil)
+
 ## Basic information
 
 |   |   |

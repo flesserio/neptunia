@@ -8,6 +8,7 @@ title: Soccer (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Dungeons **Soccer** is found](#dungeons-soccer-is-found)
+
 ## Basic information
 
 |   |   |

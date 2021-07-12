@@ -7,8 +7,10 @@ title: Dragon Claw (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Dragon Claw**](#monsters-which-drop-dragon-claw)
 - [Dungeons **Dragon Claw** is found](#dungeons-dragon-claw-is-found)
 - [Remake System plans which require **Dragon Claw**](#remake-system-plans-which-require-dragon-claw)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,13 @@ title: Dragon Claw (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 330 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Dragon Claw**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-273" class="trackbox" /> | 273 | [Base](/neptunia/rb1/dlc/1-base.html) | [Elemental Dragon](/neptunia/rb1/monster/1-273-elemental-dragon.html) |
 
 
 ## Dungeons **Dragon Claw** is found

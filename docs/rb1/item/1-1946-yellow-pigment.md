@@ -10,6 +10,7 @@ title: Yellow Pigment (Item) - Hyperdimension Neptunia Re;Birth1
 - [Remake System plans which unlock **Yellow Pigment** in shop](#remake-system-plans-which-unlock-yellow-pigment-in-shop)
 - [Dungeons **Yellow Pigment** is found](#dungeons-yellow-pigment-is-found)
 - [Remake System plans which require **Yellow Pigment**](#remake-system-plans-which-require-yellow-pigment)
+
 ## Basic information
 
 |   |   |

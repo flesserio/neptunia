@@ -10,6 +10,7 @@ title: Untested Charms (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Player characters who have **Untested Charms** equipped by default](#player-characters-who-have-untested-charms-equipped-by-default)
 - [Player characters who can equip **Untested Charms**](#player-characters-who-can-equip-untested-charms)
+
 ## Basic information
 
 |   |   |

@@ -10,6 +10,7 @@ title: Imperial Qatar (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Remake System plans which unlock **Imperial Qatar** in shop](#remake-system-plans-which-unlock-imperial-qatar-in-shop)
 - [Player characters who can equip **Imperial Qatar**](#player-characters-who-can-equip-imperial-qatar)
+
 ## Basic information
 
 |   |   |

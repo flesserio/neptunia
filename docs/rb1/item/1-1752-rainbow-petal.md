@@ -7,8 +7,10 @@ title: Rainbow Petal (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Rainbow Petal**](#monsters-which-drop-rainbow-petal)
 - [Dungeons **Rainbow Petal** is found](#dungeons-rainbow-petal-is-found)
 - [Remake System plans which require **Rainbow Petal**](#remake-system-plans-which-require-rainbow-petal)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,13 @@ title: Rainbow Petal (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 118 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Rainbow Petal**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-322" class="trackbox" /> | 322 | [Base](/neptunia/rb1/dlc/1-base.html) | [Aimable](/neptunia/rb1/monster/1-322-aimable.html) |
 
 
 ## Dungeons **Rainbow Petal** is found

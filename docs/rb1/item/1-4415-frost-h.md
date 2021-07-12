@@ -8,8 +8,10 @@ title: Frost H (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Stats](#stats)
+- [Monsters which drop **Frost H**](#monsters-which-drop-frost-h)
 - [Dungeons **Frost H** is found](#dungeons-frost-h-is-found)
 - [Player characters who can equip **Frost H**](#player-characters-who-can-equip-frost-h)
+
 ## Basic information
 
 |   |   |
@@ -29,6 +31,14 @@ title: Frost H (Item) - Hyperdimension Neptunia Re;Birth1
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | -10 | 45 | 15 | 30 | 0 | -10 | 15 | -7 | 15 | 0 | 0 |
+
+
+## Monsters which drop **Frost H**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-287" class="trackbox" /> | 287 | [Base](/neptunia/rb1/dlc/1-base.html) | [Expressive Tree](/neptunia/rb1/monster/1-287-expressive-tree.html) |
+| <input type="checkbox" id="rb1-monster-1-288" class="trackbox" /> | 288 | [Base](/neptunia/rb1/dlc/1-base.html) | [Viral Expressive Tree](/neptunia/rb1/monster/1-288-viral-expressive-tree.html) |
 
 
 ## Dungeons **Frost H** is found

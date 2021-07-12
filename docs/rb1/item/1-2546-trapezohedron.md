@@ -8,7 +8,9 @@ title: Trapezohedron (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Stats](#stats)
+- [Monsters which drop **Trapezohedron**](#monsters-which-drop-trapezohedron)
 - [Player characters who can equip **Trapezohedron**](#player-characters-who-can-equip-trapezohedron)
+
 ## Basic information
 
 |   |   |
@@ -28,6 +30,13 @@ title: Trapezohedron (Item) - Hyperdimension Neptunia Re;Birth1
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 575 | 0 | 0 | 0 | 1150 | 0 | 1150 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+
+
+## Monsters which drop **Trapezohedron**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-1046" class="trackbox" /> | 1046 | [Base](/neptunia/rb1/dlc/1-base.html) | [Overlord Momus](/neptunia/rb1/monster/1-1046-overlord-momus.html) |
 
 
 ## Player characters who can equip **Trapezohedron**

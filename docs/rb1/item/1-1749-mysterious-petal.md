@@ -7,8 +7,10 @@ title: Mysterious Petal (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Mysterious Petal**](#monsters-which-drop-mysterious-petal)
 - [Dungeons **Mysterious Petal** is found](#dungeons-mysterious-petal-is-found)
 - [Remake System plans which require **Mysterious Petal**](#remake-system-plans-which-require-mysterious-petal)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,23 @@ title: Mysterious Petal (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 13 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Mysterious Petal**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-21-8054" class="trackbox" /> | 8054 | [Additional Content Pack 12](/neptunia/rb1/dlc/21-pack12.html) | [Alune](/neptunia/rb1/monster/21-8054-alune.html) |
+| <input type="checkbox" id="rb1-monster-1-113" class="trackbox" /> | 113 | [Base](/neptunia/rb1/dlc/1-base.html) | [Alraune](/neptunia/rb1/monster/1-113-alraune.html) |
+| <input type="checkbox" id="rb1-monster-1-114" class="trackbox" /> | 114 | [Base](/neptunia/rb1/dlc/1-base.html) | [Viral Alraune](/neptunia/rb1/monster/1-114-viral-alraune.html) |
+| <input type="checkbox" id="rb1-monster-1-144" class="trackbox" /> | 144 | [Base](/neptunia/rb1/dlc/1-base.html) | [Aluna](/neptunia/rb1/monster/1-144-aluna.html) |
+| <input type="checkbox" id="rb1-monster-1-145" class="trackbox" /> | 145 | [Base](/neptunia/rb1/dlc/1-base.html) | [Viral Aluna](/neptunia/rb1/monster/1-145-viral-aluna.html) |
+| <input type="checkbox" id="rb1-monster-1-351" class="trackbox" /> | 351 | [Base](/neptunia/rb1/dlc/1-base.html) | [Alune](/neptunia/rb1/monster/1-351-alune.html) |
+| <input type="checkbox" id="rb1-monster-1-352" class="trackbox" /> | 352 | [Base](/neptunia/rb1/dlc/1-base.html) | [Viral Alune](/neptunia/rb1/monster/1-352-viral-alune.html) |
+| <input type="checkbox" id="rb1-monster-1-368" class="trackbox" /> | 368 | [Base](/neptunia/rb1/dlc/1-base.html) | [Forest Spirit](/neptunia/rb1/monster/1-368-forest-spirit.html) |
+| <input type="checkbox" id="rb1-monster-1-369" class="trackbox" /> | 369 | [Base](/neptunia/rb1/dlc/1-base.html) | [Viral Forest Spirit](/neptunia/rb1/monster/1-369-viral-forest-spirit.html) |
+| <input type="checkbox" id="rb1-monster-10-413" class="trackbox" /> | 413 | [Additional Content Package 1](/neptunia/rb1/dlc/10-pack1.html) | [Flower Fairy](/neptunia/rb1/monster/10-413-flower-fairy.html) |
+| <input type="checkbox" id="rb1-monster-10-414" class="trackbox" /> | 414 | [Additional Content Package 1](/neptunia/rb1/dlc/10-pack1.html) | [Viral Flower Fairy](/neptunia/rb1/monster/10-414-viral-flower-fairy.html) |
 
 
 ## Dungeons **Mysterious Petal** is found

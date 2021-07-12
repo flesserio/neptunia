@@ -9,6 +9,7 @@ title: Planeptune Patrol (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Planeptune Patrol** in shop](#remake-system-plans-which-unlock-planeptune-patrol-in-shop)
 - [Player characters who can equip **Planeptune Patrol**](#player-characters-who-can-equip-planeptune-patrol)
+
 ## Basic information
 
 |   |   |

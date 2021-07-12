@@ -9,6 +9,7 @@ title: Lilac-Mk2 L (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Lilac-Mk2 L**](#player-characters-who-can-equip-lilac-mk2-l)
+
 ## Basic information
 
 |   |   |

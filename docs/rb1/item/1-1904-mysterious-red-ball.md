@@ -7,8 +7,10 @@ title: Mysterious Red Ball (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Mysterious Red Ball**](#monsters-which-drop-mysterious-red-ball)
 - [Dungeons **Mysterious Red Ball** is found](#dungeons-mysterious-red-ball-is-found)
 - [Remake System plans which require **Mysterious Red Ball**](#remake-system-plans-which-require-mysterious-red-ball)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,13 @@ title: Mysterious Red Ball (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 17 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Mysterious Red Ball**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-139" class="trackbox" /> | 139 | [Base](/neptunia/rb1/dlc/1-base.html) | [Lightbulb Angel](/neptunia/rb1/monster/1-139-lightbulb-angel.html) |
 
 
 ## Dungeons **Mysterious Red Ball** is found

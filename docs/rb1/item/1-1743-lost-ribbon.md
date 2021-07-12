@@ -7,8 +7,10 @@ title: Lost Ribbon (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Lost Ribbon**](#monsters-which-drop-lost-ribbon)
 - [Dungeons **Lost Ribbon** is found](#dungeons-lost-ribbon-is-found)
 - [Remake System plans which require **Lost Ribbon**](#remake-system-plans-which-require-lost-ribbon)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,13 @@ title: Lost Ribbon (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 80 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Lost Ribbon**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-361" class="trackbox" /> | 361 | [Base](/neptunia/rb1/dlc/1-base.html) | [Lost Girl](/neptunia/rb1/monster/1-361-lost-girl.html) |
 
 
 ## Dungeons **Lost Ribbon** is found

@@ -10,6 +10,7 @@ title: Frost C (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Dungeons **Frost C** is found](#dungeons-frost-c-is-found)
 - [Player characters who can equip **Frost C**](#player-characters-who-can-equip-frost-c)
+
 ## Basic information
 
 |   |   |

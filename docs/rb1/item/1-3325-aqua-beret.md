@@ -9,6 +9,7 @@ title: Aqua Beret (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Aqua Beret** in shop](#remake-system-plans-which-unlock-aqua-beret-in-shop)
 - [Player characters who can equip **Aqua Beret**](#player-characters-who-can-equip-aqua-beret)
+
 ## Basic information
 
 |   |   |

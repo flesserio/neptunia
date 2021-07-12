@@ -7,8 +7,10 @@ title: Strong Thread (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Strong Thread**](#monsters-which-drop-strong-thread)
 - [Dungeons **Strong Thread** is found](#dungeons-strong-thread-is-found)
 - [Remake System plans which require **Strong Thread**](#remake-system-plans-which-require-strong-thread)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,13 @@ title: Strong Thread (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 122 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Strong Thread**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-240" class="trackbox" /> | 240 | [Base](/neptunia/rb1/dlc/1-base.html) | [Demon Spider](/neptunia/rb1/monster/1-240-demon-spider.html) |
 
 
 ## Dungeons **Strong Thread** is found

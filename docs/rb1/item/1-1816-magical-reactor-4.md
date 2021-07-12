@@ -7,8 +7,10 @@ title: Magical Reactor 4 (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Magical Reactor 4**](#monsters-which-drop-magical-reactor-4)
 - [Dungeons **Magical Reactor 4** is found](#dungeons-magical-reactor-4-is-found)
 - [Remake System plans which require **Magical Reactor 4**](#remake-system-plans-which-require-magical-reactor-4)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,13 @@ title: Magical Reactor 4 (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 2249 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Magical Reactor 4**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-217" class="trackbox" /> | 217 | [Base](/neptunia/rb1/dlc/1-base.html) | [Deus Ex Machina](/neptunia/rb1/monster/1-217-deus-ex-machina.html) |
 
 
 ## Dungeons **Magical Reactor 4** is found

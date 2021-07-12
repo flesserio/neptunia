@@ -10,6 +10,7 @@ title: Regulation Badge (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Player characters who have **Regulation Badge** equipped by default](#player-characters-who-have-regulation-badge-equipped-by-default)
 - [Player characters who can equip **Regulation Badge**](#player-characters-who-can-equip-regulation-badge)
+
 ## Basic information
 
 |   |   |

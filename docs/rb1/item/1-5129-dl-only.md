@@ -7,7 +7,9 @@ title: DL Only (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **DL Only**](#monsters-which-drop-dl-only)
 - [Dungeons **DL Only** is found](#dungeons-dl-only-is-found)
+
 ## Basic information
 
 |   |   |
@@ -22,6 +24,13 @@ title: DL Only (Item) - Hyperdimension Neptunia Re;Birth1
 | **Max inventory** | 99 |
 | **Idea Chip level** | 2 |
 | **Idea Chip ability** | [Drop Rate Up Lv.2](/neptunia/rb1/avatar/1-9628-drop-rate-up-lv-2.html)<br />Increases Drop Rate by 12% |
+
+
+## Monsters which drop **DL Only**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-308" class="trackbox" /> | 308 | [Base](/neptunia/rb1/dlc/1-base.html) | [Canopus](/neptunia/rb1/monster/1-308-canopus.html) |
 
 
 ## Dungeons **DL Only** is found

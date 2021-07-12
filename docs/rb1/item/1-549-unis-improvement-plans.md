@@ -9,6 +9,7 @@ title: Uni's Improvement Plans (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **Uni's Improvement Plans**](#chirpers-who-give-unis-improvement-plans)
 - [Plans added to Remake System after collecting **Uni's Improvement Plans**](#plans-added-to-remake-system-after-collecting-unis-improvement-plans)
+
 ## Basic information
 
 |   |   |

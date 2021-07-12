@@ -7,8 +7,10 @@ title: Shooting Star (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Shooting Star**](#monsters-which-drop-shooting-star)
 - [Remake System plans which require **Shooting Star**](#remake-system-plans-which-require-shooting-star)
 - [Player characters who can equip **Shooting Star**](#player-characters-who-can-equip-shooting-star)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,13 @@ title: Shooting Star (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 1000 |
 | **Sell Price** | 500 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Shooting Star**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-1038" class="trackbox" /> | 1038 | [Base](/neptunia/rb1/dlc/1-base.html) | [Fake White Heart](/neptunia/rb1/monster/1-1038-fake-white-heart.html) |
 
 
 ## Remake System plans which require **Shooting Star**

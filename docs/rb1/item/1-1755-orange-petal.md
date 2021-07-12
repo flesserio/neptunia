@@ -7,9 +7,11 @@ title: Orange Petal (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Orange Petal**](#monsters-which-drop-orange-petal)
 - [Dungeons **Orange Petal** is found](#dungeons-orange-petal-is-found)
 - [Quests which require gathering **Orange Petal**](#quests-which-require-gathering-orange-petal)
 - [Remake System plans which require **Orange Petal**](#remake-system-plans-which-require-orange-petal)
+
 ## Basic information
 
 |   |   |
@@ -22,6 +24,13 @@ title: Orange Petal (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 375 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Orange Petal**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-367" class="trackbox" /> | 367 | [Base](/neptunia/rb1/dlc/1-base.html) | [Orange Flower](/neptunia/rb1/monster/1-367-orange-flower.html) |
 
 
 ## Dungeons **Orange Petal** is found

@@ -7,9 +7,11 @@ title: Peace Badge (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Peace Badge**](#monsters-which-drop-peace-badge)
 - [Dungeons **Peace Badge** is found](#dungeons-peace-badge-is-found)
 - [Quests which require gathering **Peace Badge**](#quests-which-require-gathering-peace-badge)
 - [Remake System plans which require **Peace Badge**](#remake-system-plans-which-require-peace-badge)
+
 ## Basic information
 
 |   |   |
@@ -22,6 +24,13 @@ title: Peace Badge (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 1929 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Peace Badge**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-334" class="trackbox" /> | 334 | [Base](/neptunia/rb1/dlc/1-base.html) | [Thunderbird](/neptunia/rb1/monster/1-334-thunderbird.html) |
 
 
 ## Dungeons **Peace Badge** is found

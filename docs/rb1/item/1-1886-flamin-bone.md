@@ -7,9 +7,11 @@ title: Flamin' Bone (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Flamin' Bone**](#monsters-which-drop-flamin-bone)
 - [Dungeons **Flamin' Bone** is found](#dungeons-flamin-bone-is-found)
 - [Quests which require gathering **Flamin' Bone**](#quests-which-require-gathering-flamin-bone)
 - [Remake System plans which require **Flamin' Bone**](#remake-system-plans-which-require-flamin-bone)
+
 ## Basic information
 
 |   |   |
@@ -22,6 +24,13 @@ title: Flamin' Bone (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 327 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Flamin' Bone**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-205" class="trackbox" /> | 205 | [Base](/neptunia/rb1/dlc/1-base.html) | [Flame Skeleton](/neptunia/rb1/monster/1-205-flame-skeleton.html) |
 
 
 ## Dungeons **Flamin' Bone** is found

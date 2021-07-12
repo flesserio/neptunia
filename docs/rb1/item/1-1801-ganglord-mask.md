@@ -7,8 +7,10 @@ title: Ganglord Mask (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Ganglord Mask**](#monsters-which-drop-ganglord-mask)
 - [Dungeons **Ganglord Mask** is found](#dungeons-ganglord-mask-is-found)
 - [Remake System plans which require **Ganglord Mask**](#remake-system-plans-which-require-ganglord-mask)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,13 @@ title: Ganglord Mask (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 99 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Ganglord Mask**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-212" class="trackbox" /> | 212 | [Base](/neptunia/rb1/dlc/1-base.html) | [Ganglord Panther](/neptunia/rb1/monster/1-212-ganglord-panther.html) |
 
 
 ## Dungeons **Ganglord Mask** is found

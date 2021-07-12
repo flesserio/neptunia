@@ -7,8 +7,10 @@ title: Flamin' Wing (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Flamin' Wing**](#monsters-which-drop-flamin-wing)
 - [Dungeons **Flamin' Wing** is found](#dungeons-flamin-wing-is-found)
 - [Remake System plans which require **Flamin' Wing**](#remake-system-plans-which-require-flamin-wing)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,13 @@ title: Flamin' Wing (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 4722 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Flamin' Wing**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-11-407" class="trackbox" /> | 407 | [Additional Content Package 2](/neptunia/rb1/dlc/11-pack2.html) | [Suzaku](/neptunia/rb1/monster/11-407-suzaku.html) |
 
 
 ## Dungeons **Flamin' Wing** is found

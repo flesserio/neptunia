@@ -9,6 +9,7 @@ title: Sister (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Sister**](#player-characters-who-can-equip-sister)
+
 ## Basic information
 
 |   |   |

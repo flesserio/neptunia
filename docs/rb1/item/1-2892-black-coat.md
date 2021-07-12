@@ -8,6 +8,7 @@ title: Black Coat (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Player characters who can equip **Black Coat**](#player-characters-who-can-equip-black-coat)
+
 ## Basic information
 
 |   |   |

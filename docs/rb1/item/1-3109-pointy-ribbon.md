@@ -10,6 +10,7 @@ title: Pointy Ribbon (Item) - Hyperdimension Neptunia Re;Birth1
 - [Remake System plans which unlock **Pointy Ribbon** in shop](#remake-system-plans-which-unlock-pointy-ribbon-in-shop)
 - [Remake System plans which require **Pointy Ribbon**](#remake-system-plans-which-require-pointy-ribbon)
 - [Player characters who can equip **Pointy Ribbon**](#player-characters-who-can-equip-pointy-ribbon)
+
 ## Basic information
 
 |   |   |

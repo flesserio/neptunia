@@ -9,6 +9,7 @@ title: Black Cat (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Black Cat** in shop](#remake-system-plans-which-unlock-black-cat-in-shop)
 - [Player characters who can equip **Black Cat**](#player-characters-who-can-equip-black-cat)
+
 ## Basic information
 
 |   |   |

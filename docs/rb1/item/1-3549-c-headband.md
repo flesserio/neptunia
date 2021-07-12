@@ -10,6 +10,7 @@ title: C. Headband (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Player characters who have **C. Headband** equipped by default](#player-characters-who-have-c-headband-equipped-by-default)
 - [Player characters who can equip **C. Headband**](#player-characters-who-can-equip-c-headband)
+
 ## Basic information
 
 |   |   |

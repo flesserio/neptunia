@@ -10,6 +10,7 @@ title: Beam Katana Plus (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Remake System plans which unlock **Beam Katana Plus** in shop](#remake-system-plans-which-unlock-beam-katana-plus-in-shop)
 - [Player characters who can equip **Beam Katana Plus**](#player-characters-who-can-equip-beam-katana-plus)
+
 ## Basic information
 
 |   |   |

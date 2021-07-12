@@ -7,7 +7,9 @@ title: Vintage (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Vintage**](#monsters-which-drop-vintage)
 - [Player characters who can equip **Vintage**](#player-characters-who-can-equip-vintage)
+
 ## Basic information
 
 |   |   |
@@ -20,6 +22,13 @@ title: Vintage (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 1000 |
 | **Sell Price** | 500 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Vintage**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-1033" class="trackbox" /> | 1033 | [Base](/neptunia/rb1/dlc/1-base.html) | [Self-Defense System](/neptunia/rb1/monster/1-1033-self-defense-system.html) |
 
 
 ## Player characters who can equip **Vintage**

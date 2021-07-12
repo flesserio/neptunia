@@ -7,9 +7,11 @@ title: Horsebird Thigh (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Horsebird Thigh**](#monsters-which-drop-horsebird-thigh)
 - [Dungeons **Horsebird Thigh** is found](#dungeons-horsebird-thigh-is-found)
 - [Quests which require gathering **Horsebird Thigh**](#quests-which-require-gathering-horsebird-thigh)
 - [Remake System plans which require **Horsebird Thigh**](#remake-system-plans-which-require-horsebird-thigh)
+
 ## Basic information
 
 |   |   |
@@ -22,6 +24,13 @@ title: Horsebird Thigh (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 233 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Horsebird Thigh**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-232" class="trackbox" /> | 232 | [Base](/neptunia/rb1/dlc/1-base.html) | [Horsebird CAW](/neptunia/rb1/monster/1-232-horsebird-caw.html) |
 
 
 ## Dungeons **Horsebird Thigh** is found

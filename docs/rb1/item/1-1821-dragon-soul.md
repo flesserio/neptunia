@@ -7,8 +7,10 @@ title: Dragon Soul (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Dragon Soul**](#monsters-which-drop-dragon-soul)
 - [Dungeons **Dragon Soul** is found](#dungeons-dragon-soul-is-found)
 - [Quests which require gathering **Dragon Soul**](#quests-which-require-gathering-dragon-soul)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,13 @@ title: Dragon Soul (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 1714 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Dragon Soul**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-283" class="trackbox" /> | 283 | [Base](/neptunia/rb1/dlc/1-base.html) | [Master Dragon](/neptunia/rb1/monster/1-283-master-dragon.html) |
 
 
 ## Dungeons **Dragon Soul** is found

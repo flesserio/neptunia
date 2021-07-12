@@ -9,6 +9,7 @@ title: Dragon Slayer+? (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Colosseum quests which reward **Dragon Slayer+?**](#colosseum-quests-which-reward-dragon-slayer)
 - [Player characters who can equip **Dragon Slayer+?**](#player-characters-who-can-equip-dragon-slayer)
+
 ## Basic information
 
 |   |   |

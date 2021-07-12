@@ -9,6 +9,7 @@ title: Purple Empress (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which require **Purple Empress**](#remake-system-plans-which-require-purple-empress)
 - [Player characters who can equip **Purple Empress**](#player-characters-who-can-equip-purple-empress)
+
 ## Basic information
 
 |   |   |

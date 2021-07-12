@@ -9,6 +9,7 @@ title: Sugar Style (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Sugar Style** in shop](#remake-system-plans-which-unlock-sugar-style-in-shop)
 - [Player characters who can equip **Sugar Style**](#player-characters-who-can-equip-sugar-style)
+
 ## Basic information
 
 |   |   |

@@ -7,8 +7,10 @@ title: Mysterious Glowing Object (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Mysterious Glowing Object**](#monsters-which-drop-mysterious-glowing-object)
 - [Dungeons **Mysterious Glowing Object** is found](#dungeons-mysterious-glowing-object-is-found)
 - [Remake System plans which require **Mysterious Glowing Object**](#remake-system-plans-which-require-mysterious-glowing-object)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,13 @@ title: Mysterious Glowing Object (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 5 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Mysterious Glowing Object**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-6085" class="trackbox" /> | 6085 | [Base](/neptunia/rb1/dlc/1-base.html) | [Purr4](/neptunia/rb1/monster/1-6085-purr4.html) |
 
 
 ## Dungeons **Mysterious Glowing Object** is found

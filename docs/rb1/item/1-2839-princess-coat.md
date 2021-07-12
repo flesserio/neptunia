@@ -10,6 +10,7 @@ title: Princess Coat (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Dungeons **Princess Coat** is found](#dungeons-princess-coat-is-found)
 - [Player characters who can equip **Princess Coat**](#player-characters-who-can-equip-princess-coat)
+
 ## Basic information
 
 |   |   |

@@ -7,8 +7,10 @@ title: Illegal Hardware (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Illegal Hardware**](#monsters-which-drop-illegal-hardware)
 - [Dungeons **Illegal Hardware** is found](#dungeons-illegal-hardware-is-found)
 - [Remake System plans which require **Illegal Hardware**](#remake-system-plans-which-require-illegal-hardware)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,13 @@ title: Illegal Hardware (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 181 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Illegal Hardware**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-170" class="trackbox" /> | 170 | [Base](/neptunia/rb1/dlc/1-base.html) | [DSTT](/neptunia/rb1/monster/1-170-dstt.html) |
 
 
 ## Dungeons **Illegal Hardware** is found

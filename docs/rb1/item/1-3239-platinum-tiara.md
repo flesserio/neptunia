@@ -9,6 +9,7 @@ title: Platinum Tiara (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Platinum Tiara** in shop](#remake-system-plans-which-unlock-platinum-tiara-in-shop)
 - [Player characters who can equip **Platinum Tiara**](#player-characters-who-can-equip-platinum-tiara)
+
 ## Basic information
 
 |   |   |

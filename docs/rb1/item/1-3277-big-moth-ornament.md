@@ -9,6 +9,7 @@ title: Big Moth Ornament (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Big Moth Ornament** in shop](#remake-system-plans-which-unlock-big-moth-ornament-in-shop)
 - [Player characters who can equip **Big Moth Ornament**](#player-characters-who-can-equip-big-moth-ornament)
+
 ## Basic information
 
 |   |   |

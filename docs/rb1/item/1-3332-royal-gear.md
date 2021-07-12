@@ -8,6 +8,7 @@ title: Royal Gear (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Player characters who can equip **Royal Gear**](#player-characters-who-can-equip-royal-gear)
+
 ## Basic information
 
 |   |   |

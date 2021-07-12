@@ -9,6 +9,7 @@ title: Maid Illustrated (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **Maid Illustrated**](#chirpers-who-give-maid-illustrated)
 - [Plans added to Remake System after collecting **Maid Illustrated**](#plans-added-to-remake-system-after-collecting-maid-illustrated)
+
 ## Basic information
 
 |   |   |

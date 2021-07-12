@@ -7,8 +7,10 @@ title: Magical Stone (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Magical Stone**](#monsters-which-drop-magical-stone)
 - [Dungeons **Magical Stone** is found](#dungeons-magical-stone-is-found)
 - [Remake System plans which require **Magical Stone**](#remake-system-plans-which-require-magical-stone)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,13 @@ title: Magical Stone (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 40 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Magical Stone**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-271" class="trackbox" /> | 271 | [Base](/neptunia/rb1/dlc/1-base.html) | [Magic Stone](/neptunia/rb1/monster/1-271-magic-stone.html) |
 
 
 ## Dungeons **Magical Stone** is found

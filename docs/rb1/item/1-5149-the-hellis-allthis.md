@@ -8,6 +8,7 @@ title: The Hellis Allthis (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Dungeons **The Hellis Allthis** is found](#dungeons-the-hellis-allthis-is-found)
+
 ## Basic information
 
 |   |   |

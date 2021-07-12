@@ -7,9 +7,11 @@ title: Venomous Thread (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Venomous Thread**](#monsters-which-drop-venomous-thread)
 - [Dungeons **Venomous Thread** is found](#dungeons-venomous-thread-is-found)
 - [Quests which require gathering **Venomous Thread**](#quests-which-require-gathering-venomous-thread)
 - [Remake System plans which require **Venomous Thread**](#remake-system-plans-which-require-venomous-thread)
+
 ## Basic information
 
 |   |   |
@@ -22,6 +24,13 @@ title: Venomous Thread (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 52 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Venomous Thread**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-289" class="trackbox" /> | 289 | [Base](/neptunia/rb1/dlc/1-base.html) | [Tarantula](/neptunia/rb1/monster/1-289-tarantula.html) |
 
 
 ## Dungeons **Venomous Thread** is found

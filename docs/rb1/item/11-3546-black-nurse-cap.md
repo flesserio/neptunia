@@ -8,8 +8,10 @@ title: Black Nurse Cap (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Stats](#stats)
+- [Monsters which drop **Black Nurse Cap**](#monsters-which-drop-black-nurse-cap)
 - [Dungeons **Black Nurse Cap** is found](#dungeons-black-nurse-cap-is-found)
 - [Player characters who can equip **Black Nurse Cap**](#player-characters-who-can-equip-black-nurse-cap)
+
 ## Basic information
 
 |   |   |
@@ -29,6 +31,13 @@ title: Black Nurse Cap (Item) - Hyperdimension Neptunia Re;Birth1
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 0 | 0 | 0 | 5 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+
+
+## Monsters which drop **Black Nurse Cap**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-11-405" class="trackbox" /> | 405 | [Additional Content Package 2](/neptunia/rb1/dlc/11-pack2.html) | [Crush's Big Brother](/neptunia/rb1/monster/11-405-crushs-big-brother.html) |
 
 
 ## Dungeons **Black Nurse Cap** is found

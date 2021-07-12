@@ -7,8 +7,10 @@ title: Ice Wolf Claw (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Ice Wolf Claw**](#monsters-which-drop-ice-wolf-claw)
 - [Dungeons **Ice Wolf Claw** is found](#dungeons-ice-wolf-claw-is-found)
 - [Remake System plans which require **Ice Wolf Claw**](#remake-system-plans-which-require-ice-wolf-claw)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,13 @@ title: Ice Wolf Claw (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 1411 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Ice Wolf Claw**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-290" class="trackbox" /> | 290 | [Base](/neptunia/rb1/dlc/1-base.html) | [Ice Fenrir](/neptunia/rb1/monster/1-290-ice-fenrir.html) |
 
 
 ## Dungeons **Ice Wolf Claw** is found

@@ -9,6 +9,7 @@ title: Plan: Bastard Sword (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **Plan: Bastard Sword**](#chirpers-who-give-plan-bastard-sword)
 - [Plans added to Remake System after collecting **Plan: Bastard Sword**](#plans-added-to-remake-system-after-collecting-plan-bastard-sword)
+
 ## Basic information
 
 |   |   |

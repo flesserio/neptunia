@@ -8,6 +8,7 @@ title: Sugar Ribbon (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Player characters who can equip **Sugar Ribbon**](#player-characters-who-can-equip-sugar-ribbon)
+
 ## Basic information
 
 |   |   |

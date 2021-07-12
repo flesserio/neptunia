@@ -9,6 +9,7 @@ title: Dolly Rose (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which require **Dolly Rose**](#remake-system-plans-which-require-dolly-rose)
 - [Player characters who can equip **Dolly Rose**](#player-characters-who-can-equip-dolly-rose)
+
 ## Basic information
 
 |   |   |

@@ -10,6 +10,7 @@ title: Flame Ring (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Remake System plans which require **Flame Ring**](#remake-system-plans-which-require-flame-ring)
 - [Player characters who can equip **Flame Ring**](#player-characters-who-can-equip-flame-ring)
+
 ## Basic information
 
 |   |   |

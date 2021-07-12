@@ -10,6 +10,7 @@ title: Black Pigment (Item) - Hyperdimension Neptunia Re;Birth1
 - [Remake System plans which unlock **Black Pigment** in shop](#remake-system-plans-which-unlock-black-pigment-in-shop)
 - [Dungeons **Black Pigment** is found](#dungeons-black-pigment-is-found)
 - [Remake System plans which require **Black Pigment**](#remake-system-plans-which-require-black-pigment)
+
 ## Basic information
 
 |   |   |

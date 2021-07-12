@@ -8,8 +8,10 @@ title: Aeon System (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Stats](#stats)
+- [Monsters which drop **Aeon System**](#monsters-which-drop-aeon-system)
 - [Dungeons **Aeon System** is found](#dungeons-aeon-system-is-found)
 - [Player characters who can equip **Aeon System**](#player-characters-who-can-equip-aeon-system)
+
 ## Basic information
 
 |   |   |
@@ -29,6 +31,13 @@ title: Aeon System (Item) - Hyperdimension Neptunia Re;Birth1
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 30 | 0 | 0 | 0 | 0 | 0 | 0 |
+
+
+## Monsters which drop **Aeon System**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-391" class="trackbox" /> | 391 | [Base](/neptunia/rb1/dlc/1-base.html) | [Vanargandr](/neptunia/rb1/monster/1-391-vanargandr.html) |
 
 
 ## Dungeons **Aeon System** is found

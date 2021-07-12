@@ -9,6 +9,7 @@ title: Rose Ribbon (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Rose Ribbon** in shop](#remake-system-plans-which-unlock-rose-ribbon-in-shop)
 - [Player characters who can equip **Rose Ribbon**](#player-characters-who-can-equip-rose-ribbon)
+
 ## Basic information
 
 |   |   |

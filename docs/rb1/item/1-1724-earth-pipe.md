@@ -7,8 +7,10 @@ title: Earth Pipe (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Earth Pipe**](#monsters-which-drop-earth-pipe)
 - [Dungeons **Earth Pipe** is found](#dungeons-earth-pipe-is-found)
 - [Remake System plans which require **Earth Pipe**](#remake-system-plans-which-require-earth-pipe)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,14 @@ title: Earth Pipe (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 21 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Earth Pipe**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-121" class="trackbox" /> | 121 | [Base](/neptunia/rb1/dlc/1-base.html) | [Plum-met](/neptunia/rb1/monster/1-121-plum-met.html) |
+| <input type="checkbox" id="rb1-monster-16-1067" class="trackbox" /> | 1067 | [Additional Content Pack 7](/neptunia/rb1/dlc/16-pack7.html) | [Plum-met](/neptunia/rb1/monster/16-1067-plum-met.html) |
 
 
 ## Dungeons **Earth Pipe** is found

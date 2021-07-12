@@ -10,6 +10,7 @@ title: B.K. Teacher (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Player characters who have **B.K. Teacher** equipped by default](#player-characters-who-have-bk-teacher-equipped-by-default)
 - [Player characters who can equip **B.K. Teacher**](#player-characters-who-can-equip-bk-teacher)
+
 ## Basic information
 
 |   |   |

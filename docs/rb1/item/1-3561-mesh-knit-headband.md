@@ -9,6 +9,7 @@ title: Mesh Knit Headband (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Mesh Knit Headband**](#player-characters-who-can-equip-mesh-knit-headband)
+
 ## Basic information
 
 |   |   |

@@ -9,6 +9,7 @@ title: Smile Star (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Smile Star** in shop](#remake-system-plans-which-unlock-smile-star-in-shop)
 - [Player characters who can equip **Smile Star**](#player-characters-who-can-equip-smile-star)
+
 ## Basic information
 
 |   |   |

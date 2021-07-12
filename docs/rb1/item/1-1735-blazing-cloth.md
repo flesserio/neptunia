@@ -7,8 +7,10 @@ title: Blazing Cloth (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Blazing Cloth**](#monsters-which-drop-blazing-cloth)
 - [Dungeons **Blazing Cloth** is found](#dungeons-blazing-cloth-is-found)
 - [Remake System plans which require **Blazing Cloth**](#remake-system-plans-which-require-blazing-cloth)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,13 @@ title: Blazing Cloth (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 93 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Blazing Cloth**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-201" class="trackbox" /> | 201 | [Base](/neptunia/rb1/dlc/1-base.html) | [Magma Boy](/neptunia/rb1/monster/1-201-magma-boy.html) |
 
 
 ## Dungeons **Blazing Cloth** is found

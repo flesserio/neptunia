@@ -8,6 +8,7 @@ title: Rosy Sailor (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Player characters who can equip **Rosy Sailor**](#player-characters-who-can-equip-rosy-sailor)
+
 ## Basic information
 
 |   |   |

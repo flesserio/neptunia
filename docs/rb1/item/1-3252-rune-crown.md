@@ -9,6 +9,7 @@ title: Rune Crown (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Rune Crown** in shop](#remake-system-plans-which-unlock-rune-crown-in-shop)
 - [Player characters who can equip **Rune Crown**](#player-characters-who-can-equip-rune-crown)
+
 ## Basic information
 
 |   |   |

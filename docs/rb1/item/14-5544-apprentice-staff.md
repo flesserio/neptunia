@@ -9,6 +9,7 @@ title: Apprentice Staff (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Apprentice Staff**](#player-characters-who-can-equip-apprentice-staff)
+
 ## Basic information
 
 |   |   |

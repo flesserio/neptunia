@@ -9,6 +9,7 @@ title: Change Items: Kinest Range (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **Change Items: Kinest Range**](#chirpers-who-give-change-items-kinest-range)
 - [Plans added to Remake System after collecting **Change Items: Kinest Range**](#plans-added-to-remake-system-after-collecting-change-items-kinest-range)
+
 ## Basic information
 
 |   |   |

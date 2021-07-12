@@ -10,6 +10,7 @@ title: Lastation S (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Remake System plans which unlock **Lastation S** in shop](#remake-system-plans-which-unlock-lastation-s-in-shop)
 - [Player characters who can equip **Lastation S**](#player-characters-who-can-equip-lastation-s)
+
 ## Basic information
 
 |   |   |

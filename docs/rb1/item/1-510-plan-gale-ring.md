@@ -9,6 +9,7 @@ title: Plan: Gale Ring (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **Plan: Gale Ring**](#chirpers-who-give-plan-gale-ring)
 - [Plans added to Remake System after collecting **Plan: Gale Ring**](#plans-added-to-remake-system-after-collecting-plan-gale-ring)
+
 ## Basic information
 
 |   |   |

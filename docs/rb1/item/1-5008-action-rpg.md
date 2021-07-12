@@ -8,6 +8,7 @@ title: Action RPG (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Dungeons **Action RPG** is found](#dungeons-action-rpg-is-found)
+
 ## Basic information
 
 |   |   |

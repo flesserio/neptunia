@@ -10,6 +10,7 @@ title: Lastation C (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Remake System plans which unlock **Lastation C** in shop](#remake-system-plans-which-unlock-lastation-c-in-shop)
 - [Player characters who can equip **Lastation C**](#player-characters-who-can-equip-lastation-c)
+
 ## Basic information
 
 |   |   |

@@ -9,6 +9,7 @@ title: Ninja Sword+6 (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Ninja Sword+6**](#player-characters-who-can-equip-ninja-sword-6)
+
 ## Basic information
 
 |   |   |

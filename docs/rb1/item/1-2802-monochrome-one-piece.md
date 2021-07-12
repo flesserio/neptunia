@@ -9,6 +9,7 @@ title: Monochrome One-Piece (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Monochrome One-Piece** is found](#dungeons-monochrome-one-piece-is-found)
 - [Player characters who can equip **Monochrome One-Piece**](#player-characters-who-can-equip-monochrome-one-piece)
+
 ## Basic information
 
 |   |   |

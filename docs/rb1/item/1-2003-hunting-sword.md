@@ -10,6 +10,7 @@ title: Hunting Sword (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Dungeons **Hunting Sword** is found](#dungeons-hunting-sword-is-found)
 - [Player characters who can equip **Hunting Sword**](#player-characters-who-can-equip-hunting-sword)
+
 ## Basic information
 
 |   |   |

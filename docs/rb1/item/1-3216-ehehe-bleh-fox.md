@@ -9,6 +9,7 @@ title: Ehehe/Bleh Fox (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Ehehe/Bleh Fox**](#player-characters-who-can-equip-ehehe-bleh-fox)
+
 ## Basic information
 
 |   |   |

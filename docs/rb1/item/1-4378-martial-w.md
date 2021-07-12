@@ -8,8 +8,10 @@ title: Martial W (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Stats](#stats)
+- [Monsters which drop **Martial W**](#monsters-which-drop-martial-w)
 - [Dungeons **Martial W** is found](#dungeons-martial-w-is-found)
 - [Player characters who can equip **Martial W**](#player-characters-who-can-equip-martial-w)
+
 ## Basic information
 
 |   |   |
@@ -29,6 +31,13 @@ title: Martial W (Item) - Hyperdimension Neptunia Re;Birth1
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 55 | -15 | 0 | 25 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+
+
+## Monsters which drop **Martial W**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-320" class="trackbox" /> | 320 | [Base](/neptunia/rb1/dlc/1-base.html) | [Prince Cardbird](/neptunia/rb1/monster/1-320-prince-cardbird.html) |
 
 
 ## Dungeons **Martial W** is found

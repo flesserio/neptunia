@@ -10,6 +10,7 @@ title: Devil H (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Remake System plans which unlock **Devil H** in shop](#remake-system-plans-which-unlock-devil-h-in-shop)
 - [Player characters who can equip **Devil H**](#player-characters-who-can-equip-devil-h)
+
 ## Basic information
 
 |   |   |

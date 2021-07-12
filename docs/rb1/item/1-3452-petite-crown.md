@@ -9,6 +9,7 @@ title: Petite Crown (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which require **Petite Crown**](#remake-system-plans-which-require-petite-crown)
 - [Player characters who can equip **Petite Crown**](#player-characters-who-can-equip-petite-crown)
+
 ## Basic information
 
 |   |   |

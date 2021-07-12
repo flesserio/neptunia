@@ -8,7 +8,9 @@ title: P. SP Charger (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **P. SP Charger** in shop](#remake-system-plans-which-unlock-p-sp-charger-in-shop)
+- [Monsters which drop **P. SP Charger**](#monsters-which-drop-p-sp-charger)
 - [Dungeons **P. SP Charger** is found](#dungeons-p-sp-charger-is-found)
+
 ## Basic information
 
 |   |   |
@@ -29,6 +31,14 @@ title: P. SP Charger (Item) - Hyperdimension Neptunia Re;Birth1
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
 | <input type="checkbox" id="rb1-remake-1-327" class="trackbox" /> | 327 | [Base](/neptunia/rb1/dlc/1-base.html) | [P. SP Charger](/neptunia/rb1/remake/1-327-p-sp-charger.html)<br /> → [P. SP Charger](/neptunia/rb1/item/1-15-p-sp-charger.html) (Tool) |
+
+
+## Monsters which drop **P. SP Charger**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-16-1062" class="trackbox" /> | 1062 | [Additional Content Pack 7](/neptunia/rb1/dlc/16-pack7.html) | [Penguin](/neptunia/rb1/monster/16-1062-penguin.html) |
+| <input type="checkbox" id="rb1-monster-16-1068" class="trackbox" /> | 1068 | [Additional Content Pack 7](/neptunia/rb1/dlc/16-pack7.html) | [Cuberial](/neptunia/rb1/monster/16-1068-cuberial.html) |
 
 
 ## Dungeons **P. SP Charger** is found

@@ -9,6 +9,7 @@ title: Short Sword+? (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Colosseum quests which reward **Short Sword+?**](#colosseum-quests-which-reward-short-sword)
 - [Player characters who can equip **Short Sword+?**](#player-characters-who-can-equip-short-sword)
+
 ## Basic information
 
 |   |   |

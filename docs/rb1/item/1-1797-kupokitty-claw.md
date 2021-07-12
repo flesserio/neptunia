@@ -7,8 +7,10 @@ title: Kupokitty Claw (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Kupokitty Claw**](#monsters-which-drop-kupokitty-claw)
 - [Dungeons **Kupokitty Claw** is found](#dungeons-kupokitty-claw-is-found)
 - [Remake System plans which require **Kupokitty Claw**](#remake-system-plans-which-require-kupokitty-claw)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,14 @@ title: Kupokitty Claw (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 13 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Kupokitty Claw**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-21-8055" class="trackbox" /> | 8055 | [Additional Content Pack 12](/neptunia/rb1/dlc/21-pack12.html) | [Kupokitty](/neptunia/rb1/monster/21-8055-kupokitty.html) |
+| <input type="checkbox" id="rb1-monster-1-155" class="trackbox" /> | 155 | [Base](/neptunia/rb1/dlc/1-base.html) | [Kupokitty](/neptunia/rb1/monster/1-155-kupokitty.html) |
 
 
 ## Dungeons **Kupokitty Claw** is found

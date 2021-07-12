@@ -7,9 +7,11 @@ title: Radish Leaf (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Radish Leaf**](#monsters-which-drop-radish-leaf)
 - [Dungeons **Radish Leaf** is found](#dungeons-radish-leaf-is-found)
 - [Quests which require gathering **Radish Leaf**](#quests-which-require-gathering-radish-leaf)
 - [Remake System plans which require **Radish Leaf**](#remake-system-plans-which-require-radish-leaf)
+
 ## Basic information
 
 |   |   |
@@ -22,6 +24,13 @@ title: Radish Leaf (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 30 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Radish Leaf**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-150" class="trackbox" /> | 150 | [Base](/neptunia/rb1/dlc/1-base.html) | [Radisher](/neptunia/rb1/monster/1-150-radisher.html) |
 
 
 ## Dungeons **Radish Leaf** is found

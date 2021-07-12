@@ -7,8 +7,10 @@ title: Magical Jelly (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Magical Jelly**](#monsters-which-drop-magical-jelly)
 - [Dungeons **Magical Jelly** is found](#dungeons-magical-jelly-is-found)
 - [Remake System plans which require **Magical Jelly**](#remake-system-plans-which-require-magical-jelly)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,14 @@ title: Magical Jelly (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 162 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Magical Jelly**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-295" class="trackbox" /> | 295 | [Base](/neptunia/rb1/dlc/1-base.html) | [Magic Dogoo](/neptunia/rb1/monster/1-295-magic-dogoo.html) |
+| <input type="checkbox" id="rb1-monster-1-348" class="trackbox" /> | 348 | [Base](/neptunia/rb1/dlc/1-base.html) | [Magical Dogoo](/neptunia/rb1/monster/1-348-magical-dogoo.html) |
 
 
 ## Dungeons **Magical Jelly** is found

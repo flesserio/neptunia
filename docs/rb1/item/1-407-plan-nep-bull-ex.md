@@ -9,6 +9,7 @@ title: Plan: Nep Bull EX (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **Plan: Nep Bull EX**](#chirpers-who-give-plan-nep-bull-ex)
 - [Plans added to Remake System after collecting **Plan: Nep Bull EX**](#plans-added-to-remake-system-after-collecting-plan-nep-bull-ex)
+
 ## Basic information
 
 |   |   |

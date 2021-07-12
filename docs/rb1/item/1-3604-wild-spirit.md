@@ -10,6 +10,7 @@ title: Wild Spirit (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Dungeons **Wild Spirit** is found](#dungeons-wild-spirit-is-found)
 - [Player characters who can equip **Wild Spirit**](#player-characters-who-can-equip-wild-spirit)
+
 ## Basic information
 
 |   |   |

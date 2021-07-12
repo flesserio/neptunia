@@ -7,8 +7,10 @@ title: Elastic Thread (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Elastic Thread**](#monsters-which-drop-elastic-thread)
 - [Dungeons **Elastic Thread** is found](#dungeons-elastic-thread-is-found)
 - [Remake System plans which require **Elastic Thread**](#remake-system-plans-which-require-elastic-thread)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,13 @@ title: Elastic Thread (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 114 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Elastic Thread**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-222" class="trackbox" /> | 222 | [Base](/neptunia/rb1/dlc/1-base.html) | [Mega Spider](/neptunia/rb1/monster/1-222-mega-spider.html) |
 
 
 ## Dungeons **Elastic Thread** is found

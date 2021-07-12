@@ -8,6 +8,7 @@ title: Light Gun (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Dungeons **Light Gun** is found](#dungeons-light-gun-is-found)
+
 ## Basic information
 
 |   |   |

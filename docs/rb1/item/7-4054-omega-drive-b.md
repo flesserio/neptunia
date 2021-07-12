@@ -10,6 +10,7 @@ title: Omega Drive B (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Player characters who have **Omega Drive B** equipped by default](#player-characters-who-have-omega-drive-b-equipped-by-default)
 - [Player characters who can equip **Omega Drive B**](#player-characters-who-can-equip-omega-drive-b)
+
 ## Basic information
 
 |   |   |

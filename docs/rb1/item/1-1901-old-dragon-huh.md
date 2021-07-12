@@ -7,9 +7,11 @@ title: Old Dragon...Huh? (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Old Dragon...Huh?**](#monsters-which-drop-old-dragonhuh)
 - [Dungeons **Old Dragon...Huh?** is found](#dungeons-old-dragonhuh-is-found)
 - [Quests which require gathering **Old Dragon...Huh?**](#quests-which-require-gathering-old-dragonhuh)
 - [Remake System plans which require **Old Dragon...Huh?**](#remake-system-plans-which-require-old-dragonhuh)
+
 ## Basic information
 
 |   |   |
@@ -22,6 +24,13 @@ title: Old Dragon...Huh? (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 2661 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Old Dragon...Huh?**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-363" class="trackbox" /> | 363 | [Base](/neptunia/rb1/dlc/1-base.html) | [Crescent Dragon](/neptunia/rb1/monster/1-363-crescent-dragon.html) |
 
 
 ## Dungeons **Old Dragon...Huh?** is found

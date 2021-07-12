@@ -10,6 +10,7 @@ title: Cyber Edge (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Player characters who have **Cyber Edge** equipped by default](#player-characters-who-have-cyber-edge-equipped-by-default)
 - [Player characters who can equip **Cyber Edge**](#player-characters-who-can-equip-cyber-edge)
+
 ## Basic information
 
 |   |   |

@@ -9,6 +9,7 @@ title: Hunter's Charm (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Hunter's Charm**](#player-characters-who-can-equip-hunters-charm)
+
 ## Basic information
 
 |   |   |

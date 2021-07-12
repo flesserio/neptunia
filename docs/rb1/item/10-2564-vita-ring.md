@@ -8,8 +8,10 @@ title: Vita Ring (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Stats](#stats)
+- [Monsters which drop **Vita Ring**](#monsters-which-drop-vita-ring)
 - [Dungeons **Vita Ring** is found](#dungeons-vita-ring-is-found)
 - [Player characters who can equip **Vita Ring**](#player-characters-who-can-equip-vita-ring)
+
 ## Basic information
 
 |   |   |
@@ -29,6 +31,13 @@ title: Vita Ring (Item) - Hyperdimension Neptunia Re;Birth1
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 1500 | 0 | 0 | 210 | 2500 | 0 | 2805 | 0 | 350 | 0 | 0 | 0 | 0 | 0 |
+
+
+## Monsters which drop **Vita Ring**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-10-346" class="trackbox" /> | 346 | [Additional Content Package 1](/neptunia/rb1/dlc/10-pack1.html) | [Legacy MK-2](/neptunia/rb1/monster/10-346-legacy-mk-2.html) |
 
 
 ## Dungeons **Vita Ring** is found

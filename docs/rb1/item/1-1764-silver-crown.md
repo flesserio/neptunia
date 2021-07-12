@@ -7,8 +7,10 @@ title: Silver Crown (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Silver Crown**](#monsters-which-drop-silver-crown)
 - [Dungeons **Silver Crown** is found](#dungeons-silver-crown-is-found)
 - [Remake System plans which require **Silver Crown**](#remake-system-plans-which-require-silver-crown)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,13 @@ title: Silver Crown (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 92 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Silver Crown**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-320" class="trackbox" /> | 320 | [Base](/neptunia/rb1/dlc/1-base.html) | [Prince Cardbird](/neptunia/rb1/monster/1-320-prince-cardbird.html) |
 
 
 ## Dungeons **Silver Crown** is found

@@ -7,8 +7,10 @@ title: Red Seed (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Red Seed**](#monsters-which-drop-red-seed)
 - [Dungeons **Red Seed** is found](#dungeons-red-seed-is-found)
 - [Remake System plans which require **Red Seed**](#remake-system-plans-which-require-red-seed)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,13 @@ title: Red Seed (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 54 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Red Seed**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-272" class="trackbox" /> | 272 | [Base](/neptunia/rb1/dlc/1-base.html) | [Moulin Rouge](/neptunia/rb1/monster/1-272-moulin-rouge.html) |
 
 
 ## Dungeons **Red Seed** is found

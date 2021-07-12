@@ -9,6 +9,7 @@ title: Summer Maiden (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Summer Maiden** in shop](#remake-system-plans-which-unlock-summer-maiden-in-shop)
 - [Player characters who can equip **Summer Maiden**](#player-characters-who-can-equip-summer-maiden)
+
 ## Basic information
 
 |   |   |

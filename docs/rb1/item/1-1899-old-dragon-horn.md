@@ -7,8 +7,10 @@ title: Old Dragon...Horn (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
+- [Monsters which drop **Old Dragon...Horn**](#monsters-which-drop-old-dragonhorn)
 - [Dungeons **Old Dragon...Horn** is found](#dungeons-old-dragonhorn-is-found)
 - [Remake System plans which require **Old Dragon...Horn**](#remake-system-plans-which-require-old-dragonhorn)
+
 ## Basic information
 
 |   |   |
@@ -21,6 +23,13 @@ title: Old Dragon...Horn (Item) - Hyperdimension Neptunia Re;Birth1
 | **Buy Price** | 0 |
 | **Sell Price** | 300 |
 | **Max inventory** | 99 |
+
+
+## Monsters which drop **Old Dragon...Horn**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-1-258" class="trackbox" /> | 258 | [Base](/neptunia/rb1/dlc/1-base.html) | [Nidhogg](/neptunia/rb1/monster/1-258-nidhogg.html) |
 
 
 ## Dungeons **Old Dragon...Horn** is found

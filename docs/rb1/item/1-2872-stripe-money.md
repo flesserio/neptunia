@@ -9,6 +9,7 @@ title: Stripe Money (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Stripe Money** in shop](#remake-system-plans-which-unlock-stripe-money-in-shop)
 - [Player characters who can equip **Stripe Money**](#player-characters-who-can-equip-stripe-money)
+
 ## Basic information
 
 |   |   |

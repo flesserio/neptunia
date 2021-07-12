@@ -9,6 +9,7 @@ title: Black Rabbit Ears (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Black Rabbit Ears**](#player-characters-who-can-equip-black-rabbit-ears)
+
 ## Basic information
 
 |   |   |

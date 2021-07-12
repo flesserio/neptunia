@@ -8,6 +8,7 @@ title: Rabbit Doll (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Colosseum quests which reward **Rabbit Doll**](#colosseum-quests-which-reward-rabbit-doll)
+
 ## Basic information
 
 |   |   |

@@ -8,8 +8,10 @@ title: Virtua Blaster (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Stats](#stats)
+- [Monsters which drop **Virtua Blaster**](#monsters-which-drop-virtua-blaster)
 - [Dungeons **Virtua Blaster** is found](#dungeons-virtua-blaster-is-found)
 - [Player characters who can equip **Virtua Blaster**](#player-characters-who-can-equip-virtua-blaster)
+
 ## Basic information
 
 |   |   |
@@ -30,6 +32,13 @@ title: Virtua Blaster (Item) - Hyperdimension Neptunia Re;Birth1
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 1500 | 0 | 1500 | 3375 | 0 | 2550 | 300 | 0 | 0 | 300 | 0 | 0 | 0 | 0 |
+
+
+## Monsters which drop **Virtua Blaster**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb1-monster-10-346" class="trackbox" /> | 346 | [Additional Content Package 1](/neptunia/rb1/dlc/10-pack1.html) | [Legacy MK-2](/neptunia/rb1/monster/10-346-legacy-mk-2.html) |
 
 
 ## Dungeons **Virtua Blaster** is found
