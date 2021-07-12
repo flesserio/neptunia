@@ -8,7 +8,6 @@ title: White Circle (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Player characters who can equip **White Circle**](#player-characters-who-can-equip-white-circle)
-
 ## Basic information
 
 |   |   |

@@ -9,7 +9,6 @@ title: Change Items: Uwii Ruins (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **Change Items: Uwii Ruins**](#chirpers-who-give-change-items-uwii-ruins)
 - [Plans added to Remake System after collecting **Change Items: Uwii Ruins**](#plans-added-to-remake-system-after-collecting-change-items-uwii-ruins)
-
 ## Basic information
 
 |   |   |

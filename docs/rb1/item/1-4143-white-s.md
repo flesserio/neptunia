@@ -10,7 +10,6 @@ title: White S (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Player characters who have **White S** equipped by default](#player-characters-who-have-white-s-equipped-by-default)
 - [Player characters who can equip **White S**](#player-characters-who-can-equip-white-s)
-
 ## Basic information
 
 |   |   |

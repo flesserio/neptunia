@@ -9,7 +9,6 @@ title: Change Items: Halo Mountain (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **Change Items: Halo Mountain**](#chirpers-who-give-change-items-halo-mountain)
 - [Plans added to Remake System after collecting **Change Items: Halo Mountain**](#plans-added-to-remake-system-after-collecting-change-items-halo-mountain)
-
 ## Basic information
 
 |   |   |

@@ -9,7 +9,6 @@ title: High-Grade Pelt (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **High-Grade Pelt** is found](#dungeons-high-grade-pelt-is-found)
 - [Remake System plans which require **High-Grade Pelt**](#remake-system-plans-which-require-high-grade-pelt)
-
 ## Basic information
 
 |   |   |

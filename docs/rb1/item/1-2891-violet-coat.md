@@ -8,7 +8,6 @@ title: Violet Coat (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Player characters who can equip **Violet Coat**](#player-characters-who-can-equip-violet-coat)
-
 ## Basic information
 
 |   |   |

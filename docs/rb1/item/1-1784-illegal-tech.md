@@ -10,7 +10,6 @@ title: Illegal Tech (Item) - Hyperdimension Neptunia Re;Birth1
 - [Dungeons **Illegal Tech** is found](#dungeons-illegal-tech-is-found)
 - [Quests which require gathering **Illegal Tech**](#quests-which-require-gathering-illegal-tech)
 - [Remake System plans which require **Illegal Tech**](#remake-system-plans-which-require-illegal-tech)
-
 ## Basic information
 
 |   |   |

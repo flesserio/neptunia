@@ -10,7 +10,6 @@ title: Colorful Line (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Quests which reward **Colorful Line**](#quests-which-reward-colorful-line)
 - [Player characters who can equip **Colorful Line**](#player-characters-who-can-equip-colorful-line)
-
 ## Basic information
 
 |   |   |

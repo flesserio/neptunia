@@ -9,7 +9,6 @@ title: Adventurer Ribbon (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Player characters who have **Adventurer Ribbon** equipped by default](#player-characters-who-have-adventurer-ribbon-equipped-by-default)
 - [Player characters who can equip **Adventurer Ribbon**](#player-characters-who-can-equip-adventurer-ribbon)
-
 ## Basic information
 
 |   |   |

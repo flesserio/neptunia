@@ -9,7 +9,6 @@ title: Blaze W (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Blaze W**](#player-characters-who-can-equip-blaze-w)
-
 ## Basic information
 
 |   |   |

@@ -10,7 +10,6 @@ title: Red Ring (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Player characters who have **Red Ring** equipped by default](#player-characters-who-have-red-ring-equipped-by-default)
 - [Player characters who can equip **Red Ring**](#player-characters-who-can-equip-red-ring)
-
 ## Basic information
 
 |   |   |

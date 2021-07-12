@@ -10,7 +10,6 @@ title: Newbie Nurse Cap (Item) - Hyperdimension Neptunia Re;Birth1
 - [Dungeons **Newbie Nurse Cap** is found](#dungeons-newbie-nurse-cap-is-found)
 - [Quests which require gathering **Newbie Nurse Cap**](#quests-which-require-gathering-newbie-nurse-cap)
 - [Remake System plans which require **Newbie Nurse Cap**](#remake-system-plans-which-require-newbie-nurse-cap)
-
 ## Basic information
 
 |   |   |

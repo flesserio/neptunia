@@ -9,7 +9,6 @@ title: Virtual Jersey (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which require **Virtual Jersey**](#remake-system-plans-which-require-virtual-jersey)
 - [Player characters who can equip **Virtual Jersey**](#player-characters-who-can-equip-virtual-jersey)
-
 ## Basic information
 
 |   |   |

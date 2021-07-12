@@ -9,7 +9,6 @@ title: Cosplay Anthology (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Plans added to Remake System after collecting **Cosplay Anthology**](#plans-added-to-remake-system-after-collecting-cosplay-anthology)
 - [Dungeons **Cosplay Anthology** is found](#dungeons-cosplay-anthology-is-found)
-
 ## Basic information
 
 |   |   |

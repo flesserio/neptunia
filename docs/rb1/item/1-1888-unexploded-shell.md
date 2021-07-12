@@ -10,7 +10,6 @@ title: Unexploded Shell (Item) - Hyperdimension Neptunia Re;Birth1
 - [Dungeons **Unexploded Shell** is found](#dungeons-unexploded-shell-is-found)
 - [Quests which require gathering **Unexploded Shell**](#quests-which-require-gathering-unexploded-shell)
 - [Remake System plans which require **Unexploded Shell**](#remake-system-plans-which-require-unexploded-shell)
-
 ## Basic information
 
 |   |   |

@@ -9,7 +9,6 @@ title: Change Items: M-Frontier Cave (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **Change Items: M-Frontier Cave**](#chirpers-who-give-change-items-m-frontier-cave)
 - [Plans added to Remake System after collecting **Change Items: M-Frontier Cave**](#plans-added-to-remake-system-after-collecting-change-items-m-frontier-cave)
-
 ## Basic information
 
 |   |   |

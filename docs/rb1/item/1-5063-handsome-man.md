@@ -8,7 +8,6 @@ title: Handsome Man (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Dungeons **Handsome Man** is found](#dungeons-handsome-man-is-found)
-
 ## Basic information
 
 |   |   |

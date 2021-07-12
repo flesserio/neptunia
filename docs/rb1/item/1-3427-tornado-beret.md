@@ -8,7 +8,6 @@ title: Tornado Beret (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Player characters who can equip **Tornado Beret**](#player-characters-who-can-equip-tornado-beret)
-
 ## Basic information
 
 |   |   |

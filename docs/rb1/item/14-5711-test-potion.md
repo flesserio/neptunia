@@ -9,7 +9,6 @@ title: Test Potion+? (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Colosseum quests which reward **Test Potion+?**](#colosseum-quests-which-reward-test-potion)
 - [Player characters who can equip **Test Potion+?**](#player-characters-who-can-equip-test-potion)
-
 ## Basic information
 
 |   |   |

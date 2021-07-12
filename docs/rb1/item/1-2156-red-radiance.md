@@ -9,7 +9,6 @@ title: Red Radiance (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Red Radiance**](#player-characters-who-can-equip-red-radiance)
-
 ## Basic information
 
 |   |   |

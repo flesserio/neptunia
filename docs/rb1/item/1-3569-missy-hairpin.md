@@ -10,7 +10,6 @@ title: Missy Hairpin (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Dungeons **Missy Hairpin** is found](#dungeons-missy-hairpin-is-found)
 - [Player characters who can equip **Missy Hairpin**](#player-characters-who-can-equip-missy-hairpin)
-
 ## Basic information
 
 |   |   |

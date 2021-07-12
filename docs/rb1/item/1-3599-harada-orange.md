@@ -9,7 +9,6 @@ title: Harada Orange (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Harada Orange** is found](#dungeons-harada-orange-is-found)
 - [Player characters who can equip **Harada Orange**](#player-characters-who-can-equip-harada-orange)
-
 ## Basic information
 
 |   |   |

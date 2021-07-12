@@ -9,7 +9,6 @@ title: Metal Dogoo Hat (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Metal Dogoo Hat** in shop](#remake-system-plans-which-unlock-metal-dogoo-hat-in-shop)
 - [Player characters who can equip **Metal Dogoo Hat**](#player-characters-who-can-equip-metal-dogoo-hat)
-
 ## Basic information
 
 |   |   |

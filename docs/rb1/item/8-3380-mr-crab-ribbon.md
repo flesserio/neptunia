@@ -9,7 +9,6 @@ title: Mr. Crab Ribbon (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Mr. Crab Ribbon**](#player-characters-who-can-equip-mr-crab-ribbon)
-
 ## Basic information
 
 |   |   |

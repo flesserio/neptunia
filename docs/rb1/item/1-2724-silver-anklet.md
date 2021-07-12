@@ -10,7 +10,6 @@ title: Silver Anklet (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Remake System plans which unlock **Silver Anklet** in shop](#remake-system-plans-which-unlock-silver-anklet-in-shop)
 - [Player characters who can equip **Silver Anklet**](#player-characters-who-can-equip-silver-anklet)
-
 ## Basic information
 
 |   |   |

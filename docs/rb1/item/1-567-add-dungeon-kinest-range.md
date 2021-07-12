@@ -9,7 +9,6 @@ title: Add Dungeon: Kinest Range (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Plans added to Remake System after collecting **Add Dungeon: Kinest Range**](#plans-added-to-remake-system-after-collecting-add-dungeon-kinest-range)
 - [Dungeons **Add Dungeon: Kinest Range** is found](#dungeons-add-dungeon-kinest-range-is-found)
-
 ## Basic information
 
 |   |   |

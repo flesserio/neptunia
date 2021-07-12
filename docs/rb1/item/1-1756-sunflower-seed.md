@@ -9,7 +9,6 @@ title: Sunflower Seed (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Sunflower Seed** is found](#dungeons-sunflower-seed-is-found)
 - [Remake System plans which require **Sunflower Seed**](#remake-system-plans-which-require-sunflower-seed)
-
 ## Basic information
 
 |   |   |

@@ -11,7 +11,6 @@ title: Silver Bracelet (Item) - Hyperdimension Neptunia Re;Birth1
 - [Remake System plans which unlock **Silver Bracelet** in shop](#remake-system-plans-which-unlock-silver-bracelet-in-shop)
 - [Dungeons **Silver Bracelet** is found](#dungeons-silver-bracelet-is-found)
 - [Player characters who can equip **Silver Bracelet**](#player-characters-who-can-equip-silver-bracelet)
-
 ## Basic information
 
 |   |   |

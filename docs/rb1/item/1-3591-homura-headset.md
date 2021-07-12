@@ -9,7 +9,6 @@ title: Homura Headset (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Homura Headset** is found](#dungeons-homura-headset-is-found)
 - [Player characters who can equip **Homura Headset**](#player-characters-who-can-equip-homura-headset)
-
 ## Basic information
 
 |   |   |

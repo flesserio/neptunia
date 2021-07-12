@@ -9,7 +9,6 @@ title: Mysterious Halo (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Mysterious Halo** is found](#dungeons-mysterious-halo-is-found)
 - [Remake System plans which require **Mysterious Halo**](#remake-system-plans-which-require-mysterious-halo)
-
 ## Basic information
 
 |   |   |

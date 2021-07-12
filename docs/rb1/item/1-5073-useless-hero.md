@@ -8,7 +8,6 @@ title: Useless Hero (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Dungeons **Useless Hero** is found](#dungeons-useless-hero-is-found)
-
 ## Basic information
 
 |   |   |

@@ -10,7 +10,6 @@ title: Vermillion Comb (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Quests which reward **Vermillion Comb**](#quests-which-reward-vermillion-comb)
 - [Player characters who can equip **Vermillion Comb**](#player-characters-who-can-equip-vermillion-comb)
-
 ## Basic information
 
 |   |   |

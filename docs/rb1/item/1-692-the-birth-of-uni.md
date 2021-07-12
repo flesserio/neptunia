@@ -9,7 +9,6 @@ title: The Birth of Uni! (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **The Birth of Uni!**](#chirpers-who-give-the-birth-of-uni)
 - [Plans added to Remake System after collecting **The Birth of Uni!**](#plans-added-to-remake-system-after-collecting-the-birth-of-uni)
-
 ## Basic information
 
 |   |   |

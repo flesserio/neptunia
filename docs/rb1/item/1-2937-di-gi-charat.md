@@ -10,7 +10,6 @@ title: Di Gi Charat (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Quests which reward **Di Gi Charat**](#quests-which-reward-di-gi-charat)
 - [Player characters who can equip **Di Gi Charat**](#player-characters-who-can-equip-di-gi-charat)
-
 ## Basic information
 
 |   |   |

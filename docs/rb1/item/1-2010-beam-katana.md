@@ -9,7 +9,6 @@ title: Beam Katana (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Beam Katana**](#player-characters-who-can-equip-beam-katana)
-
 ## Basic information
 
 |   |   |

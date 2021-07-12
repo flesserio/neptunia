@@ -8,7 +8,6 @@ title: Soda Candy (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Player characters who can equip **Soda Candy**](#player-characters-who-can-equip-soda-candy)
-
 ## Basic information
 
 |   |   |

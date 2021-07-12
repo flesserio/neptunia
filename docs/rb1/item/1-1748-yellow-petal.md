@@ -9,7 +9,6 @@ title: Yellow Petal (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Yellow Petal** is found](#dungeons-yellow-petal-is-found)
 - [Remake System plans which require **Yellow Petal**](#remake-system-plans-which-require-yellow-petal)
-
 ## Basic information
 
 |   |   |

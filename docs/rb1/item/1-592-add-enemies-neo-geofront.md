@@ -9,7 +9,6 @@ title: Add Enemies: Neo-Geofront (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **Add Enemies: Neo-Geofront**](#chirpers-who-give-add-enemies-neo-geofront)
 - [Plans added to Remake System after collecting **Add Enemies: Neo-Geofront**](#plans-added-to-remake-system-after-collecting-add-enemies-neo-geofront)
-
 ## Basic information
 
 |   |   |

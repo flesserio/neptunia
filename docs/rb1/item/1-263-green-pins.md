@@ -8,7 +8,6 @@ title: Green Pins (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Colosseum quests which reward **Green Pins**](#colosseum-quests-which-reward-green-pins)
-
 ## Basic information
 
 |   |   |

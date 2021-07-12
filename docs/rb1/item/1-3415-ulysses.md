@@ -9,7 +9,6 @@ title: Ulysses (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Ulysses** in shop](#remake-system-plans-which-unlock-ulysses-in-shop)
 - [Player characters who can equip **Ulysses**](#player-characters-who-can-equip-ulysses)
-
 ## Basic information
 
 |   |   |

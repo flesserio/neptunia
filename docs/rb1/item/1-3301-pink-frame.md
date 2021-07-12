@@ -10,7 +10,6 @@ title: Pink Frame (Item) - Hyperdimension Neptunia Re;Birth1
 - [Remake System plans which unlock **Pink Frame** in shop](#remake-system-plans-which-unlock-pink-frame-in-shop)
 - [Remake System plans which require **Pink Frame**](#remake-system-plans-which-require-pink-frame)
 - [Player characters who can equip **Pink Frame**](#player-characters-who-can-equip-pink-frame)
-
 ## Basic information
 
 |   |   |

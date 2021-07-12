@@ -9,7 +9,6 @@ title: Null Back Attack (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Plans added to Remake System after collecting **Null Back Attack**](#plans-added-to-remake-system-after-collecting-null-back-attack)
 - [Dungeons **Null Back Attack** is found](#dungeons-null-back-attack-is-found)
-
 ## Basic information
 
 |   |   |

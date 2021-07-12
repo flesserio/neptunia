@@ -9,7 +9,6 @@ title: Add Dungeon: Graphic Pass (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Plans added to Remake System after collecting **Add Dungeon: Graphic Pass**](#plans-added-to-remake-system-after-collecting-add-dungeon-graphic-pass)
 - [Dungeons **Add Dungeon: Graphic Pass** is found](#dungeons-add-dungeon-graphic-pass-is-found)
-
 ## Basic information
 
 |   |   |

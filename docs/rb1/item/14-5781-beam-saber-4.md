@@ -9,7 +9,6 @@ title: Beam Saber+4 (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Beam Saber+4**](#player-characters-who-can-equip-beam-saber-4)
-
 ## Basic information
 
 |   |   |

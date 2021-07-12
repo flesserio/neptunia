@@ -8,7 +8,6 @@ title: Min-Max (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Dungeons **Min-Max** is found](#dungeons-min-max-is-found)
-
 ## Basic information
 
 |   |   |

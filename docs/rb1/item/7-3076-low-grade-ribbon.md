@@ -9,7 +9,6 @@ title: Low-Grade Ribbon (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which require **Low-Grade Ribbon**](#remake-system-plans-which-require-low-grade-ribbon)
 - [Player characters who can equip **Low-Grade Ribbon**](#player-characters-who-can-equip-low-grade-ribbon)
-
 ## Basic information
 
 |   |   |

@@ -10,7 +10,6 @@ title: Night Striker (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Dungeons **Night Striker** is found](#dungeons-night-striker-is-found)
 - [Player characters who can equip **Night Striker**](#player-characters-who-can-equip-night-striker)
-
 ## Basic information
 
 |   |   |

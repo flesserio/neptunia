@@ -9,7 +9,6 @@ title: Blue Seed (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Blue Seed** is found](#dungeons-blue-seed-is-found)
 - [Remake System plans which require **Blue Seed**](#remake-system-plans-which-require-blue-seed)
-
 ## Basic information
 
 |   |   |

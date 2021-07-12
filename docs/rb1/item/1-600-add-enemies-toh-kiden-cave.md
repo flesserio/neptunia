@@ -9,7 +9,6 @@ title: Add Enemies: Toh-Kiden Cave (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **Add Enemies: Toh-Kiden Cave**](#chirpers-who-give-add-enemies-toh-kiden-cave)
 - [Plans added to Remake System after collecting **Add Enemies: Toh-Kiden Cave**](#plans-added-to-remake-system-after-collecting-add-enemies-toh-kiden-cave)
-
 ## Basic information
 
 |   |   |

@@ -9,7 +9,6 @@ title: Add Dungeon: Haneda Forest (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **Add Dungeon: Haneda Forest**](#chirpers-who-give-add-dungeon-haneda-forest)
 - [Plans added to Remake System after collecting **Add Dungeon: Haneda Forest**](#plans-added-to-remake-system-after-collecting-add-dungeon-haneda-forest)
-
 ## Basic information
 
 |   |   |

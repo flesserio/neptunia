@@ -10,7 +10,6 @@ title: Hades Bangle (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Remake System plans which unlock **Hades Bangle** in shop](#remake-system-plans-which-unlock-hades-bangle-in-shop)
 - [Player characters who can equip **Hades Bangle**](#player-characters-who-can-equip-hades-bangle)
-
 ## Basic information
 
 |   |   |

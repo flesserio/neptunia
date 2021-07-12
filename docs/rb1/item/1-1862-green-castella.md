@@ -9,7 +9,6 @@ title: Green Castella (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Green Castella** is found](#dungeons-green-castella-is-found)
 - [Remake System plans which require **Green Castella**](#remake-system-plans-which-require-green-castella)
-
 ## Basic information
 
 |   |   |

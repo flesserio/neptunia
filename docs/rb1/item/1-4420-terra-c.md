@@ -9,7 +9,6 @@ title: Terra C (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Terra C**](#player-characters-who-can-equip-terra-c)
-
 ## Basic information
 
 |   |   |

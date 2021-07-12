@@ -9,7 +9,6 @@ title: Archebangle (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Archebangle**](#player-characters-who-can-equip-archebangle)
-
 ## Basic information
 
 |   |   |

@@ -10,7 +10,6 @@ title: Cradle H (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Player characters who have **Cradle H** equipped by default](#player-characters-who-have-cradle-h-equipped-by-default)
 - [Player characters who can equip **Cradle H**](#player-characters-who-can-equip-cradle-h)
-
 ## Basic information
 
 |   |   |

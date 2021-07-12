@@ -9,7 +9,6 @@ title: Plan: INT Booster (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **Plan: INT Booster**](#chirpers-who-give-plan-int-booster)
 - [Plans added to Remake System after collecting **Plan: INT Booster**](#plans-added-to-remake-system-after-collecting-plan-int-booster)
-
 ## Basic information
 
 |   |   |

@@ -10,7 +10,6 @@ title: Absolute Zero Ring (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Remake System plans which unlock **Absolute Zero Ring** in shop](#remake-system-plans-which-unlock-absolute-zero-ring-in-shop)
 - [Player characters who can equip **Absolute Zero Ring**](#player-characters-who-can-equip-absolute-zero-ring)
-
 ## Basic information
 
 |   |   |

@@ -9,7 +9,6 @@ title: Classical Maid (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Classical Maid** in shop](#remake-system-plans-which-unlock-classical-maid-in-shop)
 - [Player characters who can equip **Classical Maid**](#player-characters-who-can-equip-classical-maid)
-
 ## Basic information
 
 |   |   |

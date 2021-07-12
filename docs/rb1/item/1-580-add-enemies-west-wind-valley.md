@@ -9,7 +9,6 @@ title: Add Enemies: West Wind Valley (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **Add Enemies: West Wind Valley**](#chirpers-who-give-add-enemies-west-wind-valley)
 - [Plans added to Remake System after collecting **Add Enemies: West Wind Valley**](#plans-added-to-remake-system-after-collecting-add-enemies-west-wind-valley)
-
 ## Basic information
 
 |   |   |

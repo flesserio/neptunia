@@ -9,7 +9,6 @@ title: Dream Carrot (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which require **Dream Carrot**](#remake-system-plans-which-require-dream-carrot)
 - [Player characters who can equip **Dream Carrot**](#player-characters-who-can-equip-dream-carrot)
-
 ## Basic information
 
 |   |   |

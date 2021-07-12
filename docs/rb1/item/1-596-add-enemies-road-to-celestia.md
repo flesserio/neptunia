@@ -9,7 +9,6 @@ title: Add Enemies: Road to Celestia (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **Add Enemies: Road to Celestia**](#chirpers-who-give-add-enemies-road-to-celestia)
 - [Plans added to Remake System after collecting **Add Enemies: Road to Celestia**](#plans-added-to-remake-system-after-collecting-add-enemies-road-to-celestia)
-
 ## Basic information
 
 |   |   |

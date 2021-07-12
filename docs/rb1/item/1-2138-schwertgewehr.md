@@ -9,7 +9,6 @@ title: Schwertgewehr (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Schwertgewehr**](#player-characters-who-can-equip-schwertgewehr)
-
 ## Basic information
 
 |   |   |

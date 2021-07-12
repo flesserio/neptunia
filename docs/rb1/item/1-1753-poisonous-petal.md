@@ -9,7 +9,6 @@ title: Poisonous Petal (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Poisonous Petal** is found](#dungeons-poisonous-petal-is-found)
 - [Remake System plans which require **Poisonous Petal**](#remake-system-plans-which-require-poisonous-petal)
-
 ## Basic information
 
 |   |   |

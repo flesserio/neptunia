@@ -10,7 +10,6 @@ title: Flamin' Bone (Item) - Hyperdimension Neptunia Re;Birth1
 - [Dungeons **Flamin' Bone** is found](#dungeons-flamin-bone-is-found)
 - [Quests which require gathering **Flamin' Bone**](#quests-which-require-gathering-flamin-bone)
 - [Remake System plans which require **Flamin' Bone**](#remake-system-plans-which-require-flamin-bone)
-
 ## Basic information
 
 |   |   |

@@ -9,7 +9,6 @@ title: Diva Ribbon (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Diva Ribbon** in shop](#remake-system-plans-which-unlock-diva-ribbon-in-shop)
 - [Player characters who can equip **Diva Ribbon**](#player-characters-who-can-equip-diva-ribbon)
-
 ## Basic information
 
 |   |   |

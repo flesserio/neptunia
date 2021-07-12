@@ -9,7 +9,6 @@ title: Sharp Fang (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Sharp Fang** is found](#dungeons-sharp-fang-is-found)
 - [Remake System plans which require **Sharp Fang**](#remake-system-plans-which-require-sharp-fang)
-
 ## Basic information
 
 |   |   |

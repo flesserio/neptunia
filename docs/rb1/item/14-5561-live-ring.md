@@ -10,7 +10,6 @@ title: LIVE Ring (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Player characters who have **LIVE Ring** equipped by default](#player-characters-who-have-live-ring-equipped-by-default)
 - [Player characters who can equip **LIVE Ring**](#player-characters-who-can-equip-live-ring)
-
 ## Basic information
 
 |   |   |

@@ -10,7 +10,6 @@ title: Contracted Ball (Item) - Hyperdimension Neptunia Re;Birth1
 - [Dungeons **Contracted Ball** is found](#dungeons-contracted-ball-is-found)
 - [Quests which require gathering **Contracted Ball**](#quests-which-require-gathering-contracted-ball)
 - [Remake System plans which require **Contracted Ball**](#remake-system-plans-which-require-contracted-ball)
-
 ## Basic information
 
 |   |   |

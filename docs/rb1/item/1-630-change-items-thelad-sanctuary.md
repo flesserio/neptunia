@@ -9,7 +9,6 @@ title: Change Items: Thelad Sanctuary (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **Change Items: Thelad Sanctuary**](#chirpers-who-give-change-items-thelad-sanctuary)
 - [Plans added to Remake System after collecting **Change Items: Thelad Sanctuary**](#plans-added-to-remake-system-after-collecting-change-items-thelad-sanctuary)
-
 ## Basic information
 
 |   |   |

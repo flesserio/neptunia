@@ -9,7 +9,6 @@ title: Plan: Suspicious Bangle (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Plans added to Remake System after collecting **Plan: Suspicious Bangle**](#plans-added-to-remake-system-after-collecting-plan-suspicious-bangle)
 - [Dungeons **Plan: Suspicious Bangle** is found](#dungeons-plan-suspicious-bangle-is-found)
-
 ## Basic information
 
 |   |   |

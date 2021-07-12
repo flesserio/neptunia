@@ -10,7 +10,6 @@ title: Martial S (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Quests which reward **Martial S**](#quests-which-reward-martial-s)
 - [Player characters who can equip **Martial S**](#player-characters-who-can-equip-martial-s)
-
 ## Basic information
 
 |   |   |

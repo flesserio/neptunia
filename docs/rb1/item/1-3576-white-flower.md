@@ -10,7 +10,6 @@ title: White Flower (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Dungeons **White Flower** is found](#dungeons-white-flower-is-found)
 - [Player characters who can equip **White Flower**](#player-characters-who-can-equip-white-flower)
-
 ## Basic information
 
 |   |   |

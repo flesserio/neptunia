@@ -9,7 +9,6 @@ title: Old Dragon...Horn (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Old Dragon...Horn** is found](#dungeons-old-dragonhorn-is-found)
 - [Remake System plans which require **Old Dragon...Horn**](#remake-system-plans-which-require-old-dragonhorn)
-
 ## Basic information
 
 |   |   |

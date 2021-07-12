@@ -9,7 +9,6 @@ title: Sharicite (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Sharicite**](#player-characters-who-can-equip-sharicite)
-
 ## Basic information
 
 |   |   |

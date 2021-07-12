@@ -9,7 +9,6 @@ title: Horsebird Feather (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Horsebird Feather** is found](#dungeons-horsebird-feather-is-found)
 - [Remake System plans which require **Horsebird Feather**](#remake-system-plans-which-require-horsebird-feather)
-
 ## Basic information
 
 |   |   |

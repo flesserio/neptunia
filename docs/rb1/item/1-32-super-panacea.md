@@ -10,7 +10,6 @@ title: Super Panacea (Item) - Hyperdimension Neptunia Re;Birth1
 - [Remake System plans which unlock **Super Panacea** in shop](#remake-system-plans-which-unlock-super-panacea-in-shop)
 - [Dungeons **Super Panacea** is found](#dungeons-super-panacea-is-found)
 - [Colosseum quests which reward **Super Panacea**](#colosseum-quests-which-reward-super-panacea)
-
 ## Basic information
 
 |   |   |

@@ -9,7 +9,6 @@ title: Change Items: Gravidaze Ruins (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **Change Items: Gravidaze Ruins**](#chirpers-who-give-change-items-gravidaze-ruins)
 - [Plans added to Remake System after collecting **Change Items: Gravidaze Ruins**](#plans-added-to-remake-system-after-collecting-change-items-gravidaze-ruins)
-
 ## Basic information
 
 |   |   |

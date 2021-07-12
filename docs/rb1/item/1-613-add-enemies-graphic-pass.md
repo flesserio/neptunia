@@ -9,7 +9,6 @@ title: Add Enemies: Graphic Pass (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **Add Enemies: Graphic Pass**](#chirpers-who-give-add-enemies-graphic-pass)
 - [Plans added to Remake System after collecting **Add Enemies: Graphic Pass**](#plans-added-to-remake-system-after-collecting-add-enemies-graphic-pass)
-
 ## Basic information
 
 |   |   |

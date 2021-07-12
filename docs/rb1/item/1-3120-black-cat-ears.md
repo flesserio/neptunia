@@ -10,7 +10,6 @@ title: Black Cat Ears (Item) - Hyperdimension Neptunia Re;Birth1
 - [Remake System plans which unlock **Black Cat Ears** in shop](#remake-system-plans-which-unlock-black-cat-ears-in-shop)
 - [Remake System plans which require **Black Cat Ears**](#remake-system-plans-which-require-black-cat-ears)
 - [Player characters who can equip **Black Cat Ears**](#player-characters-who-can-equip-black-cat-ears)
-
 ## Basic information
 
 |   |   |

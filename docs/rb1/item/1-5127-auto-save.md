@@ -8,7 +8,6 @@ title: Auto Save (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Dungeons **Auto Save** is found](#dungeons-auto-save-is-found)
-
 ## Basic information
 
 |   |   |

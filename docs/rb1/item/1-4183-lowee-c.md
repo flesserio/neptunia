@@ -10,7 +10,6 @@ title: Lowee C (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Remake System plans which unlock **Lowee C** in shop](#remake-system-plans-which-unlock-lowee-c-in-shop)
 - [Player characters who can equip **Lowee C**](#player-characters-who-can-equip-lowee-c)
-
 ## Basic information
 
 |   |   |

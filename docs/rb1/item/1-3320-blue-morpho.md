@@ -9,7 +9,6 @@ title: Blue Morpho (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Blue Morpho** in shop](#remake-system-plans-which-unlock-blue-morpho-in-shop)
 - [Player characters who can equip **Blue Morpho**](#player-characters-who-can-equip-blue-morpho)
-
 ## Basic information
 
 |   |   |

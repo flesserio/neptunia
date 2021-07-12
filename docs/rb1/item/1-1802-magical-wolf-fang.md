@@ -10,7 +10,6 @@ title: Magical Wolf Fang (Item) - Hyperdimension Neptunia Re;Birth1
 - [Dungeons **Magical Wolf Fang** is found](#dungeons-magical-wolf-fang-is-found)
 - [Quests which require gathering **Magical Wolf Fang**](#quests-which-require-gathering-magical-wolf-fang)
 - [Remake System plans which require **Magical Wolf Fang**](#remake-system-plans-which-require-magical-wolf-fang)
-
 ## Basic information
 
 |   |   |

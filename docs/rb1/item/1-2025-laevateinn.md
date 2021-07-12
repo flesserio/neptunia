@@ -10,7 +10,6 @@ title: Laevateinn (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Colosseum quests which reward **Laevateinn**](#colosseum-quests-which-reward-laevateinn)
 - [Player characters who can equip **Laevateinn**](#player-characters-who-can-equip-laevateinn)
-
 ## Basic information
 
 |   |   |

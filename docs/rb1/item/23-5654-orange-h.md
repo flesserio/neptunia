@@ -10,7 +10,6 @@ title: Orange H (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Player characters who have **Orange H** equipped by default](#player-characters-who-have-orange-h-equipped-by-default)
 - [Player characters who can equip **Orange H**](#player-characters-who-can-equip-orange-h)
-
 ## Basic information
 
 |   |   |

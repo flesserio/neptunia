@@ -9,7 +9,6 @@ title: Plan: Healing Pod (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Plans added to Remake System after collecting **Plan: Healing Pod**](#plans-added-to-remake-system-after-collecting-plan-healing-pod)
 - [Dungeons **Plan: Healing Pod** is found](#dungeons-plan-healing-pod-is-found)
-
 ## Basic information
 
 |   |   |

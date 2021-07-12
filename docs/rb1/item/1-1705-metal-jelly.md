@@ -10,7 +10,6 @@ title: Metal Jelly (Item) - Hyperdimension Neptunia Re;Birth1
 - [Dungeons **Metal Jelly** is found](#dungeons-metal-jelly-is-found)
 - [Quests which require gathering **Metal Jelly**](#quests-which-require-gathering-metal-jelly)
 - [Remake System plans which require **Metal Jelly**](#remake-system-plans-which-require-metal-jelly)
-
 ## Basic information
 
 |   |   |

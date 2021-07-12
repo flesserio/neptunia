@@ -9,7 +9,6 @@ title: Black Cat Glasses (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Black Cat Glasses** in shop](#remake-system-plans-which-unlock-black-cat-glasses-in-shop)
 - [Player characters who can equip **Black Cat Glasses**](#player-characters-who-can-equip-black-cat-glasses)
-
 ## Basic information
 
 |   |   |

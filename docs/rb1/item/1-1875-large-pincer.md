@@ -9,7 +9,6 @@ title: Large Pincer (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Large Pincer** is found](#dungeons-large-pincer-is-found)
 - [Remake System plans which require **Large Pincer**](#remake-system-plans-which-require-large-pincer)
-
 ## Basic information
 
 |   |   |

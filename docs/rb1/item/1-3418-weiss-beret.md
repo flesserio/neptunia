@@ -9,7 +9,6 @@ title: Weiss Beret (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which require **Weiss Beret**](#remake-system-plans-which-require-weiss-beret)
 - [Player characters who can equip **Weiss Beret**](#player-characters-who-can-equip-weiss-beret)
-
 ## Basic information
 
 |   |   |

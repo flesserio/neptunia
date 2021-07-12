@@ -9,7 +9,6 @@ title: Plan: Underworld Ring (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **Plan: Underworld Ring**](#chirpers-who-give-plan-underworld-ring)
 - [Plans added to Remake System after collecting **Plan: Underworld Ring**](#plans-added-to-remake-system-after-collecting-plan-underworld-ring)
-
 ## Basic information
 
 |   |   |

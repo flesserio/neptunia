@@ -9,7 +9,6 @@ title: Young Lady Ribbon (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Young Lady Ribbon**](#player-characters-who-can-equip-young-lady-ribbon)
-
 ## Basic information
 
 |   |   |

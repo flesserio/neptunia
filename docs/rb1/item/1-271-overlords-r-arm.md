@@ -8,7 +8,6 @@ title: Overlord's R. Arm (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Quests which reward **Overlord's R. Arm**](#quests-which-reward-overlords-r-arm)
-
 ## Basic information
 
 |   |   |

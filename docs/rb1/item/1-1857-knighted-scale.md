@@ -9,7 +9,6 @@ title: Knighted Scale (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Knighted Scale** is found](#dungeons-knighted-scale-is-found)
 - [Remake System plans which require **Knighted Scale**](#remake-system-plans-which-require-knighted-scale)
-
 ## Basic information
 
 |   |   |

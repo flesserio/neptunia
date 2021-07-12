@@ -9,7 +9,6 @@ title: Soluble Cloth (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Soluble Cloth** is found](#dungeons-soluble-cloth-is-found)
 - [Remake System plans which require **Soluble Cloth**](#remake-system-plans-which-require-soluble-cloth)
-
 ## Basic information
 
 |   |   |

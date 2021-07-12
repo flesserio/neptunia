@@ -8,7 +8,6 @@ title: Move Memory (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Player characters who can equip **Move Memory**](#player-characters-who-can-equip-move-memory)
-
 ## Basic information
 
 |   |   |

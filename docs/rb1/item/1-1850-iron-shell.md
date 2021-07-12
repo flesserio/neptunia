@@ -9,7 +9,6 @@ title: Iron Shell (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Iron Shell** is found](#dungeons-iron-shell-is-found)
 - [Remake System plans which require **Iron Shell**](#remake-system-plans-which-require-iron-shell)
-
 ## Basic information
 
 |   |   |

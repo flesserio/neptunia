@@ -8,7 +8,6 @@ title: White Keychain (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Colosseum quests which reward **White Keychain**](#colosseum-quests-which-reward-white-keychain)
-
 ## Basic information
 
 |   |   |

@@ -10,7 +10,6 @@ title: Devil B (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Remake System plans which unlock **Devil B** in shop](#remake-system-plans-which-unlock-devil-b-in-shop)
 - [Player characters who can equip **Devil B**](#player-characters-who-can-equip-devil-b)
-
 ## Basic information
 
 |   |   |

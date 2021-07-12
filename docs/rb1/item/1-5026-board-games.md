@@ -8,7 +8,6 @@ title: Board Games (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Dungeons **Board Games** is found](#dungeons-board-games-is-found)
-
 ## Basic information
 
 |   |   |

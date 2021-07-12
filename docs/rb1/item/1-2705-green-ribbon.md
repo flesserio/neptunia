@@ -10,7 +10,6 @@ title: Green Ribbon (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Player characters who have **Green Ribbon** equipped by default](#player-characters-who-have-green-ribbon-equipped-by-default)
 - [Player characters who can equip **Green Ribbon**](#player-characters-who-can-equip-green-ribbon)
-
 ## Basic information
 
 |   |   |

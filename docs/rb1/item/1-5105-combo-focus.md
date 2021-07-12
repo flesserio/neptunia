@@ -9,7 +9,6 @@ title: Combo Focus (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Combo Focus** is found](#dungeons-combo-focus-is-found)
 - [Colosseum quests which reward **Combo Focus**](#colosseum-quests-which-reward-combo-focus)
-
 ## Basic information
 
 |   |   |

@@ -10,7 +10,6 @@ title: Wood Staff (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Dungeons **Wood Staff** is found](#dungeons-wood-staff-is-found)
 - [Player characters who can equip **Wood Staff**](#player-characters-who-can-equip-wood-staff)
-
 ## Basic information
 
 |   |   |

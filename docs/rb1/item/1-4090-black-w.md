@@ -10,7 +10,6 @@ title: Black W (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Player characters who have **Black W** equipped by default](#player-characters-who-have-black-w-equipped-by-default)
 - [Player characters who can equip **Black W**](#player-characters-who-can-equip-black-w)
-
 ## Basic information
 
 |   |   |

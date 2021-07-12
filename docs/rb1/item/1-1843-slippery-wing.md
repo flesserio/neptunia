@@ -9,7 +9,6 @@ title: Slippery Wing (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Slippery Wing** is found](#dungeons-slippery-wing-is-found)
 - [Remake System plans which require **Slippery Wing**](#remake-system-plans-which-require-slippery-wing)
-
 ## Basic information
 
 |   |   |

@@ -9,7 +9,6 @@ title: Exceed Damage Limit (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Plans added to Remake System after collecting **Exceed Damage Limit**](#plans-added-to-remake-system-after-collecting-exceed-damage-limit)
 - [Dungeons **Exceed Damage Limit** is found](#dungeons-exceed-damage-limit-is-found)
-
 ## Basic information
 
 |   |   |

@@ -9,7 +9,6 @@ title: Hibari Headset (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Colosseum quests which reward **Hibari Headset**](#colosseum-quests-which-reward-hibari-headset)
 - [Player characters who can equip **Hibari Headset**](#player-characters-who-can-equip-hibari-headset)
-
 ## Basic information
 
 |   |   |

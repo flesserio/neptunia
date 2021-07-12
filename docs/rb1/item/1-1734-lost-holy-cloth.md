@@ -9,7 +9,6 @@ title: Lost Holy Cloth (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Lost Holy Cloth** is found](#dungeons-lost-holy-cloth-is-found)
 - [Remake System plans which require **Lost Holy Cloth**](#remake-system-plans-which-require-lost-holy-cloth)
-
 ## Basic information
 
 |   |   |

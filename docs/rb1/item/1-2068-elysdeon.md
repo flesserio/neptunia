@@ -10,7 +10,6 @@ title: Elysdeon (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Remake System plans which unlock **Elysdeon** in shop](#remake-system-plans-which-unlock-elysdeon-in-shop)
 - [Player characters who can equip **Elysdeon**](#player-characters-who-can-equip-elysdeon)
-
 ## Basic information
 
 |   |   |

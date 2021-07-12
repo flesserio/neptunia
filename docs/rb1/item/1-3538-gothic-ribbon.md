@@ -10,7 +10,6 @@ title: Gothic Ribbon (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Dungeons **Gothic Ribbon** is found](#dungeons-gothic-ribbon-is-found)
 - [Player characters who can equip **Gothic Ribbon**](#player-characters-who-can-equip-gothic-ribbon)
-
 ## Basic information
 
 |   |   |

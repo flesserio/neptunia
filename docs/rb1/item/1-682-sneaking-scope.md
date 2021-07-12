@@ -9,7 +9,6 @@ title: Sneaking Scope (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **Sneaking Scope**](#chirpers-who-give-sneaking-scope)
 - [Plans added to Remake System after collecting **Sneaking Scope**](#plans-added-to-remake-system-after-collecting-sneaking-scope)
-
 ## Basic information
 
 |   |   |

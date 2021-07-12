@@ -10,7 +10,6 @@ title: Aeon System (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Dungeons **Aeon System** is found](#dungeons-aeon-system-is-found)
 - [Player characters who can equip **Aeon System**](#player-characters-who-can-equip-aeon-system)
-
 ## Basic information
 
 |   |   |

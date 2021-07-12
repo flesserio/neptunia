@@ -9,7 +9,6 @@ title: White Cat Ribbon (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which require **White Cat Ribbon**](#remake-system-plans-which-require-white-cat-ribbon)
 - [Player characters who can equip **White Cat Ribbon**](#player-characters-who-can-equip-white-cat-ribbon)
-
 ## Basic information
 
 |   |   |

@@ -8,7 +8,6 @@ title: Deformer (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Quests which reward **Deformer**](#quests-which-reward-deformer)
-
 ## Basic information
 
 |   |   |

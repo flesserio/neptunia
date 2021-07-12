@@ -10,7 +10,6 @@ title: Nurse Cap (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Dungeons **Nurse Cap** is found](#dungeons-nurse-cap-is-found)
 - [Player characters who can equip **Nurse Cap**](#player-characters-who-can-equip-nurse-cap)
-
 ## Basic information
 
 |   |   |

@@ -9,7 +9,6 @@ title: Energy Pack (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Energy Pack** is found](#dungeons-energy-pack-is-found)
 - [Remake System plans which require **Energy Pack**](#remake-system-plans-which-require-energy-pack)
-
 ## Basic information
 
 |   |   |

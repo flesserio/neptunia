@@ -9,7 +9,6 @@ title: 1-Player Online (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **1-Player Online** is found](#dungeons-1-player-online-is-found)
 - [Quests which reward **1-Player Online**](#quests-which-reward-1-player-online)
-
 ## Basic information
 
 |   |   |

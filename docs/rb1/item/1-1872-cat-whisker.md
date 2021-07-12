@@ -9,7 +9,6 @@ title: Cat Whisker (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Cat Whisker** is found](#dungeons-cat-whisker-is-found)
 - [Remake System plans which require **Cat Whisker**](#remake-system-plans-which-require-cat-whisker)
-
 ## Basic information
 
 |   |   |

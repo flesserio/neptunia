@@ -10,7 +10,6 @@ title: C. Necklace (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Player characters who have **C. Necklace** equipped by default](#player-characters-who-have-c-necklace-equipped-by-default)
 - [Player characters who can equip **C. Necklace**](#player-characters-who-can-equip-c-necklace)
-
 ## Basic information
 
 |   |   |

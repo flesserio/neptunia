@@ -10,7 +10,6 @@ title: Radish Leaf (Item) - Hyperdimension Neptunia Re;Birth1
 - [Dungeons **Radish Leaf** is found](#dungeons-radish-leaf-is-found)
 - [Quests which require gathering **Radish Leaf**](#quests-which-require-gathering-radish-leaf)
 - [Remake System plans which require **Radish Leaf**](#remake-system-plans-which-require-radish-leaf)
-
 ## Basic information
 
 |   |   |

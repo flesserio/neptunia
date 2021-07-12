@@ -10,7 +10,6 @@ title: Princess Blue (Item) - Hyperdimension Neptunia Re;Birth1
 - [Remake System plans which unlock **Princess Blue** in shop](#remake-system-plans-which-unlock-princess-blue-in-shop)
 - [Remake System plans which require **Princess Blue**](#remake-system-plans-which-require-princess-blue)
 - [Player characters who can equip **Princess Blue**](#player-characters-who-can-equip-princess-blue)
-
 ## Basic information
 
 |   |   |

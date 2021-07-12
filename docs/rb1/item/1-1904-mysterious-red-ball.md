@@ -9,7 +9,6 @@ title: Mysterious Red Ball (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Mysterious Red Ball** is found](#dungeons-mysterious-red-ball-is-found)
 - [Remake System plans which require **Mysterious Red Ball**](#remake-system-plans-which-require-mysterious-red-ball)
-
 ## Basic information
 
 |   |   |

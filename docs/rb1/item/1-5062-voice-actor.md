@@ -8,7 +8,6 @@ title: Voice Actor (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Dungeons **Voice Actor** is found](#dungeons-voice-actor-is-found)
-
 ## Basic information
 
 |   |   |

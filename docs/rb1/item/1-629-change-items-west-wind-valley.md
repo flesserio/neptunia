@@ -9,7 +9,6 @@ title: Change Items: West Wind Valley (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **Change Items: West Wind Valley**](#chirpers-who-give-change-items-west-wind-valley)
 - [Plans added to Remake System after collecting **Change Items: West Wind Valley**](#plans-added-to-remake-system-after-collecting-change-items-west-wind-valley)
-
 ## Basic information
 
 |   |   |

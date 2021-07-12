@@ -9,7 +9,6 @@ title: Plan: Gungnir (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Plans added to Remake System after collecting **Plan: Gungnir**](#plans-added-to-remake-system-after-collecting-plan-gungnir)
 - [Dungeons **Plan: Gungnir** is found](#dungeons-plan-gungnir-is-found)
-
 ## Basic information
 
 |   |   |

@@ -9,7 +9,6 @@ title: Jet Black Beret (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Jet Black Beret** in shop](#remake-system-plans-which-unlock-jet-black-beret-in-shop)
 - [Player characters who can equip **Jet Black Beret**](#player-characters-who-can-equip-jet-black-beret)
-
 ## Basic information
 
 |   |   |

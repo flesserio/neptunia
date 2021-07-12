@@ -8,7 +8,6 @@ title: Green Keychain (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Colosseum quests which reward **Green Keychain**](#colosseum-quests-which-reward-green-keychain)
-
 ## Basic information
 
 |   |   |

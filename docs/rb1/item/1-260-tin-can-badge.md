@@ -8,7 +8,6 @@ title: Tin-Can Badge (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Quests which reward **Tin-Can Badge**](#quests-which-reward-tin-can-badge)
-
 ## Basic information
 
 |   |   |

@@ -8,7 +8,6 @@ title: Bonus Keychain (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Colosseum quests which reward **Bonus Keychain**](#colosseum-quests-which-reward-bonus-keychain)
-
 ## Basic information
 
 |   |   |

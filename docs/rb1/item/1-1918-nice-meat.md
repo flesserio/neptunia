@@ -10,7 +10,6 @@ title: Nice Meat (Item) - Hyperdimension Neptunia Re;Birth1
 - [Dungeons **Nice Meat** is found](#dungeons-nice-meat-is-found)
 - [Quests which require gathering **Nice Meat**](#quests-which-require-gathering-nice-meat)
 - [Remake System plans which require **Nice Meat**](#remake-system-plans-which-require-nice-meat)
-
 ## Basic information
 
 |   |   |

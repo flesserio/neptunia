@@ -7,7 +7,6 @@ title: Plan: 83 Strap (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
-
 ## Basic information
 
 |   |   |

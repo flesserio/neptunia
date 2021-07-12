@@ -9,7 +9,6 @@ title: Meow Claw (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Meow Claw** is found](#dungeons-meow-claw-is-found)
 - [Remake System plans which require **Meow Claw**](#remake-system-plans-which-require-meow-claw)
-
 ## Basic information
 
 |   |   |

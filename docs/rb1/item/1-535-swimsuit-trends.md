@@ -9,7 +9,6 @@ title: Swimsuit Trends! (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **Swimsuit Trends!**](#chirpers-who-give-swimsuit-trends)
 - [Plans added to Remake System after collecting **Swimsuit Trends!**](#plans-added-to-remake-system-after-collecting-swimsuit-trends)
-
 ## Basic information
 
 |   |   |

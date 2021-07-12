@@ -9,7 +9,6 @@ title: Butterfly Ornament (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which require **Butterfly Ornament**](#remake-system-plans-which-require-butterfly-ornament)
 - [Player characters who can equip **Butterfly Ornament**](#player-characters-who-can-equip-butterfly-ornament)
-
 ## Basic information
 
 |   |   |

@@ -10,7 +10,6 @@ title: Crystal Skull (Item) - Hyperdimension Neptunia Re;Birth1
 - [Dungeons **Crystal Skull** is found](#dungeons-crystal-skull-is-found)
 - [Quests which require gathering **Crystal Skull**](#quests-which-require-gathering-crystal-skull)
 - [Remake System plans which require **Crystal Skull**](#remake-system-plans-which-require-crystal-skull)
-
 ## Basic information
 
 |   |   |

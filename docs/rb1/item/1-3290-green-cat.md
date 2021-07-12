@@ -9,7 +9,6 @@ title: Green Cat (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Green Cat** in shop](#remake-system-plans-which-unlock-green-cat-in-shop)
 - [Player characters who can equip **Green Cat**](#player-characters-who-can-equip-green-cat)
-
 ## Basic information
 
 |   |   |

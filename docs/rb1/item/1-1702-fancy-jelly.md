@@ -9,7 +9,6 @@ title: Fancy Jelly (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Fancy Jelly** is found](#dungeons-fancy-jelly-is-found)
 - [Remake System plans which require **Fancy Jelly**](#remake-system-plans-which-require-fancy-jelly)
-
 ## Basic information
 
 |   |   |

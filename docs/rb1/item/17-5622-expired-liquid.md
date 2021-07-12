@@ -9,7 +9,6 @@ title: Expired Liquid (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Expired Liquid**](#player-characters-who-can-equip-expired-liquid)
-
 ## Basic information
 
 |   |   |

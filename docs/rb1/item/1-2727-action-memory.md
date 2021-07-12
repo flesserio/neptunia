@@ -9,7 +9,6 @@ title: Action Memory (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Action Memory** in shop](#remake-system-plans-which-unlock-action-memory-in-shop)
 - [Player characters who can equip **Action Memory**](#player-characters-who-can-equip-action-memory)
-
 ## Basic information
 
 |   |   |

@@ -9,7 +9,6 @@ title: Headset (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Player characters who have **Headset** equipped by default](#player-characters-who-have-headset-equipped-by-default)
 - [Player characters who can equip **Headset**](#player-characters-who-can-equip-headset)
-
 ## Basic information
 
 |   |   |

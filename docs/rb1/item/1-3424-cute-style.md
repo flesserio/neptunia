@@ -9,7 +9,6 @@ title: Cute Style (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Cute Style** in shop](#remake-system-plans-which-unlock-cute-style-in-shop)
 - [Player characters who can equip **Cute Style**](#player-characters-who-can-equip-cute-style)
-
 ## Basic information
 
 |   |   |

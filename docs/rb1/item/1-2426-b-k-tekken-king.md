@@ -10,7 +10,6 @@ title: B.K. Tekken King (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Colosseum quests which reward **B.K. Tekken King**](#colosseum-quests-which-reward-bk-tekken-king)
 - [Player characters who can equip **B.K. Tekken King**](#player-characters-who-can-equip-bk-tekken-king)
-
 ## Basic information
 
 |   |   |

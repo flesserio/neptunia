@@ -9,7 +9,6 @@ title: Black Tome (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Plans added to Remake System after collecting **Black Tome**](#plans-added-to-remake-system-after-collecting-black-tome)
 - [Colosseum quests which reward **Black Tome**](#colosseum-quests-which-reward-black-tome)
-
 ## Basic information
 
 |   |   |

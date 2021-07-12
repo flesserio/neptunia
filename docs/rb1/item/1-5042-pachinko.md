@@ -9,7 +9,6 @@ title: Pachinko (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Pachinko** is found](#dungeons-pachinko-is-found)
 - [Quests which reward **Pachinko**](#quests-which-reward-pachinko)
-
 ## Basic information
 
 |   |   |

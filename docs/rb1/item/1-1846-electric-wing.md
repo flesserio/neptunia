@@ -9,7 +9,6 @@ title: Electric Wing (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Electric Wing** is found](#dungeons-electric-wing-is-found)
 - [Remake System plans which require **Electric Wing**](#remake-system-plans-which-require-electric-wing)
-
 ## Basic information
 
 |   |   |

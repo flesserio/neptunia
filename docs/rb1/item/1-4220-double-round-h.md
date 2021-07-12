@@ -10,7 +10,6 @@ title: Double Round H (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Dungeons **Double Round H** is found](#dungeons-double-round-h-is-found)
 - [Player characters who can equip **Double Round H**](#player-characters-who-can-equip-double-round-h)
-
 ## Basic information
 
 |   |   |

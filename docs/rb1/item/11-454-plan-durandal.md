@@ -9,7 +9,6 @@ title: Plan: Durandal (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Plans added to Remake System after collecting **Plan: Durandal**](#plans-added-to-remake-system-after-collecting-plan-durandal)
 - [Dungeons **Plan: Durandal** is found](#dungeons-plan-durandal-is-found)
-
 ## Basic information
 
 |   |   |

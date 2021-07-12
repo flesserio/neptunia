@@ -9,7 +9,6 @@ title: Mal Antenna (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Mal Antenna** is found](#dungeons-mal-antenna-is-found)
 - [Remake System plans which require **Mal Antenna**](#remake-system-plans-which-require-mal-antenna)
-
 ## Basic information
 
 |   |   |

@@ -9,7 +9,6 @@ title: Seamless (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Seamless** is found](#dungeons-seamless-is-found)
 - [Colosseum quests which reward **Seamless**](#colosseum-quests-which-reward-seamless)
-
 ## Basic information
 
 |   |   |

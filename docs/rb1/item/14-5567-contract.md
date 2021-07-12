@@ -10,7 +10,6 @@ title: Contract (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Player characters who have **Contract** equipped by default](#player-characters-who-have-contract-equipped-by-default)
 - [Player characters who can equip **Contract**](#player-characters-who-can-equip-contract)
-
 ## Basic information
 
 |   |   |

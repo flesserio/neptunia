@@ -9,7 +9,6 @@ title: Light Spear+9 (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Light Spear+9**](#player-characters-who-can-equip-light-spear-9)
-
 ## Basic information
 
 |   |   |

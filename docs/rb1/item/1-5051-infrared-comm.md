@@ -10,7 +10,6 @@ title: Infrared Comm. (Item) - Hyperdimension Neptunia Re;Birth1
 - [Dungeons **Infrared Comm.** is found](#dungeons-infrared-comm-is-found)
 - [Colosseum quests which reward **Infrared Comm.**](#colosseum-quests-which-reward-infrared-comm)
 - [Quests which reward **Infrared Comm.**](#quests-which-reward-infrared-comm)
-
 ## Basic information
 
 |   |   |

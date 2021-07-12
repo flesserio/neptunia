@@ -9,7 +9,6 @@ title: Testament (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Testament**](#player-characters-who-can-equip-testament)
-
 ## Basic information
 
 |   |   |

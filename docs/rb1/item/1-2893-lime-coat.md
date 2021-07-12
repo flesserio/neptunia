@@ -8,7 +8,6 @@ title: Lime Coat (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Player characters who can equip **Lime Coat**](#player-characters-who-can-equip-lime-coat)
-
 ## Basic information
 
 |   |   |

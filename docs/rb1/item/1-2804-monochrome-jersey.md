@@ -9,7 +9,6 @@ title: Monochrome Jersey (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which require **Monochrome Jersey**](#remake-system-plans-which-require-monochrome-jersey)
 - [Player characters who can equip **Monochrome Jersey**](#player-characters-who-can-equip-monochrome-jersey)
-
 ## Basic information
 
 |   |   |

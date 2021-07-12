@@ -10,7 +10,6 @@ title: Venomous Thread (Item) - Hyperdimension Neptunia Re;Birth1
 - [Dungeons **Venomous Thread** is found](#dungeons-venomous-thread-is-found)
 - [Quests which require gathering **Venomous Thread**](#quests-which-require-gathering-venomous-thread)
 - [Remake System plans which require **Venomous Thread**](#remake-system-plans-which-require-venomous-thread)
-
 ## Basic information
 
 |   |   |

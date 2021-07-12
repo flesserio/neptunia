@@ -9,7 +9,6 @@ title: Soul Bracelet (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Soul Bracelet**](#player-characters-who-can-equip-soul-bracelet)
-
 ## Basic information
 
 |   |   |

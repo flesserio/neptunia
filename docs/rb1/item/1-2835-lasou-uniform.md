@@ -10,7 +10,6 @@ title: LASOU Uniform (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Quests which reward **LASOU Uniform**](#quests-which-reward-lasou-uniform)
 - [Player characters who can equip **LASOU Uniform**](#player-characters-who-can-equip-lasou-uniform)
-
 ## Basic information
 
 |   |   |

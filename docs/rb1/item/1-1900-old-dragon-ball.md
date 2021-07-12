@@ -9,7 +9,6 @@ title: Old Dragon...Ball (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Old Dragon...Ball** is found](#dungeons-old-dragonball-is-found)
 - [Remake System plans which require **Old Dragon...Ball**](#remake-system-plans-which-require-old-dragonball)
-
 ## Basic information
 
 |   |   |

@@ -9,7 +9,6 @@ title: Vintage Hat (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Vintage Hat** in shop](#remake-system-plans-which-unlock-vintage-hat-in-shop)
 - [Player characters who can equip **Vintage Hat**](#player-characters-who-can-equip-vintage-hat)
-
 ## Basic information
 
 |   |   |

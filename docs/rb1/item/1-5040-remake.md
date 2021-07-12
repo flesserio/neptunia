@@ -9,7 +9,6 @@ title: Remake (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Remake** is found](#dungeons-remake-is-found)
 - [Colosseum quests which reward **Remake**](#colosseum-quests-which-reward-remake)
-
 ## Basic information
 
 |   |   |

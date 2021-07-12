@@ -9,7 +9,6 @@ title: Feather Hammer+? (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Colosseum quests which reward **Feather Hammer+?**](#colosseum-quests-which-reward-feather-hammer)
 - [Player characters who can equip **Feather Hammer+?**](#player-characters-who-can-equip-feather-hammer)
-
 ## Basic information
 
 |   |   |

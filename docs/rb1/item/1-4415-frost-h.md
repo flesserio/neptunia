@@ -10,7 +10,6 @@ title: Frost H (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Dungeons **Frost H** is found](#dungeons-frost-h-is-found)
 - [Player characters who can equip **Frost H**](#player-characters-who-can-equip-frost-h)
-
 ## Basic information
 
 |   |   |

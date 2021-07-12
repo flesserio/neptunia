@@ -10,7 +10,6 @@ title: Black Cat Ears (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Dungeons **Black Cat Ears** is found](#dungeons-black-cat-ears-is-found)
 - [Player characters who can equip **Black Cat Ears**](#player-characters-who-can-equip-black-cat-ears)
-
 ## Basic information
 
 |   |   |

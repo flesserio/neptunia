@@ -9,7 +9,6 @@ title: Red Seed (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Red Seed** is found](#dungeons-red-seed-is-found)
 - [Remake System plans which require **Red Seed**](#remake-system-plans-which-require-red-seed)
-
 ## Basic information
 
 |   |   |

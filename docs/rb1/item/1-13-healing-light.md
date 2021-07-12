@@ -9,7 +9,6 @@ title: Healing Light (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Healing Light** in shop](#remake-system-plans-which-unlock-healing-light-in-shop)
 - [Dungeons **Healing Light** is found](#dungeons-healing-light-is-found)
-
 ## Basic information
 
 |   |   |

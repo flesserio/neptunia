@@ -8,7 +8,6 @@ title: Used Phone Card (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Colosseum quests which reward **Used Phone Card**](#colosseum-quests-which-reward-used-phone-card)
-
 ## Basic information
 
 |   |   |

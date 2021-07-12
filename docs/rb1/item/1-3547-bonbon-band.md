@@ -8,7 +8,6 @@ title: Bonbon Band (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Player characters who can equip **Bonbon Band**](#player-characters-who-can-equip-bonbon-band)
-
 ## Basic information
 
 |   |   |

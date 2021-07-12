@@ -10,7 +10,6 @@ title: Cradle C (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Player characters who have **Cradle C** equipped by default](#player-characters-who-have-cradle-c-equipped-by-default)
 - [Player characters who can equip **Cradle C**](#player-characters-who-can-equip-cradle-c)
-
 ## Basic information
 
 |   |   |

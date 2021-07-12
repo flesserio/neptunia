@@ -9,7 +9,6 @@ title: Pinch Revival (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Pinch Revival** is found](#dungeons-pinch-revival-is-found)
 - [Colosseum quests which reward **Pinch Revival**](#colosseum-quests-which-reward-pinch-revival)
-
 ## Basic information
 
 |   |   |

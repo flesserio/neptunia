@@ -9,7 +9,6 @@ title: Magical Beasts (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Magical Beasts**](#player-characters-who-can-equip-magical-beasts)
-
 ## Basic information
 
 |   |   |

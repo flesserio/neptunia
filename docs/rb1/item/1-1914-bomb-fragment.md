@@ -9,7 +9,6 @@ title: Bomb Fragment (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Bomb Fragment** is found](#dungeons-bomb-fragment-is-found)
 - [Remake System plans which require **Bomb Fragment**](#remake-system-plans-which-require-bomb-fragment)
-
 ## Basic information
 
 |   |   |

@@ -9,7 +9,6 @@ title: Blue Ribbon (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Blue Ribbon** is found](#dungeons-blue-ribbon-is-found)
 - [Remake System plans which require **Blue Ribbon**](#remake-system-plans-which-require-blue-ribbon)
-
 ## Basic information
 
 |   |   |

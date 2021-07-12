@@ -9,7 +9,6 @@ title: Sweet B (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Sweet B**](#player-characters-who-can-equip-sweet-b)
-
 ## Basic information
 
 |   |   |

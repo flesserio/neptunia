@@ -8,7 +8,6 @@ title: Wahahahaha! (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Dungeons **Wahahahaha!** is found](#dungeons-wahahahaha-is-found)
-
 ## Basic information
 
 |   |   |

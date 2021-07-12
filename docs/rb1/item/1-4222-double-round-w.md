@@ -10,7 +10,6 @@ title: Double Round W (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Dungeons **Double Round W** is found](#dungeons-double-round-w-is-found)
 - [Player characters who can equip **Double Round W**](#player-characters-who-can-equip-double-round-w)
-
 ## Basic information
 
 |   |   |

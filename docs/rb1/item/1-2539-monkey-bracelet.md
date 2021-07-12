@@ -10,7 +10,6 @@ title: Monkey Bracelet (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Colosseum quests which reward **Monkey Bracelet**](#colosseum-quests-which-reward-monkey-bracelet)
 - [Player characters who can equip **Monkey Bracelet**](#player-characters-who-can-equip-monkey-bracelet)
-
 ## Basic information
 
 |   |   |

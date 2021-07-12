@@ -9,7 +9,6 @@ title: Plan: Molten Ring (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **Plan: Molten Ring**](#chirpers-who-give-plan-molten-ring)
 - [Plans added to Remake System after collecting **Plan: Molten Ring**](#plans-added-to-remake-system-after-collecting-plan-molten-ring)
-
 ## Basic information
 
 |   |   |

@@ -9,7 +9,6 @@ title: Asuka Headset (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Quests which reward **Asuka Headset**](#quests-which-reward-asuka-headset)
 - [Player characters who can equip **Asuka Headset**](#player-characters-who-can-equip-asuka-headset)
-
 ## Basic information
 
 |   |   |

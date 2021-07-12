@@ -10,7 +10,6 @@ title: Plutia C (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Remake System plans which unlock **Plutia C** in shop](#remake-system-plans-which-unlock-plutia-c-in-shop)
 - [Player characters who can equip **Plutia C**](#player-characters-who-can-equip-plutia-c)
-
 ## Basic information
 
 |   |   |

@@ -10,7 +10,6 @@ title: Wooden Sword+? (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Colosseum quests which reward **Wooden Sword+?**](#colosseum-quests-which-reward-wooden-sword)
 - [Player characters who can equip **Wooden Sword+?**](#player-characters-who-can-equip-wooden-sword)
-
 ## Basic information
 
 |   |   |

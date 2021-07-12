@@ -9,7 +9,6 @@ title: Royal Knight (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Royal Knight** in shop](#remake-system-plans-which-unlock-royal-knight-in-shop)
 - [Player characters who can equip **Royal Knight**](#player-characters-who-can-equip-royal-knight)
-
 ## Basic information
 
 |   |   |

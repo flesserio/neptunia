@@ -8,7 +8,6 @@ title: Blossom White (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Player characters who can equip **Blossom White**](#player-characters-who-can-equip-blossom-white)
-
 ## Basic information
 
 |   |   |

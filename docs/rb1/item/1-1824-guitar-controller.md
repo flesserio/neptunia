@@ -10,7 +10,6 @@ title: Guitar Controller (Item) - Hyperdimension Neptunia Re;Birth1
 - [Dungeons **Guitar Controller** is found](#dungeons-guitar-controller-is-found)
 - [Quests which require gathering **Guitar Controller**](#quests-which-require-gathering-guitar-controller)
 - [Remake System plans which require **Guitar Controller**](#remake-system-plans-which-require-guitar-controller)
-
 ## Basic information
 
 |   |   |

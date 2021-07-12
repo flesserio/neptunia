@@ -9,7 +9,6 @@ title: Broccoli's Hat (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Player characters who have **Broccoli's Hat** equipped by default](#player-characters-who-have-broccolis-hat-equipped-by-default)
 - [Player characters who can equip **Broccoli's Hat**](#player-characters-who-can-equip-broccolis-hat)
-
 ## Basic information
 
 |   |   |

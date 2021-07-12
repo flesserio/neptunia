@@ -8,7 +8,6 @@ title: Jargon (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Dungeons **Jargon** is found](#dungeons-jargon-is-found)
-
 ## Basic information
 
 |   |   |

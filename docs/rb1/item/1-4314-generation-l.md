@@ -9,7 +9,6 @@ title: Generation L (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Generation L**](#player-characters-who-can-equip-generation-l)
-
 ## Basic information
 
 |   |   |

@@ -9,7 +9,6 @@ title: Illegal SSD (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Illegal SSD** is found](#dungeons-illegal-ssd-is-found)
 - [Remake System plans which require **Illegal SSD**](#remake-system-plans-which-require-illegal-ssd)
-
 ## Basic information
 
 |   |   |

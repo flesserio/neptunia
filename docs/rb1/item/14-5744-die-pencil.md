@@ -9,7 +9,6 @@ title: Die Pencil+? (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Colosseum quests which reward **Die Pencil+?**](#colosseum-quests-which-reward-die-pencil)
 - [Player characters who can equip **Die Pencil+?**](#player-characters-who-can-equip-die-pencil)
-
 ## Basic information
 
 |   |   |

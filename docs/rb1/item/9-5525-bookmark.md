@@ -10,7 +10,6 @@ title: Bookmark (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Player characters who have **Bookmark** equipped by default](#player-characters-who-have-bookmark-equipped-by-default)
 - [Player characters who can equip **Bookmark**](#player-characters-who-can-equip-bookmark)
-
 ## Basic information
 
 |   |   |

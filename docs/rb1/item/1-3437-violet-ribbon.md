@@ -9,7 +9,6 @@ title: Violet Ribbon (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Violet Ribbon** in shop](#remake-system-plans-which-unlock-violet-ribbon-in-shop)
 - [Player characters who can equip **Violet Ribbon**](#player-characters-who-can-equip-violet-ribbon)
-
 ## Basic information
 
 |   |   |

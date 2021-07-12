@@ -10,7 +10,6 @@ title: Angel C (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Remake System plans which unlock **Angel C** in shop](#remake-system-plans-which-unlock-angel-c-in-shop)
 - [Player characters who can equip **Angel C**](#player-characters-who-can-equip-angel-c)
-
 ## Basic information
 
 |   |   |

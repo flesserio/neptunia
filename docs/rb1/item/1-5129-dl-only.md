@@ -8,7 +8,6 @@ title: DL Only (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Dungeons **DL Only** is found](#dungeons-dl-only-is-found)
-
 ## Basic information
 
 |   |   |

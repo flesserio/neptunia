@@ -10,7 +10,6 @@ title: Matango Spore (Item) - Hyperdimension Neptunia Re;Birth1
 - [Dungeons **Matango Spore** is found](#dungeons-matango-spore-is-found)
 - [Quests which require gathering **Matango Spore**](#quests-which-require-gathering-matango-spore)
 - [Remake System plans which require **Matango Spore**](#remake-system-plans-which-require-matango-spore)
-
 ## Basic information
 
 |   |   |

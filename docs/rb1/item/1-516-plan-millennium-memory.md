@@ -9,7 +9,6 @@ title: Plan: Millennium Memory (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Plans added to Remake System after collecting **Plan: Millennium Memory**](#plans-added-to-remake-system-after-collecting-plan-millennium-memory)
 - [Dungeons **Plan: Millennium Memory** is found](#dungeons-plan-millennium-memory-is-found)
-
 ## Basic information
 
 |   |   |

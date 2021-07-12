@@ -9,7 +9,6 @@ title: Flamin' Wing (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Flamin' Wing** is found](#dungeons-flamin-wing-is-found)
 - [Remake System plans which require **Flamin' Wing**](#remake-system-plans-which-require-flamin-wing)
-
 ## Basic information
 
 |   |   |

@@ -10,7 +10,6 @@ title: Miharu (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Remake System plans which unlock **Miharu** in shop](#remake-system-plans-which-unlock-miharu-in-shop)
 - [Player characters who can equip **Miharu**](#player-characters-who-can-equip-miharu)
-
 ## Basic information
 
 |   |   |

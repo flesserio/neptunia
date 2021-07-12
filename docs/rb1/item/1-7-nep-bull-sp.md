@@ -9,7 +9,6 @@ title: Nep Bull SP (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Nep Bull SP** in shop](#remake-system-plans-which-unlock-nep-bull-sp-in-shop)
 - [Colosseum quests which reward **Nep Bull SP**](#colosseum-quests-which-reward-nep-bull-sp)
-
 ## Basic information
 
 |   |   |

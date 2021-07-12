@@ -9,7 +9,6 @@ title: Iris Bunny (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Iris Bunny** in shop](#remake-system-plans-which-unlock-iris-bunny-in-shop)
 - [Player characters who can equip **Iris Bunny**](#player-characters-who-can-equip-iris-bunny)
-
 ## Basic information
 
 |   |   |

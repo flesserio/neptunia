@@ -9,7 +9,6 @@ title: All Nighter (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **All Nighter** is found](#dungeons-all-nighter-is-found)
 - [Quests which reward **All Nighter**](#quests-which-reward-all-nighter)
-
 ## Basic information
 
 |   |   |

@@ -10,7 +10,6 @@ title: Short Sword (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Player characters who have **Short Sword** equipped by default](#player-characters-who-have-short-sword-equipped-by-default)
 - [Player characters who can equip **Short Sword**](#player-characters-who-can-equip-short-sword)
-
 ## Basic information
 
 |   |   |

@@ -10,7 +10,6 @@ title: Diethyl Ether (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Remake System plans which unlock **Diethyl Ether** in shop](#remake-system-plans-which-unlock-diethyl-ether-in-shop)
 - [Player characters who can equip **Diethyl Ether**](#player-characters-who-can-equip-diethyl-ether)
-
 ## Basic information
 
 |   |   |

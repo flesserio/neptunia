@@ -10,7 +10,6 @@ title: Hyper Beam Saber (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Colosseum quests which reward **Hyper Beam Saber**](#colosseum-quests-which-reward-hyper-beam-saber)
 - [Player characters who can equip **Hyper Beam Saber**](#player-characters-who-can-equip-hyper-beam-saber)
-
 ## Basic information
 
 |   |   |

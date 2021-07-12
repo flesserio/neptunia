@@ -10,7 +10,6 @@ title: Negative Bark (Item) - Hyperdimension Neptunia Re;Birth1
 - [Dungeons **Negative Bark** is found](#dungeons-negative-bark-is-found)
 - [Quests which require gathering **Negative Bark**](#quests-which-require-gathering-negative-bark)
 - [Remake System plans which require **Negative Bark**](#remake-system-plans-which-require-negative-bark)
-
 ## Basic information
 
 |   |   |

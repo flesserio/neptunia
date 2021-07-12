@@ -8,7 +8,6 @@ title: Nep Bull EX II (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Nep Bull EX II** in shop](#remake-system-plans-which-unlock-nep-bull-ex-ii-in-shop)
-
 ## Basic information
 
 |   |   |

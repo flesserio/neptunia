@@ -11,7 +11,6 @@ title: Time Bangle (Item) - Hyperdimension Neptunia Re;Birth1
 - [Remake System plans which unlock **Time Bangle** in shop](#remake-system-plans-which-unlock-time-bangle-in-shop)
 - [Remake System plans which require **Time Bangle**](#remake-system-plans-which-require-time-bangle)
 - [Player characters who can equip **Time Bangle**](#player-characters-who-can-equip-time-bangle)
-
 ## Basic information
 
 |   |   |

@@ -9,7 +9,6 @@ title: Pixel Antenna (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Pixel Antenna** is found](#dungeons-pixel-antenna-is-found)
 - [Remake System plans which require **Pixel Antenna**](#remake-system-plans-which-require-pixel-antenna)
-
 ## Basic information
 
 |   |   |

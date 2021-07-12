@@ -9,7 +9,6 @@ title: Phantom Wolf Claw (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Phantom Wolf Claw** is found](#dungeons-phantom-wolf-claw-is-found)
 - [Remake System plans which require **Phantom Wolf Claw**](#remake-system-plans-which-require-phantom-wolf-claw)
-
 ## Basic information
 
 |   |   |

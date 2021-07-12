@@ -8,7 +8,6 @@ title: Magical Shell (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Dungeons **Magical Shell** is found](#dungeons-magical-shell-is-found)
-
 ## Basic information
 
 |   |   |

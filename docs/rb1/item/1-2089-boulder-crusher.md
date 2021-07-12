@@ -9,7 +9,6 @@ title: Boulder Crusher (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Boulder Crusher**](#player-characters-who-can-equip-boulder-crusher)
-
 ## Basic information
 
 |   |   |

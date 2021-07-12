@@ -9,7 +9,6 @@ title: Sweet L (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Sweet L**](#player-characters-who-can-equip-sweet-l)
-
 ## Basic information
 
 |   |   |

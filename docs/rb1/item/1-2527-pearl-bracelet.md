@@ -9,7 +9,6 @@ title: Pearl Bracelet (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Pearl Bracelet**](#player-characters-who-can-equip-pearl-bracelet)
-
 ## Basic information
 
 |   |   |

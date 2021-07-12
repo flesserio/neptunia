@@ -7,7 +7,6 @@ title: Add Colosseum Fight 4 (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
-
 ## Basic information
 
 |   |   |

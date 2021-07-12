@@ -9,7 +9,6 @@ title: Mega Beam Saber (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Mega Beam Saber**](#player-characters-who-can-equip-mega-beam-saber)
-
 ## Basic information
 
 |   |   |

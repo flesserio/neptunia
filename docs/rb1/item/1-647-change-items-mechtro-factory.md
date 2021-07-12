@@ -9,7 +9,6 @@ title: Change Items: Mechtro Factory (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **Change Items: Mechtro Factory**](#chirpers-who-give-change-items-mechtro-factory)
 - [Plans added to Remake System after collecting **Change Items: Mechtro Factory**](#plans-added-to-remake-system-after-collecting-change-items-mechtro-factory)
-
 ## Basic information
 
 |   |   |

@@ -9,7 +9,6 @@ title: Add Dungeon: Adjiten Forest Pass (Item) - Hyperdimension Neptunia Re;Birt
 - [Basic information](#basic-information)
 - [Chirpers who give **Add Dungeon: Adjiten Forest Pass**](#chirpers-who-give-add-dungeon-adjiten-forest-pass)
 - [Plans added to Remake System after collecting **Add Dungeon: Adjiten Forest Pass**](#plans-added-to-remake-system-after-collecting-add-dungeon-adjiten-forest-pass)
-
 ## Basic information
 
 |   |   |

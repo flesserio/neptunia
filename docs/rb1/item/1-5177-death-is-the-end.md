@@ -8,7 +8,6 @@ title: Death is The End (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Dungeons **Death is The End** is found](#dungeons-death-is-the-end-is-found)
-
 ## Basic information
 
 |   |   |

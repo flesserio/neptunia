@@ -10,7 +10,6 @@ title: Shaking Leaf (Item) - Hyperdimension Neptunia Re;Birth1
 - [Dungeons **Shaking Leaf** is found](#dungeons-shaking-leaf-is-found)
 - [Quests which require gathering **Shaking Leaf**](#quests-which-require-gathering-shaking-leaf)
 - [Remake System plans which require **Shaking Leaf**](#remake-system-plans-which-require-shaking-leaf)
-
 ## Basic information
 
 |   |   |

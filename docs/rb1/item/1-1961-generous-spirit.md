@@ -9,7 +9,6 @@ title: Generous Spirit (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Generous Spirit** is found](#dungeons-generous-spirit-is-found)
 - [Remake System plans which require **Generous Spirit**](#remake-system-plans-which-require-generous-spirit)
-
 ## Basic information
 
 |   |   |

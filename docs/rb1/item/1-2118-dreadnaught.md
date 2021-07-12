@@ -10,7 +10,6 @@ title: Dreadnaught (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Colosseum quests which reward **Dreadnaught**](#colosseum-quests-which-reward-dreadnaught)
 - [Player characters who can equip **Dreadnaught**](#player-characters-who-can-equip-dreadnaught)
-
 ## Basic information
 
 |   |   |

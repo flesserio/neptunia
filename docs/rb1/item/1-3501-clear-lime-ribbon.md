@@ -9,7 +9,6 @@ title: Clear Lime Ribbon (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Clear Lime Ribbon** in shop](#remake-system-plans-which-unlock-clear-lime-ribbon-in-shop)
 - [Player characters who can equip **Clear Lime Ribbon**](#player-characters-who-can-equip-clear-lime-ribbon)
-
 ## Basic information
 
 |   |   |

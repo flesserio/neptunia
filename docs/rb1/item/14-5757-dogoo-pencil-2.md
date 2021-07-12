@@ -9,7 +9,6 @@ title: Dogoo Pencil+2 (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Dogoo Pencil+2**](#player-characters-who-can-equip-dogoo-pencil-2)
-
 ## Basic information
 
 |   |   |

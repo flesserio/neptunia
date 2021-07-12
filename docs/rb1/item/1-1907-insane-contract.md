@@ -10,7 +10,6 @@ title: Insane Contract (Item) - Hyperdimension Neptunia Re;Birth1
 - [Dungeons **Insane Contract** is found](#dungeons-insane-contract-is-found)
 - [Quests which require gathering **Insane Contract**](#quests-which-require-gathering-insane-contract)
 - [Remake System plans which require **Insane Contract**](#remake-system-plans-which-require-insane-contract)
-
 ## Basic information
 
 |   |   |

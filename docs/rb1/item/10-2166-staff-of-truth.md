@@ -10,7 +10,6 @@ title: Staff of Truth (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Dungeons **Staff of Truth** is found](#dungeons-staff-of-truth-is-found)
 - [Player characters who can equip **Staff of Truth**](#player-characters-who-can-equip-staff-of-truth)
-
 ## Basic information
 
 |   |   |

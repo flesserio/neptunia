@@ -8,7 +8,6 @@ title: Open-ended (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Dungeons **Open-ended** is found](#dungeons-open-ended-is-found)
-
 ## Basic information
 
 |   |   |

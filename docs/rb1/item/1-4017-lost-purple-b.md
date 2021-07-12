@@ -9,7 +9,6 @@ title: Lost Purple B (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Lost Purple B**](#player-characters-who-can-equip-lost-purple-b)
-
 ## Basic information
 
 |   |   |

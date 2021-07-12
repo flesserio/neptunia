@@ -8,7 +8,6 @@ title: Yuriyuri (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Dungeons **Yuriyuri** is found](#dungeons-yuriyuri-is-found)
-
 ## Basic information
 
 |   |   |

@@ -9,7 +9,6 @@ title: Histy's Bookmark (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Histy's Bookmark**](#player-characters-who-can-equip-histys-bookmark)
-
 ## Basic information
 
 |   |   |

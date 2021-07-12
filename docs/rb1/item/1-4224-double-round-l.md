@@ -10,7 +10,6 @@ title: Double Round L (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Dungeons **Double Round L** is found](#dungeons-double-round-l-is-found)
 - [Player characters who can equip **Double Round L**](#player-characters-who-can-equip-double-round-l)
-
 ## Basic information
 
 |   |   |

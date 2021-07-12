@@ -9,7 +9,6 @@ title: Broccoli's Clothes (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Player characters who have **Broccoli's Clothes** equipped by default](#player-characters-who-have-broccolis-clothes-equipped-by-default)
 - [Player characters who can equip **Broccoli's Clothes**](#player-characters-who-can-equip-broccolis-clothes)
-
 ## Basic information
 
 |   |   |

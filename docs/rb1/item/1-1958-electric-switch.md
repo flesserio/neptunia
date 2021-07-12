@@ -9,7 +9,6 @@ title: Electric Switch (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Electric Switch** is found](#dungeons-electric-switch-is-found)
 - [Remake System plans which require **Electric Switch**](#remake-system-plans-which-require-electric-switch)
-
 ## Basic information
 
 |   |   |

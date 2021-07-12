@@ -9,7 +9,6 @@ title: Item Drop Rate Up (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Plans added to Remake System after collecting **Item Drop Rate Up**](#plans-added-to-remake-system-after-collecting-item-drop-rate-up)
 - [Dungeons **Item Drop Rate Up** is found](#dungeons-item-drop-rate-up-is-found)
-
 ## Basic information
 
 |   |   |

@@ -10,7 +10,6 @@ title: Orbital-S W (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Quests which reward **Orbital-S W**](#quests-which-reward-orbital-s-w)
 - [Player characters who can equip **Orbital-S W**](#player-characters-who-can-equip-orbital-s-w)
-
 ## Basic information
 
 |   |   |

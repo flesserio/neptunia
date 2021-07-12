@@ -9,7 +9,6 @@ title: Plan: Prominence Badge (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Plans added to Remake System after collecting **Plan: Prominence Badge**](#plans-added-to-remake-system-after-collecting-plan-prominence-badge)
 - [Dungeons **Plan: Prominence Badge** is found](#dungeons-plan-prominence-badge-is-found)
-
 ## Basic information
 
 |   |   |

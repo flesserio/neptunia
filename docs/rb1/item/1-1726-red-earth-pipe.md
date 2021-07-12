@@ -9,7 +9,6 @@ title: Red Earth Pipe (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Red Earth Pipe** is found](#dungeons-red-earth-pipe-is-found)
 - [Remake System plans which require **Red Earth Pipe**](#remake-system-plans-which-require-red-earth-pipe)
-
 ## Basic information
 
 |   |   |

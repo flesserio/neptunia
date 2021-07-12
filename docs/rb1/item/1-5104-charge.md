@@ -8,7 +8,6 @@ title: Charge (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Dungeons **Charge** is found](#dungeons-charge-is-found)
-
 ## Basic information
 
 |   |   |

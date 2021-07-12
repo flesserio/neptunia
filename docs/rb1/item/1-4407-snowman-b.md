@@ -9,7 +9,6 @@ title: Snowman B (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Snowman B**](#player-characters-who-can-equip-snowman-b)
-
 ## Basic information
 
 |   |   |

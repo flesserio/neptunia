@@ -10,7 +10,6 @@ title: Taurus Rod (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Colosseum quests which reward **Taurus Rod**](#colosseum-quests-which-reward-taurus-rod)
 - [Player characters who can equip **Taurus Rod**](#player-characters-who-can-equip-taurus-rod)
-
 ## Basic information
 
 |   |   |

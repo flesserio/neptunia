@@ -9,7 +9,6 @@ title: Lucky Dogoo Pencil (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Lucky Dogoo Pencil**](#player-characters-who-can-equip-lucky-dogoo-pencil)
-
 ## Basic information
 
 |   |   |

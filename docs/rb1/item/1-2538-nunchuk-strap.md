@@ -10,7 +10,6 @@ title: Nunchuk Strap (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Colosseum quests which reward **Nunchuk Strap**](#colosseum-quests-which-reward-nunchuk-strap)
 - [Player characters who can equip **Nunchuk Strap**](#player-characters-who-can-equip-nunchuk-strap)
-
 ## Basic information
 
 |   |   |

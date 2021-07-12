@@ -9,7 +9,6 @@ title: Cool Style (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which require **Cool Style**](#remake-system-plans-which-require-cool-style)
 - [Player characters who can equip **Cool Style**](#player-characters-who-can-equip-cool-style)
-
 ## Basic information
 
 |   |   |

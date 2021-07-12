@@ -9,7 +9,6 @@ title: Magic Stone (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Magic Stone** is found](#dungeons-magic-stone-is-found)
 - [Remake System plans which require **Magic Stone**](#remake-system-plans-which-require-magic-stone)
-
 ## Basic information
 
 |   |   |

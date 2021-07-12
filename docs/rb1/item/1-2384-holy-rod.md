@@ -10,7 +10,6 @@ title: Holy Rod (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Dungeons **Holy Rod** is found](#dungeons-holy-rod-is-found)
 - [Player characters who can equip **Holy Rod**](#player-characters-who-can-equip-holy-rod)
-
 ## Basic information
 
 |   |   |

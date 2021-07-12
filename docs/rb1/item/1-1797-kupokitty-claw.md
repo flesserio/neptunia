@@ -9,7 +9,6 @@ title: Kupokitty Claw (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Kupokitty Claw** is found](#dungeons-kupokitty-claw-is-found)
 - [Remake System plans which require **Kupokitty Claw**](#remake-system-plans-which-require-kupokitty-claw)
-
 ## Basic information
 
 |   |   |

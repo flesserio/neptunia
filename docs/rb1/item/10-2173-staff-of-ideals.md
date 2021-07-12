@@ -10,7 +10,6 @@ title: Staff of Ideals (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Dungeons **Staff of Ideals** is found](#dungeons-staff-of-ideals-is-found)
 - [Player characters who can equip **Staff of Ideals**](#player-characters-who-can-equip-staff-of-ideals)
-
 ## Basic information
 
 |   |   |

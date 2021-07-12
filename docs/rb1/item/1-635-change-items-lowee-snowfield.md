@@ -9,7 +9,6 @@ title: Change Items: Lowee Snowfield (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **Change Items: Lowee Snowfield**](#chirpers-who-give-change-items-lowee-snowfield)
 - [Plans added to Remake System after collecting **Change Items: Lowee Snowfield**](#plans-added-to-remake-system-after-collecting-change-items-lowee-snowfield)
-
 ## Basic information
 
 |   |   |

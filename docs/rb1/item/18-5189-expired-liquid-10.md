@@ -10,7 +10,6 @@ title: Expired Liquid+10 (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Colosseum quests which reward **Expired Liquid+10**](#colosseum-quests-which-reward-expired-liquid-10)
 - [Player characters who can equip **Expired Liquid+10**](#player-characters-who-can-equip-expired-liquid-10)
-
 ## Basic information
 
 |   |   |

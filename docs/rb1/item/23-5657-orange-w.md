@@ -10,7 +10,6 @@ title: Orange W (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Player characters who have **Orange W** equipped by default](#player-characters-who-have-orange-w-equipped-by-default)
 - [Player characters who can equip **Orange W**](#player-characters-who-can-equip-orange-w)
-
 ## Basic information
 
 |   |   |

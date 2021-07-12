@@ -9,7 +9,6 @@ title: Ganglord Mask (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Ganglord Mask** is found](#dungeons-ganglord-mask-is-found)
 - [Remake System plans which require **Ganglord Mask**](#remake-system-plans-which-require-ganglord-mask)
-
 ## Basic information
 
 |   |   |

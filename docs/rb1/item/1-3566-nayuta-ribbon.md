@@ -9,7 +9,6 @@ title: Nayuta Ribbon (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Nayuta Ribbon** is found](#dungeons-nayuta-ribbon-is-found)
 - [Player characters who can equip **Nayuta Ribbon**](#player-characters-who-can-equip-nayuta-ribbon)
-
 ## Basic information
 
 |   |   |

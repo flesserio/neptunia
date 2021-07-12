@@ -8,7 +8,6 @@ title: Pleiades Hat (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Player characters who can equip **Pleiades Hat**](#player-characters-who-can-equip-pleiades-hat)
-
 ## Basic information
 
 |   |   |

@@ -10,7 +10,6 @@ title: God Machine (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Dungeons **God Machine** is found](#dungeons-god-machine-is-found)
 - [Player characters who can equip **God Machine**](#player-characters-who-can-equip-god-machine)
-
 ## Basic information
 
 |   |   |

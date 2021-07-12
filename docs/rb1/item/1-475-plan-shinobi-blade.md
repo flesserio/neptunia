@@ -9,7 +9,6 @@ title: Plan: Shinobi Blade (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **Plan: Shinobi Blade**](#chirpers-who-give-plan-shinobi-blade)
 - [Plans added to Remake System after collecting **Plan: Shinobi Blade**](#plans-added-to-remake-system-after-collecting-plan-shinobi-blade)
-
 ## Basic information
 
 |   |   |

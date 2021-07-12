@@ -9,7 +9,6 @@ title: Mithril Ore (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Mithril Ore** is found](#dungeons-mithril-ore-is-found)
 - [Remake System plans which require **Mithril Ore**](#remake-system-plans-which-require-mithril-ore)
-
 ## Basic information
 
 |   |   |

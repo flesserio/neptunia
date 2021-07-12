@@ -10,7 +10,6 @@ title: Fuzzy Charm (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Dungeons **Fuzzy Charm** is found](#dungeons-fuzzy-charm-is-found)
 - [Player characters who can equip **Fuzzy Charm**](#player-characters-who-can-equip-fuzzy-charm)
-
 ## Basic information
 
 |   |   |

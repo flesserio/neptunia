@@ -9,7 +9,6 @@ title: Measurements B (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Measurements B**](#player-characters-who-can-equip-measurements-b)
-
 ## Basic information
 
 |   |   |

@@ -8,7 +8,6 @@ title: Sapphire Ribbon (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Player characters who can equip **Sapphire Ribbon**](#player-characters-who-can-equip-sapphire-ribbon)
-
 ## Basic information
 
 |   |   |

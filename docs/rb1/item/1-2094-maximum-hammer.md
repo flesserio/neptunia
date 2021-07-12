@@ -9,7 +9,6 @@ title: Maximum Hammer (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Maximum Hammer**](#player-characters-who-can-equip-maximum-hammer)
-
 ## Basic information
 
 |   |   |

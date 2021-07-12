@@ -9,7 +9,6 @@ title: Add Enemies: MS Mountain (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **Add Enemies: MS Mountain**](#chirpers-who-give-add-enemies-ms-mountain)
 - [Plans added to Remake System after collecting **Add Enemies: MS Mountain**](#plans-added-to-remake-system-after-collecting-add-enemies-ms-mountain)
-
 ## Basic information
 
 |   |   |

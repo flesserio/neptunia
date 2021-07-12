@@ -10,7 +10,6 @@ title: White Kitty Strap (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Colosseum quests which reward **White Kitty Strap**](#colosseum-quests-which-reward-white-kitty-strap)
 - [Player characters who can equip **White Kitty Strap**](#player-characters-who-can-equip-white-kitty-strap)
-
 ## Basic information
 
 |   |   |

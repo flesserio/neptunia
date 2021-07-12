@@ -9,7 +9,6 @@ title: Add Enemies: Noma Cave (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **Add Enemies: Noma Cave**](#chirpers-who-give-add-enemies-noma-cave)
 - [Plans added to Remake System after collecting **Add Enemies: Noma Cave**](#plans-added-to-remake-system-after-collecting-add-enemies-noma-cave)
-
 ## Basic information
 
 |   |   |

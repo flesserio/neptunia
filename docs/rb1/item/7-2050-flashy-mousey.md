@@ -9,7 +9,6 @@ title: Flashy Mousey (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Flashy Mousey**](#player-characters-who-can-equip-flashy-mousey)
-
 ## Basic information
 
 |   |   |

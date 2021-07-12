@@ -9,7 +9,6 @@ title: Blau Beret (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Blau Beret** in shop](#remake-system-plans-which-unlock-blau-beret-in-shop)
 - [Player characters who can equip **Blau Beret**](#player-characters-who-can-equip-blau-beret)
-
 ## Basic information
 
 |   |   |

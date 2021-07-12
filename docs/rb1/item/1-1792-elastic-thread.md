@@ -9,7 +9,6 @@ title: Elastic Thread (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Elastic Thread** is found](#dungeons-elastic-thread-is-found)
 - [Remake System plans which require **Elastic Thread**](#remake-system-plans-which-require-elastic-thread)
-
 ## Basic information
 
 |   |   |

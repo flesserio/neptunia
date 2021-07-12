@@ -8,7 +8,6 @@ title: Combined (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Dungeons **Combined** is found](#dungeons-combined-is-found)
-
 ## Basic information
 
 |   |   |

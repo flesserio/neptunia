@@ -10,7 +10,6 @@ title: Shinobi Blade (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Remake System plans which unlock **Shinobi Blade** in shop](#remake-system-plans-which-unlock-shinobi-blade-in-shop)
 - [Player characters who can equip **Shinobi Blade**](#player-characters-who-can-equip-shinobi-blade)
-
 ## Basic information
 
 |   |   |

@@ -10,7 +10,6 @@ title: Rune Caliber (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Colosseum quests which reward **Rune Caliber**](#colosseum-quests-which-reward-rune-caliber)
 - [Player characters who can equip **Rune Caliber**](#player-characters-who-can-equip-rune-caliber)
-
 ## Basic information
 
 |   |   |

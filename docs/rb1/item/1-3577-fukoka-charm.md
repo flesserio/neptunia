@@ -9,7 +9,6 @@ title: Fukoka Charm (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Player characters who have **Fukoka Charm** equipped by default](#player-characters-who-have-fukoka-charm-equipped-by-default)
 - [Player characters who can equip **Fukoka Charm**](#player-characters-who-can-equip-fukoka-charm)
-
 ## Basic information
 
 |   |   |

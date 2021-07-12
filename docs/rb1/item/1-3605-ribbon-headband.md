@@ -10,7 +10,6 @@ title: Ribbon Headband (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Dungeons **Ribbon Headband** is found](#dungeons-ribbon-headband-is-found)
 - [Player characters who can equip **Ribbon Headband**](#player-characters-who-can-equip-ribbon-headband)
-
 ## Basic information
 
 |   |   |

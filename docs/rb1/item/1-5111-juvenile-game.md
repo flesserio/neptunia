@@ -9,7 +9,6 @@ title: Juvenile Game (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Juvenile Game** is found](#dungeons-juvenile-game-is-found)
 - [Colosseum quests which reward **Juvenile Game**](#colosseum-quests-which-reward-juvenile-game)
-
 ## Basic information
 
 |   |   |

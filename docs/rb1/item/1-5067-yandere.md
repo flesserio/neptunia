@@ -8,7 +8,6 @@ title: Yandere (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Dungeons **Yandere** is found](#dungeons-yandere-is-found)
-
 ## Basic information
 
 |   |   |

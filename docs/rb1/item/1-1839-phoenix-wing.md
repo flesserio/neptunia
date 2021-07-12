@@ -9,7 +9,6 @@ title: Phoenix Wing (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Phoenix Wing** is found](#dungeons-phoenix-wing-is-found)
 - [Remake System plans which require **Phoenix Wing**](#remake-system-plans-which-require-phoenix-wing)
-
 ## Basic information
 
 |   |   |

@@ -10,7 +10,6 @@ title: Secret Scroll (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Player characters who have **Secret Scroll** equipped by default](#player-characters-who-have-secret-scroll-equipped-by-default)
 - [Player characters who can equip **Secret Scroll**](#player-characters-who-can-equip-secret-scroll)
-
 ## Basic information
 
 |   |   |

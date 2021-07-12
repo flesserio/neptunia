@@ -9,7 +9,6 @@ title: Iron Fragment (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Iron Fragment** is found](#dungeons-iron-fragment-is-found)
 - [Remake System plans which require **Iron Fragment**](#remake-system-plans-which-require-iron-fragment)
-
 ## Basic information
 
 |   |   |

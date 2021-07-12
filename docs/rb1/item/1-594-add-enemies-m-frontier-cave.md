@@ -9,7 +9,6 @@ title: Add Enemies: M-Frontier Cave (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **Add Enemies: M-Frontier Cave**](#chirpers-who-give-add-enemies-m-frontier-cave)
 - [Plans added to Remake System after collecting **Add Enemies: M-Frontier Cave**](#plans-added-to-remake-system-after-collecting-add-enemies-m-frontier-cave)
-
 ## Basic information
 
 |   |   |

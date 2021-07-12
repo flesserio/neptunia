@@ -9,7 +9,6 @@ title: Dogoo Pencil+? (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Colosseum quests which reward **Dogoo Pencil+?**](#colosseum-quests-which-reward-dogoo-pencil)
 - [Player characters who can equip **Dogoo Pencil+?**](#player-characters-who-can-equip-dogoo-pencil)
-
 ## Basic information
 
 |   |   |

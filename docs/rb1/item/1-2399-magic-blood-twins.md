@@ -10,7 +10,6 @@ title: Magic Blood Twins (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Colosseum quests which reward **Magic Blood Twins**](#colosseum-quests-which-reward-magic-blood-twins)
 - [Player characters who can equip **Magic Blood Twins**](#player-characters-who-can-equip-magic-blood-twins)
-
 ## Basic information
 
 |   |   |

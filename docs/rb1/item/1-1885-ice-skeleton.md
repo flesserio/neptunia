@@ -9,7 +9,6 @@ title: Ice Skeleton (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Ice Skeleton** is found](#dungeons-ice-skeleton-is-found)
 - [Remake System plans which require **Ice Skeleton**](#remake-system-plans-which-require-ice-skeleton)
-
 ## Basic information
 
 |   |   |

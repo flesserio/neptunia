@@ -10,7 +10,6 @@ title: Lord Lance (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Remake System plans which unlock **Lord Lance** in shop](#remake-system-plans-which-unlock-lord-lance-in-shop)
 - [Player characters who can equip **Lord Lance**](#player-characters-who-can-equip-lord-lance)
-
 ## Basic information
 
 |   |   |

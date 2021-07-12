@@ -9,7 +9,6 @@ title: Mage Staff+? (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Colosseum quests which reward **Mage Staff+?**](#colosseum-quests-which-reward-mage-staff)
 - [Player characters who can equip **Mage Staff+?**](#player-characters-who-can-equip-mage-staff)
-
 ## Basic information
 
 |   |   |

@@ -10,7 +10,6 @@ title: Busted Headphones (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Dungeons **Busted Headphones** is found](#dungeons-busted-headphones-is-found)
 - [Player characters who can equip **Busted Headphones**](#player-characters-who-can-equip-busted-headphones)
-
 ## Basic information
 
 |   |   |

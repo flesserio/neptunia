@@ -9,7 +9,6 @@ title: Teratoxin (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Teratoxin**](#player-characters-who-can-equip-teratoxin)
-
 ## Basic information
 
 |   |   |

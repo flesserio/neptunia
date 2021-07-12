@@ -9,7 +9,6 @@ title: Dragon Claw (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Dragon Claw** is found](#dungeons-dragon-claw-is-found)
 - [Remake System plans which require **Dragon Claw**](#remake-system-plans-which-require-dragon-claw)
-
 ## Basic information
 
 |   |   |

@@ -9,7 +9,6 @@ title: Add Dungeon: Naasne Volcano (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Plans added to Remake System after collecting **Add Dungeon: Naasne Volcano**](#plans-added-to-remake-system-after-collecting-add-dungeon-naasne-volcano)
 - [Dungeons **Add Dungeon: Naasne Volcano** is found](#dungeons-add-dungeon-naasne-volcano-is-found)
-
 ## Basic information
 
 |   |   |

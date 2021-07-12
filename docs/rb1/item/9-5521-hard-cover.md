@@ -9,7 +9,6 @@ title: Hard Cover (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Hard Cover**](#player-characters-who-can-equip-hard-cover)
-
 ## Basic information
 
 |   |   |

@@ -9,7 +9,6 @@ title: Ancient...Thing (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Ancient...Thing** is found](#dungeons-ancientthing-is-found)
 - [Remake System plans which require **Ancient...Thing**](#remake-system-plans-which-require-ancientthing)
-
 ## Basic information
 
 |   |   |

@@ -9,7 +9,6 @@ title: Add Dungeon: Ortan Fields (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Plans added to Remake System after collecting **Add Dungeon: Ortan Fields**](#plans-added-to-remake-system-after-collecting-add-dungeon-ortan-fields)
 - [Dungeons **Add Dungeon: Ortan Fields** is found](#dungeons-add-dungeon-ortan-fields-is-found)
-
 ## Basic information
 
 |   |   |

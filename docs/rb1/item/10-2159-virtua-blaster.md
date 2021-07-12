@@ -10,7 +10,6 @@ title: Virtua Blaster (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Dungeons **Virtua Blaster** is found](#dungeons-virtua-blaster-is-found)
 - [Player characters who can equip **Virtua Blaster**](#player-characters-who-can-equip-virtua-blaster)
-
 ## Basic information
 
 |   |   |

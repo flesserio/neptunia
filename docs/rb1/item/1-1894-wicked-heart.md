@@ -9,7 +9,6 @@ title: Wicked Heart (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Wicked Heart** is found](#dungeons-wicked-heart-is-found)
 - [Remake System plans which require **Wicked Heart**](#remake-system-plans-which-require-wicked-heart)
-
 ## Basic information
 
 |   |   |

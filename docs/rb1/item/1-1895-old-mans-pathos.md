@@ -10,7 +10,6 @@ title: Old Man's Pathos (Item) - Hyperdimension Neptunia Re;Birth1
 - [Dungeons **Old Man's Pathos** is found](#dungeons-old-mans-pathos-is-found)
 - [Quests which require gathering **Old Man's Pathos**](#quests-which-require-gathering-old-mans-pathos)
 - [Remake System plans which require **Old Man's Pathos**](#remake-system-plans-which-require-old-mans-pathos)
-
 ## Basic information
 
 |   |   |

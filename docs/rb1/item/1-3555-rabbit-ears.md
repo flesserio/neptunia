@@ -9,7 +9,6 @@ title: Rabbit Ears (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Rabbit Ears** is found](#dungeons-rabbit-ears-is-found)
 - [Player characters who can equip **Rabbit Ears**](#player-characters-who-can-equip-rabbit-ears)
-
 ## Basic information
 
 |   |   |

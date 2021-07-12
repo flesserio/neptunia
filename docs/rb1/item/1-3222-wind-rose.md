@@ -8,7 +8,6 @@ title: Wind Rose (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Player characters who can equip **Wind Rose**](#player-characters-who-can-equip-wind-rose)
-
 ## Basic information
 
 |   |   |

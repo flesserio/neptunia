@@ -9,7 +9,6 @@ title: Blood Dress Type-V (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which require **Blood Dress Type-V**](#remake-system-plans-which-require-blood-dress-type-v)
 - [Player characters who can equip **Blood Dress Type-V**](#player-characters-who-can-equip-blood-dress-type-v)
-
 ## Basic information
 
 |   |   |

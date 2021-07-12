@@ -9,7 +9,6 @@ title: Stone L (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Stone L**](#player-characters-who-can-equip-stone-l)
-
 ## Basic information
 
 |   |   |

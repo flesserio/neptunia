@@ -8,7 +8,6 @@ title: Color Editor (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Dungeons **Color Editor** is found](#dungeons-color-editor-is-found)
-
 ## Basic information
 
 |   |   |

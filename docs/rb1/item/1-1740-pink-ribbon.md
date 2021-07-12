@@ -9,7 +9,6 @@ title: Pink Ribbon (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Pink Ribbon** is found](#dungeons-pink-ribbon-is-found)
 - [Remake System plans which require **Pink Ribbon**](#remake-system-plans-which-require-pink-ribbon)
-
 ## Basic information
 
 |   |   |

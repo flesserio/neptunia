@@ -9,7 +9,6 @@ title: B.K. Tekken Deity (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **B.K. Tekken Deity**](#player-characters-who-can-equip-bk-tekken-deity)
-
 ## Basic information
 
 |   |   |

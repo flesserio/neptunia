@@ -10,7 +10,6 @@ title: Holy Whale Ball (Item) - Hyperdimension Neptunia Re;Birth1
 - [Dungeons **Holy Whale Ball** is found](#dungeons-holy-whale-ball-is-found)
 - [Quests which require gathering **Holy Whale Ball**](#quests-which-require-gathering-holy-whale-ball)
 - [Remake System plans which require **Holy Whale Ball**](#remake-system-plans-which-require-holy-whale-ball)
-
 ## Basic information
 
 |   |   |

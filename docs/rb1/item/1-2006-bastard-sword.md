@@ -10,7 +10,6 @@ title: Bastard Sword (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Remake System plans which unlock **Bastard Sword** in shop](#remake-system-plans-which-unlock-bastard-sword-in-shop)
 - [Player characters who can equip **Bastard Sword**](#player-characters-who-can-equip-bastard-sword)
-
 ## Basic information
 
 |   |   |

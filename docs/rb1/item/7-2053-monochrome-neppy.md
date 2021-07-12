@@ -9,7 +9,6 @@ title: Monochrome Neppy (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Monochrome Neppy**](#player-characters-who-can-equip-monochrome-neppy)
-
 ## Basic information
 
 |   |   |

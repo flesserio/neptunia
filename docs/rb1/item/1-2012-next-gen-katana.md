@@ -9,7 +9,6 @@ title: Next-Gen Katana (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Next-Gen Katana**](#player-characters-who-can-equip-next-gen-katana)
-
 ## Basic information
 
 |   |   |

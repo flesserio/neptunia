@@ -9,7 +9,6 @@ title: Family Coat (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Player characters who have **Family Coat** equipped by default](#player-characters-who-have-family-coat-equipped-by-default)
 - [Player characters who can equip **Family Coat**](#player-characters-who-can-equip-family-coat)
-
 ## Basic information
 
 |   |   |

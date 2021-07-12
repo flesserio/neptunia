@@ -9,7 +9,6 @@ title: Add Enemies: Marubaco Forest (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **Add Enemies: Marubaco Forest**](#chirpers-who-give-add-enemies-marubaco-forest)
 - [Plans added to Remake System after collecting **Add Enemies: Marubaco Forest**](#plans-added-to-remake-system-after-collecting-add-enemies-marubaco-forest)
-
 ## Basic information
 
 |   |   |

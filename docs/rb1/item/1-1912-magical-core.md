@@ -10,7 +10,6 @@ title: Magical Core (Item) - Hyperdimension Neptunia Re;Birth1
 - [Dungeons **Magical Core** is found](#dungeons-magical-core-is-found)
 - [Quests which require gathering **Magical Core**](#quests-which-require-gathering-magical-core)
 - [Remake System plans which require **Magical Core**](#remake-system-plans-which-require-magical-core)
-
 ## Basic information
 
 |   |   |

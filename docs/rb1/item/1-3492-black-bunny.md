@@ -9,7 +9,6 @@ title: Black Bunny (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Black Bunny** in shop](#remake-system-plans-which-unlock-black-bunny-in-shop)
 - [Player characters who can equip **Black Bunny**](#player-characters-who-can-equip-black-bunny)
-
 ## Basic information
 
 |   |   |

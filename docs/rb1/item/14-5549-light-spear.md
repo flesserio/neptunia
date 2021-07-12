@@ -10,7 +10,6 @@ title: Light Spear (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Player characters who have **Light Spear** equipped by default](#player-characters-who-have-light-spear-equipped-by-default)
 - [Player characters who can equip **Light Spear**](#player-characters-who-can-equip-light-spear)
-
 ## Basic information
 
 |   |   |

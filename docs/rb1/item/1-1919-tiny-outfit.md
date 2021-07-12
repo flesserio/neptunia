@@ -9,7 +9,6 @@ title: Tiny Outfit (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Tiny Outfit** is found](#dungeons-tiny-outfit-is-found)
 - [Remake System plans which require **Tiny Outfit**](#remake-system-plans-which-require-tiny-outfit)
-
 ## Basic information
 
 |   |   |

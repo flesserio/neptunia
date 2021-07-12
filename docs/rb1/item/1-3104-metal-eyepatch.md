@@ -9,7 +9,6 @@ title: Metal Eyepatch (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Metal Eyepatch** in shop](#remake-system-plans-which-unlock-metal-eyepatch-in-shop)
 - [Player characters who can equip **Metal Eyepatch**](#player-characters-who-can-equip-metal-eyepatch)
-
 ## Basic information
 
 |   |   |

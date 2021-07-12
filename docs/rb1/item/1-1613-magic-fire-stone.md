@@ -9,7 +9,6 @@ title: Magic Fire Stone (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Magic Fire Stone** is found](#dungeons-magic-fire-stone-is-found)
 - [Remake System plans which require **Magic Fire Stone**](#remake-system-plans-which-require-magic-fire-stone)
-
 ## Basic information
 
 |   |   |

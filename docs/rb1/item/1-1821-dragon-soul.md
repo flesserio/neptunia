@@ -9,7 +9,6 @@ title: Dragon Soul (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Dragon Soul** is found](#dungeons-dragon-soul-is-found)
 - [Quests which require gathering **Dragon Soul**](#quests-which-require-gathering-dragon-soul)
-
 ## Basic information
 
 |   |   |

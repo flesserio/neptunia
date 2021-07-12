@@ -9,7 +9,6 @@ title: Silver Crown (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Silver Crown** is found](#dungeons-silver-crown-is-found)
 - [Remake System plans which require **Silver Crown**](#remake-system-plans-which-require-silver-crown)
-
 ## Basic information
 
 |   |   |

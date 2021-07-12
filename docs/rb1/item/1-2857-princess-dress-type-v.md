@@ -9,7 +9,6 @@ title: Princess Dress Type-V (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which require **Princess Dress Type-V**](#remake-system-plans-which-require-princess-dress-type-v)
 - [Player characters who can equip **Princess Dress Type-V**](#player-characters-who-can-equip-princess-dress-type-v)
-
 ## Basic information
 
 |   |   |

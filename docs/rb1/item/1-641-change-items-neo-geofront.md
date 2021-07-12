@@ -9,7 +9,6 @@ title: Change Items: Neo-Geofront (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **Change Items: Neo-Geofront**](#chirpers-who-give-change-items-neo-geofront)
 - [Plans added to Remake System after collecting **Change Items: Neo-Geofront**](#plans-added-to-remake-system-after-collecting-change-items-neo-geofront)
-
 ## Basic information
 
 |   |   |

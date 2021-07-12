@@ -9,7 +9,6 @@ title: Tekken Necklace (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Player characters who have **Tekken Necklace** equipped by default](#player-characters-who-have-tekken-necklace-equipped-by-default)
 - [Player characters who can equip **Tekken Necklace**](#player-characters-who-can-equip-tekken-necklace)
-
 ## Basic information
 
 |   |   |

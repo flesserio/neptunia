@@ -9,7 +9,6 @@ title: White Halter (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **White Halter**](#chirpers-who-give-white-halter)
 - [Plans added to Remake System after collecting **White Halter**](#plans-added-to-remake-system-after-collecting-white-halter)
-
 ## Basic information
 
 |   |   |

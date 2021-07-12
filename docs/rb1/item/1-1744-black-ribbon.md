@@ -9,7 +9,6 @@ title: Black Ribbon (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Black Ribbon** is found](#dungeons-black-ribbon-is-found)
 - [Remake System plans which require **Black Ribbon**](#remake-system-plans-which-require-black-ribbon)
-
 ## Basic information
 
 |   |   |

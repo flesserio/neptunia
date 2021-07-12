@@ -9,7 +9,6 @@ title: Rune Encyclopedia (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Rune Encyclopedia** is found](#dungeons-rune-encyclopedia-is-found)
 - [Remake System plans which require **Rune Encyclopedia**](#remake-system-plans-which-require-rune-encyclopedia)
-
 ## Basic information
 
 |   |   |

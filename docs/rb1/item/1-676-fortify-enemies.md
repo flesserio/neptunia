@@ -9,7 +9,6 @@ title: Fortify Enemies (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **Fortify Enemies**](#chirpers-who-give-fortify-enemies)
 - [Plans added to Remake System after collecting **Fortify Enemies**](#plans-added-to-remake-system-after-collecting-fortify-enemies)
-
 ## Basic information
 
 |   |   |

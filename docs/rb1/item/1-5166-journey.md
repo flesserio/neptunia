@@ -9,7 +9,6 @@ title: Journey (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Journey** is found](#dungeons-journey-is-found)
 - [Colosseum quests which reward **Journey**](#colosseum-quests-which-reward-journey)
-
 ## Basic information
 
 |   |   |

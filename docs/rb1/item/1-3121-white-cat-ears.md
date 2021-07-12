@@ -9,7 +9,6 @@ title: White Cat Ears (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **White Cat Ears** in shop](#remake-system-plans-which-unlock-white-cat-ears-in-shop)
 - [Player characters who can equip **White Cat Ears**](#player-characters-who-can-equip-white-cat-ears)
-
 ## Basic information
 
 |   |   |

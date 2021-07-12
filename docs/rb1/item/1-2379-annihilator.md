@@ -10,7 +10,6 @@ title: Annihilator (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Colosseum quests which reward **Annihilator**](#colosseum-quests-which-reward-annihilator)
 - [Player characters who can equip **Annihilator**](#player-characters-who-can-equip-annihilator)
-
 ## Basic information
 
 |   |   |

@@ -8,7 +8,6 @@ title: Violet Muffin (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Player characters who can equip **Violet Muffin**](#player-characters-who-can-equip-violet-muffin)
-
 ## Basic information
 
 |   |   |

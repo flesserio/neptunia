@@ -9,7 +9,6 @@ title: Bone Fragment (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Bone Fragment** is found](#dungeons-bone-fragment-is-found)
 - [Remake System plans which require **Bone Fragment**](#remake-system-plans-which-require-bone-fragment)
-
 ## Basic information
 
 |   |   |

@@ -10,7 +10,6 @@ title: School Cap (Item) - Hyperdimension Neptunia Re;Birth1
 - [Remake System plans which unlock **School Cap** in shop](#remake-system-plans-which-unlock-school-cap-in-shop)
 - [Remake System plans which require **School Cap**](#remake-system-plans-which-require-school-cap)
 - [Player characters who can equip **School Cap**](#player-characters-who-can-equip-school-cap)
-
 ## Basic information
 
 |   |   |

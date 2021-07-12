@@ -11,7 +11,6 @@ title: Healing Pod (Item) - Hyperdimension Neptunia Re;Birth1
 - [Dungeons **Healing Pod** is found](#dungeons-healing-pod-is-found)
 - [Colosseum quests which reward **Healing Pod**](#colosseum-quests-which-reward-healing-pod)
 - [Quests which reward **Healing Pod**](#quests-which-reward-healing-pod)
-
 ## Basic information
 
 |   |   |

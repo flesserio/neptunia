@@ -10,7 +10,6 @@ title: Millennium Memory (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Remake System plans which unlock **Millennium Memory** in shop](#remake-system-plans-which-unlock-millennium-memory-in-shop)
 - [Player characters who can equip **Millennium Memory**](#player-characters-who-can-equip-millennium-memory)
-
 ## Basic information
 
 |   |   |

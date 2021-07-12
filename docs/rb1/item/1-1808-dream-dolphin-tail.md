@@ -9,7 +9,6 @@ title: Dream Dolphin Tail (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Dream Dolphin Tail** is found](#dungeons-dream-dolphin-tail-is-found)
 - [Remake System plans which require **Dream Dolphin Tail**](#remake-system-plans-which-require-dream-dolphin-tail)
-
 ## Basic information
 
 |   |   |

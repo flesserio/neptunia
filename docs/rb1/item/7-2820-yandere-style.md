@@ -9,7 +9,6 @@ title: Yandere Style (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Yandere Style** in shop](#remake-system-plans-which-unlock-yandere-style-in-shop)
 - [Player characters who can equip **Yandere Style**](#player-characters-who-can-equip-yandere-style)
-
 ## Basic information
 
 |   |   |

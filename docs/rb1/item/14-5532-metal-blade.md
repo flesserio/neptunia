@@ -9,7 +9,6 @@ title: Metal Blade (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Metal Blade**](#player-characters-who-can-equip-metal-blade)
-
 ## Basic information
 
 |   |   |

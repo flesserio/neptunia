@@ -9,7 +9,6 @@ title: Hero's Hammer (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Hero's Hammer**](#player-characters-who-can-equip-heros-hammer)
-
 ## Basic information
 
 |   |   |

@@ -9,7 +9,6 @@ title: Imperial Qatar (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Imperial Qatar**](#player-characters-who-can-equip-imperial-qatar)
-
 ## Basic information
 
 |   |   |

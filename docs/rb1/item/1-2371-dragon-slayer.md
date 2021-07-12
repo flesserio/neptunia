@@ -10,7 +10,6 @@ title: Dragon Slayer (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Player characters who have **Dragon Slayer** equipped by default](#player-characters-who-have-dragon-slayer-equipped-by-default)
 - [Player characters who can equip **Dragon Slayer**](#player-characters-who-can-equip-dragon-slayer)
-
 ## Basic information
 
 |   |   |

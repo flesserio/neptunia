@@ -9,7 +9,6 @@ title: Purple Block (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Purple Block** is found](#dungeons-purple-block-is-found)
 - [Remake System plans which require **Purple Block**](#remake-system-plans-which-require-purple-block)
-
 ## Basic information
 
 |   |   |

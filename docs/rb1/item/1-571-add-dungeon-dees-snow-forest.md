@@ -9,7 +9,6 @@ title: Add Dungeon: Dees Snow Forest (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Plans added to Remake System after collecting **Add Dungeon: Dees Snow Forest**](#plans-added-to-remake-system-after-collecting-add-dungeon-dees-snow-forest)
 - [Dungeons **Add Dungeon: Dees Snow Forest** is found](#dungeons-add-dungeon-dees-snow-forest-is-found)
-
 ## Basic information
 
 |   |   |

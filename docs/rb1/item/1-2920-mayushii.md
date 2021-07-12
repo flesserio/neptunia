@@ -8,7 +8,6 @@ title: Mayushii (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Player characters who can equip **Mayushii**](#player-characters-who-can-equip-mayushii)
-
 ## Basic information
 
 |   |   |

@@ -9,7 +9,6 @@ title: Mr. Orange Cat (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Mr. Orange Cat**](#player-characters-who-can-equip-mr-orange-cat)
-
 ## Basic information
 
 |   |   |

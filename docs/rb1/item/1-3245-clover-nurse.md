@@ -9,7 +9,6 @@ title: Clover Nurse (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Clover Nurse** in shop](#remake-system-plans-which-unlock-clover-nurse-in-shop)
 - [Player characters who can equip **Clover Nurse**](#player-characters-who-can-equip-clover-nurse)
-
 ## Basic information
 
 |   |   |

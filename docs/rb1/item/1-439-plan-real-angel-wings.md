@@ -9,7 +9,6 @@ title: Plan: Real Angel Wings (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Plans added to Remake System after collecting **Plan: Real Angel Wings**](#plans-added-to-remake-system-after-collecting-plan-real-angel-wings)
 - [Dungeons **Plan: Real Angel Wings** is found](#dungeons-plan-real-angel-wings-is-found)
-
 ## Basic information
 
 |   |   |

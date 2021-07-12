@@ -10,7 +10,6 @@ title: Purple L (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Player characters who have **Purple L** equipped by default](#player-characters-who-have-purple-l-equipped-by-default)
 - [Player characters who can equip **Purple L**](#player-characters-who-can-equip-purple-l)
-
 ## Basic information
 
 |   |   |

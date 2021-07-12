@@ -8,7 +8,6 @@ title: Plan: Nep Bull (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Plans added to Remake System after collecting **Plan: Nep Bull**](#plans-added-to-remake-system-after-collecting-plan-nep-bull)
-
 ## Basic information
 
 |   |   |

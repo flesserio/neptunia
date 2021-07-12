@@ -9,7 +9,6 @@ title: Visual Memory 8X (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Visual Memory 8X** is found](#dungeons-visual-memory-8x-is-found)
 - [Remake System plans which require **Visual Memory 8X**](#remake-system-plans-which-require-visual-memory-8x)
-
 ## Basic information
 
 |   |   |

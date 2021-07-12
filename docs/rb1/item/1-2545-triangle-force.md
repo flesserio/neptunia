@@ -9,7 +9,6 @@ title: Triangle Force (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Triangle Force**](#player-characters-who-can-equip-triangle-force)
-
 ## Basic information
 
 |   |   |

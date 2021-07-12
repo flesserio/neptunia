@@ -8,7 +8,6 @@ title: Sunny Hat (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Player characters who can equip **Sunny Hat**](#player-characters-who-can-equip-sunny-hat)
-
 ## Basic information
 
 |   |   |

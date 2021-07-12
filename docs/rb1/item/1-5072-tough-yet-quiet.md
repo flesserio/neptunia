@@ -8,7 +8,6 @@ title: Tough-yet-quiet (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Dungeons **Tough-yet-quiet** is found](#dungeons-tough-yet-quiet-is-found)
-
 ## Basic information
 
 |   |   |

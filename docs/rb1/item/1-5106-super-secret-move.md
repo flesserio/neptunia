@@ -9,7 +9,6 @@ title: Super Secret Move (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Super Secret Move** is found](#dungeons-super-secret-move-is-found)
 - [Colosseum quests which reward **Super Secret Move**](#colosseum-quests-which-reward-super-secret-move)
-
 ## Basic information
 
 |   |   |

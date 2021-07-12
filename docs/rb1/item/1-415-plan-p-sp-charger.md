@@ -9,7 +9,6 @@ title: Plan: P. SP Charger (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Plans added to Remake System after collecting **Plan: P. SP Charger**](#plans-added-to-remake-system-after-collecting-plan-p-sp-charger)
 - [Quests which reward **Plan: P. SP Charger**](#quests-which-reward-plan-p-sp-charger)
-
 ## Basic information
 
 |   |   |

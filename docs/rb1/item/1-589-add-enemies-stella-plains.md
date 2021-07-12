@@ -9,7 +9,6 @@ title: Add Enemies: Stella Plains (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **Add Enemies: Stella Plains**](#chirpers-who-give-add-enemies-stella-plains)
 - [Plans added to Remake System after collecting **Add Enemies: Stella Plains**](#plans-added-to-remake-system-after-collecting-add-enemies-stella-plains)
-
 ## Basic information
 
 |   |   |

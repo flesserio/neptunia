@@ -9,7 +9,6 @@ title: Frozen Scale (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Frozen Scale** is found](#dungeons-frozen-scale-is-found)
 - [Remake System plans which require **Frozen Scale**](#remake-system-plans-which-require-frozen-scale)
-
 ## Basic information
 
 |   |   |

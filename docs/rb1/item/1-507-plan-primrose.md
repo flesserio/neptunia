@@ -9,7 +9,6 @@ title: Plan: Primrose (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Plans added to Remake System after collecting **Plan: Primrose**](#plans-added-to-remake-system-after-collecting-plan-primrose)
 - [Dungeons **Plan: Primrose** is found](#dungeons-plan-primrose-is-found)
-
 ## Basic information
 
 |   |   |

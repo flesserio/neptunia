@@ -8,7 +8,6 @@ title: Vintage (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Player characters who can equip **Vintage**](#player-characters-who-can-equip-vintage)
-
 ## Basic information
 
 |   |   |

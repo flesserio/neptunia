@@ -9,7 +9,6 @@ title: Add Enemies: Dees Snow Forest (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **Add Enemies: Dees Snow Forest**](#chirpers-who-give-add-enemies-dees-snow-forest)
 - [Plans added to Remake System after collecting **Add Enemies: Dees Snow Forest**](#plans-added-to-remake-system-after-collecting-add-enemies-dees-snow-forest)
-
 ## Basic information
 
 |   |   |

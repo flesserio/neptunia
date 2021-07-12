@@ -9,7 +9,6 @@ title: Angellic Tome (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Plans added to Remake System after collecting **Angellic Tome**](#plans-added-to-remake-system-after-collecting-angellic-tome)
 - [Dungeons **Angellic Tome** is found](#dungeons-angellic-tome-is-found)
-
 ## Basic information
 
 |   |   |

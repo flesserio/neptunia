@@ -9,7 +9,6 @@ title: Cyber Edge+3 (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Cyber Edge+3**](#player-characters-who-can-equip-cyber-edge-3)
-
 ## Basic information
 
 |   |   |

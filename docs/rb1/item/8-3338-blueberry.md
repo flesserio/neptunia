@@ -8,7 +8,6 @@ title: Blueberry (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Player characters who can equip **Blueberry**](#player-characters-who-can-equip-blueberry)
-
 ## Basic information
 
 |   |   |

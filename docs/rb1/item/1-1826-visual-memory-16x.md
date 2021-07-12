@@ -9,7 +9,6 @@ title: Visual Memory 16X (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Visual Memory 16X** is found](#dungeons-visual-memory-16x-is-found)
 - [Remake System plans which require **Visual Memory 16X**](#remake-system-plans-which-require-visual-memory-16x)
-
 ## Basic information
 
 |   |   |

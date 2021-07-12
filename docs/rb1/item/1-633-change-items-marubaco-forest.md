@@ -9,7 +9,6 @@ title: Change Items: Marubaco Forest (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **Change Items: Marubaco Forest**](#chirpers-who-give-change-items-marubaco-forest)
 - [Plans added to Remake System after collecting **Change Items: Marubaco Forest**](#plans-added-to-remake-system-after-collecting-change-items-marubaco-forest)
-
 ## Basic information
 
 |   |   |

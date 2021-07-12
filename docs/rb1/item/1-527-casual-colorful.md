@@ -9,7 +9,6 @@ title: Casual Colorful (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Plans added to Remake System after collecting **Casual Colorful**](#plans-added-to-remake-system-after-collecting-casual-colorful)
 - [Dungeons **Casual Colorful** is found](#dungeons-casual-colorful-is-found)
-
 ## Basic information
 
 |   |   |

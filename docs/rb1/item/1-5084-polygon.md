@@ -8,7 +8,6 @@ title: Polygon (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Dungeons **Polygon** is found](#dungeons-polygon-is-found)
-
 ## Basic information
 
 |   |   |

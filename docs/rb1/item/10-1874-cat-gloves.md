@@ -9,7 +9,6 @@ title: Cat Gloves (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Cat Gloves** is found](#dungeons-cat-gloves-is-found)
 - [Remake System plans which require **Cat Gloves**](#remake-system-plans-which-require-cat-gloves)
-
 ## Basic information
 
 |   |   |

@@ -9,7 +9,6 @@ title: A-MN Noire (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **A-MN Noire**](#player-characters-who-can-equip-a-mn-noire)
-
 ## Basic information
 
 |   |   |

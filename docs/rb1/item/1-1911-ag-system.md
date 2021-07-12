@@ -11,7 +11,6 @@ title: AG System (Item) - Hyperdimension Neptunia Re;Birth1
 - [Colosseum quests which reward **AG System**](#colosseum-quests-which-reward-ag-system)
 - [Quests which require gathering **AG System**](#quests-which-require-gathering-ag-system)
 - [Remake System plans which require **AG System**](#remake-system-plans-which-require-ag-system)
-
 ## Basic information
 
 |   |   |

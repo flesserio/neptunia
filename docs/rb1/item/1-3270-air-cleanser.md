@@ -9,7 +9,6 @@ title: Air Cleanser (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Air Cleanser** in shop](#remake-system-plans-which-unlock-air-cleanser-in-shop)
 - [Player characters who can equip **Air Cleanser**](#player-characters-who-can-equip-air-cleanser)
-
 ## Basic information
 
 |   |   |

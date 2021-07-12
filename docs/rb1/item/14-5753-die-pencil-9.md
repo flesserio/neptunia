@@ -9,7 +9,6 @@ title: Die Pencil+9 (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Die Pencil+9**](#player-characters-who-can-equip-die-pencil-9)
-
 ## Basic information
 
 |   |   |

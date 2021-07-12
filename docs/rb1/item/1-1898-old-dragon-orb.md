@@ -9,7 +9,6 @@ title: Old Dragon...Orb (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Old Dragon...Orb** is found](#dungeons-old-dragonorb-is-found)
 - [Remake System plans which require **Old Dragon...Orb**](#remake-system-plans-which-require-old-dragonorb)
-
 ## Basic information
 
 |   |   |

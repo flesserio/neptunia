@@ -9,7 +9,6 @@ title: Add Dungeon: Zeca Ruins No.2 (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Plans added to Remake System after collecting **Add Dungeon: Zeca Ruins No.2**](#plans-added-to-remake-system-after-collecting-add-dungeon-zeca-ruins-no2)
 - [Dungeons **Add Dungeon: Zeca Ruins No.2** is found](#dungeons-add-dungeon-zeca-ruins-no2-is-found)
-
 ## Basic information
 
 |   |   |

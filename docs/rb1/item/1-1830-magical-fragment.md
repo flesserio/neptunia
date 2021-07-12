@@ -10,7 +10,6 @@ title: Magical Fragment (Item) - Hyperdimension Neptunia Re;Birth1
 - [Dungeons **Magical Fragment** is found](#dungeons-magical-fragment-is-found)
 - [Quests which require gathering **Magical Fragment**](#quests-which-require-gathering-magical-fragment)
 - [Remake System plans which require **Magical Fragment**](#remake-system-plans-which-require-magical-fragment)
-
 ## Basic information
 
 |   |   |

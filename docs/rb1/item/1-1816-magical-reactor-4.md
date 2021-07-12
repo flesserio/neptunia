@@ -9,7 +9,6 @@ title: Magical Reactor 4 (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Magical Reactor 4** is found](#dungeons-magical-reactor-4-is-found)
 - [Remake System plans which require **Magical Reactor 4**](#remake-system-plans-which-require-magical-reactor-4)
-
 ## Basic information
 
 |   |   |

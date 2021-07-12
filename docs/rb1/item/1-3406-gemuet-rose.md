@@ -9,7 +9,6 @@ title: Gemuet Rose (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which require **Gemuet Rose**](#remake-system-plans-which-require-gemuet-rose)
 - [Player characters who can equip **Gemuet Rose**](#player-characters-who-can-equip-gemuet-rose)
-
 ## Basic information
 
 |   |   |

@@ -9,7 +9,6 @@ title: Pearl Armlet (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Pearl Armlet**](#player-characters-who-can-equip-pearl-armlet)
-
 ## Basic information
 
 |   |   |

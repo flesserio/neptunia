@@ -9,7 +9,6 @@ title: White Ribbon (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **White Ribbon**](#player-characters-who-can-equip-white-ribbon)
-
 ## Basic information
 
 |   |   |

@@ -9,7 +9,6 @@ title: Mysterious Petal (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Mysterious Petal** is found](#dungeons-mysterious-petal-is-found)
 - [Remake System plans which require **Mysterious Petal**](#remake-system-plans-which-require-mysterious-petal)
-
 ## Basic information
 
 |   |   |

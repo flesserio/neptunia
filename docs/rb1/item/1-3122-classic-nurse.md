@@ -9,7 +9,6 @@ title: Classic Nurse (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Classic Nurse** in shop](#remake-system-plans-which-unlock-classic-nurse-in-shop)
 - [Player characters who can equip **Classic Nurse**](#player-characters-who-can-equip-classic-nurse)
-
 ## Basic information
 
 |   |   |

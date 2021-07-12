@@ -9,7 +9,6 @@ title: Yummy Dolphin Soup (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Yummy Dolphin Soup** is found](#dungeons-yummy-dolphin-soup-is-found)
 - [Remake System plans which require **Yummy Dolphin Soup**](#remake-system-plans-which-require-yummy-dolphin-soup)
-
 ## Basic information
 
 |   |   |

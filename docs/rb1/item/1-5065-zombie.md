@@ -8,7 +8,6 @@ title: Zombie (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Dungeons **Zombie** is found](#dungeons-zombie-is-found)
-
 ## Basic information
 
 |   |   |

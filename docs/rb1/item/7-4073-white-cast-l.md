@@ -9,7 +9,6 @@ title: White Cast L (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **White Cast L**](#player-characters-who-can-equip-white-cast-l)
-
 ## Basic information
 
 |   |   |

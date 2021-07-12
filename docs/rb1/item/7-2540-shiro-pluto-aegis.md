@@ -9,7 +9,6 @@ title: Shiro Pluto Aegis (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Shiro Pluto Aegis**](#player-characters-who-can-equip-shiro-pluto-aegis)
-
 ## Basic information
 
 |   |   |

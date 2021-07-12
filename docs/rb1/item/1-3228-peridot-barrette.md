@@ -9,7 +9,6 @@ title: Peridot Barrette (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Peridot Barrette** in shop](#remake-system-plans-which-unlock-peridot-barrette-in-shop)
 - [Player characters who can equip **Peridot Barrette**](#player-characters-who-can-equip-peridot-barrette)
-
 ## Basic information
 
 |   |   |

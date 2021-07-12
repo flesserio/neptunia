@@ -9,7 +9,6 @@ title: Light Staff+5 (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Light Staff+5**](#player-characters-who-can-equip-light-staff-5)
-
 ## Basic information
 
 |   |   |

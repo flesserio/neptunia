@@ -9,7 +9,6 @@ title: Strawberry Milk (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Strawberry Milk** in shop](#remake-system-plans-which-unlock-strawberry-milk-in-shop)
 - [Player characters who can equip **Strawberry Milk**](#player-characters-who-can-equip-strawberry-milk)
-
 ## Basic information
 
 |   |   |

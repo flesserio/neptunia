@@ -9,7 +9,6 @@ title: Fairize B (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Fairize B**](#player-characters-who-can-equip-fairize-b)
-
 ## Basic information
 
 |   |   |

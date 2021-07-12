@@ -11,7 +11,6 @@ title: Squall Ring (Item) - Hyperdimension Neptunia Re;Birth1
 - [Dungeons **Squall Ring** is found](#dungeons-squall-ring-is-found)
 - [Remake System plans which require **Squall Ring**](#remake-system-plans-which-require-squall-ring)
 - [Player characters who can equip **Squall Ring**](#player-characters-who-can-equip-squall-ring)
-
 ## Basic information
 
 |   |   |

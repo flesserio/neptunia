@@ -9,7 +9,6 @@ title: Hibiscon (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Hibiscon** is found](#dungeons-hibiscon-is-found)
 - [Player characters who can equip **Hibiscon**](#player-characters-who-can-equip-hibiscon)
-
 ## Basic information
 
 |   |   |

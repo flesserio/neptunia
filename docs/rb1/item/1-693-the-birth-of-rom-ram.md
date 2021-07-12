@@ -9,7 +9,6 @@ title: The Birth of Rom & Ram! (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **The Birth of Rom & Ram!**](#chirpers-who-give-the-birth-of-rom-ram)
 - [Plans added to Remake System after collecting **The Birth of Rom & Ram!**](#plans-added-to-remake-system-after-collecting-the-birth-of-rom-ram)
-
 ## Basic information
 
 |   |   |

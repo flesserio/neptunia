@@ -10,7 +10,6 @@ title: Strike Lancer (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Dungeons **Strike Lancer** is found](#dungeons-strike-lancer-is-found)
 - [Player characters who can equip **Strike Lancer**](#player-characters-who-can-equip-strike-lancer)
-
 ## Basic information
 
 |   |   |

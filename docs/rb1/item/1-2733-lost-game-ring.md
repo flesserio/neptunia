@@ -11,7 +11,6 @@ title: Lost Game Ring (Item) - Hyperdimension Neptunia Re;Birth1
 - [Remake System plans which unlock **Lost Game Ring** in shop](#remake-system-plans-which-unlock-lost-game-ring-in-shop)
 - [Remake System plans which require **Lost Game Ring**](#remake-system-plans-which-require-lost-game-ring)
 - [Player characters who can equip **Lost Game Ring**](#player-characters-who-can-equip-lost-game-ring)
-
 ## Basic information
 
 |   |   |

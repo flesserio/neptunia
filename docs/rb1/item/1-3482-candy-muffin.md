@@ -9,7 +9,6 @@ title: Candy Muffin (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Player characters who have **Candy Muffin** equipped by default](#player-characters-who-have-candy-muffin-equipped-by-default)
 - [Player characters who can equip **Candy Muffin**](#player-characters-who-can-equip-candy-muffin)
-
 ## Basic information
 
 |   |   |

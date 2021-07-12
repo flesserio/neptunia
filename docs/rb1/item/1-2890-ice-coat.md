@@ -9,7 +9,6 @@ title: Ice Coat (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Player characters who have **Ice Coat** equipped by default](#player-characters-who-have-ice-coat-equipped-by-default)
 - [Player characters who can equip **Ice Coat**](#player-characters-who-can-equip-ice-coat)
-
 ## Basic information
 
 |   |   |

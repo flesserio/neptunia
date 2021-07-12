@@ -10,7 +10,6 @@ title: Anti-Virus Patch (Item) - Hyperdimension Neptunia Re;Birth1
 - [Remake System plans which unlock **Anti-Virus Patch** in shop](#remake-system-plans-which-unlock-anti-virus-patch-in-shop)
 - [Remake System plans which require **Anti-Virus Patch**](#remake-system-plans-which-require-anti-virus-patch)
 - [Player characters who can equip **Anti-Virus Patch**](#player-characters-who-can-equip-anti-virus-patch)
-
 ## Basic information
 
 |   |   |

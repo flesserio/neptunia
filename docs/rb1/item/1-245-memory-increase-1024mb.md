@@ -7,7 +7,6 @@ title: Memory Increase - 1024MB (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
-
 ## Basic information
 
 |   |   |

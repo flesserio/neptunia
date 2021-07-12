@@ -9,7 +9,6 @@ title: Trapezohedron (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Trapezohedron**](#player-characters-who-can-equip-trapezohedron)
-
 ## Basic information
 
 |   |   |

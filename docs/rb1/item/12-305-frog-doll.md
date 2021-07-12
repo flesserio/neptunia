@@ -8,7 +8,6 @@ title: Frog Doll (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Colosseum quests which reward **Frog Doll**](#colosseum-quests-which-reward-frog-doll)
-
 ## Basic information
 
 |   |   |

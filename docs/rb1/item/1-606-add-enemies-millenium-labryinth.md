@@ -9,7 +9,6 @@ title: Add Enemies: Millenium Labryinth (Item) - Hyperdimension Neptunia Re;Birt
 - [Basic information](#basic-information)
 - [Chirpers who give **Add Enemies: Millenium Labryinth**](#chirpers-who-give-add-enemies-millenium-labryinth)
 - [Plans added to Remake System after collecting **Add Enemies: Millenium Labryinth**](#plans-added-to-remake-system-after-collecting-add-enemies-millenium-labryinth)
-
 ## Basic information
 
 |   |   |

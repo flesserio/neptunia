@@ -9,7 +9,6 @@ title: Many Resets (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Many Resets** is found](#dungeons-many-resets-is-found)
 - [Colosseum quests which reward **Many Resets**](#colosseum-quests-which-reward-many-resets)
-
 ## Basic information
 
 |   |   |

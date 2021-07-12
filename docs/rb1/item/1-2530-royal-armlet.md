@@ -10,7 +10,6 @@ title: Royal Armlet (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Remake System plans which unlock **Royal Armlet** in shop](#remake-system-plans-which-unlock-royal-armlet-in-shop)
 - [Player characters who can equip **Royal Armlet**](#player-characters-who-can-equip-royal-armlet)
-
 ## Basic information
 
 |   |   |

@@ -10,7 +10,6 @@ title: Shooting Star (Item) - Hyperdimension Neptunia Re;Birth1
 - [Quests which reward **Shooting Star**](#quests-which-reward-shooting-star)
 - [Remake System plans which require **Shooting Star**](#remake-system-plans-which-require-shooting-star)
 - [Player characters who can equip **Shooting Star**](#player-characters-who-can-equip-shooting-star)
-
 ## Basic information
 
 |   |   |

@@ -8,7 +8,6 @@ title: Anti-Static Keychain (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Quests which reward **Anti-Static Keychain**](#quests-which-reward-anti-static-keychain)
-
 ## Basic information
 
 |   |   |

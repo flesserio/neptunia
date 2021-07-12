@@ -9,7 +9,6 @@ title: Monochrome Headdress (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Monochrome Headdress** in shop](#remake-system-plans-which-unlock-monochrome-headdress-in-shop)
 - [Player characters who can equip **Monochrome Headdress**](#player-characters-who-can-equip-monochrome-headdress)
-
 ## Basic information
 
 |   |   |

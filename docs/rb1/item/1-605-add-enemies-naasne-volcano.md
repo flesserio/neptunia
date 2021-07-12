@@ -9,7 +9,6 @@ title: Add Enemies: Naasne Volcano (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **Add Enemies: Naasne Volcano**](#chirpers-who-give-add-enemies-naasne-volcano)
 - [Plans added to Remake System after collecting **Add Enemies: Naasne Volcano**](#plans-added-to-remake-system-after-collecting-add-enemies-naasne-volcano)
-
 ## Basic information
 
 |   |   |

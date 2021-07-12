@@ -9,7 +9,6 @@ title: Whale Ball (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Whale Ball** is found](#dungeons-whale-ball-is-found)
 - [Remake System plans which require **Whale Ball**](#remake-system-plans-which-require-whale-ball)
-
 ## Basic information
 
 |   |   |

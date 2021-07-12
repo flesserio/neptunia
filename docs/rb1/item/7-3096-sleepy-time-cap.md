@@ -9,7 +9,6 @@ title: Sleepy-time Cap (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Sleepy-time Cap**](#player-characters-who-can-equip-sleepy-time-cap)
-
 ## Basic information
 
 |   |   |

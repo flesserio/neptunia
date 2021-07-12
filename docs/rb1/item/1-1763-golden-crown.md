@@ -9,7 +9,6 @@ title: Golden Crown (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Golden Crown** is found](#dungeons-golden-crown-is-found)
 - [Remake System plans which require **Golden Crown**](#remake-system-plans-which-require-golden-crown)
-
 ## Basic information
 
 |   |   |

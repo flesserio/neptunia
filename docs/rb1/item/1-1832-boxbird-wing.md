@@ -9,7 +9,6 @@ title: Boxbird Wing (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Boxbird Wing** is found](#dungeons-boxbird-wing-is-found)
 - [Remake System plans which require **Boxbird Wing**](#remake-system-plans-which-require-boxbird-wing)
-
 ## Basic information
 
 |   |   |

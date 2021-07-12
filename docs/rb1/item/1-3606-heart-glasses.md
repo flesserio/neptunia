@@ -10,7 +10,6 @@ title: Heart Glasses (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Dungeons **Heart Glasses** is found](#dungeons-heart-glasses-is-found)
 - [Player characters who can equip **Heart Glasses**](#player-characters-who-can-equip-heart-glasses)
-
 ## Basic information
 
 |   |   |

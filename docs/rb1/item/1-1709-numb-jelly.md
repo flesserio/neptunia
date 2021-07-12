@@ -9,7 +9,6 @@ title: Numb Jelly (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Numb Jelly** is found](#dungeons-numb-jelly-is-found)
 - [Remake System plans which require **Numb Jelly**](#remake-system-plans-which-require-numb-jelly)
-
 ## Basic information
 
 |   |   |

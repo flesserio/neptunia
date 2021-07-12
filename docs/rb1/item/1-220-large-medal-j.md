@@ -8,7 +8,6 @@ title: Large Medal J (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Dungeons **Large Medal J** is found](#dungeons-large-medal-j-is-found)
-
 ## Basic information
 
 |   |   |

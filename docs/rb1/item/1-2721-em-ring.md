@@ -11,7 +11,6 @@ title: EM Ring (Item) - Hyperdimension Neptunia Re;Birth1
 - [Dungeons **EM Ring** is found](#dungeons-em-ring-is-found)
 - [Remake System plans which require **EM Ring**](#remake-system-plans-which-require-em-ring)
 - [Player characters who can equip **EM Ring**](#player-characters-who-can-equip-em-ring)
-
 ## Basic information
 
 |   |   |

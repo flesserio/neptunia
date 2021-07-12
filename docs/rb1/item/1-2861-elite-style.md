@@ -9,7 +9,6 @@ title: Elite Style (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Elite Style** in shop](#remake-system-plans-which-unlock-elite-style-in-shop)
 - [Player characters who can equip **Elite Style**](#player-characters-who-can-equip-elite-style)
-
 ## Basic information
 
 |   |   |

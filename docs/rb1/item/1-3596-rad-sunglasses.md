@@ -8,7 +8,6 @@ title: Rad Sunglasses (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Player characters who can equip **Rad Sunglasses**](#player-characters-who-can-equip-rad-sunglasses)
-
 ## Basic information
 
 |   |   |

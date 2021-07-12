@@ -9,7 +9,6 @@ title: Hyena Pelt (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Hyena Pelt** is found](#dungeons-hyena-pelt-is-found)
 - [Remake System plans which require **Hyena Pelt**](#remake-system-plans-which-require-hyena-pelt)
-
 ## Basic information
 
 |   |   |

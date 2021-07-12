@@ -9,7 +9,6 @@ title: Crude Circuit (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Crude Circuit** is found](#dungeons-crude-circuit-is-found)
 - [Remake System plans which require **Crude Circuit**](#remake-system-plans-which-require-crude-circuit)
-
 ## Basic information
 
 |   |   |

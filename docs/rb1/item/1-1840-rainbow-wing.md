@@ -10,7 +10,6 @@ title: Rainbow Wing (Item) - Hyperdimension Neptunia Re;Birth1
 - [Dungeons **Rainbow Wing** is found](#dungeons-rainbow-wing-is-found)
 - [Quests which require gathering **Rainbow Wing**](#quests-which-require-gathering-rainbow-wing)
 - [Remake System plans which require **Rainbow Wing**](#remake-system-plans-which-require-rainbow-wing)
-
 ## Basic information
 
 |   |   |

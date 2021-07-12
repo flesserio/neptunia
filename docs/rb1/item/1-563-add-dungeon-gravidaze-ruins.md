@@ -9,7 +9,6 @@ title: Add Dungeon: Gravidaze Ruins (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Plans added to Remake System after collecting **Add Dungeon: Gravidaze Ruins**](#plans-added-to-remake-system-after-collecting-add-dungeon-gravidaze-ruins)
 - [Dungeons **Add Dungeon: Gravidaze Ruins** is found](#dungeons-add-dungeon-gravidaze-ruins-is-found)
-
 ## Basic information
 
 |   |   |

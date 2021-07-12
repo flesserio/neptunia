@@ -9,7 +9,6 @@ title: Plan: Silver Anklet (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Plans added to Remake System after collecting **Plan: Silver Anklet**](#plans-added-to-remake-system-after-collecting-plan-silver-anklet)
 - [Dungeons **Plan: Silver Anklet** is found](#dungeons-plan-silver-anklet-is-found)
-
 ## Basic information
 
 |   |   |

@@ -10,7 +10,6 @@ title: Random Encounters (Item) - Hyperdimension Neptunia Re;Birth1
 - [Dungeons **Random Encounters** is found](#dungeons-random-encounters-is-found)
 - [Quests which reward **Random Encounters**](#quests-which-reward-random-encounters)
 - [Remake System plans which require **Random Encounters**](#remake-system-plans-which-require-random-encounters)
-
 ## Basic information
 
 |   |   |

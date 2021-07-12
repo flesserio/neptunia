@@ -9,7 +9,6 @@ title: Earth Scale (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Earth Scale** is found](#dungeons-earth-scale-is-found)
 - [Remake System plans which require **Earth Scale**](#remake-system-plans-which-require-earth-scale)
-
 ## Basic information
 
 |   |   |

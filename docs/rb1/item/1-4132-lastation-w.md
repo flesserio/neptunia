@@ -10,7 +10,6 @@ title: Lastation W (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Remake System plans which unlock **Lastation W** in shop](#remake-system-plans-which-unlock-lastation-w-in-shop)
 - [Player characters who can equip **Lastation W**](#player-characters-who-can-equip-lastation-w)
-
 ## Basic information
 
 |   |   |

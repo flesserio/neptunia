@@ -9,7 +9,6 @@ title: Mage Staff+10 (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Mage Staff+10**](#player-characters-who-can-equip-mage-staff-10)
-
 ## Basic information
 
 |   |   |

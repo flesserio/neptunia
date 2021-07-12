@@ -9,7 +9,6 @@ title: Wizard's Hat (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Wizard's Hat**](#player-characters-who-can-equip-wizards-hat)
-
 ## Basic information
 
 |   |   |

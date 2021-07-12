@@ -9,7 +9,6 @@ title: EXP Up (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Plans added to Remake System after collecting **EXP Up**](#plans-added-to-remake-system-after-collecting-exp-up)
 - [Dungeons **EXP Up** is found](#dungeons-exp-up-is-found)
-
 ## Basic information
 
 |   |   |

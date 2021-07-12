@@ -9,7 +9,6 @@ title: Plan: AGI Booster (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **Plan: AGI Booster**](#chirpers-who-give-plan-agi-booster)
 - [Plans added to Remake System after collecting **Plan: AGI Booster**](#plans-added-to-remake-system-after-collecting-plan-agi-booster)
-
 ## Basic information
 
 |   |   |

@@ -10,7 +10,6 @@ title: Black Cat Ring (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Remake System plans which unlock **Black Cat Ring** in shop](#remake-system-plans-which-unlock-black-cat-ring-in-shop)
 - [Player characters who can equip **Black Cat Ring**](#player-characters-who-can-equip-black-cat-ring)
-
 ## Basic information
 
 |   |   |

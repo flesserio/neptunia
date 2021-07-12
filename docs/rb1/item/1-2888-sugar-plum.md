@@ -9,7 +9,6 @@ title: Sugar Plum (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Sugar Plum** in shop](#remake-system-plans-which-unlock-sugar-plum-in-shop)
 - [Player characters who can equip **Sugar Plum**](#player-characters-who-can-equip-sugar-plum)
-
 ## Basic information
 
 |   |   |

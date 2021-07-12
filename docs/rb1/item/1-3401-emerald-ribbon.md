@@ -9,7 +9,6 @@ title: Emerald Ribbon (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Emerald Ribbon** in shop](#remake-system-plans-which-unlock-emerald-ribbon-in-shop)
 - [Player characters who can equip **Emerald Ribbon**](#player-characters-who-can-equip-emerald-ribbon)
-
 ## Basic information
 
 |   |   |

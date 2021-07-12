@@ -9,7 +9,6 @@ title: Sweet W (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Sweet W**](#player-characters-who-can-equip-sweet-w)
-
 ## Basic information
 
 |   |   |

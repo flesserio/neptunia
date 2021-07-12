@@ -10,7 +10,6 @@ title: Demon Pendant (Item) - Hyperdimension Neptunia Re;Birth1
 - [Dungeons **Demon Pendant** is found](#dungeons-demon-pendant-is-found)
 - [Remake System plans which require **Demon Pendant**](#remake-system-plans-which-require-demon-pendant)
 - [Player characters who can equip **Demon Pendant**](#player-characters-who-can-equip-demon-pendant)
-
 ## Basic information
 
 |   |   |

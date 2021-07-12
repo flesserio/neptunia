@@ -10,7 +10,6 @@ title: Phantom Blade (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Colosseum quests which reward **Phantom Blade**](#colosseum-quests-which-reward-phantom-blade)
 - [Player characters who can equip **Phantom Blade**](#player-characters-who-can-equip-phantom-blade)
-
 ## Basic information
 
 |   |   |

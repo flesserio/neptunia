@@ -9,7 +9,6 @@ title: Cat Ear Band (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Cat Ear Band**](#player-characters-who-can-equip-cat-ear-band)
-
 ## Basic information
 
 |   |   |

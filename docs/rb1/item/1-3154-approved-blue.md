@@ -10,7 +10,6 @@ title: Approved Blue (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Quests which reward **Approved Blue**](#quests-which-reward-approved-blue)
 - [Player characters who can equip **Approved Blue**](#player-characters-who-can-equip-approved-blue)
-
 ## Basic information
 
 |   |   |

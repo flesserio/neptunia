@@ -9,7 +9,6 @@ title: Weaken Enemies (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **Weaken Enemies**](#chirpers-who-give-weaken-enemies)
 - [Plans added to Remake System after collecting **Weaken Enemies**](#plans-added-to-remake-system-after-collecting-weaken-enemies)
-
 ## Basic information
 
 |   |   |

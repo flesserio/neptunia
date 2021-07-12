@@ -9,7 +9,6 @@ title: Mr. Bee Hat (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Mr. Bee Hat**](#player-characters-who-can-equip-mr-bee-hat)
-
 ## Basic information
 
 |   |   |

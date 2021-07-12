@@ -10,7 +10,6 @@ title: Frost W (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Dungeons **Frost W** is found](#dungeons-frost-w-is-found)
 - [Player characters who can equip **Frost W**](#player-characters-who-can-equip-frost-w)
-
 ## Basic information
 
 |   |   |

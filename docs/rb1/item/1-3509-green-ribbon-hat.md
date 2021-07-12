@@ -9,7 +9,6 @@ title: Green Ribbon Hat (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Green Ribbon Hat** in shop](#remake-system-plans-which-unlock-green-ribbon-hat-in-shop)
 - [Player characters who can equip **Green Ribbon Hat**](#player-characters-who-can-equip-green-ribbon-hat)
-
 ## Basic information
 
 |   |   |

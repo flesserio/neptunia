@@ -9,7 +9,6 @@ title: Rumble Karate Gi (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Player characters who have **Rumble Karate Gi** equipped by default](#player-characters-who-have-rumble-karate-gi-equipped-by-default)
 - [Player characters who can equip **Rumble Karate Gi**](#player-characters-who-can-equip-rumble-karate-gi)
-
 ## Basic information
 
 |   |   |

@@ -10,7 +10,6 @@ title: V Crystal Ring (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Dungeons **V Crystal Ring** is found](#dungeons-v-crystal-ring-is-found)
 - [Player characters who can equip **V Crystal Ring**](#player-characters-who-can-equip-v-crystal-ring)
-
 ## Basic information
 
 |   |   |

@@ -10,7 +10,6 @@ title: Orange Pigment (Item) - Hyperdimension Neptunia Re;Birth1
 - [Remake System plans which unlock **Orange Pigment** in shop](#remake-system-plans-which-unlock-orange-pigment-in-shop)
 - [Dungeons **Orange Pigment** is found](#dungeons-orange-pigment-is-found)
 - [Remake System plans which require **Orange Pigment**](#remake-system-plans-which-require-orange-pigment)
-
 ## Basic information
 
 |   |   |

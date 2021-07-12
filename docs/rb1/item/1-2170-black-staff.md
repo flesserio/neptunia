@@ -9,7 +9,6 @@ title: Black Staff (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Black Staff**](#player-characters-who-can-equip-black-staff)
-
 ## Basic information
 
 |   |   |

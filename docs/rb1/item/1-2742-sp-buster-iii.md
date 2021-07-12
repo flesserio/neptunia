@@ -10,7 +10,6 @@ title: SP Buster III (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Remake System plans which unlock **SP Buster III** in shop](#remake-system-plans-which-unlock-sp-buster-iii-in-shop)
 - [Player characters who can equip **SP Buster III**](#player-characters-who-can-equip-sp-buster-iii)
-
 ## Basic information
 
 |   |   |

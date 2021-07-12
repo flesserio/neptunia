@@ -9,7 +9,6 @@ title: Electric Fin (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Electric Fin** is found](#dungeons-electric-fin-is-found)
 - [Remake System plans which require **Electric Fin**](#remake-system-plans-which-require-electric-fin)
-
 ## Basic information
 
 |   |   |

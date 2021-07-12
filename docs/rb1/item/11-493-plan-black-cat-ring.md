@@ -9,7 +9,6 @@ title: Plan: Black Cat Ring (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Plans added to Remake System after collecting **Plan: Black Cat Ring**](#plans-added-to-remake-system-after-collecting-plan-black-cat-ring)
 - [Dungeons **Plan: Black Cat Ring** is found](#dungeons-plan-black-cat-ring-is-found)
-
 ## Basic information
 
 |   |   |

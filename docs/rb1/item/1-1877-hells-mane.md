@@ -9,7 +9,6 @@ title: Hell's Mane (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Hell's Mane** is found](#dungeons-hells-mane-is-found)
 - [Remake System plans which require **Hell's Mane**](#remake-system-plans-which-require-hells-mane)
-
 ## Basic information
 
 |   |   |

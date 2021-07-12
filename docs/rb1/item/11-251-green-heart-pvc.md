@@ -8,7 +8,6 @@ title: Green Heart PVC (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Dungeons **Green Heart PVC** is found](#dungeons-green-heart-pvc-is-found)
-
 ## Basic information
 
 |   |   |

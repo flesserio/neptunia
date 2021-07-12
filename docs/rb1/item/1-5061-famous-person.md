@@ -8,7 +8,6 @@ title: Famous Person (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Dungeons **Famous Person** is found](#dungeons-famous-person-is-found)
-
 ## Basic information
 
 |   |   |

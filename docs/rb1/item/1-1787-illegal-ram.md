@@ -9,7 +9,6 @@ title: Illegal RAM (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Illegal RAM** is found](#dungeons-illegal-ram-is-found)
 - [Remake System plans which require **Illegal RAM**](#remake-system-plans-which-require-illegal-ram)
-
 ## Basic information
 
 |   |   |

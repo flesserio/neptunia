@@ -7,7 +7,6 @@ title: Plan: Blaze Emblem (Item) - Hyperdimension Neptunia Re;Birth1
 ## Contents
 
 - [Basic information](#basic-information)
-
 ## Basic information
 
 |   |   |

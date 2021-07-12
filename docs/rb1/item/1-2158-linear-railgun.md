@@ -10,7 +10,6 @@ title: Linear Railgun (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Colosseum quests which reward **Linear Railgun**](#colosseum-quests-which-reward-linear-railgun)
 - [Player characters who can equip **Linear Railgun**](#player-characters-who-can-equip-linear-railgun)
-
 ## Basic information
 
 |   |   |

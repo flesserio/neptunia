@@ -10,7 +10,6 @@ title: Kurenai (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Dungeons **Kurenai** is found](#dungeons-kurenai-is-found)
 - [Player characters who can equip **Kurenai**](#player-characters-who-can-equip-kurenai)
-
 ## Basic information
 
 |   |   |

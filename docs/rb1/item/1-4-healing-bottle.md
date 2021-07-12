@@ -9,7 +9,6 @@ title: Healing Bottle (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Healing Bottle** in shop](#remake-system-plans-which-unlock-healing-bottle-in-shop)
 - [Dungeons **Healing Bottle** is found](#dungeons-healing-bottle-is-found)
-
 ## Basic information
 
 |   |   |

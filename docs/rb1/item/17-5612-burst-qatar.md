@@ -9,7 +9,6 @@ title: Burst Qatar (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Burst Qatar**](#player-characters-who-can-equip-burst-qatar)
-
 ## Basic information
 
 |   |   |

@@ -9,7 +9,6 @@ title: Water Crystal (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Water Crystal** is found](#dungeons-water-crystal-is-found)
 - [Remake System plans which require **Water Crystal**](#remake-system-plans-which-require-water-crystal)
-
 ## Basic information
 
 |   |   |

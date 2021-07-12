@@ -9,7 +9,6 @@ title: All Attacks (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **All Attacks** is found](#dungeons-all-attacks-is-found)
 - [Quests which reward **All Attacks**](#quests-which-reward-all-attacks)
-
 ## Basic information
 
 |   |   |

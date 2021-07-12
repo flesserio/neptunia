@@ -9,7 +9,6 @@ title: Indulgence (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Indulgence** is found](#dungeons-indulgence-is-found)
 - [Remake System plans which require **Indulgence**](#remake-system-plans-which-require-indulgence)
-
 ## Basic information
 
 |   |   |

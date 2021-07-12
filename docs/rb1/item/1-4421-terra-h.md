@@ -9,7 +9,6 @@ title: Terra H (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Terra H**](#player-characters-who-can-equip-terra-h)
-
 ## Basic information
 
 |   |   |

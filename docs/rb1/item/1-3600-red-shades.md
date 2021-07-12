@@ -8,7 +8,6 @@ title: Red Shades (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Player characters who can equip **Red Shades**](#player-characters-who-can-equip-red-shades)
-
 ## Basic information
 
 |   |   |

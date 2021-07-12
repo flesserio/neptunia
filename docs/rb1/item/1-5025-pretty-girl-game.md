@@ -9,7 +9,6 @@ title: Pretty Girl Game (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Pretty Girl Game** is found](#dungeons-pretty-girl-game-is-found)
 - [Colosseum quests which reward **Pretty Girl Game**](#colosseum-quests-which-reward-pretty-girl-game)
-
 ## Basic information
 
 |   |   |

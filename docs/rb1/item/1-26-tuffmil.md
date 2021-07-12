@@ -9,7 +9,6 @@ title: Tuffmil (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Tuffmil** is found](#dungeons-tuffmil-is-found)
 - [Quests which reward **Tuffmil**](#quests-which-reward-tuffmil)
-
 ## Basic information
 
 |   |   |

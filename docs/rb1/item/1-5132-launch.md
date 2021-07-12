@@ -8,7 +8,6 @@ title: Launch (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Dungeons **Launch** is found](#dungeons-launch-is-found)
-
 ## Basic information
 
 |   |   |

@@ -10,7 +10,6 @@ title: Mage Checkers (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Remake System plans which unlock **Mage Checkers** in shop](#remake-system-plans-which-unlock-mage-checkers-in-shop)
 - [Player characters who can equip **Mage Checkers**](#player-characters-who-can-equip-mage-checkers)
-
 ## Basic information
 
 |   |   |

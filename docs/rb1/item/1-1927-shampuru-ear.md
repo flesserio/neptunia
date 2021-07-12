@@ -9,7 +9,6 @@ title: Shampuru Ear (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Shampuru Ear** is found](#dungeons-shampuru-ear-is-found)
 - [Remake System plans which require **Shampuru Ear**](#remake-system-plans-which-require-shampuru-ear)
-
 ## Basic information
 
 |   |   |

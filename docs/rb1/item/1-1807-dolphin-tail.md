@@ -10,7 +10,6 @@ title: Dolphin Tail (Item) - Hyperdimension Neptunia Re;Birth1
 - [Dungeons **Dolphin Tail** is found](#dungeons-dolphin-tail-is-found)
 - [Quests which require gathering **Dolphin Tail**](#quests-which-require-gathering-dolphin-tail)
 - [Remake System plans which require **Dolphin Tail**](#remake-system-plans-which-require-dolphin-tail)
-
 ## Basic information
 
 |   |   |

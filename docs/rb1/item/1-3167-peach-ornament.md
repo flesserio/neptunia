@@ -9,7 +9,6 @@ title: Peach Ornament (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Peach Ornament** in shop](#remake-system-plans-which-unlock-peach-ornament-in-shop)
 - [Player characters who can equip **Peach Ornament**](#player-characters-who-can-equip-peach-ornament)
-
 ## Basic information
 
 |   |   |

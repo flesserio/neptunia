@@ -9,7 +9,6 @@ title: Cross Bracelet (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Cross Bracelet**](#player-characters-who-can-equip-cross-bracelet)
-
 ## Basic information
 
 |   |   |

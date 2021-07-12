@@ -9,7 +9,6 @@ title: Illegal Memory (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Illegal Memory** is found](#dungeons-illegal-memory-is-found)
 - [Remake System plans which require **Illegal Memory**](#remake-system-plans-which-require-illegal-memory)
-
 ## Basic information
 
 |   |   |

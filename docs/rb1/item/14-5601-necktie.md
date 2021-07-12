@@ -10,7 +10,6 @@ title: Necktie (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Player characters who have **Necktie** equipped by default](#player-characters-who-have-necktie-equipped-by-default)
 - [Player characters who can equip **Necktie**](#player-characters-who-can-equip-necktie)
-
 ## Basic information
 
 |   |   |

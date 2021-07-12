@@ -9,7 +9,6 @@ title: Pyocola's Hat (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Pyocola's Hat** is found](#dungeons-pyocolas-hat-is-found)
 - [Player characters who can equip **Pyocola's Hat**](#player-characters-who-can-equip-pyocolas-hat)
-
 ## Basic information
 
 |   |   |

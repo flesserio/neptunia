@@ -9,7 +9,6 @@ title: Pretty Style (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Pretty Style** in shop](#remake-system-plans-which-unlock-pretty-style-in-shop)
 - [Player characters who can equip **Pretty Style**](#player-characters-who-can-equip-pretty-style)
-
 ## Basic information
 
 |   |   |

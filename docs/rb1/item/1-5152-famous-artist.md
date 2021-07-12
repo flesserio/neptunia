@@ -9,7 +9,6 @@ title: Famous Artist (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Famous Artist** is found](#dungeons-famous-artist-is-found)
 - [Colosseum quests which reward **Famous Artist**](#colosseum-quests-which-reward-famous-artist)
-
 ## Basic information
 
 |   |   |

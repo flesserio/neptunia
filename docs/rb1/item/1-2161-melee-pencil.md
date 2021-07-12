@@ -9,7 +9,6 @@ title: Melee Pencil (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Melee Pencil**](#player-characters-who-can-equip-melee-pencil)
-
 ## Basic information
 
 |   |   |

@@ -9,7 +9,6 @@ title: Plan: Lord Lance (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Plans added to Remake System after collecting **Plan: Lord Lance**](#plans-added-to-remake-system-after-collecting-plan-lord-lance)
 - [Dungeons **Plan: Lord Lance** is found](#dungeons-plan-lord-lance-is-found)
-
 ## Basic information
 
 |   |   |

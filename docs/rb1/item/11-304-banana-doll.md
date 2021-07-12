@@ -8,7 +8,6 @@ title: Banana Doll (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Colosseum quests which reward **Banana Doll**](#colosseum-quests-which-reward-banana-doll)
-
 ## Basic information
 
 |   |   |

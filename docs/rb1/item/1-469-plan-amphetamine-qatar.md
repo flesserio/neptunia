@@ -9,7 +9,6 @@ title: Plan: Amphetamine Qatar (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Plans added to Remake System after collecting **Plan: Amphetamine Qatar**](#plans-added-to-remake-system-after-collecting-plan-amphetamine-qatar)
 - [Dungeons **Plan: Amphetamine Qatar** is found](#dungeons-plan-amphetamine-qatar-is-found)
-
 ## Basic information
 
 |   |   |

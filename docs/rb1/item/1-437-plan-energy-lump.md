@@ -9,7 +9,6 @@ title: Plan: Energy Lump (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **Plan: Energy Lump**](#chirpers-who-give-plan-energy-lump)
 - [Plans added to Remake System after collecting **Plan: Energy Lump**](#plans-added-to-remake-system-after-collecting-plan-energy-lump)
-
 ## Basic information
 
 |   |   |

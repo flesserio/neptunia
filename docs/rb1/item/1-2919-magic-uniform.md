@@ -9,7 +9,6 @@ title: Magic Uniform (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Player characters who have **Magic Uniform** equipped by default](#player-characters-who-have-magic-uniform-equipped-by-default)
 - [Player characters who can equip **Magic Uniform**](#player-characters-who-can-equip-magic-uniform)
-
 ## Basic information
 
 |   |   |

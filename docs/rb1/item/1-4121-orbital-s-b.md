@@ -10,7 +10,6 @@ title: Orbital-S B (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Chirpers who give **Orbital-S B**](#chirpers-who-give-orbital-s-b)
 - [Player characters who can equip **Orbital-S B**](#player-characters-who-can-equip-orbital-s-b)
-
 ## Basic information
 
 |   |   |

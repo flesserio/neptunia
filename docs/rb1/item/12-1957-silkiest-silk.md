@@ -9,7 +9,6 @@ title: Silkiest Silk (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Silkiest Silk** is found](#dungeons-silkiest-silk-is-found)
 - [Remake System plans which require **Silkiest Silk**](#remake-system-plans-which-require-silkiest-silk)
-
 ## Basic information
 
 |   |   |

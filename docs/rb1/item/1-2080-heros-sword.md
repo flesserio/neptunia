@@ -9,7 +9,6 @@ title: Hero's Sword (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Hero's Sword**](#player-characters-who-can-equip-heros-sword)
-
 ## Basic information
 
 |   |   |

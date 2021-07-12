@@ -9,7 +9,6 @@ title: Nayuta (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Nayuta** is found](#dungeons-nayuta-is-found)
 - [Player characters who can equip **Nayuta**](#player-characters-who-can-equip-nayuta)
-
 ## Basic information
 
 |   |   |

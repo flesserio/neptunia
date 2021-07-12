@@ -10,7 +10,6 @@ title: Cross Necklace (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Player characters who have **Cross Necklace** equipped by default](#player-characters-who-have-cross-necklace-equipped-by-default)
 - [Player characters who can equip **Cross Necklace**](#player-characters-who-can-equip-cross-necklace)
-
 ## Basic information
 
 |   |   |

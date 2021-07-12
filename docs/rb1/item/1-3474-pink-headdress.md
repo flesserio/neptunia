@@ -9,7 +9,6 @@ title: Pink Headdress (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Pink Headdress** in shop](#remake-system-plans-which-unlock-pink-headdress-in-shop)
 - [Player characters who can equip **Pink Headdress**](#player-characters-who-can-equip-pink-headdress)
-
 ## Basic information
 
 |   |   |

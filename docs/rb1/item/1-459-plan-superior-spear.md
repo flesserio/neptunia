@@ -9,7 +9,6 @@ title: Plan: Superior Spear (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Plans added to Remake System after collecting **Plan: Superior Spear**](#plans-added-to-remake-system-after-collecting-plan-superior-spear)
 - [Dungeons **Plan: Superior Spear** is found](#dungeons-plan-superior-spear-is-found)
-
 ## Basic information
 
 |   |   |

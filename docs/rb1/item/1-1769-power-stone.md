@@ -9,7 +9,6 @@ title: Power Stone (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Power Stone** is found](#dungeons-power-stone-is-found)
 - [Remake System plans which require **Power Stone**](#remake-system-plans-which-require-power-stone)
-
 ## Basic information
 
 |   |   |

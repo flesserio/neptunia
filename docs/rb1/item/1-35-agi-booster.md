@@ -11,7 +11,6 @@ title: AGI Booster (Item) - Hyperdimension Neptunia Re;Birth1
 - [Dungeons **AGI Booster** is found](#dungeons-agi-booster-is-found)
 - [Quests which reward **AGI Booster**](#quests-which-reward-agi-booster)
 - [Remake System plans which require **AGI Booster**](#remake-system-plans-which-require-agi-booster)
-
 ## Basic information
 
 |   |   |

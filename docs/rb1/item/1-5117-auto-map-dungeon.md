@@ -9,7 +9,6 @@ title: Auto-map Dungeon (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Auto-map Dungeon** is found](#dungeons-auto-map-dungeon-is-found)
 - [Quests which reward **Auto-map Dungeon**](#quests-which-reward-auto-map-dungeon)
-
 ## Basic information
 
 |   |   |

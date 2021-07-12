@@ -10,7 +10,6 @@ title: Cat Goggles (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Dungeons **Cat Goggles** is found](#dungeons-cat-goggles-is-found)
 - [Player characters who can equip **Cat Goggles**](#player-characters-who-can-equip-cat-goggles)
-
 ## Basic information
 
 |   |   |

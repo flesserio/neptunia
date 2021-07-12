@@ -9,7 +9,6 @@ title: Purple Butterfly (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which require **Purple Butterfly**](#remake-system-plans-which-require-purple-butterfly)
 - [Player characters who can equip **Purple Butterfly**](#player-characters-who-can-equip-purple-butterfly)
-
 ## Basic information
 
 |   |   |

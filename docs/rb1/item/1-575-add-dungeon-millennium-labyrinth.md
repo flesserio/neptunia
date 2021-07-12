@@ -9,7 +9,6 @@ title: Add Dungeon: Millennium Labyrinth (Item) - Hyperdimension Neptunia Re;Bir
 - [Basic information](#basic-information)
 - [Chirpers who give **Add Dungeon: Millennium Labyrinth**](#chirpers-who-give-add-dungeon-millennium-labyrinth)
 - [Plans added to Remake System after collecting **Add Dungeon: Millennium Labyrinth**](#plans-added-to-remake-system-after-collecting-add-dungeon-millennium-labyrinth)
-
 ## Basic information
 
 |   |   |

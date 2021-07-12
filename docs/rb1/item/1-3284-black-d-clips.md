@@ -8,7 +8,6 @@ title: Black D-Clips (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Player characters who can equip **Black D-Clips**](#player-characters-who-can-equip-black-d-clips)
-
 ## Basic information
 
 |   |   |

@@ -9,7 +9,6 @@ title: Death Cloth (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Death Cloth** is found](#dungeons-death-cloth-is-found)
 - [Remake System plans which require **Death Cloth**](#remake-system-plans-which-require-death-cloth)
-
 ## Basic information
 
 |   |   |

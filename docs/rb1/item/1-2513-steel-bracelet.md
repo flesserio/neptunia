@@ -9,7 +9,6 @@ title: Steel Bracelet (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Steel Bracelet**](#player-characters-who-can-equip-steel-bracelet)
-
 ## Basic information
 
 |   |   |

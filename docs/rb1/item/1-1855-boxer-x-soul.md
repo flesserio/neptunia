@@ -10,7 +10,6 @@ title: Boxer-X Soul (Item) - Hyperdimension Neptunia Re;Birth1
 - [Dungeons **Boxer-X Soul** is found](#dungeons-boxer-x-soul-is-found)
 - [Quests which require gathering **Boxer-X Soul**](#quests-which-require-gathering-boxer-x-soul)
 - [Remake System plans which require **Boxer-X Soul**](#remake-system-plans-which-require-boxer-x-soul)
-
 ## Basic information
 
 |   |   |

@@ -9,7 +9,6 @@ title: Leopard Gloves (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Leopard Gloves**](#player-characters-who-can-equip-leopard-gloves)
-
 ## Basic information
 
 |   |   |

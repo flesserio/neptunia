@@ -8,7 +8,6 @@ title: Purple Keychain (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Colosseum quests which reward **Purple Keychain**](#colosseum-quests-which-reward-purple-keychain)
-
 ## Basic information
 
 |   |   |

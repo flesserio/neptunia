@@ -9,7 +9,6 @@ title: Mysterious Glowing Object (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Mysterious Glowing Object** is found](#dungeons-mysterious-glowing-object-is-found)
 - [Remake System plans which require **Mysterious Glowing Object**](#remake-system-plans-which-require-mysterious-glowing-object)
-
 ## Basic information
 
 |   |   |

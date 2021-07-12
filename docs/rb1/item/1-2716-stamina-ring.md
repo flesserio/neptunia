@@ -9,7 +9,6 @@ title: Stamina Ring (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Stamina Ring**](#player-characters-who-can-equip-stamina-ring)
-
 ## Basic information
 
 |   |   |

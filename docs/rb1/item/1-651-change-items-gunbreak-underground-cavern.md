@@ -9,7 +9,6 @@ title: Change Items: Gunbreak Underground Cavern (Item) - Hyperdimension Neptuni
 - [Basic information](#basic-information)
 - [Chirpers who give **Change Items: Gunbreak Underground Cavern**](#chirpers-who-give-change-items-gunbreak-underground-cavern)
 - [Plans added to Remake System after collecting **Change Items: Gunbreak Underground Cavern**](#plans-added-to-remake-system-after-collecting-change-items-gunbreak-underground-cavern)
-
 ## Basic information
 
 |   |   |

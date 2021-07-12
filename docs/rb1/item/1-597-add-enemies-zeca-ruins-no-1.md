@@ -9,7 +9,6 @@ title: Add Enemies: Zeca Ruins No.1 (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **Add Enemies: Zeca Ruins No.1**](#chirpers-who-give-add-enemies-zeca-ruins-no1)
 - [Plans added to Remake System after collecting **Add Enemies: Zeca Ruins No.1**](#plans-added-to-remake-system-after-collecting-add-enemies-zeca-ruins-no1)
-
 ## Basic information
 
 |   |   |

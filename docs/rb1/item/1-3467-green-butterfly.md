@@ -9,7 +9,6 @@ title: Green Butterfly (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Green Butterfly** in shop](#remake-system-plans-which-unlock-green-butterfly-in-shop)
 - [Player characters who can equip **Green Butterfly**](#player-characters-who-can-equip-green-butterfly)
-
 ## Basic information
 
 |   |   |

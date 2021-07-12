@@ -10,7 +10,6 @@ title: Metal Dogoo Pencil (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Colosseum quests which reward **Metal Dogoo Pencil**](#colosseum-quests-which-reward-metal-dogoo-pencil)
 - [Player characters who can equip **Metal Dogoo Pencil**](#player-characters-who-can-equip-metal-dogoo-pencil)
-
 ## Basic information
 
 |   |   |

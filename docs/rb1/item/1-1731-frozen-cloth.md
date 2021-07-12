@@ -9,7 +9,6 @@ title: Frozen Cloth (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Frozen Cloth** is found](#dungeons-frozen-cloth-is-found)
 - [Remake System plans which require **Frozen Cloth**](#remake-system-plans-which-require-frozen-cloth)
-
 ## Basic information
 
 |   |   |

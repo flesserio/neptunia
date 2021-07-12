@@ -9,7 +9,6 @@ title: Ice Wolf Claw (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Ice Wolf Claw** is found](#dungeons-ice-wolf-claw-is-found)
 - [Remake System plans which require **Ice Wolf Claw**](#remake-system-plans-which-require-ice-wolf-claw)
-
 ## Basic information
 
 |   |   |

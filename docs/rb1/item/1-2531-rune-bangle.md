@@ -9,7 +9,6 @@ title: Rune Bangle (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Rune Bangle**](#player-characters-who-can-equip-rune-bangle)
-
 ## Basic information
 
 |   |   |

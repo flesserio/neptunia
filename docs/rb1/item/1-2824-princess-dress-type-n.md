@@ -10,7 +10,6 @@ title: Princess Dress Type-N (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Quests which reward **Princess Dress Type-N**](#quests-which-reward-princess-dress-type-n)
 - [Player characters who can equip **Princess Dress Type-N**](#player-characters-who-can-equip-princess-dress-type-n)
-
 ## Basic information
 
 |   |   |

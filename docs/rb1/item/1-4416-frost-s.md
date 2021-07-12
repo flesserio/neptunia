@@ -10,7 +10,6 @@ title: Frost S (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Dungeons **Frost S** is found](#dungeons-frost-s-is-found)
 - [Player characters who can equip **Frost S**](#player-characters-who-can-equip-frost-s)
-
 ## Basic information
 
 |   |   |

@@ -8,7 +8,6 @@ title: Crime Action (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Dungeons **Crime Action** is found](#dungeons-crime-action-is-found)
-
 ## Basic information
 
 |   |   |

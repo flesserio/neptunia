@@ -9,7 +9,6 @@ title: Wooden Sword+1 (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Wooden Sword+1**](#player-characters-who-can-equip-wooden-sword-1)
-
 ## Basic information
 
 |   |   |

@@ -10,7 +10,6 @@ title: Mr. Kitty (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Player characters who have **Mr. Kitty** equipped by default](#player-characters-who-have-mr-kitty-equipped-by-default)
 - [Player characters who can equip **Mr. Kitty**](#player-characters-who-can-equip-mr-kitty)
-
 ## Basic information
 
 |   |   |

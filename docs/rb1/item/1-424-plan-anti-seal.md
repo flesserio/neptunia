@@ -9,7 +9,6 @@ title: Plan: Anti-Seal (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **Plan: Anti-Seal**](#chirpers-who-give-plan-anti-seal)
 - [Plans added to Remake System after collecting **Plan: Anti-Seal**](#plans-added-to-remake-system-after-collecting-plan-anti-seal)
-
 ## Basic information
 
 |   |   |

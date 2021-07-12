@@ -9,7 +9,6 @@ title: Plan: Burst Qatar (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Plans added to Remake System after collecting **Plan: Burst Qatar**](#plans-added-to-remake-system-after-collecting-plan-burst-qatar)
 - [Dungeons **Plan: Burst Qatar** is found](#dungeons-plan-burst-qatar-is-found)
-
 ## Basic information
 
 |   |   |

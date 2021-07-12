@@ -9,7 +9,6 @@ title: Red Gel Feeler (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Red Gel Feeler** is found](#dungeons-red-gel-feeler-is-found)
 - [Remake System plans which require **Red Gel Feeler**](#remake-system-plans-which-require-red-gel-feeler)
-
 ## Basic information
 
 |   |   |

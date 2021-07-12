@@ -9,7 +9,6 @@ title: Studded Bracelet (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Studded Bracelet**](#player-characters-who-can-equip-studded-bracelet)
-
 ## Basic information
 
 |   |   |

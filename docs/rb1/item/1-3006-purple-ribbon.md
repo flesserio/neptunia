@@ -9,7 +9,6 @@ title: Purple Ribbon (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Purple Ribbon** in shop](#remake-system-plans-which-unlock-purple-ribbon-in-shop)
 - [Player characters who can equip **Purple Ribbon**](#player-characters-who-can-equip-purple-ribbon)
-
 ## Basic information
 
 |   |   |

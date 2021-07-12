@@ -9,7 +9,6 @@ title: Heisen Slay  (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Heisen Slay **](#player-characters-who-can-equip-heisen-slay)
-
 ## Basic information
 
 |   |   |

@@ -9,7 +9,6 @@ title: Red Petal (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Red Petal** is found](#dungeons-red-petal-is-found)
 - [Remake System plans which require **Red Petal**](#remake-system-plans-which-require-red-petal)
-
 ## Basic information
 
 |   |   |

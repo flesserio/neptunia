@@ -8,7 +8,6 @@ title: Summer Night (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Player characters who can equip **Summer Night**](#player-characters-who-can-equip-summer-night)
-
 ## Basic information
 
 |   |   |

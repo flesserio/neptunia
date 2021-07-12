@@ -9,7 +9,6 @@ title: Leafy Ribbon (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Player characters who have **Leafy Ribbon** equipped by default](#player-characters-who-have-leafy-ribbon-equipped-by-default)
 - [Player characters who can equip **Leafy Ribbon**](#player-characters-who-can-equip-leafy-ribbon)
-
 ## Basic information
 
 |   |   |

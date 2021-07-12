@@ -9,7 +9,6 @@ title: Add Dungeon: Duty Space (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **Add Dungeon: Duty Space**](#chirpers-who-give-add-dungeon-duty-space)
 - [Plans added to Remake System after collecting **Add Dungeon: Duty Space**](#plans-added-to-remake-system-after-collecting-add-dungeon-duty-space)
-
 ## Basic information
 
 |   |   |

@@ -1,5 +1,5 @@
 ---
-title: &lt;BLANK&gt; W (Item) - Hyperdimension Neptunia Re;Birth1
+title: <BLANK> W (Item) - Hyperdimension Neptunia Re;Birth1
 ---
 
 [**Item Index**](/neptunia/rb1/item/index.html) - [Hyperdimension Neptunia Re;Birth1](/neptunia/rb1)
@@ -8,7 +8,6 @@ title: &lt;BLANK&gt; W (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Player characters who can equip **&lt;BLANK&gt; W**](#player-characters-who-can-equip-blank-w)
-
 ## Basic information
 
 |   |   |

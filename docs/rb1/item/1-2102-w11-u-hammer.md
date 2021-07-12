@@ -10,7 +10,6 @@ title: W11-U Hammer (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Colosseum quests which reward **W11-U Hammer**](#colosseum-quests-which-reward-w11-u-hammer)
 - [Player characters who can equip **W11-U Hammer**](#player-characters-who-can-equip-w11-u-hammer)
-
 ## Basic information
 
 |   |   |

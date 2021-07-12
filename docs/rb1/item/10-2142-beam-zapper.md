@@ -10,7 +10,6 @@ title: Beam Zapper (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Dungeons **Beam Zapper** is found](#dungeons-beam-zapper-is-found)
 - [Player characters who can equip **Beam Zapper**](#player-characters-who-can-equip-beam-zapper)
-
 ## Basic information
 
 |   |   |

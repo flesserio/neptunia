@@ -9,7 +9,6 @@ title: Nice Boxbird Wing (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Nice Boxbird Wing** is found](#dungeons-nice-boxbird-wing-is-found)
 - [Remake System plans which require **Nice Boxbird Wing**](#remake-system-plans-which-require-nice-boxbird-wing)
-
 ## Basic information
 
 |   |   |

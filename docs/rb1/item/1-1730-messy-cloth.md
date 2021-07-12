@@ -9,7 +9,6 @@ title: Messy Cloth (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Messy Cloth** is found](#dungeons-messy-cloth-is-found)
 - [Remake System plans which require **Messy Cloth**](#remake-system-plans-which-require-messy-cloth)
-
 ## Basic information
 
 |   |   |

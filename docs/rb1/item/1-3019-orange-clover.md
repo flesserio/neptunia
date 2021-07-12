@@ -9,7 +9,6 @@ title: Orange Clover (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Orange Clover** in shop](#remake-system-plans-which-unlock-orange-clover-in-shop)
 - [Player characters who can equip **Orange Clover**](#player-characters-who-can-equip-orange-clover)
-
 ## Basic information
 
 |   |   |

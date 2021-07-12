@@ -8,7 +8,6 @@ title: Magical Reactor (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Remake System plans which require **Magical Reactor**](#remake-system-plans-which-require-magical-reactor)
-
 ## Basic information
 
 |   |   |

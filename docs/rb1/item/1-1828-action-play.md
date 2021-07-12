@@ -9,7 +9,6 @@ title: Action Play (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Action Play** is found](#dungeons-action-play-is-found)
 - [Remake System plans which require **Action Play**](#remake-system-plans-which-require-action-play)
-
 ## Basic information
 
 |   |   |

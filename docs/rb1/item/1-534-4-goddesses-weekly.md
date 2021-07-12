@@ -9,7 +9,6 @@ title: 4 Goddesses Weekly (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **4 Goddesses Weekly**](#chirpers-who-give-4-goddesses-weekly)
 - [Plans added to Remake System after collecting **4 Goddesses Weekly**](#plans-added-to-remake-system-after-collecting-4-goddesses-weekly)
-
 ## Basic information
 
 |   |   |

@@ -8,7 +8,6 @@ title: Green Heart Doll (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Colosseum quests which reward **Green Heart Doll**](#colosseum-quests-which-reward-green-heart-doll)
-
 ## Basic information
 
 |   |   |

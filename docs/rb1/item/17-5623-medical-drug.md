@@ -9,7 +9,6 @@ title: Medical Drug (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Medical Drug**](#player-characters-who-can-equip-medical-drug)
-
 ## Basic information
 
 |   |   |

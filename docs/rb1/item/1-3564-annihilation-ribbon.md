@@ -8,7 +8,6 @@ title: Annihilation Ribbon (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Player characters who can equip **Annihilation Ribbon**](#player-characters-who-can-equip-annihilation-ribbon)
-
 ## Basic information
 
 |   |   |

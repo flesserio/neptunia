@@ -10,7 +10,6 @@ title: Anti-Paralysis (Item) - Hyperdimension Neptunia Re;Birth1
 - [Remake System plans which unlock **Anti-Paralysis** in shop](#remake-system-plans-which-unlock-anti-paralysis-in-shop)
 - [Dungeons **Anti-Paralysis** is found](#dungeons-anti-paralysis-is-found)
 - [Remake System plans which require **Anti-Paralysis**](#remake-system-plans-which-require-anti-paralysis)
-
 ## Basic information
 
 |   |   |

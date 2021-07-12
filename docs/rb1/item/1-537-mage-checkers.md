@@ -9,7 +9,6 @@ title: Mage Checkers (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **Mage Checkers**](#chirpers-who-give-mage-checkers)
 - [Plans added to Remake System after collecting **Mage Checkers**](#plans-added-to-remake-system-after-collecting-mage-checkers)
-
 ## Basic information
 
 |   |   |

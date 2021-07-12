@@ -9,7 +9,6 @@ title: Silver Fragment (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Silver Fragment** is found](#dungeons-silver-fragment-is-found)
 - [Remake System plans which require **Silver Fragment**](#remake-system-plans-which-require-silver-fragment)
-
 ## Basic information
 
 |   |   |

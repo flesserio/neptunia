@@ -9,7 +9,6 @@ title: Raindrop (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Raindrop** in shop](#remake-system-plans-which-unlock-raindrop-in-shop)
 - [Player characters who can equip **Raindrop**](#player-characters-who-can-equip-raindrop)
-
 ## Basic information
 
 |   |   |

@@ -8,7 +8,6 @@ title: Moon Hat (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Player characters who can equip **Moon Hat**](#player-characters-who-can-equip-moon-hat)
-
 ## Basic information
 
 |   |   |

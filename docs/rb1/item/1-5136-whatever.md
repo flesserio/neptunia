@@ -8,7 +8,6 @@ title: Whatever (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Dungeons **Whatever** is found](#dungeons-whatever-is-found)
-
 ## Basic information
 
 |   |   |

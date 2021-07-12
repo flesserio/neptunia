@@ -9,7 +9,6 @@ title: Add Super Enemies: Millenium Labryinth (Item) - Hyperdimension Neptunia R
 - [Basic information](#basic-information)
 - [Chirpers who give **Add Super Enemies: Millenium Labryinth**](#chirpers-who-give-add-super-enemies-millenium-labryinth)
 - [Plans added to Remake System after collecting **Add Super Enemies: Millenium Labryinth**](#plans-added-to-remake-system-after-collecting-add-super-enemies-millenium-labryinth)
-
 ## Basic information
 
 |   |   |

@@ -9,7 +9,6 @@ title: Terra L (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Terra L**](#player-characters-who-can-equip-terra-l)
-
 ## Basic information
 
 |   |   |

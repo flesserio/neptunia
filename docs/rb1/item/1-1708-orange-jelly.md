@@ -9,7 +9,6 @@ title: Orange Jelly (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Orange Jelly** is found](#dungeons-orange-jelly-is-found)
 - [Remake System plans which require **Orange Jelly**](#remake-system-plans-which-require-orange-jelly)
-
 ## Basic information
 
 |   |   |

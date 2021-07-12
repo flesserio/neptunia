@@ -10,7 +10,6 @@ title: White Cat Ears (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Dungeons **White Cat Ears** is found](#dungeons-white-cat-ears-is-found)
 - [Player characters who can equip **White Cat Ears**](#player-characters-who-can-equip-white-cat-ears)
-
 ## Basic information
 
 |   |   |

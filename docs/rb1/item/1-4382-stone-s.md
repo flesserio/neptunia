@@ -9,7 +9,6 @@ title: Stone S (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Stone S**](#player-characters-who-can-equip-stone-s)
-
 ## Basic information
 
 |   |   |

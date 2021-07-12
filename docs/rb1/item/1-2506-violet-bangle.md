@@ -10,7 +10,6 @@ title: Violet Bangle (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Player characters who have **Violet Bangle** equipped by default](#player-characters-who-have-violet-bangle-equipped-by-default)
 - [Player characters who can equip **Violet Bangle**](#player-characters-who-can-equip-violet-bangle)
-
 ## Basic information
 
 |   |   |

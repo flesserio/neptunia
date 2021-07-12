@@ -9,7 +9,6 @@ title: White Tome (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Plans added to Remake System after collecting **White Tome**](#plans-added-to-remake-system-after-collecting-white-tome)
 - [Colosseum quests which reward **White Tome**](#colosseum-quests-which-reward-white-tome)
-
 ## Basic information
 
 |   |   |

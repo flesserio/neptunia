@@ -10,7 +10,6 @@ title: Noire's Ring (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Dungeons **Noire's Ring** is found](#dungeons-noires-ring-is-found)
 - [Player characters who can equip **Noire's Ring**](#player-characters-who-can-equip-noires-ring)
-
 ## Basic information
 
 |   |   |

@@ -9,7 +9,6 @@ title: Crab Shell (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Crab Shell** is found](#dungeons-crab-shell-is-found)
 - [Remake System plans which require **Crab Shell**](#remake-system-plans-which-require-crab-shell)
-
 ## Basic information
 
 |   |   |

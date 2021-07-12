@@ -9,7 +9,6 @@ title: Blacklight Scale (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Blacklight Scale** is found](#dungeons-blacklight-scale-is-found)
 - [Remake System plans which require **Blacklight Scale**](#remake-system-plans-which-require-blacklight-scale)
-
 ## Basic information
 
 |   |   |

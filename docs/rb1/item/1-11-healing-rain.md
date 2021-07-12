@@ -8,7 +8,6 @@ title: Healing Rain (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Healing Rain** in shop](#remake-system-plans-which-unlock-healing-rain-in-shop)
-
 ## Basic information
 
 |   |   |

@@ -10,7 +10,6 @@ title: Golden Bangle (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Player characters who have **Golden Bangle** equipped by default](#player-characters-who-have-golden-bangle-equipped-by-default)
 - [Player characters who can equip **Golden Bangle**](#player-characters-who-can-equip-golden-bangle)
-
 ## Basic information
 
 |   |   |

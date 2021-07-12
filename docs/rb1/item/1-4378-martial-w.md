@@ -10,7 +10,6 @@ title: Martial W (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Dungeons **Martial W** is found](#dungeons-martial-w-is-found)
 - [Player characters who can equip **Martial W**](#player-characters-who-can-equip-martial-w)
-
 ## Basic information
 
 |   |   |

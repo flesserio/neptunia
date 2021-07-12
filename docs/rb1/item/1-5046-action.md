@@ -8,7 +8,6 @@ title: Action (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Dungeons **Action** is found](#dungeons-action-is-found)
-
 ## Basic information
 
 |   |   |

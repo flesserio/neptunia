@@ -9,7 +9,6 @@ title: Add Dungeon: Giant Island (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **Add Dungeon: Giant Island**](#chirpers-who-give-add-dungeon-giant-island)
 - [Plans added to Remake System after collecting **Add Dungeon: Giant Island**](#plans-added-to-remake-system-after-collecting-add-dungeon-giant-island)
-
 ## Basic information
 
 |   |   |

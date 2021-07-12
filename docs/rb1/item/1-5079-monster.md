@@ -8,7 +8,6 @@ title: Monster (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Dungeons **Monster** is found](#dungeons-monster-is-found)
-
 ## Basic information
 
 |   |   |

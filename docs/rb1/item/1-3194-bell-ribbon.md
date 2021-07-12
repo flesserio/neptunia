@@ -10,7 +10,6 @@ title: Bell Ribbon (Item) - Hyperdimension Neptunia Re;Birth1
 - [Dungeons **Bell Ribbon** is found](#dungeons-bell-ribbon-is-found)
 - [Remake System plans which require **Bell Ribbon**](#remake-system-plans-which-require-bell-ribbon)
 - [Player characters who can equip **Bell Ribbon**](#player-characters-who-can-equip-bell-ribbon)
-
 ## Basic information
 
 |   |   |

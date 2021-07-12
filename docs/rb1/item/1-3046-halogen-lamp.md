@@ -9,7 +9,6 @@ title: Halogen Lamp (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Halogen Lamp** in shop](#remake-system-plans-which-unlock-halogen-lamp-in-shop)
 - [Player characters who can equip **Halogen Lamp**](#player-characters-who-can-equip-halogen-lamp)
-
 ## Basic information
 
 |   |   |

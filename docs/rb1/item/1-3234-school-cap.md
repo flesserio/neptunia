@@ -9,7 +9,6 @@ title: School Cap (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Quests which reward **School Cap**](#quests-which-reward-school-cap)
 - [Player characters who can equip **School Cap**](#player-characters-who-can-equip-school-cap)
-
 ## Basic information
 
 |   |   |

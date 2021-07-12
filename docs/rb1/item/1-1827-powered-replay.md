@@ -9,7 +9,6 @@ title: Powered Replay (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Powered Replay** is found](#dungeons-powered-replay-is-found)
 - [Remake System plans which require **Powered Replay**](#remake-system-plans-which-require-powered-replay)
-
 ## Basic information
 
 |   |   |

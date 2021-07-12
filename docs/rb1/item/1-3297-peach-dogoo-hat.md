@@ -9,7 +9,6 @@ title: Peach Dogoo Hat (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Peach Dogoo Hat** in shop](#remake-system-plans-which-unlock-peach-dogoo-hat-in-shop)
 - [Player characters who can equip **Peach Dogoo Hat**](#player-characters-who-can-equip-peach-dogoo-hat)
-
 ## Basic information
 
 |   |   |

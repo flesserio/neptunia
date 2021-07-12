@@ -9,7 +9,6 @@ title: Colosseum Unlock (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **Colosseum Unlock**](#chirpers-who-give-colosseum-unlock)
 - [Plans added to Remake System after collecting **Colosseum Unlock**](#plans-added-to-remake-system-after-collecting-colosseum-unlock)
-
 ## Basic information
 
 |   |   |

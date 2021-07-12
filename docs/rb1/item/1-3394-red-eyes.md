@@ -9,7 +9,6 @@ title: Red Eyes (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which require **Red Eyes**](#remake-system-plans-which-require-red-eyes)
 - [Player characters who can equip **Red Eyes**](#player-characters-who-can-equip-red-eyes)
-
 ## Basic information
 
 |   |   |

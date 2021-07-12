@@ -8,7 +8,6 @@ title: Black Heart PVC (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Dungeons **Black Heart PVC** is found](#dungeons-black-heart-pvc-is-found)
-
 ## Basic information
 
 |   |   |

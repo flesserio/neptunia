@@ -9,7 +9,6 @@ title: Change Items: Avenir Storage No.4 (Item) - Hyperdimension Neptunia Re;Bir
 - [Basic information](#basic-information)
 - [Chirpers who give **Change Items: Avenir Storage No.4**](#chirpers-who-give-change-items-avenir-storage-no4)
 - [Plans added to Remake System after collecting **Change Items: Avenir Storage No.4**](#plans-added-to-remake-system-after-collecting-change-items-avenir-storage-no4)
-
 ## Basic information
 
 |   |   |

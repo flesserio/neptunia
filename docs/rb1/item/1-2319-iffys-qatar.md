@@ -10,7 +10,6 @@ title: Iffy's Qatar (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Colosseum quests which reward **Iffy's Qatar**](#colosseum-quests-which-reward-iffys-qatar)
 - [Player characters who can equip **Iffy's Qatar**](#player-characters-who-can-equip-iffys-qatar)
-
 ## Basic information
 
 |   |   |

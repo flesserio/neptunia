@@ -9,7 +9,6 @@ title: Change Items: Adjiten Forest Pass (Item) - Hyperdimension Neptunia Re;Bir
 - [Basic information](#basic-information)
 - [Chirpers who give **Change Items: Adjiten Forest Pass**](#chirpers-who-give-change-items-adjiten-forest-pass)
 - [Plans added to Remake System after collecting **Change Items: Adjiten Forest Pass**](#plans-added-to-remake-system-after-collecting-change-items-adjiten-forest-pass)
-
 ## Basic information
 
 |   |   |

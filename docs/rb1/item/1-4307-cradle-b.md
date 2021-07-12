@@ -10,7 +10,6 @@ title: Cradle B (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Player characters who have **Cradle B** equipped by default](#player-characters-who-have-cradle-b-equipped-by-default)
 - [Player characters who can equip **Cradle B**](#player-characters-who-can-equip-cradle-b)
-
 ## Basic information
 
 |   |   |

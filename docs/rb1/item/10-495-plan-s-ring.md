@@ -9,7 +9,6 @@ title: Plan: S Ring (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Plans added to Remake System after collecting **Plan: S Ring**](#plans-added-to-remake-system-after-collecting-plan-s-ring)
 - [Dungeons **Plan: S Ring** is found](#dungeons-plan-s-ring-is-found)
-
 ## Basic information
 
 |   |   |

@@ -10,7 +10,6 @@ title: Iron Bracelet (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Player characters who have **Iron Bracelet** equipped by default](#player-characters-who-have-iron-bracelet-equipped-by-default)
 - [Player characters who can equip **Iron Bracelet**](#player-characters-who-can-equip-iron-bracelet)
-
 ## Basic information
 
 |   |   |

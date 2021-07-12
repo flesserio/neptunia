@@ -9,7 +9,6 @@ title: Noble Pink Beret (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Noble Pink Beret** in shop](#remake-system-plans-which-unlock-noble-pink-beret-in-shop)
 - [Player characters who can equip **Noble Pink Beret**](#player-characters-who-can-equip-noble-pink-beret)
-
 ## Basic information
 
 |   |   |

@@ -9,7 +9,6 @@ title: Plan: Beam Katana Beta (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **Plan: Beam Katana Beta**](#chirpers-who-give-plan-beam-katana-beta)
 - [Plans added to Remake System after collecting **Plan: Beam Katana Beta**](#plans-added-to-remake-system-after-collecting-plan-beam-katana-beta)
-
 ## Basic information
 
 |   |   |

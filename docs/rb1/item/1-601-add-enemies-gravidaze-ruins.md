@@ -9,7 +9,6 @@ title: Add Enemies: Gravidaze Ruins (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **Add Enemies: Gravidaze Ruins**](#chirpers-who-give-add-enemies-gravidaze-ruins)
 - [Plans added to Remake System after collecting **Add Enemies: Gravidaze Ruins**](#plans-added-to-remake-system-after-collecting-add-enemies-gravidaze-ruins)
-
 ## Basic information
 
 |   |   |

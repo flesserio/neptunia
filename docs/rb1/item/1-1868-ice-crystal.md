@@ -9,7 +9,6 @@ title: Ice Crystal (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Ice Crystal** is found](#dungeons-ice-crystal-is-found)
 - [Remake System plans which require **Ice Crystal**](#remake-system-plans-which-require-ice-crystal)
-
 ## Basic information
 
 |   |   |

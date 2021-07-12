@@ -9,7 +9,6 @@ title: Change Items: Monster Cave (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **Change Items: Monster Cave**](#chirpers-who-give-change-items-monster-cave)
 - [Plans added to Remake System after collecting **Change Items: Monster Cave**](#plans-added-to-remake-system-after-collecting-change-items-monster-cave)
-
 ## Basic information
 
 |   |   |

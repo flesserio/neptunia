@@ -10,7 +10,6 @@ title: Excel-Lance (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Remake System plans which unlock **Excel-Lance** in shop](#remake-system-plans-which-unlock-excel-lance-in-shop)
 - [Player characters who can equip **Excel-Lance**](#player-characters-who-can-equip-excel-lance)
-
 ## Basic information
 
 |   |   |

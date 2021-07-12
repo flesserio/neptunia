@@ -9,7 +9,6 @@ title: Cherry Blossom (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which require **Cherry Blossom**](#remake-system-plans-which-require-cherry-blossom)
 - [Player characters who can equip **Cherry Blossom**](#player-characters-who-can-equip-cherry-blossom)
-
 ## Basic information
 
 |   |   |

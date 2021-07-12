@@ -10,7 +10,6 @@ title: Leanbox W (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Remake System plans which unlock **Leanbox W** in shop](#remake-system-plans-which-unlock-leanbox-w-in-shop)
 - [Player characters who can equip **Leanbox W**](#player-characters-who-can-equip-leanbox-w)
-
 ## Basic information
 
 |   |   |

@@ -8,7 +8,6 @@ title: Learn by Dying (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Dungeons **Learn by Dying** is found](#dungeons-learn-by-dying-is-found)
-
 ## Basic information
 
 |   |   |

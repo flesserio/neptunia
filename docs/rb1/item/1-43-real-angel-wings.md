@@ -10,7 +10,6 @@ title: Real Angel Wings (Item) - Hyperdimension Neptunia Re;Birth1
 - [Remake System plans which unlock **Real Angel Wings** in shop](#remake-system-plans-which-unlock-real-angel-wings-in-shop)
 - [Dungeons **Real Angel Wings** is found](#dungeons-real-angel-wings-is-found)
 - [Colosseum quests which reward **Real Angel Wings**](#colosseum-quests-which-reward-real-angel-wings)
-
 ## Basic information
 
 |   |   |

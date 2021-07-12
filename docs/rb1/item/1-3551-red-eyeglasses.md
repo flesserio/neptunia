@@ -9,7 +9,6 @@ title: Red Eyeglasses (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Red Eyeglasses**](#player-characters-who-can-equip-red-eyeglasses)
-
 ## Basic information
 
 |   |   |

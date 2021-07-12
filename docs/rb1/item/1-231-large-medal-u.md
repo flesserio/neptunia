@@ -8,7 +8,6 @@ title: Large Medal U (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Dungeons **Large Medal U** is found](#dungeons-large-medal-u-is-found)
-
 ## Basic information
 
 |   |   |

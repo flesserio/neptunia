@@ -9,7 +9,6 @@ title: Change Items: Soulsac Cave (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **Change Items: Soulsac Cave**](#chirpers-who-give-change-items-soulsac-cave)
 - [Plans added to Remake System after collecting **Change Items: Soulsac Cave**](#plans-added-to-remake-system-after-collecting-change-items-soulsac-cave)
-
 ## Basic information
 
 |   |   |

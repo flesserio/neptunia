@@ -10,7 +10,6 @@ title: Martial H (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Dungeons **Martial H** is found](#dungeons-martial-h-is-found)
 - [Player characters who can equip **Martial H**](#player-characters-who-can-equip-martial-h)
-
 ## Basic information
 
 |   |   |

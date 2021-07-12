@@ -10,7 +10,6 @@ title: Shinobi Ribbon (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Dungeons **Shinobi Ribbon** is found](#dungeons-shinobi-ribbon-is-found)
 - [Player characters who can equip **Shinobi Ribbon**](#player-characters-who-can-equip-shinobi-ribbon)
-
 ## Basic information
 
 |   |   |

@@ -9,7 +9,6 @@ title: Illegal Hardware (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Illegal Hardware** is found](#dungeons-illegal-hardware-is-found)
 - [Remake System plans which require **Illegal Hardware**](#remake-system-plans-which-require-illegal-hardware)
-
 ## Basic information
 
 |   |   |

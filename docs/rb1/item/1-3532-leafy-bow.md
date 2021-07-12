@@ -10,7 +10,6 @@ title: Leafy Bow (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Player characters who have **Leafy Bow** equipped by default](#player-characters-who-have-leafy-bow-equipped-by-default)
 - [Player characters who can equip **Leafy Bow**](#player-characters-who-can-equip-leafy-bow)
-
 ## Basic information
 
 |   |   |

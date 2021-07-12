@@ -9,7 +9,6 @@ title: Hard Earth Pipe (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Hard Earth Pipe** is found](#dungeons-hard-earth-pipe-is-found)
 - [Remake System plans which require **Hard Earth Pipe**](#remake-system-plans-which-require-hard-earth-pipe)
-
 ## Basic information
 
 |   |   |

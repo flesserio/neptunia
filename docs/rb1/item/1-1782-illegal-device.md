@@ -9,7 +9,6 @@ title: Illegal Device (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Illegal Device** is found](#dungeons-illegal-device-is-found)
 - [Remake System plans which require **Illegal Device**](#remake-system-plans-which-require-illegal-device)
-
 ## Basic information
 
 |   |   |

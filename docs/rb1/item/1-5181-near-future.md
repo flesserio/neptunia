@@ -8,7 +8,6 @@ title: Near Future (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Dungeons **Near Future** is found](#dungeons-near-future-is-found)
-
 ## Basic information
 
 |   |   |

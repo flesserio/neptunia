@@ -9,7 +9,6 @@ title: Valiant Tama (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Valiant Tama** is found](#dungeons-valiant-tama-is-found)
 - [Remake System plans which require **Valiant Tama**](#remake-system-plans-which-require-valiant-tama)
-
 ## Basic information
 
 |   |   |

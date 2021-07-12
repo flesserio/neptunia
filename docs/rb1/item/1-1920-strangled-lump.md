@@ -10,7 +10,6 @@ title: Strangled Lump (Item) - Hyperdimension Neptunia Re;Birth1
 - [Dungeons **Strangled Lump** is found](#dungeons-strangled-lump-is-found)
 - [Quests which require gathering **Strangled Lump**](#quests-which-require-gathering-strangled-lump)
 - [Remake System plans which require **Strangled Lump**](#remake-system-plans-which-require-strangled-lump)
-
 ## Basic information
 
 |   |   |

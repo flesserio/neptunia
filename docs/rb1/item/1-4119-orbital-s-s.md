@@ -10,7 +10,6 @@ title: Orbital-S S (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Dungeons **Orbital-S S** is found](#dungeons-orbital-s-s-is-found)
 - [Player characters who can equip **Orbital-S S**](#player-characters-who-can-equip-orbital-s-s)
-
 ## Basic information
 
 |   |   |

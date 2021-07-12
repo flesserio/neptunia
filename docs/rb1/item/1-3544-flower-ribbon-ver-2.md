@@ -10,7 +10,6 @@ title: Flower Ribbon Ver-2 (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Dungeons **Flower Ribbon Ver-2** is found](#dungeons-flower-ribbon-ver-2-is-found)
 - [Player characters who can equip **Flower Ribbon Ver-2**](#player-characters-who-can-equip-flower-ribbon-ver-2)
-
 ## Basic information
 
 |   |   |

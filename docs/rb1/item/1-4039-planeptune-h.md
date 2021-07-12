@@ -10,7 +10,6 @@ title: Planeptune H (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Colosseum quests which reward **Planeptune H**](#colosseum-quests-which-reward-planeptune-h)
 - [Player characters who can equip **Planeptune H**](#player-characters-who-can-equip-planeptune-h)
-
 ## Basic information
 
 |   |   |

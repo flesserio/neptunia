@@ -9,7 +9,6 @@ title: Miharu (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **Miharu**](#chirpers-who-give-miharu)
 - [Plans added to Remake System after collecting **Miharu**](#plans-added-to-remake-system-after-collecting-miharu)
-
 ## Basic information
 
 |   |   |

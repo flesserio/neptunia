@@ -9,7 +9,6 @@ title: Healing Grass (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Healing Grass** is found](#dungeons-healing-grass-is-found)
 - [Remake System plans which require **Healing Grass**](#remake-system-plans-which-require-healing-grass)
-
 ## Basic information
 
 |   |   |

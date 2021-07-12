@@ -9,7 +9,6 @@ title: The Birth of Nepgear! (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **The Birth of Nepgear!**](#chirpers-who-give-the-birth-of-nepgear)
 - [Plans added to Remake System after collecting **The Birth of Nepgear!**](#plans-added-to-remake-system-after-collecting-the-birth-of-nepgear)
-
 ## Basic information
 
 |   |   |

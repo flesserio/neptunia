@@ -9,7 +9,6 @@ title: Add Dungeon: Ario Plateau (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **Add Dungeon: Ario Plateau**](#chirpers-who-give-add-dungeon-ario-plateau)
 - [Plans added to Remake System after collecting **Add Dungeon: Ario Plateau**](#plans-added-to-remake-system-after-collecting-add-dungeon-ario-plateau)
-
 ## Basic information
 
 |   |   |

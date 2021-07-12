@@ -9,7 +9,6 @@ title: Fan Disc (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Fan Disc** is found](#dungeons-fan-disc-is-found)
 - [Quests which reward **Fan Disc**](#quests-which-reward-fan-disc)
-
 ## Basic information
 
 |   |   |

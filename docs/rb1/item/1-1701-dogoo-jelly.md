@@ -9,7 +9,6 @@ title: Dogoo Jelly (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Dogoo Jelly** is found](#dungeons-dogoo-jelly-is-found)
 - [Remake System plans which require **Dogoo Jelly**](#remake-system-plans-which-require-dogoo-jelly)
-
 ## Basic information
 
 |   |   |

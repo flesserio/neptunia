@@ -9,7 +9,6 @@ title: Destroy Symbols (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **Destroy Symbols**](#chirpers-who-give-destroy-symbols)
 - [Plans added to Remake System after collecting **Destroy Symbols**](#plans-added-to-remake-system-after-collecting-destroy-symbols)
-
 ## Basic information
 
 |   |   |

@@ -10,7 +10,6 @@ title: Anti-Poison Patch (Item) - Hyperdimension Neptunia Re;Birth1
 - [Remake System plans which unlock **Anti-Poison Patch** in shop](#remake-system-plans-which-unlock-anti-poison-patch-in-shop)
 - [Remake System plans which require **Anti-Poison Patch**](#remake-system-plans-which-require-anti-poison-patch)
 - [Player characters who can equip **Anti-Poison Patch**](#player-characters-who-can-equip-anti-poison-patch)
-
 ## Basic information
 
 |   |   |

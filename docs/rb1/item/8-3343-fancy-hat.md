@@ -9,7 +9,6 @@ title: Fancy Hat (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Fancy Hat** in shop](#remake-system-plans-which-unlock-fancy-hat-in-shop)
 - [Player characters who can equip **Fancy Hat**](#player-characters-who-can-equip-fancy-hat)
-
 ## Basic information
 
 |   |   |

@@ -9,7 +9,6 @@ title: Long Range Rifle+7 (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Long Range Rifle+7**](#player-characters-who-can-equip-long-range-rifle-7)
-
 ## Basic information
 
 |   |   |

@@ -9,7 +9,6 @@ title: Lime Ribbon (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Lime Ribbon** in shop](#remake-system-plans-which-unlock-lime-ribbon-in-shop)
 - [Player characters who can equip **Lime Ribbon**](#player-characters-who-can-equip-lime-ribbon)
-
 ## Basic information
 
 |   |   |

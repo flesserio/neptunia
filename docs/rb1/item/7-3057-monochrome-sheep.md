@@ -10,7 +10,6 @@ title: Monochrome Sheep (Item) - Hyperdimension Neptunia Re;Birth1
 - [Remake System plans which unlock **Monochrome Sheep** in shop](#remake-system-plans-which-unlock-monochrome-sheep-in-shop)
 - [Remake System plans which require **Monochrome Sheep**](#remake-system-plans-which-require-monochrome-sheep)
 - [Player characters who can equip **Monochrome Sheep**](#player-characters-who-can-equip-monochrome-sheep)
-
 ## Basic information
 
 |   |   |

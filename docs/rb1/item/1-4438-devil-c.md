@@ -10,7 +10,6 @@ title: Devil C (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Remake System plans which unlock **Devil C** in shop](#remake-system-plans-which-unlock-devil-c-in-shop)
 - [Player characters who can equip **Devil C**](#player-characters-who-can-equip-devil-c)
-
 ## Basic information
 
 |   |   |

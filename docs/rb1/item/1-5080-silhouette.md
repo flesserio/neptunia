@@ -8,7 +8,6 @@ title: Silhouette (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Dungeons **Silhouette** is found](#dungeons-silhouette-is-found)
-
 ## Basic information
 
 |   |   |

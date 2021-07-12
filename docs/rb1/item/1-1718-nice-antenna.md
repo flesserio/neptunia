@@ -9,7 +9,6 @@ title: Nice Antenna (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Nice Antenna** is found](#dungeons-nice-antenna-is-found)
 - [Remake System plans which require **Nice Antenna**](#remake-system-plans-which-require-nice-antenna)
-
 ## Basic information
 
 |   |   |

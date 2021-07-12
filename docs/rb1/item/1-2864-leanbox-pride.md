@@ -10,7 +10,6 @@ title: Leanbox Pride (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Quests which reward **Leanbox Pride**](#quests-which-reward-leanbox-pride)
 - [Player characters who can equip **Leanbox Pride**](#player-characters-who-can-equip-leanbox-pride)
-
 ## Basic information
 
 |   |   |

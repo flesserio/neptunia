@@ -9,7 +9,6 @@ title: Checkered Shirt Cloth (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Checkered Shirt Cloth** is found](#dungeons-checkered-shirt-cloth-is-found)
 - [Remake System plans which require **Checkered Shirt Cloth**](#remake-system-plans-which-require-checkered-shirt-cloth)
-
 ## Basic information
 
 |   |   |

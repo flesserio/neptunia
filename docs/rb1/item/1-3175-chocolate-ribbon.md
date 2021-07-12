@@ -9,7 +9,6 @@ title: Chocolate Ribbon (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Chocolate Ribbon** in shop](#remake-system-plans-which-unlock-chocolate-ribbon-in-shop)
 - [Player characters who can equip **Chocolate Ribbon**](#player-characters-who-can-equip-chocolate-ribbon)
-
 ## Basic information
 
 |   |   |

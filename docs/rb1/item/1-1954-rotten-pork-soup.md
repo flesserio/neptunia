@@ -9,7 +9,6 @@ title: Rotten Pork Soup (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Rotten Pork Soup** is found](#dungeons-rotten-pork-soup-is-found)
 - [Remake System plans which require **Rotten Pork Soup**](#remake-system-plans-which-require-rotten-pork-soup)
-
 ## Basic information
 
 |   |   |

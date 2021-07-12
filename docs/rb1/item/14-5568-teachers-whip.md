@@ -10,7 +10,6 @@ title: Teacher's Whip (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Player characters who have **Teacher's Whip** equipped by default](#player-characters-who-have-teachers-whip-equipped-by-default)
 - [Player characters who can equip **Teacher's Whip**](#player-characters-who-can-equip-teachers-whip)
-
 ## Basic information
 
 |   |   |

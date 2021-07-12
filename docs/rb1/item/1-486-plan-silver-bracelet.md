@@ -9,7 +9,6 @@ title: Plan: Silver Bracelet (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Plans added to Remake System after collecting **Plan: Silver Bracelet**](#plans-added-to-remake-system-after-collecting-plan-silver-bracelet)
 - [Dungeons **Plan: Silver Bracelet** is found](#dungeons-plan-silver-bracelet-is-found)
-
 ## Basic information
 
 |   |   |

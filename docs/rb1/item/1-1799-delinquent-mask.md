@@ -9,7 +9,6 @@ title: Delinquent Mask (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Delinquent Mask** is found](#dungeons-delinquent-mask-is-found)
 - [Remake System plans which require **Delinquent Mask**](#remake-system-plans-which-require-delinquent-mask)
-
 ## Basic information
 
 |   |   |

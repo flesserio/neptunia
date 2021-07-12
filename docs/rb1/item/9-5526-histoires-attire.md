@@ -10,7 +10,6 @@ title: Histoire's Attire (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Player characters who have **Histoire's Attire** equipped by default](#player-characters-who-have-histoires-attire-equipped-by-default)
 - [Player characters who can equip **Histoire's Attire**](#player-characters-who-can-equip-histoires-attire)
-
 ## Basic information
 
 |   |   |

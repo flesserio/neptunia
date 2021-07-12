@@ -9,7 +9,6 @@ title: Dual Blade Neptune (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Dual Blade Neptune**](#player-characters-who-can-equip-dual-blade-neptune)
-
 ## Basic information
 
 |   |   |

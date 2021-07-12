@@ -10,7 +10,6 @@ title: Pop-up Ring (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Dungeons **Pop-up Ring** is found](#dungeons-pop-up-ring-is-found)
 - [Player characters who can equip **Pop-up Ring**](#player-characters-who-can-equip-pop-up-ring)
-
 ## Basic information
 
 |   |   |

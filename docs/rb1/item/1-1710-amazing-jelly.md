@@ -9,7 +9,6 @@ title: Amazing Jelly (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Amazing Jelly** is found](#dungeons-amazing-jelly-is-found)
 - [Remake System plans which require **Amazing Jelly**](#remake-system-plans-which-require-amazing-jelly)
-
 ## Basic information
 
 |   |   |

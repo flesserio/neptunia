@@ -9,7 +9,6 @@ title: Soul Contract (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Soul Contract** is found](#dungeons-soul-contract-is-found)
 - [Remake System plans which require **Soul Contract**](#remake-system-plans-which-require-soul-contract)
-
 ## Basic information
 
 |   |   |

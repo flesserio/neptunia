@@ -10,7 +10,6 @@ title: Toy Ring (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Player characters who have **Toy Ring** equipped by default](#player-characters-who-have-toy-ring-equipped-by-default)
 - [Player characters who can equip **Toy Ring**](#player-characters-who-can-equip-toy-ring)
-
 ## Basic information
 
 |   |   |

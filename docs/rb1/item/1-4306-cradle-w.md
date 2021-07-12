@@ -10,7 +10,6 @@ title: Cradle W (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Player characters who have **Cradle W** equipped by default](#player-characters-who-have-cradle-w-equipped-by-default)
 - [Player characters who can equip **Cradle W**](#player-characters-who-can-equip-cradle-w)
-
 ## Basic information
 
 |   |   |

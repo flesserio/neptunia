@@ -10,7 +10,6 @@ title: Explosive Headband (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Quests which reward **Explosive Headband**](#quests-which-reward-explosive-headband)
 - [Player characters who can equip **Explosive Headband**](#player-characters-who-can-equip-explosive-headband)
-
 ## Basic information
 
 |   |   |

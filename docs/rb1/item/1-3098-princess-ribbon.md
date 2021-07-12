@@ -10,7 +10,6 @@ title: Princess Ribbon (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Remake System plans which require **Princess Ribbon**](#remake-system-plans-which-require-princess-ribbon)
 - [Player characters who can equip **Princess Ribbon**](#player-characters-who-can-equip-princess-ribbon)
-
 ## Basic information
 
 |   |   |

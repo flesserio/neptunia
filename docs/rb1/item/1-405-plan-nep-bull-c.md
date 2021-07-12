@@ -9,7 +9,6 @@ title: Plan: Nep Bull C (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Plans added to Remake System after collecting **Plan: Nep Bull C**](#plans-added-to-remake-system-after-collecting-plan-nep-bull-c)
 - [Dungeons **Plan: Nep Bull C** is found](#dungeons-plan-nep-bull-c-is-found)
-
 ## Basic information
 
 |   |   |

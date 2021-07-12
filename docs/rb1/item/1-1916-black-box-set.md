@@ -10,7 +10,6 @@ title: Black Box Set (Item) - Hyperdimension Neptunia Re;Birth1
 - [Dungeons **Black Box Set** is found](#dungeons-black-box-set-is-found)
 - [Quests which require gathering **Black Box Set**](#quests-which-require-gathering-black-box-set)
 - [Remake System plans which require **Black Box Set**](#remake-system-plans-which-require-black-box-set)
-
 ## Basic information
 
 |   |   |

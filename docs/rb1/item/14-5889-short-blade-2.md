@@ -9,7 +9,6 @@ title: Short Blade+2 (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Short Blade+2**](#player-characters-who-can-equip-short-blade-2)
-
 ## Basic information
 
 |   |   |

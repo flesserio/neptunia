@@ -8,7 +8,6 @@ title: Superalloy Figure (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Dungeons **Superalloy Figure** is found](#dungeons-superalloy-figure-is-found)
-
 ## Basic information
 
 |   |   |

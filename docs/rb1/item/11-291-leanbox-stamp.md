@@ -8,7 +8,6 @@ title: Leanbox Stamp (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Colosseum quests which reward **Leanbox Stamp**](#colosseum-quests-which-reward-leanbox-stamp)
-
 ## Basic information
 
 |   |   |

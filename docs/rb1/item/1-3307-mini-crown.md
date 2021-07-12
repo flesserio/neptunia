@@ -9,7 +9,6 @@ title: Mini Crown (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which require **Mini Crown**](#remake-system-plans-which-require-mini-crown)
 - [Player characters who can equip **Mini Crown**](#player-characters-who-can-equip-mini-crown)
-
 ## Basic information
 
 |   |   |

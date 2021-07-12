@@ -10,7 +10,6 @@ title: Palpitation (Item) - Hyperdimension Neptunia Re;Birth1
 - [Dungeons **Palpitation** is found](#dungeons-palpitation-is-found)
 - [Quests which require gathering **Palpitation**](#quests-which-require-gathering-palpitation)
 - [Remake System plans which require **Palpitation**](#remake-system-plans-which-require-palpitation)
-
 ## Basic information
 
 |   |   |

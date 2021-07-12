@@ -10,7 +10,6 @@ title: Illegal Circuit (Item) - Hyperdimension Neptunia Re;Birth1
 - [Dungeons **Illegal Circuit** is found](#dungeons-illegal-circuit-is-found)
 - [Quests which require gathering **Illegal Circuit**](#quests-which-require-gathering-illegal-circuit)
 - [Remake System plans which require **Illegal Circuit**](#remake-system-plans-which-require-illegal-circuit)
-
 ## Basic information
 
 |   |   |

@@ -9,7 +9,6 @@ title: Venom Claw (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Venom Claw**](#player-characters-who-can-equip-venom-claw)
-
 ## Basic information
 
 |   |   |

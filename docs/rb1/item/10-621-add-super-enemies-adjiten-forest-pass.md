@@ -9,7 +9,6 @@ title: Add Super Enemies: Adjiten Forest Pass (Item) - Hyperdimension Neptunia R
 - [Basic information](#basic-information)
 - [Chirpers who give **Add Super Enemies: Adjiten Forest Pass**](#chirpers-who-give-add-super-enemies-adjiten-forest-pass)
 - [Plans added to Remake System after collecting **Add Super Enemies: Adjiten Forest Pass**](#plans-added-to-remake-system-after-collecting-add-super-enemies-adjiten-forest-pass)
-
 ## Basic information
 
 |   |   |

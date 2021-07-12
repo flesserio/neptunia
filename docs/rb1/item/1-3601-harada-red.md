@@ -8,7 +8,6 @@ title: Harada Red (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Player characters who can equip **Harada Red**](#player-characters-who-can-equip-harada-red)
-
 ## Basic information
 
 |   |   |

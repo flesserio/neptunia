@@ -10,7 +10,6 @@ title: Aging Romanticism (Item) - Hyperdimension Neptunia Re;Birth1
 - [Dungeons **Aging Romanticism** is found](#dungeons-aging-romanticism-is-found)
 - [Quests which require gathering **Aging Romanticism**](#quests-which-require-gathering-aging-romanticism)
 - [Remake System plans which require **Aging Romanticism**](#remake-system-plans-which-require-aging-romanticism)
-
 ## Basic information
 
 |   |   |

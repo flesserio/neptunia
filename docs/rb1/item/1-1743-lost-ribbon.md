@@ -9,7 +9,6 @@ title: Lost Ribbon (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Lost Ribbon** is found](#dungeons-lost-ribbon-is-found)
 - [Remake System plans which require **Lost Ribbon**](#remake-system-plans-which-require-lost-ribbon)
-
 ## Basic information
 
 |   |   |

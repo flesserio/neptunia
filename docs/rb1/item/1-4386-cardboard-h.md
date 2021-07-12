@@ -10,7 +10,6 @@ title: Cardboard H (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Dungeons **Cardboard H** is found](#dungeons-cardboard-h-is-found)
 - [Player characters who can equip **Cardboard H**](#player-characters-who-can-equip-cardboard-h)
-
 ## Basic information
 
 |   |   |

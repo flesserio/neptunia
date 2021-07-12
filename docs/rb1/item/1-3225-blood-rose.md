@@ -8,7 +8,6 @@ title: Blood Rose (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Player characters who can equip **Blood Rose**](#player-characters-who-can-equip-blood-rose)
-
 ## Basic information
 
 |   |   |

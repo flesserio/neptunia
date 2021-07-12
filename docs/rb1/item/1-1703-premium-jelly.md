@@ -10,7 +10,6 @@ title: Premium Jelly (Item) - Hyperdimension Neptunia Re;Birth1
 - [Dungeons **Premium Jelly** is found](#dungeons-premium-jelly-is-found)
 - [Quests which require gathering **Premium Jelly**](#quests-which-require-gathering-premium-jelly)
 - [Remake System plans which require **Premium Jelly**](#remake-system-plans-which-require-premium-jelly)
-
 ## Basic information
 
 |   |   |

@@ -9,7 +9,6 @@ title: Add Enemies: Gunbreak Underground Cavern (Item) - Hyperdimension Neptunia
 - [Basic information](#basic-information)
 - [Chirpers who give **Add Enemies: Gunbreak Underground Cavern**](#chirpers-who-give-add-enemies-gunbreak-underground-cavern)
 - [Plans added to Remake System after collecting **Add Enemies: Gunbreak Underground Cavern**](#plans-added-to-remake-system-after-collecting-add-enemies-gunbreak-underground-cavern)
-
 ## Basic information
 
 |   |   |

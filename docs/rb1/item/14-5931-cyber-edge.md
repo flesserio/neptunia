@@ -9,7 +9,6 @@ title: Cyber Edge+? (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Colosseum quests which reward **Cyber Edge+?**](#colosseum-quests-which-reward-cyber-edge)
 - [Player characters who can equip **Cyber Edge+?**](#player-characters-who-can-equip-cyber-edge)
-
 ## Basic information
 
 |   |   |

@@ -9,7 +9,6 @@ title: Stone Leek (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which require **Stone Leek**](#remake-system-plans-which-require-stone-leek)
 - [Player characters who can equip **Stone Leek**](#player-characters-who-can-equip-stone-leek)
-
 ## Basic information
 
 |   |   |

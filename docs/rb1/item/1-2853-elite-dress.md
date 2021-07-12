@@ -9,7 +9,6 @@ title: Elite Dress (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Quests which reward **Elite Dress**](#quests-which-reward-elite-dress)
 - [Player characters who can equip **Elite Dress**](#player-characters-who-can-equip-elite-dress)
-
 ## Basic information
 
 |   |   |

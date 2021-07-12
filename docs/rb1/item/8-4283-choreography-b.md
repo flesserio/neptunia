@@ -9,7 +9,6 @@ title: Choreography B (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Choreography B**](#player-characters-who-can-equip-choreography-b)
-
 ## Basic information
 
 |   |   |

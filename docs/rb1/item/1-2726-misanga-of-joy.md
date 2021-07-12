@@ -10,7 +10,6 @@ title: Misanga of Joy (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Remake System plans which unlock **Misanga of Joy** in shop](#remake-system-plans-which-unlock-misanga-of-joy-in-shop)
 - [Player characters who can equip **Misanga of Joy**](#player-characters-who-can-equip-misanga-of-joy)
-
 ## Basic information
 
 |   |   |

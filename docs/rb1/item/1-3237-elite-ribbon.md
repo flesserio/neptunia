@@ -9,7 +9,6 @@ title: Elite Ribbon (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Elite Ribbon** in shop](#remake-system-plans-which-unlock-elite-ribbon-in-shop)
 - [Player characters who can equip **Elite Ribbon**](#player-characters-who-can-equip-elite-ribbon)
-
 ## Basic information
 
 |   |   |

@@ -9,7 +9,6 @@ title: Plan: Hero Sausage (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Plans added to Remake System after collecting **Plan: Hero Sausage**](#plans-added-to-remake-system-after-collecting-plan-hero-sausage)
 - [Dungeons **Plan: Hero Sausage** is found](#dungeons-plan-hero-sausage-is-found)
-
 ## Basic information
 
 |   |   |

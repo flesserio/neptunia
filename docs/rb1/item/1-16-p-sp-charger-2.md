@@ -11,7 +11,6 @@ title: P. SP Charger 2 (Item) - Hyperdimension Neptunia Re;Birth1
 - [Dungeons **P. SP Charger 2** is found](#dungeons-p-sp-charger-2-is-found)
 - [Colosseum quests which reward **P. SP Charger 2**](#colosseum-quests-which-reward-p-sp-charger-2)
 - [Quests which reward **P. SP Charger 2**](#quests-which-reward-p-sp-charger-2)
-
 ## Basic information
 
 |   |   |

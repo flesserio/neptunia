@@ -9,7 +9,6 @@ title: Beam Saber+8 (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Beam Saber+8**](#player-characters-who-can-equip-beam-saber-8)
-
 ## Basic information
 
 |   |   |

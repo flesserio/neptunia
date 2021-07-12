@@ -9,7 +9,6 @@ title: Plan: Super Panacea (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Plans added to Remake System after collecting **Plan: Super Panacea**](#plans-added-to-remake-system-after-collecting-plan-super-panacea)
 - [Dungeons **Plan: Super Panacea** is found](#dungeons-plan-super-panacea-is-found)
-
 ## Basic information
 
 |   |   |

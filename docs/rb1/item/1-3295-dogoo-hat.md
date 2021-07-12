@@ -10,7 +10,6 @@ title: Dogoo Hat (Item) - Hyperdimension Neptunia Re;Birth1
 - [Remake System plans which unlock **Dogoo Hat** in shop](#remake-system-plans-which-unlock-dogoo-hat-in-shop)
 - [Remake System plans which require **Dogoo Hat**](#remake-system-plans-which-require-dogoo-hat)
 - [Player characters who can equip **Dogoo Hat**](#player-characters-who-can-equip-dogoo-hat)
-
 ## Basic information
 
 |   |   |

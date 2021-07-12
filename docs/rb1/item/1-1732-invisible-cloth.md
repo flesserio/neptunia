@@ -9,7 +9,6 @@ title: Invisible Cloth (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Invisible Cloth** is found](#dungeons-invisible-cloth-is-found)
 - [Remake System plans which require **Invisible Cloth**](#remake-system-plans-which-require-invisible-cloth)
-
 ## Basic information
 
 |   |   |

@@ -9,7 +9,6 @@ title: Black Fox Band (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Black Fox Band** in shop](#remake-system-plans-which-unlock-black-fox-band-in-shop)
 - [Player characters who can equip **Black Fox Band**](#player-characters-who-can-equip-black-fox-band)
-
 ## Basic information
 
 |   |   |

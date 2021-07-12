@@ -10,7 +10,6 @@ title: Kiryu Sword (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Remake System plans which unlock **Kiryu Sword** in shop](#remake-system-plans-which-unlock-kiryu-sword-in-shop)
 - [Player characters who can equip **Kiryu Sword**](#player-characters-who-can-equip-kiryu-sword)
-
 ## Basic information
 
 |   |   |

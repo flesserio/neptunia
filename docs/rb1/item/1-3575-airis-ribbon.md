@@ -10,7 +10,6 @@ title: Airi's Ribbon (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Dungeons **Airi's Ribbon** is found](#dungeons-airis-ribbon-is-found)
 - [Player characters who can equip **Airi's Ribbon**](#player-characters-who-can-equip-airis-ribbon)
-
 ## Basic information
 
 |   |   |

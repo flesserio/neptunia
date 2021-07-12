@@ -9,7 +9,6 @@ title: Life Ring (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Life Ring**](#player-characters-who-can-equip-life-ring)
-
 ## Basic information
 
 |   |   |

@@ -9,7 +9,6 @@ title: Elite Dress Type-V (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which require **Elite Dress Type-V**](#remake-system-plans-which-require-elite-dress-type-v)
 - [Player characters who can equip **Elite Dress Type-V**](#player-characters-who-can-equip-elite-dress-type-v)
-
 ## Basic information
 
 |   |   |

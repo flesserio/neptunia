@@ -9,7 +9,6 @@ title: Die So Fast (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Die So Fast** is found](#dungeons-die-so-fast-is-found)
 - [Quests which reward **Die So Fast**](#quests-which-reward-die-so-fast)
-
 ## Basic information
 
 |   |   |

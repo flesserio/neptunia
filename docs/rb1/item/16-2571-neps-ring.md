@@ -10,7 +10,6 @@ title: Nep's Ring (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Dungeons **Nep's Ring** is found](#dungeons-neps-ring-is-found)
 - [Player characters who can equip **Nep's Ring**](#player-characters-who-can-equip-neps-ring)
-
 ## Basic information
 
 |   |   |

@@ -8,7 +8,6 @@ title: Uses Mic (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Dungeons **Uses Mic** is found](#dungeons-uses-mic-is-found)
-
 ## Basic information
 
 |   |   |

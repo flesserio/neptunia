@@ -10,7 +10,6 @@ title: Genius Brain (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Dungeons **Genius Brain** is found](#dungeons-genius-brain-is-found)
 - [Player characters who can equip **Genius Brain**](#player-characters-who-can-equip-genius-brain)
-
 ## Basic information
 
 |   |   |

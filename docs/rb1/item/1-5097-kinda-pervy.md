@@ -8,7 +8,6 @@ title: Kinda Pervy (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Dungeons **Kinda Pervy** is found](#dungeons-kinda-pervy-is-found)
-
 ## Basic information
 
 |   |   |

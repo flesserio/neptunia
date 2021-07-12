@@ -9,7 +9,6 @@ title: Plan: Blessing Misanga (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Plans added to Remake System after collecting **Plan: Blessing Misanga**](#plans-added-to-remake-system-after-collecting-plan-blessing-misanga)
 - [Dungeons **Plan: Blessing Misanga** is found](#dungeons-plan-blessing-misanga-is-found)
-
 ## Basic information
 
 |   |   |

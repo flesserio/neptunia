@@ -9,7 +9,6 @@ title: Anti-Virus (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Anti-Virus** in shop](#remake-system-plans-which-unlock-anti-virus-in-shop)
 - [Remake System plans which require **Anti-Virus**](#remake-system-plans-which-require-anti-virus)
-
 ## Basic information
 
 |   |   |

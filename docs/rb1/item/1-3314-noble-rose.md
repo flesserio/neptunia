@@ -9,7 +9,6 @@ title: Noble Rose (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Noble Rose** in shop](#remake-system-plans-which-unlock-noble-rose-in-shop)
 - [Player characters who can equip **Noble Rose**](#player-characters-who-can-equip-noble-rose)
-
 ## Basic information
 
 |   |   |

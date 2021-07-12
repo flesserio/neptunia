@@ -8,7 +8,6 @@ title: Black Muffin (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Player characters who can equip **Black Muffin**](#player-characters-who-can-equip-black-muffin)
-
 ## Basic information
 
 |   |   |

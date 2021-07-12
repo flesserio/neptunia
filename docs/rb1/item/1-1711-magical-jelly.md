@@ -9,7 +9,6 @@ title: Magical Jelly (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Magical Jelly** is found](#dungeons-magical-jelly-is-found)
 - [Remake System plans which require **Magical Jelly**](#remake-system-plans-which-require-magical-jelly)
-
 ## Basic information
 
 |   |   |

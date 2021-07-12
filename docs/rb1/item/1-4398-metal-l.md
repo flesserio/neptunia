@@ -9,7 +9,6 @@ title: Metal L (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Metal L**](#player-characters-who-can-equip-metal-l)
-
 ## Basic information
 
 |   |   |

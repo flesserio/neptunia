@@ -9,7 +9,6 @@ title: Can't Grind (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Can't Grind** is found](#dungeons-cant-grind-is-found)
 - [Quests which reward **Can't Grind**](#quests-which-reward-cant-grind)
-
 ## Basic information
 
 |   |   |

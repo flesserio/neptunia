@@ -9,7 +9,6 @@ title: Illegal Gadget (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Illegal Gadget** is found](#dungeons-illegal-gadget-is-found)
 - [Remake System plans which require **Illegal Gadget**](#remake-system-plans-which-require-illegal-gadget)
-
 ## Basic information
 
 |   |   |

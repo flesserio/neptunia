@@ -11,7 +11,6 @@ title: Double Round C (Item) - Hyperdimension Neptunia Re;Birth1
 - [Dungeons **Double Round C** is found](#dungeons-double-round-c-is-found)
 - [Remake System plans which require **Double Round C**](#remake-system-plans-which-require-double-round-c)
 - [Player characters who can equip **Double Round C**](#player-characters-who-can-equip-double-round-c)
-
 ## Basic information
 
 |   |   |

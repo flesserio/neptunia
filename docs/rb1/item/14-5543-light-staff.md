@@ -10,7 +10,6 @@ title: Light Staff (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Player characters who have **Light Staff** equipped by default](#player-characters-who-have-light-staff-equipped-by-default)
 - [Player characters who can equip **Light Staff**](#player-characters-who-can-equip-light-staff)
-
 ## Basic information
 
 |   |   |

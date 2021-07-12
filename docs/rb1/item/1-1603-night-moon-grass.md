@@ -9,7 +9,6 @@ title: Night Moon Grass (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Night Moon Grass** is found](#dungeons-night-moon-grass-is-found)
 - [Remake System plans which require **Night Moon Grass**](#remake-system-plans-which-require-night-moon-grass)
-
 ## Basic information
 
 |   |   |

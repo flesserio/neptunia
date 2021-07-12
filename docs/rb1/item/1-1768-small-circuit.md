@@ -9,7 +9,6 @@ title: Small Circuit (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Small Circuit** is found](#dungeons-small-circuit-is-found)
 - [Remake System plans which require **Small Circuit**](#remake-system-plans-which-require-small-circuit)
-
 ## Basic information
 
 |   |   |

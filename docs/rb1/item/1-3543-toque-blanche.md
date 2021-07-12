@@ -10,7 +10,6 @@ title: Toque Blanche (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Dungeons **Toque Blanche** is found](#dungeons-toque-blanche-is-found)
 - [Player characters who can equip **Toque Blanche**](#player-characters-who-can-equip-toque-blanche)
-
 ## Basic information
 
 |   |   |

@@ -10,7 +10,6 @@ title: Orange C (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Player characters who have **Orange C** equipped by default](#player-characters-who-have-orange-c-equipped-by-default)
 - [Player characters who can equip **Orange C**](#player-characters-who-can-equip-orange-c)
-
 ## Basic information
 
 |   |   |

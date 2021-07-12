@@ -9,7 +9,6 @@ title: Chivalrous Metal (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Chivalrous Metal** is found](#dungeons-chivalrous-metal-is-found)
 - [Remake System plans which require **Chivalrous Metal**](#remake-system-plans-which-require-chivalrous-metal)
-
 ## Basic information
 
 |   |   |

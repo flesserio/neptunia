@@ -10,7 +10,6 @@ title: Schwarze Katze (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Colosseum quests which reward **Schwarze Katze**](#colosseum-quests-which-reward-schwarze-katze)
 - [Player characters who can equip **Schwarze Katze**](#player-characters-who-can-equip-schwarze-katze)
-
 ## Basic information
 
 |   |   |

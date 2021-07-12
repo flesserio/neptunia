@@ -9,7 +9,6 @@ title: Clear Ribbon (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Player characters who have **Clear Ribbon** equipped by default](#player-characters-who-have-clear-ribbon-equipped-by-default)
 - [Player characters who can equip **Clear Ribbon**](#player-characters-who-can-equip-clear-ribbon)
-
 ## Basic information
 
 |   |   |

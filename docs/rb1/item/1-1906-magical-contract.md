@@ -10,7 +10,6 @@ title: Magical Contract (Item) - Hyperdimension Neptunia Re;Birth1
 - [Dungeons **Magical Contract** is found](#dungeons-magical-contract-is-found)
 - [Quests which require gathering **Magical Contract**](#quests-which-require-gathering-magical-contract)
 - [Remake System plans which require **Magical Contract**](#remake-system-plans-which-require-magical-contract)
-
 ## Basic information
 
 |   |   |

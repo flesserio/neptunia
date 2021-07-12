@@ -8,7 +8,6 @@ title: Racing (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Dungeons **Racing** is found](#dungeons-racing-is-found)
-
 ## Basic information
 
 |   |   |

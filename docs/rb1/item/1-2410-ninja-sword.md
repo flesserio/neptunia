@@ -10,7 +10,6 @@ title: Ninja Sword (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Player characters who have **Ninja Sword** equipped by default](#player-characters-who-have-ninja-sword-equipped-by-default)
 - [Player characters who can equip **Ninja Sword**](#player-characters-who-can-equip-ninja-sword)
-
 ## Basic information
 
 |   |   |

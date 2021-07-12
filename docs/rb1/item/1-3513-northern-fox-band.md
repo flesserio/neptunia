@@ -9,7 +9,6 @@ title: Northern Fox Band (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Northern Fox Band** in shop](#remake-system-plans-which-unlock-northern-fox-band-in-shop)
 - [Player characters who can equip **Northern Fox Band**](#player-characters-who-can-equip-northern-fox-band)
-
 ## Basic information
 
 |   |   |

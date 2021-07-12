@@ -8,7 +8,6 @@ title: Special DLC Code (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Dungeons **Special DLC Code** is found](#dungeons-special-dlc-code-is-found)
-
 ## Basic information
 
 |   |   |

@@ -9,7 +9,6 @@ title: Tulip Stamen (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Tulip Stamen** is found](#dungeons-tulip-stamen-is-found)
 - [Remake System plans which require **Tulip Stamen**](#remake-system-plans-which-require-tulip-stamen)
-
 ## Basic information
 
 |   |   |

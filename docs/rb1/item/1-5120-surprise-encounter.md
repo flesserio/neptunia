@@ -9,7 +9,6 @@ title: Surprise Encounter (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Surprise Encounter** is found](#dungeons-surprise-encounter-is-found)
 - [Quests which reward **Surprise Encounter**](#quests-which-reward-surprise-encounter)
-
 ## Basic information
 
 |   |   |

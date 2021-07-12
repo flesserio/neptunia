@@ -9,7 +9,6 @@ title: Used Liquid (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Used Liquid**](#player-characters-who-can-equip-used-liquid)
-
 ## Basic information
 
 |   |   |

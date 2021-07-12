@@ -10,7 +10,6 @@ title: Devil S (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Remake System plans which unlock **Devil S** in shop](#remake-system-plans-which-unlock-devil-s-in-shop)
 - [Player characters who can equip **Devil S**](#player-characters-who-can-equip-devil-s)
-
 ## Basic information
 
 |   |   |

@@ -10,7 +10,6 @@ title: Plutia H (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Remake System plans which unlock **Plutia H** in shop](#remake-system-plans-which-unlock-plutia-h-in-shop)
 - [Player characters who can equip **Plutia H**](#player-characters-who-can-equip-plutia-h)
-
 ## Basic information
 
 |   |   |

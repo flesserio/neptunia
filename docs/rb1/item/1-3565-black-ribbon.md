@@ -9,7 +9,6 @@ title: Black Ribbon (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Quests which reward **Black Ribbon**](#quests-which-reward-black-ribbon)
 - [Player characters who can equip **Black Ribbon**](#player-characters-who-can-equip-black-ribbon)
-
 ## Basic information
 
 |   |   |

@@ -9,7 +9,6 @@ title: Add Dungeon: Noma Cave (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **Add Dungeon: Noma Cave**](#chirpers-who-give-add-dungeon-noma-cave)
 - [Plans added to Remake System after collecting **Add Dungeon: Noma Cave**](#plans-added-to-remake-system-after-collecting-add-dungeon-noma-cave)
-
 ## Basic information
 
 |   |   |

@@ -9,7 +9,6 @@ title: Fuzzy Swimsuit (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **Fuzzy Swimsuit**](#chirpers-who-give-fuzzy-swimsuit)
 - [Plans added to Remake System after collecting **Fuzzy Swimsuit**](#plans-added-to-remake-system-after-collecting-fuzzy-swimsuit)
-
 ## Basic information
 
 |   |   |

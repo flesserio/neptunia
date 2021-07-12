@@ -9,7 +9,6 @@ title: Aqua Ribbon Hat (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Aqua Ribbon Hat** in shop](#remake-system-plans-which-unlock-aqua-ribbon-hat-in-shop)
 - [Player characters who can equip **Aqua Ribbon Hat**](#player-characters-who-can-equip-aqua-ribbon-hat)
-
 ## Basic information
 
 |   |   |

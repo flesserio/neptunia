@@ -9,7 +9,6 @@ title: Plan: Tsuki (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **Plan: Tsuki**](#chirpers-who-give-plan-tsuki)
 - [Plans added to Remake System after collecting **Plan: Tsuki**](#plans-added-to-remake-system-after-collecting-plan-tsuki)
-
 ## Basic information
 
 |   |   |

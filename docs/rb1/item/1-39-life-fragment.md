@@ -10,7 +10,6 @@ title: Life Fragment (Item) - Hyperdimension Neptunia Re;Birth1
 - [Remake System plans which unlock **Life Fragment** in shop](#remake-system-plans-which-unlock-life-fragment-in-shop)
 - [Dungeons **Life Fragment** is found](#dungeons-life-fragment-is-found)
 - [Quests which reward **Life Fragment**](#quests-which-reward-life-fragment)
-
 ## Basic information
 
 |   |   |

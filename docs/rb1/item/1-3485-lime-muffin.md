@@ -8,7 +8,6 @@ title: Lime Muffin (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Player characters who can equip **Lime Muffin**](#player-characters-who-can-equip-lime-muffin)
-
 ## Basic information
 
 |   |   |

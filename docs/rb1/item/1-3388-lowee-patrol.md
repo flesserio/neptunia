@@ -9,7 +9,6 @@ title: Lowee Patrol (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Lowee Patrol** in shop](#remake-system-plans-which-unlock-lowee-patrol-in-shop)
 - [Player characters who can equip **Lowee Patrol**](#player-characters-who-can-equip-lowee-patrol)
-
 ## Basic information
 
 |   |   |

@@ -10,7 +10,6 @@ title: Large Beak (Item) - Hyperdimension Neptunia Re;Birth1
 - [Dungeons **Large Beak** is found](#dungeons-large-beak-is-found)
 - [Quests which require gathering **Large Beak**](#quests-which-require-gathering-large-beak)
 - [Remake System plans which require **Large Beak**](#remake-system-plans-which-require-large-beak)
-
 ## Basic information
 
 |   |   |

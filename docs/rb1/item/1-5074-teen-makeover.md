@@ -9,7 +9,6 @@ title: Teen Makeover (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Teen Makeover** is found](#dungeons-teen-makeover-is-found)
 - [Quests which reward **Teen Makeover**](#quests-which-reward-teen-makeover)
-
 ## Basic information
 
 |   |   |

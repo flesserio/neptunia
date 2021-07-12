@@ -9,7 +9,6 @@ title: Plan: SP Buster III (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Plans added to Remake System after collecting **Plan: SP Buster III**](#plans-added-to-remake-system-after-collecting-plan-sp-buster-iii)
 - [Quests which reward **Plan: SP Buster III**](#quests-which-reward-plan-sp-buster-iii)
-
 ## Basic information
 
 |   |   |

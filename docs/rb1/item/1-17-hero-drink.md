@@ -8,7 +8,6 @@ title: Hero Drink (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Hero Drink** in shop](#remake-system-plans-which-unlock-hero-drink-in-shop)
-
 ## Basic information
 
 |   |   |

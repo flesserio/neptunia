@@ -9,7 +9,6 @@ title: Strong Wood (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Strong Wood** is found](#dungeons-strong-wood-is-found)
 - [Remake System plans which require **Strong Wood**](#remake-system-plans-which-require-strong-wood)
-
 ## Basic information
 
 |   |   |

@@ -8,7 +8,6 @@ title: Battle Strategy (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Dungeons **Battle Strategy** is found](#dungeons-battle-strategy-is-found)
-
 ## Basic information
 
 |   |   |

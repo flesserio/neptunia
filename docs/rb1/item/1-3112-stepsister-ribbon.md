@@ -9,7 +9,6 @@ title: Stepsister Ribbon (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Stepsister Ribbon** in shop](#remake-system-plans-which-unlock-stepsister-ribbon-in-shop)
 - [Player characters who can equip **Stepsister Ribbon**](#player-characters-who-can-equip-stepsister-ribbon)
-
 ## Basic information
 
 |   |   |

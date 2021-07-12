@@ -9,7 +9,6 @@ title: Scholar Set (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Scholar Set** in shop](#remake-system-plans-which-unlock-scholar-set-in-shop)
 - [Player characters who can equip **Scholar Set**](#player-characters-who-can-equip-scholar-set)
-
 ## Basic information
 
 |   |   |

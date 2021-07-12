@@ -10,7 +10,6 @@ title: Base Core B (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Player characters who have **Base Core B** equipped by default](#player-characters-who-have-base-core-b-equipped-by-default)
 - [Player characters who can equip **Base Core B**](#player-characters-who-can-equip-base-core-b)
-
 ## Basic information
 
 |   |   |

@@ -10,7 +10,6 @@ title: Time Rod (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Remake System plans which unlock **Time Rod** in shop](#remake-system-plans-which-unlock-time-rod-in-shop)
 - [Player characters who can equip **Time Rod**](#player-characters-who-can-equip-time-rod)
-
 ## Basic information
 
 |   |   |

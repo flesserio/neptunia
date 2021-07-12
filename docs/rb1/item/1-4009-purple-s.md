@@ -10,7 +10,6 @@ title: Purple S (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Player characters who have **Purple S** equipped by default](#player-characters-who-have-purple-s-equipped-by-default)
 - [Player characters who can equip **Purple S**](#player-characters-who-can-equip-purple-s)
-
 ## Basic information
 
 |   |   |

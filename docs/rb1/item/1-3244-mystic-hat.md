@@ -9,7 +9,6 @@ title: Mystic Hat (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Mystic Hat** is found](#dungeons-mystic-hat-is-found)
 - [Player characters who can equip **Mystic Hat**](#player-characters-who-can-equip-mystic-hat)
-
 ## Basic information
 
 |   |   |

@@ -9,7 +9,6 @@ title: Vitamin Flower (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Vitamin Flower** in shop](#remake-system-plans-which-unlock-vitamin-flower-in-shop)
 - [Player characters who can equip **Vitamin Flower**](#player-characters-who-can-equip-vitamin-flower)
-
 ## Basic information
 
 |   |   |

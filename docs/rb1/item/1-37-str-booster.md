@@ -10,7 +10,6 @@ title: STR Booster (Item) - Hyperdimension Neptunia Re;Birth1
 - [Remake System plans which unlock **STR Booster** in shop](#remake-system-plans-which-unlock-str-booster-in-shop)
 - [Dungeons **STR Booster** is found](#dungeons-str-booster-is-found)
 - [Remake System plans which require **STR Booster**](#remake-system-plans-which-require-str-booster)
-
 ## Basic information
 
 |   |   |

@@ -9,7 +9,6 @@ title: Dancing Controller (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Dancing Controller** is found](#dungeons-dancing-controller-is-found)
 - [Remake System plans which require **Dancing Controller**](#remake-system-plans-which-require-dancing-controller)
-
 ## Basic information
 
 |   |   |

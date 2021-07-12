@@ -10,7 +10,6 @@ title: Handmade Bangle (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Player characters who have **Handmade Bangle** equipped by default](#player-characters-who-have-handmade-bangle-equipped-by-default)
 - [Player characters who can equip **Handmade Bangle**](#player-characters-who-can-equip-handmade-bangle)
-
 ## Basic information
 
 |   |   |

@@ -8,7 +8,6 @@ title: Hard Cover (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Remake System plans which require **Hard Cover**](#remake-system-plans-which-require-hard-cover)
-
 ## Basic information
 
 |   |   |

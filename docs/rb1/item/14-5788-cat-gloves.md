@@ -9,7 +9,6 @@ title: Cat Gloves+? (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Colosseum quests which reward **Cat Gloves+?**](#colosseum-quests-which-reward-cat-gloves)
 - [Player characters who can equip **Cat Gloves+?**](#player-characters-who-can-equip-cat-gloves)
-
 ## Basic information
 
 |   |   |

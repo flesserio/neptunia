@@ -9,7 +9,6 @@ title: Mr. Pleiades (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Mr. Pleiades** is found](#dungeons-mr-pleiades-is-found)
 - [Player characters who can equip **Mr. Pleiades**](#player-characters-who-can-equip-mr-pleiades)
-
 ## Basic information
 
 |   |   |

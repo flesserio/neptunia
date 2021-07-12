@@ -8,7 +8,6 @@ title: Big Boom Shell (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Remake System plans which require **Big Boom Shell**](#remake-system-plans-which-require-big-boom-shell)
-
 ## Basic information
 
 |   |   |

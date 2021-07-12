@@ -9,7 +9,6 @@ title: Magical Wolf Claw (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Magical Wolf Claw** is found](#dungeons-magical-wolf-claw-is-found)
 - [Remake System plans which require **Magical Wolf Claw**](#remake-system-plans-which-require-magical-wolf-claw)
-
 ## Basic information
 
 |   |   |

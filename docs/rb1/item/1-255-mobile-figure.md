@@ -8,7 +8,6 @@ title: Mobile Figure (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Colosseum quests which reward **Mobile Figure**](#colosseum-quests-which-reward-mobile-figure)
-
 ## Basic information
 
 |   |   |

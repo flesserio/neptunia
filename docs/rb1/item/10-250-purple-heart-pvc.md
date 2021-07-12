@@ -8,7 +8,6 @@ title: Purple Heart PVC (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Dungeons **Purple Heart PVC** is found](#dungeons-purple-heart-pvc-is-found)
-
 ## Basic information
 
 |   |   |

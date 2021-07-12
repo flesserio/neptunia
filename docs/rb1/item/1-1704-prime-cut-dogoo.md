@@ -8,7 +8,6 @@ title: Prime Cut Dogoo (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Dungeons **Prime Cut Dogoo** is found](#dungeons-prime-cut-dogoo-is-found)
-
 ## Basic information
 
 |   |   |

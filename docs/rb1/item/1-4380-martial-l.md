@@ -10,7 +10,6 @@ title: Martial L (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Dungeons **Martial L** is found](#dungeons-martial-l-is-found)
 - [Player characters who can equip **Martial L**](#player-characters-who-can-equip-martial-l)
-
 ## Basic information
 
 |   |   |

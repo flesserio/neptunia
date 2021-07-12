@@ -8,7 +8,6 @@ title: Custom Sound (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Dungeons **Custom Sound** is found](#dungeons-custom-sound-is-found)
-
 ## Basic information
 
 |   |   |

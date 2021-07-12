@@ -9,7 +9,6 @@ title: Orichalcum (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Orichalcum** is found](#dungeons-orichalcum-is-found)
 - [Remake System plans which require **Orichalcum**](#remake-system-plans-which-require-orichalcum)
-
 ## Basic information
 
 |   |   |

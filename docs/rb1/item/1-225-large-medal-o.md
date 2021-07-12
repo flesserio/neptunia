@@ -8,7 +8,6 @@ title: Large Medal O (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Dungeons **Large Medal O** is found](#dungeons-large-medal-o-is-found)
-
 ## Basic information
 
 |   |   |

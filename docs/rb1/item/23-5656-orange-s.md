@@ -10,7 +10,6 @@ title: Orange S (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Player characters who have **Orange S** equipped by default](#player-characters-who-have-orange-s-equipped-by-default)
 - [Player characters who can equip **Orange S**](#player-characters-who-can-equip-orange-s)
-
 ## Basic information
 
 |   |   |

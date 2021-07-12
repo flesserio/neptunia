@@ -9,7 +9,6 @@ title: Celestia Bangle (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Celestia Bangle**](#player-characters-who-can-equip-celestia-bangle)
-
 ## Basic information
 
 |   |   |

@@ -9,7 +9,6 @@ title: Hero Drink C (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Hero Drink C** in shop](#remake-system-plans-which-unlock-hero-drink-c-in-shop)
 - [Colosseum quests which reward **Hero Drink C**](#colosseum-quests-which-reward-hero-drink-c)
-
 ## Basic information
 
 |   |   |

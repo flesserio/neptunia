@@ -9,7 +9,6 @@ title: Plan: Life Fragment (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Plans added to Remake System after collecting **Plan: Life Fragment**](#plans-added-to-remake-system-after-collecting-plan-life-fragment)
 - [Dungeons **Plan: Life Fragment** is found](#dungeons-plan-life-fragment-is-found)
-
 ## Basic information
 
 |   |   |

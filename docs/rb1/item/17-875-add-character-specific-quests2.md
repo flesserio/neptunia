@@ -9,7 +9,6 @@ title: Add character-specific quests2 (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **Add character-specific quests2**](#chirpers-who-give-add-character-specific-quests2)
 - [Plans added to Remake System after collecting **Add character-specific quests2**](#plans-added-to-remake-system-after-collecting-add-character-specific-quests2)
-
 ## Basic information
 
 |   |   |

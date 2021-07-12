@@ -10,7 +10,6 @@ title: Hitting Badge (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Remake System plans which unlock **Hitting Badge** in shop](#remake-system-plans-which-unlock-hitting-badge-in-shop)
 - [Player characters who can equip **Hitting Badge**](#player-characters-who-can-equip-hitting-badge)
-
 ## Basic information
 
 |   |   |

@@ -9,7 +9,6 @@ title: 4 Goddesses Online Works (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **4 Goddesses Online Works**](#chirpers-who-give-4-goddesses-online-works)
 - [Plans added to Remake System after collecting **4 Goddesses Online Works**](#plans-added-to-remake-system-after-collecting-4-goddesses-online-works)
-
 ## Basic information
 
 |   |   |

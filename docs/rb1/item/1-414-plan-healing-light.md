@@ -9,7 +9,6 @@ title: Plan: Healing Light (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **Plan: Healing Light**](#chirpers-who-give-plan-healing-light)
 - [Plans added to Remake System after collecting **Plan: Healing Light**](#plans-added-to-remake-system-after-collecting-plan-healing-light)
-
 ## Basic information
 
 |   |   |

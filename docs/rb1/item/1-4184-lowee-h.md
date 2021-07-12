@@ -10,7 +10,6 @@ title: Lowee H (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Remake System plans which unlock **Lowee H** in shop](#remake-system-plans-which-unlock-lowee-h-in-shop)
 - [Player characters who can equip **Lowee H**](#player-characters-who-can-equip-lowee-h)
-
 ## Basic information
 
 |   |   |

@@ -9,7 +9,6 @@ title: Funky Rose (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Funky Rose** in shop](#remake-system-plans-which-unlock-funky-rose-in-shop)
 - [Player characters who can equip **Funky Rose**](#player-characters-who-can-equip-funky-rose)
-
 ## Basic information
 
 |   |   |

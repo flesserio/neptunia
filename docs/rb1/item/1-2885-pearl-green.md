@@ -8,7 +8,6 @@ title: Pearl Green (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Player characters who can equip **Pearl Green**](#player-characters-who-can-equip-pearl-green)
-
 ## Basic information
 
 |   |   |

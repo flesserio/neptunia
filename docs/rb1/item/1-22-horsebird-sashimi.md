@@ -9,7 +9,6 @@ title: Horsebird Sashimi (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Horsebird Sashimi** in shop](#remake-system-plans-which-unlock-horsebird-sashimi-in-shop)
 - [Dungeons **Horsebird Sashimi** is found](#dungeons-horsebird-sashimi-is-found)
-
 ## Basic information
 
 |   |   |

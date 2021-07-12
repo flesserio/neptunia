@@ -9,7 +9,6 @@ title: Strong Thread (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Strong Thread** is found](#dungeons-strong-thread-is-found)
 - [Remake System plans which require **Strong Thread**](#remake-system-plans-which-require-strong-thread)
-
 ## Basic information
 
 |   |   |

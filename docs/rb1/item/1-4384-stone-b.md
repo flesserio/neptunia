@@ -9,7 +9,6 @@ title: Stone B (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Stone B**](#player-characters-who-can-equip-stone-b)
-
 ## Basic information
 
 |   |   |

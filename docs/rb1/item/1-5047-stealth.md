@@ -8,7 +8,6 @@ title: Stealth (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Dungeons **Stealth** is found](#dungeons-stealth-is-found)
-
 ## Basic information
 
 |   |   |

@@ -10,7 +10,6 @@ title: Martial B (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Dungeons **Martial B** is found](#dungeons-martial-b-is-found)
 - [Player characters who can equip **Martial B**](#player-characters-who-can-equip-martial-b)
-
 ## Basic information
 
 |   |   |

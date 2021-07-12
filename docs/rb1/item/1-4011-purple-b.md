@@ -10,7 +10,6 @@ title: Purple B (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Player characters who have **Purple B** equipped by default](#player-characters-who-have-purple-b-equipped-by-default)
 - [Player characters who can equip **Purple B**](#player-characters-who-can-equip-purple-b)
-
 ## Basic information
 
 |   |   |

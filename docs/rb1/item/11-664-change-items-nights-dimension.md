@@ -9,7 +9,6 @@ title: Change Items: Nights' Dimension (Item) - Hyperdimension Neptunia Re;Birth
 - [Basic information](#basic-information)
 - [Chirpers who give **Change Items: Nights' Dimension**](#chirpers-who-give-change-items-nights-dimension)
 - [Plans added to Remake System after collecting **Change Items: Nights' Dimension**](#plans-added-to-remake-system-after-collecting-change-items-nights-dimension)
-
 ## Basic information
 
 |   |   |

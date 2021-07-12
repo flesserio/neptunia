@@ -10,7 +10,6 @@ title: Double Round B (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Chirpers who give **Double Round B**](#chirpers-who-give-double-round-b)
 - [Player characters who can equip **Double Round B**](#player-characters-who-can-equip-double-round-b)
-
 ## Basic information
 
 |   |   |

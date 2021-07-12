@@ -9,7 +9,6 @@ title: Free Scenario (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Free Scenario** is found](#dungeons-free-scenario-is-found)
 - [Quests which reward **Free Scenario**](#quests-which-reward-free-scenario)
-
 ## Basic information
 
 |   |   |

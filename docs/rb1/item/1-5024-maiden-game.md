@@ -8,7 +8,6 @@ title: Maiden Game (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Dungeons **Maiden Game** is found](#dungeons-maiden-game-is-found)
-
 ## Basic information
 
 |   |   |

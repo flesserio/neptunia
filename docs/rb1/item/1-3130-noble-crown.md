@@ -9,7 +9,6 @@ title: Noble Crown (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Noble Crown** in shop](#remake-system-plans-which-unlock-noble-crown-in-shop)
 - [Player characters who can equip **Noble Crown**](#player-characters-who-can-equip-noble-crown)
-
 ## Basic information
 
 |   |   |

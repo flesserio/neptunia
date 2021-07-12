@@ -9,7 +9,6 @@ title: Plan: Triple Edge (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **Plan: Triple Edge**](#chirpers-who-give-plan-triple-edge)
 - [Plans added to Remake System after collecting **Plan: Triple Edge**](#plans-added-to-remake-system-after-collecting-plan-triple-edge)
-
 ## Basic information
 
 |   |   |

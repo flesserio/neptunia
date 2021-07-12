@@ -9,7 +9,6 @@ title: Add Super Enemies: Haneda Forest (Item) - Hyperdimension Neptunia Re;Birt
 - [Basic information](#basic-information)
 - [Chirpers who give **Add Super Enemies: Haneda Forest**](#chirpers-who-give-add-super-enemies-haneda-forest)
 - [Plans added to Remake System after collecting **Add Super Enemies: Haneda Forest**](#plans-added-to-remake-system-after-collecting-add-super-enemies-haneda-forest)
-
 ## Basic information
 
 |   |   |

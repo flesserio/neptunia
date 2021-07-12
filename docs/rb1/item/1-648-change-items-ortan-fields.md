@@ -9,7 +9,6 @@ title: Change Items: Ortan Fields (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **Change Items: Ortan Fields**](#chirpers-who-give-change-items-ortan-fields)
 - [Plans added to Remake System after collecting **Change Items: Ortan Fields**](#plans-added-to-remake-system-after-collecting-change-items-ortan-fields)
-
 ## Basic information
 
 |   |   |

@@ -9,7 +9,6 @@ title: Rare Plate (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Rare Plate** is found](#dungeons-rare-plate-is-found)
 - [Remake System plans which require **Rare Plate**](#remake-system-plans-which-require-rare-plate)
-
 ## Basic information
 
 |   |   |

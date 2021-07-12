@@ -9,7 +9,6 @@ title: Plan: Lost Game Ring (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **Plan: Lost Game Ring**](#chirpers-who-give-plan-lost-game-ring)
 - [Plans added to Remake System after collecting **Plan: Lost Game Ring**](#plans-added-to-remake-system-after-collecting-plan-lost-game-ring)
-
 ## Basic information
 
 |   |   |

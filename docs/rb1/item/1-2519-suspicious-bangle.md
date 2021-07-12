@@ -11,7 +11,6 @@ title: Suspicious Bangle (Item) - Hyperdimension Neptunia Re;Birth1
 - [Remake System plans which unlock **Suspicious Bangle** in shop](#remake-system-plans-which-unlock-suspicious-bangle-in-shop)
 - [Remake System plans which require **Suspicious Bangle**](#remake-system-plans-which-require-suspicious-bangle)
 - [Player characters who can equip **Suspicious Bangle**](#player-characters-who-can-equip-suspicious-bangle)
-
 ## Basic information
 
 |   |   |

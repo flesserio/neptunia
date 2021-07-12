@@ -9,7 +9,6 @@ title: Black Chignon (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Black Chignon** in shop](#remake-system-plans-which-unlock-black-chignon-in-shop)
 - [Player characters who can equip **Black Chignon**](#player-characters-who-can-equip-black-chignon)
-
 ## Basic information
 
 |   |   |

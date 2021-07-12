@@ -9,7 +9,6 @@ title: Silver Ore (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Silver Ore** is found](#dungeons-silver-ore-is-found)
 - [Remake System plans which require **Silver Ore**](#remake-system-plans-which-require-silver-ore)
-
 ## Basic information
 
 |   |   |

@@ -9,7 +9,6 @@ title: Yellow Block (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Yellow Block** is found](#dungeons-yellow-block-is-found)
 - [Remake System plans which require **Yellow Block**](#remake-system-plans-which-require-yellow-block)
-
 ## Basic information
 
 |   |   |

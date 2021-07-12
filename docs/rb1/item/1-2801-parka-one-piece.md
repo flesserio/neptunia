@@ -9,7 +9,6 @@ title: Parka One-Piece (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Player characters who have **Parka One-Piece** equipped by default](#player-characters-who-have-parka-one-piece-equipped-by-default)
 - [Player characters who can equip **Parka One-Piece**](#player-characters-who-can-equip-parka-one-piece)
-
 ## Basic information
 
 |   |   |

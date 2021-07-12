@@ -9,7 +9,6 @@ title: Magic Ice Stone (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Magic Ice Stone** is found](#dungeons-magic-ice-stone-is-found)
 - [Remake System plans which require **Magic Ice Stone**](#remake-system-plans-which-require-magic-ice-stone)
-
 ## Basic information
 
 |   |   |

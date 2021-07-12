@@ -9,7 +9,6 @@ title: Cool Boxbird Wing (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Cool Boxbird Wing** is found](#dungeons-cool-boxbird-wing-is-found)
 - [Remake System plans which require **Cool Boxbird Wing**](#remake-system-plans-which-require-cool-boxbird-wing)
-
 ## Basic information
 
 |   |   |

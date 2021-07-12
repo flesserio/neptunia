@@ -8,7 +8,6 @@ title: Puzzle/Logic (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Dungeons **Puzzle/Logic** is found](#dungeons-puzzle-logic-is-found)
-
 ## Basic information
 
 |   |   |

@@ -8,7 +8,6 @@ title: Nature (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Dungeons **Nature** is found](#dungeons-nature-is-found)
-
 ## Basic information
 
 |   |   |

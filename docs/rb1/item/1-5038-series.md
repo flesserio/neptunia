@@ -8,7 +8,6 @@ title: Series (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Dungeons **Series** is found](#dungeons-series-is-found)
-
 ## Basic information
 
 |   |   |

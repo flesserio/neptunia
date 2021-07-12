@@ -9,7 +9,6 @@ title: Phantom Wing (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Phantom Wing** is found](#dungeons-phantom-wing-is-found)
 - [Remake System plans which require **Phantom Wing**](#remake-system-plans-which-require-phantom-wing)
-
 ## Basic information
 
 |   |   |

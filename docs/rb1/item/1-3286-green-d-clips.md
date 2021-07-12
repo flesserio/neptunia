@@ -8,7 +8,6 @@ title: Green D-Clips (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Player characters who can equip **Green D-Clips**](#player-characters-who-can-equip-green-d-clips)
-
 ## Basic information
 
 |   |   |

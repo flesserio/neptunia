@@ -9,7 +9,6 @@ title: Overclocked Memory (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Overclocked Memory** is found](#dungeons-overclocked-memory-is-found)
 - [Remake System plans which require **Overclocked Memory**](#remake-system-plans-which-require-overclocked-memory)
-
 ## Basic information
 
 |   |   |

@@ -9,7 +9,6 @@ title: Pyocola (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Pyocola** is found](#dungeons-pyocola-is-found)
 - [Player characters who can equip **Pyocola**](#player-characters-who-can-equip-pyocola)
-
 ## Basic information
 
 |   |   |

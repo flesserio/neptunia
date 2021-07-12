@@ -9,7 +9,6 @@ title: Black Gel Feeler (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Black Gel Feeler** is found](#dungeons-black-gel-feeler-is-found)
 - [Remake System plans which require **Black Gel Feeler**](#remake-system-plans-which-require-black-gel-feeler)
-
 ## Basic information
 
 |   |   |

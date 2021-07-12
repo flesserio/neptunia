@@ -8,7 +8,6 @@ title: Memory Increase - 64MB (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Chirpers who give **Memory Increase - 64MB**](#chirpers-who-give-memory-increase-64mb)
-
 ## Basic information
 
 |   |   |

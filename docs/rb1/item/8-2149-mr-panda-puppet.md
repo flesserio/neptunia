@@ -9,7 +9,6 @@ title: Mr. Panda Puppet (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Mr. Panda Puppet**](#player-characters-who-can-equip-mr-panda-puppet)
-
 ## Basic information
 
 |   |   |

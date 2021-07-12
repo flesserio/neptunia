@@ -9,7 +9,6 @@ title: Older Man (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Older Man** is found](#dungeons-older-man-is-found)
 - [Quests which reward **Older Man**](#quests-which-reward-older-man)
-
 ## Basic information
 
 |   |   |

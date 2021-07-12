@@ -9,7 +9,6 @@ title: Dark Staff (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Dark Staff**](#player-characters-who-can-equip-dark-staff)
-
 ## Basic information
 
 |   |   |

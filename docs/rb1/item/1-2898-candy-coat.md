@@ -9,7 +9,6 @@ title: Candy Coat (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Player characters who have **Candy Coat** equipped by default](#player-characters-who-have-candy-coat-equipped-by-default)
 - [Player characters who can equip **Candy Coat**](#player-characters-who-can-equip-candy-coat)
-
 ## Basic information
 
 |   |   |

@@ -10,7 +10,6 @@ title: Black Frame (Item) - Hyperdimension Neptunia Re;Birth1
 - [Remake System plans which unlock **Black Frame** in shop](#remake-system-plans-which-unlock-black-frame-in-shop)
 - [Remake System plans which require **Black Frame**](#remake-system-plans-which-require-black-frame)
 - [Player characters who can equip **Black Frame**](#player-characters-who-can-equip-black-frame)
-
 ## Basic information
 
 |   |   |

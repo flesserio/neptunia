@@ -9,7 +9,6 @@ title: Maid Hairband (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Maid Hairband** in shop](#remake-system-plans-which-unlock-maid-hairband-in-shop)
 - [Player characters who can equip **Maid Hairband**](#player-characters-who-can-equip-maid-hairband)
-
 ## Basic information
 
 |   |   |

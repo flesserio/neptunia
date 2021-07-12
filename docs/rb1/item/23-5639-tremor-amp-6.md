@@ -9,7 +9,6 @@ title: Tremor Amp+6 (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Tremor Amp+6**](#player-characters-who-can-equip-tremor-amp-6)
-
 ## Basic information
 
 |   |   |

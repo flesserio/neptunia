@@ -9,7 +9,6 @@ title: Plan: Gordian Hammer (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Plans added to Remake System after collecting **Plan: Gordian Hammer**](#plans-added-to-remake-system-after-collecting-plan-gordian-hammer)
 - [Dungeons **Plan: Gordian Hammer** is found](#dungeons-plan-gordian-hammer-is-found)
-
 ## Basic information
 
 |   |   |

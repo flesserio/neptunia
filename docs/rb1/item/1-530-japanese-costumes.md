@@ -9,7 +9,6 @@ title: Japanese Costumes (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Plans added to Remake System after collecting **Japanese Costumes**](#plans-added-to-remake-system-after-collecting-japanese-costumes)
 - [Dungeons **Japanese Costumes** is found](#dungeons-japanese-costumes-is-found)
-
 ## Basic information
 
 |   |   |

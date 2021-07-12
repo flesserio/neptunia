@@ -10,7 +10,6 @@ title: Triple Edge (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Remake System plans which unlock **Triple Edge** in shop](#remake-system-plans-which-unlock-triple-edge-in-shop)
 - [Player characters who can equip **Triple Edge**](#player-characters-who-can-equip-triple-edge)
-
 ## Basic information
 
 |   |   |

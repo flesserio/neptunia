@@ -9,7 +9,6 @@ title: Add Colosseum Fight (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **Add Colosseum Fight**](#chirpers-who-give-add-colosseum-fight)
 - [Plans added to Remake System after collecting **Add Colosseum Fight**](#plans-added-to-remake-system-after-collecting-add-colosseum-fight)
-
 ## Basic information
 
 |   |   |

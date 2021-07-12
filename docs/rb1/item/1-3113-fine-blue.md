@@ -10,7 +10,6 @@ title: Fine Blue (Item) - Hyperdimension Neptunia Re;Birth1
 - [Remake System plans which unlock **Fine Blue** in shop](#remake-system-plans-which-unlock-fine-blue-in-shop)
 - [Remake System plans which require **Fine Blue**](#remake-system-plans-which-require-fine-blue)
 - [Player characters who can equip **Fine Blue**](#player-characters-who-can-equip-fine-blue)
-
 ## Basic information
 
 |   |   |

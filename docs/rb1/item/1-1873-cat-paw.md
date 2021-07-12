@@ -10,7 +10,6 @@ title: Cat Paw (Item) - Hyperdimension Neptunia Re;Birth1
 - [Dungeons **Cat Paw** is found](#dungeons-cat-paw-is-found)
 - [Quests which require gathering **Cat Paw**](#quests-which-require-gathering-cat-paw)
 - [Remake System plans which require **Cat Paw**](#remake-system-plans-which-require-cat-paw)
-
 ## Basic information
 
 |   |   |

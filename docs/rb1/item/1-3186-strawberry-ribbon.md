@@ -9,7 +9,6 @@ title: Strawberry Ribbon (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which require **Strawberry Ribbon**](#remake-system-plans-which-require-strawberry-ribbon)
 - [Player characters who can equip **Strawberry Ribbon**](#player-characters-who-can-equip-strawberry-ribbon)
-
 ## Basic information
 
 |   |   |

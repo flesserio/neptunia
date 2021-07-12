@@ -9,7 +9,6 @@ title: Sword Lance (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Sword Lance**](#player-characters-who-can-equip-sword-lance)
-
 ## Basic information
 
 |   |   |

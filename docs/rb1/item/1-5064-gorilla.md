@@ -8,7 +8,6 @@ title: Gorilla (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Dungeons **Gorilla** is found](#dungeons-gorilla-is-found)
-
 ## Basic information
 
 |   |   |

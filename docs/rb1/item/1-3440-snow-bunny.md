@@ -9,7 +9,6 @@ title: Snow Bunny (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which require **Snow Bunny**](#remake-system-plans-which-require-snow-bunny)
 - [Player characters who can equip **Snow Bunny**](#player-characters-who-can-equip-snow-bunny)
-
 ## Basic information
 
 |   |   |

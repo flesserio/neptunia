@@ -10,7 +10,6 @@ title: Horsebird Thigh (Item) - Hyperdimension Neptunia Re;Birth1
 - [Dungeons **Horsebird Thigh** is found](#dungeons-horsebird-thigh-is-found)
 - [Quests which require gathering **Horsebird Thigh**](#quests-which-require-gathering-horsebird-thigh)
 - [Remake System plans which require **Horsebird Thigh**](#remake-system-plans-which-require-horsebird-thigh)
-
 ## Basic information
 
 |   |   |

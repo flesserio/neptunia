@@ -9,7 +9,6 @@ title: Fairy Nurse (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Colosseum quests which reward **Fairy Nurse**](#colosseum-quests-which-reward-fairy-nurse)
 - [Player characters who can equip **Fairy Nurse**](#player-characters-who-can-equip-fairy-nurse)
-
 ## Basic information
 
 |   |   |

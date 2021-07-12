@@ -9,7 +9,6 @@ title: Big Butterfly Wing (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Big Butterfly Wing** is found](#dungeons-big-butterfly-wing-is-found)
 - [Remake System plans which require **Big Butterfly Wing**](#remake-system-plans-which-require-big-butterfly-wing)
-
 ## Basic information
 
 |   |   |

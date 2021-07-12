@@ -9,7 +9,6 @@ title: Flower Ribbon (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Flower Ribbon**](#player-characters-who-can-equip-flower-ribbon)
-
 ## Basic information
 
 |   |   |

@@ -9,7 +9,6 @@ title: Ninja School Duds (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Player characters who have **Ninja School Duds** equipped by default](#player-characters-who-have-ninja-school-duds-equipped-by-default)
 - [Player characters who can equip **Ninja School Duds**](#player-characters-who-can-equip-ninja-school-duds)
-
 ## Basic information
 
 |   |   |

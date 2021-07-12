@@ -10,7 +10,6 @@ title: Pachimon Circuit (Item) - Hyperdimension Neptunia Re;Birth1
 - [Dungeons **Pachimon Circuit** is found](#dungeons-pachimon-circuit-is-found)
 - [Quests which require gathering **Pachimon Circuit**](#quests-which-require-gathering-pachimon-circuit)
 - [Remake System plans which require **Pachimon Circuit**](#remake-system-plans-which-require-pachimon-circuit)
-
 ## Basic information
 
 |   |   |

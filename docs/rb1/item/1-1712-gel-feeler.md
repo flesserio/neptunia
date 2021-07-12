@@ -10,7 +10,6 @@ title: Gel Feeler (Item) - Hyperdimension Neptunia Re;Birth1
 - [Dungeons **Gel Feeler** is found](#dungeons-gel-feeler-is-found)
 - [Quests which require gathering **Gel Feeler**](#quests-which-require-gathering-gel-feeler)
 - [Remake System plans which require **Gel Feeler**](#remake-system-plans-which-require-gel-feeler)
-
 ## Basic information
 
 |   |   |

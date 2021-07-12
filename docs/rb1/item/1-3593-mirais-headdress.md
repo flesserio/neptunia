@@ -9,7 +9,6 @@ title: Mirai's Headdress (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Mirai's Headdress**](#player-characters-who-can-equip-mirais-headdress)
-
 ## Basic information
 
 |   |   |

@@ -10,7 +10,6 @@ title: Orange Petal (Item) - Hyperdimension Neptunia Re;Birth1
 - [Dungeons **Orange Petal** is found](#dungeons-orange-petal-is-found)
 - [Quests which require gathering **Orange Petal**](#quests-which-require-gathering-orange-petal)
 - [Remake System plans which require **Orange Petal**](#remake-system-plans-which-require-orange-petal)
-
 ## Basic information
 
 |   |   |

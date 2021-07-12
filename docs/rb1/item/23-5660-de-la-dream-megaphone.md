@@ -9,7 +9,6 @@ title: De La Dream Megaphone (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **De La Dream Megaphone**](#player-characters-who-can-equip-de-la-dream-megaphone)
-
 ## Basic information
 
 |   |   |

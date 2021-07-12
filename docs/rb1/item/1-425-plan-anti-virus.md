@@ -9,7 +9,6 @@ title: Plan: Anti-Virus (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **Plan: Anti-Virus**](#chirpers-who-give-plan-anti-virus)
 - [Plans added to Remake System after collecting **Plan: Anti-Virus**](#plans-added-to-remake-system-after-collecting-plan-anti-virus)
-
 ## Basic information
 
 |   |   |

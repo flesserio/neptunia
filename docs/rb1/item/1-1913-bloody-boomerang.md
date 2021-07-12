@@ -9,7 +9,6 @@ title: Bloody Boomerang (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Bloody Boomerang** is found](#dungeons-bloody-boomerang-is-found)
 - [Remake System plans which require **Bloody Boomerang**](#remake-system-plans-which-require-bloody-boomerang)
-
 ## Basic information
 
 |   |   |

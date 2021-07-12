@@ -9,7 +9,6 @@ title: Green Cat Glasses (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Green Cat Glasses** in shop](#remake-system-plans-which-unlock-green-cat-glasses-in-shop)
 - [Player characters who can equip **Green Cat Glasses**](#player-characters-who-can-equip-green-cat-glasses)
-
 ## Basic information
 
 |   |   |

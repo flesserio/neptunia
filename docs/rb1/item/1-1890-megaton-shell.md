@@ -10,7 +10,6 @@ title: Megaton Shell (Item) - Hyperdimension Neptunia Re;Birth1
 - [Dungeons **Megaton Shell** is found](#dungeons-megaton-shell-is-found)
 - [Quests which require gathering **Megaton Shell**](#quests-which-require-gathering-megaton-shell)
 - [Remake System plans which require **Megaton Shell**](#remake-system-plans-which-require-megaton-shell)
-
 ## Basic information
 
 |   |   |

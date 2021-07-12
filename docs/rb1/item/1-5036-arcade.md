@@ -8,7 +8,6 @@ title: Arcade (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Dungeons **Arcade** is found](#dungeons-arcade-is-found)
-
 ## Basic information
 
 |   |   |

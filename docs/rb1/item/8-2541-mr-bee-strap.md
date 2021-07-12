@@ -9,7 +9,6 @@ title: Mr. Bee Strap (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Mr. Bee Strap**](#player-characters-who-can-equip-mr-bee-strap)
-
 ## Basic information
 
 |   |   |

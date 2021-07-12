@@ -8,7 +8,6 @@ title: White Heart PVC (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Dungeons **White Heart PVC** is found](#dungeons-white-heart-pvc-is-found)
-
 ## Basic information
 
 |   |   |

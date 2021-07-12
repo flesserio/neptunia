@@ -10,7 +10,6 @@ title: Gungnir (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Remake System plans which unlock **Gungnir** in shop](#remake-system-plans-which-unlock-gungnir-in-shop)
 - [Player characters who can equip **Gungnir**](#player-characters-who-can-equip-gungnir)
-
 ## Basic information
 
 |   |   |

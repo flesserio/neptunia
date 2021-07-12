@@ -9,7 +9,6 @@ title: Wasteland B (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Wasteland B**](#player-characters-who-can-equip-wasteland-b)
-
 ## Basic information
 
 |   |   |

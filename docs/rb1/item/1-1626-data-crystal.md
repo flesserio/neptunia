@@ -9,7 +9,6 @@ title: Data Crystal (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Data Crystal** is found](#dungeons-data-crystal-is-found)
 - [Remake System plans which require **Data Crystal**](#remake-system-plans-which-require-data-crystal)
-
 ## Basic information
 
 |   |   |

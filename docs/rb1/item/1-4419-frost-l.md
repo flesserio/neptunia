@@ -10,7 +10,6 @@ title: Frost L (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Dungeons **Frost L** is found](#dungeons-frost-l-is-found)
 - [Player characters who can equip **Frost L**](#player-characters-who-can-equip-frost-l)
-
 ## Basic information
 
 |   |   |

@@ -9,7 +9,6 @@ title: Fairize H (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Fairize H**](#player-characters-who-can-equip-fairize-h)
-
 ## Basic information
 
 |   |   |

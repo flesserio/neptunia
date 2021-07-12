@@ -9,7 +9,6 @@ title: Magic Academy Hat (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Player characters who have **Magic Academy Hat** equipped by default](#player-characters-who-have-magic-academy-hat-equipped-by-default)
 - [Player characters who can equip **Magic Academy Hat**](#player-characters-who-can-equip-magic-academy-hat)
-
 ## Basic information
 
 |   |   |

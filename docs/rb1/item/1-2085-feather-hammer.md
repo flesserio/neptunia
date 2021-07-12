@@ -10,7 +10,6 @@ title: Feather Hammer (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Player characters who have **Feather Hammer** equipped by default](#player-characters-who-have-feather-hammer-equipped-by-default)
 - [Player characters who can equip **Feather Hammer**](#player-characters-who-can-equip-feather-hammer)
-
 ## Basic information
 
 |   |   |

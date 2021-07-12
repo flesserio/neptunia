@@ -8,7 +8,6 @@ title: Elite Rose (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Player characters who can equip **Elite Rose**](#player-characters-who-can-equip-elite-rose)
-
 ## Basic information
 
 |   |   |

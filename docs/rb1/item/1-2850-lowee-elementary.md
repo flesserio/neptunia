@@ -10,7 +10,6 @@ title: Lowee Elementary (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Dungeons **Lowee Elementary** is found](#dungeons-lowee-elementary-is-found)
 - [Player characters who can equip **Lowee Elementary**](#player-characters-who-can-equip-lowee-elementary)
-
 ## Basic information
 
 |   |   |

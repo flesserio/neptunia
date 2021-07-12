@@ -9,7 +9,6 @@ title: Usada's Hat (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Usada's Hat** is found](#dungeons-usadas-hat-is-found)
 - [Player characters who can equip **Usada's Hat**](#player-characters-who-can-equip-usadas-hat)
-
 ## Basic information
 
 |   |   |

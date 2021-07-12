@@ -10,7 +10,6 @@ title: SP Buster II (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Remake System plans which unlock **SP Buster II** in shop](#remake-system-plans-which-unlock-sp-buster-ii-in-shop)
 - [Player characters who can equip **SP Buster II**](#player-characters-who-can-equip-sp-buster-ii)
-
 ## Basic information
 
 |   |   |

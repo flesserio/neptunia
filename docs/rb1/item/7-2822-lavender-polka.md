@@ -9,7 +9,6 @@ title: Lavender Polka (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Lavender Polka**](#player-characters-who-can-equip-lavender-polka)
-
 ## Basic information
 
 |   |   |

@@ -9,7 +9,6 @@ title: Cyber Ribbon (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which require **Cyber Ribbon**](#remake-system-plans-which-require-cyber-ribbon)
 - [Player characters who can equip **Cyber Ribbon**](#player-characters-who-can-equip-cyber-ribbon)
-
 ## Basic information
 
 |   |   |

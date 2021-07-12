@@ -9,7 +9,6 @@ title: Bug Strap (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Player characters who have **Bug Strap** equipped by default](#player-characters-who-have-bug-strap-equipped-by-default)
 - [Player characters who can equip **Bug Strap**](#player-characters-who-can-equip-bug-strap)
-
 ## Basic information
 
 |   |   |

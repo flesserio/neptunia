@@ -10,7 +10,6 @@ title: Beam Katana Beta (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Remake System plans which unlock **Beam Katana Beta** in shop](#remake-system-plans-which-unlock-beam-katana-beta-in-shop)
 - [Player characters who can equip **Beam Katana Beta**](#player-characters-who-can-equip-beam-katana-beta)
-
 ## Basic information
 
 |   |   |

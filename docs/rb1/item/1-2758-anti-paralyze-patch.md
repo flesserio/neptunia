@@ -10,7 +10,6 @@ title: Anti-Paralyze Patch (Item) - Hyperdimension Neptunia Re;Birth1
 - [Remake System plans which unlock **Anti-Paralyze Patch** in shop](#remake-system-plans-which-unlock-anti-paralyze-patch-in-shop)
 - [Remake System plans which require **Anti-Paralyze Patch**](#remake-system-plans-which-require-anti-paralyze-patch)
 - [Player characters who can equip **Anti-Paralyze Patch**](#player-characters-who-can-equip-anti-paralyze-patch)
-
 ## Basic information
 
 |   |   |

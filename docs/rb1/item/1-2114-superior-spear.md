@@ -10,7 +10,6 @@ title: Superior Spear (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Remake System plans which unlock **Superior Spear** in shop](#remake-system-plans-which-unlock-superior-spear-in-shop)
 - [Player characters who can equip **Superior Spear**](#player-characters-who-can-equip-superior-spear)
-
 ## Basic information
 
 |   |   |

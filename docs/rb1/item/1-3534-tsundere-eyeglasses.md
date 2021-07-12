@@ -9,7 +9,6 @@ title: Tsundere Eyeglasses (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Tsundere Eyeglasses**](#player-characters-who-can-equip-tsundere-eyeglasses)
-
 ## Basic information
 
 |   |   |

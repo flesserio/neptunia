@@ -9,7 +9,6 @@ title: Change Items: Fantasy Zone (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **Change Items: Fantasy Zone**](#chirpers-who-give-change-items-fantasy-zone)
 - [Plans added to Remake System after collecting **Change Items: Fantasy Zone**](#plans-added-to-remake-system-after-collecting-change-items-fantasy-zone)
-
 ## Basic information
 
 |   |   |

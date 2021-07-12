@@ -9,7 +9,6 @@ title: Add Enemies: Factory No.459 (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **Add Enemies: Factory No.459**](#chirpers-who-give-add-enemies-factory-no459)
 - [Plans added to Remake System after collecting **Add Enemies: Factory No.459**](#plans-added-to-remake-system-after-collecting-add-enemies-factory-no459)
-
 ## Basic information
 
 |   |   |

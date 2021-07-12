@@ -9,7 +9,6 @@ title: Studded Armlet (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Studded Armlet**](#player-characters-who-can-equip-studded-armlet)
-
 ## Basic information
 
 |   |   |

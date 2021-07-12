@@ -10,7 +10,6 @@ title: Bell Ribbon (Item) - Hyperdimension Neptunia Re;Birth1
 - [Quests which reward **Bell Ribbon**](#quests-which-reward-bell-ribbon)
 - [Remake System plans which require **Bell Ribbon**](#remake-system-plans-which-require-bell-ribbon)
 - [Player characters who can equip **Bell Ribbon**](#player-characters-who-can-equip-bell-ribbon)
-
 ## Basic information
 
 |   |   |

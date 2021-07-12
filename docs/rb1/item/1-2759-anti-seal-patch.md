@@ -10,7 +10,6 @@ title: Anti-Seal Patch (Item) - Hyperdimension Neptunia Re;Birth1
 - [Remake System plans which unlock **Anti-Seal Patch** in shop](#remake-system-plans-which-unlock-anti-seal-patch-in-shop)
 - [Remake System plans which require **Anti-Seal Patch**](#remake-system-plans-which-require-anti-seal-patch)
 - [Player characters who can equip **Anti-Seal Patch**](#player-characters-who-can-equip-anti-seal-patch)
-
 ## Basic information
 
 |   |   |

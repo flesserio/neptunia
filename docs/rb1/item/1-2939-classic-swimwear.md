@@ -9,7 +9,6 @@ title: Classic Swimwear (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Classic Swimwear** in shop](#remake-system-plans-which-unlock-classic-swimwear-in-shop)
 - [Player characters who can equip **Classic Swimwear**](#player-characters-who-can-equip-classic-swimwear)
-
 ## Basic information
 
 |   |   |

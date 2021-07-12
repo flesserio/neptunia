@@ -10,7 +10,6 @@ title: Double Round S (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Quests which reward **Double Round S**](#quests-which-reward-double-round-s)
 - [Player characters who can equip **Double Round S**](#player-characters-who-can-equip-double-round-s)
-
 ## Basic information
 
 |   |   |

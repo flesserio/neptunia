@@ -11,7 +11,6 @@ title: Orbital-S C (Item) - Hyperdimension Neptunia Re;Birth1
 - [Dungeons **Orbital-S C** is found](#dungeons-orbital-s-c-is-found)
 - [Remake System plans which require **Orbital-S C**](#remake-system-plans-which-require-orbital-s-c)
 - [Player characters who can equip **Orbital-S C**](#player-characters-who-can-equip-orbital-s-c)
-
 ## Basic information
 
 |   |   |

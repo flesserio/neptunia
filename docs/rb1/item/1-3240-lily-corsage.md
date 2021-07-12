@@ -9,7 +9,6 @@ title: Lily Corsage (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Lily Corsage** is found](#dungeons-lily-corsage-is-found)
 - [Player characters who can equip **Lily Corsage**](#player-characters-who-can-equip-lily-corsage)
-
 ## Basic information
 
 |   |   |

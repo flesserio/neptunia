@@ -10,7 +10,6 @@ title: King Crown (Item) - Hyperdimension Neptunia Re;Birth1
 - [Dungeons **King Crown** is found](#dungeons-king-crown-is-found)
 - [Quests which require gathering **King Crown**](#quests-which-require-gathering-king-crown)
 - [Remake System plans which require **King Crown**](#remake-system-plans-which-require-king-crown)
-
 ## Basic information
 
 |   |   |

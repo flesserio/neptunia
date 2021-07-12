@@ -10,7 +10,6 @@ title: Wolf Fur (Item) - Hyperdimension Neptunia Re;Birth1
 - [Dungeons **Wolf Fur** is found](#dungeons-wolf-fur-is-found)
 - [Quests which require gathering **Wolf Fur**](#quests-which-require-gathering-wolf-fur)
 - [Remake System plans which require **Wolf Fur**](#remake-system-plans-which-require-wolf-fur)
-
 ## Basic information
 
 |   |   |

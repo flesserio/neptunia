@@ -9,7 +9,6 @@ title: God Soul (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **God Soul** is found](#dungeons-god-soul-is-found)
 - [Remake System plans which require **God Soul**](#remake-system-plans-which-require-god-soul)
-
 ## Basic information
 
 |   |   |

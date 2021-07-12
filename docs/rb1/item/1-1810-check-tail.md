@@ -9,7 +9,6 @@ title: Check Tail (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Check Tail** is found](#dungeons-check-tail-is-found)
 - [Remake System plans which require **Check Tail**](#remake-system-plans-which-require-check-tail)
-
 ## Basic information
 
 |   |   |

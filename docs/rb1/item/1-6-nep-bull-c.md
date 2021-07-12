@@ -10,7 +10,6 @@ title: Nep Bull C (Item) - Hyperdimension Neptunia Re;Birth1
 - [Remake System plans which unlock **Nep Bull C** in shop](#remake-system-plans-which-unlock-nep-bull-c-in-shop)
 - [Colosseum quests which reward **Nep Bull C**](#colosseum-quests-which-reward-nep-bull-c)
 - [Quests which reward **Nep Bull C**](#quests-which-reward-nep-bull-c)
-
 ## Basic information
 
 |   |   |

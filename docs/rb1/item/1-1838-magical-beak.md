@@ -10,7 +10,6 @@ title: Magical Beak (Item) - Hyperdimension Neptunia Re;Birth1
 - [Dungeons **Magical Beak** is found](#dungeons-magical-beak-is-found)
 - [Quests which require gathering **Magical Beak**](#quests-which-require-gathering-magical-beak)
 - [Remake System plans which require **Magical Beak**](#remake-system-plans-which-require-magical-beak)
-
 ## Basic information
 
 |   |   |

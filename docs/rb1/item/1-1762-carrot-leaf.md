@@ -9,7 +9,6 @@ title: Carrot Leaf (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Carrot Leaf** is found](#dungeons-carrot-leaf-is-found)
 - [Remake System plans which require **Carrot Leaf**](#remake-system-plans-which-require-carrot-leaf)
-
 ## Basic information
 
 |   |   |

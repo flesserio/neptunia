@@ -10,7 +10,6 @@ title: Leanbox C (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Remake System plans which unlock **Leanbox C** in shop](#remake-system-plans-which-unlock-leanbox-c-in-shop)
 - [Player characters who can equip **Leanbox C**](#player-characters-who-can-equip-leanbox-c)
-
 ## Basic information
 
 |   |   |

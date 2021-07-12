@@ -11,7 +11,6 @@ title: STR Booster Z (Item) - Hyperdimension Neptunia Re;Birth1
 - [Dungeons **STR Booster Z** is found](#dungeons-str-booster-z-is-found)
 - [Colosseum quests which reward **STR Booster Z**](#colosseum-quests-which-reward-str-booster-z)
 - [Quests which reward **STR Booster Z**](#quests-which-reward-str-booster-z)
-
 ## Basic information
 
 |   |   |

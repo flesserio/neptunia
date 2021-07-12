@@ -9,7 +9,6 @@ title: Harada Purple (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Quests which reward **Harada Purple**](#quests-which-reward-harada-purple)
 - [Player characters who can equip **Harada Purple**](#player-characters-who-can-equip-harada-purple)
-
 ## Basic information
 
 |   |   |

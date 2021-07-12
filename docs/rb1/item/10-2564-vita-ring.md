@@ -10,7 +10,6 @@ title: Vita Ring (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Dungeons **Vita Ring** is found](#dungeons-vita-ring-is-found)
 - [Player characters who can equip **Vita Ring**](#player-characters-who-can-equip-vita-ring)
-
 ## Basic information
 
 |   |   |

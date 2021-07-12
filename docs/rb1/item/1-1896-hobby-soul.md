@@ -10,7 +10,6 @@ title: Hobby Soul (Item) - Hyperdimension Neptunia Re;Birth1
 - [Dungeons **Hobby Soul** is found](#dungeons-hobby-soul-is-found)
 - [Quests which require gathering **Hobby Soul**](#quests-which-require-gathering-hobby-soul)
 - [Remake System plans which require **Hobby Soul**](#remake-system-plans-which-require-hobby-soul)
-
 ## Basic information
 
 |   |   |

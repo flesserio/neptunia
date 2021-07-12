@@ -10,7 +10,6 @@ title: Old Dragon...Huh? (Item) - Hyperdimension Neptunia Re;Birth1
 - [Dungeons **Old Dragon...Huh?** is found](#dungeons-old-dragonhuh-is-found)
 - [Quests which require gathering **Old Dragon...Huh?**](#quests-which-require-gathering-old-dragonhuh)
 - [Remake System plans which require **Old Dragon...Huh?**](#remake-system-plans-which-require-old-dragonhuh)
-
 ## Basic information
 
 |   |   |

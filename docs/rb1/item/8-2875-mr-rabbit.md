@@ -9,7 +9,6 @@ title: Mr. Rabbit (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which require **Mr. Rabbit**](#remake-system-plans-which-require-mr-rabbit)
 - [Player characters who can equip **Mr. Rabbit**](#player-characters-who-can-equip-mr-rabbit)
-
 ## Basic information
 
 |   |   |

@@ -9,7 +9,6 @@ title: Leafy Bow of Eternal Darkness (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Leafy Bow of Eternal Darkness**](#player-characters-who-can-equip-leafy-bow-of-eternal-darkness)
-
 ## Basic information
 
 |   |   |

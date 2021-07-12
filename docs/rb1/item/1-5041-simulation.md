@@ -8,7 +8,6 @@ title: Simulation (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Dungeons **Simulation** is found](#dungeons-simulation-is-found)
-
 ## Basic information
 
 |   |   |

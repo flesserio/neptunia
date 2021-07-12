@@ -10,7 +10,6 @@ title: Tornado Ring (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Player characters who have **Tornado Ring** equipped by default](#player-characters-who-have-tornado-ring-equipped-by-default)
 - [Player characters who can equip **Tornado Ring**](#player-characters-who-can-equip-tornado-ring)
-
 ## Basic information
 
 |   |   |

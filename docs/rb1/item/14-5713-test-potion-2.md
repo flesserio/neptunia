@@ -9,7 +9,6 @@ title: Test Potion+2 (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Test Potion+2**](#player-characters-who-can-equip-test-potion-2)
-
 ## Basic information
 
 |   |   |

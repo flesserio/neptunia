@@ -9,7 +9,6 @@ title: Male-oriented (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Male-oriented** is found](#dungeons-male-oriented-is-found)
 - [Quests which reward **Male-oriented**](#quests-which-reward-male-oriented)
-
 ## Basic information
 
 |   |   |

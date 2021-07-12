@@ -9,7 +9,6 @@ title: White Fox (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **White Fox** in shop](#remake-system-plans-which-unlock-white-fox-in-shop)
 - [Player characters who can equip **White Fox**](#player-characters-who-can-equip-white-fox)
-
 ## Basic information
 
 |   |   |

@@ -10,7 +10,6 @@ title: Black Nurse Cap (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Dungeons **Black Nurse Cap** is found](#dungeons-black-nurse-cap-is-found)
 - [Player characters who can equip **Black Nurse Cap**](#player-characters-who-can-equip-black-nurse-cap)
-
 ## Basic information
 
 |   |   |

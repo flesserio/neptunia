@@ -9,7 +9,6 @@ title: Symbol Attack On (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Plans added to Remake System after collecting **Symbol Attack On**](#plans-added-to-remake-system-after-collecting-symbol-attack-on)
 - [Dungeons **Symbol Attack On** is found](#dungeons-symbol-attack-on-is-found)
-
 ## Basic information
 
 |   |   |

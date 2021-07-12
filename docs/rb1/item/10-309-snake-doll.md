@@ -8,7 +8,6 @@ title: Snake Doll? (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Colosseum quests which reward **Snake Doll?**](#colosseum-quests-which-reward-snake-doll)
-
 ## Basic information
 
 |   |   |

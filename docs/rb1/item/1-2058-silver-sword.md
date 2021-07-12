@@ -10,7 +10,6 @@ title: Silver Sword (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Dungeons **Silver Sword** is found](#dungeons-silver-sword-is-found)
 - [Player characters who can equip **Silver Sword**](#player-characters-who-can-equip-silver-sword)
-
 ## Basic information
 
 |   |   |

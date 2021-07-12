@@ -8,7 +8,6 @@ title: Large Medal P (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Dungeons **Large Medal P** is found](#dungeons-large-medal-p-is-found)
-
 ## Basic information
 
 |   |   |

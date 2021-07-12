@@ -9,7 +9,6 @@ title: Change Items: Dees Snow Forest (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **Change Items: Dees Snow Forest**](#chirpers-who-give-change-items-dees-snow-forest)
 - [Plans added to Remake System after collecting **Change Items: Dees Snow Forest**](#plans-added-to-remake-system-after-collecting-change-items-dees-snow-forest)
-
 ## Basic information
 
 |   |   |

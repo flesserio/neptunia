@@ -9,7 +9,6 @@ title: Golden Tooth (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Golden Tooth** is found](#dungeons-golden-tooth-is-found)
 - [Remake System plans which require **Golden Tooth**](#remake-system-plans-which-require-golden-tooth)
-
 ## Basic information
 
 |   |   |

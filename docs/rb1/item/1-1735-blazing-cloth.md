@@ -9,7 +9,6 @@ title: Blazing Cloth (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Blazing Cloth** is found](#dungeons-blazing-cloth-is-found)
 - [Remake System plans which require **Blazing Cloth**](#remake-system-plans-which-require-blazing-cloth)
-
 ## Basic information
 
 |   |   |

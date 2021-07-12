@@ -10,7 +10,6 @@ title: No Good Pendant (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Player characters who have **No Good Pendant** equipped by default](#player-characters-who-have-no-good-pendant-equipped-by-default)
 - [Player characters who can equip **No Good Pendant**](#player-characters-who-can-equip-no-good-pendant)
-
 ## Basic information
 
 |   |   |

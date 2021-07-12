@@ -10,7 +10,6 @@ title: Resort Shades (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Dungeons **Resort Shades** is found](#dungeons-resort-shades-is-found)
 - [Player characters who can equip **Resort Shades**](#player-characters-who-can-equip-resort-shades)
-
 ## Basic information
 
 |   |   |

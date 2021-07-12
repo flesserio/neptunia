@@ -9,7 +9,6 @@ title: Sexy Coordination (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Plans added to Remake System after collecting **Sexy Coordination**](#plans-added-to-remake-system-after-collecting-sexy-coordination)
 - [Dungeons **Sexy Coordination** is found](#dungeons-sexy-coordination-is-found)
-
 ## Basic information
 
 |   |   |

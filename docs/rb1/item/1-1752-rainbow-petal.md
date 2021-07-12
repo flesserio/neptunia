@@ -9,7 +9,6 @@ title: Rainbow Petal (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Rainbow Petal** is found](#dungeons-rainbow-petal-is-found)
 - [Remake System plans which require **Rainbow Petal**](#remake-system-plans-which-require-rainbow-petal)
-
 ## Basic information
 
 |   |   |

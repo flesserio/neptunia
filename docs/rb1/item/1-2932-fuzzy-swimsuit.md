@@ -10,7 +10,6 @@ title: Fuzzy Swimsuit (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Remake System plans which unlock **Fuzzy Swimsuit** in shop](#remake-system-plans-which-unlock-fuzzy-swimsuit-in-shop)
 - [Player characters who can equip **Fuzzy Swimsuit**](#player-characters-who-can-equip-fuzzy-swimsuit)
-
 ## Basic information
 
 |   |   |

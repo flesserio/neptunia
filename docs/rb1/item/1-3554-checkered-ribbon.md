@@ -9,7 +9,6 @@ title: Checkered Ribbon (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Checkered Ribbon**](#player-characters-who-can-equip-checkered-ribbon)
-
 ## Basic information
 
 |   |   |

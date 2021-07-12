@@ -8,7 +8,6 @@ title: Large Medal F (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Quests which reward **Large Medal F**](#quests-which-reward-large-medal-f)
-
 ## Basic information
 
 |   |   |

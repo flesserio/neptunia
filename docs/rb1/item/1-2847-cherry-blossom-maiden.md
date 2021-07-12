@@ -9,7 +9,6 @@ title: Cherry Blossom Maiden (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Cherry Blossom Maiden** in shop](#remake-system-plans-which-unlock-cherry-blossom-maiden-in-shop)
 - [Player characters who can equip **Cherry Blossom Maiden**](#player-characters-who-can-equip-cherry-blossom-maiden)
-
 ## Basic information
 
 |   |   |

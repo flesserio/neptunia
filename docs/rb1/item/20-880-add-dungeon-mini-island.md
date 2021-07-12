@@ -9,7 +9,6 @@ title: Add Dungeon: Mini Island (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **Add Dungeon: Mini Island**](#chirpers-who-give-add-dungeon-mini-island)
 - [Plans added to Remake System after collecting **Add Dungeon: Mini Island**](#plans-added-to-remake-system-after-collecting-add-dungeon-mini-island)
-
 ## Basic information
 
 |   |   |

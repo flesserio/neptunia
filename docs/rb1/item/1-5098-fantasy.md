@@ -8,7 +8,6 @@ title: Fantasy (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Dungeons **Fantasy** is found](#dungeons-fantasy-is-found)
-
 ## Basic information
 
 |   |   |

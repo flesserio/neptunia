@@ -9,7 +9,6 @@ title: Blue Ribbon Hat (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Blue Ribbon Hat** in shop](#remake-system-plans-which-unlock-blue-ribbon-hat-in-shop)
 - [Player characters who can equip **Blue Ribbon Hat**](#player-characters-who-can-equip-blue-ribbon-hat)
-
 ## Basic information
 
 |   |   |

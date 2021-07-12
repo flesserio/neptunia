@@ -9,7 +9,6 @@ title: Spider Thread (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Spider Thread** is found](#dungeons-spider-thread-is-found)
 - [Remake System plans which require **Spider Thread**](#remake-system-plans-which-require-spider-thread)
-
 ## Basic information
 
 |   |   |

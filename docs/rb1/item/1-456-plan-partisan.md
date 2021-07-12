@@ -9,7 +9,6 @@ title: Plan: Partisan (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Plans added to Remake System after collecting **Plan: Partisan**](#plans-added-to-remake-system-after-collecting-plan-partisan)
 - [Dungeons **Plan: Partisan** is found](#dungeons-plan-partisan-is-found)
-
 ## Basic information
 
 |   |   |

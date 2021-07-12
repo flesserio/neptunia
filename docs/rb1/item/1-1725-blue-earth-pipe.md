@@ -10,7 +10,6 @@ title: Blue Earth Pipe (Item) - Hyperdimension Neptunia Re;Birth1
 - [Dungeons **Blue Earth Pipe** is found](#dungeons-blue-earth-pipe-is-found)
 - [Quests which require gathering **Blue Earth Pipe**](#quests-which-require-gathering-blue-earth-pipe)
 - [Remake System plans which require **Blue Earth Pipe**](#remake-system-plans-which-require-blue-earth-pipe)
-
 ## Basic information
 
 |   |   |

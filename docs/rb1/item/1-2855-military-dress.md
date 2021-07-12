@@ -10,7 +10,6 @@ title: Military Dress (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Chirpers who give **Military Dress**](#chirpers-who-give-military-dress)
 - [Player characters who can equip **Military Dress**](#player-characters-who-can-equip-military-dress)
-
 ## Basic information
 
 |   |   |

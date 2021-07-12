@@ -9,7 +9,6 @@ title: Aqua Glasses (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which require **Aqua Glasses**](#remake-system-plans-which-require-aqua-glasses)
 - [Player characters who can equip **Aqua Glasses**](#player-characters-who-can-equip-aqua-glasses)
-
 ## Basic information
 
 |   |   |

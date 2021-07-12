@@ -9,7 +9,6 @@ title: Ancient Shell (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Ancient Shell** is found](#dungeons-ancient-shell-is-found)
 - [Remake System plans which require **Ancient Shell**](#remake-system-plans-which-require-ancient-shell)
-
 ## Basic information
 
 |   |   |

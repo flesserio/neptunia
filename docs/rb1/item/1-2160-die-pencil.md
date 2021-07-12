@@ -10,7 +10,6 @@ title: Die Pencil (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Player characters who have **Die Pencil** equipped by default](#player-characters-who-have-die-pencil-equipped-by-default)
 - [Player characters who can equip **Die Pencil**](#player-characters-who-can-equip-die-pencil)
-
 ## Basic information
 
 |   |   |

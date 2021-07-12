@@ -9,7 +9,6 @@ title: Famous Creator (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Famous Creator** is found](#dungeons-famous-creator-is-found)
 - [Colosseum quests which reward **Famous Creator**](#colosseum-quests-which-reward-famous-creator)
-
 ## Basic information
 
 |   |   |

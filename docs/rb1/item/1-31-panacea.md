@@ -9,7 +9,6 @@ title: Panacea (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Panacea** in shop](#remake-system-plans-which-unlock-panacea-in-shop)
 - [Dungeons **Panacea** is found](#dungeons-panacea-is-found)
-
 ## Basic information
 
 |   |   |

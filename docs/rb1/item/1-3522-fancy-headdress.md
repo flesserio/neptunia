@@ -9,7 +9,6 @@ title: Fancy Headdress (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which require **Fancy Headdress**](#remake-system-plans-which-require-fancy-headdress)
 - [Player characters who can equip **Fancy Headdress**](#player-characters-who-can-equip-fancy-headdress)
-
 ## Basic information
 
 |   |   |

@@ -8,7 +8,6 @@ title: Mediamix Strategy (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Dungeons **Mediamix Strategy** is found](#dungeons-mediamix-strategy-is-found)
-
 ## Basic information
 
 |   |   |

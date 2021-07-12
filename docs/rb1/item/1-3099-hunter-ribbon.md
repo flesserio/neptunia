@@ -9,7 +9,6 @@ title: Hunter Ribbon (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Hunter Ribbon**](#player-characters-who-can-equip-hunter-ribbon)
-
 ## Basic information
 
 |   |   |

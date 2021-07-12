@@ -10,7 +10,6 @@ title: Elite Dress (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Player characters who have **Elite Dress** equipped by default](#player-characters-who-have-elite-dress-equipped-by-default)
 - [Player characters who can equip **Elite Dress**](#player-characters-who-can-equip-elite-dress)
-
 ## Basic information
 
 |   |   |

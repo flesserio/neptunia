@@ -9,7 +9,6 @@ title: Armas Test Model 1.01 (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Armas Test Model 1.01**](#player-characters-who-can-equip-armas-test-model-101)
-
 ## Basic information
 
 |   |   |

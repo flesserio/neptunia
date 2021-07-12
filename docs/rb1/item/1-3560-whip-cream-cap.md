@@ -10,7 +10,6 @@ title: Whip Cream Cap (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Dungeons **Whip Cream Cap** is found](#dungeons-whip-cream-cap-is-found)
 - [Player characters who can equip **Whip Cream Cap**](#player-characters-who-can-equip-whip-cream-cap)
-
 ## Basic information
 
 |   |   |

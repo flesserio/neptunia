@@ -9,7 +9,6 @@ title: Yellow Ribbon (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Yellow Ribbon** is found](#dungeons-yellow-ribbon-is-found)
 - [Remake System plans which require **Yellow Ribbon**](#remake-system-plans-which-require-yellow-ribbon)
-
 ## Basic information
 
 |   |   |

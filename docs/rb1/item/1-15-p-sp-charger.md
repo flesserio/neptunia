@@ -9,7 +9,6 @@ title: P. SP Charger (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **P. SP Charger** in shop](#remake-system-plans-which-unlock-p-sp-charger-in-shop)
 - [Dungeons **P. SP Charger** is found](#dungeons-p-sp-charger-is-found)
-
 ## Basic information
 
 |   |   |

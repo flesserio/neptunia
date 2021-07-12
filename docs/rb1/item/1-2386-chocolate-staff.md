@@ -9,7 +9,6 @@ title: Chocolate Staff (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Chocolate Staff**](#player-characters-who-can-equip-chocolate-staff)
-
 ## Basic information
 
 |   |   |

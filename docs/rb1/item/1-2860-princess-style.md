@@ -9,7 +9,6 @@ title: Princess Style (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Princess Style** in shop](#remake-system-plans-which-unlock-princess-style-in-shop)
 - [Player characters who can equip **Princess Style**](#player-characters-who-can-equip-princess-style)
-
 ## Basic information
 
 |   |   |

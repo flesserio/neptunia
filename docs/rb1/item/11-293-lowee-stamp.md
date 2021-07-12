@@ -8,7 +8,6 @@ title: Lowee Stamp (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Colosseum quests which reward **Lowee Stamp**](#colosseum-quests-which-reward-lowee-stamp)
-
 ## Basic information
 
 |   |   |

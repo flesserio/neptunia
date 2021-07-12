@@ -9,7 +9,6 @@ title: Homura (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Homura** is found](#dungeons-homura-is-found)
 - [Player characters who can equip **Homura**](#player-characters-who-can-equip-homura)
-
 ## Basic information
 
 |   |   |

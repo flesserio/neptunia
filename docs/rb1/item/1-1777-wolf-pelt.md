@@ -9,7 +9,6 @@ title: Wolf Pelt (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Wolf Pelt** is found](#dungeons-wolf-pelt-is-found)
 - [Remake System plans which require **Wolf Pelt**](#remake-system-plans-which-require-wolf-pelt)
-
 ## Basic information
 
 |   |   |

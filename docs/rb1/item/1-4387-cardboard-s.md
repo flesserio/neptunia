@@ -10,7 +10,6 @@ title: Cardboard S (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Dungeons **Cardboard S** is found](#dungeons-cardboard-s-is-found)
 - [Player characters who can equip **Cardboard S**](#player-characters-who-can-equip-cardboard-s)
-
 ## Basic information
 
 |   |   |

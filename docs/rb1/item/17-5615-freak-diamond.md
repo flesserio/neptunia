@@ -9,7 +9,6 @@ title: Freak Diamond (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Freak Diamond**](#player-characters-who-can-equip-freak-diamond)
-
 ## Basic information
 
 |   |   |

@@ -8,7 +8,6 @@ title: Gamindustri Cross (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Colosseum quests which reward **Gamindustri Cross**](#colosseum-quests-which-reward-gamindustri-cross)
-
 ## Basic information
 
 |   |   |

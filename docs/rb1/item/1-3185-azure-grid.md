@@ -9,7 +9,6 @@ title: Azure Grid (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Azure Grid** is found](#dungeons-azure-grid-is-found)
 - [Player characters who can equip **Azure Grid**](#player-characters-who-can-equip-azure-grid)
-
 ## Basic information
 
 |   |   |

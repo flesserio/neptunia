@@ -9,7 +9,6 @@ title: Demon God Qatar (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Demon God Qatar**](#player-characters-who-can-equip-demon-god-qatar)
-
 ## Basic information
 
 |   |   |

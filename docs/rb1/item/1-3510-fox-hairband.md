@@ -9,7 +9,6 @@ title: Fox Hairband (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which require **Fox Hairband**](#remake-system-plans-which-require-fox-hairband)
 - [Player characters who can equip **Fox Hairband**](#player-characters-who-can-equip-fox-hairband)
-
 ## Basic information
 
 |   |   |

@@ -9,7 +9,6 @@ title: Plan: Engage Ring (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **Plan: Engage Ring**](#chirpers-who-give-plan-engage-ring)
 - [Plans added to Remake System after collecting **Plan: Engage Ring**](#plans-added-to-remake-system-after-collecting-plan-engage-ring)
-
 ## Basic information
 
 |   |   |

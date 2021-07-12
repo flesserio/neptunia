@@ -9,7 +9,6 @@ title: Cat Gloves+3 (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Cat Gloves+3**](#player-characters-who-can-equip-cat-gloves-3)
-
 ## Basic information
 
 |   |   |

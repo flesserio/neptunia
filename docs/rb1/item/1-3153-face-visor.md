@@ -10,7 +10,6 @@ title: Face Visor (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Dungeons **Face Visor** is found](#dungeons-face-visor-is-found)
 - [Player characters who can equip **Face Visor**](#player-characters-who-can-equip-face-visor)
-
 ## Basic information
 
 |   |   |

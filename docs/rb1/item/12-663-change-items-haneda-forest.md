@@ -9,7 +9,6 @@ title: Change Items: Haneda Forest (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **Change Items: Haneda Forest**](#chirpers-who-give-change-items-haneda-forest)
 - [Plans added to Remake System after collecting **Change Items: Haneda Forest**](#plans-added-to-remake-system-after-collecting-change-items-haneda-forest)
-
 ## Basic information
 
 |   |   |

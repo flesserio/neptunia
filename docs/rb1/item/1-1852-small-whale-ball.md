@@ -9,7 +9,6 @@ title: Small Whale Ball (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Small Whale Ball** is found](#dungeons-small-whale-ball-is-found)
 - [Remake System plans which require **Small Whale Ball**](#remake-system-plans-which-require-small-whale-ball)
-
 ## Basic information
 
 |   |   |

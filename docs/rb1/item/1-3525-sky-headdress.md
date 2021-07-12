@@ -9,7 +9,6 @@ title: Sky Headdress (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Sky Headdress** in shop](#remake-system-plans-which-unlock-sky-headdress-in-shop)
 - [Player characters who can equip **Sky Headdress**](#player-characters-who-can-equip-sky-headdress)
-
 ## Basic information
 
 |   |   |

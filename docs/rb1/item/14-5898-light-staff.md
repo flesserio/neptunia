@@ -9,7 +9,6 @@ title: Light Staff+? (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Colosseum quests which reward **Light Staff+?**](#colosseum-quests-which-reward-light-staff)
 - [Player characters who can equip **Light Staff+?**](#player-characters-who-can-equip-light-staff)
-
 ## Basic information
 
 |   |   |

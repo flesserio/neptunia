@@ -8,7 +8,6 @@ title: Whistle Key Holder (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Colosseum quests which reward **Whistle Key Holder**](#colosseum-quests-which-reward-whistle-key-holder)
-
 ## Basic information
 
 |   |   |

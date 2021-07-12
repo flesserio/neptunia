@@ -9,7 +9,6 @@ title: Out-Of-Date Pen (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Out-Of-Date Pen** is found](#dungeons-out-of-date-pen-is-found)
 - [Remake System plans which require **Out-Of-Date Pen**](#remake-system-plans-which-require-out-of-date-pen)
-
 ## Basic information
 
 |   |   |

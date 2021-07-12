@@ -8,7 +8,6 @@ title: Light Snow (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Player characters who can equip **Light Snow**](#player-characters-who-can-equip-light-snow)
-
 ## Basic information
 
 |   |   |

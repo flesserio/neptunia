@@ -8,7 +8,6 @@ title: Classical Hairband (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Player characters who can equip **Classical Hairband**](#player-characters-who-can-equip-classical-hairband)
-
 ## Basic information
 
 |   |   |

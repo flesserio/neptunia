@@ -9,7 +9,6 @@ title: Red Frame (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Red Frame** in shop](#remake-system-plans-which-unlock-red-frame-in-shop)
 - [Player characters who can equip **Red Frame**](#player-characters-who-can-equip-red-frame)
-
 ## Basic information
 
 |   |   |

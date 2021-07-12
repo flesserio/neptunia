@@ -9,7 +9,6 @@ title: Feris Hat (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Colosseum quests which reward **Feris Hat**](#colosseum-quests-which-reward-feris-hat)
 - [Player characters who can equip **Feris Hat**](#player-characters-who-can-equip-feris-hat)
-
 ## Basic information
 
 |   |   |

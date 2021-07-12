@@ -10,7 +10,6 @@ title: Helper (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Quests which reward **Helper**](#quests-which-reward-helper)
 - [Player characters who can equip **Helper**](#player-characters-who-can-equip-helper)
-
 ## Basic information
 
 |   |   |

@@ -9,7 +9,6 @@ title: Magical Reactor 3 (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Magical Reactor 3** is found](#dungeons-magical-reactor-3-is-found)
 - [Remake System plans which require **Magical Reactor 3**](#remake-system-plans-which-require-magical-reactor-3)
-
 ## Basic information
 
 |   |   |

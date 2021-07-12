@@ -9,7 +9,6 @@ title: Plan: Candidate Ring (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **Plan: Candidate Ring**](#chirpers-who-give-plan-candidate-ring)
 - [Plans added to Remake System after collecting **Plan: Candidate Ring**](#plans-added-to-remake-system-after-collecting-plan-candidate-ring)
-
 ## Basic information
 
 |   |   |

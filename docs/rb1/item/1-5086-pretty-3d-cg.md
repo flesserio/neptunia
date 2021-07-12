@@ -9,7 +9,6 @@ title: Pretty 3D CG (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Pretty 3D CG** is found](#dungeons-pretty-3d-cg-is-found)
 - [Colosseum quests which reward **Pretty 3D CG**](#colosseum-quests-which-reward-pretty-3d-cg)
-
 ## Basic information
 
 |   |   |

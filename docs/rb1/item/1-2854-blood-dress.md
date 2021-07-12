@@ -9,7 +9,6 @@ title: Blood Dress (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Blood Dress** is found](#dungeons-blood-dress-is-found)
 - [Player characters who can equip **Blood Dress**](#player-characters-who-can-equip-blood-dress)
-
 ## Basic information
 
 |   |   |

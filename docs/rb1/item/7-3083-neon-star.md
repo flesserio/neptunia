@@ -9,7 +9,6 @@ title: Neon Star (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Neon Star** in shop](#remake-system-plans-which-unlock-neon-star-in-shop)
 - [Player characters who can equip **Neon Star**](#player-characters-who-can-equip-neon-star)
-
 ## Basic information
 
 |   |   |

@@ -9,7 +9,6 @@ title: Nice Memories... (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Nice Memories...** is found](#dungeons-nice-memories-is-found)
 - [Remake System plans which require **Nice Memories...**](#remake-system-plans-which-require-nice-memories)
-
 ## Basic information
 
 |   |   |

@@ -10,7 +10,6 @@ title: Cardboard W (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Dungeons **Cardboard W** is found](#dungeons-cardboard-w-is-found)
 - [Player characters who can equip **Cardboard W**](#player-characters-who-can-equip-cardboard-w)
-
 ## Basic information
 
 |   |   |

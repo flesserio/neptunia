@@ -9,7 +9,6 @@ title: Clear Blue Ribbon (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Clear Blue Ribbon** in shop](#remake-system-plans-which-unlock-clear-blue-ribbon-in-shop)
 - [Player characters who can equip **Clear Blue Ribbon**](#player-characters-who-can-equip-clear-blue-ribbon)
-
 ## Basic information
 
 |   |   |

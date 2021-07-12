@@ -9,7 +9,6 @@ title: Plan: Anti-Paralyze Patch (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **Plan: Anti-Paralyze Patch**](#chirpers-who-give-plan-anti-paralyze-patch)
 - [Plans added to Remake System after collecting **Plan: Anti-Paralyze Patch**](#plans-added-to-remake-system-after-collecting-plan-anti-paralyze-patch)
-
 ## Basic information
 
 |   |   |

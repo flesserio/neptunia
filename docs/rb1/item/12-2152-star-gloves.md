@@ -10,7 +10,6 @@ title: Star Gloves (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Colosseum quests which reward **Star Gloves**](#colosseum-quests-which-reward-star-gloves)
 - [Player characters who can equip **Star Gloves**](#player-characters-who-can-equip-star-gloves)
-
 ## Basic information
 
 |   |   |

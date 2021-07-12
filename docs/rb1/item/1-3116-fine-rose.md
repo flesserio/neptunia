@@ -9,7 +9,6 @@ title: Fine Rose (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Fine Rose** in shop](#remake-system-plans-which-unlock-fine-rose-in-shop)
 - [Player characters who can equip **Fine Rose**](#player-characters-who-can-equip-fine-rose)
-
 ## Basic information
 
 |   |   |

@@ -9,7 +9,6 @@ title: Pink Ribbon (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Pink Ribbon** in shop](#remake-system-plans-which-unlock-pink-ribbon-in-shop)
 - [Player characters who can equip **Pink Ribbon**](#player-characters-who-can-equip-pink-ribbon)
-
 ## Basic information
 
 |   |   |

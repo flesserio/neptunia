@@ -9,7 +9,6 @@ title: Hunting (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Hunting** is found](#dungeons-hunting-is-found)
 - [Quests which reward **Hunting**](#quests-which-reward-hunting)
-
 ## Basic information
 
 |   |   |

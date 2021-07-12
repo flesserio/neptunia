@@ -9,7 +9,6 @@ title: Berry Scrunchie (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Berry Scrunchie** in shop](#remake-system-plans-which-unlock-berry-scrunchie-in-shop)
 - [Player characters who can equip **Berry Scrunchie**](#player-characters-who-can-equip-berry-scrunchie)
-
 ## Basic information
 
 |   |   |

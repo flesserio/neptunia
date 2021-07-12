@@ -10,7 +10,6 @@ title: Youth Heart (Item) - Hyperdimension Neptunia Re;Birth1
 - [Dungeons **Youth Heart** is found](#dungeons-youth-heart-is-found)
 - [Quests which require gathering **Youth Heart**](#quests-which-require-gathering-youth-heart)
 - [Remake System plans which require **Youth Heart**](#remake-system-plans-which-require-youth-heart)
-
 ## Basic information
 
 |   |   |

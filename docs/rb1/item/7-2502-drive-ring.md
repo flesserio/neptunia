@@ -10,7 +10,6 @@ title: Drive Ring (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Player characters who have **Drive Ring** equipped by default](#player-characters-who-have-drive-ring-equipped-by-default)
 - [Player characters who can equip **Drive Ring**](#player-characters-who-can-equip-drive-ring)
-
 ## Basic information
 
 |   |   |

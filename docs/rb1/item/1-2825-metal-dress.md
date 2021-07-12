@@ -9,7 +9,6 @@ title: Metal Dress (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Metal Dress**](#player-characters-who-can-equip-metal-dress)
-
 ## Basic information
 
 |   |   |

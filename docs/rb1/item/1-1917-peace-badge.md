@@ -10,7 +10,6 @@ title: Peace Badge (Item) - Hyperdimension Neptunia Re;Birth1
 - [Dungeons **Peace Badge** is found](#dungeons-peace-badge-is-found)
 - [Quests which require gathering **Peace Badge**](#quests-which-require-gathering-peace-badge)
 - [Remake System plans which require **Peace Badge**](#remake-system-plans-which-require-peace-badge)
-
 ## Basic information
 
 |   |   |

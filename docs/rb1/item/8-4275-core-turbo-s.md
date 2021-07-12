@@ -9,7 +9,6 @@ title: Core Turbo S (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Core Turbo S**](#player-characters-who-can-equip-core-turbo-s)
-
 ## Basic information
 
 |   |   |

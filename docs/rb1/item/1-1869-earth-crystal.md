@@ -10,7 +10,6 @@ title: Earth Crystal (Item) - Hyperdimension Neptunia Re;Birth1
 - [Dungeons **Earth Crystal** is found](#dungeons-earth-crystal-is-found)
 - [Quests which require gathering **Earth Crystal**](#quests-which-require-gathering-earth-crystal)
 - [Remake System plans which require **Earth Crystal**](#remake-system-plans-which-require-earth-crystal)
-
 ## Basic information
 
 |   |   |

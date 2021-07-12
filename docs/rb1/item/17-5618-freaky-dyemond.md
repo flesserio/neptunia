@@ -9,7 +9,6 @@ title: Freaky Dyemond (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Freaky Dyemond**](#player-characters-who-can-equip-freaky-dyemond)
-
 ## Basic information
 
 |   |   |

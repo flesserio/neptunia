@@ -9,7 +9,6 @@ title: Pretty Pink (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which require **Pretty Pink**](#remake-system-plans-which-require-pretty-pink)
 - [Player characters who can equip **Pretty Pink**](#player-characters-who-can-equip-pretty-pink)
-
 ## Basic information
 
 |   |   |

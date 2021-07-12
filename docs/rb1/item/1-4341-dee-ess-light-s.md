@@ -10,7 +10,6 @@ title: Dee-Ess Light S (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Player characters who have **Dee-Ess Light S** equipped by default](#player-characters-who-have-dee-ess-light-s-equipped-by-default)
 - [Player characters who can equip **Dee-Ess Light S**](#player-characters-who-can-equip-dee-ess-light-s)
-
 ## Basic information
 
 |   |   |

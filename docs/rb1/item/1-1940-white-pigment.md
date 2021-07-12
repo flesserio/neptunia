@@ -10,7 +10,6 @@ title: White Pigment (Item) - Hyperdimension Neptunia Re;Birth1
 - [Remake System plans which unlock **White Pigment** in shop](#remake-system-plans-which-unlock-white-pigment-in-shop)
 - [Dungeons **White Pigment** is found](#dungeons-white-pigment-is-found)
 - [Remake System plans which require **White Pigment**](#remake-system-plans-which-require-white-pigment)
-
 ## Basic information
 
 |   |   |

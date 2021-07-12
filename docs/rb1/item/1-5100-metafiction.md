@@ -8,7 +8,6 @@ title: Metafiction (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Dungeons **Metafiction** is found](#dungeons-metafiction-is-found)
-
 ## Basic information
 
 |   |   |

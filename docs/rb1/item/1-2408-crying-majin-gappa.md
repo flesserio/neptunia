@@ -9,7 +9,6 @@ title: Crying Majin Gappa (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Crying Majin Gappa**](#player-characters-who-can-equip-crying-majin-gappa)
-
 ## Basic information
 
 |   |   |

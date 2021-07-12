@@ -9,7 +9,6 @@ title: Snow Bonbon (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Snow Bonbon** is found](#dungeons-snow-bonbon-is-found)
 - [Player characters who can equip **Snow Bonbon**](#player-characters-who-can-equip-snow-bonbon)
-
 ## Basic information
 
 |   |   |

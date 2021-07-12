@@ -8,7 +8,6 @@ title: Black Heart Doll (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Colosseum quests which reward **Black Heart Doll**](#colosseum-quests-which-reward-black-heart-doll)
-
 ## Basic information
 
 |   |   |

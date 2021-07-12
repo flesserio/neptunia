@@ -10,7 +10,6 @@ title: Demon Blade Rain (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Remake System plans which unlock **Demon Blade Rain** in shop](#remake-system-plans-which-unlock-demon-blade-rain-in-shop)
 - [Player characters who can equip **Demon Blade Rain**](#player-characters-who-can-equip-demon-blade-rain)
-
 ## Basic information
 
 |   |   |

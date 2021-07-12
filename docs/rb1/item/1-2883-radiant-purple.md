@@ -8,7 +8,6 @@ title: Radiant Purple (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Player characters who can equip **Radiant Purple**](#player-characters-who-can-equip-radiant-purple)
-
 ## Basic information
 
 |   |   |

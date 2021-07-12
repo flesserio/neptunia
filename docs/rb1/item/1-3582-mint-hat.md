@@ -9,7 +9,6 @@ title: Mint Hat (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Mint Hat** is found](#dungeons-mint-hat-is-found)
 - [Player characters who can equip **Mint Hat**](#player-characters-who-can-equip-mint-hat)
-
 ## Basic information
 
 |   |   |

@@ -9,7 +9,6 @@ title: Strategy (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Strategy** is found](#dungeons-strategy-is-found)
 - [Quests which reward **Strategy**](#quests-which-reward-strategy)
-
 ## Basic information
 
 |   |   |

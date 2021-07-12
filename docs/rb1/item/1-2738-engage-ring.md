@@ -10,7 +10,6 @@ title: Engage Ring (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Remake System plans which unlock **Engage Ring** in shop](#remake-system-plans-which-unlock-engage-ring-in-shop)
 - [Player characters who can equip **Engage Ring**](#player-characters-who-can-equip-engage-ring)
-
 ## Basic information
 
 |   |   |

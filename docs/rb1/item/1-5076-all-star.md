@@ -8,7 +8,6 @@ title: All-star (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Dungeons **All-star** is found](#dungeons-all-star-is-found)
-
 ## Basic information
 
 |   |   |

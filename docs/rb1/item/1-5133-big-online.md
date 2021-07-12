@@ -8,7 +8,6 @@ title: Big Online (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Dungeons **Big Online** is found](#dungeons-big-online-is-found)
-
 ## Basic information
 
 |   |   |

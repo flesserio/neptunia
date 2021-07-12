@@ -8,7 +8,6 @@ title: Baseball (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Dungeons **Baseball** is found](#dungeons-baseball-is-found)
-
 ## Basic information
 
 |   |   |

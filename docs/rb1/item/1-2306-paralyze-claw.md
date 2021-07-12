@@ -9,7 +9,6 @@ title: Paralyze Claw (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Paralyze Claw**](#player-characters-who-can-equip-paralyze-claw)
-
 ## Basic information
 
 |   |   |

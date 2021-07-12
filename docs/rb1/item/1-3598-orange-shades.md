@@ -9,7 +9,6 @@ title: Orange Shades (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Orange Shades** is found](#dungeons-orange-shades-is-found)
 - [Player characters who can equip **Orange Shades**](#player-characters-who-can-equip-orange-shades)
-
 ## Basic information
 
 |   |   |

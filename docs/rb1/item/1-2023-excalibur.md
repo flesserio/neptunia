@@ -10,7 +10,6 @@ title: Excalibur (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Remake System plans which unlock **Excalibur** in shop](#remake-system-plans-which-unlock-excalibur-in-shop)
 - [Player characters who can equip **Excalibur**](#player-characters-who-can-equip-excalibur)
-
 ## Basic information
 
 |   |   |

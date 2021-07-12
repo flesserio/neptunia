@@ -9,7 +9,6 @@ title: Blue Flower (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Blue Flower** in shop](#remake-system-plans-which-unlock-blue-flower-in-shop)
 - [Player characters who can equip **Blue Flower**](#player-characters-who-can-equip-blue-flower)
-
 ## Basic information
 
 |   |   |

@@ -10,7 +10,6 @@ title: Planeptune University (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Dungeons **Planeptune University** is found](#dungeons-planeptune-university-is-found)
 - [Player characters who can equip **Planeptune University**](#player-characters-who-can-equip-planeptune-university)
-
 ## Basic information
 
 |   |   |

@@ -9,7 +9,6 @@ title: Turtle Shell (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Turtle Shell** is found](#dungeons-turtle-shell-is-found)
 - [Remake System plans which require **Turtle Shell**](#remake-system-plans-which-require-turtle-shell)
-
 ## Basic information
 
 |   |   |

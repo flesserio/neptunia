@@ -10,7 +10,6 @@ title: Holy Duel Lance (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Colosseum quests which reward **Holy Duel Lance**](#colosseum-quests-which-reward-holy-duel-lance)
 - [Player characters who can equip **Holy Duel Lance**](#player-characters-who-can-equip-holy-duel-lance)
-
 ## Basic information
 
 |   |   |

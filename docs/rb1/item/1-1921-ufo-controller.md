@@ -9,7 +9,6 @@ title: UFO Controller (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **UFO Controller** is found](#dungeons-ufo-controller-is-found)
 - [Remake System plans which require **UFO Controller**](#remake-system-plans-which-require-ufo-controller)
-
 ## Basic information
 
 |   |   |

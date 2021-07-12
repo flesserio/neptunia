@@ -10,7 +10,6 @@ title: Goddess Bangle (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Remake System plans which unlock **Goddess Bangle** in shop](#remake-system-plans-which-unlock-goddess-bangle-in-shop)
 - [Player characters who can equip **Goddess Bangle**](#player-characters-who-can-equip-goddess-bangle)
-
 ## Basic information
 
 |   |   |

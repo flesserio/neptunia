@@ -10,7 +10,6 @@ title: Blazing Ore (Item) - Hyperdimension Neptunia Re;Birth1
 - [Dungeons **Blazing Ore** is found](#dungeons-blazing-ore-is-found)
 - [Quests which require gathering **Blazing Ore**](#quests-which-require-gathering-blazing-ore)
 - [Remake System plans which require **Blazing Ore**](#remake-system-plans-which-require-blazing-ore)
-
 ## Basic information
 
 |   |   |

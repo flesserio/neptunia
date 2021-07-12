@@ -9,7 +9,6 @@ title: Add Dungeon: Uwii Ruins (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Plans added to Remake System after collecting **Add Dungeon: Uwii Ruins**](#plans-added-to-remake-system-after-collecting-add-dungeon-uwii-ruins)
 - [Dungeons **Add Dungeon: Uwii Ruins** is found](#dungeons-add-dungeon-uwii-ruins-is-found)
-
 ## Basic information
 
 |   |   |

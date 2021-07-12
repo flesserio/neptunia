@@ -9,7 +9,6 @@ title: Ruffian Mask (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Ruffian Mask** is found](#dungeons-ruffian-mask-is-found)
 - [Remake System plans which require **Ruffian Mask**](#remake-system-plans-which-require-ruffian-mask)
-
 ## Basic information
 
 |   |   |

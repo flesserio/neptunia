@@ -10,7 +10,6 @@ title: Jet-Black Scale (Item) - Hyperdimension Neptunia Re;Birth1
 - [Dungeons **Jet-Black Scale** is found](#dungeons-jet-black-scale-is-found)
 - [Quests which require gathering **Jet-Black Scale**](#quests-which-require-gathering-jet-black-scale)
 - [Remake System plans which require **Jet-Black Scale**](#remake-system-plans-which-require-jet-black-scale)
-
 ## Basic information
 
 |   |   |

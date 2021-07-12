@@ -9,7 +9,6 @@ title: Plan: Panacea (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **Plan: Panacea**](#chirpers-who-give-plan-panacea)
 - [Plans added to Remake System after collecting **Plan: Panacea**](#plans-added-to-remake-system-after-collecting-plan-panacea)
-
 ## Basic information
 
 |   |   |

@@ -8,7 +8,6 @@ title: Shooter (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Dungeons **Shooter** is found](#dungeons-shooter-is-found)
-
 ## Basic information
 
 |   |   |

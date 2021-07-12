@@ -9,7 +9,6 @@ title: Violet Butterfly (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which require **Violet Butterfly**](#remake-system-plans-which-require-violet-butterfly)
 - [Player characters who can equip **Violet Butterfly**](#player-characters-who-can-equip-violet-butterfly)
-
 ## Basic information
 
 |   |   |

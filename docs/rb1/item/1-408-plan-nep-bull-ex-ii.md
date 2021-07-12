@@ -10,7 +10,6 @@ title: Plan: Nep Bull EX II (Item) - Hyperdimension Neptunia Re;Birth1
 - [Chirpers who give **Plan: Nep Bull EX II**](#chirpers-who-give-plan-nep-bull-ex-ii)
 - [Plans added to Remake System after collecting **Plan: Nep Bull EX II**](#plans-added-to-remake-system-after-collecting-plan-nep-bull-ex-ii)
 - [Dungeons **Plan: Nep Bull EX II** is found](#dungeons-plan-nep-bull-ex-ii-is-found)
-
 ## Basic information
 
 |   |   |

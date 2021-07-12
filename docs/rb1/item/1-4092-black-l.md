@@ -10,7 +10,6 @@ title: Black L (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Player characters who have **Black L** equipped by default](#player-characters-who-have-black-l-equipped-by-default)
 - [Player characters who can equip **Black L**](#player-characters-who-can-equip-black-l)
-
 ## Basic information
 
 |   |   |

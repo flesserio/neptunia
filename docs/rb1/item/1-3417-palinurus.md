@@ -9,7 +9,6 @@ title: Palinurus (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Palinurus** in shop](#remake-system-plans-which-unlock-palinurus-in-shop)
 - [Player characters who can equip **Palinurus**](#player-characters-who-can-equip-palinurus)
-
 ## Basic information
 
 |   |   |

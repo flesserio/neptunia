@@ -9,7 +9,6 @@ title: Add Enemies: Adjiten Forest Pass (Item) - Hyperdimension Neptunia Re;Birt
 - [Basic information](#basic-information)
 - [Chirpers who give **Add Enemies: Adjiten Forest Pass**](#chirpers-who-give-add-enemies-adjiten-forest-pass)
 - [Plans added to Remake System after collecting **Add Enemies: Adjiten Forest Pass**](#plans-added-to-remake-system-after-collecting-add-enemies-adjiten-forest-pass)
-
 ## Basic information
 
 |   |   |

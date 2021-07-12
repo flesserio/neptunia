@@ -9,7 +9,6 @@ title: Plan: Round Ring (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Plans added to Remake System after collecting **Plan: Round Ring**](#plans-added-to-remake-system-after-collecting-plan-round-ring)
 - [Dungeons **Plan: Round Ring** is found](#dungeons-plan-round-ring-is-found)
-
 ## Basic information
 
 |   |   |

@@ -9,7 +9,6 @@ title: Smile Heart Pin (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Smile Heart Pin**](#player-characters-who-can-equip-smile-heart-pin)
-
 ## Basic information
 
 |   |   |

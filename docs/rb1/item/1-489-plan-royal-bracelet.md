@@ -9,7 +9,6 @@ title: Plan: Royal Bracelet (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **Plan: Royal Bracelet**](#chirpers-who-give-plan-royal-bracelet)
 - [Plans added to Remake System after collecting **Plan: Royal Bracelet**](#plans-added-to-remake-system-after-collecting-plan-royal-bracelet)
-
 ## Basic information
 
 |   |   |

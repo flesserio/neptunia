@@ -8,7 +8,6 @@ title: Test Chip (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Quests which reward **Test Chip**](#quests-which-reward-test-chip)
-
 ## Basic information
 
 |   |   |

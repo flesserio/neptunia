@@ -9,7 +9,6 @@ title: Plan: CPU Crusher (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Plans added to Remake System after collecting **Plan: CPU Crusher**](#plans-added-to-remake-system-after-collecting-plan-cpu-crusher)
 - [Dungeons **Plan: CPU Crusher** is found](#dungeons-plan-cpu-crusher-is-found)
-
 ## Basic information
 
 |   |   |

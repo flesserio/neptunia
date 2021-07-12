@@ -9,7 +9,6 @@ title: Heilung Rose (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Heilung Rose** in shop](#remake-system-plans-which-unlock-heilung-rose-in-shop)
 - [Player characters who can equip **Heilung Rose**](#player-characters-who-can-equip-heilung-rose)
-
 ## Basic information
 
 |   |   |

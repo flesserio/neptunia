@@ -9,7 +9,6 @@ title: Plan: Royal Armlet (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **Plan: Royal Armlet**](#chirpers-who-give-plan-royal-armlet)
 - [Plans added to Remake System after collecting **Plan: Royal Armlet**](#plans-added-to-remake-system-after-collecting-plan-royal-armlet)
-
 ## Basic information
 
 |   |   |

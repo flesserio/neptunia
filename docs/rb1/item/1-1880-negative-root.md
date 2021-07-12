@@ -9,7 +9,6 @@ title: Negative Root (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Negative Root** is found](#dungeons-negative-root-is-found)
 - [Remake System plans which require **Negative Root**](#remake-system-plans-which-require-negative-root)
-
 ## Basic information
 
 |   |   |

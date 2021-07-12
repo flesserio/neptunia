@@ -9,7 +9,6 @@ title: Legendary Relic (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Legendary Relic** is found](#dungeons-legendary-relic-is-found)
 - [Remake System plans which require **Legendary Relic**](#remake-system-plans-which-require-legendary-relic)
-
 ## Basic information
 
 |   |   |

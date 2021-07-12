@@ -9,7 +9,6 @@ title: Alloy Plate (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Alloy Plate** is found](#dungeons-alloy-plate-is-found)
 - [Remake System plans which require **Alloy Plate**](#remake-system-plans-which-require-alloy-plate)
-
 ## Basic information
 
 |   |   |

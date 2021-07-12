@@ -9,7 +9,6 @@ title: Newkon Gloves (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Newkon Gloves**](#player-characters-who-can-equip-newkon-gloves)
-
 ## Basic information
 
 |   |   |

@@ -9,7 +9,6 @@ title: SP Buster (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **SP Buster**](#player-characters-who-can-equip-sp-buster)
-
 ## Basic information
 
 |   |   |

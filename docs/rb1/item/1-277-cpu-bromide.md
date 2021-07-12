@@ -8,7 +8,6 @@ title: CPU Bromide (Item) - Hyperdimension Neptunia Re;Birth1
 
 - [Basic information](#basic-information)
 - [Colosseum quests which reward **CPU Bromide**](#colosseum-quests-which-reward-cpu-bromide)
-
 ## Basic information
 
 |   |   |

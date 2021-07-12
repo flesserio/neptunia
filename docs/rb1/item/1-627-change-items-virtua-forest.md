@@ -9,7 +9,6 @@ title: Change Items: Virtua Forest (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Chirpers who give **Change Items: Virtua Forest**](#chirpers-who-give-change-items-virtua-forest)
 - [Plans added to Remake System after collecting **Change Items: Virtua Forest**](#plans-added-to-remake-system-after-collecting-change-items-virtua-forest)
-
 ## Basic information
 
 |   |   |

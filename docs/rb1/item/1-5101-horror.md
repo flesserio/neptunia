@@ -9,7 +9,6 @@ title: Horror (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Horror** is found](#dungeons-horror-is-found)
 - [Colosseum quests which reward **Horror**](#colosseum-quests-which-reward-horror)
-
 ## Basic information
 
 |   |   |

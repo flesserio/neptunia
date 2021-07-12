@@ -9,7 +9,6 @@ title: Credits Up (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Plans added to Remake System after collecting **Credits Up**](#plans-added-to-remake-system-after-collecting-credits-up)
 - [Dungeons **Credits Up** is found](#dungeons-credits-up-is-found)
-
 ## Basic information
 
 |   |   |

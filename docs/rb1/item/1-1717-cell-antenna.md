@@ -9,7 +9,6 @@ title: Cell Antenna (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Cell Antenna** is found](#dungeons-cell-antenna-is-found)
 - [Remake System plans which require **Cell Antenna**](#remake-system-plans-which-require-cell-antenna)
-
 ## Basic information
 
 |   |   |

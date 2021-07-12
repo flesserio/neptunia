@@ -9,7 +9,6 @@ title: Spinel Barrette (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Spinel Barrette** in shop](#remake-system-plans-which-unlock-spinel-barrette-in-shop)
 - [Player characters who can equip **Spinel Barrette**](#player-characters-who-can-equip-spinel-barrette)
-
 ## Basic information
 
 |   |   |

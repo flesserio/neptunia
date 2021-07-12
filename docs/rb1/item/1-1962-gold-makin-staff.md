@@ -9,7 +9,6 @@ title: Gold Makin' Staff (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Gold Makin' Staff** is found](#dungeons-gold-makin-staff-is-found)
 - [Remake System plans which require **Gold Makin' Staff**](#remake-system-plans-which-require-gold-makin-staff)
-
 ## Basic information
 
 |   |   |

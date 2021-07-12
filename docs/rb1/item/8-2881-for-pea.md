@@ -9,7 +9,6 @@ title: For Pea (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **For Pea**](#player-characters-who-can-equip-for-pea)
-
 ## Basic information
 
 |   |   |

@@ -9,7 +9,6 @@ title: Plan: Drive Hammer (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Plans added to Remake System after collecting **Plan: Drive Hammer**](#plans-added-to-remake-system-after-collecting-plan-drive-hammer)
 - [Dungeons **Plan: Drive Hammer** is found](#dungeons-plan-drive-hammer-is-found)
-
 ## Basic information
 
 |   |   |

@@ -10,7 +10,6 @@ title: Angel L (Item) - Hyperdimension Neptunia Re;Birth1
 - [Stats](#stats)
 - [Remake System plans which unlock **Angel L** in shop](#remake-system-plans-which-unlock-angel-l-in-shop)
 - [Player characters who can equip **Angel L**](#player-characters-who-can-equip-angel-l)
-
 ## Basic information
 
 |   |   |

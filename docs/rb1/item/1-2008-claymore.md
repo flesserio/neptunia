@@ -9,7 +9,6 @@ title: Claymore (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Stats](#stats)
 - [Player characters who can equip **Claymore**](#player-characters-who-can-equip-claymore)
-
 ## Basic information
 
 |   |   |

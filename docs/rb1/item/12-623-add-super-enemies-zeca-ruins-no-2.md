@@ -9,7 +9,6 @@ title: Add Super Enemies: Zeca Ruins No.2 (Item) - Hyperdimension Neptunia Re;Bi
 - [Basic information](#basic-information)
 - [Chirpers who give **Add Super Enemies: Zeca Ruins No.2**](#chirpers-who-give-add-super-enemies-zeca-ruins-no2)
 - [Plans added to Remake System after collecting **Add Super Enemies: Zeca Ruins No.2**](#plans-added-to-remake-system-after-collecting-add-super-enemies-zeca-ruins-no2)
-
 ## Basic information
 
 |   |   |

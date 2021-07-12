@@ -9,7 +9,6 @@ title: Carrot Glasses (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Remake System plans which unlock **Carrot Glasses** in shop](#remake-system-plans-which-unlock-carrot-glasses-in-shop)
 - [Player characters who can equip **Carrot Glasses**](#player-characters-who-can-equip-carrot-glasses)
-
 ## Basic information
 
 |   |   |

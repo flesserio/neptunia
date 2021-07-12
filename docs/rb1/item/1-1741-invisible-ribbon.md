@@ -9,7 +9,6 @@ title: Invisible Ribbon (Item) - Hyperdimension Neptunia Re;Birth1
 - [Basic information](#basic-information)
 - [Dungeons **Invisible Ribbon** is found](#dungeons-invisible-ribbon-is-found)
 - [Remake System plans which require **Invisible Ribbon**](#remake-system-plans-which-require-invisible-ribbon)
-
 ## Basic information
 
 |   |   |
