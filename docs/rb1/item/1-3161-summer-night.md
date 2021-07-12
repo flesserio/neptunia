@@ -1,5 +1,5 @@
 ---
-title: Summer Night (Item) - Hyperdimension Neptunia Re;Birth1
+title: "Summer Night (Item) - Hyperdimension Neptunia Re;Birth1"
 ---
 
 [**Item Index**](/neptunia/rb1/item/index.html) - [Hyperdimension Neptunia Re;Birth1](/neptunia/rb1)

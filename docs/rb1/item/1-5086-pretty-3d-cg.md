@@ -1,5 +1,5 @@
 ---
-title: Pretty 3D CG (Item) - Hyperdimension Neptunia Re;Birth1
+title: "Pretty 3D CG (Item) - Hyperdimension Neptunia Re;Birth1"
 ---
 
 [**Item Index**](/neptunia/rb1/item/index.html) - [Hyperdimension Neptunia Re;Birth1](/neptunia/rb1)

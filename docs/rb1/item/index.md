@@ -1,5 +1,5 @@
 ---
-title: Item Index - Hyperdimension Neptunia Re;Birth1
+title: "Item Index - Hyperdimension Neptunia Re;Birth1"
 ---
 
 [Hyperdimension Neptunia Re;Birth1](/neptunia/rb1)

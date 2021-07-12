@@ -1,5 +1,5 @@
 ---
-title: Armas Test Model 1.01 (Item) - Hyperdimension Neptunia Re;Birth1
+title: "Armas Test Model 1.01 (Item) - Hyperdimension Neptunia Re;Birth1"
 ---
 
 [**Item Index**](/neptunia/rb1/item/index.html) - [Hyperdimension Neptunia Re;Birth1](/neptunia/rb1)

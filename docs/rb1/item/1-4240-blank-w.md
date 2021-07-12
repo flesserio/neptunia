@@ -1,5 +1,5 @@
 ---
-title: <BLANK> W (Item) - Hyperdimension Neptunia Re;Birth1
+title: "&lt;BLANK&gt; W (Item) - Hyperdimension Neptunia Re;Birth1"
 ---
 
 [**Item Index**](/neptunia/rb1/item/index.html) - [Hyperdimension Neptunia Re;Birth1](/neptunia/rb1)

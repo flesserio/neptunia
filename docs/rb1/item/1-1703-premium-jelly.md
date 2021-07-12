@@ -1,5 +1,5 @@
 ---
-title: Premium Jelly (Item) - Hyperdimension Neptunia Re;Birth1
+title: "Premium Jelly (Item) - Hyperdimension Neptunia Re;Birth1"
 ---
 
 [**Item Index**](/neptunia/rb1/item/index.html) - [Hyperdimension Neptunia Re;Birth1](/neptunia/rb1)

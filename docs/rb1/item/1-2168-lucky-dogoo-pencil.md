@@ -1,5 +1,5 @@
 ---
-title: Lucky Dogoo Pencil (Item) - Hyperdimension Neptunia Re;Birth1
+title: "Lucky Dogoo Pencil (Item) - Hyperdimension Neptunia Re;Birth1"
 ---
 
 [**Item Index**](/neptunia/rb1/item/index.html) - [Hyperdimension Neptunia Re;Birth1](/neptunia/rb1)

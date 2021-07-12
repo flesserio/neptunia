@@ -1,5 +1,5 @@
 ---
-title: Symbol Attack On (Item) - Hyperdimension Neptunia Re;Birth1
+title: "Symbol Attack On (Item) - Hyperdimension Neptunia Re;Birth1"
 ---
 
 [**Item Index**](/neptunia/rb1/item/index.html) - [Hyperdimension Neptunia Re;Birth1](/neptunia/rb1)

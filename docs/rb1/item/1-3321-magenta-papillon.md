@@ -1,5 +1,5 @@
 ---
-title: Magenta Papillon (Item) - Hyperdimension Neptunia Re;Birth1
+title: "Magenta Papillon (Item) - Hyperdimension Neptunia Re;Birth1"
 ---
 
 [**Item Index**](/neptunia/rb1/item/index.html) - [Hyperdimension Neptunia Re;Birth1](/neptunia/rb1)

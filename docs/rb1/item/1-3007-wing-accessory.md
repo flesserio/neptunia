@@ -1,5 +1,5 @@
 ---
-title: Wing Accessory (Item) - Hyperdimension Neptunia Re;Birth1
+title: "Wing Accessory (Item) - Hyperdimension Neptunia Re;Birth1"
 ---
 
 [**Item Index**](/neptunia/rb1/item/index.html) - [Hyperdimension Neptunia Re;Birth1](/neptunia/rb1)
