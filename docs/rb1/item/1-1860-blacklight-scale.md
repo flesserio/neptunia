@@ -24,15 +24,13 @@ title: "Blacklight Scale (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 333 |
 | **Max inventory** | 99 |
 
-
 ## Monsters which drop **Blacklight Scale**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-1-239" class="trackbox" /> | 239 | [Base](/neptunia/rb1/dlc/1-base.html) | [Viral Lizard Knight](/neptunia/rb1/monster/1-239-viral-lizard-knight.html) |
-| <input type="checkbox" id="rb1-monster-1-340" class="trackbox" /> | 340 | [Base](/neptunia/rb1/dlc/1-base.html) | [High Lizard](/neptunia/rb1/monster/1-340-high-lizard.html) |
-| <input type="checkbox" id="rb1-monster-1-341" class="trackbox" /> | 341 | [Base](/neptunia/rb1/dlc/1-base.html) | [Viral High Lizard](/neptunia/rb1/monster/1-341-viral-high-lizard.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-1-239" class="trackbox" /> | 239 | [Base](/neptunia/rb1/dlc/1-base.html) | [Viral Lizard Knight](/neptunia/rb1/monster/1-239-viral-lizard-knight.html) | 80% |
+| <input type="checkbox" id="rb1-monster-1-340" class="trackbox" /> | 340 | [Base](/neptunia/rb1/dlc/1-base.html) | [High Lizard](/neptunia/rb1/monster/1-340-high-lizard.html) | 40% |
+| <input type="checkbox" id="rb1-monster-1-341" class="trackbox" /> | 341 | [Base](/neptunia/rb1/dlc/1-base.html) | [Viral High Lizard](/neptunia/rb1/monster/1-341-viral-high-lizard.html) | 80% |
 
 ## Dungeons **Blacklight Scale** is found
 
@@ -41,9 +39,8 @@ title: "Blacklight Scale (Item) - Hyperdimension Neptunia Re;Birth1"
 | <input type="checkbox" id="rb1-dungeon-1-116" class="trackbox" /> | 116 | [Base](/neptunia/rb1/dlc/1-base.html) | [Yukawa Ruins](/neptunia/rb1/dungeon/1-116-yukawa-ruins.html) | Gathering point |
 | <input type="checkbox" id="rb1-dungeon-1-116" class="trackbox" /> | 116 | [Base](/neptunia/rb1/dlc/1-base.html) | [Yukawa Ruins](/neptunia/rb1/dungeon/1-116-yukawa-ruins.html) | Monster drop |
 
-
 ## Remake System plans which require **Blacklight Scale**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-368" class="trackbox" /> | 368 | [Base](/neptunia/rb1/dlc/1-base.html) | [Elysdeon](/neptunia/rb1/quest/1-368-elysdeon.html) |
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-368" class="trackbox" /> | 368 | [Base](/neptunia/rb1/dlc/1-base.html) | [Elysdeon](/neptunia/rb1/remake/1-368-elysdeon.html)<br />→ [Elysdeon](/neptunia/rb1/item/1-2068-elysdeon.html) (Short Sword (Noire)) | 2 |

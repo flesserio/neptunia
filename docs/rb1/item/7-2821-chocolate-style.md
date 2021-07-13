@@ -23,13 +23,11 @@ title: "Chocolate Style (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 750000 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Chocolate Style** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-7-436" class="trackbox" /> | 436 | [[Plutia] Battle Entry License](/neptunia/rb1/dlc/7-plutia.html) | [Chocolate Style](/neptunia/rb1/remake/7-436-chocolate-style.html)<br /> → [Chocolate Style](/neptunia/rb1/item/7-2821-chocolate-style.html) (Clothing) |
-
+| <input type="checkbox" id="rb1-remake-7-436" class="trackbox" /> | 436 | [[Plutia] Battle Entry License](/neptunia/rb1/dlc/7-plutia.html) | [Chocolate Style](/neptunia/rb1/remake/7-436-chocolate-style.html)<br />→ [Chocolate Style](/neptunia/rb1/item/7-2821-chocolate-style.html) (Clothing) |
 
 ## Player characters who can equip **Chocolate Style**
 

@@ -24,20 +24,17 @@ title: "Shiitake Bracelet (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 0 |
 | **Max inventory** | 99 |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 0 | 1365 | 170 | 1365 | 0 | 170 | 0 | 0 | 0 | 0 | 0 |
 
-
 ## Colosseum quests which reward **Shiitake Bracelet**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
 | <input type="checkbox" id="rb1-colosseum-1-2008" class="trackbox" /> | 2008 | [Base](/neptunia/rb1/dlc/1-base.html) | [Game Heaven](/neptunia/rb1/colosseum/1-2008-game-heaven.html) |
-
 
 ## Player characters who can equip **Shiitake Bracelet**
 

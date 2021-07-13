@@ -23,13 +23,11 @@ title: "Mirror Rice Cakes (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 2500 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Mirror Rice Cakes** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-477" class="trackbox" /> | 477 | [Base](/neptunia/rb1/dlc/1-base.html) | [Mirror Rice Cakes](/neptunia/rb1/remake/1-477-mirror-rice-cakes.html)<br /> → [Mirror Rice Cakes](/neptunia/rb1/item/1-3014-mirror-rice-cakes.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-477" class="trackbox" /> | 477 | [Base](/neptunia/rb1/dlc/1-base.html) | [Mirror Rice Cakes](/neptunia/rb1/remake/1-477-mirror-rice-cakes.html)<br />→ [Mirror Rice Cakes](/neptunia/rb1/item/1-3014-mirror-rice-cakes.html) (Accessory) |
 
 ## Player characters who can equip **Mirror Rice Cakes**
 

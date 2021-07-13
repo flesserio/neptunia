@@ -24,27 +24,24 @@ title: "Green Castella (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 15 |
 | **Max inventory** | 99 |
 
-
 ## Monsters which drop **Green Castella**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-1-6086" class="trackbox" /> | 6086 | [Base](/neptunia/rb1/dlc/1-base.html) | [XDog](/neptunia/rb1/monster/1-6086-xdog.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-1-6086" class="trackbox" /> | 6086 | [Base](/neptunia/rb1/dlc/1-base.html) | [XDog](/neptunia/rb1/monster/1-6086-xdog.html) | 40% |
 
 ## Dungeons **Green Castella** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
 | <input type="checkbox" id="rb1-dungeon-1-8" class="trackbox" /> | 8 | [Base](/neptunia/rb1/dlc/1-base.html) | [MS Mountain](/neptunia/rb1/dungeon/1-8-ms-mountain.html) | Gathering point |
-| <input type="checkbox" id="rb1-dungeon-1-26" class="trackbox" /> | 26 | [Base](/neptunia/rb1/dlc/1-base.html) | [MS Mountain Peak](/neptunia/rb1/dungeon/1-26-ms-mountain-peak.html) | Gathering point |
 | <input type="checkbox" id="rb1-dungeon-1-8" class="trackbox" /> | 8 | [Base](/neptunia/rb1/dlc/1-base.html) | [MS Mountain](/neptunia/rb1/dungeon/1-8-ms-mountain.html) | Monster drop |
+| <input type="checkbox" id="rb1-dungeon-1-26" class="trackbox" /> | 26 | [Base](/neptunia/rb1/dlc/1-base.html) | [MS Mountain Peak](/neptunia/rb1/dungeon/1-26-ms-mountain-peak.html) | Gathering point |
 | <input type="checkbox" id="rb1-dungeon-1-26" class="trackbox" /> | 26 | [Base](/neptunia/rb1/dlc/1-base.html) | [MS Mountain Peak](/neptunia/rb1/dungeon/1-26-ms-mountain-peak.html) | Monster drop |
-
 
 ## Remake System plans which require **Green Castella**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-360" class="trackbox" /> | 360 | [Base](/neptunia/rb1/dlc/1-base.html) | [Medical Drug](/neptunia/rb1/quest/1-360-medical-drug.html) |
-| <input type="checkbox" id="rb1-quest-1-402" class="trackbox" /> | 402 | [Base](/neptunia/rb1/dlc/1-base.html) | [Primrose](/neptunia/rb1/quest/1-402-primrose.html) |
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-360" class="trackbox" /> | 360 | [Base](/neptunia/rb1/dlc/1-base.html) | [Medical Drug](/neptunia/rb1/remake/1-360-medical-drug.html)<br />→ [Medical Drug](/neptunia/rb1/item/1-2333-medical-drug.html) (Syringe (Compa)) | 3 |
+| <input type="checkbox" id="rb1-remake-1-402" class="trackbox" /> | 402 | [Base](/neptunia/rb1/dlc/1-base.html) | [Primrose](/neptunia/rb1/remake/1-402-primrose.html)<br />→ [Primrose](/neptunia/rb1/item/1-2728-primrose.html) (Ornament) | 2 |

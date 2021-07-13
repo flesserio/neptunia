@@ -24,15 +24,13 @@ title: "Fox Ears (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **To unlock in shop** | Method 1<br />- Have Uni unlocked. |
 
-
 ## Remake System plans which require **Fox Ears**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-746" class="trackbox" /> | 746 | [Base](/neptunia/rb1/dlc/1-base.html) | [Black Fox](/neptunia/rb1/quest/1-746-black-fox.html) |
-| <input type="checkbox" id="rb1-quest-1-747" class="trackbox" /> | 747 | [Base](/neptunia/rb1/dlc/1-base.html) | [White Fox](/neptunia/rb1/quest/1-747-white-fox.html) |
-| <input type="checkbox" id="rb1-quest-1-748" class="trackbox" /> | 748 | [Base](/neptunia/rb1/dlc/1-base.html) | [Yellow Fox](/neptunia/rb1/quest/1-748-yellow-fox.html) |
-
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-746" class="trackbox" /> | 746 | [Base](/neptunia/rb1/dlc/1-base.html) | [Black Fox](/neptunia/rb1/remake/1-746-black-fox.html)<br />→ [Black Fox](/neptunia/rb1/item/1-3411-black-fox.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-1-747" class="trackbox" /> | 747 | [Base](/neptunia/rb1/dlc/1-base.html) | [White Fox](/neptunia/rb1/remake/1-747-white-fox.html)<br />→ [White Fox](/neptunia/rb1/item/1-3412-white-fox.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-1-748" class="trackbox" /> | 748 | [Base](/neptunia/rb1/dlc/1-base.html) | [Yellow Fox](/neptunia/rb1/remake/1-748-yellow-fox.html)<br />→ [Yellow Fox](/neptunia/rb1/item/1-3413-yellow-fox.html) (Accessory) | 1 |
 
 ## Player characters who can equip **Fox Ears**
 

@@ -23,13 +23,11 @@ title: "Black Crown (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 1500 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Black Crown** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-676" class="trackbox" /> | 676 | [Base](/neptunia/rb1/dlc/1-base.html) | [Black Crown](/neptunia/rb1/remake/1-676-black-crown.html)<br /> → [Black Crown](/neptunia/rb1/item/1-3308-black-crown.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-676" class="trackbox" /> | 676 | [Base](/neptunia/rb1/dlc/1-base.html) | [Black Crown](/neptunia/rb1/remake/1-676-black-crown.html)<br />→ [Black Crown](/neptunia/rb1/item/1-3308-black-crown.html) (Accessory) |
 
 ## Player characters who can equip **Black Crown**
 

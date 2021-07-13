@@ -23,16 +23,14 @@ title: "Add Colosseum Fight (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 0 |
 | **Max inventory** | 1 |
 
-
 ## Chirpers who give **Add Colosseum Fight**
 
 |    | ID | DLC | Avatar | Message | Conditions |
 | -- | -- | --- | ------ | ------- | ---------- |
-| <input type="checkbox" id="rb1-chirper-event-1-102" class="trackbox" /> | 102 | [Base](/neptunia/rb1/dlc/1-base.html) | [Uni](/neptunia/rb1/undefined/1-33-uni.html) | What's this?<br />It seems like you need my help. | Have remake [Colosseum Unlock](/neptunia/rb1/remake/1-18-colosseum-unlock.html) developed<br />Have Uni unlocked.<br />Do not view scene [Chapter 8: The True Arfoire](/neptunia/rb1/scene/1-807-chapter-8-the-true-arfoire.html) |
-
+| <input type="checkbox" id="rb1-chirper-event-1-102" class="trackbox" /> | 102 | [Base](/neptunia/rb1/dlc/1-base.html) | [Uni](/neptunia/rb1/avatar/1-33-uni.html) | What's this?<br />It seems like you need my help. | Have remake [Colosseum Unlock](/neptunia/rb1/remake/1-18-colosseum-unlock.html) developed<br />Have Uni unlocked.<br />Do not view scene [Chapter 8: The True Arfoire](/neptunia/rb1/scene/1-807-chapter-8-the-true-arfoire.html) |
 
 ## Plans added to Remake System after collecting **Add Colosseum Fight**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-24" class="trackbox" /> | 24 | [Base](/neptunia/rb1/dlc/1-base.html) | [Add Colosseum Fight](/neptunia/rb1/remake/1-24-add-colosseum-fight.html)<br /> → [New Beat](/neptunia/rb1/quest/1-2030-new-beat.html) (Colosseum) |
+| <input type="checkbox" id="rb1-remake-1-24" class="trackbox" /> | 24 | [Base](/neptunia/rb1/dlc/1-base.html) | [Add Colosseum Fight](/neptunia/rb1/remake/1-24-add-colosseum-fight.html)<br />→ [New Beat](/neptunia/rb1/colosseum/1-2030-new-beat.html) (Colosseum) |

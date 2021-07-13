@@ -24,20 +24,17 @@ title: "Misanga of Joy (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 2000 |
 | **Max inventory** | 99 |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 100 | 0 | 0 | 0 | 0 |
 
-
 ## Remake System plans which unlock **Misanga of Joy** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-400" class="trackbox" /> | 400 | [Base](/neptunia/rb1/dlc/1-base.html) | [Misanga of Joy](/neptunia/rb1/remake/1-400-misanga-of-joy.html)<br /> → [Misanga of Joy](/neptunia/rb1/item/1-2726-misanga-of-joy.html) (Ornament) |
-
+| <input type="checkbox" id="rb1-remake-1-400" class="trackbox" /> | 400 | [Base](/neptunia/rb1/dlc/1-base.html) | [Misanga of Joy](/neptunia/rb1/remake/1-400-misanga-of-joy.html)<br />→ [Misanga of Joy](/neptunia/rb1/item/1-2726-misanga-of-joy.html) (Ornament) |
 
 ## Player characters who can equip **Misanga of Joy**
 

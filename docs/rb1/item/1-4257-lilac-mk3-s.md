@@ -24,13 +24,11 @@ title: "Lilac-Mk3 S (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **To unlock in shop** | Method 1<br />- Have save in first playthrough<br />- Have Nepgear unlocked. |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | -20 | 105 | 35 | 0 | 55 | -20 | 0 | 0 | 0 | 0 | 0 |
-
 
 ## Player characters who can equip **Lilac-Mk3 S**
 

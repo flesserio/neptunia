@@ -23,16 +23,14 @@ title: "Fuzzy Swimsuit (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 0 |
 | **Max inventory** | 1 |
 
-
 ## Chirpers who give **Fuzzy Swimsuit**
 
 |    | ID | DLC | Avatar | Message | Conditions |
 | -- | -- | --- | ------ | ------- | ---------- |
-| <input type="checkbox" id="rb1-chirper-event-1-5043" class="trackbox" /> | 5043 | [Base](/neptunia/rb1/dlc/1-base.html) | [Erohei](/neptunia/rb1/undefined/1-222-erohei.html) | Do you want a Plan for a costume?<br />Now, how did you make screenshots? | View scene [Chapter 7: Legendary Get Together](/neptunia/rb1/scene/1-726-chapter-7-legendary-get-together.html)<br />Do not view scene [Chapter 8: The True Arfoire](/neptunia/rb1/scene/1-807-chapter-8-the-true-arfoire.html) |
-
+| <input type="checkbox" id="rb1-chirper-event-1-5043" class="trackbox" /> | 5043 | [Base](/neptunia/rb1/dlc/1-base.html) | [Erohei](/neptunia/rb1/avatar/1-222-erohei.html) | Do you want a Plan for a costume?<br />Now, how did you make screenshots? | View scene [Chapter 7: Legendary Get Together](/neptunia/rb1/scene/1-726-chapter-7-legendary-get-together.html)<br />Do not view scene [Chapter 8: The True Arfoire](/neptunia/rb1/scene/1-807-chapter-8-the-true-arfoire.html) |
 
 ## Plans added to Remake System after collecting **Fuzzy Swimsuit**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-454" class="trackbox" /> | 454 | [Base](/neptunia/rb1/dlc/1-base.html) | [Fuzzy Swimsuit](/neptunia/rb1/remake/1-454-fuzzy-swimsuit.html)<br /> → [Fuzzy Swimsuit](/neptunia/rb1/item/1-2932-fuzzy-swimsuit.html) (Clothing) |
+| <input type="checkbox" id="rb1-remake-1-454" class="trackbox" /> | 454 | [Base](/neptunia/rb1/dlc/1-base.html) | [Fuzzy Swimsuit](/neptunia/rb1/remake/1-454-fuzzy-swimsuit.html)<br />→ [Fuzzy Swimsuit](/neptunia/rb1/item/1-2932-fuzzy-swimsuit.html) (Clothing) |

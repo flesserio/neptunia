@@ -23,13 +23,11 @@ title: "Blue Devil (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 100000 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Blue Devil** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-8-723" class="trackbox" /> | 723 | [[Peashy] Battle Entry License](/neptunia/rb1/dlc/8-peashy.html) | [Blue Devil](/neptunia/rb1/remake/8-723-blue-devil.html)<br /> → [Blue Devil](/neptunia/rb1/item/8-3376-blue-devil.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-8-723" class="trackbox" /> | 723 | [[Peashy] Battle Entry License](/neptunia/rb1/dlc/8-peashy.html) | [Blue Devil](/neptunia/rb1/remake/8-723-blue-devil.html)<br />→ [Blue Devil](/neptunia/rb1/item/8-3376-blue-devil.html) (Accessory) |
 
 ## Player characters who can equip **Blue Devil**
 

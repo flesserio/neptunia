@@ -24,13 +24,11 @@ title: "Summer Night (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **To unlock in shop** | Method 1<br />- View scene [Chapter 4: Where's Lowee's Key Fragment?](/neptunia/rb1/scene/1-410-chapter-4-wheres-lowees-key-fragment.html) |
 
-
 ## Remake System plans which require **Summer Night**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-431" class="trackbox" /> | 431 | [Base](/neptunia/rb1/dlc/1-base.html) | [Summer Maiden](/neptunia/rb1/quest/1-431-summer-maiden.html) |
-
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-431" class="trackbox" /> | 431 | [Base](/neptunia/rb1/dlc/1-base.html) | [Summer Maiden](/neptunia/rb1/remake/1-431-summer-maiden.html)<br />→ [Summer Maiden](/neptunia/rb1/item/1-2846-summer-maiden.html) (Clothing) | 1 |
 
 ## Player characters who can equip **Summer Night**
 

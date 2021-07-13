@@ -25,20 +25,17 @@ title: "Night Striker (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **Weapon skill** | [Fencer](/neptunia/rb1/skill/1-403-fencer.html) |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 698 | 0 | 698 | 0 | 49 | 0 | 0 | 0 | 0 | 0 | 0 |
 
-
 ## Dungeons **Night Striker** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
-| <input type="checkbox" id="rb1-dungeon-1-21" class="trackbox" /> | 21 | [Base](/neptunia/rb1/dlc/1-base.html) | [Factory No.459 Depths](/neptunia/rb1/dungeon/1-21-factory-no-459-depths.html) | Gathering point |
-
+| <input type="checkbox" id="rb1-dungeon-1-21" class="trackbox" /> | 21 | [Base](/neptunia/rb1/dlc/1-base.html) | [Factory No.459 Depths](/neptunia/rb1/dungeon/1-21-factory-no-459-depths.html) | Treasure |
 
 ## Player characters who can equip **Night Striker**
 

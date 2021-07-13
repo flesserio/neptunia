@@ -25,20 +25,17 @@ title: "Teratoxin (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **Weapon skill** | [Syringe, Desu!](/neptunia/rb1/skill/1-2002-syringe-desu.html) |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 1000 | 0 | 500 | 550 | 0 | 972 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 
-
 ## Remake System plans which unlock **Teratoxin** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-361" class="trackbox" /> | 361 | [Base](/neptunia/rb1/dlc/1-base.html) | [Teratoxin](/neptunia/rb1/remake/1-361-teratoxin.html)<br /> → [Teratoxin](/neptunia/rb1/item/1-2337-teratoxin.html) (Syringe (Compa)) |
-
+| <input type="checkbox" id="rb1-remake-1-361" class="trackbox" /> | 361 | [Base](/neptunia/rb1/dlc/1-base.html) | [Teratoxin](/neptunia/rb1/remake/1-361-teratoxin.html)<br />→ [Teratoxin](/neptunia/rb1/item/1-2337-teratoxin.html) (Syringe (Compa)) |
 
 ## Player characters who can equip **Teratoxin**
 

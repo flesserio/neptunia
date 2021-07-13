@@ -25,13 +25,11 @@ title: "Slash Sword (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Weapon skill** | [Slash](/neptunia/rb1/skill/1-2402-slash.html) |
 | **To unlock in shop** | Method 1<br />- View scene [Chapter 8: 2nd Console War?](/neptunia/rb1/scene/1-802-chapter-8-2nd-console-war.html) |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 843 | 0 | 707 | 0 | 74 | 0 | 0 | 0 | 0 | 0 | 0 |
-
 
 ## Player characters who can equip **Slash Sword**
 

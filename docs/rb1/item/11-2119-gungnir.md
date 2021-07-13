@@ -25,20 +25,17 @@ title: "Gungnir (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **Weapon skill** | [Attack](/neptunia/rb1/skill/1-801-attack.html) |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 3000 | 400 | 3300 | 0 | 400 | 0 | 0 | 0 | 0 | 0 | 0 |
 
-
 ## Remake System plans which unlock **Gungnir** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-11-379" class="trackbox" /> | 379 | [Additional Content Package 2](/neptunia/rb1/dlc/11-pack2.html) | [Gungnir](/neptunia/rb1/remake/11-379-gungnir.html)<br /> → [Gungnir](/neptunia/rb1/item/11-2119-gungnir.html) (Spear (Vert)) |
-
+| <input type="checkbox" id="rb1-remake-11-379" class="trackbox" /> | 379 | [Additional Content Package 2](/neptunia/rb1/dlc/11-pack2.html) | [Gungnir](/neptunia/rb1/remake/11-379-gungnir.html)<br />→ [Gungnir](/neptunia/rb1/item/11-2119-gungnir.html) (Spear (Vert)) |
 
 ## Player characters who can equip **Gungnir**
 

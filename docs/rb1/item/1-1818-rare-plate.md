@@ -24,13 +24,11 @@ title: "Rare Plate (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 1844 |
 | **Max inventory** | 99 |
 
-
 ## Monsters which drop **Rare Plate**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-1-218" class="trackbox" /> | 218 | [Base](/neptunia/rb1/dlc/1-base.html) | [Zeta Herobo](/neptunia/rb1/monster/1-218-zeta-herobo.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-1-218" class="trackbox" /> | 218 | [Base](/neptunia/rb1/dlc/1-base.html) | [Zeta Herobo](/neptunia/rb1/monster/1-218-zeta-herobo.html) | 70% |
 
 ## Dungeons **Rare Plate** is found
 
@@ -39,9 +37,8 @@ title: "Rare Plate (Item) - Hyperdimension Neptunia Re;Birth1"
 | <input type="checkbox" id="rb1-dungeon-1-20" class="trackbox" /> | 20 | [Base](/neptunia/rb1/dlc/1-base.html) | [Factory No.459](/neptunia/rb1/dungeon/1-20-factory-no-459.html) | Monster drop |
 | <input type="checkbox" id="rb1-dungeon-1-21" class="trackbox" /> | 21 | [Base](/neptunia/rb1/dlc/1-base.html) | [Factory No.459 Depths](/neptunia/rb1/dungeon/1-21-factory-no-459-depths.html) | Monster drop |
 
-
 ## Remake System plans which require **Rare Plate**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-11-393" class="trackbox" /> | 393 | [Additional Content Package 2](/neptunia/rb1/dlc/11-pack2.html) | [Round Ring](/neptunia/rb1/quest/11-393-round-ring.html) |
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-11-393" class="trackbox" /> | 393 | [Additional Content Package 2](/neptunia/rb1/dlc/11-pack2.html) | [Round Ring](/neptunia/rb1/remake/11-393-round-ring.html)<br />→ [Round Ring](/neptunia/rb1/item/11-2562-round-ring.html) (Armor) | 1 |

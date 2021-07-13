@@ -25,13 +25,11 @@ title: "Metal Blade (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Weapon skill** | [Slash](/neptunia/rb1/skill/14-3402-slash.html) |
 | **To unlock in shop** | Method 1<br />- View scene [Chapter 2: Histoire And Arfoire](/neptunia/rb1/scene/1-201-chapter-2-histoire-and-arfoire.html)<br />-  |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 826 | 0 | 728 | 0 | 152 | 0 | 0 | 0 | 0 | 0 | 0 |
-
 
 ## Player characters who can equip **Metal Blade**
 

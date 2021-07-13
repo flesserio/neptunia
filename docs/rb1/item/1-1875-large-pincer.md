@@ -24,28 +24,25 @@ title: "Large Pincer (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 418 |
 | **Max inventory** | 99 |
 
-
 ## Monsters which drop **Large Pincer**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-1-181" class="trackbox" /> | 181 | [Base](/neptunia/rb1/dlc/1-base.html) | [King Crab](/neptunia/rb1/monster/1-181-king-crab.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-1-181" class="trackbox" /> | 181 | [Base](/neptunia/rb1/dlc/1-base.html) | [King Crab](/neptunia/rb1/monster/1-181-king-crab.html) | 55% |
 
 ## Dungeons **Large Pincer** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
 | <input type="checkbox" id="rb1-dungeon-1-14" class="trackbox" /> | 14 | [Base](/neptunia/rb1/dlc/1-base.html) | [Hyrarule Snowfield](/neptunia/rb1/dungeon/1-14-hyrarule-snowfield.html) | Gathering point |
-| <input type="checkbox" id="rb1-dungeon-1-15" class="trackbox" /> | 15 | [Base](/neptunia/rb1/dlc/1-base.html) | [Stella Plains](/neptunia/rb1/dungeon/1-15-stella-plains.html) | Gathering point |
 | <input type="checkbox" id="rb1-dungeon-1-14" class="trackbox" /> | 14 | [Base](/neptunia/rb1/dlc/1-base.html) | [Hyrarule Snowfield](/neptunia/rb1/dungeon/1-14-hyrarule-snowfield.html) | Monster drop |
+| <input type="checkbox" id="rb1-dungeon-1-15" class="trackbox" /> | 15 | [Base](/neptunia/rb1/dlc/1-base.html) | [Stella Plains](/neptunia/rb1/dungeon/1-15-stella-plains.html) | Gathering point |
 | <input type="checkbox" id="rb1-dungeon-1-15" class="trackbox" /> | 15 | [Base](/neptunia/rb1/dlc/1-base.html) | [Stella Plains](/neptunia/rb1/dungeon/1-15-stella-plains.html) | Monster drop |
-
 
 ## Remake System plans which require **Large Pincer**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-239" class="trackbox" /> | 239 | [Base](/neptunia/rb1/dlc/1-base.html) | [Add Enemies](/neptunia/rb1/quest/1-239-add-enemies.html) |
-| <input type="checkbox" id="rb1-quest-1-324" class="trackbox" /> | 324 | [Base](/neptunia/rb1/dlc/1-base.html) | [Healing Rain](/neptunia/rb1/quest/1-324-healing-rain.html) |
-| <input type="checkbox" id="rb1-quest-1-410" class="trackbox" /> | 410 | [Base](/neptunia/rb1/dlc/1-base.html) | [Blessing Misanga](/neptunia/rb1/quest/1-410-blessing-misanga.html) |
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-239" class="trackbox" /> | 239 | [Base](/neptunia/rb1/dlc/1-base.html) | [Add Enemies](/neptunia/rb1/remake/1-239-add-enemies.html)<br />→ [Soulsac Cave](/neptunia/rb1/dungeon/1-16-soulsac-cave.html) (Dungeon) | 1 |
+| <input type="checkbox" id="rb1-remake-1-324" class="trackbox" /> | 324 | [Base](/neptunia/rb1/dlc/1-base.html) | [Healing Rain](/neptunia/rb1/remake/1-324-healing-rain.html)<br />→ [Healing Rain](/neptunia/rb1/item/1-11-healing-rain.html) (Tool) | 3 |
+| <input type="checkbox" id="rb1-remake-1-410" class="trackbox" /> | 410 | [Base](/neptunia/rb1/dlc/1-base.html) | [Blessing Misanga](/neptunia/rb1/remake/1-410-blessing-misanga.html)<br />→ [Blessing Misanga](/neptunia/rb1/item/1-2736-blessing-misanga.html) (Ornament) | 3 |

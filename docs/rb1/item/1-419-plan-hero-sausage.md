@@ -23,16 +23,14 @@ title: "Plan: Hero Sausage (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 0 |
 | **Max inventory** | 1 |
 
-
 ## Plans added to Remake System after collecting **Plan: Hero Sausage**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-331" class="trackbox" /> | 331 | [Base](/neptunia/rb1/dlc/1-base.html) | [Hero Sausage](/neptunia/rb1/remake/1-331-hero-sausage.html)<br /> → [Hero Sausage](/neptunia/rb1/item/1-19-hero-sausage.html) (Tool) |
-
+| <input type="checkbox" id="rb1-remake-1-331" class="trackbox" /> | 331 | [Base](/neptunia/rb1/dlc/1-base.html) | [Hero Sausage](/neptunia/rb1/remake/1-331-hero-sausage.html)<br />→ [Hero Sausage](/neptunia/rb1/item/1-19-hero-sausage.html) (Tool) |
 
 ## Dungeons **Plan: Hero Sausage** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
-| <input type="checkbox" id="rb1-dungeon-1-114" class="trackbox" /> | 114 | [Base](/neptunia/rb1/dlc/1-base.html) | [Kinest Range](/neptunia/rb1/dungeon/1-114-kinest-range.html) | Gathering point |
+| <input type="checkbox" id="rb1-dungeon-1-114" class="trackbox" /> | 114 | [Base](/neptunia/rb1/dlc/1-base.html) | [Kinest Range](/neptunia/rb1/dungeon/1-114-kinest-range.html) | Treasure |

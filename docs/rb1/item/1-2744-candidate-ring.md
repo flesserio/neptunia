@@ -24,20 +24,17 @@ title: "Candidate Ring (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 62500 |
 | **Max inventory** | 99 |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 1000 | 0 | 0 | 200 | 200 | 0 | 200 | 200 | 0 | 50 | 50 | 0 |
 
-
 ## Remake System plans which unlock **Candidate Ring** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-416" class="trackbox" /> | 416 | [Base](/neptunia/rb1/dlc/1-base.html) | [Candidate Ring](/neptunia/rb1/remake/1-416-candidate-ring.html)<br /> → [Candidate Ring](/neptunia/rb1/item/1-2744-candidate-ring.html) (Ornament) |
-
+| <input type="checkbox" id="rb1-remake-1-416" class="trackbox" /> | 416 | [Base](/neptunia/rb1/dlc/1-base.html) | [Candidate Ring](/neptunia/rb1/remake/1-416-candidate-ring.html)<br />→ [Candidate Ring](/neptunia/rb1/item/1-2744-candidate-ring.html) (Ornament) |
 
 ## Player characters who can equip **Candidate Ring**
 

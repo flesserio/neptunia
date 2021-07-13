@@ -23,16 +23,14 @@ title: "Plan: Silver Armlet (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 0 |
 | **Max inventory** | 1 |
 
-
 ## Plans added to Remake System after collecting **Plan: Silver Armlet**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-388" class="trackbox" /> | 388 | [Base](/neptunia/rb1/dlc/1-base.html) | [Silver Armlet](/neptunia/rb1/remake/1-388-silver-armlet.html)<br /> → [Silver Armlet](/neptunia/rb1/item/1-2523-silver-armlet.html) (Armor) |
-
+| <input type="checkbox" id="rb1-remake-1-388" class="trackbox" /> | 388 | [Base](/neptunia/rb1/dlc/1-base.html) | [Silver Armlet](/neptunia/rb1/remake/1-388-silver-armlet.html)<br />→ [Silver Armlet](/neptunia/rb1/item/1-2523-silver-armlet.html) (Armor) |
 
 ## Dungeons **Plan: Silver Armlet** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
-| <input type="checkbox" id="rb1-dungeon-1-110" class="trackbox" /> | 110 | [Base](/neptunia/rb1/dlc/1-base.html) | [Donkong Ruins](/neptunia/rb1/dungeon/1-110-donkong-ruins.html) | Gathering point |
+| <input type="checkbox" id="rb1-dungeon-1-110" class="trackbox" /> | 110 | [Base](/neptunia/rb1/dlc/1-base.html) | [Donkong Ruins](/neptunia/rb1/dungeon/1-110-donkong-ruins.html) | Treasure |

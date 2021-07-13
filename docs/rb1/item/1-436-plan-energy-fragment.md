@@ -23,16 +23,14 @@ title: "Plan: Energy Fragment (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 0 |
 | **Max inventory** | 1 |
 
-
 ## Chirpers who give **Plan: Energy Fragment**
 
 |    | ID | DLC | Avatar | Message | Conditions |
 | -- | -- | --- | ------ | ------- | ---------- |
-| <input type="checkbox" id="rb1-chirper-event-1-5123" class="trackbox" /> | 5123 | [Base](/neptunia/rb1/dlc/1-base.html) | [Wondrous Chef](/neptunia/rb1/undefined/1-233-wondrous-chef.html) | Here's an item Plan for you.<br />You've got a face of a champion. Keep this recipe! | View scene [Chapter 3: Making The Antidote](/neptunia/rb1/scene/1-312-chapter-3-making-the-antidote.html)<br />Do not view scene [Chapter 6: 128th Where's Histy Summit](/neptunia/rb1/scene/1-601-chapter-6-128th-wheres-histy-summit.html) |
-
+| <input type="checkbox" id="rb1-chirper-event-1-5123" class="trackbox" /> | 5123 | [Base](/neptunia/rb1/dlc/1-base.html) | [Wondrous Chef](/neptunia/rb1/avatar/1-233-wondrous-chef.html) | Here's an item Plan for you.<br />You've got a face of a champion. Keep this recipe! | View scene [Chapter 3: Making The Antidote](/neptunia/rb1/scene/1-312-chapter-3-making-the-antidote.html)<br />Do not view scene [Chapter 6: 128th Where's Histy Summit](/neptunia/rb1/scene/1-601-chapter-6-128th-wheres-histy-summit.html) |
 
 ## Plans added to Remake System after collecting **Plan: Energy Fragment**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-347" class="trackbox" /> | 347 | [Base](/neptunia/rb1/dlc/1-base.html) | [Energy Fragment](/neptunia/rb1/remake/1-347-energy-fragment.html)<br /> → [Energy Fragment](/neptunia/rb1/item/1-40-energy-fragment.html) (Tool) |
+| <input type="checkbox" id="rb1-remake-1-347" class="trackbox" /> | 347 | [Base](/neptunia/rb1/dlc/1-base.html) | [Energy Fragment](/neptunia/rb1/remake/1-347-energy-fragment.html)<br />→ [Energy Fragment](/neptunia/rb1/item/1-40-energy-fragment.html) (Tool) |

@@ -25,13 +25,11 @@ title: "Magical Staff (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Weapon skill** | [Impulse](/neptunia/rb1/skill/14-3502-impulse.html) |
 | **To unlock in shop** | Method 1<br />- View scene [Chapter 2: Histoire And Arfoire](/neptunia/rb1/scene/1-201-chapter-2-histoire-and-arfoire.html)<br />-  |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 940 | 0 | 1100 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-
 
 ## Player characters who can equip **Magical Staff**
 

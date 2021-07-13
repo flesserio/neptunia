@@ -25,20 +25,17 @@ title: "Diethyl Ether (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **Weapon skill** | [Syringe, Desu!](/neptunia/rb1/skill/1-2002-syringe-desu.html) |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 793 | 0 | 927 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 
-
 ## Remake System plans which unlock **Diethyl Ether** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-362" class="trackbox" /> | 362 | [Base](/neptunia/rb1/dlc/1-base.html) | [Diethyl Ether](/neptunia/rb1/remake/1-362-diethyl-ether.html)<br /> → [Diethyl Ether](/neptunia/rb1/item/1-2340-diethyl-ether.html) (Syringe (Compa)) |
-
+| <input type="checkbox" id="rb1-remake-1-362" class="trackbox" /> | 362 | [Base](/neptunia/rb1/dlc/1-base.html) | [Diethyl Ether](/neptunia/rb1/remake/1-362-diethyl-ether.html)<br />→ [Diethyl Ether](/neptunia/rb1/item/1-2340-diethyl-ether.html) (Syringe (Compa)) |
 
 ## Player characters who can equip **Diethyl Ether**
 

@@ -24,20 +24,17 @@ title: "Black Cat Ears (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 7500 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Black Cat Ears** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-553" class="trackbox" /> | 553 | [Base](/neptunia/rb1/dlc/1-base.html) | [Black Cat Ears](/neptunia/rb1/remake/1-553-black-cat-ears.html)<br /> → [Black Cat Ears](/neptunia/rb1/item/1-3120-black-cat-ears.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-553" class="trackbox" /> | 553 | [Base](/neptunia/rb1/dlc/1-base.html) | [Black Cat Ears](/neptunia/rb1/remake/1-553-black-cat-ears.html)<br />→ [Black Cat Ears](/neptunia/rb1/item/1-3120-black-cat-ears.html) (Accessory) |
 
 ## Remake System plans which require **Black Cat Ears**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-554" class="trackbox" /> | 554 | [Base](/neptunia/rb1/dlc/1-base.html) | [White Cat Ears](/neptunia/rb1/quest/1-554-white-cat-ears.html) |
-
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-554" class="trackbox" /> | 554 | [Base](/neptunia/rb1/dlc/1-base.html) | [White Cat Ears](/neptunia/rb1/remake/1-554-white-cat-ears.html)<br />→ [White Cat Ears](/neptunia/rb1/item/1-3121-white-cat-ears.html) (Accessory) | 1 |
 
 ## Player characters who can equip **Black Cat Ears**
 

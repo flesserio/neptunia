@@ -24,20 +24,17 @@ title: "Anti-Paralyze Patch (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 2500 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Anti-Paralyze Patch** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-419" class="trackbox" /> | 419 | [Base](/neptunia/rb1/dlc/1-base.html) | [Anti-Paralyze Patch](/neptunia/rb1/remake/1-419-anti-paralyze-patch.html)<br /> → [Anti-Paralyze Patch](/neptunia/rb1/item/1-2758-anti-paralyze-patch.html) (Ornament) |
-
+| <input type="checkbox" id="rb1-remake-1-419" class="trackbox" /> | 419 | [Base](/neptunia/rb1/dlc/1-base.html) | [Anti-Paralyze Patch](/neptunia/rb1/remake/1-419-anti-paralyze-patch.html)<br />→ [Anti-Paralyze Patch](/neptunia/rb1/item/1-2758-anti-paralyze-patch.html) (Ornament) |
 
 ## Remake System plans which require **Anti-Paralyze Patch**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-3" class="trackbox" /> | 3 | [Base](/neptunia/rb1/dlc/1-base.html) | [Negative Status Reduced](/neptunia/rb1/quest/1-3-negative-status-reduced.html) |
-
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-3" class="trackbox" /> | 3 | [Base](/neptunia/rb1/dlc/1-base.html) | [Negative Status Reduced](/neptunia/rb1/remake/1-3-negative-status-reduced.html) | 1 |
 
 ## Player characters who can equip **Anti-Paralyze Patch**
 

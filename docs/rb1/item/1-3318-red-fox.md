@@ -23,13 +23,11 @@ title: "Red Fox (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 5000 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Red Fox** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-684" class="trackbox" /> | 684 | [Base](/neptunia/rb1/dlc/1-base.html) | [Red Fox](/neptunia/rb1/remake/1-684-red-fox.html)<br /> → [Red Fox](/neptunia/rb1/item/1-3318-red-fox.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-684" class="trackbox" /> | 684 | [Base](/neptunia/rb1/dlc/1-base.html) | [Red Fox](/neptunia/rb1/remake/1-684-red-fox.html)<br />→ [Red Fox](/neptunia/rb1/item/1-3318-red-fox.html) (Accessory) |
 
 ## Player characters who can equip **Red Fox**
 

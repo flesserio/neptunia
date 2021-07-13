@@ -24,22 +24,19 @@ title: "Huge Ribbon (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 125000 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Huge Ribbon** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-8-699" class="trackbox" /> | 699 | [[Peashy] Battle Entry License](/neptunia/rb1/dlc/8-peashy.html) | [Huge Ribbon](/neptunia/rb1/remake/8-699-huge-ribbon.html)<br /> → [Huge Ribbon](/neptunia/rb1/item/8-3345-huge-ribbon.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-8-699" class="trackbox" /> | 699 | [[Peashy] Battle Entry License](/neptunia/rb1/dlc/8-peashy.html) | [Huge Ribbon](/neptunia/rb1/remake/8-699-huge-ribbon.html)<br />→ [Huge Ribbon](/neptunia/rb1/item/8-3345-huge-ribbon.html) (Accessory) |
 
 ## Remake System plans which require **Huge Ribbon**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-8-700" class="trackbox" /> | 700 | [[Peashy] Battle Entry License](/neptunia/rb1/dlc/8-peashy.html) | [Yogurt Ribbon](/neptunia/rb1/quest/8-700-yogurt-ribbon.html) |
-| <input type="checkbox" id="rb1-quest-8-701" class="trackbox" /> | 701 | [[Peashy] Battle Entry License](/neptunia/rb1/dlc/8-peashy.html) | [Fancy Ribbon](/neptunia/rb1/quest/8-701-fancy-ribbon.html) |
-| <input type="checkbox" id="rb1-quest-8-702" class="trackbox" /> | 702 | [[Peashy] Battle Entry License](/neptunia/rb1/dlc/8-peashy.html) | [Pink Ribbon](/neptunia/rb1/quest/8-702-pink-ribbon.html) |
-
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-8-700" class="trackbox" /> | 700 | [[Peashy] Battle Entry License](/neptunia/rb1/dlc/8-peashy.html) | [Yogurt Ribbon](/neptunia/rb1/remake/8-700-yogurt-ribbon.html)<br />→ [Yogurt Ribbon](/neptunia/rb1/item/8-3346-yogurt-ribbon.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-8-701" class="trackbox" /> | 701 | [[Peashy] Battle Entry License](/neptunia/rb1/dlc/8-peashy.html) | [Fancy Ribbon](/neptunia/rb1/remake/8-701-fancy-ribbon.html)<br />→ [Fancy Ribbon](/neptunia/rb1/item/8-3347-fancy-ribbon.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-8-702" class="trackbox" /> | 702 | [[Peashy] Battle Entry License](/neptunia/rb1/dlc/8-peashy.html) | [Pink Ribbon](/neptunia/rb1/remake/8-702-pink-ribbon.html)<br />→ [Pink Ribbon](/neptunia/rb1/item/8-3348-pink-ribbon.html) (Accessory) | 1 |
 
 ## Player characters who can equip **Huge Ribbon**
 

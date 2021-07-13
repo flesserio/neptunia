@@ -24,20 +24,17 @@ title: "PCF-XXX S (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 100000 |
 | **Max inventory** | 99 |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 100 | 0 | 50 | -15 | 30 | 0 | -15 | 0 | 0 | 0 | 0 |
 
-
 ## Remake System plans which unlock **PCF-XXX S** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-12-849" class="trackbox" /> | 849 | [Additional Content Package 3](/neptunia/rb1/dlc/12-pack3.html) | [PCF-XXX S](/neptunia/rb1/remake/12-849-pcf-xxx-s.html)<br /> → [PCF-XXX S](/neptunia/rb1/item/12-4293-pcf-xxx-s.html) (Processor (S)) |
-
+| <input type="checkbox" id="rb1-remake-12-849" class="trackbox" /> | 849 | [Additional Content Package 3](/neptunia/rb1/dlc/12-pack3.html) | [PCF-XXX S](/neptunia/rb1/remake/12-849-pcf-xxx-s.html)<br />→ [PCF-XXX S](/neptunia/rb1/item/12-4293-pcf-xxx-s.html) (Processor (S)) |
 
 ## Player characters who can equip **PCF-XXX S**
 

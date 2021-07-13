@@ -22,9 +22,8 @@ title: "Large Medal G (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 0 |
 | **Max inventory** | 1 |
 
-
 ## Monsters which drop **Large Medal G**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-1-1038" class="trackbox" /> | 1038 | [Base](/neptunia/rb1/dlc/1-base.html) | [Fake White Heart](/neptunia/rb1/monster/1-1038-fake-white-heart.html) |
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-1-1038" class="trackbox" /> | 1038 | [Base](/neptunia/rb1/dlc/1-base.html) | [Fake White Heart](/neptunia/rb1/monster/1-1038-fake-white-heart.html) | 100% |

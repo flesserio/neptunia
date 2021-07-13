@@ -24,22 +24,19 @@ title: "Japanese Costumes (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 0 |
 | **Max inventory** | 1 |
 
-
 ## Plans added to Remake System after collecting **Japanese Costumes**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-431" class="trackbox" /> | 431 | [Base](/neptunia/rb1/dlc/1-base.html) | [Summer Maiden](/neptunia/rb1/remake/1-431-summer-maiden.html)<br /> → [Summer Maiden](/neptunia/rb1/item/1-2846-summer-maiden.html) (Clothing) |
-| <input type="checkbox" id="rb1-remake-1-432" class="trackbox" /> | 432 | [Base](/neptunia/rb1/dlc/1-base.html) | [Cherry Blossom Maiden](/neptunia/rb1/remake/1-432-cherry-blossom-maiden.html)<br /> → [Cherry Blossom Maiden](/neptunia/rb1/item/1-2847-cherry-blossom-maiden.html) (Clothing) |
-| <input type="checkbox" id="rb1-remake-1-433" class="trackbox" /> | 433 | [Base](/neptunia/rb1/dlc/1-base.html) | [Winter Maiden](/neptunia/rb1/remake/1-433-winter-maiden.html)<br /> → [Winter Maiden](/neptunia/rb1/item/1-2848-winter-maiden.html) (Clothing) |
-
+| <input type="checkbox" id="rb1-remake-1-431" class="trackbox" /> | 431 | [Base](/neptunia/rb1/dlc/1-base.html) | [Summer Maiden](/neptunia/rb1/remake/1-431-summer-maiden.html)<br />→ [Summer Maiden](/neptunia/rb1/item/1-2846-summer-maiden.html) (Clothing) |
+| <input type="checkbox" id="rb1-remake-1-432" class="trackbox" /> | 432 | [Base](/neptunia/rb1/dlc/1-base.html) | [Cherry Blossom Maiden](/neptunia/rb1/remake/1-432-cherry-blossom-maiden.html)<br />→ [Cherry Blossom Maiden](/neptunia/rb1/item/1-2847-cherry-blossom-maiden.html) (Clothing) |
+| <input type="checkbox" id="rb1-remake-1-433" class="trackbox" /> | 433 | [Base](/neptunia/rb1/dlc/1-base.html) | [Winter Maiden](/neptunia/rb1/remake/1-433-winter-maiden.html)<br />→ [Winter Maiden](/neptunia/rb1/item/1-2848-winter-maiden.html) (Clothing) |
 
 ## Monsters which drop **Japanese Costumes**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-1-365" class="trackbox" /> | 365 | [Base](/neptunia/rb1/dlc/1-base.html) | [Trick Crown](/neptunia/rb1/monster/1-365-trick-crown.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-1-365" class="trackbox" /> | 365 | [Base](/neptunia/rb1/dlc/1-base.html) | [Trick Crown](/neptunia/rb1/monster/1-365-trick-crown.html) | 55% |
 
 ## Dungeons **Japanese Costumes** is found
 

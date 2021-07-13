@@ -25,20 +25,17 @@ title: "Bastard Sword (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **Weapon skill** | [L Slash](/neptunia/rb1/skill/1-3-l-slash.html) |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 125 | 0 | 112 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 
-
 ## Remake System plans which unlock **Bastard Sword** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-352" class="trackbox" /> | 352 | [Base](/neptunia/rb1/dlc/1-base.html) | [Bastard Sword](/neptunia/rb1/remake/1-352-bastard-sword.html)<br /> → [Bastard Sword](/neptunia/rb1/item/1-2006-bastard-sword.html) (Broadsword (Neptune)) |
-
+| <input type="checkbox" id="rb1-remake-1-352" class="trackbox" /> | 352 | [Base](/neptunia/rb1/dlc/1-base.html) | [Bastard Sword](/neptunia/rb1/remake/1-352-bastard-sword.html)<br />→ [Bastard Sword](/neptunia/rb1/item/1-2006-bastard-sword.html) (Broadsword (Neptune)) |
 
 ## Player characters who can equip **Bastard Sword**
 

@@ -25,24 +25,21 @@ title: "Real Angel Wings (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **Tool skill** | [Real Angel Wings](/neptunia/rb1/skill/1-10043-real-angel-wings.html) |
 
-
 ## Remake System plans which unlock **Real Angel Wings** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-350" class="trackbox" /> | 350 | [Base](/neptunia/rb1/dlc/1-base.html) | [Real Angel Wings](/neptunia/rb1/remake/1-350-real-angel-wings.html)<br /> → [Real Angel Wings](/neptunia/rb1/item/1-43-real-angel-wings.html) (Tool) |
-
+| <input type="checkbox" id="rb1-remake-1-350" class="trackbox" /> | 350 | [Base](/neptunia/rb1/dlc/1-base.html) | [Real Angel Wings](/neptunia/rb1/remake/1-350-real-angel-wings.html)<br />→ [Real Angel Wings](/neptunia/rb1/item/1-43-real-angel-wings.html) (Tool) |
 
 ## Dungeons **Real Angel Wings** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
-| <input type="checkbox" id="rb1-dungeon-1-116" class="trackbox" /> | 116 | [Base](/neptunia/rb1/dlc/1-base.html) | [Yukawa Ruins](/neptunia/rb1/dungeon/1-116-yukawa-ruins.html) | Gathering point |
-| <input type="checkbox" id="rb1-dungeon-1-120" class="trackbox" /> | 120 | [Base](/neptunia/rb1/dlc/1-base.html) | [Zeca Ruins No.2](/neptunia/rb1/dungeon/1-120-zeca-ruins-no-2.html) | Gathering point |
-| <input type="checkbox" id="rb1-dungeon-11-126" class="trackbox" /> | 126 | [Additional Content Package 2](/neptunia/rb1/dlc/11-pack2.html) | [Nights' Dimension](/neptunia/rb1/dungeon/11-126-nights-dimension.html) | Gathering point |
-| <input type="checkbox" id="rb1-dungeon-10-127" class="trackbox" /> | 127 | [Additional Content Package 1](/neptunia/rb1/dlc/10-pack1.html) | [Noma Cave](/neptunia/rb1/dungeon/10-127-noma-cave.html) | Gathering point |
-| <input type="checkbox" id="rb1-dungeon-16-131" class="trackbox" /> | 131 | [Additional Content Pack 7](/neptunia/rb1/dlc/16-pack7.html) | [Rebeat Resort](/neptunia/rb1/dungeon/16-131-rebeat-resort.html) | Gathering point |
-
+| <input type="checkbox" id="rb1-dungeon-1-116" class="trackbox" /> | 116 | [Base](/neptunia/rb1/dlc/1-base.html) | [Yukawa Ruins](/neptunia/rb1/dungeon/1-116-yukawa-ruins.html) | Treasure |
+| <input type="checkbox" id="rb1-dungeon-1-120" class="trackbox" /> | 120 | [Base](/neptunia/rb1/dlc/1-base.html) | [Zeca Ruins No.2](/neptunia/rb1/dungeon/1-120-zeca-ruins-no-2.html) | Treasure |
+| <input type="checkbox" id="rb1-dungeon-11-126" class="trackbox" /> | 126 | [Additional Content Package 2](/neptunia/rb1/dlc/11-pack2.html) | [Nights' Dimension](/neptunia/rb1/dungeon/11-126-nights-dimension.html) | Treasure |
+| <input type="checkbox" id="rb1-dungeon-10-127" class="trackbox" /> | 127 | [Additional Content Package 1](/neptunia/rb1/dlc/10-pack1.html) | [Noma Cave](/neptunia/rb1/dungeon/10-127-noma-cave.html) | Treasure |
+| <input type="checkbox" id="rb1-dungeon-16-131" class="trackbox" /> | 131 | [Additional Content Pack 7](/neptunia/rb1/dlc/16-pack7.html) | [Rebeat Resort](/neptunia/rb1/dungeon/16-131-rebeat-resort.html) | Hidden treasure |
 
 ## Colosseum quests which reward **Real Angel Wings**
 

@@ -24,20 +24,17 @@ title: "Green C (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 0 |
 | **Max inventory** | 99 |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 30 | 30 | 35 | 35 | 30 | 30 | 35 | 0 | 0 | 0 | 0 |
 
-
 ## Player characters who have **Green C** equipped by default
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
 | <input type="checkbox" id="rb1-player-1-5" class="trackbox" /> | 5 | [Base](/neptunia/rb1/dlc/1-base.html) | [Vert](/neptunia/rb1/player/1-5-vert.html) |
-
 
 ## Player characters who can equip **Green C**
 

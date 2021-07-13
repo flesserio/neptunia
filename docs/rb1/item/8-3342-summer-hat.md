@@ -23,13 +23,11 @@ title: "Summer Hat (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 125000 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Summer Hat** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-8-696" class="trackbox" /> | 696 | [[Peashy] Battle Entry License](/neptunia/rb1/dlc/8-peashy.html) | [Summer Hat](/neptunia/rb1/remake/8-696-summer-hat.html)<br /> → [Summer Hat](/neptunia/rb1/item/8-3342-summer-hat.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-8-696" class="trackbox" /> | 696 | [[Peashy] Battle Entry License](/neptunia/rb1/dlc/8-peashy.html) | [Summer Hat](/neptunia/rb1/remake/8-696-summer-hat.html)<br />→ [Summer Hat](/neptunia/rb1/item/8-3342-summer-hat.html) (Accessory) |
 
 ## Player characters who can equip **Summer Hat**
 

@@ -24,13 +24,11 @@ title: "Beam Saber+? (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **Weapon skill** | [Attack](/neptunia/rb1/skill/1-1001-attack.html) |
 
-
 ## Colosseum quests which reward **Beam Saber+?**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
 | <input type="checkbox" id="rb1-colosseum-14-5003" class="trackbox" /> | 5003 | [Additional Content Pack 5](/neptunia/rb1/dlc/14-pack5.html) | [Perfect Little Sister](/neptunia/rb1/colosseum/14-5003-perfect-little-sister.html) |
-
 
 ## Player characters who can equip **Beam Saber+?**
 

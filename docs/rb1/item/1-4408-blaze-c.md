@@ -24,13 +24,11 @@ title: "Blaze C (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **To unlock in shop** | Method 1<br />- View scene [Chapter 5: Reunion](/neptunia/rb1/scene/1-503-chapter-5-reunion.html) |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 15 | 15 | 30 | 30 | 15 | 20 | 15 | 25 | -15 | 0 | 0 |
-
 
 ## Player characters who can equip **Blaze C**
 

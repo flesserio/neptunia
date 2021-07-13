@@ -24,13 +24,11 @@ title: "Generation S (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **To unlock in shop** | Method 1<br />- Have save in first playthrough<br />- Have Uni unlocked. |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | -15 | 95 | 0 | 65 | 0 | -15 | 45 | 0 | 0 | 0 | 0 |
-
 
 ## Player characters who can equip **Generation S**
 

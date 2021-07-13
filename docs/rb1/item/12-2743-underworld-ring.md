@@ -24,20 +24,17 @@ title: "Underworld Ring (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 50000 |
 | **Max inventory** | 99 |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 5000 | 0 | 0 | 150 | 150 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 
-
 ## Remake System plans which unlock **Underworld Ring** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-12-415" class="trackbox" /> | 415 | [Additional Content Package 3](/neptunia/rb1/dlc/12-pack3.html) | [Underworld Ring](/neptunia/rb1/remake/12-415-underworld-ring.html)<br /> → [Underworld Ring](/neptunia/rb1/item/12-2743-underworld-ring.html) (Ornament) |
-
+| <input type="checkbox" id="rb1-remake-12-415" class="trackbox" /> | 415 | [Additional Content Package 3](/neptunia/rb1/dlc/12-pack3.html) | [Underworld Ring](/neptunia/rb1/remake/12-415-underworld-ring.html)<br />→ [Underworld Ring](/neptunia/rb1/item/12-2743-underworld-ring.html) (Ornament) |
 
 ## Player characters who can equip **Underworld Ring**
 

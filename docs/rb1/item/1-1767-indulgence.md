@@ -24,13 +24,11 @@ title: "Indulgence (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 382 |
 | **Max inventory** | 99 |
 
-
 ## Monsters which drop **Indulgence**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-1-338" class="trackbox" /> | 338 | [Base](/neptunia/rb1/dlc/1-base.html) | [Blushing Hot Guy](/neptunia/rb1/monster/1-338-blushing-hot-guy.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-1-338" class="trackbox" /> | 338 | [Base](/neptunia/rb1/dlc/1-base.html) | [Blushing Hot Guy](/neptunia/rb1/monster/1-338-blushing-hot-guy.html) | 40% |
 
 ## Dungeons **Indulgence** is found
 
@@ -39,11 +37,10 @@ title: "Indulgence (Item) - Hyperdimension Neptunia Re;Birth1"
 | <input type="checkbox" id="rb1-dungeon-1-116" class="trackbox" /> | 116 | [Base](/neptunia/rb1/dlc/1-base.html) | [Yukawa Ruins](/neptunia/rb1/dungeon/1-116-yukawa-ruins.html) | Gathering point |
 | <input type="checkbox" id="rb1-dungeon-1-116" class="trackbox" /> | 116 | [Base](/neptunia/rb1/dlc/1-base.html) | [Yukawa Ruins](/neptunia/rb1/dungeon/1-116-yukawa-ruins.html) | Monster drop |
 
-
 ## Remake System plans which require **Indulgence**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-223" class="trackbox" /> | 223 | [Base](/neptunia/rb1/dlc/1-base.html) | [Add Dungeon](/neptunia/rb1/quest/1-223-add-dungeon.html) |
-| <input type="checkbox" id="rb1-quest-1-368" class="trackbox" /> | 368 | [Base](/neptunia/rb1/dlc/1-base.html) | [Elysdeon](/neptunia/rb1/quest/1-368-elysdeon.html) |
-| <input type="checkbox" id="rb1-quest-1-413" class="trackbox" /> | 413 | [Base](/neptunia/rb1/dlc/1-base.html) | [Mysterious Ring](/neptunia/rb1/quest/1-413-mysterious-ring.html) |
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-223" class="trackbox" /> | 223 | [Base](/neptunia/rb1/dlc/1-base.html) | [Add Dungeon](/neptunia/rb1/remake/1-223-add-dungeon.html)<br />→ [Zeca Ruins No.2](/neptunia/rb1/dungeon/1-120-zeca-ruins-no-2.html) (Dungeon) | 2 |
+| <input type="checkbox" id="rb1-remake-1-368" class="trackbox" /> | 368 | [Base](/neptunia/rb1/dlc/1-base.html) | [Elysdeon](/neptunia/rb1/remake/1-368-elysdeon.html)<br />→ [Elysdeon](/neptunia/rb1/item/1-2068-elysdeon.html) (Short Sword (Noire)) | 3 |
+| <input type="checkbox" id="rb1-remake-1-413" class="trackbox" /> | 413 | [Base](/neptunia/rb1/dlc/1-base.html) | [Mysterious Ring](/neptunia/rb1/remake/1-413-mysterious-ring.html)<br />→ [Mysterious Ring](/neptunia/rb1/item/1-2741-mysterious-ring.html) (Ornament) | 2 |

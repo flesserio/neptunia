@@ -24,15 +24,13 @@ title: "Shampuru Ear (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 12 |
 | **Max inventory** | 99 |
 
-
 ## Monsters which drop **Shampuru Ear**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-1-246" class="trackbox" /> | 246 | [Base](/neptunia/rb1/dlc/1-base.html) | [Normal Shampuru](/neptunia/rb1/monster/1-246-normal-shampuru.html) |
-| <input type="checkbox" id="rb1-monster-1-247" class="trackbox" /> | 247 | [Base](/neptunia/rb1/dlc/1-base.html) | [Buff Shampuru](/neptunia/rb1/monster/1-247-buff-shampuru.html) |
-| <input type="checkbox" id="rb1-monster-1-248" class="trackbox" /> | 248 | [Base](/neptunia/rb1/dlc/1-base.html) | [Magical Shampuru](/neptunia/rb1/monster/1-248-magical-shampuru.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-1-246" class="trackbox" /> | 246 | [Base](/neptunia/rb1/dlc/1-base.html) | [Normal Shampuru](/neptunia/rb1/monster/1-246-normal-shampuru.html) | 40% |
+| <input type="checkbox" id="rb1-monster-1-247" class="trackbox" /> | 247 | [Base](/neptunia/rb1/dlc/1-base.html) | [Buff Shampuru](/neptunia/rb1/monster/1-247-buff-shampuru.html) | 40% |
+| <input type="checkbox" id="rb1-monster-1-248" class="trackbox" /> | 248 | [Base](/neptunia/rb1/dlc/1-base.html) | [Magical Shampuru](/neptunia/rb1/monster/1-248-magical-shampuru.html) | 40% |
 
 ## Dungeons **Shampuru Ear** is found
 
@@ -41,13 +39,12 @@ title: "Shampuru Ear (Item) - Hyperdimension Neptunia Re;Birth1"
 | <input type="checkbox" id="rb1-dungeon-1-101" class="trackbox" /> | 101 | [Base](/neptunia/rb1/dlc/1-base.html) | [Zeca Ruins No.1](/neptunia/rb1/dungeon/1-101-zeca-ruins-no-1.html) | Gathering point |
 | <input type="checkbox" id="rb1-dungeon-1-101" class="trackbox" /> | 101 | [Base](/neptunia/rb1/dlc/1-base.html) | [Zeca Ruins No.1](/neptunia/rb1/dungeon/1-101-zeca-ruins-no-1.html) | Monster drop |
 
-
 ## Remake System plans which require **Shampuru Ear**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-210" class="trackbox" /> | 210 | [Base](/neptunia/rb1/dlc/1-base.html) | [Add Dungeon](/neptunia/rb1/quest/1-210-add-dungeon.html) |
-| <input type="checkbox" id="rb1-quest-1-351" class="trackbox" /> | 351 | [Base](/neptunia/rb1/dlc/1-base.html) | [Eject Button](/neptunia/rb1/quest/1-351-eject-button.html) |
-| <input type="checkbox" id="rb1-quest-1-473" class="trackbox" /> | 473 | [Base](/neptunia/rb1/dlc/1-base.html) | [Rabbit Ears](/neptunia/rb1/quest/1-473-rabbit-ears.html) |
-| <input type="checkbox" id="rb1-quest-1-553" class="trackbox" /> | 553 | [Base](/neptunia/rb1/dlc/1-base.html) | [Black Cat Ears](/neptunia/rb1/quest/1-553-black-cat-ears.html) |
-| <input type="checkbox" id="rb1-quest-1-629" class="trackbox" /> | 629 | [Base](/neptunia/rb1/dlc/1-base.html) | [Rabbit Ears](/neptunia/rb1/quest/1-629-rabbit-ears.html) |
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-210" class="trackbox" /> | 210 | [Base](/neptunia/rb1/dlc/1-base.html) | [Add Dungeon](/neptunia/rb1/remake/1-210-add-dungeon.html)<br />→ [Mechtro Factory](/neptunia/rb1/dungeon/1-102-mechtro-factory.html) (Dungeon) | 3 |
+| <input type="checkbox" id="rb1-remake-1-351" class="trackbox" /> | 351 | [Base](/neptunia/rb1/dlc/1-base.html) | [Eject Button](/neptunia/rb1/remake/1-351-eject-button.html)<br />→ [Eject Button](/neptunia/rb1/item/1-44-eject-button.html) (Tool) | 5 |
+| <input type="checkbox" id="rb1-remake-1-473" class="trackbox" /> | 473 | [Base](/neptunia/rb1/dlc/1-base.html) | [Rabbit Ears](/neptunia/rb1/remake/1-473-rabbit-ears.html)<br />→ [Rabbit Ears](/neptunia/rb1/item/1-3010-rabbit-ears.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-1-553" class="trackbox" /> | 553 | [Base](/neptunia/rb1/dlc/1-base.html) | [Black Cat Ears](/neptunia/rb1/remake/1-553-black-cat-ears.html)<br />→ [Black Cat Ears](/neptunia/rb1/item/1-3120-black-cat-ears.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-1-629" class="trackbox" /> | 629 | [Base](/neptunia/rb1/dlc/1-base.html) | [Rabbit Ears](/neptunia/rb1/remake/1-629-rabbit-ears.html)<br />→ [Rabbit Ears](/neptunia/rb1/item/1-3241-rabbit-ears.html) (Accessory) | 1 |

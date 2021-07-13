@@ -23,13 +23,11 @@ title: "Pink Beret (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 1500 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Pink Beret** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-690" class="trackbox" /> | 690 | [Base](/neptunia/rb1/dlc/1-base.html) | [Pink Beret](/neptunia/rb1/remake/1-690-pink-beret.html)<br /> → [Pink Beret](/neptunia/rb1/item/1-3326-pink-beret.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-690" class="trackbox" /> | 690 | [Base](/neptunia/rb1/dlc/1-base.html) | [Pink Beret](/neptunia/rb1/remake/1-690-pink-beret.html)<br />→ [Pink Beret](/neptunia/rb1/item/1-3326-pink-beret.html) (Accessory) |
 
 ## Player characters who can equip **Pink Beret**
 

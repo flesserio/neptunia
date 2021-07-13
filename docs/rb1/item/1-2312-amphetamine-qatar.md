@@ -25,20 +25,17 @@ title: "Amphetamine Qatar (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **Weapon skill** | [Attack](/neptunia/rb1/skill/1-2101-attack.html) |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 1500 | 0 | 750 | 1063 | 0 | 1063 | 0 | 0 | 106 | 0 | 0 | 0 | 0 | 0 |
 
-
 ## Remake System plans which unlock **Amphetamine Qatar** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-367" class="trackbox" /> | 367 | [Base](/neptunia/rb1/dlc/1-base.html) | [Amphetamine Qatar](/neptunia/rb1/remake/1-367-amphetamine-qatar.html)<br /> → [Amphetamine Qatar](/neptunia/rb1/item/1-2312-amphetamine-qatar.html) (Qatar (IF)) |
-
+| <input type="checkbox" id="rb1-remake-1-367" class="trackbox" /> | 367 | [Base](/neptunia/rb1/dlc/1-base.html) | [Amphetamine Qatar](/neptunia/rb1/remake/1-367-amphetamine-qatar.html)<br />→ [Amphetamine Qatar](/neptunia/rb1/item/1-2312-amphetamine-qatar.html) (Qatar (IF)) |
 
 ## Player characters who can equip **Amphetamine Qatar**
 

@@ -23,13 +23,11 @@ title: "Peridot Barrette (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 1500 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Peridot Barrette** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-619" class="trackbox" /> | 619 | [Base](/neptunia/rb1/dlc/1-base.html) | [Peridot Barrette](/neptunia/rb1/remake/1-619-peridot-barrette.html)<br /> → [Peridot Barrette](/neptunia/rb1/item/1-3228-peridot-barrette.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-619" class="trackbox" /> | 619 | [Base](/neptunia/rb1/dlc/1-base.html) | [Peridot Barrette](/neptunia/rb1/remake/1-619-peridot-barrette.html)<br />→ [Peridot Barrette](/neptunia/rb1/item/1-3228-peridot-barrette.html) (Accessory) |
 
 ## Player characters who can equip **Peridot Barrette**
 

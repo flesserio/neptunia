@@ -24,15 +24,13 @@ title: "Planet Fiber (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **To unlock in shop** | Method 1<br />- Have Nepgear unlocked. |
 
-
 ## Remake System plans which require **Planet Fiber**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-673" class="trackbox" /> | 673 | [Base](/neptunia/rb1/dlc/1-base.html) | [Aero Fiber](/neptunia/rb1/quest/1-673-aero-fiber.html) |
-| <input type="checkbox" id="rb1-quest-1-674" class="trackbox" /> | 674 | [Base](/neptunia/rb1/dlc/1-base.html) | [Aurora Fiber](/neptunia/rb1/quest/1-674-aurora-fiber.html) |
-| <input type="checkbox" id="rb1-quest-1-675" class="trackbox" /> | 675 | [Base](/neptunia/rb1/dlc/1-base.html) | [Firefly Fiber](/neptunia/rb1/quest/1-675-firefly-fiber.html) |
-
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-673" class="trackbox" /> | 673 | [Base](/neptunia/rb1/dlc/1-base.html) | [Aero Fiber](/neptunia/rb1/remake/1-673-aero-fiber.html)<br />→ [Aero Fiber](/neptunia/rb1/item/1-3304-aero-fiber.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-1-674" class="trackbox" /> | 674 | [Base](/neptunia/rb1/dlc/1-base.html) | [Aurora Fiber](/neptunia/rb1/remake/1-674-aurora-fiber.html)<br />→ [Aurora Fiber](/neptunia/rb1/item/1-3305-aurora-fiber.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-1-675" class="trackbox" /> | 675 | [Base](/neptunia/rb1/dlc/1-base.html) | [Firefly Fiber](/neptunia/rb1/remake/1-675-firefly-fiber.html)<br />→ [Firefly Fiber](/neptunia/rb1/item/1-3306-firefly-fiber.html) (Accessory) | 1 |
 
 ## Player characters who can equip **Planet Fiber**
 

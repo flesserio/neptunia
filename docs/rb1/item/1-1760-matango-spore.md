@@ -25,13 +25,11 @@ title: "Matango Spore (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 14 |
 | **Max inventory** | 99 |
 
-
 ## Monsters which drop **Matango Spore**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-1-132" class="trackbox" /> | 132 | [Base](/neptunia/rb1/dlc/1-base.html) | [Matango](/neptunia/rb1/monster/1-132-matango.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-1-132" class="trackbox" /> | 132 | [Base](/neptunia/rb1/dlc/1-base.html) | [Matango](/neptunia/rb1/monster/1-132-matango.html) | 40% |
 
 ## Dungeons **Matango Spore** is found
 
@@ -39,16 +37,14 @@ title: "Matango Spore (Item) - Hyperdimension Neptunia Re;Birth1"
 | -- | -- | --- | ---- | ---- |
 | <input type="checkbox" id="rb1-dungeon-1-6" class="trackbox" /> | 6 | [Base](/neptunia/rb1/dlc/1-base.html) | [Avenir Storage No.3](/neptunia/rb1/dungeon/1-6-avenir-storage-no-3.html) | Monster drop |
 
-
 ## Quests which require gathering **Matango Spore**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
 | <input type="checkbox" id="rb1-quest-1-220" class="trackbox" /> | 220 | [Base](/neptunia/rb1/dlc/1-base.html) | [Mushrooms vs. Bamboo](/neptunia/rb1/quest/1-220-mushrooms-vs-bamboo.html) |
 
-
 ## Remake System plans which require **Matango Spore**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-359" class="trackbox" /> | 359 | [Base](/neptunia/rb1/dlc/1-base.html) | [Soda](/neptunia/rb1/quest/1-359-soda.html) |
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-359" class="trackbox" /> | 359 | [Base](/neptunia/rb1/dlc/1-base.html) | [Soda](/neptunia/rb1/remake/1-359-soda.html)<br />→ [Soda](/neptunia/rb1/item/1-2332-soda.html) (Syringe (Compa)) | 2 |

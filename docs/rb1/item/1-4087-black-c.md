@@ -24,20 +24,17 @@ title: "Black C (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 0 |
 | **Max inventory** | 99 |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 35 | 35 | 25 | 25 | 40 | 45 | 25 | 0 | 0 | 0 | 0 |
 
-
 ## Player characters who have **Black C** equipped by default
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
 | <input type="checkbox" id="rb1-player-1-3" class="trackbox" /> | 3 | [Base](/neptunia/rb1/dlc/1-base.html) | [Noire](/neptunia/rb1/player/1-3-noire.html) |
-
 
 ## Player characters who can equip **Black C**
 

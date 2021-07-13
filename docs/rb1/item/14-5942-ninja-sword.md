@@ -24,13 +24,11 @@ title: "Ninja Sword+? (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **Weapon skill** | [Attack](/neptunia/rb1/skill/1-2601-attack.html) |
 
-
 ## Colosseum quests which reward **Ninja Sword+?**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
 | <input type="checkbox" id="rb1-colosseum-14-5011" class="trackbox" /> | 5011 | [Additional Content Pack 5](/neptunia/rb1/dlc/14-pack5.html) | [Ninja Magic Battle](/neptunia/rb1/colosseum/14-5011-ninja-magic-battle.html) |
-
 
 ## Player characters who can equip **Ninja Sword+?**
 

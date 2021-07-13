@@ -23,16 +23,14 @@ title: "Plan: Hero Drink C (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 0 |
 | **Max inventory** | 1 |
 
-
 ## Plans added to Remake System after collecting **Plan: Hero Drink C**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-330" class="trackbox" /> | 330 | [Base](/neptunia/rb1/dlc/1-base.html) | [Hero Drink C](/neptunia/rb1/remake/1-330-hero-drink-c.html)<br /> → [Hero Drink C](/neptunia/rb1/item/1-18-hero-drink-c.html) (Tool) |
-
+| <input type="checkbox" id="rb1-remake-1-330" class="trackbox" /> | 330 | [Base](/neptunia/rb1/dlc/1-base.html) | [Hero Drink C](/neptunia/rb1/remake/1-330-hero-drink-c.html)<br />→ [Hero Drink C](/neptunia/rb1/item/1-18-hero-drink-c.html) (Tool) |
 
 ## Dungeons **Plan: Hero Drink C** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
-| <input type="checkbox" id="rb1-dungeon-1-12" class="trackbox" /> | 12 | [Base](/neptunia/rb1/dlc/1-base.html) | [Lowee Snowfield](/neptunia/rb1/dungeon/1-12-lowee-snowfield.html) | Gathering point |
+| <input type="checkbox" id="rb1-dungeon-1-12" class="trackbox" /> | 12 | [Base](/neptunia/rb1/dlc/1-base.html) | [Lowee Snowfield](/neptunia/rb1/dungeon/1-12-lowee-snowfield.html) | Treasure |

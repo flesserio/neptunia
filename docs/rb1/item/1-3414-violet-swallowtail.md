@@ -24,15 +24,13 @@ title: "Violet Swallowtail (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **To unlock in shop** | Method 1<br />- Have Uni unlocked. |
 
-
 ## Remake System plans which require **Violet Swallowtail**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-749" class="trackbox" /> | 749 | [Base](/neptunia/rb1/dlc/1-base.html) | [Ulysses](/neptunia/rb1/quest/1-749-ulysses.html) |
-| <input type="checkbox" id="rb1-quest-1-750" class="trackbox" /> | 750 | [Base](/neptunia/rb1/dlc/1-base.html) | [Rosy Swallowtail](/neptunia/rb1/quest/1-750-rosy-swallowtail.html) |
-| <input type="checkbox" id="rb1-quest-1-751" class="trackbox" /> | 751 | [Base](/neptunia/rb1/dlc/1-base.html) | [Palinurus](/neptunia/rb1/quest/1-751-palinurus.html) |
-
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-749" class="trackbox" /> | 749 | [Base](/neptunia/rb1/dlc/1-base.html) | [Ulysses](/neptunia/rb1/remake/1-749-ulysses.html)<br />→ [Ulysses](/neptunia/rb1/item/1-3415-ulysses.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-1-750" class="trackbox" /> | 750 | [Base](/neptunia/rb1/dlc/1-base.html) | [Rosy Swallowtail](/neptunia/rb1/remake/1-750-rosy-swallowtail.html)<br />→ [Rosy Swallowtail](/neptunia/rb1/item/1-3416-rosy-swallowtail.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-1-751" class="trackbox" /> | 751 | [Base](/neptunia/rb1/dlc/1-base.html) | [Palinurus](/neptunia/rb1/remake/1-751-palinurus.html)<br />→ [Palinurus](/neptunia/rb1/item/1-3417-palinurus.html) (Accessory) | 1 |
 
 ## Player characters who can equip **Violet Swallowtail**
 

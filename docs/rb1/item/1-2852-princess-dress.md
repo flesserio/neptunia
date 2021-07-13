@@ -23,13 +23,11 @@ title: "Princess Dress (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 0 |
 | **Max inventory** | 1 |
 
-
 ## Player characters who have **Princess Dress** equipped by default
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
 | <input type="checkbox" id="rb1-player-1-5" class="trackbox" /> | 5 | [Base](/neptunia/rb1/dlc/1-base.html) | [Vert](/neptunia/rb1/player/1-5-vert.html) |
-
 
 ## Player characters who can equip **Princess Dress**
 

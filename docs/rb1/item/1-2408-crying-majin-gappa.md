@@ -25,13 +25,11 @@ title: "Crying Majin Gappa (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Weapon skill** | [Take this, nyu!](/neptunia/rb1/skill/1-2302-take-this-nyu.html) |
 | **To unlock in shop** | Method 1<br />- Have save in first playthrough<br />- View scene [Chapter 7: Legendary Get Together](/neptunia/rb1/scene/1-726-chapter-7-legendary-get-together.html) |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 1500 | 1696 | 0 | 1170 | 169 | 169 | 0 | 0 | 0 | 0 | 0 | 0 |
-
 
 ## Player characters who can equip **Crying Majin Gappa**
 

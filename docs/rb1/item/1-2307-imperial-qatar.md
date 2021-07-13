@@ -25,20 +25,17 @@ title: "Imperial Qatar (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **Weapon skill** | [Slash](/neptunia/rb1/skill/1-2102-slash.html) |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 1000 | 0 | 0 | 337 | 67 | 337 | 0 | 0 | 67 | 0 | 0 | 0 | 0 | 0 |
 
-
 ## Remake System plans which unlock **Imperial Qatar** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-366" class="trackbox" /> | 366 | [Base](/neptunia/rb1/dlc/1-base.html) | [Imperial Qatar](/neptunia/rb1/remake/1-366-imperial-qatar.html)<br /> → [Imperial Qatar](/neptunia/rb1/item/1-2307-imperial-qatar.html) (Qatar (IF)) |
-
+| <input type="checkbox" id="rb1-remake-1-366" class="trackbox" /> | 366 | [Base](/neptunia/rb1/dlc/1-base.html) | [Imperial Qatar](/neptunia/rb1/remake/1-366-imperial-qatar.html)<br />→ [Imperial Qatar](/neptunia/rb1/item/1-2307-imperial-qatar.html) (Qatar (IF)) |
 
 ## Player characters who can equip **Imperial Qatar**
 

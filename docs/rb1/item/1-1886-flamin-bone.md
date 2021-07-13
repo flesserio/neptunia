@@ -25,13 +25,11 @@ title: "Flamin' Bone (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 327 |
 | **Max inventory** | 99 |
 
-
 ## Monsters which drop **Flamin' Bone**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-1-205" class="trackbox" /> | 205 | [Base](/neptunia/rb1/dlc/1-base.html) | [Flame Skeleton](/neptunia/rb1/monster/1-205-flame-skeleton.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-1-205" class="trackbox" /> | 205 | [Base](/neptunia/rb1/dlc/1-base.html) | [Flame Skeleton](/neptunia/rb1/monster/1-205-flame-skeleton.html) | 45% |
 
 ## Dungeons **Flamin' Bone** is found
 
@@ -41,16 +39,14 @@ title: "Flamin' Bone (Item) - Hyperdimension Neptunia Re;Birth1"
 | <input type="checkbox" id="rb1-dungeon-1-19" class="trackbox" /> | 19 | [Base](/neptunia/rb1/dlc/1-base.html) | [Neo-Geofront Depths](/neptunia/rb1/dungeon/1-19-neo-geofront-depths.html) | Gathering point |
 | <input type="checkbox" id="rb1-dungeon-1-19" class="trackbox" /> | 19 | [Base](/neptunia/rb1/dlc/1-base.html) | [Neo-Geofront Depths](/neptunia/rb1/dungeon/1-19-neo-geofront-depths.html) | Monster drop |
 
-
 ## Quests which require gathering **Flamin' Bone**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
 | <input type="checkbox" id="rb1-quest-1-702" class="trackbox" /> | 702 | [Base](/neptunia/rb1/dlc/1-base.html) | [Marrow burns](/neptunia/rb1/quest/1-702-marrow-burns.html) |
 
-
 ## Remake System plans which require **Flamin' Bone**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-592" class="trackbox" /> | 592 | [Base](/neptunia/rb1/dlc/1-base.html) | [Scholar Set](/neptunia/rb1/quest/1-592-scholar-set.html) |
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-592" class="trackbox" /> | 592 | [Base](/neptunia/rb1/dlc/1-base.html) | [Scholar Set](/neptunia/rb1/remake/1-592-scholar-set.html)<br />→ [Scholar Set](/neptunia/rb1/item/1-3179-scholar-set.html) (Accessory) | 2 |

@@ -22,7 +22,6 @@ title: "Overlord's R. Arm (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 0 |
 | **Max inventory** | 99 |
 
-
 ## Quests which reward **Overlord's R. Arm**
 
 |    | ID | DLC | Name |

@@ -23,16 +23,14 @@ title: "Plan: Bastard Sword (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 0 |
 | **Max inventory** | 1 |
 
-
 ## Chirpers who give **Plan: Bastard Sword**
 
 |    | ID | DLC | Avatar | Message | Conditions |
 | -- | -- | --- | ------ | ------- | ---------- |
-| <input type="checkbox" id="rb1-chirper-event-1-5050" class="trackbox" /> | 5050 | [Base](/neptunia/rb1/dlc/1-base.html) | [Amamiya Lint](/neptunia/rb1/undefined/1-224-amamiya-lint.html) | This is a Plan for a new weapon.<br />This'll show you what you should be using. | View scene [Chapter 2: Eyeglasses](/neptunia/rb1/scene/1-215-chapter-2-eyeglasses.html)<br />Do not view scene [Chapter 3: Leanbox](/neptunia/rb1/scene/1-302-chapter-3-leanbox.html) |
-
+| <input type="checkbox" id="rb1-chirper-event-1-5050" class="trackbox" /> | 5050 | [Base](/neptunia/rb1/dlc/1-base.html) | [Amamiya Lint](/neptunia/rb1/avatar/1-224-amamiya-lint.html) | This is a Plan for a new weapon.<br />This'll show you what you should be using. | View scene [Chapter 2: Eyeglasses](/neptunia/rb1/scene/1-215-chapter-2-eyeglasses.html)<br />Do not view scene [Chapter 3: Leanbox](/neptunia/rb1/scene/1-302-chapter-3-leanbox.html) |
 
 ## Plans added to Remake System after collecting **Plan: Bastard Sword**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-352" class="trackbox" /> | 352 | [Base](/neptunia/rb1/dlc/1-base.html) | [Bastard Sword](/neptunia/rb1/remake/1-352-bastard-sword.html)<br /> → [Bastard Sword](/neptunia/rb1/item/1-2006-bastard-sword.html) (Broadsword (Neptune)) |
+| <input type="checkbox" id="rb1-remake-1-352" class="trackbox" /> | 352 | [Base](/neptunia/rb1/dlc/1-base.html) | [Bastard Sword](/neptunia/rb1/remake/1-352-bastard-sword.html)<br />→ [Bastard Sword](/neptunia/rb1/item/1-2006-bastard-sword.html) (Broadsword (Neptune)) |

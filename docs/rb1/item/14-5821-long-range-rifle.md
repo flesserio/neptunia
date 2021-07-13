@@ -24,13 +24,11 @@ title: "Long Range Rifle+? (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **Weapon skill** | [Snipe Shot](/neptunia/rb1/skill/1-1402-snipe-shot.html) |
 
-
 ## Colosseum quests which reward **Long Range Rifle+?**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
 | <input type="checkbox" id="rb1-colosseum-14-5016" class="trackbox" /> | 5016 | [Additional Content Pack 5](/neptunia/rb1/dlc/14-pack5.html) | [Tsundere Sister](/neptunia/rb1/colosseum/14-5016-tsundere-sister.html) |
-
 
 ## Player characters who can equip **Long Range Rifle+?**
 

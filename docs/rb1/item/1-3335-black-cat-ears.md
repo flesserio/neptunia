@@ -23,13 +23,11 @@ title: "Black Cat Ears (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 7500 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Black Cat Ears** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-694" class="trackbox" /> | 694 | [Base](/neptunia/rb1/dlc/1-base.html) | [Black Cat Ears](/neptunia/rb1/remake/1-694-black-cat-ears.html)<br /> → [Black Cat Ears](/neptunia/rb1/item/1-3335-black-cat-ears.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-694" class="trackbox" /> | 694 | [Base](/neptunia/rb1/dlc/1-base.html) | [Black Cat Ears](/neptunia/rb1/remake/1-694-black-cat-ears.html)<br />→ [Black Cat Ears](/neptunia/rb1/item/1-3335-black-cat-ears.html) (Accessory) |
 
 ## Player characters who can equip **Black Cat Ears**
 

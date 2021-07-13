@@ -23,13 +23,11 @@ title: "Halogen Lamp (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 2500 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Halogen Lamp** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-649" class="trackbox" /> | 649 | [Base](/neptunia/rb1/dlc/1-base.html) | [Halogen Lamp](/neptunia/rb1/remake/1-649-halogen-lamp.html)<br /> → [Halogen Lamp](/neptunia/rb1/item/1-3269-halogen-lamp.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-649" class="trackbox" /> | 649 | [Base](/neptunia/rb1/dlc/1-base.html) | [Halogen Lamp](/neptunia/rb1/remake/1-649-halogen-lamp.html)<br />→ [Halogen Lamp](/neptunia/rb1/item/1-3269-halogen-lamp.html) (Accessory) |
 
 ## Player characters who can equip **Halogen Lamp**
 

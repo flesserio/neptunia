@@ -23,13 +23,11 @@ title: "Heilung Rose (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 5000 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Heilung Rose** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-744" class="trackbox" /> | 744 | [Base](/neptunia/rb1/dlc/1-base.html) | [Heilung Rose](/neptunia/rb1/remake/1-744-heilung-rose.html)<br /> → [Heilung Rose](/neptunia/rb1/item/1-3408-heilung-rose.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-744" class="trackbox" /> | 744 | [Base](/neptunia/rb1/dlc/1-base.html) | [Heilung Rose](/neptunia/rb1/remake/1-744-heilung-rose.html)<br />→ [Heilung Rose](/neptunia/rb1/item/1-3408-heilung-rose.html) (Accessory) |
 
 ## Player characters who can equip **Heilung Rose**
 

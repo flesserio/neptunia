@@ -24,13 +24,11 @@ title: "Ninja Sword+4 (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **Weapon skill** | [Attack](/neptunia/rb1/skill/1-2601-attack.html) |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 120 | 0 | 0 | 880 | 0 | 1081 | 24 | 24 | 0 | 0 | 0 | 0 | 0 | 0 |
-
 
 ## Player characters who can equip **Ninja Sword+4**
 

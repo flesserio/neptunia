@@ -23,16 +23,14 @@ title: "Add Enemies: Haneda Forest (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 0 |
 | **Max inventory** | 1 |
 
-
 ## Chirpers who give **Add Enemies: Haneda Forest**
 
 |    | ID | DLC | Avatar | Message | Conditions |
 | -- | -- | --- | ------ | ------- | ---------- |
-| <input type="checkbox" id="rb1-chirper-event-12-5148" class="trackbox" /> | 5148 | [Additional Content Package 3](/neptunia/rb1/dlc/12-pack3.html) | [Gramp Monster](/neptunia/rb1/undefined/1-243-gramp-monster.html) | Here's a Plan to make a strong enemy appear.<br />Heh, heh! | Have remake [Add Dungeon](/neptunia/rb1/remake/12-226-add-dungeon.html) developed<br />View scene [Chapter 1: The Key Fragment](/neptunia/rb1/scene/1-117-chapter-1-the-key-fragment.html)<br />Do not view scene [Chapter 8: The True Arfoire](/neptunia/rb1/scene/1-807-chapter-8-the-true-arfoire.html) |
-
+| <input type="checkbox" id="rb1-chirper-event-12-5148" class="trackbox" /> | 5148 | [Additional Content Package 3](/neptunia/rb1/dlc/12-pack3.html) | [Gramp Monster](/neptunia/rb1/avatar/1-243-gramp-monster.html) | Here's a Plan to make a strong enemy appear.<br />Heh, heh! | Have remake [Add Dungeon](/neptunia/rb1/remake/12-226-add-dungeon.html) developed<br />View scene [Chapter 1: The Key Fragment](/neptunia/rb1/scene/1-117-chapter-1-the-key-fragment.html)<br />Do not view scene [Chapter 8: The True Arfoire](/neptunia/rb1/scene/1-807-chapter-8-the-true-arfoire.html) |
 
 ## Plans added to Remake System after collecting **Add Enemies: Haneda Forest**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-12-263" class="trackbox" /> | 263 | [Additional Content Package 3](/neptunia/rb1/dlc/12-pack3.html) | [Add Enemies](/neptunia/rb1/remake/12-263-add-enemies.html)<br /> → [Haneda Forest](/neptunia/rb1/dungeon/12-125-haneda-forest.html) (Dungeon) |
+| <input type="checkbox" id="rb1-remake-12-263" class="trackbox" /> | 263 | [Additional Content Package 3](/neptunia/rb1/dlc/12-pack3.html) | [Add Enemies](/neptunia/rb1/remake/12-263-add-enemies.html)<br />→ [Haneda Forest](/neptunia/rb1/dungeon/12-125-haneda-forest.html) (Dungeon) |

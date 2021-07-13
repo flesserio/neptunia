@@ -24,20 +24,17 @@ title: "Hibiscon (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 500 |
 | **Max inventory** | 99 |
 
-
 ## Monsters which drop **Hibiscon**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-1-105" class="trackbox" /> | 105 | [Base](/neptunia/rb1/dlc/1-base.html) | [Pixelvader](/neptunia/rb1/monster/1-105-pixelvader.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-1-105" class="trackbox" /> | 105 | [Base](/neptunia/rb1/dlc/1-base.html) | [Pixelvader](/neptunia/rb1/monster/1-105-pixelvader.html) | 15% |
 
 ## Dungeons **Hibiscon** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
 | <input type="checkbox" id="rb1-dungeon-1-2" class="trackbox" /> | 2 | [Base](/neptunia/rb1/dlc/1-base.html) | [Monster Cave](/neptunia/rb1/dungeon/1-2-monster-cave.html) | Monster drop |
-
 
 ## Player characters who can equip **Hibiscon**
 

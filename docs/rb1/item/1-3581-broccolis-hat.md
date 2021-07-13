@@ -23,13 +23,11 @@ title: "Broccoli's Hat (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 0 |
 | **Max inventory** | 1 |
 
-
 ## Player characters who have **Broccoli's Hat** equipped by default
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
 | <input type="checkbox" id="rb1-player-1-16" class="trackbox" /> | 16 | [Base](/neptunia/rb1/dlc/1-base.html) | [Broccoli](/neptunia/rb1/player/1-16-broccoli.html) |
-
 
 ## Player characters who can equip **Broccoli's Hat**
 

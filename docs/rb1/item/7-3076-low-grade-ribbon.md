@@ -24,16 +24,14 @@ title: "Low-Grade Ribbon (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **To unlock in shop** | Method 1<br />- View scene [Chapter 2: Histoire And Arfoire](/neptunia/rb1/scene/1-201-chapter-2-histoire-and-arfoire.html)<br />- View scene [DLC 7 Event 1](/neptunia/rb1/scene/7-5010-dlc-7-event-1.html) |
 
-
 ## Remake System plans which require **Low-Grade Ribbon**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-7-523" class="trackbox" /> | 523 | [[Plutia] Battle Entry License](/neptunia/rb1/dlc/7-plutia.html) | [Mai Waifu](/neptunia/rb1/quest/7-523-mai-waifu.html) |
-| <input type="checkbox" id="rb1-quest-7-524" class="trackbox" /> | 524 | [[Plutia] Battle Entry License](/neptunia/rb1/dlc/7-plutia.html) | [1st Place Ribbon](/neptunia/rb1/quest/7-524-1st-place-ribbon.html) |
-| <input type="checkbox" id="rb1-quest-7-525" class="trackbox" /> | 525 | [[Plutia] Battle Entry License](/neptunia/rb1/dlc/7-plutia.html) | [Good-Job Ribbon](/neptunia/rb1/quest/7-525-good-job-ribbon.html) |
-| <input type="checkbox" id="rb1-quest-7-526" class="trackbox" /> | 526 | [[Plutia] Battle Entry License](/neptunia/rb1/dlc/7-plutia.html) | [Protagonist Ribbon](/neptunia/rb1/quest/7-526-protagonist-ribbon.html) |
-
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-7-523" class="trackbox" /> | 523 | [[Plutia] Battle Entry License](/neptunia/rb1/dlc/7-plutia.html) | [Mai Waifu](/neptunia/rb1/remake/7-523-mai-waifu.html)<br />→ [Mai Waifu](/neptunia/rb1/item/7-3077-mai-waifu.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-7-524" class="trackbox" /> | 524 | [[Plutia] Battle Entry License](/neptunia/rb1/dlc/7-plutia.html) | [1st Place Ribbon](/neptunia/rb1/remake/7-524-1st-place-ribbon.html)<br />→ [1st Place Ribbon](/neptunia/rb1/item/7-3078-1st-place-ribbon.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-7-525" class="trackbox" /> | 525 | [[Plutia] Battle Entry License](/neptunia/rb1/dlc/7-plutia.html) | [Good-Job Ribbon](/neptunia/rb1/remake/7-525-good-job-ribbon.html)<br />→ [Good-Job Ribbon](/neptunia/rb1/item/7-3079-good-job-ribbon.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-7-526" class="trackbox" /> | 526 | [[Plutia] Battle Entry License](/neptunia/rb1/dlc/7-plutia.html) | [Protagonist Ribbon](/neptunia/rb1/remake/7-526-protagonist-ribbon.html)<br />→ [Protagonist Ribbon](/neptunia/rb1/item/7-3080-protagonist-ribbon.html) (Accessory) | 1 |
 
 ## Player characters who can equip **Low-Grade Ribbon**
 

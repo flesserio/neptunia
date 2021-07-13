@@ -22,12 +22,11 @@ title: "Special Gauges (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 10 |
 | **Max inventory** | 99 |
 | **Idea Chip level** | 3 |
-| **Idea Chip ability** | [Magic Defense + Lv.3](/neptunia/rb1/avatar/1-9623-magic-defense-lv-3.html)<br />Increases Mag. Defense by 20% |
-
+| **Idea Chip ability** | [Magic Defense + Lv.3](/neptunia/rb1/ability/1-9623-magic-defense-lv-3.html)<br />Increases Mag. Defense by 20% |
 
 ## Dungeons **Special Gauges** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
-| <input type="checkbox" id="rb1-dungeon-1-106" class="trackbox" /> | 106 | [Base](/neptunia/rb1/dlc/1-base.html) | [Gravidaze Ruins](/neptunia/rb1/dungeon/1-106-gravidaze-ruins.html) | Gathering point |
-| <input type="checkbox" id="rb1-dungeon-1-109" class="trackbox" /> | 109 | [Base](/neptunia/rb1/dlc/1-base.html) | [Duty Space](/neptunia/rb1/dungeon/1-109-duty-space.html) | Gathering point |
+| <input type="checkbox" id="rb1-dungeon-1-106" class="trackbox" /> | 106 | [Base](/neptunia/rb1/dlc/1-base.html) | [Gravidaze Ruins](/neptunia/rb1/dungeon/1-106-gravidaze-ruins.html) | Hidden treasure |
+| <input type="checkbox" id="rb1-dungeon-1-109" class="trackbox" /> | 109 | [Base](/neptunia/rb1/dlc/1-base.html) | [Duty Space](/neptunia/rb1/dungeon/1-109-duty-space.html) | Gathering point (Harvest Shift) |

@@ -23,15 +23,13 @@ title: "Killer Aim (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 10 |
 | **Max inventory** | 99 |
 | **Idea Chip level** | 3 |
-| **Idea Chip ability** | [Gradual SP Recovery Lv.3](/neptunia/rb1/avatar/1-9654-gradual-sp-recovery-lv-3.html)<br />Increases SP Recovery Per Turn by 5% |
-
+| **Idea Chip ability** | [Gradual SP Recovery Lv.3](/neptunia/rb1/ability/1-9654-gradual-sp-recovery-lv-3.html)<br />Increases SP Recovery Per Turn by 5% |
 
 ## Dungeons **Killer Aim** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
-| <input type="checkbox" id="rb1-dungeon-1-3" class="trackbox" /> | 3 | [Base](/neptunia/rb1/dlc/1-base.html) | [West Wind Valley](/neptunia/rb1/dungeon/1-3-west-wind-valley.html) | Gathering point |
-
+| <input type="checkbox" id="rb1-dungeon-1-3" class="trackbox" /> | 3 | [Base](/neptunia/rb1/dlc/1-base.html) | [West Wind Valley](/neptunia/rb1/dungeon/1-3-west-wind-valley.html) | Treasure |
 
 ## Colosseum quests which reward **Killer Aim**
 

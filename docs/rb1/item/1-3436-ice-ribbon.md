@@ -24,26 +24,23 @@ title: "Ice Ribbon (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 2500 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Ice Ribbon** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-759" class="trackbox" /> | 759 | [Base](/neptunia/rb1/dlc/1-base.html) | [Ice Ribbon](/neptunia/rb1/remake/1-759-ice-ribbon.html)<br /> → [Ice Ribbon](/neptunia/rb1/item/1-3436-ice-ribbon.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-759" class="trackbox" /> | 759 | [Base](/neptunia/rb1/dlc/1-base.html) | [Ice Ribbon](/neptunia/rb1/remake/1-759-ice-ribbon.html)<br />→ [Ice Ribbon](/neptunia/rb1/item/1-3436-ice-ribbon.html) (Accessory) |
 
 ## Remake System plans which require **Ice Ribbon**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-25" class="trackbox" /> | 25 | [Base](/neptunia/rb1/dlc/1-base.html) | [Add Colosseum Fight](/neptunia/rb1/quest/1-25-add-colosseum-fight.html) |
-| <input type="checkbox" id="rb1-quest-1-760" class="trackbox" /> | 760 | [Base](/neptunia/rb1/dlc/1-base.html) | [Violet Ribbon](/neptunia/rb1/quest/1-760-violet-ribbon.html) |
-| <input type="checkbox" id="rb1-quest-1-761" class="trackbox" /> | 761 | [Base](/neptunia/rb1/dlc/1-base.html) | [Black Ribbon](/neptunia/rb1/quest/1-761-black-ribbon.html) |
-| <input type="checkbox" id="rb1-quest-1-762" class="trackbox" /> | 762 | [Base](/neptunia/rb1/dlc/1-base.html) | [Lime Ribbon](/neptunia/rb1/quest/1-762-lime-ribbon.html) |
-| <input type="checkbox" id="rb1-quest-14-30" class="trackbox" /> | 30 | [Additional Content Pack 5](/neptunia/rb1/dlc/14-pack5.html) | [Add character-specific quests](/neptunia/rb1/quest/14-30-add-character-specific-quests.html) |
-| <input type="checkbox" id="rb1-quest-17-31" class="trackbox" /> | 31 | [Additional Content Pack 8](/neptunia/rb1/dlc/17-pack8.html) | [Add character-specific quests2](/neptunia/rb1/quest/17-31-add-character-specific-quests2.html) |
-| <input type="checkbox" id="rb1-quest-23-32" class="trackbox" /> | 32 | [Additional Content Pack 14](/neptunia/rb1/dlc/23-pack14.html) | [Add character-specific quests3](/neptunia/rb1/quest/23-32-add-character-specific-quests3.html) |
-
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-25" class="trackbox" /> | 25 | [Base](/neptunia/rb1/dlc/1-base.html) | [Add Colosseum Fight](/neptunia/rb1/remake/1-25-add-colosseum-fight.html)<br />→ [Phantom of Time](/neptunia/rb1/colosseum/1-2031-phantom-of-time.html) (Colosseum)<br />→ [Ruler of the End](/neptunia/rb1/colosseum/1-2032-ruler-of-the-end.html) (Colosseum) | 1 |
+| <input type="checkbox" id="rb1-remake-1-760" class="trackbox" /> | 760 | [Base](/neptunia/rb1/dlc/1-base.html) | [Violet Ribbon](/neptunia/rb1/remake/1-760-violet-ribbon.html)<br />→ [Violet Ribbon](/neptunia/rb1/item/1-3437-violet-ribbon.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-1-761" class="trackbox" /> | 761 | [Base](/neptunia/rb1/dlc/1-base.html) | [Black Ribbon](/neptunia/rb1/remake/1-761-black-ribbon.html)<br />→ [Black Ribbon](/neptunia/rb1/item/1-3438-black-ribbon.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-1-762" class="trackbox" /> | 762 | [Base](/neptunia/rb1/dlc/1-base.html) | [Lime Ribbon](/neptunia/rb1/remake/1-762-lime-ribbon.html)<br />→ [Lime Ribbon](/neptunia/rb1/item/1-3439-lime-ribbon.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-14-30" class="trackbox" /> | 30 | [Additional Content Pack 5](/neptunia/rb1/dlc/14-pack5.html) | [Add character-specific quests](/neptunia/rb1/remake/14-30-add-character-specific-quests.html)<br />→ [Phantom of Time](/neptunia/rb1/colosseum/1-2031-phantom-of-time.html) (Colosseum)<br />→ [Ruler of the End](/neptunia/rb1/colosseum/1-2032-ruler-of-the-end.html) (Colosseum) | 1 |
+| <input type="checkbox" id="rb1-remake-17-31" class="trackbox" /> | 31 | [Additional Content Pack 8](/neptunia/rb1/dlc/17-pack8.html) | [Add character-specific quests2](/neptunia/rb1/remake/17-31-add-character-specific-quests2.html)<br />→ [Phantom of Time](/neptunia/rb1/colosseum/1-2031-phantom-of-time.html) (Colosseum)<br />→ [Ruler of the End](/neptunia/rb1/colosseum/1-2032-ruler-of-the-end.html) (Colosseum) | 1 |
+| <input type="checkbox" id="rb1-remake-23-32" class="trackbox" /> | 32 | [Additional Content Pack 14](/neptunia/rb1/dlc/23-pack14.html) | [Add character-specific quests3](/neptunia/rb1/remake/23-32-add-character-specific-quests3.html)<br />→ [Phantom of Time](/neptunia/rb1/colosseum/1-2031-phantom-of-time.html) (Colosseum)<br />→ [Ruler of the End](/neptunia/rb1/colosseum/1-2032-ruler-of-the-end.html) (Colosseum) | 1 |
 
 ## Player characters who can equip **Ice Ribbon**
 

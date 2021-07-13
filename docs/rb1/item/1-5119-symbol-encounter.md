@@ -22,13 +22,12 @@ title: "Symbol Encounter (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 10 |
 | **Max inventory** | 99 |
 | **Idea Chip level** | 3 |
-| **Idea Chip ability** | [Physical Defense + Lv.3](/neptunia/rb1/avatar/1-9618-physical-defense-lv-3.html)<br />Increases Phys. Defense by 20% |
-
+| **Idea Chip ability** | [Physical Defense + Lv.3](/neptunia/rb1/ability/1-9618-physical-defense-lv-3.html)<br />Increases Phys. Defense by 20% |
 
 ## Dungeons **Symbol Encounter** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
-| <input type="checkbox" id="rb1-dungeon-1-9" class="trackbox" /> | 9 | [Base](/neptunia/rb1/dlc/1-base.html) | [Marubaco Forest](/neptunia/rb1/dungeon/1-9-marubaco-forest.html) | Gathering point |
-| <input type="checkbox" id="rb1-dungeon-1-12" class="trackbox" /> | 12 | [Base](/neptunia/rb1/dlc/1-base.html) | [Lowee Snowfield](/neptunia/rb1/dungeon/1-12-lowee-snowfield.html) | Gathering point |
-| <input type="checkbox" id="rb1-dungeon-1-109" class="trackbox" /> | 109 | [Base](/neptunia/rb1/dlc/1-base.html) | [Duty Space](/neptunia/rb1/dungeon/1-109-duty-space.html) | Gathering point |
+| <input type="checkbox" id="rb1-dungeon-1-9" class="trackbox" /> | 9 | [Base](/neptunia/rb1/dlc/1-base.html) | [Marubaco Forest](/neptunia/rb1/dungeon/1-9-marubaco-forest.html) | Gathering point (Harvest Shift) |
+| <input type="checkbox" id="rb1-dungeon-1-12" class="trackbox" /> | 12 | [Base](/neptunia/rb1/dlc/1-base.html) | [Lowee Snowfield](/neptunia/rb1/dungeon/1-12-lowee-snowfield.html) | Gathering point (Harvest Shift) |
+| <input type="checkbox" id="rb1-dungeon-1-109" class="trackbox" /> | 109 | [Base](/neptunia/rb1/dlc/1-base.html) | [Duty Space](/neptunia/rb1/dungeon/1-109-duty-space.html) | Gathering point (Harvest Shift) |

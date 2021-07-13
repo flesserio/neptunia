@@ -23,19 +23,17 @@ title: "Launch (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 10 |
 | **Max inventory** | 99 |
 | **Idea Chip level** | 5 |
-| **Idea Chip ability** | [Drop Rate Up Lv.5](/neptunia/rb1/avatar/1-9631-drop-rate-up-lv-5.html)<br />Increases Drop Rate by 25% |
-
+| **Idea Chip ability** | [Drop Rate Up Lv.5](/neptunia/rb1/ability/1-9631-drop-rate-up-lv-5.html)<br />Increases Drop Rate by 25% |
 
 ## Monsters which drop **Launch**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-1-244" class="trackbox" /> | 244 | [Base](/neptunia/rb1/dlc/1-base.html) | [Hyperdimension Dogoo](/neptunia/rb1/monster/1-244-hyperdimension-dogoo.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-1-244" class="trackbox" /> | 244 | [Base](/neptunia/rb1/dlc/1-base.html) | [Hyperdimension Dogoo](/neptunia/rb1/monster/1-244-hyperdimension-dogoo.html) | 65% |
 
 ## Dungeons **Launch** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
-| <input type="checkbox" id="rb1-dungeon-1-123" class="trackbox" /> | 123 | [Base](/neptunia/rb1/dlc/1-base.html) | [Graphic Pass](/neptunia/rb1/dungeon/1-123-graphic-pass.html) | Gathering point |
 | <input type="checkbox" id="rb1-dungeon-1-25" class="trackbox" /> | 25 | [Base](/neptunia/rb1/dlc/1-base.html) | [Road to Celestia](/neptunia/rb1/dungeon/1-25-road-to-celestia.html) | Monster drop |
+| <input type="checkbox" id="rb1-dungeon-1-123" class="trackbox" /> | 123 | [Base](/neptunia/rb1/dlc/1-base.html) | [Graphic Pass](/neptunia/rb1/dungeon/1-123-graphic-pass.html) | Gathering point (Harvest Shift) |

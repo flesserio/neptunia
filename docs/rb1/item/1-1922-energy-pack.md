@@ -24,13 +24,11 @@ title: "Energy Pack (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 2929 |
 | **Max inventory** | 99 |
 
-
 ## Monsters which drop **Energy Pack**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-1-336" class="trackbox" /> | 336 | [Base](/neptunia/rb1/dlc/1-base.html) | [Nemesis](/neptunia/rb1/monster/1-336-nemesis.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-1-336" class="trackbox" /> | 336 | [Base](/neptunia/rb1/dlc/1-base.html) | [Nemesis](/neptunia/rb1/monster/1-336-nemesis.html) | 75% |
 
 ## Dungeons **Energy Pack** is found
 
@@ -38,9 +36,8 @@ title: "Energy Pack (Item) - Hyperdimension Neptunia Re;Birth1"
 | -- | -- | --- | ---- | ---- |
 | <input type="checkbox" id="rb1-dungeon-1-114" class="trackbox" /> | 114 | [Base](/neptunia/rb1/dlc/1-base.html) | [Kinest Range](/neptunia/rb1/dungeon/1-114-kinest-range.html) | Monster drop |
 
-
 ## Remake System plans which require **Energy Pack**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-10-268" class="trackbox" /> | 268 | [Additional Content Package 1](/neptunia/rb1/dlc/10-pack1.html) | [Add Super Enemies](/neptunia/rb1/quest/10-268-add-super-enemies.html) |
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-10-268" class="trackbox" /> | 268 | [Additional Content Package 1](/neptunia/rb1/dlc/10-pack1.html) | [Add Super Enemies](/neptunia/rb1/remake/10-268-add-super-enemies.html)<br />→ [Kinest Range](/neptunia/rb1/dungeon/1-114-kinest-range.html) (Dungeon) | 1 |

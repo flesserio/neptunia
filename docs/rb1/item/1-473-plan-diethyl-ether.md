@@ -23,16 +23,14 @@ title: "Plan: Diethyl Ether (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 0 |
 | **Max inventory** | 1 |
 
-
 ## Plans added to Remake System after collecting **Plan: Diethyl Ether**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-362" class="trackbox" /> | 362 | [Base](/neptunia/rb1/dlc/1-base.html) | [Diethyl Ether](/neptunia/rb1/remake/1-362-diethyl-ether.html)<br /> → [Diethyl Ether](/neptunia/rb1/item/1-2340-diethyl-ether.html) (Syringe (Compa)) |
-
+| <input type="checkbox" id="rb1-remake-1-362" class="trackbox" /> | 362 | [Base](/neptunia/rb1/dlc/1-base.html) | [Diethyl Ether](/neptunia/rb1/remake/1-362-diethyl-ether.html)<br />→ [Diethyl Ether](/neptunia/rb1/item/1-2340-diethyl-ether.html) (Syringe (Compa)) |
 
 ## Dungeons **Plan: Diethyl Ether** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
-| <input type="checkbox" id="rb1-dungeon-1-121" class="trackbox" /> | 121 | [Base](/neptunia/rb1/dlc/1-base.html) | [Dees Snow Forest](/neptunia/rb1/dungeon/1-121-dees-snow-forest.html) | Gathering point |
+| <input type="checkbox" id="rb1-dungeon-1-121" class="trackbox" /> | 121 | [Base](/neptunia/rb1/dlc/1-base.html) | [Dees Snow Forest](/neptunia/rb1/dungeon/1-121-dees-snow-forest.html) | Treasure |

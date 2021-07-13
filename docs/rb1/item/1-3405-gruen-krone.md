@@ -23,13 +23,11 @@ title: "Gruen Krone (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 2500 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Gruen Krone** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-742" class="trackbox" /> | 742 | [Base](/neptunia/rb1/dlc/1-base.html) | [Gruen Krone](/neptunia/rb1/remake/1-742-gruen-krone.html)<br /> → [Gruen Krone](/neptunia/rb1/item/1-3405-gruen-krone.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-742" class="trackbox" /> | 742 | [Base](/neptunia/rb1/dlc/1-base.html) | [Gruen Krone](/neptunia/rb1/remake/1-742-gruen-krone.html)<br />→ [Gruen Krone](/neptunia/rb1/item/1-3405-gruen-krone.html) (Accessory) |
 
 ## Player characters who can equip **Gruen Krone**
 

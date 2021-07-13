@@ -23,13 +23,11 @@ title: "Maid Hairband (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 5000 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Maid Hairband** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-552" class="trackbox" /> | 552 | [Base](/neptunia/rb1/dlc/1-base.html) | [Maid Hairband](/neptunia/rb1/remake/1-552-maid-hairband.html)<br /> → [Maid Hairband](/neptunia/rb1/item/1-3119-maid-hairband.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-552" class="trackbox" /> | 552 | [Base](/neptunia/rb1/dlc/1-base.html) | [Maid Hairband](/neptunia/rb1/remake/1-552-maid-hairband.html)<br />→ [Maid Hairband](/neptunia/rb1/item/1-3119-maid-hairband.html) (Accessory) |
 
 ## Player characters who can equip **Maid Hairband**
 

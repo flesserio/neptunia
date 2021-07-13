@@ -22,12 +22,11 @@ title: "All-star (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 10 |
 | **Max inventory** | 99 |
 | **Idea Chip level** | 5 |
-| **Idea Chip ability** | [Plant Defense Lv.5](/neptunia/rb1/avatar/1-9575-plant-defense-lv-5.html)<br />Increases Plant Defense by 30% |
-
+| **Idea Chip ability** | [Plant Defense Lv.5](/neptunia/rb1/ability/1-9575-plant-defense-lv-5.html)<br />Increases Plant Defense by 30% |
 
 ## Dungeons **All-star** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
-| <input type="checkbox" id="rb1-dungeon-1-118" class="trackbox" /> | 118 | [Base](/neptunia/rb1/dlc/1-base.html) | [Uwii Ruins](/neptunia/rb1/dungeon/1-118-uwii-ruins.html) | Gathering point |
-| <input type="checkbox" id="rb1-dungeon-12-125" class="trackbox" /> | 125 | [Additional Content Package 3](/neptunia/rb1/dlc/12-pack3.html) | [Haneda Forest](/neptunia/rb1/dungeon/12-125-haneda-forest.html) | Gathering point |
+| <input type="checkbox" id="rb1-dungeon-1-118" class="trackbox" /> | 118 | [Base](/neptunia/rb1/dlc/1-base.html) | [Uwii Ruins](/neptunia/rb1/dungeon/1-118-uwii-ruins.html) | Gathering point (Harvest Shift) |
+| <input type="checkbox" id="rb1-dungeon-12-125" class="trackbox" /> | 125 | [Additional Content Package 3](/neptunia/rb1/dlc/12-pack3.html) | [Haneda Forest](/neptunia/rb1/dungeon/12-125-haneda-forest.html) | Hidden treasure |

@@ -23,16 +23,14 @@ title: "Change Items: Millenium Labryinth (Item) - Hyperdimension Neptunia Re;Bi
 | **Sell Price** | 0 |
 | **Max inventory** | 1 |
 
-
 ## Chirpers who give **Change Items: Millenium Labryinth**
 
 |    | ID | DLC | Avatar | Message | Conditions |
 | -- | -- | --- | ------ | ------- | ---------- |
-| <input type="checkbox" id="rb1-chirper-event-1-5082" class="trackbox" /> | 5082 | [Base](/neptunia/rb1/dlc/1-base.html) | [Cat](/neptunia/rb1/undefined/1-226-cat.html) | It's a Plan to change the items you can get in a dungeon, nya.<br />Find out what you get with this, nya. | Have remake [Add Dungeon](/neptunia/rb1/remake/1-218-add-dungeon.html) developed<br />View scene [Chapter 5: Reunion](/neptunia/rb1/scene/1-503-chapter-5-reunion.html)<br />Do not view scene [Chapter 7: Not Quite What I Imagined...](/neptunia/rb1/scene/1-701-chapter-7-not-quite-what-i-imagined.html) |
-
+| <input type="checkbox" id="rb1-chirper-event-1-5082" class="trackbox" /> | 5082 | [Base](/neptunia/rb1/dlc/1-base.html) | [Cat](/neptunia/rb1/avatar/1-226-cat.html) | It's a Plan to change the items you can get in a dungeon, nya.<br />Find out what you get with this, nya. | Have remake [Add Dungeon](/neptunia/rb1/remake/1-218-add-dungeon.html) developed<br />View scene [Chapter 5: Reunion](/neptunia/rb1/scene/1-503-chapter-5-reunion.html)<br />Do not view scene [Chapter 7: Not Quite What I Imagined...](/neptunia/rb1/scene/1-701-chapter-7-not-quite-what-i-imagined.html) |
 
 ## Plans added to Remake System after collecting **Change Items: Millenium Labryinth**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-304" class="trackbox" /> | 304 | [Base](/neptunia/rb1/dlc/1-base.html) | [Item Change](/neptunia/rb1/remake/1-304-item-change.html)<br /> → [Millenium Labryinth](/neptunia/rb1/dungeon/1-113-millenium-labryinth.html) (Dungeon) |
+| <input type="checkbox" id="rb1-remake-1-304" class="trackbox" /> | 304 | [Base](/neptunia/rb1/dlc/1-base.html) | [Item Change](/neptunia/rb1/remake/1-304-item-change.html)<br />→ [Millenium Labryinth](/neptunia/rb1/dungeon/1-113-millenium-labryinth.html) (Dungeon) |

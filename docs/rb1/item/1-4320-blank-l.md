@@ -23,7 +23,6 @@ title: "&lt;BLANK&gt; L (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **To unlock in shop** | Method 1<br />- Have Rom & Ram unlocked. |
 
-
 ## Player characters who can equip **&lt;BLANK&gt; L**
 
 |    | ID | DLC | Name |

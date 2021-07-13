@@ -24,13 +24,11 @@ title: "Feather Hammer+6 (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **Weapon skill** | [L Attack](/neptunia/rb1/skill/1-602-l-attack.html) |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 1200 | 0 | 660 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-
 
 ## Player characters who can equip **Feather Hammer+6**
 

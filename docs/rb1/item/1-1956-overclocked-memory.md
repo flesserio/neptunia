@@ -24,23 +24,20 @@ title: "Overclocked Memory (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 10000 |
 | **Max inventory** | 99 |
 
-
 ## Monsters which drop **Overclocked Memory**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-1-1038" class="trackbox" /> | 1038 | [Base](/neptunia/rb1/dlc/1-base.html) | [Fake White Heart](/neptunia/rb1/monster/1-1038-fake-white-heart.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-1-1038" class="trackbox" /> | 1038 | [Base](/neptunia/rb1/dlc/1-base.html) | [Fake White Heart](/neptunia/rb1/monster/1-1038-fake-white-heart.html) | 100% |
 
 ## Dungeons **Overclocked Memory** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
-| <input type="checkbox" id="rb1-dungeon-1-128" class="trackbox" /> | 128 | [Base](/neptunia/rb1/dlc/1-base.html) | [Naasne Volcano Depths](/neptunia/rb1/dungeon/1-128-naasne-volcano-depths.html) | Gathering point |
-
+| <input type="checkbox" id="rb1-dungeon-1-128" class="trackbox" /> | 128 | [Base](/neptunia/rb1/dlc/1-base.html) | [Naasne Volcano Depths](/neptunia/rb1/dungeon/1-128-naasne-volcano-depths.html) | Hidden treasure |
 
 ## Remake System plans which require **Overclocked Memory**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-5" class="trackbox" /> | 5 | [Base](/neptunia/rb1/dlc/1-base.html) | [Break Damage Limit](/neptunia/rb1/quest/1-5-break-damage-limit.html) |
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-5" class="trackbox" /> | 5 | [Base](/neptunia/rb1/dlc/1-base.html) | [Break Damage Limit](/neptunia/rb1/remake/1-5-break-damage-limit.html) | 1 |

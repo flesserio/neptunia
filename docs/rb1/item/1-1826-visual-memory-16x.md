@@ -24,13 +24,11 @@ title: "Visual Memory 16X (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 1323 |
 | **Max inventory** | 99 |
 
-
 ## Monsters which drop **Visual Memory 16X**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-1-292" class="trackbox" /> | 292 | [Base](/neptunia/rb1/dlc/1-base.html) | [Belgarion](/neptunia/rb1/monster/1-292-belgarion.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-1-292" class="trackbox" /> | 292 | [Base](/neptunia/rb1/dlc/1-base.html) | [Belgarion](/neptunia/rb1/monster/1-292-belgarion.html) | 100% |
 
 ## Dungeons **Visual Memory 16X** is found
 
@@ -38,9 +36,8 @@ title: "Visual Memory 16X (Item) - Hyperdimension Neptunia Re;Birth1"
 | -- | -- | --- | ---- | ---- |
 | <input type="checkbox" id="rb1-dungeon-1-107" class="trackbox" /> | 107 | [Base](/neptunia/rb1/dlc/1-base.html) | [Gunbreak Underground Cavern](/neptunia/rb1/dungeon/1-107-gunbreak-underground-cavern.html) | Monster drop |
 
-
 ## Remake System plans which require **Visual Memory 16X**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-411" class="trackbox" /> | 411 | [Base](/neptunia/rb1/dlc/1-base.html) | [Millennium Memory](/neptunia/rb1/quest/1-411-millennium-memory.html) |
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-411" class="trackbox" /> | 411 | [Base](/neptunia/rb1/dlc/1-base.html) | [Millennium Memory](/neptunia/rb1/remake/1-411-millennium-memory.html)<br />→ [Millennium Memory](/neptunia/rb1/item/1-2737-millennium-memory.html) (Ornament) | 1 |

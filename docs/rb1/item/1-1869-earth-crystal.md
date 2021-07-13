@@ -25,14 +25,12 @@ title: "Earth Crystal (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 72 |
 | **Max inventory** | 99 |
 
-
 ## Monsters which drop **Earth Crystal**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-1-269" class="trackbox" /> | 269 | [Base](/neptunia/rb1/dlc/1-base.html) | [Earth Golem](/neptunia/rb1/monster/1-269-earth-golem.html) |
-| <input type="checkbox" id="rb1-monster-1-270" class="trackbox" /> | 270 | [Base](/neptunia/rb1/dlc/1-base.html) | [Viral Earth Golem](/neptunia/rb1/monster/1-270-viral-earth-golem.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-1-269" class="trackbox" /> | 269 | [Base](/neptunia/rb1/dlc/1-base.html) | [Earth Golem](/neptunia/rb1/monster/1-269-earth-golem.html) | 40% |
+| <input type="checkbox" id="rb1-monster-1-270" class="trackbox" /> | 270 | [Base](/neptunia/rb1/dlc/1-base.html) | [Viral Earth Golem](/neptunia/rb1/monster/1-270-viral-earth-golem.html) | 80% |
 
 ## Dungeons **Earth Crystal** is found
 
@@ -41,17 +39,15 @@ title: "Earth Crystal (Item) - Hyperdimension Neptunia Re;Birth1"
 | <input type="checkbox" id="rb1-dungeon-1-104" class="trackbox" /> | 104 | [Base](/neptunia/rb1/dlc/1-base.html) | [Toh-Kiden Cave](/neptunia/rb1/dungeon/1-104-toh-kiden-cave.html) | Gathering point |
 | <input type="checkbox" id="rb1-dungeon-1-104" class="trackbox" /> | 104 | [Base](/neptunia/rb1/dlc/1-base.html) | [Toh-Kiden Cave](/neptunia/rb1/dungeon/1-104-toh-kiden-cave.html) | Monster drop |
 
-
 ## Quests which require gathering **Earth Crystal**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
 | <input type="checkbox" id="rb1-quest-1-217" class="trackbox" /> | 217 | [Base](/neptunia/rb1/dlc/1-base.html) | [A visitor from the demon world](/neptunia/rb1/quest/1-217-a-visitor-from-the-demon-world.html) |
 
-
 ## Remake System plans which require **Earth Crystal**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-213" class="trackbox" /> | 213 | [Base](/neptunia/rb1/dlc/1-base.html) | [Add Dungeon](/neptunia/rb1/quest/1-213-add-dungeon.html) |
-| <input type="checkbox" id="rb1-quest-1-344" class="trackbox" /> | 344 | [Base](/neptunia/rb1/dlc/1-base.html) | [STR Booster](/neptunia/rb1/quest/1-344-str-booster.html) |
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-213" class="trackbox" /> | 213 | [Base](/neptunia/rb1/dlc/1-base.html) | [Add Dungeon](/neptunia/rb1/remake/1-213-add-dungeon.html)<br />→ [Gravidaze Ruins](/neptunia/rb1/dungeon/1-106-gravidaze-ruins.html) (Dungeon) | 2 |
+| <input type="checkbox" id="rb1-remake-1-344" class="trackbox" /> | 344 | [Base](/neptunia/rb1/dlc/1-base.html) | [STR Booster](/neptunia/rb1/remake/1-344-str-booster.html)<br />→ [STR Booster](/neptunia/rb1/item/1-37-str-booster.html) (Tool) | 5 |

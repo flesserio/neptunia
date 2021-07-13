@@ -24,13 +24,11 @@ title: "Light Staff+2 (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **Weapon skill** | [Shine](/neptunia/rb1/skill/14-3501-shine.html) |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 60 | 0 | 360 | 240 | 0 | 366 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-
 
 ## Player characters who can equip **Light Staff+2**
 

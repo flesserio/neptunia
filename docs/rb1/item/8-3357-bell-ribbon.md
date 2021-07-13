@@ -24,14 +24,12 @@ title: "Bell Ribbon (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **To unlock in shop** | Method 1<br />- View scene [Chapter 2: Histoire And Arfoire](/neptunia/rb1/scene/1-201-chapter-2-histoire-and-arfoire.html)<br />- View scene [DLC 8 Event 1](/neptunia/rb1/scene/8-5020-dlc-8-event-1.html) |
 
-
 ## Remake System plans which require **Bell Ribbon**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-8-709" class="trackbox" /> | 709 | [[Peashy] Battle Entry License](/neptunia/rb1/dlc/8-peashy.html) | [Stripe Ribbon](/neptunia/rb1/quest/8-709-stripe-ribbon.html) |
-| <input type="checkbox" id="rb1-quest-8-710" class="trackbox" /> | 710 | [[Peashy] Battle Entry License](/neptunia/rb1/dlc/8-peashy.html) | [Polka Dot Ribbon](/neptunia/rb1/quest/8-710-polka-dot-ribbon.html) |
-
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-8-709" class="trackbox" /> | 709 | [[Peashy] Battle Entry License](/neptunia/rb1/dlc/8-peashy.html) | [Stripe Ribbon](/neptunia/rb1/remake/8-709-stripe-ribbon.html)<br />→ [Stripe Ribbon](/neptunia/rb1/item/8-3358-stripe-ribbon.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-8-710" class="trackbox" /> | 710 | [[Peashy] Battle Entry License](/neptunia/rb1/dlc/8-peashy.html) | [Polka Dot Ribbon](/neptunia/rb1/remake/8-710-polka-dot-ribbon.html)<br />→ [Polka Dot Ribbon](/neptunia/rb1/item/8-3359-polka-dot-ribbon.html) (Accessory) | 1 |
 
 ## Player characters who can equip **Bell Ribbon**
 

@@ -23,13 +23,11 @@ title: "Black Beret (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 1500 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Black Beret** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-688" class="trackbox" /> | 688 | [Base](/neptunia/rb1/dlc/1-base.html) | [Black Beret](/neptunia/rb1/remake/1-688-black-beret.html)<br /> → [Black Beret](/neptunia/rb1/item/1-3324-black-beret.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-688" class="trackbox" /> | 688 | [Base](/neptunia/rb1/dlc/1-base.html) | [Black Beret](/neptunia/rb1/remake/1-688-black-beret.html)<br />→ [Black Beret](/neptunia/rb1/item/1-3324-black-beret.html) (Accessory) |
 
 ## Player characters who can equip **Black Beret**
 

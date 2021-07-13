@@ -23,13 +23,11 @@ title: "Gothic Maid (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 75000 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Gothic Maid** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-442" class="trackbox" /> | 442 | [Base](/neptunia/rb1/dlc/1-base.html) | [Gothic Maid](/neptunia/rb1/remake/1-442-gothic-maid.html)<br /> → [Gothic Maid](/neptunia/rb1/item/1-2894-gothic-maid.html) (Clothing) |
-
+| <input type="checkbox" id="rb1-remake-1-442" class="trackbox" /> | 442 | [Base](/neptunia/rb1/dlc/1-base.html) | [Gothic Maid](/neptunia/rb1/remake/1-442-gothic-maid.html)<br />→ [Gothic Maid](/neptunia/rb1/item/1-2894-gothic-maid.html) (Clothing) |
 
 ## Player characters who can equip **Gothic Maid**
 

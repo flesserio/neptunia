@@ -23,13 +23,11 @@ title: "Asuka Headset (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 500 |
 | **Max inventory** | 99 |
 
-
 ## Quests which reward **Asuka Headset**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
 | <input type="checkbox" id="rb1-quest-1-612" class="trackbox" /> | 612 | [Base](/neptunia/rb1/dlc/1-base.html) | [What's in clay pipes?](/neptunia/rb1/quest/1-612-whats-in-clay-pipes.html) |
-
 
 ## Player characters who can equip **Asuka Headset**
 

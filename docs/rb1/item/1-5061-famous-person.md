@@ -22,12 +22,11 @@ title: "Famous Person (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 10 |
 | **Max inventory** | 99 |
 | **Idea Chip level** | 5 |
-| **Idea Chip ability** | [Dragon Defense Lv.5](/neptunia/rb1/avatar/1-9560-dragon-defense-lv-5.html)<br />Increases Dragon Defense by 30% |
-
+| **Idea Chip ability** | [Dragon Defense Lv.5](/neptunia/rb1/ability/1-9560-dragon-defense-lv-5.html)<br />Increases Dragon Defense by 30% |
 
 ## Dungeons **Famous Person** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
-| <input type="checkbox" id="rb1-dungeon-1-113" class="trackbox" /> | 113 | [Base](/neptunia/rb1/dlc/1-base.html) | [Millenium Labryinth](/neptunia/rb1/dungeon/1-113-millenium-labryinth.html) | Gathering point |
-| <input type="checkbox" id="rb1-dungeon-1-123" class="trackbox" /> | 123 | [Base](/neptunia/rb1/dlc/1-base.html) | [Graphic Pass](/neptunia/rb1/dungeon/1-123-graphic-pass.html) | Gathering point |
+| <input type="checkbox" id="rb1-dungeon-1-113" class="trackbox" /> | 113 | [Base](/neptunia/rb1/dlc/1-base.html) | [Millenium Labryinth](/neptunia/rb1/dungeon/1-113-millenium-labryinth.html) | Gathering point (Harvest Shift) |
+| <input type="checkbox" id="rb1-dungeon-1-123" class="trackbox" /> | 123 | [Base](/neptunia/rb1/dlc/1-base.html) | [Graphic Pass](/neptunia/rb1/dungeon/1-123-graphic-pass.html) | Hidden treasure |

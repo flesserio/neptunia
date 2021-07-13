@@ -24,13 +24,11 @@ title: "Spider Thread (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 11 |
 | **Max inventory** | 99 |
 
-
 ## Monsters which drop **Spider Thread**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-1-122" class="trackbox" /> | 122 | [Base](/neptunia/rb1/dlc/1-base.html) | [Spider](/neptunia/rb1/monster/1-122-spider.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-1-122" class="trackbox" /> | 122 | [Base](/neptunia/rb1/dlc/1-base.html) | [Spider](/neptunia/rb1/monster/1-122-spider.html) | 40% |
 
 ## Dungeons **Spider Thread** is found
 
@@ -39,11 +37,10 @@ title: "Spider Thread (Item) - Hyperdimension Neptunia Re;Birth1"
 | <input type="checkbox" id="rb1-dungeon-1-5" class="trackbox" /> | 5 | [Base](/neptunia/rb1/dlc/1-base.html) | [Thelad Sanctuary](/neptunia/rb1/dungeon/1-5-thelad-sanctuary.html) | Gathering point |
 | <input type="checkbox" id="rb1-dungeon-1-5" class="trackbox" /> | 5 | [Base](/neptunia/rb1/dlc/1-base.html) | [Thelad Sanctuary](/neptunia/rb1/dungeon/1-5-thelad-sanctuary.html) | Monster drop |
 
-
 ## Remake System plans which require **Spider Thread**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-212" class="trackbox" /> | 212 | [Base](/neptunia/rb1/dlc/1-base.html) | [Add Dungeon](/neptunia/rb1/quest/1-212-add-dungeon.html) |
-| <input type="checkbox" id="rb1-quest-1-279" class="trackbox" /> | 279 | [Base](/neptunia/rb1/dlc/1-base.html) | [Item Change](/neptunia/rb1/quest/1-279-item-change.html) |
-| <input type="checkbox" id="rb1-quest-1-537" class="trackbox" /> | 537 | [Base](/neptunia/rb1/dlc/1-base.html) | [Pointy Ribbon](/neptunia/rb1/quest/1-537-pointy-ribbon.html) |
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-212" class="trackbox" /> | 212 | [Base](/neptunia/rb1/dlc/1-base.html) | [Add Dungeon](/neptunia/rb1/remake/1-212-add-dungeon.html)<br />→ [Toh-Kiden Cave](/neptunia/rb1/dungeon/1-104-toh-kiden-cave.html) (Dungeon) | 2 |
+| <input type="checkbox" id="rb1-remake-1-279" class="trackbox" /> | 279 | [Base](/neptunia/rb1/dlc/1-base.html) | [Item Change](/neptunia/rb1/remake/1-279-item-change.html)<br />→ [Thelad Sanctuary](/neptunia/rb1/dungeon/1-5-thelad-sanctuary.html) (Dungeon) | 2 |
+| <input type="checkbox" id="rb1-remake-1-537" class="trackbox" /> | 537 | [Base](/neptunia/rb1/dlc/1-base.html) | [Pointy Ribbon](/neptunia/rb1/remake/1-537-pointy-ribbon.html)<br />→ [Pointy Ribbon](/neptunia/rb1/item/1-3109-pointy-ribbon.html) (Accessory) | 2 |

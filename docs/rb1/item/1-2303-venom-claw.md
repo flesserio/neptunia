@@ -25,13 +25,11 @@ title: "Venom Claw (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Weapon skill** | [Attack](/neptunia/rb1/skill/1-2101-attack.html) |
 | **To unlock in shop** | Method 1<br />- View scene [Chapter 3: Leanbox](/neptunia/rb1/scene/1-302-chapter-3-leanbox.html) |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 171 | 0 | 121 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-
 
 ## Player characters who can equip **Venom Claw**
 

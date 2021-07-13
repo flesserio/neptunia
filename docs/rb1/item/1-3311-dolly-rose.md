@@ -24,15 +24,13 @@ title: "Dolly Rose (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **To unlock in shop** | Method 1<br />- Have Nepgear unlocked. |
 
-
 ## Remake System plans which require **Dolly Rose**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-679" class="trackbox" /> | 679 | [Base](/neptunia/rb1/dlc/1-base.html) | [Coolish Rose](/neptunia/rb1/quest/1-679-coolish-rose.html) |
-| <input type="checkbox" id="rb1-quest-1-680" class="trackbox" /> | 680 | [Base](/neptunia/rb1/dlc/1-base.html) | [Funky Rose](/neptunia/rb1/quest/1-680-funky-rose.html) |
-| <input type="checkbox" id="rb1-quest-1-681" class="trackbox" /> | 681 | [Base](/neptunia/rb1/dlc/1-base.html) | [Noble Rose](/neptunia/rb1/quest/1-681-noble-rose.html) |
-
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-679" class="trackbox" /> | 679 | [Base](/neptunia/rb1/dlc/1-base.html) | [Coolish Rose](/neptunia/rb1/remake/1-679-coolish-rose.html)<br />→ [Coolish Rose](/neptunia/rb1/item/1-3312-coolish-rose.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-1-680" class="trackbox" /> | 680 | [Base](/neptunia/rb1/dlc/1-base.html) | [Funky Rose](/neptunia/rb1/remake/1-680-funky-rose.html)<br />→ [Funky Rose](/neptunia/rb1/item/1-3313-funky-rose.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-1-681" class="trackbox" /> | 681 | [Base](/neptunia/rb1/dlc/1-base.html) | [Noble Rose](/neptunia/rb1/remake/1-681-noble-rose.html)<br />→ [Noble Rose](/neptunia/rb1/item/1-3314-noble-rose.html) (Accessory) | 1 |
 
 ## Player characters who can equip **Dolly Rose**
 

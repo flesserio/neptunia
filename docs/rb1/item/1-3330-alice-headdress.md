@@ -23,13 +23,11 @@ title: "Alice Headdress (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 2500 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Alice Headdress** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-693" class="trackbox" /> | 693 | [Base](/neptunia/rb1/dlc/1-base.html) | [Alice Headdress](/neptunia/rb1/remake/1-693-alice-headdress.html)<br /> → [Alice Headdress](/neptunia/rb1/item/1-3330-alice-headdress.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-693" class="trackbox" /> | 693 | [Base](/neptunia/rb1/dlc/1-base.html) | [Alice Headdress](/neptunia/rb1/remake/1-693-alice-headdress.html)<br />→ [Alice Headdress](/neptunia/rb1/item/1-3330-alice-headdress.html) (Accessory) |
 
 ## Player characters who can equip **Alice Headdress**
 

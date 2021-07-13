@@ -24,20 +24,17 @@ title: "Hades Bangle (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 2500 |
 | **Max inventory** | 99 |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 143 | 575 | 143 | 575 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 
-
 ## Remake System plans which unlock **Hades Bangle** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-389" class="trackbox" /> | 389 | [Base](/neptunia/rb1/dlc/1-base.html) | [Hades Bangle](/neptunia/rb1/remake/1-389-hades-bangle.html)<br /> → [Hades Bangle](/neptunia/rb1/item/1-2526-hades-bangle.html) (Armor) |
-
+| <input type="checkbox" id="rb1-remake-1-389" class="trackbox" /> | 389 | [Base](/neptunia/rb1/dlc/1-base.html) | [Hades Bangle](/neptunia/rb1/remake/1-389-hades-bangle.html)<br />→ [Hades Bangle](/neptunia/rb1/item/1-2526-hades-bangle.html) (Armor) |
 
 ## Player characters who can equip **Hades Bangle**
 

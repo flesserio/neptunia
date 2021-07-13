@@ -24,13 +24,11 @@ title: "Cat Gloves (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 172 |
 | **Max inventory** | 99 |
 
-
 ## Monsters which drop **Cat Gloves**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-10-411" class="trackbox" /> | 411 | [Additional Content Package 1](/neptunia/rb1/dlc/10-pack1.html) | [Boxer Cat](/neptunia/rb1/monster/10-411-boxer-cat.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-10-411" class="trackbox" /> | 411 | [Additional Content Package 1](/neptunia/rb1/dlc/10-pack1.html) | [Boxer Cat](/neptunia/rb1/monster/10-411-boxer-cat.html) | 40% |
 
 ## Dungeons **Cat Gloves** is found
 
@@ -39,9 +37,8 @@ title: "Cat Gloves (Item) - Hyperdimension Neptunia Re;Birth1"
 | <input type="checkbox" id="rb1-dungeon-10-127" class="trackbox" /> | 127 | [Additional Content Package 1](/neptunia/rb1/dlc/10-pack1.html) | [Noma Cave](/neptunia/rb1/dungeon/10-127-noma-cave.html) | Gathering point |
 | <input type="checkbox" id="rb1-dungeon-10-127" class="trackbox" /> | 127 | [Additional Content Package 1](/neptunia/rb1/dlc/10-pack1.html) | [Noma Cave](/neptunia/rb1/dungeon/10-127-noma-cave.html) | Monster drop |
 
-
 ## Remake System plans which require **Cat Gloves**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-10-265" class="trackbox" /> | 265 | [Additional Content Package 1](/neptunia/rb1/dlc/10-pack1.html) | [Add Enemies](/neptunia/rb1/quest/10-265-add-enemies.html) |
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-10-265" class="trackbox" /> | 265 | [Additional Content Package 1](/neptunia/rb1/dlc/10-pack1.html) | [Add Enemies](/neptunia/rb1/remake/10-265-add-enemies.html)<br />→ [Noma Cave](/neptunia/rb1/dungeon/10-127-noma-cave.html) (Dungeon) | 3 |

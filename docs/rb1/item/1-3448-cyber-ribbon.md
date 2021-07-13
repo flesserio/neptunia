@@ -24,15 +24,13 @@ title: "Cyber Ribbon (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **To unlock in shop** | Method 1<br />- Have Rom & Ram unlocked. |
 
-
 ## Remake System plans which require **Cyber Ribbon**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-769" class="trackbox" /> | 769 | [Base](/neptunia/rb1/dlc/1-base.html) | [Virtual Ribbon](/neptunia/rb1/quest/1-769-virtual-ribbon.html) |
-| <input type="checkbox" id="rb1-quest-1-770" class="trackbox" /> | 770 | [Base](/neptunia/rb1/dlc/1-base.html) | [Future Ribbon](/neptunia/rb1/quest/1-770-future-ribbon.html) |
-| <input type="checkbox" id="rb1-quest-1-771" class="trackbox" /> | 771 | [Base](/neptunia/rb1/dlc/1-base.html) | [Techno Ribbon](/neptunia/rb1/quest/1-771-techno-ribbon.html) |
-
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-769" class="trackbox" /> | 769 | [Base](/neptunia/rb1/dlc/1-base.html) | [Virtual Ribbon](/neptunia/rb1/remake/1-769-virtual-ribbon.html)<br />→ [Virtual Ribbon](/neptunia/rb1/item/1-3449-virtual-ribbon.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-1-770" class="trackbox" /> | 770 | [Base](/neptunia/rb1/dlc/1-base.html) | [Future Ribbon](/neptunia/rb1/remake/1-770-future-ribbon.html)<br />→ [Future Ribbon](/neptunia/rb1/item/1-3450-future-ribbon.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-1-771" class="trackbox" /> | 771 | [Base](/neptunia/rb1/dlc/1-base.html) | [Techno Ribbon](/neptunia/rb1/remake/1-771-techno-ribbon.html)<br />→ [Techno Ribbon](/neptunia/rb1/item/1-3451-techno-ribbon.html) (Accessory) | 1 |
 
 ## Player characters who can equip **Cyber Ribbon**
 

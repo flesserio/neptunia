@@ -23,16 +23,14 @@ title: "Add Dungeon: Kinest Range (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 0 |
 | **Max inventory** | 1 |
 
-
 ## Plans added to Remake System after collecting **Add Dungeon: Kinest Range**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-219" class="trackbox" /> | 219 | [Base](/neptunia/rb1/dlc/1-base.html) | [Add Dungeon](/neptunia/rb1/remake/1-219-add-dungeon.html)<br /> → [Kinest Range](/neptunia/rb1/dungeon/1-114-kinest-range.html) (Dungeon) |
-
+| <input type="checkbox" id="rb1-remake-1-219" class="trackbox" /> | 219 | [Base](/neptunia/rb1/dlc/1-base.html) | [Add Dungeon](/neptunia/rb1/remake/1-219-add-dungeon.html)<br />→ [Kinest Range](/neptunia/rb1/dungeon/1-114-kinest-range.html) (Dungeon) |
 
 ## Dungeons **Add Dungeon: Kinest Range** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
-| <input type="checkbox" id="rb1-dungeon-1-112" class="trackbox" /> | 112 | [Base](/neptunia/rb1/dlc/1-base.html) | [Naasne Volcano](/neptunia/rb1/dungeon/1-112-naasne-volcano.html) | Gathering point |
+| <input type="checkbox" id="rb1-dungeon-1-112" class="trackbox" /> | 112 | [Base](/neptunia/rb1/dlc/1-base.html) | [Naasne Volcano](/neptunia/rb1/dungeon/1-112-naasne-volcano.html) | Hidden treasure |

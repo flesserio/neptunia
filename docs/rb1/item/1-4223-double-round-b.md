@@ -24,20 +24,17 @@ title: "Double Round B (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 1000 |
 | **Max inventory** | 99 |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 0 | 40 | 90 | -15 | 0 | 25 | 0 | 0 | 0 | 0 | 0 |
 
-
 ## Chirpers who give **Double Round B**
 
 |    | ID | DLC | Avatar | Message | Conditions |
 | -- | -- | --- | ------ | ------- | ---------- |
-| <input type="checkbox" id="rb1-chirper-event-1-5189" class="trackbox" /> | 5189 | [Base](/neptunia/rb1/dlc/1-base.html) | [Voyager](/neptunia/rb1/undefined/1-250-voyager.html) | Let me give you this. I think Lady Vert can use this. | View scene [Chapter 8: Arfoire Of Celestia](/neptunia/rb1/scene/1-801-chapter-8-arfoire-of-celestia.html)<br />Do not view scene [Chapter 8: The True Arfoire](/neptunia/rb1/scene/1-807-chapter-8-the-true-arfoire.html) |
-
+| <input type="checkbox" id="rb1-chirper-event-1-5189" class="trackbox" /> | 5189 | [Base](/neptunia/rb1/dlc/1-base.html) | [Voyager](/neptunia/rb1/avatar/1-250-voyager.html) | Let me give you this. I think Lady Vert can use this. | View scene [Chapter 8: Arfoire Of Celestia](/neptunia/rb1/scene/1-801-chapter-8-arfoire-of-celestia.html)<br />Do not view scene [Chapter 8: The True Arfoire](/neptunia/rb1/scene/1-807-chapter-8-the-true-arfoire.html) |
 
 ## Player characters who can equip **Double Round B**
 

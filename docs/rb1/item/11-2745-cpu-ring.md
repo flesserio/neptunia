@@ -24,20 +24,17 @@ title: "CPU Ring (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 62500 |
 | **Max inventory** | 99 |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 2500 | 0 | 0 | 200 | 0 | 200 | 0 | 200 | 0 | 0 | 50 | 50 | 50 | 50 |
 
-
 ## Remake System plans which unlock **CPU Ring** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-11-417" class="trackbox" /> | 417 | [Additional Content Package 2](/neptunia/rb1/dlc/11-pack2.html) | [CPU Ring](/neptunia/rb1/remake/11-417-cpu-ring.html)<br /> → [CPU Ring](/neptunia/rb1/item/11-2745-cpu-ring.html) (Ornament) |
-
+| <input type="checkbox" id="rb1-remake-11-417" class="trackbox" /> | 417 | [Additional Content Package 2](/neptunia/rb1/dlc/11-pack2.html) | [CPU Ring](/neptunia/rb1/remake/11-417-cpu-ring.html)<br />→ [CPU Ring](/neptunia/rb1/item/11-2745-cpu-ring.html) (Ornament) |
 
 ## Player characters who can equip **CPU Ring**
 

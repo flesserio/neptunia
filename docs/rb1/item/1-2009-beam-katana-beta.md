@@ -25,20 +25,17 @@ title: "Beam Katana Beta (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **Weapon skill** | [Attack](/neptunia/rb1/skill/1-1-attack.html) |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 212 | 0 | 180 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 
-
 ## Remake System plans which unlock **Beam Katana Beta** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-353" class="trackbox" /> | 353 | [Base](/neptunia/rb1/dlc/1-base.html) | [Beam Katana Beta](/neptunia/rb1/remake/1-353-beam-katana-beta.html)<br /> → [Beam Katana Beta](/neptunia/rb1/item/1-2009-beam-katana-beta.html) (Katana (Neptune)) |
-
+| <input type="checkbox" id="rb1-remake-1-353" class="trackbox" /> | 353 | [Base](/neptunia/rb1/dlc/1-base.html) | [Beam Katana Beta](/neptunia/rb1/remake/1-353-beam-katana-beta.html)<br />→ [Beam Katana Beta](/neptunia/rb1/item/1-2009-beam-katana-beta.html) (Katana (Neptune)) |
 
 ## Player characters who can equip **Beam Katana Beta**
 

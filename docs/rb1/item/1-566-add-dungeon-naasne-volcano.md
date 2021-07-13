@@ -23,16 +23,14 @@ title: "Add Dungeon: Naasne Volcano (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 0 |
 | **Max inventory** | 1 |
 
-
 ## Plans added to Remake System after collecting **Add Dungeon: Naasne Volcano**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-217" class="trackbox" /> | 217 | [Base](/neptunia/rb1/dlc/1-base.html) | [Add Dungeon](/neptunia/rb1/remake/1-217-add-dungeon.html)<br /> → [Naasne Volcano](/neptunia/rb1/dungeon/1-112-naasne-volcano.html) (Dungeon) |
-
+| <input type="checkbox" id="rb1-remake-1-217" class="trackbox" /> | 217 | [Base](/neptunia/rb1/dlc/1-base.html) | [Add Dungeon](/neptunia/rb1/remake/1-217-add-dungeon.html)<br />→ [Naasne Volcano](/neptunia/rb1/dungeon/1-112-naasne-volcano.html) (Dungeon) |
 
 ## Dungeons **Add Dungeon: Naasne Volcano** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
-| <input type="checkbox" id="rb1-dungeon-1-110" class="trackbox" /> | 110 | [Base](/neptunia/rb1/dlc/1-base.html) | [Donkong Ruins](/neptunia/rb1/dungeon/1-110-donkong-ruins.html) | Gathering point |
+| <input type="checkbox" id="rb1-dungeon-1-110" class="trackbox" /> | 110 | [Base](/neptunia/rb1/dlc/1-base.html) | [Donkong Ruins](/neptunia/rb1/dungeon/1-110-donkong-ruins.html) | Treasure |

@@ -24,20 +24,17 @@ title: "Leanbox W (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 50000 |
 | **Max inventory** | 99 |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 0 | 70 | -20 | 120 | -20 | 0 | 20 | 0 | 0 | 5 | 0 |
 
-
 ## Remake System plans which unlock **Leanbox W** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-844" class="trackbox" /> | 844 | [Base](/neptunia/rb1/dlc/1-base.html) | [Leanbox W](/neptunia/rb1/remake/1-844-leanbox-w.html)<br /> → [Leanbox W](/neptunia/rb1/item/1-4234-leanbox-w.html) (Processor (W)) |
-
+| <input type="checkbox" id="rb1-remake-1-844" class="trackbox" /> | 844 | [Base](/neptunia/rb1/dlc/1-base.html) | [Leanbox W](/neptunia/rb1/remake/1-844-leanbox-w.html)<br />→ [Leanbox W](/neptunia/rb1/item/1-4234-leanbox-w.html) (Processor (W)) |
 
 ## Player characters who can equip **Leanbox W**
 

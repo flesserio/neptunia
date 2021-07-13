@@ -23,13 +23,11 @@ title: "Suspended Suit (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 0 |
 | **Max inventory** | 99 |
 
-
 ## Player characters who have **Suspended Suit** equipped by default
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
 | <input type="checkbox" id="rb1-player-23-22" class="trackbox" /> | 22 | [Additional Content Pack 14](/neptunia/rb1/dlc/23-pack14.html) | [Uzume Tennouboshi](/neptunia/rb1/player/23-22-uzume-tennouboshi.html) |
-
 
 ## Player characters who can equip **Suspended Suit**
 

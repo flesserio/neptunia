@@ -24,13 +24,11 @@ title: "Mr. Kitty+? (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **Weapon skill** | [Attack](/neptunia/rb1/skill/7-201-attack.html) |
 
-
 ## Colosseum quests which reward **Mr. Kitty+?**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
 | <input type="checkbox" id="rb1-colosseum-14-5017" class="trackbox" /> | 5017 | [Additional Content Pack 5](/neptunia/rb1/dlc/14-pack5.html) | [Goddess from Another Dimension](/neptunia/rb1/colosseum/14-5017-goddess-from-another-dimension.html) |
-
 
 ## Player characters who can equip **Mr. Kitty+?**
 

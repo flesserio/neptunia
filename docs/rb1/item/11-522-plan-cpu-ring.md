@@ -23,16 +23,14 @@ title: "Plan: CPU Ring (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 0 |
 | **Max inventory** | 1 |
 
-
 ## Chirpers who give **Plan: CPU Ring**
 
 |    | ID | DLC | Avatar | Message | Conditions |
 | -- | -- | --- | ------ | ------- | ---------- |
-| <input type="checkbox" id="rb1-chirper-event-11-17" class="trackbox" /> | 17 | [Additional Content Package 2](/neptunia/rb1/dlc/11-pack2.html) | [Neptune](/neptunia/rb1/undefined/1-30-neptune.html) | Here's a Plan for accessories.<br />It's an accessory for the CPUs. I guarentee it will be useful. | View scene [Chapter 5: Reunion](/neptunia/rb1/scene/1-503-chapter-5-reunion.html)<br />Do not view scene [Chapter 8: The True Arfoire](/neptunia/rb1/scene/1-807-chapter-8-the-true-arfoire.html) |
-
+| <input type="checkbox" id="rb1-chirper-event-11-17" class="trackbox" /> | 17 | [Additional Content Package 2](/neptunia/rb1/dlc/11-pack2.html) | [Neptune](/neptunia/rb1/avatar/1-30-neptune.html) | Here's a Plan for accessories.<br />It's an accessory for the CPUs. I guarentee it will be useful. | View scene [Chapter 5: Reunion](/neptunia/rb1/scene/1-503-chapter-5-reunion.html)<br />Do not view scene [Chapter 8: The True Arfoire](/neptunia/rb1/scene/1-807-chapter-8-the-true-arfoire.html) |
 
 ## Plans added to Remake System after collecting **Plan: CPU Ring**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-11-417" class="trackbox" /> | 417 | [Additional Content Package 2](/neptunia/rb1/dlc/11-pack2.html) | [CPU Ring](/neptunia/rb1/remake/11-417-cpu-ring.html)<br /> → [CPU Ring](/neptunia/rb1/item/11-2745-cpu-ring.html) (Ornament) |
+| <input type="checkbox" id="rb1-remake-11-417" class="trackbox" /> | 417 | [Additional Content Package 2](/neptunia/rb1/dlc/11-pack2.html) | [CPU Ring](/neptunia/rb1/remake/11-417-cpu-ring.html)<br />→ [CPU Ring](/neptunia/rb1/item/11-2745-cpu-ring.html) (Ornament) |

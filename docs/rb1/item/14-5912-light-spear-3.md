@@ -24,13 +24,11 @@ title: "Light Spear+3 (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **Weapon skill** | [Attack](/neptunia/rb1/skill/14-3601-attack.html) |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 165 | 0 | 300 | 491 | 0 | 540 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-
 
 ## Player characters who can equip **Light Spear+3**
 

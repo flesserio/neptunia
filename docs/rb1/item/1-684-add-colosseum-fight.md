@@ -23,16 +23,14 @@ title: "Add Colosseum Fight (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 0 |
 | **Max inventory** | 1 |
 
-
 ## Chirpers who give **Add Colosseum Fight**
 
 |    | ID | DLC | Avatar | Message | Conditions |
 | -- | -- | --- | ------ | ------- | ---------- |
-| <input type="checkbox" id="rb1-chirper-event-1-5192" class="trackbox" /> | 5192 | [Base](/neptunia/rb1/dlc/1-base.html) | [Announcer](/neptunia/rb1/undefined/1-252-announcer.html) | Here's a new game Plan.<br />I'll be commentating on the battle until the end of Gamindustri! | Have remake [Colosseum Unlock](/neptunia/rb1/remake/1-18-colosseum-unlock.html) developed<br />Do not view scene [Chapter 2: The Avenir Duo](/neptunia/rb1/scene/1-216-chapter-2-the-avenir-duo.html) |
-
+| <input type="checkbox" id="rb1-chirper-event-1-5192" class="trackbox" /> | 5192 | [Base](/neptunia/rb1/dlc/1-base.html) | [Announcer](/neptunia/rb1/avatar/1-252-announcer.html) | Here's a new game Plan.<br />I'll be commentating on the battle until the end of Gamindustri! | Have remake [Colosseum Unlock](/neptunia/rb1/remake/1-18-colosseum-unlock.html) developed<br />Do not view scene [Chapter 2: The Avenir Duo](/neptunia/rb1/scene/1-216-chapter-2-the-avenir-duo.html) |
 
 ## Plans added to Remake System after collecting **Add Colosseum Fight**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-19" class="trackbox" /> | 19 | [Base](/neptunia/rb1/dlc/1-base.html) | [Add Colosseum Fight](/neptunia/rb1/remake/1-19-add-colosseum-fight.html)<br /> → [Purgatory](/neptunia/rb1/quest/1-2011-purgatory.html) (Colosseum),<br /> → [Fear Purple](/neptunia/rb1/quest/1-2026-fear-purple.html) (Colosseum) |
+| <input type="checkbox" id="rb1-remake-1-19" class="trackbox" /> | 19 | [Base](/neptunia/rb1/dlc/1-base.html) | [Add Colosseum Fight](/neptunia/rb1/remake/1-19-add-colosseum-fight.html)<br />→ [Purgatory](/neptunia/rb1/colosseum/1-2011-purgatory.html) (Colosseum)<br />→ [Fear Purple](/neptunia/rb1/colosseum/1-2026-fear-purple.html) (Colosseum) |

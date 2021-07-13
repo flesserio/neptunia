@@ -24,20 +24,17 @@ title: "Devil L (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 1000 |
 | **Max inventory** | 99 |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | -15 | 0 | 60 | 90 | 30 | -15 | 0 | 7 | -7 | -7 | 7 |
 
-
 ## Remake System plans which unlock **Devil L** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-864" class="trackbox" /> | 864 | [Base](/neptunia/rb1/dlc/1-base.html) | [Devil L](/neptunia/rb1/remake/1-864-devil-l.html)<br /> → [Devil L](/neptunia/rb1/item/1-4443-devil-l.html) (Processor (L)) |
-
+| <input type="checkbox" id="rb1-remake-1-864" class="trackbox" /> | 864 | [Base](/neptunia/rb1/dlc/1-base.html) | [Devil L](/neptunia/rb1/remake/1-864-devil-l.html)<br />→ [Devil L](/neptunia/rb1/item/1-4443-devil-l.html) (Processor (L)) |
 
 ## Player characters who can equip **Devil L**
 

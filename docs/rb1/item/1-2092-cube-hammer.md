@@ -25,20 +25,17 @@ title: "Cube Hammer (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **Weapon skill** | [Attack](/neptunia/rb1/skill/1-601-attack.html) |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | -200 | 597 | 0 | 421 | 0 | -80 | 0 | 0 | 0 | 0 | 0 | 0 |
 
-
 ## Remake System plans which unlock **Cube Hammer** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-371" class="trackbox" /> | 371 | [Base](/neptunia/rb1/dlc/1-base.html) | [Cube Hammer](/neptunia/rb1/remake/1-371-cube-hammer.html)<br /> → [Cube Hammer](/neptunia/rb1/item/1-2092-cube-hammer.html) (Hammer (Blanc)) |
-
+| <input type="checkbox" id="rb1-remake-1-371" class="trackbox" /> | 371 | [Base](/neptunia/rb1/dlc/1-base.html) | [Cube Hammer](/neptunia/rb1/remake/1-371-cube-hammer.html)<br />→ [Cube Hammer](/neptunia/rb1/item/1-2092-cube-hammer.html) (Hammer (Blanc)) |
 
 ## Player characters who can equip **Cube Hammer**
 

@@ -25,20 +25,17 @@ title: "B.K. True Deity (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **Weapon skill** | [Jun Tsuki](/neptunia/rb1/skill/1-2903-jun-tsuki.html) |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 1000 | 0 | 600 | 3056 | 0 | 1680 | 168 | 0 | 168 | 0 | 0 | 0 | 0 | 0 |
 
-
 ## Colosseum quests which reward **B.K. True Deity**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
 | <input type="checkbox" id="rb1-colosseum-1-2025" class="trackbox" /> | 2025 | [Base](/neptunia/rb1/dlc/1-base.html) | [God of War](/neptunia/rb1/colosseum/1-2025-god-of-war.html) |
-
 
 ## Player characters who can equip **B.K. True Deity**
 

@@ -23,13 +23,11 @@ title: "Black Fox (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 7500 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Black Fox** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-746" class="trackbox" /> | 746 | [Base](/neptunia/rb1/dlc/1-base.html) | [Black Fox](/neptunia/rb1/remake/1-746-black-fox.html)<br /> → [Black Fox](/neptunia/rb1/item/1-3411-black-fox.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-746" class="trackbox" /> | 746 | [Base](/neptunia/rb1/dlc/1-base.html) | [Black Fox](/neptunia/rb1/remake/1-746-black-fox.html)<br />→ [Black Fox](/neptunia/rb1/item/1-3411-black-fox.html) (Accessory) |
 
 ## Player characters who can equip **Black Fox**
 

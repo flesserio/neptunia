@@ -24,13 +24,11 @@ title: "Ice Skeleton (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 195 |
 | **Max inventory** | 99 |
 
-
 ## Monsters which drop **Ice Skeleton**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-1-164" class="trackbox" /> | 164 | [Base](/neptunia/rb1/dlc/1-base.html) | [Frozen Skull](/neptunia/rb1/monster/1-164-frozen-skull.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-1-164" class="trackbox" /> | 164 | [Base](/neptunia/rb1/dlc/1-base.html) | [Frozen Skull](/neptunia/rb1/monster/1-164-frozen-skull.html) | 40% |
 
 ## Dungeons **Ice Skeleton** is found
 
@@ -39,11 +37,10 @@ title: "Ice Skeleton (Item) - Hyperdimension Neptunia Re;Birth1"
 | <input type="checkbox" id="rb1-dungeon-1-12" class="trackbox" /> | 12 | [Base](/neptunia/rb1/dlc/1-base.html) | [Lowee Snowfield](/neptunia/rb1/dungeon/1-12-lowee-snowfield.html) | Gathering point |
 | <input type="checkbox" id="rb1-dungeon-1-12" class="trackbox" /> | 12 | [Base](/neptunia/rb1/dlc/1-base.html) | [Lowee Snowfield](/neptunia/rb1/dungeon/1-12-lowee-snowfield.html) | Monster drop |
 
-
 ## Remake System plans which require **Ice Skeleton**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-216" class="trackbox" /> | 216 | [Base](/neptunia/rb1/dlc/1-base.html) | [Add Dungeon](/neptunia/rb1/quest/1-216-add-dungeon.html) |
-| <input type="checkbox" id="rb1-quest-1-319" class="trackbox" /> | 319 | [Base](/neptunia/rb1/dlc/1-base.html) | [Nep Bull C](/neptunia/rb1/quest/1-319-nep-bull-c.html) |
-| <input type="checkbox" id="rb1-quest-1-387" class="trackbox" /> | 387 | [Base](/neptunia/rb1/dlc/1-base.html) | [Silver Bracelet](/neptunia/rb1/quest/1-387-silver-bracelet.html) |
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-216" class="trackbox" /> | 216 | [Base](/neptunia/rb1/dlc/1-base.html) | [Add Dungeon](/neptunia/rb1/remake/1-216-add-dungeon.html)<br />→ [Donkong Ruins](/neptunia/rb1/dungeon/1-110-donkong-ruins.html) (Dungeon) | 2 |
+| <input type="checkbox" id="rb1-remake-1-319" class="trackbox" /> | 319 | [Base](/neptunia/rb1/dlc/1-base.html) | [Nep Bull C](/neptunia/rb1/remake/1-319-nep-bull-c.html)<br />→ [Nep Bull C](/neptunia/rb1/item/1-6-nep-bull-c.html) (Tool) | 3 |
+| <input type="checkbox" id="rb1-remake-1-387" class="trackbox" /> | 387 | [Base](/neptunia/rb1/dlc/1-base.html) | [Silver Bracelet](/neptunia/rb1/remake/1-387-silver-bracelet.html)<br />→ [Silver Bracelet](/neptunia/rb1/item/1-2522-silver-bracelet.html) (Armor) | 3 |

@@ -24,20 +24,17 @@ title: "Rabbit Ribbon (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 2500 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Rabbit Ribbon** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-468" class="trackbox" /> | 468 | [Base](/neptunia/rb1/dlc/1-base.html) | [Rabbit Ribbon](/neptunia/rb1/remake/1-468-rabbit-ribbon.html)<br /> → [Rabbit Ribbon](/neptunia/rb1/item/1-3005-rabbit-ribbon.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-468" class="trackbox" /> | 468 | [Base](/neptunia/rb1/dlc/1-base.html) | [Rabbit Ribbon](/neptunia/rb1/remake/1-468-rabbit-ribbon.html)<br />→ [Rabbit Ribbon](/neptunia/rb1/item/1-3005-rabbit-ribbon.html) (Accessory) |
 
 ## Remake System plans which require **Rabbit Ribbon**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-469" class="trackbox" /> | 469 | [Base](/neptunia/rb1/dlc/1-base.html) | [Purple Ribbon](/neptunia/rb1/quest/1-469-purple-ribbon.html) |
-
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-469" class="trackbox" /> | 469 | [Base](/neptunia/rb1/dlc/1-base.html) | [Purple Ribbon](/neptunia/rb1/remake/1-469-purple-ribbon.html)<br />→ [Purple Ribbon](/neptunia/rb1/item/1-3006-purple-ribbon.html) (Accessory) | 1 |
 
 ## Player characters who can equip **Rabbit Ribbon**
 

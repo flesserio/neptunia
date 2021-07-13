@@ -24,20 +24,17 @@ title: "Tekken's Soul (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 0 |
 | **Max inventory** | 1 |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 50 | 0 | 0 | 0 | 0 | 0 | 50 | 0 | 0 | 0 | 0 |
 
-
 ## Player characters who have **Tekken's Soul** equipped by default
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
 | <input type="checkbox" id="rb1-player-1-18" class="trackbox" /> | 18 | [Base](/neptunia/rb1/dlc/1-base.html) | [Tekken](/neptunia/rb1/player/1-18-tekken.html) |
-
 
 ## Player characters who can equip **Tekken's Soul**
 

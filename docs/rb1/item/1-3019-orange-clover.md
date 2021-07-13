@@ -23,13 +23,11 @@ title: "Orange Clover (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 2500 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Orange Clover** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-481" class="trackbox" /> | 481 | [Base](/neptunia/rb1/dlc/1-base.html) | [Orange Clover](/neptunia/rb1/remake/1-481-orange-clover.html)<br /> → [Orange Clover](/neptunia/rb1/item/1-3019-orange-clover.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-481" class="trackbox" /> | 481 | [Base](/neptunia/rb1/dlc/1-base.html) | [Orange Clover](/neptunia/rb1/remake/1-481-orange-clover.html)<br />→ [Orange Clover](/neptunia/rb1/item/1-3019-orange-clover.html) (Accessory) |
 
 ## Player characters who can equip **Orange Clover**
 

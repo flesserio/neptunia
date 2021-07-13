@@ -24,13 +24,11 @@ title: "Mr. Pleiades (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 500 |
 | **Max inventory** | 99 |
 
-
 ## Monsters which drop **Mr. Pleiades**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-1-317" class="trackbox" /> | 317 | [Base](/neptunia/rb1/dlc/1-base.html) | [Antares](/neptunia/rb1/monster/1-317-antares.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-1-317" class="trackbox" /> | 317 | [Base](/neptunia/rb1/dlc/1-base.html) | [Antares](/neptunia/rb1/monster/1-317-antares.html) | 75% |
 
 ## Dungeons **Mr. Pleiades** is found
 
@@ -38,7 +36,6 @@ title: "Mr. Pleiades (Item) - Hyperdimension Neptunia Re;Birth1"
 | -- | -- | --- | ---- | ---- |
 | <input type="checkbox" id="rb1-dungeon-1-112" class="trackbox" /> | 112 | [Base](/neptunia/rb1/dlc/1-base.html) | [Naasne Volcano](/neptunia/rb1/dungeon/1-112-naasne-volcano.html) | Monster drop |
 | <input type="checkbox" id="rb1-dungeon-1-128" class="trackbox" /> | 128 | [Base](/neptunia/rb1/dlc/1-base.html) | [Naasne Volcano Depths](/neptunia/rb1/dungeon/1-128-naasne-volcano-depths.html) | Monster drop |
-
 
 ## Player characters who can equip **Mr. Pleiades**
 

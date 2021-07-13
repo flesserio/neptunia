@@ -24,20 +24,17 @@ title: "Di Gi Charat (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 500 |
 | **Max inventory** | 99 |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 10 | 0 |
 
-
 ## Quests which reward **Di Gi Charat**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
 | <input type="checkbox" id="rb1-quest-1-714" class="trackbox" /> | 714 | [Base](/neptunia/rb1/dlc/1-base.html) | [It's just data!](/neptunia/rb1/quest/1-714-its-just-data.html) |
-
 
 ## Player characters who can equip **Di Gi Charat**
 

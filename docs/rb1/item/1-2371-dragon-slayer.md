@@ -25,20 +25,17 @@ title: "Dragon Slayer (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **Weapon skill** | [Attack](/neptunia/rb1/skill/1-2401-attack.html) |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 706 | 24 | 668 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 
-
 ## Player characters who have **Dragon Slayer** equipped by default
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
 | <input type="checkbox" id="rb1-player-1-13" class="trackbox" /> | 13 | [Base](/neptunia/rb1/dlc/1-base.html) | [Falcom](/neptunia/rb1/player/1-13-falcom.html) |
-
 
 ## Player characters who can equip **Dragon Slayer**
 

@@ -23,13 +23,11 @@ title: "Blau Beret (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 1500 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Blau Beret** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-753" class="trackbox" /> | 753 | [Base](/neptunia/rb1/dlc/1-base.html) | [Blau Beret](/neptunia/rb1/remake/1-753-blau-beret.html)<br /> → [Blau Beret](/neptunia/rb1/item/1-3420-blau-beret.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-753" class="trackbox" /> | 753 | [Base](/neptunia/rb1/dlc/1-base.html) | [Blau Beret](/neptunia/rb1/remake/1-753-blau-beret.html)<br />→ [Blau Beret](/neptunia/rb1/item/1-3420-blau-beret.html) (Accessory) |
 
 ## Player characters who can equip **Blau Beret**
 

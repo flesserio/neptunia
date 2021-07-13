@@ -22,11 +22,10 @@ title: "Maiden Game (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 10 |
 | **Max inventory** | 99 |
 | **Idea Chip level** | 4 |
-| **Idea Chip ability** | [Consumed SP Down Lv.4](/neptunia/rb1/avatar/1-9523-consumed-sp-down-lv-4.html)<br />Decreases SP Required by 12% |
-
+| **Idea Chip ability** | [Consumed SP Down Lv.4](/neptunia/rb1/ability/1-9523-consumed-sp-down-lv-4.html)<br />Decreases SP Required by 12% |
 
 ## Dungeons **Maiden Game** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
-| <input type="checkbox" id="rb1-dungeon-1-19" class="trackbox" /> | 19 | [Base](/neptunia/rb1/dlc/1-base.html) | [Neo-Geofront Depths](/neptunia/rb1/dungeon/1-19-neo-geofront-depths.html) | Gathering point |
+| <input type="checkbox" id="rb1-dungeon-1-19" class="trackbox" /> | 19 | [Base](/neptunia/rb1/dlc/1-base.html) | [Neo-Geofront Depths](/neptunia/rb1/dungeon/1-19-neo-geofront-depths.html) | Gathering point (Harvest Shift) |

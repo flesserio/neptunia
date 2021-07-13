@@ -22,13 +22,12 @@ title: "Life Game (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 10 |
 | **Max inventory** | 99 |
 | **Idea Chip level** | 4 |
-| **Idea Chip ability** | [Machine Defense Lv.4](/neptunia/rb1/avatar/1-9609-machine-defense-lv-4.html)<br />Increases Machine Defense by 25% |
-
+| **Idea Chip ability** | [Machine Defense Lv.4](/neptunia/rb1/ability/1-9609-machine-defense-lv-4.html)<br />Increases Machine Defense by 25% |
 
 ## Dungeons **Life Game** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
-| <input type="checkbox" id="rb1-dungeon-1-11" class="trackbox" /> | 11 | [Base](/neptunia/rb1/dlc/1-base.html) | [Halo Mountain Peak](/neptunia/rb1/dungeon/1-11-halo-mountain-peak.html) | Gathering point |
-| <input type="checkbox" id="rb1-dungeon-1-16" class="trackbox" /> | 16 | [Base](/neptunia/rb1/dlc/1-base.html) | [Soulsac Cave](/neptunia/rb1/dungeon/1-16-soulsac-cave.html) | Gathering point |
-| <input type="checkbox" id="rb1-dungeon-1-124" class="trackbox" /> | 124 | [Base](/neptunia/rb1/dlc/1-base.html) | [Graphic Pass Peak](/neptunia/rb1/dungeon/1-124-graphic-pass-peak.html) | Gathering point |
+| <input type="checkbox" id="rb1-dungeon-1-11" class="trackbox" /> | 11 | [Base](/neptunia/rb1/dlc/1-base.html) | [Halo Mountain Peak](/neptunia/rb1/dungeon/1-11-halo-mountain-peak.html) | Hidden treasure |
+| <input type="checkbox" id="rb1-dungeon-1-16" class="trackbox" /> | 16 | [Base](/neptunia/rb1/dlc/1-base.html) | [Soulsac Cave](/neptunia/rb1/dungeon/1-16-soulsac-cave.html) | Gathering point (Harvest Shift) |
+| <input type="checkbox" id="rb1-dungeon-1-124" class="trackbox" /> | 124 | [Base](/neptunia/rb1/dlc/1-base.html) | [Graphic Pass Peak](/neptunia/rb1/dungeon/1-124-graphic-pass-peak.html) | Gathering point (Harvest Shift) |

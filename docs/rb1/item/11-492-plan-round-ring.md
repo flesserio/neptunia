@@ -24,20 +24,17 @@ title: "Plan: Round Ring (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 0 |
 | **Max inventory** | 1 |
 
-
 ## Plans added to Remake System after collecting **Plan: Round Ring**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-11-393" class="trackbox" /> | 393 | [Additional Content Package 2](/neptunia/rb1/dlc/11-pack2.html) | [Round Ring](/neptunia/rb1/remake/11-393-round-ring.html)<br /> → [Round Ring](/neptunia/rb1/item/11-2562-round-ring.html) (Armor) |
-
+| <input type="checkbox" id="rb1-remake-11-393" class="trackbox" /> | 393 | [Additional Content Package 2](/neptunia/rb1/dlc/11-pack2.html) | [Round Ring](/neptunia/rb1/remake/11-393-round-ring.html)<br />→ [Round Ring](/neptunia/rb1/item/11-2562-round-ring.html) (Armor) |
 
 ## Monsters which drop **Plan: Round Ring**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-11-410" class="trackbox" /> | 410 | [Additional Content Package 2](/neptunia/rb1/dlc/11-pack2.html) | [Hyper Gebachu](/neptunia/rb1/monster/11-410-hyper-gebachu.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-11-410" class="trackbox" /> | 410 | [Additional Content Package 2](/neptunia/rb1/dlc/11-pack2.html) | [Hyper Gebachu](/neptunia/rb1/monster/11-410-hyper-gebachu.html) | 50% |
 
 ## Dungeons **Plan: Round Ring** is found
 

@@ -24,13 +24,11 @@ title: "Holy Fang Blade (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 1 |
 | **Weapon skill** | [L Slash](/neptunia/rb1/skill/1-3-l-slash.html) |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 915 | 0 | 605 | 0 | 60 | 60 | 0 | 0 | 0 | 0 | 0 |
-
 
 ## Player characters who can equip **Holy Fang Blade**
 

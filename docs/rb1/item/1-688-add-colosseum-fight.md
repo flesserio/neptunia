@@ -23,16 +23,14 @@ title: "Add Colosseum Fight (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 0 |
 | **Max inventory** | 1 |
 
-
 ## Chirpers who give **Add Colosseum Fight**
 
 |    | ID | DLC | Avatar | Message | Conditions |
 | -- | -- | --- | ------ | ------- | ---------- |
-| <input type="checkbox" id="rb1-chirper-event-1-65" class="trackbox" /> | 65 | [Base](/neptunia/rb1/dlc/1-base.html) | [Nepgear](/neptunia/rb1/undefined/1-32-nepgear.html) | This Spec...<br />I'll do my best! | Have remake [Colosseum Unlock](/neptunia/rb1/remake/1-18-colosseum-unlock.html) developed<br />Have Nepgear unlocked.<br />Do not view scene [Chapter 8: The True Arfoire](/neptunia/rb1/scene/1-807-chapter-8-the-true-arfoire.html) |
-
+| <input type="checkbox" id="rb1-chirper-event-1-65" class="trackbox" /> | 65 | [Base](/neptunia/rb1/dlc/1-base.html) | [Nepgear](/neptunia/rb1/avatar/1-32-nepgear.html) | This Spec...<br />I'll do my best! | Have remake [Colosseum Unlock](/neptunia/rb1/remake/1-18-colosseum-unlock.html) developed<br />Have Nepgear unlocked.<br />Do not view scene [Chapter 8: The True Arfoire](/neptunia/rb1/scene/1-807-chapter-8-the-true-arfoire.html) |
 
 ## Plans added to Remake System after collecting **Add Colosseum Fight**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-23" class="trackbox" /> | 23 | [Base](/neptunia/rb1/dlc/1-base.html) | [Add Colosseum Fight](/neptunia/rb1/remake/1-23-add-colosseum-fight.html)<br /> → [The Lineage of 'D' III](/neptunia/rb1/quest/1-2029-the-lineage-of-d-iii.html) (Colosseum) |
+| <input type="checkbox" id="rb1-remake-1-23" class="trackbox" /> | 23 | [Base](/neptunia/rb1/dlc/1-base.html) | [Add Colosseum Fight](/neptunia/rb1/remake/1-23-add-colosseum-fight.html)<br />→ [The Lineage of 'D' III](/neptunia/rb1/colosseum/1-2029-the-lineage-of-d-iii.html) (Colosseum) |

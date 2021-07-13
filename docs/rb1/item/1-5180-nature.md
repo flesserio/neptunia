@@ -22,11 +22,10 @@ title: "Nature (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 10 |
 | **Max inventory** | 99 |
 | **Idea Chip level** | 3 |
-| **Idea Chip ability** | [Lily Up + Lv.3](/neptunia/rb1/avatar/1-9679-lily-up-lv-3.html)<br />Increases Lily Rank Gained XP by 300% |
-
+| **Idea Chip ability** | [Lily Up + Lv.3](/neptunia/rb1/ability/1-9679-lily-up-lv-3.html)<br />Increases Lily Rank Gained XP by 300% |
 
 ## Dungeons **Nature** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
-| <input type="checkbox" id="rb1-dungeon-1-10" class="trackbox" /> | 10 | [Base](/neptunia/rb1/dlc/1-base.html) | [Halo Mountain](/neptunia/rb1/dungeon/1-10-halo-mountain.html) | Gathering point |
+| <input type="checkbox" id="rb1-dungeon-1-10" class="trackbox" /> | 10 | [Base](/neptunia/rb1/dlc/1-base.html) | [Halo Mountain](/neptunia/rb1/dungeon/1-10-halo-mountain.html) | Gathering point (Harvest Shift) |

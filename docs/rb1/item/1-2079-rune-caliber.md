@@ -25,20 +25,17 @@ title: "Rune Caliber (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **Weapon skill** | [Fencer](/neptunia/rb1/skill/1-403-fencer.html) |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 2000 | 0 | 1700 | 0 | 0 | 0 | -170 | 0 | 0 | 0 | 0 |
 
-
 ## Colosseum quests which reward **Rune Caliber**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
 | <input type="checkbox" id="rb1-colosseum-1-2026" class="trackbox" /> | 2026 | [Base](/neptunia/rb1/dlc/1-base.html) | [Fear Purple](/neptunia/rb1/colosseum/1-2026-fear-purple.html) |
-
 
 ## Player characters who can equip **Rune Caliber**
 

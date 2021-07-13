@@ -24,15 +24,13 @@ title: "Pink Glasses (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **To unlock in shop** | Method 1<br />- Have Rom & Ram unlocked. |
 
-
 ## Remake System plans which require **Pink Glasses**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-798" class="trackbox" /> | 798 | [Base](/neptunia/rb1/dlc/1-base.html) | [Black Glasses](/neptunia/rb1/quest/1-798-black-glasses.html) |
-| <input type="checkbox" id="rb1-quest-1-799" class="trackbox" /> | 799 | [Base](/neptunia/rb1/dlc/1-base.html) | [Red Glasses](/neptunia/rb1/quest/1-799-red-glasses.html) |
-| <input type="checkbox" id="rb1-quest-1-800" class="trackbox" /> | 800 | [Base](/neptunia/rb1/dlc/1-base.html) | [Carrot Glasses](/neptunia/rb1/quest/1-800-carrot-glasses.html) |
-
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-798" class="trackbox" /> | 798 | [Base](/neptunia/rb1/dlc/1-base.html) | [Black Glasses](/neptunia/rb1/remake/1-798-black-glasses.html)<br />→ [Black Glasses](/neptunia/rb1/item/1-3495-black-glasses.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-1-799" class="trackbox" /> | 799 | [Base](/neptunia/rb1/dlc/1-base.html) | [Red Glasses](/neptunia/rb1/remake/1-799-red-glasses.html)<br />→ [Red Glasses](/neptunia/rb1/item/1-3496-red-glasses.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-1-800" class="trackbox" /> | 800 | [Base](/neptunia/rb1/dlc/1-base.html) | [Carrot Glasses](/neptunia/rb1/remake/1-800-carrot-glasses.html)<br />→ [Carrot Glasses](/neptunia/rb1/item/1-3497-carrot-glasses.html) (Accessory) | 1 |
 
 ## Player characters who can equip **Pink Glasses**
 

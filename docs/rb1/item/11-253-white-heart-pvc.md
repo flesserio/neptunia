@@ -23,13 +23,11 @@ title: "White Heart PVC (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 0 |
 | **Max inventory** | 99 |
 
-
 ## Monsters which drop **White Heart PVC**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-11-366" class="trackbox" /> | 366 | [Additional Content Package 2](/neptunia/rb1/dlc/11-pack2.html) | [Clione](/neptunia/rb1/monster/11-366-clione.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-11-366" class="trackbox" /> | 366 | [Additional Content Package 2](/neptunia/rb1/dlc/11-pack2.html) | [Clione](/neptunia/rb1/monster/11-366-clione.html) | 50% |
 
 ## Dungeons **White Heart PVC** is found
 

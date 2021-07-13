@@ -25,17 +25,17 @@ title: "Healing Grass (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Tool skill** | [Healing Grass](/neptunia/rb1/skill/1-10001-healing-grass.html) |
 | **To unlock in shop** | Unlocked from start of game<br />Unlocked from start of game |
 
-
 ## Dungeons **Healing Grass** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
-| <input type="checkbox" id="rb1-dungeon-1-1" class="trackbox" /> | 1 | [Base](/neptunia/rb1/dlc/1-base.html) | [Virtua Forest](/neptunia/rb1/dungeon/1-1-virtua-forest.html) | Gathering point |
-| <input type="checkbox" id="rb1-dungeon-1-3" class="trackbox" /> | 3 | [Base](/neptunia/rb1/dlc/1-base.html) | [West Wind Valley](/neptunia/rb1/dungeon/1-3-west-wind-valley.html) | Gathering point |
-| <input type="checkbox" id="rb1-dungeon-1-103" class="trackbox" /> | 103 | [Base](/neptunia/rb1/dlc/1-base.html) | [Ortan Fields](/neptunia/rb1/dungeon/1-103-ortan-fields.html) | Gathering point |
-| <input type="checkbox" id="rb1-dungeon-16-131" class="trackbox" /> | 131 | [Additional Content Pack 7](/neptunia/rb1/dlc/16-pack7.html) | [Rebeat Resort](/neptunia/rb1/dungeon/16-131-rebeat-resort.html) | Gathering point |
-| <input type="checkbox" id="rb1-dungeon-21-303" class="trackbox" /> | 303 | [Additional Content Pack 12](/neptunia/rb1/dlc/21-pack12.html) | [Lili Dungeon](/neptunia/rb1/dungeon/21-303-lili-dungeon.html) | Gathering point |
-
+| <input type="checkbox" id="rb1-dungeon-1-1" class="trackbox" /> | 1 | [Base](/neptunia/rb1/dlc/1-base.html) | [Virtua Forest](/neptunia/rb1/dungeon/1-1-virtua-forest.html) | Treasure |
+| <input type="checkbox" id="rb1-dungeon-1-1" class="trackbox" /> | 1 | [Base](/neptunia/rb1/dlc/1-base.html) | [Virtua Forest](/neptunia/rb1/dungeon/1-1-virtua-forest.html) | Hidden treasure |
+| <input type="checkbox" id="rb1-dungeon-1-3" class="trackbox" /> | 3 | [Base](/neptunia/rb1/dlc/1-base.html) | [West Wind Valley](/neptunia/rb1/dungeon/1-3-west-wind-valley.html) | Treasure |
+| <input type="checkbox" id="rb1-dungeon-1-103" class="trackbox" /> | 103 | [Base](/neptunia/rb1/dlc/1-base.html) | [Ortan Fields](/neptunia/rb1/dungeon/1-103-ortan-fields.html) | Hidden treasure |
+| <input type="checkbox" id="rb1-dungeon-16-131" class="trackbox" /> | 131 | [Additional Content Pack 7](/neptunia/rb1/dlc/16-pack7.html) | [Rebeat Resort](/neptunia/rb1/dungeon/16-131-rebeat-resort.html) | Hidden treasure |
+| <input type="checkbox" id="rb1-dungeon-21-303" class="trackbox" /> | 303 | [Additional Content Pack 12](/neptunia/rb1/dlc/21-pack12.html) | [Lili Dungeon](/neptunia/rb1/dungeon/21-303-lili-dungeon.html) | Treasure |
+| <input type="checkbox" id="rb1-dungeon-21-303" class="trackbox" /> | 303 | [Additional Content Pack 12](/neptunia/rb1/dlc/21-pack12.html) | [Lili Dungeon](/neptunia/rb1/dungeon/21-303-lili-dungeon.html) | Hidden treasure |
 
 ## Quests which reward **Healing Grass**
 

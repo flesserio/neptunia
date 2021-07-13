@@ -23,7 +23,6 @@ title: "Sunny Hat (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **To unlock in shop** | Method 1<br />- Have Rom & Ram unlocked. |
 
-
 ## Player characters who can equip **Sunny Hat**
 
 |    | ID | DLC | Name |

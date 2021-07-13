@@ -23,13 +23,11 @@ title: "Green Cat (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 5000 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Green Cat** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-660" class="trackbox" /> | 660 | [Base](/neptunia/rb1/dlc/1-base.html) | [Green Cat](/neptunia/rb1/remake/1-660-green-cat.html)<br /> → [Green Cat](/neptunia/rb1/item/1-3290-green-cat.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-660" class="trackbox" /> | 660 | [Base](/neptunia/rb1/dlc/1-base.html) | [Green Cat](/neptunia/rb1/remake/1-660-green-cat.html)<br />→ [Green Cat](/neptunia/rb1/item/1-3290-green-cat.html) (Accessory) |
 
 ## Player characters who can equip **Green Cat**
 

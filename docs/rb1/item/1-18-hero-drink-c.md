@@ -24,13 +24,11 @@ title: "Hero Drink C (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **Tool skill** | [Hero Drink C](/neptunia/rb1/skill/1-10018-hero-drink-c.html) |
 
-
 ## Remake System plans which unlock **Hero Drink C** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-330" class="trackbox" /> | 330 | [Base](/neptunia/rb1/dlc/1-base.html) | [Hero Drink C](/neptunia/rb1/remake/1-330-hero-drink-c.html)<br /> → [Hero Drink C](/neptunia/rb1/item/1-18-hero-drink-c.html) (Tool) |
-
+| <input type="checkbox" id="rb1-remake-1-330" class="trackbox" /> | 330 | [Base](/neptunia/rb1/dlc/1-base.html) | [Hero Drink C](/neptunia/rb1/remake/1-330-hero-drink-c.html)<br />→ [Hero Drink C](/neptunia/rb1/item/1-18-hero-drink-c.html) (Tool) |
 
 ## Colosseum quests which reward **Hero Drink C**
 

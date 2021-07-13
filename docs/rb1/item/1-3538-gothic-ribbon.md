@@ -25,27 +25,23 @@ title: "Gothic Ribbon (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 500 |
 | **Max inventory** | 99 |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 0 | 0 | 5 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 
-
 ## Monsters which drop **Gothic Ribbon**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-1-111" class="trackbox" /> | 111 | [Base](/neptunia/rb1/dlc/1-base.html) | [Sunflowery](/neptunia/rb1/monster/1-111-sunflowery.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-1-111" class="trackbox" /> | 111 | [Base](/neptunia/rb1/dlc/1-base.html) | [Sunflowery](/neptunia/rb1/monster/1-111-sunflowery.html) | 15% |
 
 ## Dungeons **Gothic Ribbon** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
 | <input type="checkbox" id="rb1-dungeon-1-3" class="trackbox" /> | 3 | [Base](/neptunia/rb1/dlc/1-base.html) | [West Wind Valley](/neptunia/rb1/dungeon/1-3-west-wind-valley.html) | Monster drop |
-
 
 ## Player characters who can equip **Gothic Ribbon**
 

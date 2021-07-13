@@ -23,16 +23,14 @@ title: "Older Man (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 10 |
 | **Max inventory** | 99 |
 | **Idea Chip level** | 3 |
-| **Idea Chip ability** | [Insect Defense Lv.3](/neptunia/rb1/avatar/1-9568-insect-defense-lv-3.html)<br />Increases Insect Defense by 20% |
-
+| **Idea Chip ability** | [Insect Defense Lv.3](/neptunia/rb1/ability/1-9568-insect-defense-lv-3.html)<br />Increases Insect Defense by 20% |
 
 ## Dungeons **Older Man** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
-| <input type="checkbox" id="rb1-dungeon-1-10" class="trackbox" /> | 10 | [Base](/neptunia/rb1/dlc/1-base.html) | [Halo Mountain](/neptunia/rb1/dungeon/1-10-halo-mountain.html) | Gathering point |
-| <input type="checkbox" id="rb1-dungeon-1-21" class="trackbox" /> | 21 | [Base](/neptunia/rb1/dlc/1-base.html) | [Factory No.459 Depths](/neptunia/rb1/dungeon/1-21-factory-no-459-depths.html) | Gathering point |
-
+| <input type="checkbox" id="rb1-dungeon-1-10" class="trackbox" /> | 10 | [Base](/neptunia/rb1/dlc/1-base.html) | [Halo Mountain](/neptunia/rb1/dungeon/1-10-halo-mountain.html) | Hidden treasure |
+| <input type="checkbox" id="rb1-dungeon-1-21" class="trackbox" /> | 21 | [Base](/neptunia/rb1/dlc/1-base.html) | [Factory No.459 Depths](/neptunia/rb1/dungeon/1-21-factory-no-459-depths.html) | Gathering point (Harvest Shift) |
 
 ## Quests which reward **Older Man**
 

@@ -23,13 +23,11 @@ title: "Moon Robe (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 75000 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Moon Robe** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-447" class="trackbox" /> | 447 | [Base](/neptunia/rb1/dlc/1-base.html) | [Moon Robe](/neptunia/rb1/remake/1-447-moon-robe.html)<br /> → [Moon Robe](/neptunia/rb1/item/1-2903-moon-robe.html) (Clothing) |
-
+| <input type="checkbox" id="rb1-remake-1-447" class="trackbox" /> | 447 | [Base](/neptunia/rb1/dlc/1-base.html) | [Moon Robe](/neptunia/rb1/remake/1-447-moon-robe.html)<br />→ [Moon Robe](/neptunia/rb1/item/1-2903-moon-robe.html) (Clothing) |
 
 ## Player characters who can equip **Moon Robe**
 

@@ -24,23 +24,20 @@ title: "Lastation Patrol (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 2500 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Lastation Patrol** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-727" class="trackbox" /> | 727 | [Base](/neptunia/rb1/dlc/1-base.html) | [Lastation Patrol](/neptunia/rb1/remake/1-727-lastation-patrol.html)<br /> → [Lastation Patrol](/neptunia/rb1/item/1-3386-lastation-patrol.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-727" class="trackbox" /> | 727 | [Base](/neptunia/rb1/dlc/1-base.html) | [Lastation Patrol](/neptunia/rb1/remake/1-727-lastation-patrol.html)<br />→ [Lastation Patrol](/neptunia/rb1/item/1-3386-lastation-patrol.html) (Accessory) |
 
 ## Remake System plans which require **Lastation Patrol**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-24" class="trackbox" /> | 24 | [Base](/neptunia/rb1/dlc/1-base.html) | [Add Colosseum Fight](/neptunia/rb1/quest/1-24-add-colosseum-fight.html) |
-| <input type="checkbox" id="rb1-quest-1-728" class="trackbox" /> | 728 | [Base](/neptunia/rb1/dlc/1-base.html) | [Planeptune Patrol](/neptunia/rb1/quest/1-728-planeptune-patrol.html) |
-| <input type="checkbox" id="rb1-quest-1-729" class="trackbox" /> | 729 | [Base](/neptunia/rb1/dlc/1-base.html) | [Lowee Patrol](/neptunia/rb1/quest/1-729-lowee-patrol.html) |
-| <input type="checkbox" id="rb1-quest-1-730" class="trackbox" /> | 730 | [Base](/neptunia/rb1/dlc/1-base.html) | [Leanbox Patrol](/neptunia/rb1/quest/1-730-leanbox-patrol.html) |
-
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-24" class="trackbox" /> | 24 | [Base](/neptunia/rb1/dlc/1-base.html) | [Add Colosseum Fight](/neptunia/rb1/remake/1-24-add-colosseum-fight.html)<br />→ [New Beat](/neptunia/rb1/colosseum/1-2030-new-beat.html) (Colosseum) | 1 |
+| <input type="checkbox" id="rb1-remake-1-728" class="trackbox" /> | 728 | [Base](/neptunia/rb1/dlc/1-base.html) | [Planeptune Patrol](/neptunia/rb1/remake/1-728-planeptune-patrol.html)<br />→ [Planeptune Patrol](/neptunia/rb1/item/1-3387-planeptune-patrol.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-1-729" class="trackbox" /> | 729 | [Base](/neptunia/rb1/dlc/1-base.html) | [Lowee Patrol](/neptunia/rb1/remake/1-729-lowee-patrol.html)<br />→ [Lowee Patrol](/neptunia/rb1/item/1-3388-lowee-patrol.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-1-730" class="trackbox" /> | 730 | [Base](/neptunia/rb1/dlc/1-base.html) | [Leanbox Patrol](/neptunia/rb1/remake/1-730-leanbox-patrol.html)<br />→ [Leanbox Patrol](/neptunia/rb1/item/1-3389-leanbox-patrol.html) (Accessory) | 1 |
 
 ## Player characters who can equip **Lastation Patrol**
 

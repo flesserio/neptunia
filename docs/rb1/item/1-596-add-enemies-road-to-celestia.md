@@ -23,16 +23,14 @@ title: "Add Enemies: Road to Celestia (Item) - Hyperdimension Neptunia Re;Birth1
 | **Sell Price** | 0 |
 | **Max inventory** | 1 |
 
-
 ## Chirpers who give **Add Enemies: Road to Celestia**
 
 |    | ID | DLC | Avatar | Message | Conditions |
 | -- | -- | --- | ------ | ------- | ---------- |
-| <input type="checkbox" id="rb1-chirper-event-1-5037" class="trackbox" /> | 5037 | [Base](/neptunia/rb1/dlc/1-base.html) | [Sir Toichi](/neptunia/rb1/undefined/1-220-sir-toichi.html) | Here's a Plan to summon stronger enemies!<br />I want to do something major and become a hero! | View scene [Chapter 8: To Celestia](/neptunia/rb1/scene/1-805-chapter-8-to-celestia.html)<br />Do not view scene [Chapter 8: The True Arfoire](/neptunia/rb1/scene/1-807-chapter-8-the-true-arfoire.html) |
-
+| <input type="checkbox" id="rb1-chirper-event-1-5037" class="trackbox" /> | 5037 | [Base](/neptunia/rb1/dlc/1-base.html) | [Sir Toichi](/neptunia/rb1/avatar/1-220-sir-toichi.html) | Here's a Plan to summon stronger enemies!<br />I want to do something major and become a hero! | View scene [Chapter 8: To Celestia](/neptunia/rb1/scene/1-805-chapter-8-to-celestia.html)<br />Do not view scene [Chapter 8: The True Arfoire](/neptunia/rb1/scene/1-807-chapter-8-the-true-arfoire.html) |
 
 ## Plans added to Remake System after collecting **Add Enemies: Road to Celestia**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-245" class="trackbox" /> | 245 | [Base](/neptunia/rb1/dlc/1-base.html) | [Add Enemies](/neptunia/rb1/remake/1-245-add-enemies.html)<br /> → [Road to Celestia](/neptunia/rb1/dungeon/1-25-road-to-celestia.html) (Dungeon) |
+| <input type="checkbox" id="rb1-remake-1-245" class="trackbox" /> | 245 | [Base](/neptunia/rb1/dlc/1-base.html) | [Add Enemies](/neptunia/rb1/remake/1-245-add-enemies.html)<br />→ [Road to Celestia](/neptunia/rb1/dungeon/1-25-road-to-celestia.html) (Dungeon) |

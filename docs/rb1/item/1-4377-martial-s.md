@@ -24,20 +24,17 @@ title: "Martial S (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 500 |
 | **Max inventory** | 99 |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 60 | -15 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 
-
 ## Quests which reward **Martial S**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
 | <input type="checkbox" id="rb1-quest-1-506" class="trackbox" /> | 506 | [Base](/neptunia/rb1/dlc/1-base.html) | [Spec-buster?](/neptunia/rb1/quest/1-506-spec-buster.html) |
-
 
 ## Player characters who can equip **Martial S**
 

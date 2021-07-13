@@ -25,20 +25,17 @@ title: "Cyber Edge (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 1 |
 | **Weapon skill** | [Slash](/neptunia/rb1/skill/1-2702-slash.html) |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 718 | 0 | 709 | 0 | 0 | 11 | 11 | 0 | 0 | 0 | 0 |
 
-
 ## Player characters who have **Cyber Edge** equipped by default
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
 | <input type="checkbox" id="rb1-player-1-15" class="trackbox" /> | 15 | [Base](/neptunia/rb1/dlc/1-base.html) | [CyberConnect2](/neptunia/rb1/player/1-15-cyberconnect2.html) |
-
 
 ## Player characters who can equip **Cyber Edge**
 

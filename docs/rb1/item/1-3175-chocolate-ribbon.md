@@ -23,13 +23,11 @@ title: "Chocolate Ribbon (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 1500 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Chocolate Ribbon** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-590" class="trackbox" /> | 590 | [Base](/neptunia/rb1/dlc/1-base.html) | [Chocolate Ribbon](/neptunia/rb1/remake/1-590-chocolate-ribbon.html)<br /> → [Chocolate Ribbon](/neptunia/rb1/item/1-3175-chocolate-ribbon.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-590" class="trackbox" /> | 590 | [Base](/neptunia/rb1/dlc/1-base.html) | [Chocolate Ribbon](/neptunia/rb1/remake/1-590-chocolate-ribbon.html)<br />→ [Chocolate Ribbon](/neptunia/rb1/item/1-3175-chocolate-ribbon.html) (Accessory) |
 
 ## Player characters who can equip **Chocolate Ribbon**
 

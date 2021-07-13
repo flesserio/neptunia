@@ -25,20 +25,17 @@ title: "Melee Pencil -G- (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **Weapon skill** | [Impulse](/neptunia/rb1/skill/1-1602-impulse.html) |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 1200 | 0 | 2200 | 0 | -220 | 0 | 0 | 0 | 0 | 0 | 0 |
 
-
 ## Colosseum quests which reward **Melee Pencil -G-**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
 | <input type="checkbox" id="rb1-colosseum-1-2031" class="trackbox" /> | 2031 | [Base](/neptunia/rb1/dlc/1-base.html) | [Phantom of Time](/neptunia/rb1/colosseum/1-2031-phantom-of-time.html) |
-
 
 ## Player characters who can equip **Melee Pencil -G-**
 

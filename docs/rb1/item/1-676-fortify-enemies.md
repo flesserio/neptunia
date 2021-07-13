@@ -23,13 +23,11 @@ title: "Fortify Enemies (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 0 |
 | **Max inventory** | 1 |
 
-
 ## Chirpers who give **Fortify Enemies**
 
 |    | ID | DLC | Avatar | Message | Conditions |
 | -- | -- | --- | ------ | ------- | ---------- |
-| <input type="checkbox" id="rb1-chirper-event-1-5099" class="trackbox" /> | 5099 | [Base](/neptunia/rb1/dlc/1-base.html) | [Slayer](/neptunia/rb1/undefined/1-227-slayer.html) | What is this Plan?!<br />Is this part of my trial to be king?! | View scene [Chapter 2: Histoire And Arfoire](/neptunia/rb1/scene/1-201-chapter-2-histoire-and-arfoire.html)<br />Do not view scene [Chapter 7: Revenge Of Momus](/neptunia/rb1/scene/1-727-chapter-7-revenge-of-momus.html) |
-
+| <input type="checkbox" id="rb1-chirper-event-1-5099" class="trackbox" /> | 5099 | [Base](/neptunia/rb1/dlc/1-base.html) | [Slayer](/neptunia/rb1/avatar/1-227-slayer.html) | What is this Plan?!<br />Is this part of my trial to be king?! | View scene [Chapter 2: Histoire And Arfoire](/neptunia/rb1/scene/1-201-chapter-2-histoire-and-arfoire.html)<br />Do not view scene [Chapter 7: Revenge Of Momus](/neptunia/rb1/scene/1-727-chapter-7-revenge-of-momus.html) |
 
 ## Plans added to Remake System after collecting **Fortify Enemies**
 

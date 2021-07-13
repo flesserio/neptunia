@@ -23,13 +23,11 @@ title: "Sakura Ribbon (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 2500 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Sakura Ribbon** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-582" class="trackbox" /> | 582 | [Base](/neptunia/rb1/dlc/1-base.html) | [Sakura Ribbon](/neptunia/rb1/remake/1-582-sakura-ribbon.html)<br /> → [Sakura Ribbon](/neptunia/rb1/item/1-3169-sakura-ribbon.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-582" class="trackbox" /> | 582 | [Base](/neptunia/rb1/dlc/1-base.html) | [Sakura Ribbon](/neptunia/rb1/remake/1-582-sakura-ribbon.html)<br />→ [Sakura Ribbon](/neptunia/rb1/item/1-3169-sakura-ribbon.html) (Accessory) |
 
 ## Player characters who can equip **Sakura Ribbon**
 

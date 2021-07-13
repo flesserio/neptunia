@@ -23,13 +23,11 @@ title: "Orange Button (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 125000 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Orange Button** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-7-514" class="trackbox" /> | 514 | [[Plutia] Battle Entry License](/neptunia/rb1/dlc/7-plutia.html) | [Orange Button](/neptunia/rb1/remake/7-514-orange-button.html)<br /> → [Orange Button](/neptunia/rb1/item/7-3064-orange-button.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-7-514" class="trackbox" /> | 514 | [[Plutia] Battle Entry License](/neptunia/rb1/dlc/7-plutia.html) | [Orange Button](/neptunia/rb1/remake/7-514-orange-button.html)<br />→ [Orange Button](/neptunia/rb1/item/7-3064-orange-button.html) (Accessory) |
 
 ## Player characters who can equip **Orange Button**
 

@@ -22,13 +22,12 @@ title: "Action (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 10 |
 | **Max inventory** | 99 |
 | **Idea Chip level** | 1 |
-| **Idea Chip ability** | [Add Paralysis Lv.1](/neptunia/rb1/avatar/1-9545-add-paralysis-lv-1.html)<br />Increases Add Paralysis by 10% |
-
+| **Idea Chip ability** | [Add Paralysis Lv.1](/neptunia/rb1/ability/1-9545-add-paralysis-lv-1.html)<br />Increases Add Paralysis by 10% |
 
 ## Dungeons **Action** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
-| <input type="checkbox" id="rb1-dungeon-1-3" class="trackbox" /> | 3 | [Base](/neptunia/rb1/dlc/1-base.html) | [West Wind Valley](/neptunia/rb1/dungeon/1-3-west-wind-valley.html) | Gathering point |
-| <input type="checkbox" id="rb1-dungeon-1-102" class="trackbox" /> | 102 | [Base](/neptunia/rb1/dlc/1-base.html) | [Mechtro Factory](/neptunia/rb1/dungeon/1-102-mechtro-factory.html) | Gathering point |
-| <input type="checkbox" id="rb1-dungeon-1-104" class="trackbox" /> | 104 | [Base](/neptunia/rb1/dlc/1-base.html) | [Toh-Kiden Cave](/neptunia/rb1/dungeon/1-104-toh-kiden-cave.html) | Gathering point |
+| <input type="checkbox" id="rb1-dungeon-1-3" class="trackbox" /> | 3 | [Base](/neptunia/rb1/dlc/1-base.html) | [West Wind Valley](/neptunia/rb1/dungeon/1-3-west-wind-valley.html) | Hidden treasure |
+| <input type="checkbox" id="rb1-dungeon-1-102" class="trackbox" /> | 102 | [Base](/neptunia/rb1/dlc/1-base.html) | [Mechtro Factory](/neptunia/rb1/dungeon/1-102-mechtro-factory.html) | Gathering point (Harvest Shift) |
+| <input type="checkbox" id="rb1-dungeon-1-104" class="trackbox" /> | 104 | [Base](/neptunia/rb1/dlc/1-base.html) | [Toh-Kiden Cave](/neptunia/rb1/dungeon/1-104-toh-kiden-cave.html) | Gathering point (Harvest Shift) |

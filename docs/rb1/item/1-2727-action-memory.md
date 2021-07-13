@@ -23,13 +23,11 @@ title: "Action Memory (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 2000 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Action Memory** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-401" class="trackbox" /> | 401 | [Base](/neptunia/rb1/dlc/1-base.html) | [Action Memory](/neptunia/rb1/remake/1-401-action-memory.html)<br /> → [Action Memory](/neptunia/rb1/item/1-2727-action-memory.html) (Ornament) |
-
+| <input type="checkbox" id="rb1-remake-1-401" class="trackbox" /> | 401 | [Base](/neptunia/rb1/dlc/1-base.html) | [Action Memory](/neptunia/rb1/remake/1-401-action-memory.html)<br />→ [Action Memory](/neptunia/rb1/item/1-2727-action-memory.html) (Ornament) |
 
 ## Player characters who can equip **Action Memory**
 

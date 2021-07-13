@@ -23,13 +23,11 @@ title: "Purple Heart PVC (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 0 |
 | **Max inventory** | 99 |
 
-
 ## Monsters which drop **Purple Heart PVC**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-10-419" class="trackbox" /> | 419 | [Additional Content Package 1](/neptunia/rb1/dlc/10-pack1.html) | [Delphi Eggplant MK-2](/neptunia/rb1/monster/10-419-delphi-eggplant-mk-2.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-10-419" class="trackbox" /> | 419 | [Additional Content Package 1](/neptunia/rb1/dlc/10-pack1.html) | [Delphi Eggplant MK-2](/neptunia/rb1/monster/10-419-delphi-eggplant-mk-2.html) | 50% |
 
 ## Dungeons **Purple Heart PVC** is found
 

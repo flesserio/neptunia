@@ -24,13 +24,11 @@ title: "Ice Wolf Claw (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 1411 |
 | **Max inventory** | 99 |
 
-
 ## Monsters which drop **Ice Wolf Claw**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-1-290" class="trackbox" /> | 290 | [Base](/neptunia/rb1/dlc/1-base.html) | [Ice Fenrir](/neptunia/rb1/monster/1-290-ice-fenrir.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-1-290" class="trackbox" /> | 290 | [Base](/neptunia/rb1/dlc/1-base.html) | [Ice Fenrir](/neptunia/rb1/monster/1-290-ice-fenrir.html) | 55% |
 
 ## Dungeons **Ice Wolf Claw** is found
 
@@ -39,9 +37,8 @@ title: "Ice Wolf Claw (Item) - Hyperdimension Neptunia Re;Birth1"
 | <input type="checkbox" id="rb1-dungeon-1-107" class="trackbox" /> | 107 | [Base](/neptunia/rb1/dlc/1-base.html) | [Gunbreak Underground Cavern](/neptunia/rb1/dungeon/1-107-gunbreak-underground-cavern.html) | Gathering point |
 | <input type="checkbox" id="rb1-dungeon-1-107" class="trackbox" /> | 107 | [Base](/neptunia/rb1/dlc/1-base.html) | [Gunbreak Underground Cavern](/neptunia/rb1/dungeon/1-107-gunbreak-underground-cavern.html) | Monster drop |
 
-
 ## Remake System plans which require **Ice Wolf Claw**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-252" class="trackbox" /> | 252 | [Base](/neptunia/rb1/dlc/1-base.html) | [Add Enemies](/neptunia/rb1/quest/1-252-add-enemies.html) |
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-252" class="trackbox" /> | 252 | [Base](/neptunia/rb1/dlc/1-base.html) | [Add Enemies](/neptunia/rb1/remake/1-252-add-enemies.html)<br />→ [Duty Space](/neptunia/rb1/dungeon/1-109-duty-space.html) (Dungeon) | 1 |

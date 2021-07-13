@@ -25,20 +25,17 @@ title: "Drive Hammer (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **Weapon skill** | [R Attack](/neptunia/rb1/skill/1-603-r-attack.html) |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 392 | 64 | 290 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 
-
 ## Remake System plans which unlock **Drive Hammer** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-370" class="trackbox" /> | 370 | [Base](/neptunia/rb1/dlc/1-base.html) | [Drive Hammer](/neptunia/rb1/remake/1-370-drive-hammer.html)<br /> → [Drive Hammer](/neptunia/rb1/item/1-2086-drive-hammer.html) (Hammer (Blanc)) |
-
+| <input type="checkbox" id="rb1-remake-1-370" class="trackbox" /> | 370 | [Base](/neptunia/rb1/dlc/1-base.html) | [Drive Hammer](/neptunia/rb1/remake/1-370-drive-hammer.html)<br />→ [Drive Hammer](/neptunia/rb1/item/1-2086-drive-hammer.html) (Hammer (Blanc)) |
 
 ## Player characters who can equip **Drive Hammer**
 

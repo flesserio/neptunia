@@ -25,13 +25,11 @@ title: "Cat Paw (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 116 |
 | **Max inventory** | 99 |
 
-
 ## Monsters which drop **Cat Paw**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-1-228" class="trackbox" /> | 228 | [Base](/neptunia/rb1/dlc/1-base.html) | [Max](/neptunia/rb1/monster/1-228-max.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-1-228" class="trackbox" /> | 228 | [Base](/neptunia/rb1/dlc/1-base.html) | [Max](/neptunia/rb1/monster/1-228-max.html) | 40% |
 
 ## Dungeons **Cat Paw** is found
 
@@ -40,16 +38,14 @@ title: "Cat Paw (Item) - Hyperdimension Neptunia Re;Birth1"
 | <input type="checkbox" id="rb1-dungeon-1-23" class="trackbox" /> | 23 | [Base](/neptunia/rb1/dlc/1-base.html) | [Gheytz Forest](/neptunia/rb1/dungeon/1-23-gheytz-forest.html) | Gathering point |
 | <input type="checkbox" id="rb1-dungeon-1-23" class="trackbox" /> | 23 | [Base](/neptunia/rb1/dlc/1-base.html) | [Gheytz Forest](/neptunia/rb1/dungeon/1-23-gheytz-forest.html) | Monster drop |
 
-
 ## Quests which require gathering **Cat Paw**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
 | <input type="checkbox" id="rb1-quest-1-717" class="trackbox" /> | 717 | [Base](/neptunia/rb1/dlc/1-base.html) | [Cat fur](/neptunia/rb1/quest/1-717-cat-fur.html) |
 
-
 ## Remake System plans which require **Cat Paw**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-378" class="trackbox" /> | 378 | [Base](/neptunia/rb1/dlc/1-base.html) | [Superior Spear](/neptunia/rb1/quest/1-378-superior-spear.html) |
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-378" class="trackbox" /> | 378 | [Base](/neptunia/rb1/dlc/1-base.html) | [Superior Spear](/neptunia/rb1/remake/1-378-superior-spear.html)<br />→ [Superior Spear](/neptunia/rb1/item/1-2114-superior-spear.html) (Spear (Vert)) | 3 |

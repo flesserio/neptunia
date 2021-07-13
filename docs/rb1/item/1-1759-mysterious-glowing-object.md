@@ -24,13 +24,11 @@ title: "Mysterious Glowing Object (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 5 |
 | **Max inventory** | 99 |
 
-
 ## Monsters which drop **Mysterious Glowing Object**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-1-6085" class="trackbox" /> | 6085 | [Base](/neptunia/rb1/dlc/1-base.html) | [Purr4](/neptunia/rb1/monster/1-6085-purr4.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-1-6085" class="trackbox" /> | 6085 | [Base](/neptunia/rb1/dlc/1-base.html) | [Purr4](/neptunia/rb1/monster/1-6085-purr4.html) | 40% |
 
 ## Dungeons **Mysterious Glowing Object** is found
 
@@ -39,12 +37,11 @@ title: "Mysterious Glowing Object (Item) - Hyperdimension Neptunia Re;Birth1"
 | <input type="checkbox" id="rb1-dungeon-1-3" class="trackbox" /> | 3 | [Base](/neptunia/rb1/dlc/1-base.html) | [West Wind Valley](/neptunia/rb1/dungeon/1-3-west-wind-valley.html) | Gathering point |
 | <input type="checkbox" id="rb1-dungeon-1-3" class="trackbox" /> | 3 | [Base](/neptunia/rb1/dlc/1-base.html) | [West Wind Valley](/neptunia/rb1/dungeon/1-3-west-wind-valley.html) | Monster drop |
 
-
 ## Remake System plans which require **Mysterious Glowing Object**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-7" class="trackbox" /> | 7 | [Base](/neptunia/rb1/dlc/1-base.html) | [Weaken Enemies](/neptunia/rb1/quest/1-7-weaken-enemies.html) |
-| <input type="checkbox" id="rb1-quest-1-211" class="trackbox" /> | 211 | [Base](/neptunia/rb1/dlc/1-base.html) | [Add Dungeon](/neptunia/rb1/quest/1-211-add-dungeon.html) |
-| <input type="checkbox" id="rb1-quest-1-278" class="trackbox" /> | 278 | [Base](/neptunia/rb1/dlc/1-base.html) | [Item Change](/neptunia/rb1/quest/1-278-item-change.html) |
-| <input type="checkbox" id="rb1-quest-1-321" class="trackbox" /> | 321 | [Base](/neptunia/rb1/dlc/1-base.html) | [Nep Bull EX](/neptunia/rb1/quest/1-321-nep-bull-ex.html) |
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-7" class="trackbox" /> | 7 | [Base](/neptunia/rb1/dlc/1-base.html) | [Weaken Enemies](/neptunia/rb1/remake/1-7-weaken-enemies.html) | 2 |
+| <input type="checkbox" id="rb1-remake-1-211" class="trackbox" /> | 211 | [Base](/neptunia/rb1/dlc/1-base.html) | [Add Dungeon](/neptunia/rb1/remake/1-211-add-dungeon.html)<br />→ [Ortan Fields](/neptunia/rb1/dungeon/1-103-ortan-fields.html) (Dungeon) | 2 |
+| <input type="checkbox" id="rb1-remake-1-278" class="trackbox" /> | 278 | [Base](/neptunia/rb1/dlc/1-base.html) | [Item Change](/neptunia/rb1/remake/1-278-item-change.html)<br />→ [West Wind Valley](/neptunia/rb1/dungeon/1-3-west-wind-valley.html) (Dungeon) | 2 |
+| <input type="checkbox" id="rb1-remake-1-321" class="trackbox" /> | 321 | [Base](/neptunia/rb1/dlc/1-base.html) | [Nep Bull EX](/neptunia/rb1/remake/1-321-nep-bull-ex.html)<br />→ [Nep Bull EX](/neptunia/rb1/item/1-8-nep-bull-ex.html) (Tool) | 2 |

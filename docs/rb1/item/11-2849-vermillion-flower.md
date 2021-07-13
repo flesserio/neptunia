@@ -24,20 +24,17 @@ title: "Vermillion Flower (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 500 |
 | **Max inventory** | 99 |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 0 | 15 | 0 | 15 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 
-
 ## Quests which reward **Vermillion Flower**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
 | <input type="checkbox" id="rb1-quest-11-1002" class="trackbox" /> | 1002 | [Additional Content Package 2](/neptunia/rb1/dlc/11-pack2.html) | [To say farewell](/neptunia/rb1/quest/11-1002-to-say-farewell.html) |
-
 
 ## Player characters who can equip **Vermillion Flower**
 

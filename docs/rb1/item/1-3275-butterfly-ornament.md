@@ -24,15 +24,13 @@ title: "Butterfly Ornament (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **To unlock in shop** | Method 1<br />- View scene [Chapter 3: (´・ω・｀) Ran-Ran](/neptunia/rb1/scene/1-309-chapter-3-ran-ran.html) |
 
-
 ## Remake System plans which require **Butterfly Ornament**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-654" class="trackbox" /> | 654 | [Base](/neptunia/rb1/dlc/1-base.html) | [Old Pupa Ornament](/neptunia/rb1/quest/1-654-old-pupa-ornament.html) |
-| <input type="checkbox" id="rb1-quest-1-655" class="trackbox" /> | 655 | [Base](/neptunia/rb1/dlc/1-base.html) | [Big Moth Ornament](/neptunia/rb1/quest/1-655-big-moth-ornament.html) |
-| <input type="checkbox" id="rb1-quest-1-656" class="trackbox" /> | 656 | [Base](/neptunia/rb1/dlc/1-base.html) | [Red Butterfly](/neptunia/rb1/quest/1-656-red-butterfly.html) |
-
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-654" class="trackbox" /> | 654 | [Base](/neptunia/rb1/dlc/1-base.html) | [Old Pupa Ornament](/neptunia/rb1/remake/1-654-old-pupa-ornament.html)<br />→ [Old Pupa Ornament](/neptunia/rb1/item/1-3276-old-pupa-ornament.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-1-655" class="trackbox" /> | 655 | [Base](/neptunia/rb1/dlc/1-base.html) | [Big Moth Ornament](/neptunia/rb1/remake/1-655-big-moth-ornament.html)<br />→ [Big Moth Ornament](/neptunia/rb1/item/1-3277-big-moth-ornament.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-1-656" class="trackbox" /> | 656 | [Base](/neptunia/rb1/dlc/1-base.html) | [Red Butterfly](/neptunia/rb1/remake/1-656-red-butterfly.html)<br />→ [Red Butterfly](/neptunia/rb1/item/1-3278-red-butterfly.html) (Accessory) | 1 |
 
 ## Player characters who can equip **Butterfly Ornament**
 

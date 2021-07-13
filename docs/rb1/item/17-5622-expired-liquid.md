@@ -25,13 +25,11 @@ title: "Expired Liquid (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Weapon skill** | [Syringe](/neptunia/rb1/skill/17-3101-syringe.html) |
 | **To unlock in shop** | Method 1<br />- View scene [Chapter 2: Histoire And Arfoire](/neptunia/rb1/scene/1-201-chapter-2-histoire-and-arfoire.html)<br />-  |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | -250 | 0 | 0 | 373 | 0 | 603 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-
 
 ## Player characters who can equip **Expired Liquid**
 

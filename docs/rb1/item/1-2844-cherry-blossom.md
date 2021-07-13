@@ -24,13 +24,11 @@ title: "Cherry Blossom (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **To unlock in shop** | Method 1<br />- View scene [Chapter 4: Where's Lowee's Key Fragment?](/neptunia/rb1/scene/1-410-chapter-4-wheres-lowees-key-fragment.html) |
 
-
 ## Remake System plans which require **Cherry Blossom**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-432" class="trackbox" /> | 432 | [Base](/neptunia/rb1/dlc/1-base.html) | [Cherry Blossom Maiden](/neptunia/rb1/quest/1-432-cherry-blossom-maiden.html) |
-
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-432" class="trackbox" /> | 432 | [Base](/neptunia/rb1/dlc/1-base.html) | [Cherry Blossom Maiden](/neptunia/rb1/remake/1-432-cherry-blossom-maiden.html)<br />→ [Cherry Blossom Maiden](/neptunia/rb1/item/1-2847-cherry-blossom-maiden.html) (Clothing) | 1 |
 
 ## Player characters who can equip **Cherry Blossom**
 

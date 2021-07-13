@@ -23,13 +23,11 @@ title: "Black Bunny (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 2500 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Black Bunny** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-796" class="trackbox" /> | 796 | [Base](/neptunia/rb1/dlc/1-base.html) | [Black Bunny](/neptunia/rb1/remake/1-796-black-bunny.html)<br /> → [Black Bunny](/neptunia/rb1/item/1-3492-black-bunny.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-796" class="trackbox" /> | 796 | [Base](/neptunia/rb1/dlc/1-base.html) | [Black Bunny](/neptunia/rb1/remake/1-796-black-bunny.html)<br />→ [Black Bunny](/neptunia/rb1/item/1-3492-black-bunny.html) (Accessory) |
 
 ## Player characters who can equip **Black Bunny**
 

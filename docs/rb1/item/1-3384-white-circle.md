@@ -23,7 +23,6 @@ title: "White Circle (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **To unlock in shop** | Method 1<br />- Have Uni unlocked. |
 
-
 ## Player characters who can equip **White Circle**
 
 |    | ID | DLC | Name |

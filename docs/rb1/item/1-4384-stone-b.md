@@ -24,20 +24,17 @@ title: "Stone B (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 500 |
 | **Max inventory** | 99 |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | -15 | 20 | 0 | 0 | -25 | 0 | 25 | 0 | 0 | 0 | 20 |
 
-
 ## Monsters which drop **Stone B**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-1-1032" class="trackbox" /> | 1032 | [Base](/neptunia/rb1/dlc/1-base.html) | [Killachine 1.01](/neptunia/rb1/monster/1-1032-killachine-1-01.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-1-1032" class="trackbox" /> | 1032 | [Base](/neptunia/rb1/dlc/1-base.html) | [Killachine 1.01](/neptunia/rb1/monster/1-1032-killachine-1-01.html) | 100% |
 
 ## Player characters who can equip **Stone B**
 

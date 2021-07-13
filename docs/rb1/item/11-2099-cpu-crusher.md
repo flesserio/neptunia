@@ -25,20 +25,17 @@ title: "CPU Crusher (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **Weapon skill** | [Attack](/neptunia/rb1/skill/1-601-attack.html) |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 2500 | 0 | 2000 | 3450 | 0 | 2475 | 0 | 0 | 400 | 0 | 0 | 0 | 0 | 0 |
 
-
 ## Remake System plans which unlock **CPU Crusher** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-11-373" class="trackbox" /> | 373 | [Additional Content Package 2](/neptunia/rb1/dlc/11-pack2.html) | [CPU Crusher](/neptunia/rb1/remake/11-373-cpu-crusher.html)<br /> → [CPU Crusher](/neptunia/rb1/item/11-2099-cpu-crusher.html) (Hammer (Blanc)) |
-
+| <input type="checkbox" id="rb1-remake-11-373" class="trackbox" /> | 373 | [Additional Content Package 2](/neptunia/rb1/dlc/11-pack2.html) | [CPU Crusher](/neptunia/rb1/remake/11-373-cpu-crusher.html)<br />→ [CPU Crusher](/neptunia/rb1/item/11-2099-cpu-crusher.html) (Hammer (Blanc)) |
 
 ## Player characters who can equip **CPU Crusher**
 

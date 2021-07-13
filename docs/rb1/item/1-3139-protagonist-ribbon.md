@@ -23,13 +23,11 @@ title: "Protagonist Ribbon (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 500 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Protagonist Ribbon** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-568" class="trackbox" /> | 568 | [Base](/neptunia/rb1/dlc/1-base.html) | [Protagonist Ribbon](/neptunia/rb1/remake/1-568-protagonist-ribbon.html)<br /> → [Protagonist Ribbon](/neptunia/rb1/item/1-3139-protagonist-ribbon.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-568" class="trackbox" /> | 568 | [Base](/neptunia/rb1/dlc/1-base.html) | [Protagonist Ribbon](/neptunia/rb1/remake/1-568-protagonist-ribbon.html)<br />→ [Protagonist Ribbon](/neptunia/rb1/item/1-3139-protagonist-ribbon.html) (Accessory) |
 
 ## Player characters who can equip **Protagonist Ribbon**
 

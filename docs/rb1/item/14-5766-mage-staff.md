@@ -24,13 +24,11 @@ title: "Mage Staff+? (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **Weapon skill** | [Shine](/neptunia/rb1/skill/1-2801-shine.html) |
 
-
 ## Colosseum quests which reward **Mage Staff+?**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
 | <input type="checkbox" id="rb1-colosseum-14-5002" class="trackbox" /> | 5002 | [Additional Content Pack 5](/neptunia/rb1/dlc/14-pack5.html) | [Chuunibyou](/neptunia/rb1/colosseum/14-5002-chuunibyou.html) |
-
 
 ## Player characters who can equip **Mage Staff+?**
 

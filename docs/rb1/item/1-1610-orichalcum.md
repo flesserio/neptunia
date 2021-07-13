@@ -24,13 +24,11 @@ title: "Orichalcum (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 1000 |
 | **Max inventory** | 99 |
 
-
 ## Monsters which drop **Orichalcum**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-1-354" class="trackbox" /> | 354 | [Base](/neptunia/rb1/dlc/1-base.html) | [Deneb](/neptunia/rb1/monster/1-354-deneb.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-1-354" class="trackbox" /> | 354 | [Base](/neptunia/rb1/dlc/1-base.html) | [Deneb](/neptunia/rb1/monster/1-354-deneb.html) | 75% |
 
 ## Dungeons **Orichalcum** is found
 
@@ -38,9 +36,8 @@ title: "Orichalcum (Item) - Hyperdimension Neptunia Re;Birth1"
 | -- | -- | --- | ---- | ---- |
 | <input type="checkbox" id="rb1-dungeon-1-117" class="trackbox" /> | 117 | [Base](/neptunia/rb1/dlc/1-base.html) | [Adjiten Forest Pass](/neptunia/rb1/dungeon/1-117-adjiten-forest-pass.html) | Monster drop |
 
-
 ## Remake System plans which require **Orichalcum**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-10-270" class="trackbox" /> | 270 | [Additional Content Package 1](/neptunia/rb1/dlc/10-pack1.html) | [Add Super Enemies](/neptunia/rb1/quest/10-270-add-super-enemies.html) |
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-10-270" class="trackbox" /> | 270 | [Additional Content Package 1](/neptunia/rb1/dlc/10-pack1.html) | [Add Super Enemies](/neptunia/rb1/remake/10-270-add-super-enemies.html)<br />→ [Adjiten Forest Pass](/neptunia/rb1/dungeon/1-117-adjiten-forest-pass.html) (Dungeon) | 1 |

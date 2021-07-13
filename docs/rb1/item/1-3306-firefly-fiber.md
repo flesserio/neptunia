@@ -23,13 +23,11 @@ title: "Firefly Fiber (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 5000 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Firefly Fiber** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-675" class="trackbox" /> | 675 | [Base](/neptunia/rb1/dlc/1-base.html) | [Firefly Fiber](/neptunia/rb1/remake/1-675-firefly-fiber.html)<br /> → [Firefly Fiber](/neptunia/rb1/item/1-3306-firefly-fiber.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-675" class="trackbox" /> | 675 | [Base](/neptunia/rb1/dlc/1-base.html) | [Firefly Fiber](/neptunia/rb1/remake/1-675-firefly-fiber.html)<br />→ [Firefly Fiber](/neptunia/rb1/item/1-3306-firefly-fiber.html) (Accessory) |
 
 ## Player characters who can equip **Firefly Fiber**
 

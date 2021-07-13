@@ -23,13 +23,11 @@ title: "Monochrome Button (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 125000 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Monochrome Button** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-7-512" class="trackbox" /> | 512 | [[Plutia] Battle Entry License](/neptunia/rb1/dlc/7-plutia.html) | [Monochrome Button](/neptunia/rb1/remake/7-512-monochrome-button.html)<br /> → [Monochrome Button](/neptunia/rb1/item/7-3062-monochrome-button.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-7-512" class="trackbox" /> | 512 | [[Plutia] Battle Entry License](/neptunia/rb1/dlc/7-plutia.html) | [Monochrome Button](/neptunia/rb1/remake/7-512-monochrome-button.html)<br />→ [Monochrome Button](/neptunia/rb1/item/7-3062-monochrome-button.html) (Accessory) |
 
 ## Player characters who can equip **Monochrome Button**
 

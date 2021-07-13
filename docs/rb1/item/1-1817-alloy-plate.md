@@ -24,13 +24,11 @@ title: "Alloy Plate (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 1130 |
 | **Max inventory** | 99 |
 
-
 ## Monsters which drop **Alloy Plate**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-1-300" class="trackbox" /> | 300 | [Base](/neptunia/rb1/dlc/1-base.html) | [Roborival](/neptunia/rb1/monster/1-300-roborival.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-1-300" class="trackbox" /> | 300 | [Base](/neptunia/rb1/dlc/1-base.html) | [Roborival](/neptunia/rb1/monster/1-300-roborival.html) | 70% |
 
 ## Dungeons **Alloy Plate** is found
 
@@ -38,10 +36,9 @@ title: "Alloy Plate (Item) - Hyperdimension Neptunia Re;Birth1"
 | -- | -- | --- | ---- | ---- |
 | <input type="checkbox" id="rb1-dungeon-1-109" class="trackbox" /> | 109 | [Base](/neptunia/rb1/dlc/1-base.html) | [Duty Space](/neptunia/rb1/dungeon/1-109-duty-space.html) | Monster drop |
 
-
 ## Remake System plans which require **Alloy Plate**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-853" class="trackbox" /> | 853 | [Base](/neptunia/rb1/dlc/1-base.html) | [Angel C](/neptunia/rb1/quest/1-853-angel-c.html) |
-| <input type="checkbox" id="rb1-quest-1-859" class="trackbox" /> | 859 | [Base](/neptunia/rb1/dlc/1-base.html) | [Devil C](/neptunia/rb1/quest/1-859-devil-c.html) |
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-853" class="trackbox" /> | 853 | [Base](/neptunia/rb1/dlc/1-base.html) | [Angel C](/neptunia/rb1/remake/1-853-angel-c.html)<br />→ [Angel C](/neptunia/rb1/item/1-4432-angel-c.html) (Processor (C)) | 1 |
+| <input type="checkbox" id="rb1-remake-1-859" class="trackbox" /> | 859 | [Base](/neptunia/rb1/dlc/1-base.html) | [Devil C](/neptunia/rb1/remake/1-859-devil-c.html)<br />→ [Devil C](/neptunia/rb1/item/1-4438-devil-c.html) (Processor (C)) | 1 |

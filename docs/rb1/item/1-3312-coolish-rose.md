@@ -23,13 +23,11 @@ title: "Coolish Rose (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 5000 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Coolish Rose** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-679" class="trackbox" /> | 679 | [Base](/neptunia/rb1/dlc/1-base.html) | [Coolish Rose](/neptunia/rb1/remake/1-679-coolish-rose.html)<br /> → [Coolish Rose](/neptunia/rb1/item/1-3312-coolish-rose.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-679" class="trackbox" /> | 679 | [Base](/neptunia/rb1/dlc/1-base.html) | [Coolish Rose](/neptunia/rb1/remake/1-679-coolish-rose.html)<br />→ [Coolish Rose](/neptunia/rb1/item/1-3312-coolish-rose.html) (Accessory) |
 
 ## Player characters who can equip **Coolish Rose**
 

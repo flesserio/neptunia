@@ -24,20 +24,17 @@ title: "Fuzzy Swimsuit (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 250000 |
 | **Max inventory** | 99 |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 30 | 0 | 0 | 0 | 0 | 0 | 0 |
 
-
 ## Remake System plans which unlock **Fuzzy Swimsuit** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-454" class="trackbox" /> | 454 | [Base](/neptunia/rb1/dlc/1-base.html) | [Fuzzy Swimsuit](/neptunia/rb1/remake/1-454-fuzzy-swimsuit.html)<br /> → [Fuzzy Swimsuit](/neptunia/rb1/item/1-2932-fuzzy-swimsuit.html) (Clothing) |
-
+| <input type="checkbox" id="rb1-remake-1-454" class="trackbox" /> | 454 | [Base](/neptunia/rb1/dlc/1-base.html) | [Fuzzy Swimsuit](/neptunia/rb1/remake/1-454-fuzzy-swimsuit.html)<br />→ [Fuzzy Swimsuit](/neptunia/rb1/item/1-2932-fuzzy-swimsuit.html) (Clothing) |
 
 ## Player characters who can equip **Fuzzy Swimsuit**
 

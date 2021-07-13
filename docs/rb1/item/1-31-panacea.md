@@ -24,16 +24,14 @@ title: "Panacea (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **Tool skill** | [Panacea](/neptunia/rb1/skill/1-10031-panacea.html) |
 
-
 ## Remake System plans which unlock **Panacea** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-338" class="trackbox" /> | 338 | [Base](/neptunia/rb1/dlc/1-base.html) | [Panacea](/neptunia/rb1/remake/1-338-panacea.html)<br /> → [Panacea](/neptunia/rb1/item/1-31-panacea.html) (Tool) |
-
+| <input type="checkbox" id="rb1-remake-1-338" class="trackbox" /> | 338 | [Base](/neptunia/rb1/dlc/1-base.html) | [Panacea](/neptunia/rb1/remake/1-338-panacea.html)<br />→ [Panacea](/neptunia/rb1/item/1-31-panacea.html) (Tool) |
 
 ## Dungeons **Panacea** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
-| <input type="checkbox" id="rb1-dungeon-1-11" class="trackbox" /> | 11 | [Base](/neptunia/rb1/dlc/1-base.html) | [Halo Mountain Peak](/neptunia/rb1/dungeon/1-11-halo-mountain-peak.html) | Gathering point |
+| <input type="checkbox" id="rb1-dungeon-1-11" class="trackbox" /> | 11 | [Base](/neptunia/rb1/dlc/1-base.html) | [Halo Mountain Peak](/neptunia/rb1/dungeon/1-11-halo-mountain-peak.html) | Treasure |

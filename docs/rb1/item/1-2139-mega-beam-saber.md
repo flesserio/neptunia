@@ -25,13 +25,11 @@ title: "Mega Beam Saber (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Weapon skill** | [L Slash](/neptunia/rb1/skill/1-1002-l-slash.html) |
 | **To unlock in shop** | Method 1<br />- Have Nepgear unlocked. |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 1339 | 0 | 1072 | 0 | 0 | -108 | 0 | 0 | 0 | 0 | 0 |
-
 
 ## Player characters who can equip **Mega Beam Saber**
 

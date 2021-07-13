@@ -24,13 +24,11 @@ title: "Cool Boxbird Wing (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 168 |
 | **Max inventory** | 99 |
 
-
 ## Monsters which drop **Cool Boxbird Wing**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-1-203" class="trackbox" /> | 203 | [Base](/neptunia/rb1/dlc/1-base.html) | [King Boxbird](/neptunia/rb1/monster/1-203-king-boxbird.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-1-203" class="trackbox" /> | 203 | [Base](/neptunia/rb1/dlc/1-base.html) | [King Boxbird](/neptunia/rb1/monster/1-203-king-boxbird.html) | 40% |
 
 ## Dungeons **Cool Boxbird Wing** is found
 
@@ -39,11 +37,10 @@ title: "Cool Boxbird Wing (Item) - Hyperdimension Neptunia Re;Birth1"
 | <input type="checkbox" id="rb1-dungeon-1-18" class="trackbox" /> | 18 | [Base](/neptunia/rb1/dlc/1-base.html) | [Neo-Geofront](/neptunia/rb1/dungeon/1-18-neo-geofront.html) | Monster drop |
 | <input type="checkbox" id="rb1-dungeon-1-19" class="trackbox" /> | 19 | [Base](/neptunia/rb1/dlc/1-base.html) | [Neo-Geofront Depths](/neptunia/rb1/dungeon/1-19-neo-geofront-depths.html) | Monster drop |
 
-
 ## Remake System plans which require **Cool Boxbird Wing**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-355" class="trackbox" /> | 355 | [Base](/neptunia/rb1/dlc/1-base.html) | [Demon Blade Rain](/neptunia/rb1/quest/1-355-demon-blade-rain.html) |
-| <input type="checkbox" id="rb1-quest-1-446" class="trackbox" /> | 446 | [Base](/neptunia/rb1/dlc/1-base.html) | [Sunny Robe](/neptunia/rb1/quest/1-446-sunny-robe.html) |
-| <input type="checkbox" id="rb1-quest-1-447" class="trackbox" /> | 447 | [Base](/neptunia/rb1/dlc/1-base.html) | [Moon Robe](/neptunia/rb1/quest/1-447-moon-robe.html) |
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-355" class="trackbox" /> | 355 | [Base](/neptunia/rb1/dlc/1-base.html) | [Demon Blade Rain](/neptunia/rb1/remake/1-355-demon-blade-rain.html)<br />→ [Demon Blade Rain](/neptunia/rb1/item/1-2019-demon-blade-rain.html) (Katana (Neptune)) | 2 |
+| <input type="checkbox" id="rb1-remake-1-446" class="trackbox" /> | 446 | [Base](/neptunia/rb1/dlc/1-base.html) | [Sunny Robe](/neptunia/rb1/remake/1-446-sunny-robe.html)<br />→ [Sunny Robe](/neptunia/rb1/item/1-2895-sunny-robe.html) (Clothing) | 5 |
+| <input type="checkbox" id="rb1-remake-1-447" class="trackbox" /> | 447 | [Base](/neptunia/rb1/dlc/1-base.html) | [Moon Robe](/neptunia/rb1/remake/1-447-moon-robe.html)<br />→ [Moon Robe](/neptunia/rb1/item/1-2903-moon-robe.html) (Clothing) | 5 |

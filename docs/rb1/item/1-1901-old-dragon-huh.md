@@ -25,13 +25,11 @@ title: "Old Dragon...Huh? (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 2661 |
 | **Max inventory** | 99 |
 
-
 ## Monsters which drop **Old Dragon...Huh?**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-1-363" class="trackbox" /> | 363 | [Base](/neptunia/rb1/dlc/1-base.html) | [Crescent Dragon](/neptunia/rb1/monster/1-363-crescent-dragon.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-1-363" class="trackbox" /> | 363 | [Base](/neptunia/rb1/dlc/1-base.html) | [Crescent Dragon](/neptunia/rb1/monster/1-363-crescent-dragon.html) | 55% |
 
 ## Dungeons **Old Dragon...Huh?** is found
 
@@ -40,19 +38,17 @@ title: "Old Dragon...Huh? (Item) - Hyperdimension Neptunia Re;Birth1"
 | <input type="checkbox" id="rb1-dungeon-1-118" class="trackbox" /> | 118 | [Base](/neptunia/rb1/dlc/1-base.html) | [Uwii Ruins](/neptunia/rb1/dungeon/1-118-uwii-ruins.html) | Gathering point |
 | <input type="checkbox" id="rb1-dungeon-1-118" class="trackbox" /> | 118 | [Base](/neptunia/rb1/dlc/1-base.html) | [Uwii Ruins](/neptunia/rb1/dungeon/1-118-uwii-ruins.html) | Monster drop |
 
-
 ## Quests which require gathering **Old Dragon...Huh?**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
 | <input type="checkbox" id="rb1-quest-1-725" class="trackbox" /> | 725 | [Base](/neptunia/rb1/dlc/1-base.html) | [That! You know!](/neptunia/rb1/quest/1-725-that-you-know.html) |
 
-
 ## Remake System plans which require **Old Dragon...Huh?**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-260" class="trackbox" /> | 260 | [Base](/neptunia/rb1/dlc/1-base.html) | [Add Enemies](/neptunia/rb1/quest/1-260-add-enemies.html) |
-| <input type="checkbox" id="rb1-quest-1-377" class="trackbox" /> | 377 | [Base](/neptunia/rb1/dlc/1-base.html) | [Lord Lance](/neptunia/rb1/quest/1-377-lord-lance.html) |
-| <input type="checkbox" id="rb1-quest-1-382" class="trackbox" /> | 382 | [Base](/neptunia/rb1/dlc/1-base.html) | [Tsuki](/neptunia/rb1/quest/1-382-tsuki.html) |
-| <input type="checkbox" id="rb1-quest-1-383" class="trackbox" /> | 383 | [Base](/neptunia/rb1/dlc/1-base.html) | [Truth Slayer](/neptunia/rb1/quest/1-383-truth-slayer.html) |
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-260" class="trackbox" /> | 260 | [Base](/neptunia/rb1/dlc/1-base.html) | [Add Enemies](/neptunia/rb1/remake/1-260-add-enemies.html)<br />→ [Zeca Ruins No.2](/neptunia/rb1/dungeon/1-120-zeca-ruins-no-2.html) (Dungeon) | 1 |
+| <input type="checkbox" id="rb1-remake-1-377" class="trackbox" /> | 377 | [Base](/neptunia/rb1/dlc/1-base.html) | [Lord Lance](/neptunia/rb1/remake/1-377-lord-lance.html)<br />→ [Lord Lance](/neptunia/rb1/item/1-2116-lord-lance.html) (Spear (Vert)) | 1 |
+| <input type="checkbox" id="rb1-remake-1-382" class="trackbox" /> | 382 | [Base](/neptunia/rb1/dlc/1-base.html) | [Tsuki](/neptunia/rb1/remake/1-382-tsuki.html)<br />→ [Tsuki](/neptunia/rb1/item/1-2416-tsuki.html) (Sword (MarvelousAQL)) | 1 |
+| <input type="checkbox" id="rb1-remake-1-383" class="trackbox" /> | 383 | [Base](/neptunia/rb1/dlc/1-base.html) | [Truth Slayer](/neptunia/rb1/remake/1-383-truth-slayer.html)<br />→ [Truth Slayer](/neptunia/rb1/item/1-2376-truth-slayer.html) (Sword (Falcom)) | 1 |

@@ -23,13 +23,11 @@ title: "Sunny Robe (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 75000 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Sunny Robe** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-446" class="trackbox" /> | 446 | [Base](/neptunia/rb1/dlc/1-base.html) | [Sunny Robe](/neptunia/rb1/remake/1-446-sunny-robe.html)<br /> → [Sunny Robe](/neptunia/rb1/item/1-2895-sunny-robe.html) (Clothing) |
-
+| <input type="checkbox" id="rb1-remake-1-446" class="trackbox" /> | 446 | [Base](/neptunia/rb1/dlc/1-base.html) | [Sunny Robe](/neptunia/rb1/remake/1-446-sunny-robe.html)<br />→ [Sunny Robe](/neptunia/rb1/item/1-2895-sunny-robe.html) (Clothing) |
 
 ## Player characters who can equip **Sunny Robe**
 

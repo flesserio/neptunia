@@ -23,13 +23,11 @@ title: "Feris Hat (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 500 |
 | **Max inventory** | 99 |
 
-
 ## Colosseum quests which reward **Feris Hat**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
 | <input type="checkbox" id="rb1-colosseum-1-2001" class="trackbox" /> | 2001 | [Base](/neptunia/rb1/dlc/1-base.html) | [Eat it Fried](/neptunia/rb1/colosseum/1-2001-eat-it-fried.html) |
-
 
 ## Player characters who can equip **Feris Hat**
 

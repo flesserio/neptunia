@@ -23,13 +23,11 @@ title: "Rosy Swallowtail (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 2500 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Rosy Swallowtail** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-750" class="trackbox" /> | 750 | [Base](/neptunia/rb1/dlc/1-base.html) | [Rosy Swallowtail](/neptunia/rb1/remake/1-750-rosy-swallowtail.html)<br /> → [Rosy Swallowtail](/neptunia/rb1/item/1-3416-rosy-swallowtail.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-750" class="trackbox" /> | 750 | [Base](/neptunia/rb1/dlc/1-base.html) | [Rosy Swallowtail](/neptunia/rb1/remake/1-750-rosy-swallowtail.html)<br />→ [Rosy Swallowtail](/neptunia/rb1/item/1-3416-rosy-swallowtail.html) (Accessory) |
 
 ## Player characters who can equip **Rosy Swallowtail**
 

@@ -23,16 +23,14 @@ title: "Plan: Healing Field (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 0 |
 | **Max inventory** | 1 |
 
-
 ## Plans added to Remake System after collecting **Plan: Healing Field**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-325" class="trackbox" /> | 325 | [Base](/neptunia/rb1/dlc/1-base.html) | [Healing Field](/neptunia/rb1/remake/1-325-healing-field.html)<br /> → [Healing Field](/neptunia/rb1/item/1-12-healing-field.html) (Tool) |
-
+| <input type="checkbox" id="rb1-remake-1-325" class="trackbox" /> | 325 | [Base](/neptunia/rb1/dlc/1-base.html) | [Healing Field](/neptunia/rb1/remake/1-325-healing-field.html)<br />→ [Healing Field](/neptunia/rb1/item/1-12-healing-field.html) (Tool) |
 
 ## Dungeons **Plan: Healing Field** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
-| <input type="checkbox" id="rb1-dungeon-1-117" class="trackbox" /> | 117 | [Base](/neptunia/rb1/dlc/1-base.html) | [Adjiten Forest Pass](/neptunia/rb1/dungeon/1-117-adjiten-forest-pass.html) | Gathering point |
+| <input type="checkbox" id="rb1-dungeon-1-117" class="trackbox" /> | 117 | [Base](/neptunia/rb1/dlc/1-base.html) | [Adjiten Forest Pass](/neptunia/rb1/dungeon/1-117-adjiten-forest-pass.html) | Treasure |

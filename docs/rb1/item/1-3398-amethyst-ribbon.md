@@ -24,15 +24,13 @@ title: "Amethyst Ribbon (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **To unlock in shop** | Method 1<br />- Have Uni unlocked. |
 
-
 ## Remake System plans which require **Amethyst Ribbon**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-737" class="trackbox" /> | 737 | [Base](/neptunia/rb1/dlc/1-base.html) | [Jet Ribbon](/neptunia/rb1/quest/1-737-jet-ribbon.html) |
-| <input type="checkbox" id="rb1-quest-1-738" class="trackbox" /> | 738 | [Base](/neptunia/rb1/dlc/1-base.html) | [Rose Ribbon](/neptunia/rb1/quest/1-738-rose-ribbon.html) |
-| <input type="checkbox" id="rb1-quest-1-739" class="trackbox" /> | 739 | [Base](/neptunia/rb1/dlc/1-base.html) | [Emerald Ribbon](/neptunia/rb1/quest/1-739-emerald-ribbon.html) |
-
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-737" class="trackbox" /> | 737 | [Base](/neptunia/rb1/dlc/1-base.html) | [Jet Ribbon](/neptunia/rb1/remake/1-737-jet-ribbon.html)<br />→ [Jet Ribbon](/neptunia/rb1/item/1-3399-jet-ribbon.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-1-738" class="trackbox" /> | 738 | [Base](/neptunia/rb1/dlc/1-base.html) | [Rose Ribbon](/neptunia/rb1/remake/1-738-rose-ribbon.html)<br />→ [Rose Ribbon](/neptunia/rb1/item/1-3400-rose-ribbon.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-1-739" class="trackbox" /> | 739 | [Base](/neptunia/rb1/dlc/1-base.html) | [Emerald Ribbon](/neptunia/rb1/remake/1-739-emerald-ribbon.html)<br />→ [Emerald Ribbon](/neptunia/rb1/item/1-3401-emerald-ribbon.html) (Accessory) | 1 |
 
 ## Player characters who can equip **Amethyst Ribbon**
 

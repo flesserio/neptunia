@@ -24,20 +24,17 @@ title: "Histoire's Attire (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 0 |
 | **Max inventory** | 1 |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 10 | 10 | 10 | 10 |
 
-
 ## Player characters who have **Histoire's Attire** equipped by default
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
 | <input type="checkbox" id="rb1-player-9-19" class="trackbox" /> | 19 | [[Histoire] Battle Entry License](/neptunia/rb1/dlc/9-histoire.html) | [Histoire](/neptunia/rb1/player/9-19-histoire.html) |
-
 
 ## Player characters who can equip **Histoire's Attire**
 

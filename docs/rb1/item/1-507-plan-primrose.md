@@ -23,16 +23,14 @@ title: "Plan: Primrose (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 0 |
 | **Max inventory** | 1 |
 
-
 ## Plans added to Remake System after collecting **Plan: Primrose**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-402" class="trackbox" /> | 402 | [Base](/neptunia/rb1/dlc/1-base.html) | [Primrose](/neptunia/rb1/remake/1-402-primrose.html)<br /> → [Primrose](/neptunia/rb1/item/1-2728-primrose.html) (Ornament) |
-
+| <input type="checkbox" id="rb1-remake-1-402" class="trackbox" /> | 402 | [Base](/neptunia/rb1/dlc/1-base.html) | [Primrose](/neptunia/rb1/remake/1-402-primrose.html)<br />→ [Primrose](/neptunia/rb1/item/1-2728-primrose.html) (Ornament) |
 
 ## Dungeons **Plan: Primrose** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
-| <input type="checkbox" id="rb1-dungeon-1-109" class="trackbox" /> | 109 | [Base](/neptunia/rb1/dlc/1-base.html) | [Duty Space](/neptunia/rb1/dungeon/1-109-duty-space.html) | Gathering point |
+| <input type="checkbox" id="rb1-dungeon-1-109" class="trackbox" /> | 109 | [Base](/neptunia/rb1/dlc/1-base.html) | [Duty Space](/neptunia/rb1/dungeon/1-109-duty-space.html) | Treasure |

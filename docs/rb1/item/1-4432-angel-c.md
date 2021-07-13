@@ -24,20 +24,17 @@ title: "Angel C (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 1000 |
 | **Max inventory** | 99 |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 30 | 30 | 55 | 55 | 30 | 40 | 30 | -15 | 15 | 15 | -15 |
 
-
 ## Remake System plans which unlock **Angel C** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-853" class="trackbox" /> | 853 | [Base](/neptunia/rb1/dlc/1-base.html) | [Angel C](/neptunia/rb1/remake/1-853-angel-c.html)<br /> → [Angel C](/neptunia/rb1/item/1-4432-angel-c.html) (Processor (C)) |
-
+| <input type="checkbox" id="rb1-remake-1-853" class="trackbox" /> | 853 | [Base](/neptunia/rb1/dlc/1-base.html) | [Angel C](/neptunia/rb1/remake/1-853-angel-c.html)<br />→ [Angel C](/neptunia/rb1/item/1-4432-angel-c.html) (Processor (C)) |
 
 ## Player characters who can equip **Angel C**
 

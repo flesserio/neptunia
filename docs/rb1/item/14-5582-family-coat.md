@@ -23,13 +23,11 @@ title: "Family Coat (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 0 |
 | **Max inventory** | 99 |
 
-
 ## Player characters who have **Family Coat** equipped by default
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
 | <input type="checkbox" id="rb1-player-14-28" class="trackbox" /> | 28 | [Additional Content Pack 5](/neptunia/rb1/dlc/14-pack5.html) | [Mina Nishizawa](/neptunia/rb1/player/14-28-mina-nishizawa.html) |
-
 
 ## Player characters who can equip **Family Coat**
 

@@ -25,27 +25,23 @@ title: "Pop-up Ring (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 500 |
 | **Max inventory** | 99 |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 1000 | 0 | 0 | 0 | 2437 | 358 | 2868 | 0 | 215 | 0 | 0 | 0 | 0 | 0 |
 
-
 ## Monsters which drop **Pop-up Ring**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-10-337" class="trackbox" /> | 337 | [Additional Content Package 1](/neptunia/rb1/dlc/10-pack1.html) | [Super Gebachu](/neptunia/rb1/monster/10-337-super-gebachu.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-10-337" class="trackbox" /> | 337 | [Additional Content Package 1](/neptunia/rb1/dlc/10-pack1.html) | [Super Gebachu](/neptunia/rb1/monster/10-337-super-gebachu.html) | 50% |
 
 ## Dungeons **Pop-up Ring** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
 | <input type="checkbox" id="rb1-dungeon-1-114" class="trackbox" /> | 114 | [Base](/neptunia/rb1/dlc/1-base.html) | [Kinest Range](/neptunia/rb1/dungeon/1-114-kinest-range.html) | Monster drop |
-
 
 ## Player characters who can equip **Pop-up Ring**
 

@@ -25,20 +25,17 @@ title: "Noire Plushy (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 1 |
 | **Weapon skill** | [All my might!](/neptunia/rb1/skill/7-203-all-my-might.html) |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 2000 | 0 | 0 | 2700 | 250 | 3450 | 0 | 400 | 0 | 0 | 0 | 0 | 0 | 0 |
 
-
 ## Colosseum quests which reward **Noire Plushy**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
 | <input type="checkbox" id="rb1-colosseum-12-2027" class="trackbox" /> | 2027 | [Additional Content Package 3](/neptunia/rb1/dlc/12-pack3.html) | [Beast who hunts kings](/neptunia/rb1/colosseum/12-2027-beast-who-hunts-kings.html) |
-
 
 ## Player characters who can equip **Noire Plushy**
 

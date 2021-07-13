@@ -25,20 +25,17 @@ title: "Annihilator (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **Weapon skill** | [Attack](/neptunia/rb1/skill/1-2401-attack.html) |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 1500 | 0 | 500 | 3120 | 126 | 2100 | 252 | 0 | 252 | 0 | 0 | 0 | 0 | 0 |
 
-
 ## Colosseum quests which reward **Annihilator**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
 | <input type="checkbox" id="rb1-colosseum-1-2017" class="trackbox" /> | 2017 | [Base](/neptunia/rb1/dlc/1-base.html) | [Twinkling Star](/neptunia/rb1/colosseum/1-2017-twinkling-star.html) |
-
 
 ## Player characters who can equip **Annihilator**
 

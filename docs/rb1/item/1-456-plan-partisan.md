@@ -23,16 +23,14 @@ title: "Plan: Partisan (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 0 |
 | **Max inventory** | 1 |
 
-
 ## Plans added to Remake System after collecting **Plan: Partisan**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-375" class="trackbox" /> | 375 | [Base](/neptunia/rb1/dlc/1-base.html) | [Partisan](/neptunia/rb1/remake/1-375-partisan.html)<br /> → [Partisan](/neptunia/rb1/item/1-2107-partisan.html) (Spear (Vert)) |
-
+| <input type="checkbox" id="rb1-remake-1-375" class="trackbox" /> | 375 | [Base](/neptunia/rb1/dlc/1-base.html) | [Partisan](/neptunia/rb1/remake/1-375-partisan.html)<br />→ [Partisan](/neptunia/rb1/item/1-2107-partisan.html) (Spear (Vert)) |
 
 ## Dungeons **Plan: Partisan** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
-| <input type="checkbox" id="rb1-dungeon-1-110" class="trackbox" /> | 110 | [Base](/neptunia/rb1/dlc/1-base.html) | [Donkong Ruins](/neptunia/rb1/dungeon/1-110-donkong-ruins.html) | Gathering point |
+| <input type="checkbox" id="rb1-dungeon-1-110" class="trackbox" /> | 110 | [Base](/neptunia/rb1/dlc/1-base.html) | [Donkong Ruins](/neptunia/rb1/dungeon/1-110-donkong-ruins.html) | Treasure |

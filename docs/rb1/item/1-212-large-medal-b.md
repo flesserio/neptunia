@@ -23,13 +23,11 @@ title: "Large Medal B (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 0 |
 | **Max inventory** | 1 |
 
-
 ## Monsters which drop **Large Medal B**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-1-284" class="trackbox" /> | 284 | [Base](/neptunia/rb1/dlc/1-base.html) | [Achilles](/neptunia/rb1/monster/1-284-achilles.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-1-284" class="trackbox" /> | 284 | [Base](/neptunia/rb1/dlc/1-base.html) | [Achilles](/neptunia/rb1/monster/1-284-achilles.html) | 100% |
 
 ## Dungeons **Large Medal B** is found
 

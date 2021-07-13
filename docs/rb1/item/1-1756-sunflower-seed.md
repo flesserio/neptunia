@@ -24,24 +24,22 @@ title: "Sunflower Seed (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 6 |
 | **Max inventory** | 99 |
 
-
 ## Monsters which drop **Sunflower Seed**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-1-111" class="trackbox" /> | 111 | [Base](/neptunia/rb1/dlc/1-base.html) | [Sunflowery](/neptunia/rb1/monster/1-111-sunflowery.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-1-111" class="trackbox" /> | 111 | [Base](/neptunia/rb1/dlc/1-base.html) | [Sunflowery](/neptunia/rb1/monster/1-111-sunflowery.html) | 40% |
 
 ## Dungeons **Sunflower Seed** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
 | <input type="checkbox" id="rb1-dungeon-1-3" class="trackbox" /> | 3 | [Base](/neptunia/rb1/dlc/1-base.html) | [West Wind Valley](/neptunia/rb1/dungeon/1-3-west-wind-valley.html) | Gathering point |
+| <input type="checkbox" id="rb1-dungeon-1-3" class="trackbox" /> | 3 | [Base](/neptunia/rb1/dlc/1-base.html) | [West Wind Valley](/neptunia/rb1/dungeon/1-3-west-wind-valley.html) | Gathering point (Harvest Shift) |
 | <input type="checkbox" id="rb1-dungeon-1-3" class="trackbox" /> | 3 | [Base](/neptunia/rb1/dlc/1-base.html) | [West Wind Valley](/neptunia/rb1/dungeon/1-3-west-wind-valley.html) | Monster drop |
-
 
 ## Remake System plans which require **Sunflower Seed**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-340" class="trackbox" /> | 340 | [Base](/neptunia/rb1/dlc/1-base.html) | [INT Booster](/neptunia/rb1/quest/1-340-int-booster.html) |
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-340" class="trackbox" /> | 340 | [Base](/neptunia/rb1/dlc/1-base.html) | [INT Booster](/neptunia/rb1/remake/1-340-int-booster.html)<br />→ [INT Booster](/neptunia/rb1/item/1-33-int-booster.html) (Tool) | 2 |

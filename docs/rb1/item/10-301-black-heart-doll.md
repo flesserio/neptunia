@@ -22,7 +22,6 @@ title: "Black Heart Doll (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 0 |
 | **Max inventory** | 99 |
 
-
 ## Colosseum quests which reward **Black Heart Doll**
 
 |    | ID | DLC | Name |

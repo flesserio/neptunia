@@ -25,20 +25,17 @@ title: "Excalibur (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **Weapon skill** | [L Slash](/neptunia/rb1/skill/1-3-l-slash.html) |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 1150 | 0 | 1150 | 0 | 57 | 57 | 0 | 0 | 0 | 0 | 0 |
 
-
 ## Remake System plans which unlock **Excalibur** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-356" class="trackbox" /> | 356 | [Base](/neptunia/rb1/dlc/1-base.html) | [Excalibur](/neptunia/rb1/remake/1-356-excalibur.html)<br /> → [Excalibur](/neptunia/rb1/item/1-2023-excalibur.html) (Broadsword (Neptune)) |
-
+| <input type="checkbox" id="rb1-remake-1-356" class="trackbox" /> | 356 | [Base](/neptunia/rb1/dlc/1-base.html) | [Excalibur](/neptunia/rb1/remake/1-356-excalibur.html)<br />→ [Excalibur](/neptunia/rb1/item/1-2023-excalibur.html) (Broadsword (Neptune)) |
 
 ## Player characters who can equip **Excalibur**
 

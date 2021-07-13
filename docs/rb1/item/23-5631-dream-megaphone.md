@@ -25,20 +25,17 @@ title: "Dream Megaphone (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **Weapon skill** | [Sound Waves](/neptunia/rb1/skill/23-3701-sound-waves.html) |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 60 | 0 | 60 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 
-
 ## Player characters who have **Dream Megaphone** equipped by default
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
 | <input type="checkbox" id="rb1-player-23-22" class="trackbox" /> | 22 | [Additional Content Pack 14](/neptunia/rb1/dlc/23-pack14.html) | [Uzume Tennouboshi](/neptunia/rb1/player/23-22-uzume-tennouboshi.html) |
-
 
 ## Player characters who can equip **Dream Megaphone**
 

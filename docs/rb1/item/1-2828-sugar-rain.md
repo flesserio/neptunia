@@ -24,13 +24,11 @@ title: "Sugar Rain (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **To unlock in shop** | Method 1<br />- View scene [Chapter 5: Reunion](/neptunia/rb1/scene/1-503-chapter-5-reunion.html) |
 
-
 ## Remake System plans which require **Sugar Rain**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-425" class="trackbox" /> | 425 | [Base](/neptunia/rb1/dlc/1-base.html) | [Sugar Style](/neptunia/rb1/quest/1-425-sugar-style.html) |
-
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-425" class="trackbox" /> | 425 | [Base](/neptunia/rb1/dlc/1-base.html) | [Sugar Style](/neptunia/rb1/remake/1-425-sugar-style.html)<br />→ [Sugar Style](/neptunia/rb1/item/1-2831-sugar-style.html) (Clothing) | 1 |
 
 ## Player characters who can equip **Sugar Rain**
 

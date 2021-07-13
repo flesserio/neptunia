@@ -23,13 +23,11 @@ title: "Fantasy Headdress (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 5000 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Fantasy Headdress** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-820" class="trackbox" /> | 820 | [Base](/neptunia/rb1/dlc/1-base.html) | [Fantasy Headdress](/neptunia/rb1/remake/1-820-fantasy-headdress.html)<br /> → [Fantasy Headdress](/neptunia/rb1/item/1-3524-fantasy-headdress.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-820" class="trackbox" /> | 820 | [Base](/neptunia/rb1/dlc/1-base.html) | [Fantasy Headdress](/neptunia/rb1/remake/1-820-fantasy-headdress.html)<br />→ [Fantasy Headdress](/neptunia/rb1/item/1-3524-fantasy-headdress.html) (Accessory) |
 
 ## Player characters who can equip **Fantasy Headdress**
 

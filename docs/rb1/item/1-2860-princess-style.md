@@ -23,13 +23,11 @@ title: "Princess Style (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 25000 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Princess Style** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-428" class="trackbox" /> | 428 | [Base](/neptunia/rb1/dlc/1-base.html) | [Princess Style](/neptunia/rb1/remake/1-428-princess-style.html)<br /> → [Princess Style](/neptunia/rb1/item/1-2860-princess-style.html) (Clothing) |
-
+| <input type="checkbox" id="rb1-remake-1-428" class="trackbox" /> | 428 | [Base](/neptunia/rb1/dlc/1-base.html) | [Princess Style](/neptunia/rb1/remake/1-428-princess-style.html)<br />→ [Princess Style](/neptunia/rb1/item/1-2860-princess-style.html) (Clothing) |
 
 ## Player characters who can equip **Princess Style**
 

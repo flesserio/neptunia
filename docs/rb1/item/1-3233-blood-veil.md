@@ -23,13 +23,11 @@ title: "Blood Veil (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 2500 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Blood Veil** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-624" class="trackbox" /> | 624 | [Base](/neptunia/rb1/dlc/1-base.html) | [Blood Veil](/neptunia/rb1/remake/1-624-blood-veil.html)<br /> → [Blood Veil](/neptunia/rb1/item/1-3233-blood-veil.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-624" class="trackbox" /> | 624 | [Base](/neptunia/rb1/dlc/1-base.html) | [Blood Veil](/neptunia/rb1/remake/1-624-blood-veil.html)<br />→ [Blood Veil](/neptunia/rb1/item/1-3233-blood-veil.html) (Accessory) |
 
 ## Player characters who can equip **Blood Veil**
 

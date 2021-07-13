@@ -23,16 +23,14 @@ title: "Plan: Youth Bandage (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 0 |
 | **Max inventory** | 1 |
 
-
 ## Plans added to Remake System after collecting **Plan: Youth Bandage**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-384" class="trackbox" /> | 384 | [Base](/neptunia/rb1/dlc/1-base.html) | [Youth Bandage](/neptunia/rb1/remake/1-384-youth-bandage.html)<br /> → [Youth Bandage](/neptunia/rb1/item/1-2515-youth-bandage.html) (Armor) |
-
+| <input type="checkbox" id="rb1-remake-1-384" class="trackbox" /> | 384 | [Base](/neptunia/rb1/dlc/1-base.html) | [Youth Bandage](/neptunia/rb1/remake/1-384-youth-bandage.html)<br />→ [Youth Bandage](/neptunia/rb1/item/1-2515-youth-bandage.html) (Armor) |
 
 ## Dungeons **Plan: Youth Bandage** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
-| <input type="checkbox" id="rb1-dungeon-1-103" class="trackbox" /> | 103 | [Base](/neptunia/rb1/dlc/1-base.html) | [Ortan Fields](/neptunia/rb1/dungeon/1-103-ortan-fields.html) | Gathering point |
+| <input type="checkbox" id="rb1-dungeon-1-103" class="trackbox" /> | 103 | [Base](/neptunia/rb1/dlc/1-base.html) | [Ortan Fields](/neptunia/rb1/dungeon/1-103-ortan-fields.html) | Treasure |

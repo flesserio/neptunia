@@ -25,28 +25,24 @@ title: "Martial B (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 500 |
 | **Max inventory** | 99 |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 35 | -15 | 0 | 10 | 0 | 0 | 25 | 0 | 0 | 0 | 0 |
 
-
 ## Monsters which drop **Martial B**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-1-185" class="trackbox" /> | 185 | [Base](/neptunia/rb1/dlc/1-base.html) | [Ice Lizard](/neptunia/rb1/monster/1-185-ice-lizard.html) |
-| <input type="checkbox" id="rb1-monster-1-186" class="trackbox" /> | 186 | [Base](/neptunia/rb1/dlc/1-base.html) | [Viral Ice Lizard](/neptunia/rb1/monster/1-186-viral-ice-lizard.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-1-185" class="trackbox" /> | 185 | [Base](/neptunia/rb1/dlc/1-base.html) | [Ice Lizard](/neptunia/rb1/monster/1-185-ice-lizard.html) | 15% |
+| <input type="checkbox" id="rb1-monster-1-186" class="trackbox" /> | 186 | [Base](/neptunia/rb1/dlc/1-base.html) | [Viral Ice Lizard](/neptunia/rb1/monster/1-186-viral-ice-lizard.html) | 15% |
 
 ## Dungeons **Martial B** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
 | <input type="checkbox" id="rb1-dungeon-1-16" class="trackbox" /> | 16 | [Base](/neptunia/rb1/dlc/1-base.html) | [Soulsac Cave](/neptunia/rb1/dungeon/1-16-soulsac-cave.html) | Monster drop |
-
 
 ## Player characters who can equip **Martial B**
 

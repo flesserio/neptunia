@@ -24,13 +24,11 @@ title: "Mal Antenna (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 11 |
 | **Max inventory** | 99 |
 
-
 ## Monsters which drop **Mal Antenna**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-1-127" class="trackbox" /> | 127 | [Base](/neptunia/rb1/dlc/1-base.html) | [Poxvader](/neptunia/rb1/monster/1-127-poxvader.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-1-127" class="trackbox" /> | 127 | [Base](/neptunia/rb1/dlc/1-base.html) | [Poxvader](/neptunia/rb1/monster/1-127-poxvader.html) | 40% |
 
 ## Dungeons **Mal Antenna** is found
 
@@ -39,11 +37,10 @@ title: "Mal Antenna (Item) - Hyperdimension Neptunia Re;Birth1"
 | <input type="checkbox" id="rb1-dungeon-1-6" class="trackbox" /> | 6 | [Base](/neptunia/rb1/dlc/1-base.html) | [Avenir Storage No.3](/neptunia/rb1/dungeon/1-6-avenir-storage-no-3.html) | Gathering point |
 | <input type="checkbox" id="rb1-dungeon-1-6" class="trackbox" /> | 6 | [Base](/neptunia/rb1/dlc/1-base.html) | [Avenir Storage No.3](/neptunia/rb1/dungeon/1-6-avenir-storage-no-3.html) | Monster drop |
 
-
 ## Remake System plans which require **Mal Antenna**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-213" class="trackbox" /> | 213 | [Base](/neptunia/rb1/dlc/1-base.html) | [Add Dungeon](/neptunia/rb1/quest/1-213-add-dungeon.html) |
-| <input type="checkbox" id="rb1-quest-1-549" class="trackbox" /> | 549 | [Base](/neptunia/rb1/dlc/1-base.html) | [Metal Eyepatch](/neptunia/rb1/quest/1-549-metal-eyepatch.html) |
-| <input type="checkbox" id="rb1-quest-8-699" class="trackbox" /> | 699 | [[Peashy] Battle Entry License](/neptunia/rb1/dlc/8-peashy.html) | [Huge Ribbon](/neptunia/rb1/quest/8-699-huge-ribbon.html) |
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-213" class="trackbox" /> | 213 | [Base](/neptunia/rb1/dlc/1-base.html) | [Add Dungeon](/neptunia/rb1/remake/1-213-add-dungeon.html)<br />→ [Gravidaze Ruins](/neptunia/rb1/dungeon/1-106-gravidaze-ruins.html) (Dungeon) | 2 |
+| <input type="checkbox" id="rb1-remake-1-549" class="trackbox" /> | 549 | [Base](/neptunia/rb1/dlc/1-base.html) | [Metal Eyepatch](/neptunia/rb1/remake/1-549-metal-eyepatch.html)<br />→ [Metal Eyepatch](/neptunia/rb1/item/1-3104-metal-eyepatch.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-8-699" class="trackbox" /> | 699 | [[Peashy] Battle Entry License](/neptunia/rb1/dlc/8-peashy.html) | [Huge Ribbon](/neptunia/rb1/remake/8-699-huge-ribbon.html)<br />→ [Huge Ribbon](/neptunia/rb1/item/8-3345-huge-ribbon.html) (Accessory) | 2 |

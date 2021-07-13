@@ -24,20 +24,17 @@ title: "Orbital-S L (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 1000 |
 | **Max inventory** | 99 |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 0 | 40 | 0 | -15 | 90 | 0 | 30 | 0 | 0 | 0 | 0 |
 
-
 ## Dungeons **Orbital-S L** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
-| <input type="checkbox" id="rb1-dungeon-1-121" class="trackbox" /> | 121 | [Base](/neptunia/rb1/dlc/1-base.html) | [Dees Snow Forest](/neptunia/rb1/dungeon/1-121-dees-snow-forest.html) | Gathering point |
-
+| <input type="checkbox" id="rb1-dungeon-1-121" class="trackbox" /> | 121 | [Base](/neptunia/rb1/dlc/1-base.html) | [Dees Snow Forest](/neptunia/rb1/dungeon/1-121-dees-snow-forest.html) | Hidden treasure |
 
 ## Player characters who can equip **Orbital-S L**
 

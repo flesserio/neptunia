@@ -25,20 +25,17 @@ title: "Fuzzy Charm (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 500 |
 | **Max inventory** | 99 |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 10 | 0 | 0 |
 
-
 ## Monsters which drop **Fuzzy Charm**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-1-387" class="trackbox" /> | 387 | [Base](/neptunia/rb1/dlc/1-base.html) | [Alfred](/neptunia/rb1/monster/1-387-alfred.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-1-387" class="trackbox" /> | 387 | [Base](/neptunia/rb1/dlc/1-base.html) | [Alfred](/neptunia/rb1/monster/1-387-alfred.html) | 15% |
 
 ## Dungeons **Fuzzy Charm** is found
 
@@ -46,7 +43,6 @@ title: "Fuzzy Charm (Item) - Hyperdimension Neptunia Re;Birth1"
 | -- | -- | --- | ---- | ---- |
 | <input type="checkbox" id="rb1-dungeon-1-123" class="trackbox" /> | 123 | [Base](/neptunia/rb1/dlc/1-base.html) | [Graphic Pass](/neptunia/rb1/dungeon/1-123-graphic-pass.html) | Monster drop |
 | <input type="checkbox" id="rb1-dungeon-1-124" class="trackbox" /> | 124 | [Base](/neptunia/rb1/dlc/1-base.html) | [Graphic Pass Peak](/neptunia/rb1/dungeon/1-124-graphic-pass-peak.html) | Monster drop |
-
 
 ## Player characters who can equip **Fuzzy Charm**
 

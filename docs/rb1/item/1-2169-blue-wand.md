@@ -25,13 +25,11 @@ title: "Blue Wand (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Weapon skill** | [Impulse](/neptunia/rb1/skill/1-1802-impulse.html) |
 | **To unlock in shop** | Method 1<br />- Have Rom & Ram unlocked. |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 780 | 0 | 1430 | 0 | -143 | 0 | 0 | 0 | 0 | 0 | 0 |
-
 
 ## Player characters who can equip **Blue Wand**
 

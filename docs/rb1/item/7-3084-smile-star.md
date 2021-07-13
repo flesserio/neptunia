@@ -23,13 +23,11 @@ title: "Smile Star (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 50000 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Smile Star** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-7-529" class="trackbox" /> | 529 | [[Plutia] Battle Entry License](/neptunia/rb1/dlc/7-plutia.html) | [Smile Star](/neptunia/rb1/remake/7-529-smile-star.html)<br /> → [Smile Star](/neptunia/rb1/item/7-3084-smile-star.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-7-529" class="trackbox" /> | 529 | [[Plutia] Battle Entry License](/neptunia/rb1/dlc/7-plutia.html) | [Smile Star](/neptunia/rb1/remake/7-529-smile-star.html)<br />→ [Smile Star](/neptunia/rb1/item/7-3084-smile-star.html) (Accessory) |
 
 ## Player characters who can equip **Smile Star**
 

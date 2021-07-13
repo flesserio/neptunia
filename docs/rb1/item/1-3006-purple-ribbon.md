@@ -23,13 +23,11 @@ title: "Purple Ribbon (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 2500 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Purple Ribbon** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-469" class="trackbox" /> | 469 | [Base](/neptunia/rb1/dlc/1-base.html) | [Purple Ribbon](/neptunia/rb1/remake/1-469-purple-ribbon.html)<br /> → [Purple Ribbon](/neptunia/rb1/item/1-3006-purple-ribbon.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-469" class="trackbox" /> | 469 | [Base](/neptunia/rb1/dlc/1-base.html) | [Purple Ribbon](/neptunia/rb1/remake/1-469-purple-ribbon.html)<br />→ [Purple Ribbon](/neptunia/rb1/item/1-3006-purple-ribbon.html) (Accessory) |
 
 ## Player characters who can equip **Purple Ribbon**
 

@@ -25,20 +25,17 @@ title: "Esperance (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **Weapon skill** | [Slash](/neptunia/rb1/skill/1-2-slash.html) |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 603 | 0 | 431 | 0 | -61 | -61 | 0 | 0 | 0 | 0 | 0 |
 
-
 ## Dungeons **Esperance** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
-| <input type="checkbox" id="rb1-dungeon-1-19" class="trackbox" /> | 19 | [Base](/neptunia/rb1/dlc/1-base.html) | [Neo-Geofront Depths](/neptunia/rb1/dungeon/1-19-neo-geofront-depths.html) | Gathering point |
-
+| <input type="checkbox" id="rb1-dungeon-1-19" class="trackbox" /> | 19 | [Base](/neptunia/rb1/dlc/1-base.html) | [Neo-Geofront Depths](/neptunia/rb1/dungeon/1-19-neo-geofront-depths.html) | Treasure |
 
 ## Player characters who can equip **Esperance**
 

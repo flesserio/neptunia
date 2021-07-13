@@ -23,13 +23,11 @@ title: "Large Medal D (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 0 |
 | **Max inventory** | 1 |
 
-
 ## Monsters which drop **Large Medal D**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-1-142" class="trackbox" /> | 142 | [Base](/neptunia/rb1/dlc/1-base.html) | [Pollux](/neptunia/rb1/monster/1-142-pollux.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-1-142" class="trackbox" /> | 142 | [Base](/neptunia/rb1/dlc/1-base.html) | [Pollux](/neptunia/rb1/monster/1-142-pollux.html) | 100% |
 
 ## Dungeons **Large Medal D** is found
 

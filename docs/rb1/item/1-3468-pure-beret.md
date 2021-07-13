@@ -24,15 +24,13 @@ title: "Pure Beret (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **To unlock in shop** | Method 1<br />- Have Rom & Ram unlocked. |
 
-
 ## Remake System plans which require **Pure Beret**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-784" class="trackbox" /> | 784 | [Base](/neptunia/rb1/dlc/1-base.html) | [Graphite Beret](/neptunia/rb1/quest/1-784-graphite-beret.html) |
-| <input type="checkbox" id="rb1-quest-1-785" class="trackbox" /> | 785 | [Base](/neptunia/rb1/dlc/1-base.html) | [Turquoise Beret](/neptunia/rb1/quest/1-785-turquoise-beret.html) |
-| <input type="checkbox" id="rb1-quest-1-786" class="trackbox" /> | 786 | [Base](/neptunia/rb1/dlc/1-base.html) | [Candy Beret](/neptunia/rb1/quest/1-786-candy-beret.html) |
-
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-784" class="trackbox" /> | 784 | [Base](/neptunia/rb1/dlc/1-base.html) | [Graphite Beret](/neptunia/rb1/remake/1-784-graphite-beret.html)<br />→ [Graphite Beret](/neptunia/rb1/item/1-3469-graphite-beret.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-1-785" class="trackbox" /> | 785 | [Base](/neptunia/rb1/dlc/1-base.html) | [Turquoise Beret](/neptunia/rb1/remake/1-785-turquoise-beret.html)<br />→ [Turquoise Beret](/neptunia/rb1/item/1-3470-turquoise-beret.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-1-786" class="trackbox" /> | 786 | [Base](/neptunia/rb1/dlc/1-base.html) | [Candy Beret](/neptunia/rb1/remake/1-786-candy-beret.html)<br />→ [Candy Beret](/neptunia/rb1/item/1-3471-candy-beret.html) (Accessory) | 1 |
 
 ## Player characters who can equip **Pure Beret**
 

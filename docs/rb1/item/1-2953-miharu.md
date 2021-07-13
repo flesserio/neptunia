@@ -24,20 +24,17 @@ title: "Miharu (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 250000 |
 | **Max inventory** | 99 |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 30 | 0 | 0 | 0 | 0 | 0 | 0 |
 
-
 ## Remake System plans which unlock **Miharu** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-457" class="trackbox" /> | 457 | [Base](/neptunia/rb1/dlc/1-base.html) | [Miharu](/neptunia/rb1/remake/1-457-miharu.html)<br /> → [Miharu](/neptunia/rb1/item/1-2953-miharu.html) (Clothing) |
-
+| <input type="checkbox" id="rb1-remake-1-457" class="trackbox" /> | 457 | [Base](/neptunia/rb1/dlc/1-base.html) | [Miharu](/neptunia/rb1/remake/1-457-miharu.html)<br />→ [Miharu](/neptunia/rb1/item/1-2953-miharu.html) (Clothing) |
 
 ## Player characters who can equip **Miharu**
 

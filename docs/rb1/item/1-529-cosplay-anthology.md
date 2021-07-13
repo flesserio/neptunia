@@ -24,22 +24,19 @@ title: "Cosplay Anthology (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 0 |
 | **Max inventory** | 1 |
 
-
 ## Plans added to Remake System after collecting **Cosplay Anthology**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-425" class="trackbox" /> | 425 | [Base](/neptunia/rb1/dlc/1-base.html) | [Sugar Style](/neptunia/rb1/remake/1-425-sugar-style.html)<br /> → [Sugar Style](/neptunia/rb1/item/1-2831-sugar-style.html) (Clothing) |
-| <input type="checkbox" id="rb1-remake-1-426" class="trackbox" /> | 426 | [Base](/neptunia/rb1/dlc/1-base.html) | [Stone Leek Style](/neptunia/rb1/remake/1-426-stone-leek-style.html)<br /> → [Stone Leek Style](/neptunia/rb1/item/1-2832-stone-leek-style.html) (Clothing) |
-| <input type="checkbox" id="rb1-remake-1-427" class="trackbox" /> | 427 | [Base](/neptunia/rb1/dlc/1-base.html) | [Pretty Style](/neptunia/rb1/remake/1-427-pretty-style.html)<br /> → [Pretty Style](/neptunia/rb1/item/1-2833-pretty-style.html) (Clothing) |
-
+| <input type="checkbox" id="rb1-remake-1-425" class="trackbox" /> | 425 | [Base](/neptunia/rb1/dlc/1-base.html) | [Sugar Style](/neptunia/rb1/remake/1-425-sugar-style.html)<br />→ [Sugar Style](/neptunia/rb1/item/1-2831-sugar-style.html) (Clothing) |
+| <input type="checkbox" id="rb1-remake-1-426" class="trackbox" /> | 426 | [Base](/neptunia/rb1/dlc/1-base.html) | [Stone Leek Style](/neptunia/rb1/remake/1-426-stone-leek-style.html)<br />→ [Stone Leek Style](/neptunia/rb1/item/1-2832-stone-leek-style.html) (Clothing) |
+| <input type="checkbox" id="rb1-remake-1-427" class="trackbox" /> | 427 | [Base](/neptunia/rb1/dlc/1-base.html) | [Pretty Style](/neptunia/rb1/remake/1-427-pretty-style.html)<br />→ [Pretty Style](/neptunia/rb1/item/1-2833-pretty-style.html) (Clothing) |
 
 ## Monsters which drop **Cosplay Anthology**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-1-336" class="trackbox" /> | 336 | [Base](/neptunia/rb1/dlc/1-base.html) | [Nemesis](/neptunia/rb1/monster/1-336-nemesis.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-1-336" class="trackbox" /> | 336 | [Base](/neptunia/rb1/dlc/1-base.html) | [Nemesis](/neptunia/rb1/monster/1-336-nemesis.html) | 45% |
 
 ## Dungeons **Cosplay Anthology** is found
 

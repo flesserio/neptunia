@@ -24,13 +24,11 @@ title: "Delinquent Mask (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 7 |
 | **Max inventory** | 99 |
 
-
 ## Monsters which drop **Delinquent Mask**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-1-264" class="trackbox" /> | 264 | [Base](/neptunia/rb1/dlc/1-base.html) | [Delinquent Cat](/neptunia/rb1/monster/1-264-delinquent-cat.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-1-264" class="trackbox" /> | 264 | [Base](/neptunia/rb1/dlc/1-base.html) | [Delinquent Cat](/neptunia/rb1/monster/1-264-delinquent-cat.html) | 40% |
 
 ## Dungeons **Delinquent Mask** is found
 
@@ -39,10 +37,9 @@ title: "Delinquent Mask (Item) - Hyperdimension Neptunia Re;Birth1"
 | <input type="checkbox" id="rb1-dungeon-1-103" class="trackbox" /> | 103 | [Base](/neptunia/rb1/dlc/1-base.html) | [Ortan Fields](/neptunia/rb1/dungeon/1-103-ortan-fields.html) | Gathering point |
 | <input type="checkbox" id="rb1-dungeon-1-103" class="trackbox" /> | 103 | [Base](/neptunia/rb1/dlc/1-base.html) | [Ortan Fields](/neptunia/rb1/dungeon/1-103-ortan-fields.html) | Monster drop |
 
-
 ## Remake System plans which require **Delinquent Mask**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-212" class="trackbox" /> | 212 | [Base](/neptunia/rb1/dlc/1-base.html) | [Add Dungeon](/neptunia/rb1/quest/1-212-add-dungeon.html) |
-| <input type="checkbox" id="rb1-quest-1-342" class="trackbox" /> | 342 | [Base](/neptunia/rb1/dlc/1-base.html) | [AGI Booster](/neptunia/rb1/quest/1-342-agi-booster.html) |
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-212" class="trackbox" /> | 212 | [Base](/neptunia/rb1/dlc/1-base.html) | [Add Dungeon](/neptunia/rb1/remake/1-212-add-dungeon.html)<br />→ [Toh-Kiden Cave](/neptunia/rb1/dungeon/1-104-toh-kiden-cave.html) (Dungeon) | 2 |
+| <input type="checkbox" id="rb1-remake-1-342" class="trackbox" /> | 342 | [Base](/neptunia/rb1/dlc/1-base.html) | [AGI Booster](/neptunia/rb1/remake/1-342-agi-booster.html)<br />→ [AGI Booster](/neptunia/rb1/item/1-35-agi-booster.html) (Tool) | 2 |

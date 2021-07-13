@@ -22,8 +22,7 @@ title: "Child-oriented (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 10 |
 | **Max inventory** | 99 |
 | **Idea Chip level** | 2 |
-| **Idea Chip ability** | [Battle End SP Heal Lv.2](/neptunia/rb1/avatar/1-9638-battle-end-sp-heal-lv-2.html)<br />Increases Battle End SP Heal by 4% |
-
+| **Idea Chip ability** | [Battle End SP Heal Lv.2](/neptunia/rb1/ability/1-9638-battle-end-sp-heal-lv-2.html)<br />Increases Battle End SP Heal by 4% |
 
 ## Colosseum quests which reward **Child-oriented**
 

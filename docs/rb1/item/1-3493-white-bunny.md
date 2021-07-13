@@ -23,13 +23,11 @@ title: "White Bunny (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 2500 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **White Bunny** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-797" class="trackbox" /> | 797 | [Base](/neptunia/rb1/dlc/1-base.html) | [White Bunny](/neptunia/rb1/remake/1-797-white-bunny.html)<br /> → [White Bunny](/neptunia/rb1/item/1-3493-white-bunny.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-797" class="trackbox" /> | 797 | [Base](/neptunia/rb1/dlc/1-base.html) | [White Bunny](/neptunia/rb1/remake/1-797-white-bunny.html)<br />→ [White Bunny](/neptunia/rb1/item/1-3493-white-bunny.html) (Accessory) |
 
 ## Player characters who can equip **White Bunny**
 

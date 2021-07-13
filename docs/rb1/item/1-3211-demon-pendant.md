@@ -24,15 +24,13 @@ title: "Demon Pendant (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **To unlock in shop** | Method 1<br />- View scene [Chapter 4: Where's Lowee's Key Fragment?](/neptunia/rb1/scene/1-410-chapter-4-wheres-lowees-key-fragment.html) |
 
-
 ## Remake System plans which require **Demon Pendant**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-614" class="trackbox" /> | 614 | [Base](/neptunia/rb1/dlc/1-base.html) | [Rose Devil](/neptunia/rb1/quest/1-614-rose-devil.html) |
-| <input type="checkbox" id="rb1-quest-1-615" class="trackbox" /> | 615 | [Base](/neptunia/rb1/dlc/1-base.html) | [Sweet Devil](/neptunia/rb1/quest/1-615-sweet-devil.html) |
-| <input type="checkbox" id="rb1-quest-1-616" class="trackbox" /> | 616 | [Base](/neptunia/rb1/dlc/1-base.html) | [Blue Devil](/neptunia/rb1/quest/1-616-blue-devil.html) |
-
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-614" class="trackbox" /> | 614 | [Base](/neptunia/rb1/dlc/1-base.html) | [Rose Devil](/neptunia/rb1/remake/1-614-rose-devil.html)<br />→ [Rose Devil](/neptunia/rb1/item/1-3212-rose-devil.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-1-615" class="trackbox" /> | 615 | [Base](/neptunia/rb1/dlc/1-base.html) | [Sweet Devil](/neptunia/rb1/remake/1-615-sweet-devil.html)<br />→ [Sweet Devil](/neptunia/rb1/item/1-3213-sweet-devil.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-1-616" class="trackbox" /> | 616 | [Base](/neptunia/rb1/dlc/1-base.html) | [Blue Devil](/neptunia/rb1/remake/1-616-blue-devil.html)<br />→ [Blue Devil](/neptunia/rb1/item/1-3214-blue-devil.html) (Accessory) | 1 |
 
 ## Player characters who can equip **Demon Pendant**
 

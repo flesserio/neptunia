@@ -24,20 +24,17 @@ title: "Devil C (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 1000 |
 | **Max inventory** | 99 |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 30 | 40 | 30 | 55 | 55 | 30 | 30 | 15 | -15 | -15 | 15 |
 
-
 ## Remake System plans which unlock **Devil C** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-859" class="trackbox" /> | 859 | [Base](/neptunia/rb1/dlc/1-base.html) | [Devil C](/neptunia/rb1/remake/1-859-devil-c.html)<br /> → [Devil C](/neptunia/rb1/item/1-4438-devil-c.html) (Processor (C)) |
-
+| <input type="checkbox" id="rb1-remake-1-859" class="trackbox" /> | 859 | [Base](/neptunia/rb1/dlc/1-base.html) | [Devil C](/neptunia/rb1/remake/1-859-devil-c.html)<br />→ [Devil C](/neptunia/rb1/item/1-4438-devil-c.html) (Processor (C)) |
 
 ## Player characters who can equip **Devil C**
 

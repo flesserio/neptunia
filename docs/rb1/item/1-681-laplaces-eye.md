@@ -23,13 +23,11 @@ title: "Laplace's Eye (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 0 |
 | **Max inventory** | 1 |
 
-
 ## Chirpers who give **Laplace's Eye**
 
 |    | ID | DLC | Avatar | Message | Conditions |
 | -- | -- | --- | ------ | ------- | ---------- |
-| <input type="checkbox" id="rb1-chirper-event-1-5040" class="trackbox" /> | 5040 | [Base](/neptunia/rb1/dlc/1-base.html) | [Ms. Glasses](/neptunia/rb1/undefined/1-221-ms-glasses.html) | About this Plan that I'm going to give you...<br />It has nothing to do with my eyeglasses. | View scene [Chapter 5: Lastation...Again](/neptunia/rb1/scene/1-501-chapter-5-lastation-again.html)<br />Do not view scene [Chapter 7: Revenge Of Momus](/neptunia/rb1/scene/1-727-chapter-7-revenge-of-momus.html) |
-
+| <input type="checkbox" id="rb1-chirper-event-1-5040" class="trackbox" /> | 5040 | [Base](/neptunia/rb1/dlc/1-base.html) | [Ms. Glasses](/neptunia/rb1/avatar/1-221-ms-glasses.html) | About this Plan that I'm going to give you...<br />It has nothing to do with my eyeglasses. | View scene [Chapter 5: Lastation...Again](/neptunia/rb1/scene/1-501-chapter-5-lastation-again.html)<br />Do not view scene [Chapter 7: Revenge Of Momus](/neptunia/rb1/scene/1-727-chapter-7-revenge-of-momus.html) |
 
 ## Plans added to Remake System after collecting **Laplace's Eye**
 

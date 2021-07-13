@@ -23,13 +23,11 @@ title: "Simple Headdress (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 5000 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Simple Headdress** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-819" class="trackbox" /> | 819 | [Base](/neptunia/rb1/dlc/1-base.html) | [Simple Headdress](/neptunia/rb1/remake/1-819-simple-headdress.html)<br /> → [Simple Headdress](/neptunia/rb1/item/1-3523-simple-headdress.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-819" class="trackbox" /> | 819 | [Base](/neptunia/rb1/dlc/1-base.html) | [Simple Headdress](/neptunia/rb1/remake/1-819-simple-headdress.html)<br />→ [Simple Headdress](/neptunia/rb1/item/1-3523-simple-headdress.html) (Accessory) |
 
 ## Player characters who can equip **Simple Headdress**
 

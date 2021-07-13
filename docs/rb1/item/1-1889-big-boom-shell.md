@@ -23,16 +23,14 @@ title: "Big Boom Shell (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 1926 |
 | **Max inventory** | 99 |
 
-
 ## Monsters which drop **Big Boom Shell**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-1-1041" class="trackbox" /> | 1041 | [Base](/neptunia/rb1/dlc/1-base.html) | [Panzer](/neptunia/rb1/monster/1-1041-panzer.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-1-1041" class="trackbox" /> | 1041 | [Base](/neptunia/rb1/dlc/1-base.html) | [Panzer](/neptunia/rb1/monster/1-1041-panzer.html) | 100% |
 
 ## Remake System plans which require **Big Boom Shell**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-5" class="trackbox" /> | 5 | [Base](/neptunia/rb1/dlc/1-base.html) | [Break Damage Limit](/neptunia/rb1/quest/1-5-break-damage-limit.html) |
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-5" class="trackbox" /> | 5 | [Base](/neptunia/rb1/dlc/1-base.html) | [Break Damage Limit](/neptunia/rb1/remake/1-5-break-damage-limit.html) | 1 |

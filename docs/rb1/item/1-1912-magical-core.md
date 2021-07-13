@@ -25,14 +25,12 @@ title: "Magical Core (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 221 |
 | **Max inventory** | 99 |
 
-
 ## Monsters which drop **Magical Core**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-1-220" class="trackbox" /> | 220 | [Base](/neptunia/rb1/dlc/1-base.html) | [Ruin Guardian](/neptunia/rb1/monster/1-220-ruin-guardian.html) |
-| <input type="checkbox" id="rb1-monster-1-221" class="trackbox" /> | 221 | [Base](/neptunia/rb1/dlc/1-base.html) | [Viral Ruin Guardian](/neptunia/rb1/monster/1-221-viral-ruin-guardian.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-1-220" class="trackbox" /> | 220 | [Base](/neptunia/rb1/dlc/1-base.html) | [Ruin Guardian](/neptunia/rb1/monster/1-220-ruin-guardian.html) | 40% |
+| <input type="checkbox" id="rb1-monster-1-221" class="trackbox" /> | 221 | [Base](/neptunia/rb1/dlc/1-base.html) | [Viral Ruin Guardian](/neptunia/rb1/monster/1-221-viral-ruin-guardian.html) | 80% |
 
 ## Dungeons **Magical Core** is found
 
@@ -41,16 +39,14 @@ title: "Magical Core (Item) - Hyperdimension Neptunia Re;Birth1"
 | <input type="checkbox" id="rb1-dungeon-1-22" class="trackbox" /> | 22 | [Base](/neptunia/rb1/dlc/1-base.html) | [M-Frontier Cave](/neptunia/rb1/dungeon/1-22-m-frontier-cave.html) | Gathering point |
 | <input type="checkbox" id="rb1-dungeon-1-22" class="trackbox" /> | 22 | [Base](/neptunia/rb1/dlc/1-base.html) | [M-Frontier Cave](/neptunia/rb1/dungeon/1-22-m-frontier-cave.html) | Monster drop |
 
-
 ## Quests which require gathering **Magical Core**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
 | <input type="checkbox" id="rb1-quest-1-713" class="trackbox" /> | 713 | [Base](/neptunia/rb1/dlc/1-base.html) | [Golem creation](/neptunia/rb1/quest/1-713-golem-creation.html) |
 
-
 ## Remake System plans which require **Magical Core**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-617" class="trackbox" /> | 617 | [Base](/neptunia/rb1/dlc/1-base.html) | [Heart Barrette](/neptunia/rb1/quest/1-617-heart-barrette.html) |
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-617" class="trackbox" /> | 617 | [Base](/neptunia/rb1/dlc/1-base.html) | [Heart Barrette](/neptunia/rb1/remake/1-617-heart-barrette.html)<br />→ [Heart Barrette](/neptunia/rb1/item/1-3226-heart-barrette.html) (Accessory) | 1 |

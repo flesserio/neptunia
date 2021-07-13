@@ -25,20 +25,17 @@ title: "Mr. Kitty (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **Weapon skill** | [Attack](/neptunia/rb1/skill/7-201-attack.html) |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 33 | 108 | 0 | 162 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 
-
 ## Player characters who have **Mr. Kitty** equipped by default
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
 | <input type="checkbox" id="rb1-player-7-2" class="trackbox" /> | 2 | [[Plutia] Battle Entry License](/neptunia/rb1/dlc/7-plutia.html) | [Plutia](/neptunia/rb1/player/7-2-plutia.html) |
-
 
 ## Player characters who can equip **Mr. Kitty**
 

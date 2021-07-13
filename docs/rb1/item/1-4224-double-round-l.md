@@ -24,20 +24,17 @@ title: "Double Round L (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 1000 |
 | **Max inventory** | 99 |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 40 | -15 | 0 | 0 | 90 | 0 | 25 | 0 | 0 | 0 | 0 |
 
-
 ## Dungeons **Double Round L** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
-| <input type="checkbox" id="rb1-dungeon-1-124" class="trackbox" /> | 124 | [Base](/neptunia/rb1/dlc/1-base.html) | [Graphic Pass Peak](/neptunia/rb1/dungeon/1-124-graphic-pass-peak.html) | Gathering point |
-
+| <input type="checkbox" id="rb1-dungeon-1-124" class="trackbox" /> | 124 | [Base](/neptunia/rb1/dlc/1-base.html) | [Graphic Pass Peak](/neptunia/rb1/dungeon/1-124-graphic-pass-peak.html) | Hidden treasure |
 
 ## Player characters who can equip **Double Round L**
 

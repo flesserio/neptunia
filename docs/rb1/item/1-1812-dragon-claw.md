@@ -24,13 +24,11 @@ title: "Dragon Claw (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 330 |
 | **Max inventory** | 99 |
 
-
 ## Monsters which drop **Dragon Claw**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-1-273" class="trackbox" /> | 273 | [Base](/neptunia/rb1/dlc/1-base.html) | [Elemental Dragon](/neptunia/rb1/monster/1-273-elemental-dragon.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-1-273" class="trackbox" /> | 273 | [Base](/neptunia/rb1/dlc/1-base.html) | [Elemental Dragon](/neptunia/rb1/monster/1-273-elemental-dragon.html) | 55% |
 
 ## Dungeons **Dragon Claw** is found
 
@@ -39,16 +37,15 @@ title: "Dragon Claw (Item) - Hyperdimension Neptunia Re;Birth1"
 | <input type="checkbox" id="rb1-dungeon-1-104" class="trackbox" /> | 104 | [Base](/neptunia/rb1/dlc/1-base.html) | [Toh-Kiden Cave](/neptunia/rb1/dungeon/1-104-toh-kiden-cave.html) | Gathering point |
 | <input type="checkbox" id="rb1-dungeon-1-104" class="trackbox" /> | 104 | [Base](/neptunia/rb1/dlc/1-base.html) | [Toh-Kiden Cave](/neptunia/rb1/dungeon/1-104-toh-kiden-cave.html) | Monster drop |
 
-
 ## Remake System plans which require **Dragon Claw**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-250" class="trackbox" /> | 250 | [Base](/neptunia/rb1/dlc/1-base.html) | [Add Enemies](/neptunia/rb1/quest/1-250-add-enemies.html) |
-| <input type="checkbox" id="rb1-quest-1-364" class="trackbox" /> | 364 | [Base](/neptunia/rb1/dlc/1-base.html) | [Triple Edge](/neptunia/rb1/quest/1-364-triple-edge.html) |
-| <input type="checkbox" id="rb1-quest-1-497" class="trackbox" /> | 497 | [Base](/neptunia/rb1/dlc/1-base.html) | [Protagonist Ribbon](/neptunia/rb1/quest/1-497-protagonist-ribbon.html) |
-| <input type="checkbox" id="rb1-quest-1-568" class="trackbox" /> | 568 | [Base](/neptunia/rb1/dlc/1-base.html) | [Protagonist Ribbon](/neptunia/rb1/quest/1-568-protagonist-ribbon.html) |
-| <input type="checkbox" id="rb1-quest-1-607" class="trackbox" /> | 607 | [Base](/neptunia/rb1/dlc/1-base.html) | [Protagonist Ribbon](/neptunia/rb1/quest/1-607-protagonist-ribbon.html) |
-| <input type="checkbox" id="rb1-quest-1-644" class="trackbox" /> | 644 | [Base](/neptunia/rb1/dlc/1-base.html) | [Protagonist Ribbon](/neptunia/rb1/quest/1-644-protagonist-ribbon.html) |
-| <input type="checkbox" id="rb1-quest-7-526" class="trackbox" /> | 526 | [[Plutia] Battle Entry License](/neptunia/rb1/dlc/7-plutia.html) | [Protagonist Ribbon](/neptunia/rb1/quest/7-526-protagonist-ribbon.html) |
-| <input type="checkbox" id="rb1-quest-8-714" class="trackbox" /> | 714 | [[Peashy] Battle Entry License](/neptunia/rb1/dlc/8-peashy.html) | [Protagonist Ribbon](/neptunia/rb1/quest/8-714-protagonist-ribbon.html) |
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-250" class="trackbox" /> | 250 | [Base](/neptunia/rb1/dlc/1-base.html) | [Add Enemies](/neptunia/rb1/remake/1-250-add-enemies.html)<br />→ [Gravidaze Ruins](/neptunia/rb1/dungeon/1-106-gravidaze-ruins.html) (Dungeon) | 1 |
+| <input type="checkbox" id="rb1-remake-1-364" class="trackbox" /> | 364 | [Base](/neptunia/rb1/dlc/1-base.html) | [Triple Edge](/neptunia/rb1/remake/1-364-triple-edge.html)<br />→ [Triple Edge](/neptunia/rb1/item/1-2304-triple-edge.html) (Qatar (IF)) | 1 |
+| <input type="checkbox" id="rb1-remake-1-497" class="trackbox" /> | 497 | [Base](/neptunia/rb1/dlc/1-base.html) | [Protagonist Ribbon](/neptunia/rb1/remake/1-497-protagonist-ribbon.html)<br />→ [Protagonist Ribbon](/neptunia/rb1/item/1-3039-protagonist-ribbon.html) (Accessory) | 2 |
+| <input type="checkbox" id="rb1-remake-1-568" class="trackbox" /> | 568 | [Base](/neptunia/rb1/dlc/1-base.html) | [Protagonist Ribbon](/neptunia/rb1/remake/1-568-protagonist-ribbon.html)<br />→ [Protagonist Ribbon](/neptunia/rb1/item/1-3139-protagonist-ribbon.html) (Accessory) | 2 |
+| <input type="checkbox" id="rb1-remake-1-607" class="trackbox" /> | 607 | [Base](/neptunia/rb1/dlc/1-base.html) | [Protagonist Ribbon](/neptunia/rb1/remake/1-607-protagonist-ribbon.html)<br />→ [Protagonist Ribbon](/neptunia/rb1/item/1-3202-protagonist-ribbon.html) (Accessory) | 2 |
+| <input type="checkbox" id="rb1-remake-1-644" class="trackbox" /> | 644 | [Base](/neptunia/rb1/dlc/1-base.html) | [Protagonist Ribbon](/neptunia/rb1/remake/1-644-protagonist-ribbon.html)<br />→ [Protagonist Ribbon](/neptunia/rb1/item/1-3262-protagonist-ribbon.html) (Accessory) | 2 |
+| <input type="checkbox" id="rb1-remake-7-526" class="trackbox" /> | 526 | [[Plutia] Battle Entry License](/neptunia/rb1/dlc/7-plutia.html) | [Protagonist Ribbon](/neptunia/rb1/remake/7-526-protagonist-ribbon.html)<br />→ [Protagonist Ribbon](/neptunia/rb1/item/7-3080-protagonist-ribbon.html) (Accessory) | 2 |
+| <input type="checkbox" id="rb1-remake-8-714" class="trackbox" /> | 714 | [[Peashy] Battle Entry License](/neptunia/rb1/dlc/8-peashy.html) | [Protagonist Ribbon](/neptunia/rb1/remake/8-714-protagonist-ribbon.html)<br />→ [Protagonist Ribbon](/neptunia/rb1/item/8-3364-protagonist-ribbon.html) (Accessory) | 2 |

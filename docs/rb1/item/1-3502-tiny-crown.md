@@ -24,15 +24,13 @@ title: "Tiny Crown (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **To unlock in shop** | Method 1<br />- Have Rom & Ram unlocked. |
 
-
 ## Remake System plans which require **Tiny Crown**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-804" class="trackbox" /> | 804 | [Base](/neptunia/rb1/dlc/1-base.html) | [Bitty Crown](/neptunia/rb1/quest/1-804-bitty-crown.html) |
-| <input type="checkbox" id="rb1-quest-1-805" class="trackbox" /> | 805 | [Base](/neptunia/rb1/dlc/1-base.html) | [Minimum Crown](/neptunia/rb1/quest/1-805-minimum-crown.html) |
-| <input type="checkbox" id="rb1-quest-1-806" class="trackbox" /> | 806 | [Base](/neptunia/rb1/dlc/1-base.html) | [Mini-Mini Crown](/neptunia/rb1/quest/1-806-mini-mini-crown.html) |
-
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-804" class="trackbox" /> | 804 | [Base](/neptunia/rb1/dlc/1-base.html) | [Bitty Crown](/neptunia/rb1/remake/1-804-bitty-crown.html)<br />→ [Bitty Crown](/neptunia/rb1/item/1-3503-bitty-crown.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-1-805" class="trackbox" /> | 805 | [Base](/neptunia/rb1/dlc/1-base.html) | [Minimum Crown](/neptunia/rb1/remake/1-805-minimum-crown.html)<br />→ [Minimum Crown](/neptunia/rb1/item/1-3504-minimum-crown.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-1-806" class="trackbox" /> | 806 | [Base](/neptunia/rb1/dlc/1-base.html) | [Mini-Mini Crown](/neptunia/rb1/remake/1-806-mini-mini-crown.html)<br />→ [Mini-Mini Crown](/neptunia/rb1/item/1-3505-mini-mini-crown.html) (Accessory) | 1 |
 
 ## Player characters who can equip **Tiny Crown**
 

@@ -23,15 +23,13 @@ title: "Combo Focus (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 10 |
 | **Max inventory** | 99 |
 | **Idea Chip level** | 4 |
-| **Idea Chip ability** | [Vader Defense Lv.4](/neptunia/rb1/avatar/1-9604-vader-defense-lv-4.html)<br />Increases Vader Defense by 25% |
-
+| **Idea Chip ability** | [Vader Defense Lv.4](/neptunia/rb1/ability/1-9604-vader-defense-lv-4.html)<br />Increases Vader Defense by 25% |
 
 ## Dungeons **Combo Focus** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
-| <input type="checkbox" id="rb1-dungeon-1-128" class="trackbox" /> | 128 | [Base](/neptunia/rb1/dlc/1-base.html) | [Naasne Volcano Depths](/neptunia/rb1/dungeon/1-128-naasne-volcano-depths.html) | Gathering point |
-
+| <input type="checkbox" id="rb1-dungeon-1-128" class="trackbox" /> | 128 | [Base](/neptunia/rb1/dlc/1-base.html) | [Naasne Volcano Depths](/neptunia/rb1/dungeon/1-128-naasne-volcano-depths.html) | Treasure |
 
 ## Colosseum quests which reward **Combo Focus**
 

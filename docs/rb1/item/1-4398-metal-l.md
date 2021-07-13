@@ -24,13 +24,11 @@ title: "Metal L (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **To unlock in shop** | Method 1<br />- View scene [Chapter 3: Off To Leanbox](/neptunia/rb1/scene/1-301-chapter-3-off-to-leanbox.html) |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 25 | 0 | 0 | 25 | 25 | 0 | 0 | 10 | 10 | 10 | 10 |
-
 
 ## Player characters who can equip **Metal L**
 

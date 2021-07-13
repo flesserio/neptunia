@@ -23,16 +23,14 @@ title: "Plan: Ark Anklet (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 0 |
 | **Max inventory** | 1 |
 
-
 ## Plans added to Remake System after collecting **Plan: Ark Anklet**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-408" class="trackbox" /> | 408 | [Base](/neptunia/rb1/dlc/1-base.html) | [Ark Anklet](/neptunia/rb1/remake/1-408-ark-anklet.html)<br /> → [Ark Anklet](/neptunia/rb1/item/1-2734-ark-anklet.html) (Ornament) |
-
+| <input type="checkbox" id="rb1-remake-1-408" class="trackbox" /> | 408 | [Base](/neptunia/rb1/dlc/1-base.html) | [Ark Anklet](/neptunia/rb1/remake/1-408-ark-anklet.html)<br />→ [Ark Anklet](/neptunia/rb1/item/1-2734-ark-anklet.html) (Ornament) |
 
 ## Dungeons **Plan: Ark Anklet** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
-| <input type="checkbox" id="rb1-dungeon-1-112" class="trackbox" /> | 112 | [Base](/neptunia/rb1/dlc/1-base.html) | [Naasne Volcano](/neptunia/rb1/dungeon/1-112-naasne-volcano.html) | Gathering point |
+| <input type="checkbox" id="rb1-dungeon-1-112" class="trackbox" /> | 112 | [Base](/neptunia/rb1/dlc/1-base.html) | [Naasne Volcano](/neptunia/rb1/dungeon/1-112-naasne-volcano.html) | Treasure |

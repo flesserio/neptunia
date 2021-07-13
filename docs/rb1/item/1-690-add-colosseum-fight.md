@@ -23,16 +23,14 @@ title: "Add Colosseum Fight (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 0 |
 | **Max inventory** | 1 |
 
-
 ## Chirpers who give **Add Colosseum Fight**
 
 |    | ID | DLC | Avatar | Message | Conditions |
 | -- | -- | --- | ------ | ------- | ---------- |
-| <input type="checkbox" id="rb1-chirper-event-1-110" class="trackbox" /> | 110 | [Base](/neptunia/rb1/dlc/1-base.html) | [Ram](/neptunia/rb1/undefined/1-38-ram.html) | Seems fun!<br />Leave it to good young Rom and Ram! | Have remake [Colosseum Unlock](/neptunia/rb1/remake/1-18-colosseum-unlock.html) developed<br />Have Rom & Ram unlocked.<br />Do not view scene [Chapter 8: The True Arfoire](/neptunia/rb1/scene/1-807-chapter-8-the-true-arfoire.html) |
-
+| <input type="checkbox" id="rb1-chirper-event-1-110" class="trackbox" /> | 110 | [Base](/neptunia/rb1/dlc/1-base.html) | [Ram](/neptunia/rb1/avatar/1-38-ram.html) | Seems fun!<br />Leave it to good young Rom and Ram! | Have remake [Colosseum Unlock](/neptunia/rb1/remake/1-18-colosseum-unlock.html) developed<br />Have Rom & Ram unlocked.<br />Do not view scene [Chapter 8: The True Arfoire](/neptunia/rb1/scene/1-807-chapter-8-the-true-arfoire.html) |
 
 ## Plans added to Remake System after collecting **Add Colosseum Fight**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-25" class="trackbox" /> | 25 | [Base](/neptunia/rb1/dlc/1-base.html) | [Add Colosseum Fight](/neptunia/rb1/remake/1-25-add-colosseum-fight.html)<br /> → [Phantom of Time](/neptunia/rb1/quest/1-2031-phantom-of-time.html) (Colosseum),<br /> → [Ruler of the End](/neptunia/rb1/quest/1-2032-ruler-of-the-end.html) (Colosseum) |
+| <input type="checkbox" id="rb1-remake-1-25" class="trackbox" /> | 25 | [Base](/neptunia/rb1/dlc/1-base.html) | [Add Colosseum Fight](/neptunia/rb1/remake/1-25-add-colosseum-fight.html)<br />→ [Phantom of Time](/neptunia/rb1/colosseum/1-2031-phantom-of-time.html) (Colosseum)<br />→ [Ruler of the End](/neptunia/rb1/colosseum/1-2032-ruler-of-the-end.html) (Colosseum) |

@@ -24,20 +24,17 @@ title: "Martial H (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 500 |
 | **Max inventory** | 99 |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 25 | -15 | 25 | 0 | 0 | 35 | 0 | 0 | 0 | 0 | 0 |
 
-
 ## Dungeons **Martial H** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
-| <input type="checkbox" id="rb1-dungeon-1-113" class="trackbox" /> | 113 | [Base](/neptunia/rb1/dlc/1-base.html) | [Millenium Labryinth](/neptunia/rb1/dungeon/1-113-millenium-labryinth.html) | Gathering point |
-
+| <input type="checkbox" id="rb1-dungeon-1-113" class="trackbox" /> | 113 | [Base](/neptunia/rb1/dlc/1-base.html) | [Millenium Labryinth](/neptunia/rb1/dungeon/1-113-millenium-labryinth.html) | Hidden treasure |
 
 ## Player characters who can equip **Martial H**
 

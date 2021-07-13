@@ -23,13 +23,11 @@ title: "White Hat (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 5000 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **White Hat** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-776" class="trackbox" /> | 776 | [Base](/neptunia/rb1/dlc/1-base.html) | [White Hat](/neptunia/rb1/remake/1-776-white-hat.html)<br /> → [White Hat](/neptunia/rb1/item/1-3458-white-hat.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-776" class="trackbox" /> | 776 | [Base](/neptunia/rb1/dlc/1-base.html) | [White Hat](/neptunia/rb1/remake/1-776-white-hat.html)<br />→ [White Hat](/neptunia/rb1/item/1-3458-white-hat.html) (Accessory) |
 
 ## Player characters who can equip **White Hat**
 

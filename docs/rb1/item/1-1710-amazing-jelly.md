@@ -24,13 +24,11 @@ title: "Amazing Jelly (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 2937 |
 | **Max inventory** | 99 |
 
-
 ## Monsters which drop **Amazing Jelly**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-1-327" class="trackbox" /> | 327 | [Base](/neptunia/rb1/dlc/1-base.html) | [Clione](/neptunia/rb1/monster/1-327-clione.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-1-327" class="trackbox" /> | 327 | [Base](/neptunia/rb1/dlc/1-base.html) | [Clione](/neptunia/rb1/monster/1-327-clione.html) | 20% |
 
 ## Dungeons **Amazing Jelly** is found
 
@@ -38,9 +36,8 @@ title: "Amazing Jelly (Item) - Hyperdimension Neptunia Re;Birth1"
 | -- | -- | --- | ---- | ---- |
 | <input type="checkbox" id="rb1-dungeon-1-113" class="trackbox" /> | 113 | [Base](/neptunia/rb1/dlc/1-base.html) | [Millenium Labryinth](/neptunia/rb1/dungeon/1-113-millenium-labryinth.html) | Monster drop |
 
-
 ## Remake System plans which require **Amazing Jelly**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-11-267" class="trackbox" /> | 267 | [Additional Content Package 2](/neptunia/rb1/dlc/11-pack2.html) | [Add Super Enemies](/neptunia/rb1/quest/11-267-add-super-enemies.html) |
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-11-267" class="trackbox" /> | 267 | [Additional Content Package 2](/neptunia/rb1/dlc/11-pack2.html) | [Add Super Enemies](/neptunia/rb1/remake/11-267-add-super-enemies.html)<br />→ [Millenium Labryinth](/neptunia/rb1/dungeon/1-113-millenium-labryinth.html) (Dungeon) | 1 |

@@ -23,16 +23,14 @@ title: "Plan: Healing Light (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 0 |
 | **Max inventory** | 1 |
 
-
 ## Chirpers who give **Plan: Healing Light**
 
 |    | ID | DLC | Avatar | Message | Conditions |
 | -- | -- | --- | ------ | ------- | ---------- |
-| <input type="checkbox" id="rb1-chirper-event-1-5047" class="trackbox" /> | 5047 | [Base](/neptunia/rb1/dlc/1-base.html) | [Kimizu Nana](/neptunia/rb1/undefined/1-223-kimizu-nana.html) | Here's a Plan for an item.<br />Basking in the limelight is great, right?<br />...Huh? This isn't the same light? | View scene [Chapter 7: Vert's Punishment](/neptunia/rb1/scene/1-725-chapter-7-verts-punishment.html)<br />Do not view scene [Chapter 8: The True Arfoire](/neptunia/rb1/scene/1-807-chapter-8-the-true-arfoire.html) |
-
+| <input type="checkbox" id="rb1-chirper-event-1-5047" class="trackbox" /> | 5047 | [Base](/neptunia/rb1/dlc/1-base.html) | [Kimizu Nana](/neptunia/rb1/avatar/1-223-kimizu-nana.html) | Here's a Plan for an item.<br />Basking in the limelight is great, right?<br />...Huh? This isn't the same light? | View scene [Chapter 7: Vert's Punishment](/neptunia/rb1/scene/1-725-chapter-7-verts-punishment.html)<br />Do not view scene [Chapter 8: The True Arfoire](/neptunia/rb1/scene/1-807-chapter-8-the-true-arfoire.html) |
 
 ## Plans added to Remake System after collecting **Plan: Healing Light**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-326" class="trackbox" /> | 326 | [Base](/neptunia/rb1/dlc/1-base.html) | [Healing Light](/neptunia/rb1/remake/1-326-healing-light.html)<br /> → [Healing Light](/neptunia/rb1/item/1-13-healing-light.html) (Tool) |
+| <input type="checkbox" id="rb1-remake-1-326" class="trackbox" /> | 326 | [Base](/neptunia/rb1/dlc/1-base.html) | [Healing Light](/neptunia/rb1/remake/1-326-healing-light.html)<br />→ [Healing Light](/neptunia/rb1/item/1-13-healing-light.html) (Tool) |

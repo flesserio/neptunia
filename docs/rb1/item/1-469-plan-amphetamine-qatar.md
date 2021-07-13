@@ -23,16 +23,14 @@ title: "Plan: Amphetamine Qatar (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 0 |
 | **Max inventory** | 1 |
 
-
 ## Plans added to Remake System after collecting **Plan: Amphetamine Qatar**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-367" class="trackbox" /> | 367 | [Base](/neptunia/rb1/dlc/1-base.html) | [Amphetamine Qatar](/neptunia/rb1/remake/1-367-amphetamine-qatar.html)<br /> → [Amphetamine Qatar](/neptunia/rb1/item/1-2312-amphetamine-qatar.html) (Qatar (IF)) |
-
+| <input type="checkbox" id="rb1-remake-1-367" class="trackbox" /> | 367 | [Base](/neptunia/rb1/dlc/1-base.html) | [Amphetamine Qatar](/neptunia/rb1/remake/1-367-amphetamine-qatar.html)<br />→ [Amphetamine Qatar](/neptunia/rb1/item/1-2312-amphetamine-qatar.html) (Qatar (IF)) |
 
 ## Dungeons **Plan: Amphetamine Qatar** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
-| <input type="checkbox" id="rb1-dungeon-1-116" class="trackbox" /> | 116 | [Base](/neptunia/rb1/dlc/1-base.html) | [Yukawa Ruins](/neptunia/rb1/dungeon/1-116-yukawa-ruins.html) | Gathering point |
+| <input type="checkbox" id="rb1-dungeon-1-116" class="trackbox" /> | 116 | [Base](/neptunia/rb1/dlc/1-base.html) | [Yukawa Ruins](/neptunia/rb1/dungeon/1-116-yukawa-ruins.html) | Treasure |

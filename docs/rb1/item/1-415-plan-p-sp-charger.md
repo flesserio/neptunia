@@ -23,13 +23,11 @@ title: "Plan: P. SP Charger (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 0 |
 | **Max inventory** | 1 |
 
-
 ## Plans added to Remake System after collecting **Plan: P. SP Charger**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-327" class="trackbox" /> | 327 | [Base](/neptunia/rb1/dlc/1-base.html) | [P. SP Charger](/neptunia/rb1/remake/1-327-p-sp-charger.html)<br /> → [P. SP Charger](/neptunia/rb1/item/1-15-p-sp-charger.html) (Tool) |
-
+| <input type="checkbox" id="rb1-remake-1-327" class="trackbox" /> | 327 | [Base](/neptunia/rb1/dlc/1-base.html) | [P. SP Charger](/neptunia/rb1/remake/1-327-p-sp-charger.html)<br />→ [P. SP Charger](/neptunia/rb1/item/1-15-p-sp-charger.html) (Tool) |
 
 ## Quests which reward **Plan: P. SP Charger**
 

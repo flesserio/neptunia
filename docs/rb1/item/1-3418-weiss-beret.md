@@ -24,15 +24,13 @@ title: "Weiss Beret (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **To unlock in shop** | Method 1<br />- Have Uni unlocked. |
 
-
 ## Remake System plans which require **Weiss Beret**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-752" class="trackbox" /> | 752 | [Base](/neptunia/rb1/dlc/1-base.html) | [Schwarz Beret](/neptunia/rb1/quest/1-752-schwarz-beret.html) |
-| <input type="checkbox" id="rb1-quest-1-753" class="trackbox" /> | 753 | [Base](/neptunia/rb1/dlc/1-base.html) | [Blau Beret](/neptunia/rb1/quest/1-753-blau-beret.html) |
-| <input type="checkbox" id="rb1-quest-1-754" class="trackbox" /> | 754 | [Base](/neptunia/rb1/dlc/1-base.html) | [Rose Beret](/neptunia/rb1/quest/1-754-rose-beret.html) |
-
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-752" class="trackbox" /> | 752 | [Base](/neptunia/rb1/dlc/1-base.html) | [Schwarz Beret](/neptunia/rb1/remake/1-752-schwarz-beret.html)<br />→ [Schwarz Beret](/neptunia/rb1/item/1-3419-schwarz-beret.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-1-753" class="trackbox" /> | 753 | [Base](/neptunia/rb1/dlc/1-base.html) | [Blau Beret](/neptunia/rb1/remake/1-753-blau-beret.html)<br />→ [Blau Beret](/neptunia/rb1/item/1-3420-blau-beret.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-1-754" class="trackbox" /> | 754 | [Base](/neptunia/rb1/dlc/1-base.html) | [Rose Beret](/neptunia/rb1/remake/1-754-rose-beret.html)<br />→ [Rose Beret](/neptunia/rb1/item/1-3421-rose-beret.html) (Accessory) | 1 |
 
 ## Player characters who can equip **Weiss Beret**
 

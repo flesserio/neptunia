@@ -24,13 +24,11 @@ title: "Magical Stone (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 40 |
 | **Max inventory** | 99 |
 
-
 ## Monsters which drop **Magical Stone**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-1-271" class="trackbox" /> | 271 | [Base](/neptunia/rb1/dlc/1-base.html) | [Magic Stone](/neptunia/rb1/monster/1-271-magic-stone.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-1-271" class="trackbox" /> | 271 | [Base](/neptunia/rb1/dlc/1-base.html) | [Magic Stone](/neptunia/rb1/monster/1-271-magic-stone.html) | 40% |
 
 ## Dungeons **Magical Stone** is found
 
@@ -39,11 +37,10 @@ title: "Magical Stone (Item) - Hyperdimension Neptunia Re;Birth1"
 | <input type="checkbox" id="rb1-dungeon-1-104" class="trackbox" /> | 104 | [Base](/neptunia/rb1/dlc/1-base.html) | [Toh-Kiden Cave](/neptunia/rb1/dungeon/1-104-toh-kiden-cave.html) | Gathering point |
 | <input type="checkbox" id="rb1-dungeon-1-104" class="trackbox" /> | 104 | [Base](/neptunia/rb1/dlc/1-base.html) | [Toh-Kiden Cave](/neptunia/rb1/dungeon/1-104-toh-kiden-cave.html) | Monster drop |
 
-
 ## Remake System plans which require **Magical Stone**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-213" class="trackbox" /> | 213 | [Base](/neptunia/rb1/dlc/1-base.html) | [Add Dungeon](/neptunia/rb1/quest/1-213-add-dungeon.html) |
-| <input type="checkbox" id="rb1-quest-1-323" class="trackbox" /> | 323 | [Base](/neptunia/rb1/dlc/1-base.html) | [Healing Circle](/neptunia/rb1/quest/1-323-healing-circle.html) |
-| <input type="checkbox" id="rb1-quest-1-791" class="trackbox" /> | 791 | [Base](/neptunia/rb1/dlc/1-base.html) | [Candy Ribbon](/neptunia/rb1/quest/1-791-candy-ribbon.html) |
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-213" class="trackbox" /> | 213 | [Base](/neptunia/rb1/dlc/1-base.html) | [Add Dungeon](/neptunia/rb1/remake/1-213-add-dungeon.html)<br />→ [Gravidaze Ruins](/neptunia/rb1/dungeon/1-106-gravidaze-ruins.html) (Dungeon) | 2 |
+| <input type="checkbox" id="rb1-remake-1-323" class="trackbox" /> | 323 | [Base](/neptunia/rb1/dlc/1-base.html) | [Healing Circle](/neptunia/rb1/remake/1-323-healing-circle.html)<br />→ [Healing Circle](/neptunia/rb1/item/1-10-healing-circle.html) (Tool) | 4 |
+| <input type="checkbox" id="rb1-remake-1-791" class="trackbox" /> | 791 | [Base](/neptunia/rb1/dlc/1-base.html) | [Candy Ribbon](/neptunia/rb1/remake/1-791-candy-ribbon.html)<br />→ [Candy Ribbon](/neptunia/rb1/item/1-3486-candy-ribbon.html) (Accessory) | 1 |

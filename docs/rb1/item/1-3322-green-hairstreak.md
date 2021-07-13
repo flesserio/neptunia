@@ -23,13 +23,11 @@ title: "Green Hairstreak (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 2500 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Green Hairstreak** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-687" class="trackbox" /> | 687 | [Base](/neptunia/rb1/dlc/1-base.html) | [Green Hairstreak](/neptunia/rb1/remake/1-687-green-hairstreak.html)<br /> → [Green Hairstreak](/neptunia/rb1/item/1-3322-green-hairstreak.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-687" class="trackbox" /> | 687 | [Base](/neptunia/rb1/dlc/1-base.html) | [Green Hairstreak](/neptunia/rb1/remake/1-687-green-hairstreak.html)<br />→ [Green Hairstreak](/neptunia/rb1/item/1-3322-green-hairstreak.html) (Accessory) |
 
 ## Player characters who can equip **Green Hairstreak**
 

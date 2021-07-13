@@ -23,13 +23,11 @@ title: "Noble Crown (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 1500 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Noble Crown** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-490" class="trackbox" /> | 490 | [Base](/neptunia/rb1/dlc/1-base.html) | [Noble Crown](/neptunia/rb1/remake/1-490-noble-crown.html)<br /> → [Noble Crown](/neptunia/rb1/item/1-3030-noble-crown.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-490" class="trackbox" /> | 490 | [Base](/neptunia/rb1/dlc/1-base.html) | [Noble Crown](/neptunia/rb1/remake/1-490-noble-crown.html)<br />→ [Noble Crown](/neptunia/rb1/item/1-3030-noble-crown.html) (Accessory) |
 
 ## Player characters who can equip **Noble Crown**
 

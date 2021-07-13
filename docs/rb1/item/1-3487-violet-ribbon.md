@@ -23,13 +23,11 @@ title: "Violet Ribbon (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 2500 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Violet Ribbon** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-792" class="trackbox" /> | 792 | [Base](/neptunia/rb1/dlc/1-base.html) | [Violet Ribbon](/neptunia/rb1/remake/1-792-violet-ribbon.html)<br /> → [Violet Ribbon](/neptunia/rb1/item/1-3487-violet-ribbon.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-792" class="trackbox" /> | 792 | [Base](/neptunia/rb1/dlc/1-base.html) | [Violet Ribbon](/neptunia/rb1/remake/1-792-violet-ribbon.html)<br />→ [Violet Ribbon](/neptunia/rb1/item/1-3487-violet-ribbon.html) (Accessory) |
 
 ## Player characters who can equip **Violet Ribbon**
 

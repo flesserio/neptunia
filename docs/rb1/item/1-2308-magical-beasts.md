@@ -25,13 +25,11 @@ title: "Magical Beasts (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Weapon skill** | [Slash](/neptunia/rb1/skill/1-2102-slash.html) |
 | **To unlock in shop** | Method 1<br />- View scene [Chapter 5: Air Nep-Nep](/neptunia/rb1/scene/1-502-chapter-5-air-nep-nep.html) |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 432 | 0 | 432 | 0 | 83 | 83 | 0 | 0 | 0 | 0 | 0 |
-
 
 ## Player characters who can equip **Magical Beasts**
 

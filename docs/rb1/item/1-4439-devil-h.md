@@ -24,20 +24,17 @@ title: "Devil H (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 1000 |
 | **Max inventory** | 99 |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | -15 | 90 | 30 | 60 | 0 | -15 | 30 | 7 | -7 | -7 | 7 |
 
-
 ## Remake System plans which unlock **Devil H** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-860" class="trackbox" /> | 860 | [Base](/neptunia/rb1/dlc/1-base.html) | [Devil H](/neptunia/rb1/remake/1-860-devil-h.html)<br /> → [Devil H](/neptunia/rb1/item/1-4439-devil-h.html) (Processor (H)) |
-
+| <input type="checkbox" id="rb1-remake-1-860" class="trackbox" /> | 860 | [Base](/neptunia/rb1/dlc/1-base.html) | [Devil H](/neptunia/rb1/remake/1-860-devil-h.html)<br />→ [Devil H](/neptunia/rb1/item/1-4439-devil-h.html) (Processor (H)) |
 
 ## Player characters who can equip **Devil H**
 

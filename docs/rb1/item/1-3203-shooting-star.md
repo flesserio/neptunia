@@ -24,22 +24,19 @@ title: "Shooting Star (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 500 |
 | **Max inventory** | 99 |
 
-
 ## Monsters which drop **Shooting Star**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-1-1038" class="trackbox" /> | 1038 | [Base](/neptunia/rb1/dlc/1-base.html) | [Fake White Heart](/neptunia/rb1/monster/1-1038-fake-white-heart.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-1-1038" class="trackbox" /> | 1038 | [Base](/neptunia/rb1/dlc/1-base.html) | [Fake White Heart](/neptunia/rb1/monster/1-1038-fake-white-heart.html) | 100% |
 
 ## Remake System plans which require **Shooting Star**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-608" class="trackbox" /> | 608 | [Base](/neptunia/rb1/dlc/1-base.html) | [Lucky Star](/neptunia/rb1/quest/1-608-lucky-star.html) |
-| <input type="checkbox" id="rb1-quest-1-609" class="trackbox" /> | 609 | [Base](/neptunia/rb1/dlc/1-base.html) | [Neon Star](/neptunia/rb1/quest/1-609-neon-star.html) |
-| <input type="checkbox" id="rb1-quest-1-610" class="trackbox" /> | 610 | [Base](/neptunia/rb1/dlc/1-base.html) | [Smile Star](/neptunia/rb1/quest/1-610-smile-star.html) |
-
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-608" class="trackbox" /> | 608 | [Base](/neptunia/rb1/dlc/1-base.html) | [Lucky Star](/neptunia/rb1/remake/1-608-lucky-star.html)<br />→ [Lucky Star](/neptunia/rb1/item/1-3204-lucky-star.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-1-609" class="trackbox" /> | 609 | [Base](/neptunia/rb1/dlc/1-base.html) | [Neon Star](/neptunia/rb1/remake/1-609-neon-star.html)<br />→ [Neon Star](/neptunia/rb1/item/1-3205-neon-star.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-1-610" class="trackbox" /> | 610 | [Base](/neptunia/rb1/dlc/1-base.html) | [Smile Star](/neptunia/rb1/remake/1-610-smile-star.html)<br />→ [Smile Star](/neptunia/rb1/item/1-3206-smile-star.html) (Accessory) | 1 |
 
 ## Player characters who can equip **Shooting Star**
 

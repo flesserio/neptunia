@@ -23,16 +23,14 @@ title: "Add Dungeon: Mechtro Factory (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 0 |
 | **Max inventory** | 1 |
 
-
 ## Plans added to Remake System after collecting **Add Dungeon: Mechtro Factory**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-210" class="trackbox" /> | 210 | [Base](/neptunia/rb1/dlc/1-base.html) | [Add Dungeon](/neptunia/rb1/remake/1-210-add-dungeon.html)<br /> → [Mechtro Factory](/neptunia/rb1/dungeon/1-102-mechtro-factory.html) (Dungeon) |
-
+| <input type="checkbox" id="rb1-remake-1-210" class="trackbox" /> | 210 | [Base](/neptunia/rb1/dlc/1-base.html) | [Add Dungeon](/neptunia/rb1/remake/1-210-add-dungeon.html)<br />→ [Mechtro Factory](/neptunia/rb1/dungeon/1-102-mechtro-factory.html) (Dungeon) |
 
 ## Dungeons **Add Dungeon: Mechtro Factory** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
-| <input type="checkbox" id="rb1-dungeon-1-101" class="trackbox" /> | 101 | [Base](/neptunia/rb1/dlc/1-base.html) | [Zeca Ruins No.1](/neptunia/rb1/dungeon/1-101-zeca-ruins-no-1.html) | Gathering point |
+| <input type="checkbox" id="rb1-dungeon-1-101" class="trackbox" /> | 101 | [Base](/neptunia/rb1/dlc/1-base.html) | [Zeca Ruins No.1](/neptunia/rb1/dungeon/1-101-zeca-ruins-no-1.html) | Treasure |

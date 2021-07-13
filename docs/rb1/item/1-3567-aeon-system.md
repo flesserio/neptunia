@@ -25,20 +25,17 @@ title: "Aeon System (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 500 |
 | **Max inventory** | 99 |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 30 | 0 | 0 | 0 | 0 | 0 | 0 |
 
-
 ## Monsters which drop **Aeon System**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-1-391" class="trackbox" /> | 391 | [Base](/neptunia/rb1/dlc/1-base.html) | [Vanargandr](/neptunia/rb1/monster/1-391-vanargandr.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-1-391" class="trackbox" /> | 391 | [Base](/neptunia/rb1/dlc/1-base.html) | [Vanargandr](/neptunia/rb1/monster/1-391-vanargandr.html) | 75% |
 
 ## Dungeons **Aeon System** is found
 
@@ -46,7 +43,6 @@ title: "Aeon System (Item) - Hyperdimension Neptunia Re;Birth1"
 | -- | -- | --- | ---- | ---- |
 | <input type="checkbox" id="rb1-dungeon-1-123" class="trackbox" /> | 123 | [Base](/neptunia/rb1/dlc/1-base.html) | [Graphic Pass](/neptunia/rb1/dungeon/1-123-graphic-pass.html) | Monster drop |
 | <input type="checkbox" id="rb1-dungeon-1-124" class="trackbox" /> | 124 | [Base](/neptunia/rb1/dlc/1-base.html) | [Graphic Pass Peak](/neptunia/rb1/dungeon/1-124-graphic-pass-peak.html) | Monster drop |
-
 
 ## Player characters who can equip **Aeon System**
 

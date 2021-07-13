@@ -23,16 +23,14 @@ title: "Add Dungeon: Gravidaze Ruins (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 0 |
 | **Max inventory** | 1 |
 
-
 ## Plans added to Remake System after collecting **Add Dungeon: Gravidaze Ruins**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-213" class="trackbox" /> | 213 | [Base](/neptunia/rb1/dlc/1-base.html) | [Add Dungeon](/neptunia/rb1/remake/1-213-add-dungeon.html)<br /> → [Gravidaze Ruins](/neptunia/rb1/dungeon/1-106-gravidaze-ruins.html) (Dungeon) |
-
+| <input type="checkbox" id="rb1-remake-1-213" class="trackbox" /> | 213 | [Base](/neptunia/rb1/dlc/1-base.html) | [Add Dungeon](/neptunia/rb1/remake/1-213-add-dungeon.html)<br />→ [Gravidaze Ruins](/neptunia/rb1/dungeon/1-106-gravidaze-ruins.html) (Dungeon) |
 
 ## Dungeons **Add Dungeon: Gravidaze Ruins** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
-| <input type="checkbox" id="rb1-dungeon-1-104" class="trackbox" /> | 104 | [Base](/neptunia/rb1/dlc/1-base.html) | [Toh-Kiden Cave](/neptunia/rb1/dungeon/1-104-toh-kiden-cave.html) | Gathering point |
+| <input type="checkbox" id="rb1-dungeon-1-104" class="trackbox" /> | 104 | [Base](/neptunia/rb1/dlc/1-base.html) | [Toh-Kiden Cave](/neptunia/rb1/dungeon/1-104-toh-kiden-cave.html) | Treasure |

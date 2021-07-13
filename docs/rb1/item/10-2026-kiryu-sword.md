@@ -25,20 +25,17 @@ title: "Kiryu Sword (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **Weapon skill** | [Attack](/neptunia/rb1/skill/1-1-attack.html) |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 3300 | 400 | 2850 | 400 | 350 | 350 | 0 | 0 | 0 | 0 | 0 |
 
-
 ## Remake System plans which unlock **Kiryu Sword** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-10-357" class="trackbox" /> | 357 | [Additional Content Package 1](/neptunia/rb1/dlc/10-pack1.html) | [Kiryu Sword](/neptunia/rb1/remake/10-357-kiryu-sword.html)<br /> → [Kiryu Sword](/neptunia/rb1/item/10-2026-kiryu-sword.html) (Katana (Neptune)) |
-
+| <input type="checkbox" id="rb1-remake-10-357" class="trackbox" /> | 357 | [Additional Content Package 1](/neptunia/rb1/dlc/10-pack1.html) | [Kiryu Sword](/neptunia/rb1/remake/10-357-kiryu-sword.html)<br />→ [Kiryu Sword](/neptunia/rb1/item/10-2026-kiryu-sword.html) (Katana (Neptune)) |
 
 ## Player characters who can equip **Kiryu Sword**
 

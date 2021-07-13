@@ -23,16 +23,14 @@ title: "Add Dungeon: Donkong Ruins (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 0 |
 | **Max inventory** | 1 |
 
-
 ## Plans added to Remake System after collecting **Add Dungeon: Donkong Ruins**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-216" class="trackbox" /> | 216 | [Base](/neptunia/rb1/dlc/1-base.html) | [Add Dungeon](/neptunia/rb1/remake/1-216-add-dungeon.html)<br /> → [Donkong Ruins](/neptunia/rb1/dungeon/1-110-donkong-ruins.html) (Dungeon) |
-
+| <input type="checkbox" id="rb1-remake-1-216" class="trackbox" /> | 216 | [Base](/neptunia/rb1/dlc/1-base.html) | [Add Dungeon](/neptunia/rb1/remake/1-216-add-dungeon.html)<br />→ [Donkong Ruins](/neptunia/rb1/dungeon/1-110-donkong-ruins.html) (Dungeon) |
 
 ## Dungeons **Add Dungeon: Donkong Ruins** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
-| <input type="checkbox" id="rb1-dungeon-1-109" class="trackbox" /> | 109 | [Base](/neptunia/rb1/dlc/1-base.html) | [Duty Space](/neptunia/rb1/dungeon/1-109-duty-space.html) | Gathering point |
+| <input type="checkbox" id="rb1-dungeon-1-109" class="trackbox" /> | 109 | [Base](/neptunia/rb1/dlc/1-base.html) | [Duty Space](/neptunia/rb1/dungeon/1-109-duty-space.html) | Treasure |

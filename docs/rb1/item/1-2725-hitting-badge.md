@@ -24,20 +24,17 @@ title: "Hitting Badge (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 2000 |
 | **Max inventory** | 99 |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 100 | 0 | 0 | 0 | 0 | 0 |
 
-
 ## Remake System plans which unlock **Hitting Badge** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-399" class="trackbox" /> | 399 | [Base](/neptunia/rb1/dlc/1-base.html) | [Hitting Badge](/neptunia/rb1/remake/1-399-hitting-badge.html)<br /> → [Hitting Badge](/neptunia/rb1/item/1-2725-hitting-badge.html) (Ornament) |
-
+| <input type="checkbox" id="rb1-remake-1-399" class="trackbox" /> | 399 | [Base](/neptunia/rb1/dlc/1-base.html) | [Hitting Badge](/neptunia/rb1/remake/1-399-hitting-badge.html)<br />→ [Hitting Badge](/neptunia/rb1/item/1-2725-hitting-badge.html) (Ornament) |
 
 ## Player characters who can equip **Hitting Badge**
 

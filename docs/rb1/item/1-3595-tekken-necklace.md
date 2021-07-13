@@ -23,13 +23,11 @@ title: "Tekken Necklace (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 0 |
 | **Max inventory** | 1 |
 
-
 ## Player characters who have **Tekken Necklace** equipped by default
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
 | <input type="checkbox" id="rb1-player-1-18" class="trackbox" /> | 18 | [Base](/neptunia/rb1/dlc/1-base.html) | [Tekken](/neptunia/rb1/player/1-18-tekken.html) |
-
 
 ## Player characters who can equip **Tekken Necklace**
 

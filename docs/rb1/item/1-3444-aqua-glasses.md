@@ -24,15 +24,13 @@ title: "Aqua Glasses (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **To unlock in shop** | Method 1<br />- Have Rom & Ram unlocked. |
 
-
 ## Remake System plans which require **Aqua Glasses**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-766" class="trackbox" /> | 766 | [Base](/neptunia/rb1/dlc/1-base.html) | [Black Glasses](/neptunia/rb1/quest/1-766-black-glasses.html) |
-| <input type="checkbox" id="rb1-quest-1-767" class="trackbox" /> | 767 | [Base](/neptunia/rb1/dlc/1-base.html) | [Blue Glasses](/neptunia/rb1/quest/1-767-blue-glasses.html) |
-| <input type="checkbox" id="rb1-quest-1-768" class="trackbox" /> | 768 | [Base](/neptunia/rb1/dlc/1-base.html) | [Carrot Glasses](/neptunia/rb1/quest/1-768-carrot-glasses.html) |
-
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-766" class="trackbox" /> | 766 | [Base](/neptunia/rb1/dlc/1-base.html) | [Black Glasses](/neptunia/rb1/remake/1-766-black-glasses.html)<br />→ [Black Glasses](/neptunia/rb1/item/1-3445-black-glasses.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-1-767" class="trackbox" /> | 767 | [Base](/neptunia/rb1/dlc/1-base.html) | [Blue Glasses](/neptunia/rb1/remake/1-767-blue-glasses.html)<br />→ [Blue Glasses](/neptunia/rb1/item/1-3446-blue-glasses.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-1-768" class="trackbox" /> | 768 | [Base](/neptunia/rb1/dlc/1-base.html) | [Carrot Glasses](/neptunia/rb1/remake/1-768-carrot-glasses.html)<br />→ [Carrot Glasses](/neptunia/rb1/item/1-3447-carrot-glasses.html) (Accessory) | 1 |
 
 ## Player characters who can equip **Aqua Glasses**
 

@@ -23,13 +23,11 @@ title: "Cute Style (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 1500 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Cute Style** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-756" class="trackbox" /> | 756 | [Base](/neptunia/rb1/dlc/1-base.html) | [Cute Style](/neptunia/rb1/remake/1-756-cute-style.html)<br /> → [Cute Style](/neptunia/rb1/item/1-3424-cute-style.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-756" class="trackbox" /> | 756 | [Base](/neptunia/rb1/dlc/1-base.html) | [Cute Style](/neptunia/rb1/remake/1-756-cute-style.html)<br />→ [Cute Style](/neptunia/rb1/item/1-3424-cute-style.html) (Accessory) |
 
 ## Player characters who can equip **Cute Style**
 

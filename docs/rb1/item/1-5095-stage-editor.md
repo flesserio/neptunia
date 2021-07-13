@@ -22,11 +22,10 @@ title: "Stage Editor (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 10 |
 | **Max inventory** | 99 |
 | **Idea Chip level** | 4 |
-| **Idea Chip ability** | [Data Defense Lv.4](/neptunia/rb1/avatar/1-9594-data-defense-lv-4.html)<br />Increases Data Defense by 25% |
-
+| **Idea Chip ability** | [Data Defense Lv.4](/neptunia/rb1/ability/1-9594-data-defense-lv-4.html)<br />Increases Data Defense by 25% |
 
 ## Dungeons **Stage Editor** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
-| <input type="checkbox" id="rb1-dungeon-1-20" class="trackbox" /> | 20 | [Base](/neptunia/rb1/dlc/1-base.html) | [Factory No.459](/neptunia/rb1/dungeon/1-20-factory-no-459.html) | Gathering point |
+| <input type="checkbox" id="rb1-dungeon-1-20" class="trackbox" /> | 20 | [Base](/neptunia/rb1/dlc/1-base.html) | [Factory No.459](/neptunia/rb1/dungeon/1-20-factory-no-459.html) | Gathering point (Harvest Shift) |

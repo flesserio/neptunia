@@ -24,20 +24,17 @@ title: "Base Core C (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 0 |
 | **Max inventory** | 99 |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 40 | 25 | 20 | 25 | 35 | 35 | 30 | 0 | 0 | 0 | 0 |
 
-
 ## Player characters who have **Base Core C** equipped by default
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
 | <input type="checkbox" id="rb1-player-8-7" class="trackbox" /> | 7 | [[Peashy] Battle Entry License](/neptunia/rb1/dlc/8-peashy.html) | [Peashy](/neptunia/rb1/player/8-7-peashy.html) |
-
 
 ## Player characters who can equip **Base Core C**
 

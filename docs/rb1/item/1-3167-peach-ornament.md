@@ -23,13 +23,11 @@ title: "Peach Ornament (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 2500 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Peach Ornament** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-581" class="trackbox" /> | 581 | [Base](/neptunia/rb1/dlc/1-base.html) | [Peach Ornament](/neptunia/rb1/remake/1-581-peach-ornament.html)<br /> → [Peach Ornament](/neptunia/rb1/item/1-3167-peach-ornament.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-581" class="trackbox" /> | 581 | [Base](/neptunia/rb1/dlc/1-base.html) | [Peach Ornament](/neptunia/rb1/remake/1-581-peach-ornament.html)<br />→ [Peach Ornament](/neptunia/rb1/item/1-3167-peach-ornament.html) (Accessory) |
 
 ## Player characters who can equip **Peach Ornament**
 

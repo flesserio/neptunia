@@ -23,13 +23,11 @@ title: "Good-Job Ribbon (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 500 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Good-Job Ribbon** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-496" class="trackbox" /> | 496 | [Base](/neptunia/rb1/dlc/1-base.html) | [Good-Job Ribbon](/neptunia/rb1/remake/1-496-good-job-ribbon.html)<br /> → [Good-Job Ribbon](/neptunia/rb1/item/1-3038-good-job-ribbon.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-496" class="trackbox" /> | 496 | [Base](/neptunia/rb1/dlc/1-base.html) | [Good-Job Ribbon](/neptunia/rb1/remake/1-496-good-job-ribbon.html)<br />→ [Good-Job Ribbon](/neptunia/rb1/item/1-3038-good-job-ribbon.html) (Accessory) |
 
 ## Player characters who can equip **Good-Job Ribbon**
 

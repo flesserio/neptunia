@@ -25,13 +25,11 @@ title: "Paralaxin (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Tool skill** | [Paralaxin](/neptunia/rb1/skill/1-10024-paralaxin.html) |
 | **To unlock in shop** | Method 1<br />- View scene [Chapter 2: Lastation](/neptunia/rb1/scene/1-202-chapter-2-lastation.html) |
 
-
 ## Dungeons **Paralaxin** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
-| <input type="checkbox" id="rb1-dungeon-1-3" class="trackbox" /> | 3 | [Base](/neptunia/rb1/dlc/1-base.html) | [West Wind Valley](/neptunia/rb1/dungeon/1-3-west-wind-valley.html) | Gathering point |
-
+| <input type="checkbox" id="rb1-dungeon-1-3" class="trackbox" /> | 3 | [Base](/neptunia/rb1/dlc/1-base.html) | [West Wind Valley](/neptunia/rb1/dungeon/1-3-west-wind-valley.html) | Treasure |
 
 ## Quests which reward **Paralaxin**
 

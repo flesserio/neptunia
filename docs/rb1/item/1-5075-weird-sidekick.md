@@ -23,16 +23,14 @@ title: "Weird Sidekick (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 10 |
 | **Max inventory** | 99 |
 | **Idea Chip level** | 4 |
-| **Idea Chip ability** | [Plant Defense Lv.4](/neptunia/rb1/avatar/1-9574-plant-defense-lv-4.html)<br />Increases Plant Defense by 25% |
-
+| **Idea Chip ability** | [Plant Defense Lv.4](/neptunia/rb1/ability/1-9574-plant-defense-lv-4.html)<br />Increases Plant Defense by 25% |
 
 ## Dungeons **Weird Sidekick** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
-| <input type="checkbox" id="rb1-dungeon-1-120" class="trackbox" /> | 120 | [Base](/neptunia/rb1/dlc/1-base.html) | [Zeca Ruins No.2](/neptunia/rb1/dungeon/1-120-zeca-ruins-no-2.html) | Gathering point |
-| <input type="checkbox" id="rb1-dungeon-16-130" class="trackbox" /> | 130 | [Additional Content Pack 7](/neptunia/rb1/dlc/16-pack7.html) | [Ario Plateau](/neptunia/rb1/dungeon/16-130-ario-plateau.html) | Gathering point |
-
+| <input type="checkbox" id="rb1-dungeon-1-120" class="trackbox" /> | 120 | [Base](/neptunia/rb1/dlc/1-base.html) | [Zeca Ruins No.2](/neptunia/rb1/dungeon/1-120-zeca-ruins-no-2.html) | Gathering point (Harvest Shift) |
+| <input type="checkbox" id="rb1-dungeon-16-130" class="trackbox" /> | 130 | [Additional Content Pack 7](/neptunia/rb1/dlc/16-pack7.html) | [Ario Plateau](/neptunia/rb1/dungeon/16-130-ario-plateau.html) | Gathering point (Harvest Shift) |
 
 ## Colosseum quests which reward **Weird Sidekick**
 

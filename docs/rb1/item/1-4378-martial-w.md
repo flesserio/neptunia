@@ -25,27 +25,23 @@ title: "Martial W (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 500 |
 | **Max inventory** | 99 |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 55 | -15 | 0 | 25 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 
-
 ## Monsters which drop **Martial W**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-1-320" class="trackbox" /> | 320 | [Base](/neptunia/rb1/dlc/1-base.html) | [Prince Cardbird](/neptunia/rb1/monster/1-320-prince-cardbird.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-1-320" class="trackbox" /> | 320 | [Base](/neptunia/rb1/dlc/1-base.html) | [Prince Cardbird](/neptunia/rb1/monster/1-320-prince-cardbird.html) | 20% |
 
 ## Dungeons **Martial W** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
 | <input type="checkbox" id="rb1-dungeon-1-113" class="trackbox" /> | 113 | [Base](/neptunia/rb1/dlc/1-base.html) | [Millenium Labryinth](/neptunia/rb1/dungeon/1-113-millenium-labryinth.html) | Monster drop |
-
 
 ## Player characters who can equip **Martial W**
 

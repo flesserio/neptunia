@@ -25,13 +25,11 @@ title: "Hunting Model (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Weapon skill** | [Snipe Shot](/neptunia/rb1/skill/1-1402-snipe-shot.html) |
 | **To unlock in shop** | Method 1<br />- Have save in first playthrough<br />- Have Uni unlocked. |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | -168 | 1680 | 0 | 1120 | 0 | -168 | 0 | 0 | 0 | 0 | 0 | 0 |
-
 
 ## Player characters who can equip **Hunting Model**
 

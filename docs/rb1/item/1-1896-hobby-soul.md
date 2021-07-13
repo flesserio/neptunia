@@ -25,13 +25,11 @@ title: "Hobby Soul (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 306 |
 | **Max inventory** | 99 |
 
-
 ## Monsters which drop **Hobby Soul**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-1-215" class="trackbox" /> | 215 | [Base](/neptunia/rb1/dlc/1-base.html) | [Bundodo Old Man](/neptunia/rb1/monster/1-215-bundodo-old-man.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-1-215" class="trackbox" /> | 215 | [Base](/neptunia/rb1/dlc/1-base.html) | [Bundodo Old Man](/neptunia/rb1/monster/1-215-bundodo-old-man.html) | 40% |
 
 ## Dungeons **Hobby Soul** is found
 
@@ -41,16 +39,14 @@ title: "Hobby Soul (Item) - Hyperdimension Neptunia Re;Birth1"
 | <input type="checkbox" id="rb1-dungeon-1-21" class="trackbox" /> | 21 | [Base](/neptunia/rb1/dlc/1-base.html) | [Factory No.459 Depths](/neptunia/rb1/dungeon/1-21-factory-no-459-depths.html) | Gathering point |
 | <input type="checkbox" id="rb1-dungeon-1-21" class="trackbox" /> | 21 | [Base](/neptunia/rb1/dlc/1-base.html) | [Factory No.459 Depths](/neptunia/rb1/dungeon/1-21-factory-no-459-depths.html) | Monster drop |
 
-
 ## Quests which require gathering **Hobby Soul**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
 | <input type="checkbox" id="rb1-quest-1-710" class="trackbox" /> | 710 | [Base](/neptunia/rb1/dlc/1-base.html) | [Soul! Hobby soul!](/neptunia/rb1/quest/1-710-soul-hobby-soul.html) |
 
-
 ## Remake System plans which require **Hobby Soul**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-11-394" class="trackbox" /> | 394 | [Additional Content Package 2](/neptunia/rb1/dlc/11-pack2.html) | [Black Cat Ring](/neptunia/rb1/quest/11-394-black-cat-ring.html) |
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-11-394" class="trackbox" /> | 394 | [Additional Content Package 2](/neptunia/rb1/dlc/11-pack2.html) | [Black Cat Ring](/neptunia/rb1/remake/11-394-black-cat-ring.html)<br />→ [Black Cat Ring](/neptunia/rb1/item/11-2563-black-cat-ring.html) (Armor) | 3 |

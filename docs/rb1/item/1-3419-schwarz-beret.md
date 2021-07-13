@@ -23,13 +23,11 @@ title: "Schwarz Beret (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 1500 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Schwarz Beret** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-752" class="trackbox" /> | 752 | [Base](/neptunia/rb1/dlc/1-base.html) | [Schwarz Beret](/neptunia/rb1/remake/1-752-schwarz-beret.html)<br /> → [Schwarz Beret](/neptunia/rb1/item/1-3419-schwarz-beret.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-752" class="trackbox" /> | 752 | [Base](/neptunia/rb1/dlc/1-base.html) | [Schwarz Beret](/neptunia/rb1/remake/1-752-schwarz-beret.html)<br />→ [Schwarz Beret](/neptunia/rb1/item/1-3419-schwarz-beret.html) (Accessory) |
 
 ## Player characters who can equip **Schwarz Beret**
 

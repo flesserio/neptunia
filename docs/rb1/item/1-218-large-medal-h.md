@@ -22,9 +22,8 @@ title: "Large Medal H (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 0 |
 | **Max inventory** | 1 |
 
-
 ## Monsters which drop **Large Medal H**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-1-1030" class="trackbox" /> | 1030 | [Base](/neptunia/rb1/dlc/1-base.html) | [Killachine Mk-2](/neptunia/rb1/monster/1-1030-killachine-mk-2.html) |
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-1-1030" class="trackbox" /> | 1030 | [Base](/neptunia/rb1/dlc/1-base.html) | [Killachine Mk-2](/neptunia/rb1/monster/1-1030-killachine-mk-2.html) | 100% |

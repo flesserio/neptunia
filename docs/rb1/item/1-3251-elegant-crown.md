@@ -24,22 +24,19 @@ title: "Elegant Crown (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 500 |
 | **Max inventory** | 99 |
 
-
 ## Colosseum quests which reward **Elegant Crown**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
 | <input type="checkbox" id="rb1-colosseum-1-2008" class="trackbox" /> | 2008 | [Base](/neptunia/rb1/dlc/1-base.html) | [Game Heaven](/neptunia/rb1/colosseum/1-2008-game-heaven.html) |
 
-
 ## Remake System plans which require **Elegant Crown**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-636" class="trackbox" /> | 636 | [Base](/neptunia/rb1/dlc/1-base.html) | [Rune Crown](/neptunia/rb1/quest/1-636-rune-crown.html) |
-| <input type="checkbox" id="rb1-quest-1-637" class="trackbox" /> | 637 | [Base](/neptunia/rb1/dlc/1-base.html) | [Noble Crown](/neptunia/rb1/quest/1-637-noble-crown.html) |
-| <input type="checkbox" id="rb1-quest-1-638" class="trackbox" /> | 638 | [Base](/neptunia/rb1/dlc/1-base.html) | [Royal Crown](/neptunia/rb1/quest/1-638-royal-crown.html) |
-
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-636" class="trackbox" /> | 636 | [Base](/neptunia/rb1/dlc/1-base.html) | [Rune Crown](/neptunia/rb1/remake/1-636-rune-crown.html)<br />→ [Rune Crown](/neptunia/rb1/item/1-3252-rune-crown.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-1-637" class="trackbox" /> | 637 | [Base](/neptunia/rb1/dlc/1-base.html) | [Noble Crown](/neptunia/rb1/remake/1-637-noble-crown.html)<br />→ [Noble Crown](/neptunia/rb1/item/1-3253-noble-crown.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-1-638" class="trackbox" /> | 638 | [Base](/neptunia/rb1/dlc/1-base.html) | [Royal Crown](/neptunia/rb1/remake/1-638-royal-crown.html)<br />→ [Royal Crown](/neptunia/rb1/item/1-3254-royal-crown.html) (Accessory) | 1 |
 
 ## Player characters who can equip **Elegant Crown**
 

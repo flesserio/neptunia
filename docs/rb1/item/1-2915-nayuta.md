@@ -24,20 +24,17 @@ title: "Nayuta (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 500 |
 | **Max inventory** | 99 |
 
-
 ## Monsters which drop **Nayuta**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-1-245" class="trackbox" /> | 245 | [Base](/neptunia/rb1/dlc/1-base.html) | [Next-Gen Ricky](/neptunia/rb1/monster/1-245-next-gen-ricky.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-1-245" class="trackbox" /> | 245 | [Base](/neptunia/rb1/dlc/1-base.html) | [Next-Gen Ricky](/neptunia/rb1/monster/1-245-next-gen-ricky.html) | 40% |
 
 ## Dungeons **Nayuta** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
 | <input type="checkbox" id="rb1-dungeon-1-25" class="trackbox" /> | 25 | [Base](/neptunia/rb1/dlc/1-base.html) | [Road to Celestia](/neptunia/rb1/dungeon/1-25-road-to-celestia.html) | Monster drop |
-
 
 ## Player characters who can equip **Nayuta**
 

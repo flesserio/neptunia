@@ -24,20 +24,17 @@ title: "Anti-Seal Patch (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 2500 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Anti-Seal Patch** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-420" class="trackbox" /> | 420 | [Base](/neptunia/rb1/dlc/1-base.html) | [Anti-Seal Patch](/neptunia/rb1/remake/1-420-anti-seal-patch.html)<br /> → [Anti-Seal Patch](/neptunia/rb1/item/1-2759-anti-seal-patch.html) (Ornament) |
-
+| <input type="checkbox" id="rb1-remake-1-420" class="trackbox" /> | 420 | [Base](/neptunia/rb1/dlc/1-base.html) | [Anti-Seal Patch](/neptunia/rb1/remake/1-420-anti-seal-patch.html)<br />→ [Anti-Seal Patch](/neptunia/rb1/item/1-2759-anti-seal-patch.html) (Ornament) |
 
 ## Remake System plans which require **Anti-Seal Patch**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-3" class="trackbox" /> | 3 | [Base](/neptunia/rb1/dlc/1-base.html) | [Negative Status Reduced](/neptunia/rb1/quest/1-3-negative-status-reduced.html) |
-
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-3" class="trackbox" /> | 3 | [Base](/neptunia/rb1/dlc/1-base.html) | [Negative Status Reduced](/neptunia/rb1/remake/1-3-negative-status-reduced.html) | 1 |
 
 ## Player characters who can equip **Anti-Seal Patch**
 

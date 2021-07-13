@@ -23,13 +23,11 @@ title: "Jet Black Beret (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 1500 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Jet Black Beret** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-816" class="trackbox" /> | 816 | [Base](/neptunia/rb1/dlc/1-base.html) | [Jet Black Beret](/neptunia/rb1/remake/1-816-jet-black-beret.html)<br /> → [Jet Black Beret](/neptunia/rb1/item/1-3519-jet-black-beret.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-816" class="trackbox" /> | 816 | [Base](/neptunia/rb1/dlc/1-base.html) | [Jet Black Beret](/neptunia/rb1/remake/1-816-jet-black-beret.html)<br />→ [Jet Black Beret](/neptunia/rb1/item/1-3519-jet-black-beret.html) (Accessory) |
 
 ## Player characters who can equip **Jet Black Beret**
 

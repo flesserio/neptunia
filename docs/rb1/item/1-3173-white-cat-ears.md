@@ -24,20 +24,17 @@ title: "White Cat Ears (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 500 |
 | **Max inventory** | 99 |
 
-
 ## Dungeons **White Cat Ears** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
-| <input type="checkbox" id="rb1-dungeon-1-14" class="trackbox" /> | 14 | [Base](/neptunia/rb1/dlc/1-base.html) | [Hyrarule Snowfield](/neptunia/rb1/dungeon/1-14-hyrarule-snowfield.html) | Gathering point |
-
+| <input type="checkbox" id="rb1-dungeon-1-14" class="trackbox" /> | 14 | [Base](/neptunia/rb1/dlc/1-base.html) | [Hyrarule Snowfield](/neptunia/rb1/dungeon/1-14-hyrarule-snowfield.html) | Hidden treasure |
 
 ## Remake System plans which require **White Cat Ears**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-589" class="trackbox" /> | 589 | [Base](/neptunia/rb1/dlc/1-base.html) | [Black Cat Ears](/neptunia/rb1/quest/1-589-black-cat-ears.html) |
-
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-589" class="trackbox" /> | 589 | [Base](/neptunia/rb1/dlc/1-base.html) | [Black Cat Ears](/neptunia/rb1/remake/1-589-black-cat-ears.html)<br />→ [Black Cat Ears](/neptunia/rb1/item/1-3174-black-cat-ears.html) (Accessory) | 1 |
 
 ## Player characters who can equip **White Cat Ears**
 

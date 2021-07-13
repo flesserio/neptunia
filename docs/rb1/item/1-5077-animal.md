@@ -23,15 +23,13 @@ title: "Animal (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 10 |
 | **Max inventory** | 99 |
 | **Idea Chip level** | 1 |
-| **Idea Chip ability** | [Aquatic Defense Lv.1](/neptunia/rb1/avatar/1-9576-aquatic-defense-lv-1.html)<br />Increases Aquatic Defense by 10% |
-
+| **Idea Chip ability** | [Aquatic Defense Lv.1](/neptunia/rb1/ability/1-9576-aquatic-defense-lv-1.html)<br />Increases Aquatic Defense by 10% |
 
 ## Dungeons **Animal** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
-| <input type="checkbox" id="rb1-dungeon-1-22" class="trackbox" /> | 22 | [Base](/neptunia/rb1/dlc/1-base.html) | [M-Frontier Cave](/neptunia/rb1/dungeon/1-22-m-frontier-cave.html) | Gathering point |
-
+| <input type="checkbox" id="rb1-dungeon-1-22" class="trackbox" /> | 22 | [Base](/neptunia/rb1/dlc/1-base.html) | [M-Frontier Cave](/neptunia/rb1/dungeon/1-22-m-frontier-cave.html) | Gathering point (Harvest Shift) |
 
 ## Quests which reward **Animal**
 

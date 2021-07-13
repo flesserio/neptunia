@@ -23,13 +23,11 @@ title: "Leafy Bow HC (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 2500 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Leafy Bow HC** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-474" class="trackbox" /> | 474 | [Base](/neptunia/rb1/dlc/1-base.html) | [Leafy Bow HC](/neptunia/rb1/remake/1-474-leafy-bow-hc.html)<br /> → [Leafy Bow HC](/neptunia/rb1/item/1-3011-leafy-bow-hc.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-474" class="trackbox" /> | 474 | [Base](/neptunia/rb1/dlc/1-base.html) | [Leafy Bow HC](/neptunia/rb1/remake/1-474-leafy-bow-hc.html)<br />→ [Leafy Bow HC](/neptunia/rb1/item/1-3011-leafy-bow-hc.html) (Accessory) |
 
 ## Player characters who can equip **Leafy Bow HC**
 

@@ -25,13 +25,11 @@ title: "Laser Blade (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Weapon skill** | [R Slash](/neptunia/rb1/skill/1-1003-r-slash.html) |
 | **To unlock in shop** | Method 1<br />- Have Nepgear unlocked. |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 1030 | 0 | 825 | 0 | 0 | -83 | 0 | 0 | 0 | 0 | 0 |
-
 
 ## Player characters who can equip **Laser Blade**
 

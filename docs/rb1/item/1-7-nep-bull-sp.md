@@ -24,13 +24,11 @@ title: "Nep Bull SP (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **Tool skill** | [Nep Bull SP](/neptunia/rb1/skill/1-10007-nep-bull-sp.html) |
 
-
 ## Remake System plans which unlock **Nep Bull SP** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-320" class="trackbox" /> | 320 | [Base](/neptunia/rb1/dlc/1-base.html) | [Nep Bull SP](/neptunia/rb1/remake/1-320-nep-bull-sp.html)<br /> → [Nep Bull SP](/neptunia/rb1/item/1-7-nep-bull-sp.html) (Tool) |
-
+| <input type="checkbox" id="rb1-remake-1-320" class="trackbox" /> | 320 | [Base](/neptunia/rb1/dlc/1-base.html) | [Nep Bull SP](/neptunia/rb1/remake/1-320-nep-bull-sp.html)<br />→ [Nep Bull SP](/neptunia/rb1/item/1-7-nep-bull-sp.html) (Tool) |
 
 ## Colosseum quests which reward **Nep Bull SP**
 

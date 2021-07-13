@@ -23,13 +23,11 @@ title: "Blue Glasses (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 500 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Blue Glasses** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-767" class="trackbox" /> | 767 | [Base](/neptunia/rb1/dlc/1-base.html) | [Blue Glasses](/neptunia/rb1/remake/1-767-blue-glasses.html)<br /> → [Blue Glasses](/neptunia/rb1/item/1-3446-blue-glasses.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-767" class="trackbox" /> | 767 | [Base](/neptunia/rb1/dlc/1-base.html) | [Blue Glasses](/neptunia/rb1/remake/1-767-blue-glasses.html)<br />→ [Blue Glasses](/neptunia/rb1/item/1-3446-blue-glasses.html) (Accessory) |
 
 ## Player characters who can equip **Blue Glasses**
 

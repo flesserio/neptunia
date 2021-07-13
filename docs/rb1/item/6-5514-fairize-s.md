@@ -23,13 +23,11 @@ title: "Fairize S (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 0 |
 | **Max inventory** | 1 |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 185 | 0 | -25 | 40 | 0 | 0 | 60 | 5 | 0 | 0 | 0 |
-
 
 ## Player characters who can equip **Fairize S**
 

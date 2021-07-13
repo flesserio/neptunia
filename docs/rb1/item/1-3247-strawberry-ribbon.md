@@ -24,15 +24,13 @@ title: "Strawberry Ribbon (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **To unlock in shop** | Method 1<br />- View scene [Chapter 3: (´・ω・｀) Ran-Ran](/neptunia/rb1/scene/1-309-chapter-3-ran-ran.html) |
 
-
 ## Remake System plans which require **Strawberry Ribbon**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-633" class="trackbox" /> | 633 | [Base](/neptunia/rb1/dlc/1-base.html) | [Strawberry Milk](/neptunia/rb1/quest/1-633-strawberry-milk.html) |
-| <input type="checkbox" id="rb1-quest-1-634" class="trackbox" /> | 634 | [Base](/neptunia/rb1/dlc/1-base.html) | [Radish Ribbon](/neptunia/rb1/quest/1-634-radish-ribbon.html) |
-| <input type="checkbox" id="rb1-quest-1-635" class="trackbox" /> | 635 | [Base](/neptunia/rb1/dlc/1-base.html) | [Carrot Ribbon](/neptunia/rb1/quest/1-635-carrot-ribbon.html) |
-
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-633" class="trackbox" /> | 633 | [Base](/neptunia/rb1/dlc/1-base.html) | [Strawberry Milk](/neptunia/rb1/remake/1-633-strawberry-milk.html)<br />→ [Strawberry Milk](/neptunia/rb1/item/1-3248-strawberry-milk.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-1-634" class="trackbox" /> | 634 | [Base](/neptunia/rb1/dlc/1-base.html) | [Radish Ribbon](/neptunia/rb1/remake/1-634-radish-ribbon.html)<br />→ [Radish Ribbon](/neptunia/rb1/item/1-3249-radish-ribbon.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-1-635" class="trackbox" /> | 635 | [Base](/neptunia/rb1/dlc/1-base.html) | [Carrot Ribbon](/neptunia/rb1/remake/1-635-carrot-ribbon.html)<br />→ [Carrot Ribbon](/neptunia/rb1/item/1-3250-carrot-ribbon.html) (Accessory) | 1 |
 
 ## Player characters who can equip **Strawberry Ribbon**
 

@@ -24,26 +24,23 @@ title: "Male-oriented (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 10 |
 | **Max inventory** | 99 |
 | **Idea Chip level** | 3 |
-| **Idea Chip ability** | [Battle End SP Heal Lv.3](/neptunia/rb1/avatar/1-9639-battle-end-sp-heal-lv-3.html)<br />Increases Battle End SP Heal by 6% |
-
+| **Idea Chip ability** | [Battle End SP Heal Lv.3](/neptunia/rb1/ability/1-9639-battle-end-sp-heal-lv-3.html)<br />Increases Battle End SP Heal by 6% |
 
 ## Monsters which drop **Male-oriented**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-1-125" class="trackbox" /> | 125 | [Base](/neptunia/rb1/dlc/1-base.html) | [Boss Lizard](/neptunia/rb1/monster/1-125-boss-lizard.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-1-125" class="trackbox" /> | 125 | [Base](/neptunia/rb1/dlc/1-base.html) | [Boss Lizard](/neptunia/rb1/monster/1-125-boss-lizard.html) | 65% |
 
 ## Dungeons **Male-oriented** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
-| <input type="checkbox" id="rb1-dungeon-1-11" class="trackbox" /> | 11 | [Base](/neptunia/rb1/dlc/1-base.html) | [Halo Mountain Peak](/neptunia/rb1/dungeon/1-11-halo-mountain-peak.html) | Gathering point |
-| <input type="checkbox" id="rb1-dungeon-1-26" class="trackbox" /> | 26 | [Base](/neptunia/rb1/dlc/1-base.html) | [MS Mountain Peak](/neptunia/rb1/dungeon/1-26-ms-mountain-peak.html) | Gathering point |
-| <input type="checkbox" id="rb1-dungeon-1-112" class="trackbox" /> | 112 | [Base](/neptunia/rb1/dlc/1-base.html) | [Naasne Volcano](/neptunia/rb1/dungeon/1-112-naasne-volcano.html) | Gathering point |
-| <input type="checkbox" id="rb1-dungeon-1-128" class="trackbox" /> | 128 | [Base](/neptunia/rb1/dlc/1-base.html) | [Naasne Volcano Depths](/neptunia/rb1/dungeon/1-128-naasne-volcano-depths.html) | Gathering point |
 | <input type="checkbox" id="rb1-dungeon-1-5" class="trackbox" /> | 5 | [Base](/neptunia/rb1/dlc/1-base.html) | [Thelad Sanctuary](/neptunia/rb1/dungeon/1-5-thelad-sanctuary.html) | Monster drop |
-
+| <input type="checkbox" id="rb1-dungeon-1-11" class="trackbox" /> | 11 | [Base](/neptunia/rb1/dlc/1-base.html) | [Halo Mountain Peak](/neptunia/rb1/dungeon/1-11-halo-mountain-peak.html) | Gathering point (Harvest Shift) |
+| <input type="checkbox" id="rb1-dungeon-1-26" class="trackbox" /> | 26 | [Base](/neptunia/rb1/dlc/1-base.html) | [MS Mountain Peak](/neptunia/rb1/dungeon/1-26-ms-mountain-peak.html) | Treasure |
+| <input type="checkbox" id="rb1-dungeon-1-112" class="trackbox" /> | 112 | [Base](/neptunia/rb1/dlc/1-base.html) | [Naasne Volcano](/neptunia/rb1/dungeon/1-112-naasne-volcano.html) | Gathering point (Harvest Shift) |
+| <input type="checkbox" id="rb1-dungeon-1-128" class="trackbox" /> | 128 | [Base](/neptunia/rb1/dlc/1-base.html) | [Naasne Volcano Depths](/neptunia/rb1/dungeon/1-128-naasne-volcano-depths.html) | Gathering point (Harvest Shift) |
 
 ## Quests which reward **Male-oriented**
 

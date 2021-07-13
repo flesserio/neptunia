@@ -24,20 +24,17 @@ title: "Cat Goggles (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 500 |
 | **Max inventory** | 99 |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 30 | 0 | 0 | 0 | 0 | 0 |
 
-
 ## Dungeons **Cat Goggles** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
-| <input type="checkbox" id="rb1-dungeon-1-22" class="trackbox" /> | 22 | [Base](/neptunia/rb1/dlc/1-base.html) | [M-Frontier Cave](/neptunia/rb1/dungeon/1-22-m-frontier-cave.html) | Gathering point |
-
+| <input type="checkbox" id="rb1-dungeon-1-22" class="trackbox" /> | 22 | [Base](/neptunia/rb1/dlc/1-base.html) | [M-Frontier Cave](/neptunia/rb1/dungeon/1-22-m-frontier-cave.html) | Hidden treasure |
 
 ## Player characters who can equip **Cat Goggles**
 

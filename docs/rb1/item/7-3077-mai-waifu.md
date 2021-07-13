@@ -23,13 +23,11 @@ title: "Mai Waifu (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 500 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Mai Waifu** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-7-523" class="trackbox" /> | 523 | [[Plutia] Battle Entry License](/neptunia/rb1/dlc/7-plutia.html) | [Mai Waifu](/neptunia/rb1/remake/7-523-mai-waifu.html)<br /> → [Mai Waifu](/neptunia/rb1/item/7-3077-mai-waifu.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-7-523" class="trackbox" /> | 523 | [[Plutia] Battle Entry License](/neptunia/rb1/dlc/7-plutia.html) | [Mai Waifu](/neptunia/rb1/remake/7-523-mai-waifu.html)<br />→ [Mai Waifu](/neptunia/rb1/item/7-3077-mai-waifu.html) (Accessory) |
 
 ## Player characters who can equip **Mai Waifu**
 

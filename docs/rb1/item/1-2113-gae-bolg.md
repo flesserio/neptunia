@@ -25,20 +25,17 @@ title: "Gae Bolg (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **Weapon skill** | [Strike](/neptunia/rb1/skill/1-803-strike.html) |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 460 | -33 | 541 | 0 | 0 | 42 | 0 | 0 | 0 | 0 | 0 |
 
-
 ## Remake System plans which unlock **Gae Bolg** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-376" class="trackbox" /> | 376 | [Base](/neptunia/rb1/dlc/1-base.html) | [Gae Bolg](/neptunia/rb1/remake/1-376-gae-bolg.html)<br /> → [Gae Bolg](/neptunia/rb1/item/1-2113-gae-bolg.html) (Spear (Vert)) |
-
+| <input type="checkbox" id="rb1-remake-1-376" class="trackbox" /> | 376 | [Base](/neptunia/rb1/dlc/1-base.html) | [Gae Bolg](/neptunia/rb1/remake/1-376-gae-bolg.html)<br />→ [Gae Bolg](/neptunia/rb1/item/1-2113-gae-bolg.html) (Spear (Vert)) |
 
 ## Player characters who can equip **Gae Bolg**
 

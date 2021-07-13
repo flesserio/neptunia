@@ -23,13 +23,11 @@ title: "Black Cat (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 5000 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Black Cat** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-658" class="trackbox" /> | 658 | [Base](/neptunia/rb1/dlc/1-base.html) | [Black Cat](/neptunia/rb1/remake/1-658-black-cat.html)<br /> → [Black Cat](/neptunia/rb1/item/1-3288-black-cat.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-658" class="trackbox" /> | 658 | [Base](/neptunia/rb1/dlc/1-base.html) | [Black Cat](/neptunia/rb1/remake/1-658-black-cat.html)<br />→ [Black Cat](/neptunia/rb1/item/1-3288-black-cat.html) (Accessory) |
 
 ## Player characters who can equip **Black Cat**
 

@@ -24,15 +24,13 @@ title: "Gemuet Rose (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **To unlock in shop** | Method 1<br />- Have Uni unlocked. |
 
-
 ## Remake System plans which require **Gemuet Rose**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-743" class="trackbox" /> | 743 | [Base](/neptunia/rb1/dlc/1-base.html) | [Trane Rose](/neptunia/rb1/quest/1-743-trane-rose.html) |
-| <input type="checkbox" id="rb1-quest-1-744" class="trackbox" /> | 744 | [Base](/neptunia/rb1/dlc/1-base.html) | [Heilung Rose](/neptunia/rb1/quest/1-744-heilung-rose.html) |
-| <input type="checkbox" id="rb1-quest-1-745" class="trackbox" /> | 745 | [Base](/neptunia/rb1/dlc/1-base.html) | [Liebe Rose](/neptunia/rb1/quest/1-745-liebe-rose.html) |
-
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-743" class="trackbox" /> | 743 | [Base](/neptunia/rb1/dlc/1-base.html) | [Trane Rose](/neptunia/rb1/remake/1-743-trane-rose.html)<br />→ [Trane Rose](/neptunia/rb1/item/1-3407-trane-rose.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-1-744" class="trackbox" /> | 744 | [Base](/neptunia/rb1/dlc/1-base.html) | [Heilung Rose](/neptunia/rb1/remake/1-744-heilung-rose.html)<br />→ [Heilung Rose](/neptunia/rb1/item/1-3408-heilung-rose.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-1-745" class="trackbox" /> | 745 | [Base](/neptunia/rb1/dlc/1-base.html) | [Liebe Rose](/neptunia/rb1/remake/1-745-liebe-rose.html)<br />→ [Liebe Rose](/neptunia/rb1/item/1-3409-liebe-rose.html) (Accessory) | 1 |
 
 ## Player characters who can equip **Gemuet Rose**
 

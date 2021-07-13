@@ -24,15 +24,13 @@ title: "Rosy Bunny (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **To unlock in shop** | Method 1<br />- Have Rom & Ram unlocked. |
 
-
 ## Remake System plans which require **Rosy Bunny**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-795" class="trackbox" /> | 795 | [Base](/neptunia/rb1/dlc/1-base.html) | [Iris Bunny](/neptunia/rb1/quest/1-795-iris-bunny.html) |
-| <input type="checkbox" id="rb1-quest-1-796" class="trackbox" /> | 796 | [Base](/neptunia/rb1/dlc/1-base.html) | [Black Bunny](/neptunia/rb1/quest/1-796-black-bunny.html) |
-| <input type="checkbox" id="rb1-quest-1-797" class="trackbox" /> | 797 | [Base](/neptunia/rb1/dlc/1-base.html) | [White Bunny](/neptunia/rb1/quest/1-797-white-bunny.html) |
-
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-795" class="trackbox" /> | 795 | [Base](/neptunia/rb1/dlc/1-base.html) | [Iris Bunny](/neptunia/rb1/remake/1-795-iris-bunny.html)<br />→ [Iris Bunny](/neptunia/rb1/item/1-3491-iris-bunny.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-1-796" class="trackbox" /> | 796 | [Base](/neptunia/rb1/dlc/1-base.html) | [Black Bunny](/neptunia/rb1/remake/1-796-black-bunny.html)<br />→ [Black Bunny](/neptunia/rb1/item/1-3492-black-bunny.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-1-797" class="trackbox" /> | 797 | [Base](/neptunia/rb1/dlc/1-base.html) | [White Bunny](/neptunia/rb1/remake/1-797-white-bunny.html)<br />→ [White Bunny](/neptunia/rb1/item/1-3493-white-bunny.html) (Accessory) | 1 |
 
 ## Player characters who can equip **Rosy Bunny**
 

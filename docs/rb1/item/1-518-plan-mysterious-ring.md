@@ -23,16 +23,14 @@ title: "Plan: Mysterious Ring (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 0 |
 | **Max inventory** | 1 |
 
-
 ## Plans added to Remake System after collecting **Plan: Mysterious Ring**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-413" class="trackbox" /> | 413 | [Base](/neptunia/rb1/dlc/1-base.html) | [Mysterious Ring](/neptunia/rb1/remake/1-413-mysterious-ring.html)<br /> → [Mysterious Ring](/neptunia/rb1/item/1-2741-mysterious-ring.html) (Ornament) |
-
+| <input type="checkbox" id="rb1-remake-1-413" class="trackbox" /> | 413 | [Base](/neptunia/rb1/dlc/1-base.html) | [Mysterious Ring](/neptunia/rb1/remake/1-413-mysterious-ring.html)<br />→ [Mysterious Ring](/neptunia/rb1/item/1-2741-mysterious-ring.html) (Ornament) |
 
 ## Dungeons **Plan: Mysterious Ring** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
-| <input type="checkbox" id="rb1-dungeon-1-117" class="trackbox" /> | 117 | [Base](/neptunia/rb1/dlc/1-base.html) | [Adjiten Forest Pass](/neptunia/rb1/dungeon/1-117-adjiten-forest-pass.html) | Gathering point |
+| <input type="checkbox" id="rb1-dungeon-1-117" class="trackbox" /> | 117 | [Base](/neptunia/rb1/dlc/1-base.html) | [Adjiten Forest Pass](/neptunia/rb1/dungeon/1-117-adjiten-forest-pass.html) | Hidden treasure |

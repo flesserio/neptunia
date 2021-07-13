@@ -23,13 +23,11 @@ title: "Carrot Ribbon (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 5000 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Carrot Ribbon** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-7-517" class="trackbox" /> | 517 | [[Plutia] Battle Entry License](/neptunia/rb1/dlc/7-plutia.html) | [Carrot Ribbon](/neptunia/rb1/remake/7-517-carrot-ribbon.html)<br /> → [Carrot Ribbon](/neptunia/rb1/item/7-3068-carrot-ribbon.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-7-517" class="trackbox" /> | 517 | [[Plutia] Battle Entry License](/neptunia/rb1/dlc/7-plutia.html) | [Carrot Ribbon](/neptunia/rb1/remake/7-517-carrot-ribbon.html)<br />→ [Carrot Ribbon](/neptunia/rb1/item/7-3068-carrot-ribbon.html) (Accessory) |
 
 ## Player characters who can equip **Carrot Ribbon**
 

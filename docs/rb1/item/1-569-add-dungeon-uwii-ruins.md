@@ -23,16 +23,14 @@ title: "Add Dungeon: Uwii Ruins (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 0 |
 | **Max inventory** | 1 |
 
-
 ## Plans added to Remake System after collecting **Add Dungeon: Uwii Ruins**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-222" class="trackbox" /> | 222 | [Base](/neptunia/rb1/dlc/1-base.html) | [Add Dungeon](/neptunia/rb1/remake/1-222-add-dungeon.html)<br /> → [Uwii Ruins](/neptunia/rb1/dungeon/1-118-uwii-ruins.html) (Dungeon) |
-
+| <input type="checkbox" id="rb1-remake-1-222" class="trackbox" /> | 222 | [Base](/neptunia/rb1/dlc/1-base.html) | [Add Dungeon](/neptunia/rb1/remake/1-222-add-dungeon.html)<br />→ [Uwii Ruins](/neptunia/rb1/dungeon/1-118-uwii-ruins.html) (Dungeon) |
 
 ## Dungeons **Add Dungeon: Uwii Ruins** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
-| <input type="checkbox" id="rb1-dungeon-1-117" class="trackbox" /> | 117 | [Base](/neptunia/rb1/dlc/1-base.html) | [Adjiten Forest Pass](/neptunia/rb1/dungeon/1-117-adjiten-forest-pass.html) | Gathering point |
+| <input type="checkbox" id="rb1-dungeon-1-117" class="trackbox" /> | 117 | [Base](/neptunia/rb1/dlc/1-base.html) | [Adjiten Forest Pass](/neptunia/rb1/dungeon/1-117-adjiten-forest-pass.html) | Treasure |

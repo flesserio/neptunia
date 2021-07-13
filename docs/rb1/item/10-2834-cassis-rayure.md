@@ -24,20 +24,17 @@ title: "Cassis Rayure (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 500 |
 | **Max inventory** | 99 |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 0 | 15 | 0 | 15 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 
-
 ## Quests which reward **Cassis Rayure**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
 | <input type="checkbox" id="rb1-quest-10-1003" class="trackbox" /> | 1003 | [Additional Content Package 1](/neptunia/rb1/dlc/10-pack1.html) | [Proof of the Wild](/neptunia/rb1/quest/10-1003-proof-of-the-wild.html) |
-
 
 ## Player characters who can equip **Cassis Rayure**
 

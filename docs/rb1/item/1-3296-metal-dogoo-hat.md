@@ -23,13 +23,11 @@ title: "Metal Dogoo Hat (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 5000 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Metal Dogoo Hat** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-666" class="trackbox" /> | 666 | [Base](/neptunia/rb1/dlc/1-base.html) | [Metal Dogoo Hat](/neptunia/rb1/remake/1-666-metal-dogoo-hat.html)<br /> → [Metal Dogoo Hat](/neptunia/rb1/item/1-3296-metal-dogoo-hat.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-666" class="trackbox" /> | 666 | [Base](/neptunia/rb1/dlc/1-base.html) | [Metal Dogoo Hat](/neptunia/rb1/remake/1-666-metal-dogoo-hat.html)<br />→ [Metal Dogoo Hat](/neptunia/rb1/item/1-3296-metal-dogoo-hat.html) (Accessory) |
 
 ## Player characters who can equip **Metal Dogoo Hat**
 

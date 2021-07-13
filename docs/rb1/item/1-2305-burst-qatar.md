@@ -25,20 +25,17 @@ title: "Burst Qatar (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **Weapon skill** | [Slash](/neptunia/rb1/skill/1-2102-slash.html) |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 750 | 264 | 0 | 272 | 0 | 53 | 53 | 0 | 0 | 0 | 0 | 0 |
 
-
 ## Remake System plans which unlock **Burst Qatar** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-365" class="trackbox" /> | 365 | [Base](/neptunia/rb1/dlc/1-base.html) | [Burst Qatar](/neptunia/rb1/remake/1-365-burst-qatar.html)<br /> → [Burst Qatar](/neptunia/rb1/item/1-2305-burst-qatar.html) (Qatar (IF)) |
-
+| <input type="checkbox" id="rb1-remake-1-365" class="trackbox" /> | 365 | [Base](/neptunia/rb1/dlc/1-base.html) | [Burst Qatar](/neptunia/rb1/remake/1-365-burst-qatar.html)<br />→ [Burst Qatar](/neptunia/rb1/item/1-2305-burst-qatar.html) (Qatar (IF)) |
 
 ## Player characters who can equip **Burst Qatar**
 

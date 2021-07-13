@@ -25,20 +25,17 @@ title: "Dreadnaught (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **Weapon skill** | [Strike](/neptunia/rb1/skill/1-803-strike.html) |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 1632 | 0 | 1280 | 0 | 0 | -164 | 0 | 0 | 0 | 0 | 0 |
 
-
 ## Colosseum quests which reward **Dreadnaught**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
 | <input type="checkbox" id="rb1-colosseum-1-2010" class="trackbox" /> | 2010 | [Base](/neptunia/rb1/dlc/1-base.html) | [North Pole Fun](/neptunia/rb1/colosseum/1-2010-north-pole-fun.html) |
-
 
 ## Player characters who can equip **Dreadnaught**
 

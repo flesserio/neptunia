@@ -24,20 +24,17 @@ title: "Metal Dress (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 500 |
 | **Max inventory** | 99 |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 5 | 0 | 0 | 0 | 0 | 0 |
 
-
 ## Monsters which drop **Metal Dress**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-1-1043" class="trackbox" /> | 1043 | [Base](/neptunia/rb1/dlc/1-base.html) | [CPU Breaker](/neptunia/rb1/monster/1-1043-cpu-breaker.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-1-1043" class="trackbox" /> | 1043 | [Base](/neptunia/rb1/dlc/1-base.html) | [CPU Breaker](/neptunia/rb1/monster/1-1043-cpu-breaker.html) | 100% |
 
 ## Player characters who can equip **Metal Dress**
 

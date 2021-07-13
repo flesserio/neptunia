@@ -25,27 +25,23 @@ title: "Black Nurse Cap (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 500 |
 | **Max inventory** | 99 |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 0 | 0 | 0 | 5 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 
-
 ## Monsters which drop **Black Nurse Cap**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-11-405" class="trackbox" /> | 405 | [Additional Content Package 2](/neptunia/rb1/dlc/11-pack2.html) | [Crush's Big Brother](/neptunia/rb1/monster/11-405-crushs-big-brother.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-11-405" class="trackbox" /> | 405 | [Additional Content Package 2](/neptunia/rb1/dlc/11-pack2.html) | [Crush's Big Brother](/neptunia/rb1/monster/11-405-crushs-big-brother.html) | 15% |
 
 ## Dungeons **Black Nurse Cap** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
 | <input type="checkbox" id="rb1-dungeon-11-126" class="trackbox" /> | 126 | [Additional Content Package 2](/neptunia/rb1/dlc/11-pack2.html) | [Nights' Dimension](/neptunia/rb1/dungeon/11-126-nights-dimension.html) | Monster drop |
-
 
 ## Player characters who can equip **Black Nurse Cap**
 

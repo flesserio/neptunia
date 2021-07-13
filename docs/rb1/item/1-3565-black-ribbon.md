@@ -23,13 +23,11 @@ title: "Black Ribbon (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 500 |
 | **Max inventory** | 99 |
 
-
 ## Quests which reward **Black Ribbon**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
 | <input type="checkbox" id="rb1-quest-1-727" class="trackbox" /> | 727 | [Base](/neptunia/rb1/dlc/1-base.html) | [Seeking possibilities](/neptunia/rb1/quest/1-727-seeking-possibilities.html) |
-
 
 ## Player characters who can equip **Black Ribbon**
 

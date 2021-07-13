@@ -23,13 +23,11 @@ title: "Clear Pink Ribbon (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 1500 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Clear Pink Ribbon** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-802" class="trackbox" /> | 802 | [Base](/neptunia/rb1/dlc/1-base.html) | [Clear Pink Ribbon](/neptunia/rb1/remake/1-802-clear-pink-ribbon.html)<br /> → [Clear Pink Ribbon](/neptunia/rb1/item/1-3500-clear-pink-ribbon.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-802" class="trackbox" /> | 802 | [Base](/neptunia/rb1/dlc/1-base.html) | [Clear Pink Ribbon](/neptunia/rb1/remake/1-802-clear-pink-ribbon.html)<br />→ [Clear Pink Ribbon](/neptunia/rb1/item/1-3500-clear-pink-ribbon.html) (Accessory) |
 
 ## Player characters who can equip **Clear Pink Ribbon**
 

@@ -23,13 +23,11 @@ title: "Negative Status Reduced (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 0 |
 | **Max inventory** | 1 |
 
-
 ## Chirpers who give **Negative Status Reduced**
 
 |    | ID | DLC | Avatar | Message | Conditions |
 | -- | -- | --- | ------ | ------- | ---------- |
-| <input type="checkbox" id="rb1-chirper-event-1-5114" class="trackbox" /> | 5114 | [Base](/neptunia/rb1/dlc/1-base.html) | [Luciel](/neptunia/rb1/undefined/1-231-luciel.html) | Here's a particular Plan for you.<br />Like I said, are you sure you're okay with what you're wearing now? | View scene [Chapter 4: Off To Lowee](/neptunia/rb1/scene/1-401-chapter-4-off-to-lowee.html)<br />Do not view scene [Chapter 7: Revenge Of Momus](/neptunia/rb1/scene/1-727-chapter-7-revenge-of-momus.html) |
-
+| <input type="checkbox" id="rb1-chirper-event-1-5114" class="trackbox" /> | 5114 | [Base](/neptunia/rb1/dlc/1-base.html) | [Luciel](/neptunia/rb1/avatar/1-231-luciel.html) | Here's a particular Plan for you.<br />Like I said, are you sure you're okay with what you're wearing now? | View scene [Chapter 4: Off To Lowee](/neptunia/rb1/scene/1-401-chapter-4-off-to-lowee.html)<br />Do not view scene [Chapter 7: Revenge Of Momus](/neptunia/rb1/scene/1-727-chapter-7-revenge-of-momus.html) |
 
 ## Plans added to Remake System after collecting **Negative Status Reduced**
 

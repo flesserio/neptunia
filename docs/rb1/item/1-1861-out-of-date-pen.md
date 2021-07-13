@@ -24,13 +24,11 @@ title: "Out-Of-Date Pen (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 519 |
 | **Max inventory** | 99 |
 
-
 ## Monsters which drop **Out-Of-Date Pen**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-1-6087" class="trackbox" /> | 6087 | [Base](/neptunia/rb1/dlc/1-base.html) | [tPad](/neptunia/rb1/monster/1-6087-tpad.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-1-6087" class="trackbox" /> | 6087 | [Base](/neptunia/rb1/dlc/1-base.html) | [tPad](/neptunia/rb1/monster/1-6087-tpad.html) | 40% |
 
 ## Dungeons **Out-Of-Date Pen** is found
 
@@ -38,9 +36,8 @@ title: "Out-Of-Date Pen (Item) - Hyperdimension Neptunia Re;Birth1"
 | -- | -- | --- | ---- | ---- |
 | <input type="checkbox" id="rb1-dungeon-1-12" class="trackbox" /> | 12 | [Base](/neptunia/rb1/dlc/1-base.html) | [Lowee Snowfield](/neptunia/rb1/dungeon/1-12-lowee-snowfield.html) | Monster drop |
 
-
 ## Remake System plans which require **Out-Of-Date Pen**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-401" class="trackbox" /> | 401 | [Base](/neptunia/rb1/dlc/1-base.html) | [Action Memory](/neptunia/rb1/quest/1-401-action-memory.html) |
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-401" class="trackbox" /> | 401 | [Base](/neptunia/rb1/dlc/1-base.html) | [Action Memory](/neptunia/rb1/remake/1-401-action-memory.html)<br />→ [Action Memory](/neptunia/rb1/item/1-2727-action-memory.html) (Ornament) | 3 |

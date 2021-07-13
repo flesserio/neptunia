@@ -23,7 +23,6 @@ title: "Classical Hairband (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **To unlock in shop** | Method 1<br />- Have Nepgear unlocked. |
 
-
 ## Player characters who can equip **Classical Hairband**
 
 |    | ID | DLC | Name |

@@ -23,13 +23,11 @@ title: "House Ribbon (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 0 |
 | **Max inventory** | 1 |
 
-
 ## Player characters who have **House Ribbon** equipped by default
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
 | <input type="checkbox" id="rb1-player-7-2" class="trackbox" /> | 2 | [[Plutia] Battle Entry License](/neptunia/rb1/dlc/7-plutia.html) | [Plutia](/neptunia/rb1/player/7-2-plutia.html) |
-
 
 ## Player characters who can equip **House Ribbon**
 

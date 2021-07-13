@@ -23,7 +23,6 @@ title: "Blue Petal (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 48 |
 | **Max inventory** | 99 |
 
-
 ## Dungeons **Blue Petal** is found
 
 |    | ID | DLC | Name | From |
@@ -37,10 +36,9 @@ title: "Blue Petal (Item) - Hyperdimension Neptunia Re;Birth1"
 | <input type="checkbox" id="rb1-dungeon-1-114" class="trackbox" /> | 114 | [Base](/neptunia/rb1/dlc/1-base.html) | [Kinest Range](/neptunia/rb1/dungeon/1-114-kinest-range.html) | Gathering point |
 | <input type="checkbox" id="rb1-dungeon-12-125" class="trackbox" /> | 125 | [Additional Content Package 3](/neptunia/rb1/dlc/12-pack3.html) | [Haneda Forest](/neptunia/rb1/dungeon/12-125-haneda-forest.html) | Gathering point |
 
-
 ## Remake System plans which require **Blue Petal**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-338" class="trackbox" /> | 338 | [Base](/neptunia/rb1/dlc/1-base.html) | [Panacea](/neptunia/rb1/quest/1-338-panacea.html) |
-| <input type="checkbox" id="rb1-quest-1-459" class="trackbox" /> | 459 | [Base](/neptunia/rb1/dlc/1-base.html) | [Blue Pigment](/neptunia/rb1/quest/1-459-blue-pigment.html) |
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-338" class="trackbox" /> | 338 | [Base](/neptunia/rb1/dlc/1-base.html) | [Panacea](/neptunia/rb1/remake/1-338-panacea.html)<br />→ [Panacea](/neptunia/rb1/item/1-31-panacea.html) (Tool) | 2 |
+| <input type="checkbox" id="rb1-remake-1-459" class="trackbox" /> | 459 | [Base](/neptunia/rb1/dlc/1-base.html) | [Blue Pigment](/neptunia/rb1/remake/1-459-blue-pigment.html)<br />→ [Blue Pigment](/neptunia/rb1/item/1-1938-blue-pigment.html) (Material) | 3 |

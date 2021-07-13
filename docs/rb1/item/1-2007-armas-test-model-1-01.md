@@ -24,13 +24,11 @@ title: "Armas Test Model 1.01 (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 1 |
 | **Weapon skill** | [Attack](/neptunia/rb1/skill/1-1-attack.html) |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 146 | 0 | 100 | 0 | -13 | -13 | 0 | 0 | 0 | 0 | 0 |
-
 
 ## Player characters who can equip **Armas Test Model 1.01**
 

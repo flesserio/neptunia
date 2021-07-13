@@ -24,29 +24,26 @@ title: "Horsebird Feather (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 88 |
 | **Max inventory** | 99 |
 
-
 ## Monsters which drop **Horsebird Feather**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-1-154" class="trackbox" /> | 154 | [Base](/neptunia/rb1/dlc/1-base.html) | [Horsebird](/neptunia/rb1/monster/1-154-horsebird.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-1-154" class="trackbox" /> | 154 | [Base](/neptunia/rb1/dlc/1-base.html) | [Horsebird](/neptunia/rb1/monster/1-154-horsebird.html) | 40% |
 
 ## Dungeons **Horsebird Feather** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
 | <input type="checkbox" id="rb1-dungeon-1-10" class="trackbox" /> | 10 | [Base](/neptunia/rb1/dlc/1-base.html) | [Halo Mountain](/neptunia/rb1/dungeon/1-10-halo-mountain.html) | Gathering point |
-| <input type="checkbox" id="rb1-dungeon-1-11" class="trackbox" /> | 11 | [Base](/neptunia/rb1/dlc/1-base.html) | [Halo Mountain Peak](/neptunia/rb1/dungeon/1-11-halo-mountain-peak.html) | Gathering point |
 | <input type="checkbox" id="rb1-dungeon-1-10" class="trackbox" /> | 10 | [Base](/neptunia/rb1/dlc/1-base.html) | [Halo Mountain](/neptunia/rb1/dungeon/1-10-halo-mountain.html) | Monster drop |
+| <input type="checkbox" id="rb1-dungeon-1-11" class="trackbox" /> | 11 | [Base](/neptunia/rb1/dlc/1-base.html) | [Halo Mountain Peak](/neptunia/rb1/dungeon/1-11-halo-mountain-peak.html) | Gathering point |
 | <input type="checkbox" id="rb1-dungeon-1-11" class="trackbox" /> | 11 | [Base](/neptunia/rb1/dlc/1-base.html) | [Halo Mountain Peak](/neptunia/rb1/dungeon/1-11-halo-mountain-peak.html) | Monster drop |
-
 
 ## Remake System plans which require **Horsebird Feather**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-333" class="trackbox" /> | 333 | [Base](/neptunia/rb1/dlc/1-base.html) | [Horsebird Sashimi](/neptunia/rb1/quest/1-333-horsebird-sashimi.html) |
-| <input type="checkbox" id="rb1-quest-1-347" class="trackbox" /> | 347 | [Base](/neptunia/rb1/dlc/1-base.html) | [Energy Fragment](/neptunia/rb1/quest/1-347-energy-fragment.html) |
-| <input type="checkbox" id="rb1-quest-1-388" class="trackbox" /> | 388 | [Base](/neptunia/rb1/dlc/1-base.html) | [Silver Armlet](/neptunia/rb1/quest/1-388-silver-armlet.html) |
-| <input type="checkbox" id="rb1-quest-1-470" class="trackbox" /> | 470 | [Base](/neptunia/rb1/dlc/1-base.html) | [Wing Accessory](/neptunia/rb1/quest/1-470-wing-accessory.html) |
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-333" class="trackbox" /> | 333 | [Base](/neptunia/rb1/dlc/1-base.html) | [Horsebird Sashimi](/neptunia/rb1/remake/1-333-horsebird-sashimi.html)<br />→ [Horsebird Sashimi](/neptunia/rb1/item/1-22-horsebird-sashimi.html) (Tool) | 2 |
+| <input type="checkbox" id="rb1-remake-1-347" class="trackbox" /> | 347 | [Base](/neptunia/rb1/dlc/1-base.html) | [Energy Fragment](/neptunia/rb1/remake/1-347-energy-fragment.html)<br />→ [Energy Fragment](/neptunia/rb1/item/1-40-energy-fragment.html) (Tool) | 2 |
+| <input type="checkbox" id="rb1-remake-1-388" class="trackbox" /> | 388 | [Base](/neptunia/rb1/dlc/1-base.html) | [Silver Armlet](/neptunia/rb1/remake/1-388-silver-armlet.html)<br />→ [Silver Armlet](/neptunia/rb1/item/1-2523-silver-armlet.html) (Armor) | 2 |
+| <input type="checkbox" id="rb1-remake-1-470" class="trackbox" /> | 470 | [Base](/neptunia/rb1/dlc/1-base.html) | [Wing Accessory](/neptunia/rb1/remake/1-470-wing-accessory.html)<br />→ [Wing Accessory](/neptunia/rb1/item/1-3007-wing-accessory.html) (Accessory) | 1 |

@@ -23,13 +23,11 @@ title: "White D-Clips (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 0 |
 | **Max inventory** | 1 |
 
-
 ## Player characters who have **White D-Clips** equipped by default
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
 | <input type="checkbox" id="rb1-player-1-6" class="trackbox" /> | 6 | [Base](/neptunia/rb1/dlc/1-base.html) | [Nepgear](/neptunia/rb1/player/1-6-nepgear.html) |
-
 
 ## Player characters who can equip **White D-Clips**
 

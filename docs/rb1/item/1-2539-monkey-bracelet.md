@@ -24,20 +24,17 @@ title: "Monkey Bracelet (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 0 |
 | **Max inventory** | 99 |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 178 | 1430 | 0 | 1300 | 97 | 0 | 97 | 0 | 0 | 0 | 0 |
 
-
 ## Colosseum quests which reward **Monkey Bracelet**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
 | <input type="checkbox" id="rb1-colosseum-1-2006" class="trackbox" /> | 2006 | [Base](/neptunia/rb1/dlc/1-base.html) | [It is Year 0...](/neptunia/rb1/colosseum/1-2006-it-is-year-0.html) |
-
 
 ## Player characters who can equip **Monkey Bracelet**
 

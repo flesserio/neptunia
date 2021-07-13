@@ -23,13 +23,11 @@ title: "Lucky Star (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 1500 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Lucky Star** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-569" class="trackbox" /> | 569 | [Base](/neptunia/rb1/dlc/1-base.html) | [Lucky Star](/neptunia/rb1/remake/1-569-lucky-star.html)<br /> → [Lucky Star](/neptunia/rb1/item/1-3141-lucky-star.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-569" class="trackbox" /> | 569 | [Base](/neptunia/rb1/dlc/1-base.html) | [Lucky Star](/neptunia/rb1/remake/1-569-lucky-star.html)<br />→ [Lucky Star](/neptunia/rb1/item/1-3141-lucky-star.html) (Accessory) |
 
 ## Player characters who can equip **Lucky Star**
 

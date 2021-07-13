@@ -24,20 +24,17 @@ title: "Stone S (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 500 |
 | **Max inventory** | 99 |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | -15 | 60 | 0 | 0 | 0 | 25 | 0 | 0 | 0 | 0 | 20 |
 
-
 ## Monsters which drop **Stone S**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-1-1028" class="trackbox" /> | 1028 | [Base](/neptunia/rb1/dlc/1-base.html) | [Arfoire](/neptunia/rb1/monster/1-1028-arfoire.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-1-1028" class="trackbox" /> | 1028 | [Base](/neptunia/rb1/dlc/1-base.html) | [Arfoire](/neptunia/rb1/monster/1-1028-arfoire.html) | 100% |
 
 ## Player characters who can equip **Stone S**
 

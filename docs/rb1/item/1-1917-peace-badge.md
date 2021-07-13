@@ -25,13 +25,11 @@ title: "Peace Badge (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 1929 |
 | **Max inventory** | 99 |
 
-
 ## Monsters which drop **Peace Badge**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-1-334" class="trackbox" /> | 334 | [Base](/neptunia/rb1/dlc/1-base.html) | [Thunderbird](/neptunia/rb1/monster/1-334-thunderbird.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-1-334" class="trackbox" /> | 334 | [Base](/neptunia/rb1/dlc/1-base.html) | [Thunderbird](/neptunia/rb1/monster/1-334-thunderbird.html) | 55% |
 
 ## Dungeons **Peace Badge** is found
 
@@ -40,17 +38,15 @@ title: "Peace Badge (Item) - Hyperdimension Neptunia Re;Birth1"
 | <input type="checkbox" id="rb1-dungeon-1-114" class="trackbox" /> | 114 | [Base](/neptunia/rb1/dlc/1-base.html) | [Kinest Range](/neptunia/rb1/dungeon/1-114-kinest-range.html) | Gathering point |
 | <input type="checkbox" id="rb1-dungeon-1-114" class="trackbox" /> | 114 | [Base](/neptunia/rb1/dlc/1-base.html) | [Kinest Range](/neptunia/rb1/dungeon/1-114-kinest-range.html) | Monster drop |
 
-
 ## Quests which require gathering **Peace Badge**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
 | <input type="checkbox" id="rb1-quest-1-603" class="trackbox" /> | 603 | [Base](/neptunia/rb1/dlc/1-base.html) | [That badge](/neptunia/rb1/quest/1-603-that-badge.html) |
 
-
 ## Remake System plans which require **Peace Badge**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-258" class="trackbox" /> | 258 | [Base](/neptunia/rb1/dlc/1-base.html) | [Add Enemies](/neptunia/rb1/quest/1-258-add-enemies.html) |
-| <input type="checkbox" id="rb1-quest-1-371" class="trackbox" /> | 371 | [Base](/neptunia/rb1/dlc/1-base.html) | [Cube Hammer](/neptunia/rb1/quest/1-371-cube-hammer.html) |
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-258" class="trackbox" /> | 258 | [Base](/neptunia/rb1/dlc/1-base.html) | [Add Enemies](/neptunia/rb1/remake/1-258-add-enemies.html)<br />→ [Adjiten Forest Pass](/neptunia/rb1/dungeon/1-117-adjiten-forest-pass.html) (Dungeon) | 1 |
+| <input type="checkbox" id="rb1-remake-1-371" class="trackbox" /> | 371 | [Base](/neptunia/rb1/dlc/1-base.html) | [Cube Hammer](/neptunia/rb1/remake/1-371-cube-hammer.html)<br />→ [Cube Hammer](/neptunia/rb1/item/1-2092-cube-hammer.html) (Hammer (Blanc)) | 2 |

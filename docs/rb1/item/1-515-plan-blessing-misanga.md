@@ -23,16 +23,14 @@ title: "Plan: Blessing Misanga (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 0 |
 | **Max inventory** | 1 |
 
-
 ## Plans added to Remake System after collecting **Plan: Blessing Misanga**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-410" class="trackbox" /> | 410 | [Base](/neptunia/rb1/dlc/1-base.html) | [Blessing Misanga](/neptunia/rb1/remake/1-410-blessing-misanga.html)<br /> → [Blessing Misanga](/neptunia/rb1/item/1-2736-blessing-misanga.html) (Ornament) |
-
+| <input type="checkbox" id="rb1-remake-1-410" class="trackbox" /> | 410 | [Base](/neptunia/rb1/dlc/1-base.html) | [Blessing Misanga](/neptunia/rb1/remake/1-410-blessing-misanga.html)<br />→ [Blessing Misanga](/neptunia/rb1/item/1-2736-blessing-misanga.html) (Ornament) |
 
 ## Dungeons **Plan: Blessing Misanga** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
-| <input type="checkbox" id="rb1-dungeon-1-112" class="trackbox" /> | 112 | [Base](/neptunia/rb1/dlc/1-base.html) | [Naasne Volcano](/neptunia/rb1/dungeon/1-112-naasne-volcano.html) | Gathering point |
+| <input type="checkbox" id="rb1-dungeon-1-112" class="trackbox" /> | 112 | [Base](/neptunia/rb1/dlc/1-base.html) | [Naasne Volcano](/neptunia/rb1/dungeon/1-112-naasne-volcano.html) | Treasure |

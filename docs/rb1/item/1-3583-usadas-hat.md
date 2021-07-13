@@ -24,21 +24,18 @@ title: "Usada's Hat (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 500 |
 | **Max inventory** | 99 |
 
-
 ## Monsters which drop **Usada's Hat**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-1-223" class="trackbox" /> | 223 | [Base](/neptunia/rb1/dlc/1-base.html) | [Something Tree](/neptunia/rb1/monster/1-223-something-tree.html) |
-| <input type="checkbox" id="rb1-monster-1-224" class="trackbox" /> | 224 | [Base](/neptunia/rb1/dlc/1-base.html) | [Viral Something Tree](/neptunia/rb1/monster/1-224-viral-something-tree.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-1-223" class="trackbox" /> | 223 | [Base](/neptunia/rb1/dlc/1-base.html) | [Something Tree](/neptunia/rb1/monster/1-223-something-tree.html) | 15% |
+| <input type="checkbox" id="rb1-monster-1-224" class="trackbox" /> | 224 | [Base](/neptunia/rb1/dlc/1-base.html) | [Viral Something Tree](/neptunia/rb1/monster/1-224-viral-something-tree.html) | 15% |
 
 ## Dungeons **Usada's Hat** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
 | <input type="checkbox" id="rb1-dungeon-1-22" class="trackbox" /> | 22 | [Base](/neptunia/rb1/dlc/1-base.html) | [M-Frontier Cave](/neptunia/rb1/dungeon/1-22-m-frontier-cave.html) | Monster drop |
-
 
 ## Player characters who can equip **Usada's Hat**
 

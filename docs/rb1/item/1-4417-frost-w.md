@@ -24,20 +24,17 @@ title: "Frost W (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 500 |
 | **Max inventory** | 99 |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 15 | 30 | 0 | -10 | -10 | 45 | 0 | -7 | 15 | 0 | 0 |
 
-
 ## Dungeons **Frost W** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
-| <input type="checkbox" id="rb1-dungeon-1-10" class="trackbox" /> | 10 | [Base](/neptunia/rb1/dlc/1-base.html) | [Halo Mountain](/neptunia/rb1/dungeon/1-10-halo-mountain.html) | Gathering point |
-
+| <input type="checkbox" id="rb1-dungeon-1-10" class="trackbox" /> | 10 | [Base](/neptunia/rb1/dlc/1-base.html) | [Halo Mountain](/neptunia/rb1/dungeon/1-10-halo-mountain.html) | Hidden treasure |
 
 ## Player characters who can equip **Frost W**
 

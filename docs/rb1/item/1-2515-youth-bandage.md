@@ -24,20 +24,17 @@ title: "Youth Bandage (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 250 |
 | **Max inventory** | 99 |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 232 | 0 | 0 | 0 | 155 | 0 | 155 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 
-
 ## Remake System plans which unlock **Youth Bandage** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-384" class="trackbox" /> | 384 | [Base](/neptunia/rb1/dlc/1-base.html) | [Youth Bandage](/neptunia/rb1/remake/1-384-youth-bandage.html)<br /> → [Youth Bandage](/neptunia/rb1/item/1-2515-youth-bandage.html) (Armor) |
-
+| <input type="checkbox" id="rb1-remake-1-384" class="trackbox" /> | 384 | [Base](/neptunia/rb1/dlc/1-base.html) | [Youth Bandage](/neptunia/rb1/remake/1-384-youth-bandage.html)<br />→ [Youth Bandage](/neptunia/rb1/item/1-2515-youth-bandage.html) (Armor) |
 
 ## Player characters who can equip **Youth Bandage**
 

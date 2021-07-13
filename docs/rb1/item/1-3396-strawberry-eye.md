@@ -23,13 +23,11 @@ title: "Strawberry Eye (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 500 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Strawberry Eye** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-735" class="trackbox" /> | 735 | [Base](/neptunia/rb1/dlc/1-base.html) | [Strawberry Eye](/neptunia/rb1/remake/1-735-strawberry-eye.html)<br /> → [Strawberry Eye](/neptunia/rb1/item/1-3396-strawberry-eye.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-735" class="trackbox" /> | 735 | [Base](/neptunia/rb1/dlc/1-base.html) | [Strawberry Eye](/neptunia/rb1/remake/1-735-strawberry-eye.html)<br />→ [Strawberry Eye](/neptunia/rb1/item/1-3396-strawberry-eye.html) (Accessory) |
 
 ## Player characters who can equip **Strawberry Eye**
 

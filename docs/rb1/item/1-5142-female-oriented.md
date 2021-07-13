@@ -22,12 +22,12 @@ title: "Female-oriented (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 10 |
 | **Max inventory** | 99 |
 | **Idea Chip level** | 5 |
-| **Idea Chip ability** | [Battle End SP Heal Lv.5](/neptunia/rb1/avatar/1-9641-battle-end-sp-heal-lv-5.html)<br />Increases Battle End SP Heal by 10% |
-
+| **Idea Chip ability** | [Battle End SP Heal Lv.5](/neptunia/rb1/ability/1-9641-battle-end-sp-heal-lv-5.html)<br />Increases Battle End SP Heal by 10% |
 
 ## Dungeons **Female-oriented** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
-| <input type="checkbox" id="rb1-dungeon-1-118" class="trackbox" /> | 118 | [Base](/neptunia/rb1/dlc/1-base.html) | [Uwii Ruins](/neptunia/rb1/dungeon/1-118-uwii-ruins.html) | Gathering point |
-| <input type="checkbox" id="rb1-dungeon-11-126" class="trackbox" /> | 126 | [Additional Content Package 2](/neptunia/rb1/dlc/11-pack2.html) | [Nights' Dimension](/neptunia/rb1/dungeon/11-126-nights-dimension.html) | Gathering point |
+| <input type="checkbox" id="rb1-dungeon-1-118" class="trackbox" /> | 118 | [Base](/neptunia/rb1/dlc/1-base.html) | [Uwii Ruins](/neptunia/rb1/dungeon/1-118-uwii-ruins.html) | Gathering point (Harvest Shift) |
+| <input type="checkbox" id="rb1-dungeon-1-118" class="trackbox" /> | 118 | [Base](/neptunia/rb1/dlc/1-base.html) | [Uwii Ruins](/neptunia/rb1/dungeon/1-118-uwii-ruins.html) | Hidden treasure |
+| <input type="checkbox" id="rb1-dungeon-11-126" class="trackbox" /> | 126 | [Additional Content Package 2](/neptunia/rb1/dlc/11-pack2.html) | [Nights' Dimension](/neptunia/rb1/dungeon/11-126-nights-dimension.html) | Hidden treasure |

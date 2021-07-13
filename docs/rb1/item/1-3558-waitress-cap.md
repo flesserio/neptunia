@@ -24,20 +24,17 @@ title: "Waitress Cap (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 500 |
 | **Max inventory** | 99 |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 5 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 
-
 ## Dungeons **Waitress Cap** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
-| <input type="checkbox" id="rb1-dungeon-1-103" class="trackbox" /> | 103 | [Base](/neptunia/rb1/dlc/1-base.html) | [Ortan Fields](/neptunia/rb1/dungeon/1-103-ortan-fields.html) | Gathering point |
-
+| <input type="checkbox" id="rb1-dungeon-1-103" class="trackbox" /> | 103 | [Base](/neptunia/rb1/dlc/1-base.html) | [Ortan Fields](/neptunia/rb1/dungeon/1-103-ortan-fields.html) | Hidden treasure |
 
 ## Player characters who can equip **Waitress Cap**
 

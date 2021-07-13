@@ -24,20 +24,17 @@ title: "Plan: Kiryu Sword (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 0 |
 | **Max inventory** | 1 |
 
-
 ## Plans added to Remake System after collecting **Plan: Kiryu Sword**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-10-357" class="trackbox" /> | 357 | [Additional Content Package 1](/neptunia/rb1/dlc/10-pack1.html) | [Kiryu Sword](/neptunia/rb1/remake/10-357-kiryu-sword.html)<br /> → [Kiryu Sword](/neptunia/rb1/item/10-2026-kiryu-sword.html) (Katana (Neptune)) |
-
+| <input type="checkbox" id="rb1-remake-10-357" class="trackbox" /> | 357 | [Additional Content Package 1](/neptunia/rb1/dlc/10-pack1.html) | [Kiryu Sword](/neptunia/rb1/remake/10-357-kiryu-sword.html)<br />→ [Kiryu Sword](/neptunia/rb1/item/10-2026-kiryu-sword.html) (Katana (Neptune)) |
 
 ## Monsters which drop **Plan: Kiryu Sword**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-10-419" class="trackbox" /> | 419 | [Additional Content Package 1](/neptunia/rb1/dlc/10-pack1.html) | [Delphi Eggplant MK-2](/neptunia/rb1/monster/10-419-delphi-eggplant-mk-2.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-10-419" class="trackbox" /> | 419 | [Additional Content Package 1](/neptunia/rb1/dlc/10-pack1.html) | [Delphi Eggplant MK-2](/neptunia/rb1/monster/10-419-delphi-eggplant-mk-2.html) | 55% |
 
 ## Dungeons **Plan: Kiryu Sword** is found
 

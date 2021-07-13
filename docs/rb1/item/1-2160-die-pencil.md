@@ -25,20 +25,17 @@ title: "Die Pencil (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **Weapon skill** | [Break](/neptunia/rb1/skill/1-1603-break.html) |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 690 | 0 | 965 | 0 | -127 | 0 | 0 | 0 | 0 | 0 | 0 |
 
-
 ## Player characters who have **Die Pencil** equipped by default
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
 | <input type="checkbox" id="rb1-player-1-9" class="trackbox" /> | 9 | [Base](/neptunia/rb1/dlc/1-base.html) | [Rom](/neptunia/rb1/player/1-9-rom.html) |
-
 
 ## Player characters who can equip **Die Pencil**
 

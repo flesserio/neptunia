@@ -22,10 +22,9 @@ title: "Nepped Animal (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 0 |
 | **Max inventory** | 99 |
 
-
 ## Monsters which drop **Nepped Animal**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-1-1056" class="trackbox" /> | 1056 | [Base](/neptunia/rb1/dlc/1-base.html) | [True Arfoire](/neptunia/rb1/monster/1-1056-true-arfoire.html) |
-| <input type="checkbox" id="rb1-monster-1-1058" class="trackbox" /> | 1058 | [Base](/neptunia/rb1/dlc/1-base.html) | [True Arfoire](/neptunia/rb1/monster/1-1058-true-arfoire.html) |
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-1-1056" class="trackbox" /> | 1056 | [Base](/neptunia/rb1/dlc/1-base.html) | [True Arfoire](/neptunia/rb1/monster/1-1056-true-arfoire.html) | 100% |
+| <input type="checkbox" id="rb1-monster-1-1058" class="trackbox" /> | 1058 | [Base](/neptunia/rb1/dlc/1-base.html) | [True Arfoire](/neptunia/rb1/monster/1-1058-true-arfoire.html) | 100% |

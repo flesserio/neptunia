@@ -24,20 +24,17 @@ title: "Plan: U-Ring (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 0 |
 | **Max inventory** | 1 |
 
-
 ## Plans added to Remake System after collecting **Plan: U-Ring**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-11-395" class="trackbox" /> | 395 | [Additional Content Package 2](/neptunia/rb1/dlc/11-pack2.html) | [U-Ring](/neptunia/rb1/remake/11-395-u-ring.html)<br /> → [U-Ring](/neptunia/rb1/item/11-2565-u-ring.html) (Armor) |
-
+| <input type="checkbox" id="rb1-remake-11-395" class="trackbox" /> | 395 | [Additional Content Package 2](/neptunia/rb1/dlc/11-pack2.html) | [U-Ring](/neptunia/rb1/remake/11-395-u-ring.html)<br />→ [U-Ring](/neptunia/rb1/item/11-2565-u-ring.html) (Armor) |
 
 ## Monsters which drop **Plan: U-Ring**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-11-366" class="trackbox" /> | 366 | [Additional Content Package 2](/neptunia/rb1/dlc/11-pack2.html) | [Clione](/neptunia/rb1/monster/11-366-clione.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-11-366" class="trackbox" /> | 366 | [Additional Content Package 2](/neptunia/rb1/dlc/11-pack2.html) | [Clione](/neptunia/rb1/monster/11-366-clione.html) | 50% |
 
 ## Dungeons **Plan: U-Ring** is found
 

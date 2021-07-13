@@ -23,13 +23,11 @@ title: "Pink Cat (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 5000 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Pink Cat** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-659" class="trackbox" /> | 659 | [Base](/neptunia/rb1/dlc/1-base.html) | [Pink Cat](/neptunia/rb1/remake/1-659-pink-cat.html)<br /> → [Pink Cat](/neptunia/rb1/item/1-3289-pink-cat.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-659" class="trackbox" /> | 659 | [Base](/neptunia/rb1/dlc/1-base.html) | [Pink Cat](/neptunia/rb1/remake/1-659-pink-cat.html)<br />→ [Pink Cat](/neptunia/rb1/item/1-3289-pink-cat.html) (Accessory) |
 
 ## Player characters who can equip **Pink Cat**
 

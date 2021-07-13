@@ -24,20 +24,17 @@ title: "Milfeulle (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 500 |
 | **Max inventory** | 99 |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 10 | 0 | 0 |
 
-
 ## Colosseum quests which reward **Milfeulle**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
 | <input type="checkbox" id="rb1-colosseum-1-2017" class="trackbox" /> | 2017 | [Base](/neptunia/rb1/dlc/1-base.html) | [Twinkling Star](/neptunia/rb1/colosseum/1-2017-twinkling-star.html) |
-
 
 ## Player characters who can equip **Milfeulle**
 

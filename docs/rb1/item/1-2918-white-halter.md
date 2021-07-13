@@ -24,21 +24,18 @@ title: "White Halter (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 250000 |
 | **Max inventory** | 99 |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 10 | 0 | 0 |
 
-
 ## Remake System plans which unlock **White Halter** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-452" class="trackbox" /> | 452 | [Base](/neptunia/rb1/dlc/1-base.html) | [White Halter](/neptunia/rb1/remake/1-452-white-halter.html)<br /> → [White Halter](/neptunia/rb1/item/1-2918-white-halter.html) (Clothing) |
-| <input type="checkbox" id="rb1-remake-7-452" class="trackbox" /> | 452 | [[Plutia] Battle Entry License](/neptunia/rb1/dlc/7-plutia.html) | [White Halter](/neptunia/rb1/remake/7-452-white-halter.html)<br /> → [White Halter](/neptunia/rb1/item/1-2918-white-halter.html) (Clothing) |
-
+| <input type="checkbox" id="rb1-remake-1-452" class="trackbox" /> | 452 | [Base](/neptunia/rb1/dlc/1-base.html) | [White Halter](/neptunia/rb1/remake/1-452-white-halter.html)<br />→ [White Halter](/neptunia/rb1/item/1-2918-white-halter.html) (Clothing) |
+| <input type="checkbox" id="rb1-remake-7-452" class="trackbox" /> | 452 | [[Plutia] Battle Entry License](/neptunia/rb1/dlc/7-plutia.html) | [White Halter](/neptunia/rb1/remake/7-452-white-halter.html)<br />→ [White Halter](/neptunia/rb1/item/1-2918-white-halter.html) (Clothing) |
 
 ## Player characters who can equip **White Halter**
 

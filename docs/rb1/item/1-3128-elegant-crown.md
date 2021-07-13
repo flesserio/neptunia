@@ -24,15 +24,13 @@ title: "Elegant Crown (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **To unlock in shop** | Method 1<br />- View scene [Chapter 5: Reunion](/neptunia/rb1/scene/1-503-chapter-5-reunion.html) |
 
-
 ## Remake System plans which require **Elegant Crown**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-560" class="trackbox" /> | 560 | [Base](/neptunia/rb1/dlc/1-base.html) | [Rune Crown](/neptunia/rb1/quest/1-560-rune-crown.html) |
-| <input type="checkbox" id="rb1-quest-1-561" class="trackbox" /> | 561 | [Base](/neptunia/rb1/dlc/1-base.html) | [Noble Crown](/neptunia/rb1/quest/1-561-noble-crown.html) |
-| <input type="checkbox" id="rb1-quest-1-562" class="trackbox" /> | 562 | [Base](/neptunia/rb1/dlc/1-base.html) | [Royal Crown](/neptunia/rb1/quest/1-562-royal-crown.html) |
-
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-560" class="trackbox" /> | 560 | [Base](/neptunia/rb1/dlc/1-base.html) | [Rune Crown](/neptunia/rb1/remake/1-560-rune-crown.html)<br />→ [Rune Crown](/neptunia/rb1/item/1-3129-rune-crown.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-1-561" class="trackbox" /> | 561 | [Base](/neptunia/rb1/dlc/1-base.html) | [Noble Crown](/neptunia/rb1/remake/1-561-noble-crown.html)<br />→ [Noble Crown](/neptunia/rb1/item/1-3130-noble-crown.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-1-562" class="trackbox" /> | 562 | [Base](/neptunia/rb1/dlc/1-base.html) | [Royal Crown](/neptunia/rb1/remake/1-562-royal-crown.html)<br />→ [Royal Crown](/neptunia/rb1/item/1-3131-royal-crown.html) (Accessory) | 1 |
 
 ## Player characters who can equip **Elegant Crown**
 

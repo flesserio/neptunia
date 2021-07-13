@@ -23,21 +23,19 @@ title: "Near Future (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 10 |
 | **Max inventory** | 99 |
 | **Idea Chip level** | 4 |
-| **Idea Chip ability** | [Lily Up + Lv.4](/neptunia/rb1/avatar/1-9680-lily-up-lv-4.html)<br />Increases Lily Rank Gained XP by 400% |
-
+| **Idea Chip ability** | [Lily Up + Lv.4](/neptunia/rb1/ability/1-9680-lily-up-lv-4.html)<br />Increases Lily Rank Gained XP by 400% |
 
 ## Monsters which drop **Near Future**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-1-316" class="trackbox" /> | 316 | [Base](/neptunia/rb1/dlc/1-base.html) | [Tortoise](/neptunia/rb1/monster/1-316-tortoise.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-1-316" class="trackbox" /> | 316 | [Base](/neptunia/rb1/dlc/1-base.html) | [Tortoise](/neptunia/rb1/monster/1-316-tortoise.html) | 55% |
 
 ## Dungeons **Near Future** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
-| <input type="checkbox" id="rb1-dungeon-1-8" class="trackbox" /> | 8 | [Base](/neptunia/rb1/dlc/1-base.html) | [MS Mountain](/neptunia/rb1/dungeon/1-8-ms-mountain.html) | Gathering point |
-| <input type="checkbox" id="rb1-dungeon-1-118" class="trackbox" /> | 118 | [Base](/neptunia/rb1/dlc/1-base.html) | [Uwii Ruins](/neptunia/rb1/dungeon/1-118-uwii-ruins.html) | Gathering point |
+| <input type="checkbox" id="rb1-dungeon-1-8" class="trackbox" /> | 8 | [Base](/neptunia/rb1/dlc/1-base.html) | [MS Mountain](/neptunia/rb1/dungeon/1-8-ms-mountain.html) | Treasure |
 | <input type="checkbox" id="rb1-dungeon-1-112" class="trackbox" /> | 112 | [Base](/neptunia/rb1/dlc/1-base.html) | [Naasne Volcano](/neptunia/rb1/dungeon/1-112-naasne-volcano.html) | Monster drop |
+| <input type="checkbox" id="rb1-dungeon-1-118" class="trackbox" /> | 118 | [Base](/neptunia/rb1/dlc/1-base.html) | [Uwii Ruins](/neptunia/rb1/dungeon/1-118-uwii-ruins.html) | Gathering point (Harvest Shift) |
 | <input type="checkbox" id="rb1-dungeon-1-128" class="trackbox" /> | 128 | [Base](/neptunia/rb1/dlc/1-base.html) | [Naasne Volcano Depths](/neptunia/rb1/dungeon/1-128-naasne-volcano-depths.html) | Monster drop |

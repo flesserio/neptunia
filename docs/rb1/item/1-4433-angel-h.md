@@ -24,20 +24,17 @@ title: "Angel H (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 1000 |
 | **Max inventory** | 99 |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 30 | -15 | 0 | 60 | 30 | 90 | -15 | -7 | 7 | 7 | -7 |
 
-
 ## Remake System plans which unlock **Angel H** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-854" class="trackbox" /> | 854 | [Base](/neptunia/rb1/dlc/1-base.html) | [Angel H](/neptunia/rb1/remake/1-854-angel-h.html)<br /> → [Angel H](/neptunia/rb1/item/1-4433-angel-h.html) (Processor (H)) |
-
+| <input type="checkbox" id="rb1-remake-1-854" class="trackbox" /> | 854 | [Base](/neptunia/rb1/dlc/1-base.html) | [Angel H](/neptunia/rb1/remake/1-854-angel-h.html)<br />→ [Angel H](/neptunia/rb1/item/1-4433-angel-h.html) (Processor (H)) |
 
 ## Player characters who can equip **Angel H**
 

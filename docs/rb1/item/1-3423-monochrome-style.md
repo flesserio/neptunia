@@ -23,13 +23,11 @@ title: "Monochrome Style (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 1500 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Monochrome Style** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-755" class="trackbox" /> | 755 | [Base](/neptunia/rb1/dlc/1-base.html) | [Monochrome Style](/neptunia/rb1/remake/1-755-monochrome-style.html)<br /> → [Monochrome Style](/neptunia/rb1/item/1-3423-monochrome-style.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-755" class="trackbox" /> | 755 | [Base](/neptunia/rb1/dlc/1-base.html) | [Monochrome Style](/neptunia/rb1/remake/1-755-monochrome-style.html)<br />→ [Monochrome Style](/neptunia/rb1/item/1-3423-monochrome-style.html) (Accessory) |
 
 ## Player characters who can equip **Monochrome Style**
 

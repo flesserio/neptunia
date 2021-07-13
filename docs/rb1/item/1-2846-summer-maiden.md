@@ -23,13 +23,11 @@ title: "Summer Maiden (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 25000 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Summer Maiden** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-431" class="trackbox" /> | 431 | [Base](/neptunia/rb1/dlc/1-base.html) | [Summer Maiden](/neptunia/rb1/remake/1-431-summer-maiden.html)<br /> → [Summer Maiden](/neptunia/rb1/item/1-2846-summer-maiden.html) (Clothing) |
-
+| <input type="checkbox" id="rb1-remake-1-431" class="trackbox" /> | 431 | [Base](/neptunia/rb1/dlc/1-base.html) | [Summer Maiden](/neptunia/rb1/remake/1-431-summer-maiden.html)<br />→ [Summer Maiden](/neptunia/rb1/item/1-2846-summer-maiden.html) (Clothing) |
 
 ## Player characters who can equip **Summer Maiden**
 

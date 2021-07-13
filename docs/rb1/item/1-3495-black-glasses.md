@@ -23,13 +23,11 @@ title: "Black Glasses (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 500 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Black Glasses** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-798" class="trackbox" /> | 798 | [Base](/neptunia/rb1/dlc/1-base.html) | [Black Glasses](/neptunia/rb1/remake/1-798-black-glasses.html)<br /> → [Black Glasses](/neptunia/rb1/item/1-3495-black-glasses.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-798" class="trackbox" /> | 798 | [Base](/neptunia/rb1/dlc/1-base.html) | [Black Glasses](/neptunia/rb1/remake/1-798-black-glasses.html)<br />→ [Black Glasses](/neptunia/rb1/item/1-3495-black-glasses.html) (Accessory) |
 
 ## Player characters who can equip **Black Glasses**
 

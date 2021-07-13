@@ -24,13 +24,11 @@ title: "Elite Dress Type-V (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **To unlock in shop** | Method 1<br />- View scene [Chapter 3: (´・ω・｀) Ran-Ran](/neptunia/rb1/scene/1-309-chapter-3-ran-ran.html) |
 
-
 ## Remake System plans which require **Elite Dress Type-V**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-429" class="trackbox" /> | 429 | [Base](/neptunia/rb1/dlc/1-base.html) | [Elite Style](/neptunia/rb1/quest/1-429-elite-style.html) |
-
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-429" class="trackbox" /> | 429 | [Base](/neptunia/rb1/dlc/1-base.html) | [Elite Style](/neptunia/rb1/remake/1-429-elite-style.html)<br />→ [Elite Style](/neptunia/rb1/item/1-2861-elite-style.html) (Clothing) | 1 |
 
 ## Player characters who can equip **Elite Dress Type-V**
 

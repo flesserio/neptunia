@@ -23,7 +23,6 @@ title: "Annihilation Angel (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **To unlock in shop** | Method 1<br />- View scene [Chapter 7: Legendary Get Together](/neptunia/rb1/scene/1-726-chapter-7-legendary-get-together.html) |
 
-
 ## Player characters who can equip **Annihilation Angel**
 
 |    | ID | DLC | Name |

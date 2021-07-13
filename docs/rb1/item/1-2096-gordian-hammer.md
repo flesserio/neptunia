@@ -25,20 +25,17 @@ title: "Gordian Hammer (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **Weapon skill** | [L Attack](/neptunia/rb1/skill/1-602-l-attack.html) |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 1284 | 177 | 805 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 
-
 ## Remake System plans which unlock **Gordian Hammer** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-372" class="trackbox" /> | 372 | [Base](/neptunia/rb1/dlc/1-base.html) | [Gordian Hammer](/neptunia/rb1/remake/1-372-gordian-hammer.html)<br /> → [Gordian Hammer](/neptunia/rb1/item/1-2096-gordian-hammer.html) (Hammer (Blanc)) |
-
+| <input type="checkbox" id="rb1-remake-1-372" class="trackbox" /> | 372 | [Base](/neptunia/rb1/dlc/1-base.html) | [Gordian Hammer](/neptunia/rb1/remake/1-372-gordian-hammer.html)<br />→ [Gordian Hammer](/neptunia/rb1/item/1-2096-gordian-hammer.html) (Hammer (Blanc)) |
 
 ## Player characters who can equip **Gordian Hammer**
 

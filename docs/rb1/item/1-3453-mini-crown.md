@@ -23,13 +23,11 @@ title: "Mini Crown (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 2500 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Mini Crown** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-772" class="trackbox" /> | 772 | [Base](/neptunia/rb1/dlc/1-base.html) | [Mini Crown](/neptunia/rb1/remake/1-772-mini-crown.html)<br /> → [Mini Crown](/neptunia/rb1/item/1-3453-mini-crown.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-772" class="trackbox" /> | 772 | [Base](/neptunia/rb1/dlc/1-base.html) | [Mini Crown](/neptunia/rb1/remake/1-772-mini-crown.html)<br />→ [Mini Crown](/neptunia/rb1/item/1-3453-mini-crown.html) (Accessory) |
 
 ## Player characters who can equip **Mini Crown**
 

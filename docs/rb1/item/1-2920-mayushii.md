@@ -23,7 +23,6 @@ title: "Mayushii (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **To unlock in shop** | Method 1<br />- View scene [Chapter 4: Ganache's Trap](/neptunia/rb1/scene/1-417-chapter-4-ganaches-trap.html) |
 
-
 ## Player characters who can equip **Mayushii**
 
 |    | ID | DLC | Name |

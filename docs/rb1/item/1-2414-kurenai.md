@@ -25,20 +25,17 @@ title: "Kurenai (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **Weapon skill** | [Slash](/neptunia/rb1/skill/1-2602-slash.html) |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 507 | 25 | 768 | 0 | 0 | 76 | 0 | 0 | 0 | 0 | 0 |
 
-
 ## Dungeons **Kurenai** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
-| <input type="checkbox" id="rb1-dungeon-1-118" class="trackbox" /> | 118 | [Base](/neptunia/rb1/dlc/1-base.html) | [Uwii Ruins](/neptunia/rb1/dungeon/1-118-uwii-ruins.html) | Gathering point |
-
+| <input type="checkbox" id="rb1-dungeon-1-118" class="trackbox" /> | 118 | [Base](/neptunia/rb1/dlc/1-base.html) | [Uwii Ruins](/neptunia/rb1/dungeon/1-118-uwii-ruins.html) | Treasure |
 
 ## Player characters who can equip **Kurenai**
 

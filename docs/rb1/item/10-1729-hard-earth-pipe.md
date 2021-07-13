@@ -24,13 +24,11 @@ title: "Hard Earth Pipe (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 551 |
 | **Max inventory** | 99 |
 
-
 ## Monsters which drop **Hard Earth Pipe**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-10-415" class="trackbox" /> | 415 | [Additional Content Package 1](/neptunia/rb1/dlc/10-pack1.html) | [Dogoonie](/neptunia/rb1/monster/10-415-dogoonie.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-10-415" class="trackbox" /> | 415 | [Additional Content Package 1](/neptunia/rb1/dlc/10-pack1.html) | [Dogoonie](/neptunia/rb1/monster/10-415-dogoonie.html) | 40% |
 
 ## Dungeons **Hard Earth Pipe** is found
 
@@ -39,9 +37,8 @@ title: "Hard Earth Pipe (Item) - Hyperdimension Neptunia Re;Birth1"
 | <input type="checkbox" id="rb1-dungeon-10-127" class="trackbox" /> | 127 | [Additional Content Package 1](/neptunia/rb1/dlc/10-pack1.html) | [Noma Cave](/neptunia/rb1/dungeon/10-127-noma-cave.html) | Gathering point |
 | <input type="checkbox" id="rb1-dungeon-10-127" class="trackbox" /> | 127 | [Additional Content Package 1](/neptunia/rb1/dlc/10-pack1.html) | [Noma Cave](/neptunia/rb1/dungeon/10-127-noma-cave.html) | Monster drop |
 
-
 ## Remake System plans which require **Hard Earth Pipe**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-10-314" class="trackbox" /> | 314 | [Additional Content Package 1](/neptunia/rb1/dlc/10-pack1.html) | [Change Items](/neptunia/rb1/quest/10-314-change-items.html) |
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-10-314" class="trackbox" /> | 314 | [Additional Content Package 1](/neptunia/rb1/dlc/10-pack1.html) | [Change Items](/neptunia/rb1/remake/10-314-change-items.html)<br />→ [Noma Cave](/neptunia/rb1/dungeon/10-127-noma-cave.html) (Dungeon) | 2 |

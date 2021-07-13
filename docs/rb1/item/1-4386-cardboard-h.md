@@ -25,27 +25,23 @@ title: "Cardboard H (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 500 |
 | **Max inventory** | 99 |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 0 | 0 | 25 | -15 | 0 | 0 | 0 | -20 | 0 | 0 | 0 |
 
-
 ## Monsters which drop **Cardboard H**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-1-110" class="trackbox" /> | 110 | [Base](/neptunia/rb1/dlc/1-base.html) | [Cardbird](/neptunia/rb1/monster/1-110-cardbird.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-1-110" class="trackbox" /> | 110 | [Base](/neptunia/rb1/dlc/1-base.html) | [Cardbird](/neptunia/rb1/monster/1-110-cardbird.html) | 15% |
 
 ## Dungeons **Cardboard H** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
 | <input type="checkbox" id="rb1-dungeon-1-3" class="trackbox" /> | 3 | [Base](/neptunia/rb1/dlc/1-base.html) | [West Wind Valley](/neptunia/rb1/dungeon/1-3-west-wind-valley.html) | Monster drop |
-
 
 ## Player characters who can equip **Cardboard H**
 

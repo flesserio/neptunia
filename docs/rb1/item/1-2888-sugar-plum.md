@@ -23,13 +23,11 @@ title: "Sugar Plum (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 75000 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Sugar Plum** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-449" class="trackbox" /> | 449 | [Base](/neptunia/rb1/dlc/1-base.html) | [Sugar Plum](/neptunia/rb1/remake/1-449-sugar-plum.html)<br /> → [Sugar Plum](/neptunia/rb1/item/1-2888-sugar-plum.html) (Clothing) |
-
+| <input type="checkbox" id="rb1-remake-1-449" class="trackbox" /> | 449 | [Base](/neptunia/rb1/dlc/1-base.html) | [Sugar Plum](/neptunia/rb1/remake/1-449-sugar-plum.html)<br />→ [Sugar Plum](/neptunia/rb1/item/1-2888-sugar-plum.html) (Clothing) |
 
 ## Player characters who can equip **Sugar Plum**
 

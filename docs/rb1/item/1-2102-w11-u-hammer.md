@@ -25,20 +25,17 @@ title: "W11-U Hammer (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **Weapon skill** | [Attack](/neptunia/rb1/skill/1-601-attack.html) |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | -550 | 2200 | 0 | 1300 | 0 | -220 | 0 | 0 | 0 | 0 | 0 | 0 |
 
-
 ## Colosseum quests which reward **W11-U Hammer**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
 | <input type="checkbox" id="rb1-colosseum-1-2016" class="trackbox" /> | 2016 | [Base](/neptunia/rb1/dlc/1-base.html) | [The Lineage of 'D' I](/neptunia/rb1/colosseum/1-2016-the-lineage-of-d-i.html) |
-
 
 ## Player characters who can equip **W11-U Hammer**
 

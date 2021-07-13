@@ -23,13 +23,11 @@ title: "Black Heart PVC (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 0 |
 | **Max inventory** | 99 |
 
-
 ## Monsters which drop **Black Heart PVC**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-11-328" class="trackbox" /> | 328 | [Additional Content Package 2](/neptunia/rb1/dlc/11-pack2.html) | [Delphi Eggplant MK-2](/neptunia/rb1/monster/11-328-delphi-eggplant-mk-2.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-11-328" class="trackbox" /> | 328 | [Additional Content Package 2](/neptunia/rb1/dlc/11-pack2.html) | [Delphi Eggplant MK-2](/neptunia/rb1/monster/11-328-delphi-eggplant-mk-2.html) | 50% |
 
 ## Dungeons **Black Heart PVC** is found
 

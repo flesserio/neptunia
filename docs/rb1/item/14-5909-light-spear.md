@@ -24,13 +24,11 @@ title: "Light Spear+? (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **Weapon skill** | [Attack](/neptunia/rb1/skill/14-3601-attack.html) |
 
-
 ## Colosseum quests which reward **Light Spear+?**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
 | <input type="checkbox" id="rb1-colosseum-14-5009" class="trackbox" /> | 5009 | [Additional Content Pack 5](/neptunia/rb1/dlc/14-pack5.html) | [The Goddess & Oracle: Leanbox](/neptunia/rb1/colosseum/14-5009-the-goddess-oracle-leanbox.html) |
-
 
 ## Player characters who can equip **Light Spear+?**
 

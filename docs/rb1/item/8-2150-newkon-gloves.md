@@ -25,13 +25,11 @@ title: "Newkon Gloves (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Weapon skill** | [Right Punch](/neptunia/rb1/skill/8-1202-right-punch.html) |
 | **To unlock in shop** | Method 1<br />- Have save in first playthrough<br />- View scene [Chapter 2: Lastation](/neptunia/rb1/scene/1-202-chapter-2-lastation.html)<br />- View scene [DLC 8 Event 1](/neptunia/rb1/scene/8-5020-dlc-8-event-1.html) |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 1680 | 0 | 1200 | 0 | 84 | 0 | 0 | 0 | 0 | 0 | 0 |
-
 
 ## Player characters who can equip **Newkon Gloves**
 

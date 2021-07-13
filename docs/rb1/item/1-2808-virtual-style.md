@@ -23,13 +23,11 @@ title: "Virtual Style (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 25000 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Virtual Style** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-423" class="trackbox" /> | 423 | [Base](/neptunia/rb1/dlc/1-base.html) | [Virtual Style](/neptunia/rb1/remake/1-423-virtual-style.html)<br /> → [Virtual Style](/neptunia/rb1/item/1-2808-virtual-style.html) (Clothing) |
-
+| <input type="checkbox" id="rb1-remake-1-423" class="trackbox" /> | 423 | [Base](/neptunia/rb1/dlc/1-base.html) | [Virtual Style](/neptunia/rb1/remake/1-423-virtual-style.html)<br />→ [Virtual Style](/neptunia/rb1/item/1-2808-virtual-style.html) (Clothing) |
 
 ## Player characters who can equip **Virtual Style**
 

@@ -22,7 +22,6 @@ title: "Test Chip (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 0 |
 | **Max inventory** | 99 |
 
-
 ## Quests which reward **Test Chip**
 
 |    | ID | DLC | Name |

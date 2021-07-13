@@ -23,13 +23,11 @@ title: "Pink Hat (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 125000 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Pink Hat** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-8-698" class="trackbox" /> | 698 | [[Peashy] Battle Entry License](/neptunia/rb1/dlc/8-peashy.html) | [Pink Hat](/neptunia/rb1/remake/8-698-pink-hat.html)<br /> → [Pink Hat](/neptunia/rb1/item/8-3344-pink-hat.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-8-698" class="trackbox" /> | 698 | [[Peashy] Battle Entry License](/neptunia/rb1/dlc/8-peashy.html) | [Pink Hat](/neptunia/rb1/remake/8-698-pink-hat.html)<br />→ [Pink Hat](/neptunia/rb1/item/8-3344-pink-hat.html) (Accessory) |
 
 ## Player characters who can equip **Pink Hat**
 

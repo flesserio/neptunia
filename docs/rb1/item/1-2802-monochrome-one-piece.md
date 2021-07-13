@@ -23,13 +23,11 @@ title: "Monochrome One-Piece (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 500 |
 | **Max inventory** | 99 |
 
-
 ## Dungeons **Monochrome One-Piece** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
-| <input type="checkbox" id="rb1-dungeon-1-19" class="trackbox" /> | 19 | [Base](/neptunia/rb1/dlc/1-base.html) | [Neo-Geofront Depths](/neptunia/rb1/dungeon/1-19-neo-geofront-depths.html) | Gathering point |
-
+| <input type="checkbox" id="rb1-dungeon-1-19" class="trackbox" /> | 19 | [Base](/neptunia/rb1/dlc/1-base.html) | [Neo-Geofront Depths](/neptunia/rb1/dungeon/1-19-neo-geofront-depths.html) | Hidden treasure |
 
 ## Player characters who can equip **Monochrome One-Piece**
 

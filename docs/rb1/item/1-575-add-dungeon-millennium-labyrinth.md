@@ -23,16 +23,14 @@ title: "Add Dungeon: Millennium Labyrinth (Item) - Hyperdimension Neptunia Re;Bi
 | **Sell Price** | 0 |
 | **Max inventory** | 1 |
 
-
 ## Chirpers who give **Add Dungeon: Millennium Labyrinth**
 
 |    | ID | DLC | Avatar | Message | Conditions |
 | -- | -- | --- | ------ | ------- | ---------- |
-| <input type="checkbox" id="rb1-chirper-event-1-5174" class="trackbox" /> | 5174 | [Base](/neptunia/rb1/dlc/1-base.html) | [Spelunker](/neptunia/rb1/undefined/1-244-spelunker.html) | This is a Plan for a new dungeon.<br />Me? The weakest spelunker in the world?<br />Heh, thanks. That's a praise to me actually. | View scene [Chapter 5: Lastation...Again](/neptunia/rb1/scene/1-501-chapter-5-lastation-again.html)<br />Do not view scene [Chapter 7: Not Quite What I Imagined...](/neptunia/rb1/scene/1-701-chapter-7-not-quite-what-i-imagined.html) |
-
+| <input type="checkbox" id="rb1-chirper-event-1-5174" class="trackbox" /> | 5174 | [Base](/neptunia/rb1/dlc/1-base.html) | [Spelunker](/neptunia/rb1/avatar/1-244-spelunker.html) | This is a Plan for a new dungeon.<br />Me? The weakest spelunker in the world?<br />Heh, thanks. That's a praise to me actually. | View scene [Chapter 5: Lastation...Again](/neptunia/rb1/scene/1-501-chapter-5-lastation-again.html)<br />Do not view scene [Chapter 7: Not Quite What I Imagined...](/neptunia/rb1/scene/1-701-chapter-7-not-quite-what-i-imagined.html) |
 
 ## Plans added to Remake System after collecting **Add Dungeon: Millennium Labyrinth**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-218" class="trackbox" /> | 218 | [Base](/neptunia/rb1/dlc/1-base.html) | [Add Dungeon](/neptunia/rb1/remake/1-218-add-dungeon.html)<br /> → [Millenium Labryinth](/neptunia/rb1/dungeon/1-113-millenium-labryinth.html) (Dungeon) |
+| <input type="checkbox" id="rb1-remake-1-218" class="trackbox" /> | 218 | [Base](/neptunia/rb1/dlc/1-base.html) | [Add Dungeon](/neptunia/rb1/remake/1-218-add-dungeon.html)<br />→ [Millenium Labryinth](/neptunia/rb1/dungeon/1-113-millenium-labryinth.html) (Dungeon) |

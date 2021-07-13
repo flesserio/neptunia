@@ -24,15 +24,13 @@ title: "Fancy Headdress (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **To unlock in shop** | Method 1<br />- Have Rom & Ram unlocked. |
 
-
 ## Remake System plans which require **Fancy Headdress**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-819" class="trackbox" /> | 819 | [Base](/neptunia/rb1/dlc/1-base.html) | [Simple Headdress](/neptunia/rb1/quest/1-819-simple-headdress.html) |
-| <input type="checkbox" id="rb1-quest-1-820" class="trackbox" /> | 820 | [Base](/neptunia/rb1/dlc/1-base.html) | [Fantasy Headdress](/neptunia/rb1/quest/1-820-fantasy-headdress.html) |
-| <input type="checkbox" id="rb1-quest-1-821" class="trackbox" /> | 821 | [Base](/neptunia/rb1/dlc/1-base.html) | [Sky Headdress](/neptunia/rb1/quest/1-821-sky-headdress.html) |
-
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-819" class="trackbox" /> | 819 | [Base](/neptunia/rb1/dlc/1-base.html) | [Simple Headdress](/neptunia/rb1/remake/1-819-simple-headdress.html)<br />→ [Simple Headdress](/neptunia/rb1/item/1-3523-simple-headdress.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-1-820" class="trackbox" /> | 820 | [Base](/neptunia/rb1/dlc/1-base.html) | [Fantasy Headdress](/neptunia/rb1/remake/1-820-fantasy-headdress.html)<br />→ [Fantasy Headdress](/neptunia/rb1/item/1-3524-fantasy-headdress.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-1-821" class="trackbox" /> | 821 | [Base](/neptunia/rb1/dlc/1-base.html) | [Sky Headdress](/neptunia/rb1/remake/1-821-sky-headdress.html)<br />→ [Sky Headdress](/neptunia/rb1/item/1-3525-sky-headdress.html) (Accessory) | 1 |
 
 ## Player characters who can equip **Fancy Headdress**
 

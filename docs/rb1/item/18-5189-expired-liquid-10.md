@@ -25,13 +25,11 @@ title: "Expired Liquid+10 (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **Weapon skill** | [Attack](/neptunia/rb1/skill/1-2001-attack.html) |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 331 | 0 | 457 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-
 
 ## Colosseum quests which reward **Expired Liquid+10**
 
@@ -42,7 +40,6 @@ title: "Expired Liquid+10 (Item) - Hyperdimension Neptunia Re;Birth1"
 | <input type="checkbox" id="rb1-colosseum-18-7022" class="trackbox" /> | 7022 | [Additional Content Pack 9](/neptunia/rb1/dlc/18-pack9.html) | [Survival - Expert3](/neptunia/rb1/colosseum/18-7022-survival-expert3.html) |
 | <input type="checkbox" id="rb1-colosseum-18-7023" class="trackbox" /> | 7023 | [Additional Content Pack 9](/neptunia/rb1/dlc/18-pack9.html) | [Survival - Expert4](/neptunia/rb1/colosseum/18-7023-survival-expert4.html) |
 | <input type="checkbox" id="rb1-colosseum-18-7024" class="trackbox" /> | 7024 | [Additional Content Pack 9](/neptunia/rb1/dlc/18-pack9.html) | [Survival - Expert5](/neptunia/rb1/colosseum/18-7024-survival-expert5.html) |
-
 
 ## Player characters who can equip **Expired Liquid+10**
 

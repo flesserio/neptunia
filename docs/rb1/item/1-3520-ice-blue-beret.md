@@ -23,13 +23,11 @@ title: "Ice Blue Beret (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 1500 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Ice Blue Beret** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-817" class="trackbox" /> | 817 | [Base](/neptunia/rb1/dlc/1-base.html) | [Ice Blue Beret](/neptunia/rb1/remake/1-817-ice-blue-beret.html)<br /> → [Ice Blue Beret](/neptunia/rb1/item/1-3520-ice-blue-beret.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-817" class="trackbox" /> | 817 | [Base](/neptunia/rb1/dlc/1-base.html) | [Ice Blue Beret](/neptunia/rb1/remake/1-817-ice-blue-beret.html)<br />→ [Ice Blue Beret](/neptunia/rb1/item/1-3520-ice-blue-beret.html) (Accessory) |
 
 ## Player characters who can equip **Ice Blue Beret**
 

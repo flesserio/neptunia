@@ -25,13 +25,11 @@ title: "Premium Jelly (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 153 |
 | **Max inventory** | 99 |
 
-
 ## Monsters which drop **Premium Jelly**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-1-119" class="trackbox" /> | 119 | [Base](/neptunia/rb1/dlc/1-base.html) | [Huge Dogoo](/neptunia/rb1/monster/1-119-huge-dogoo.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-1-119" class="trackbox" /> | 119 | [Base](/neptunia/rb1/dlc/1-base.html) | [Huge Dogoo](/neptunia/rb1/monster/1-119-huge-dogoo.html) | 65% |
 
 ## Dungeons **Premium Jelly** is found
 
@@ -39,16 +37,14 @@ title: "Premium Jelly (Item) - Hyperdimension Neptunia Re;Birth1"
 | -- | -- | --- | ---- | ---- |
 | <input type="checkbox" id="rb1-dungeon-1-3" class="trackbox" /> | 3 | [Base](/neptunia/rb1/dlc/1-base.html) | [West Wind Valley](/neptunia/rb1/dungeon/1-3-west-wind-valley.html) | Monster drop |
 
-
 ## Quests which require gathering **Premium Jelly**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
 | <input type="checkbox" id="rb1-quest-1-209" class="trackbox" /> | 209 | [Base](/neptunia/rb1/dlc/1-base.html) | [Mix and mix well](/neptunia/rb1/quest/1-209-mix-and-mix-well.html) |
 
-
 ## Remake System plans which require **Premium Jelly**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-665" class="trackbox" /> | 665 | [Base](/neptunia/rb1/dlc/1-base.html) | [Dogoo Hat](/neptunia/rb1/quest/1-665-dogoo-hat.html) |
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-665" class="trackbox" /> | 665 | [Base](/neptunia/rb1/dlc/1-base.html) | [Dogoo Hat](/neptunia/rb1/remake/1-665-dogoo-hat.html)<br />→ [Dogoo Hat](/neptunia/rb1/item/1-3295-dogoo-hat.html) (Accessory) | 1 |

@@ -24,20 +24,17 @@ title: "Planeptune W (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 1000 |
 | **Max inventory** | 99 |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 0 | 135 | 0 | -20 | 60 | -20 | 35 | 0 | 0 | 0 | 0 |
 
-
 ## Colosseum quests which reward **Planeptune W**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
 | <input type="checkbox" id="rb1-colosseum-1-2012" class="trackbox" /> | 2012 | [Base](/neptunia/rb1/dlc/1-base.html) | [The Wind, uh, Blows](/neptunia/rb1/colosseum/1-2012-the-wind-uh-blows.html) |
-
 
 ## Player characters who can equip **Planeptune W**
 

@@ -24,15 +24,13 @@ title: "Sweets Hat (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **To unlock in shop** | Method 1<br />- Have Rom & Ram unlocked. |
 
-
 ## Remake System plans which require **Sweets Hat**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-775" class="trackbox" /> | 775 | [Base](/neptunia/rb1/dlc/1-base.html) | [Dress Hat](/neptunia/rb1/quest/1-775-dress-hat.html) |
-| <input type="checkbox" id="rb1-quest-1-776" class="trackbox" /> | 776 | [Base](/neptunia/rb1/dlc/1-base.html) | [White Hat](/neptunia/rb1/quest/1-776-white-hat.html) |
-| <input type="checkbox" id="rb1-quest-1-777" class="trackbox" /> | 777 | [Base](/neptunia/rb1/dlc/1-base.html) | [Vintage Hat](/neptunia/rb1/quest/1-777-vintage-hat.html) |
-
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-775" class="trackbox" /> | 775 | [Base](/neptunia/rb1/dlc/1-base.html) | [Dress Hat](/neptunia/rb1/remake/1-775-dress-hat.html)<br />→ [Dress Hat](/neptunia/rb1/item/1-3457-dress-hat.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-1-776" class="trackbox" /> | 776 | [Base](/neptunia/rb1/dlc/1-base.html) | [White Hat](/neptunia/rb1/remake/1-776-white-hat.html)<br />→ [White Hat](/neptunia/rb1/item/1-3458-white-hat.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-1-777" class="trackbox" /> | 777 | [Base](/neptunia/rb1/dlc/1-base.html) | [Vintage Hat](/neptunia/rb1/remake/1-777-vintage-hat.html)<br />→ [Vintage Hat](/neptunia/rb1/item/1-3459-vintage-hat.html) (Accessory) | 1 |
 
 ## Player characters who can equip **Sweets Hat**
 

@@ -23,13 +23,11 @@ title: "Platinum Tiara (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 2500 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Platinum Tiara** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-628" class="trackbox" /> | 628 | [Base](/neptunia/rb1/dlc/1-base.html) | [Platinum Tiara](/neptunia/rb1/remake/1-628-platinum-tiara.html)<br /> → [Platinum Tiara](/neptunia/rb1/item/1-3239-platinum-tiara.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-628" class="trackbox" /> | 628 | [Base](/neptunia/rb1/dlc/1-base.html) | [Platinum Tiara](/neptunia/rb1/remake/1-628-platinum-tiara.html)<br />→ [Platinum Tiara](/neptunia/rb1/item/1-3239-platinum-tiara.html) (Accessory) |
 
 ## Player characters who can equip **Platinum Tiara**
 

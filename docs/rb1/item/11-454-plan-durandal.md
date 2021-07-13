@@ -24,20 +24,17 @@ title: "Plan: Durandal (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 0 |
 | **Max inventory** | 1 |
 
-
 ## Plans added to Remake System after collecting **Plan: Durandal**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-11-369" class="trackbox" /> | 369 | [Additional Content Package 2](/neptunia/rb1/dlc/11-pack2.html) | [Durandal](/neptunia/rb1/remake/11-369-durandal.html)<br /> → [Durandal](/neptunia/rb1/item/11-2076-durandal.html) (Short Sword (Noire)) |
-
+| <input type="checkbox" id="rb1-remake-11-369" class="trackbox" /> | 369 | [Additional Content Package 2](/neptunia/rb1/dlc/11-pack2.html) | [Durandal](/neptunia/rb1/remake/11-369-durandal.html)<br />→ [Durandal](/neptunia/rb1/item/11-2076-durandal.html) (Short Sword (Noire)) |
 
 ## Monsters which drop **Plan: Durandal**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-11-328" class="trackbox" /> | 328 | [Additional Content Package 2](/neptunia/rb1/dlc/11-pack2.html) | [Delphi Eggplant MK-2](/neptunia/rb1/monster/11-328-delphi-eggplant-mk-2.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-11-328" class="trackbox" /> | 328 | [Additional Content Package 2](/neptunia/rb1/dlc/11-pack2.html) | [Delphi Eggplant MK-2](/neptunia/rb1/monster/11-328-delphi-eggplant-mk-2.html) | 25% |
 
 ## Dungeons **Plan: Durandal** is found
 

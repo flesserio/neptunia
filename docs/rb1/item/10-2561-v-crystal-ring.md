@@ -25,27 +25,23 @@ title: "V Crystal Ring (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 500 |
 | **Max inventory** | 99 |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 1000 | 0 | 2750 | 343 | 2550 | 0 | 0 | 191 | 0 | 0 | 0 | 0 |
 
-
 ## Monsters which drop **V Crystal Ring**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-10-355" class="trackbox" /> | 355 | [Additional Content Package 1](/neptunia/rb1/dlc/10-pack1.html) | [Moonlight Bug](/neptunia/rb1/monster/10-355-moonlight-bug.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-10-355" class="trackbox" /> | 355 | [Additional Content Package 1](/neptunia/rb1/dlc/10-pack1.html) | [Moonlight Bug](/neptunia/rb1/monster/10-355-moonlight-bug.html) | 50% |
 
 ## Dungeons **V Crystal Ring** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
 | <input type="checkbox" id="rb1-dungeon-1-117" class="trackbox" /> | 117 | [Base](/neptunia/rb1/dlc/1-base.html) | [Adjiten Forest Pass](/neptunia/rb1/dungeon/1-117-adjiten-forest-pass.html) | Monster drop |
-
 
 ## Player characters who can equip **V Crystal Ring**
 

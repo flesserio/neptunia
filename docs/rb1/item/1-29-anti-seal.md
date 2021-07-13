@@ -25,13 +25,11 @@ title: "Anti-Seal (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **Tool skill** | [Anti-Seal](/neptunia/rb1/skill/1-10029-anti-seal.html) |
 
-
 ## Remake System plans which unlock **Anti-Seal** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-336" class="trackbox" /> | 336 | [Base](/neptunia/rb1/dlc/1-base.html) | [Anti-Seal](/neptunia/rb1/remake/1-336-anti-seal.html)<br /> → [Anti-Seal](/neptunia/rb1/item/1-29-anti-seal.html) (Tool) |
-
+| <input type="checkbox" id="rb1-remake-1-336" class="trackbox" /> | 336 | [Base](/neptunia/rb1/dlc/1-base.html) | [Anti-Seal](/neptunia/rb1/remake/1-336-anti-seal.html)<br />→ [Anti-Seal](/neptunia/rb1/item/1-29-anti-seal.html) (Tool) |
 
 ## Colosseum quests which reward **Anti-Seal**
 
@@ -39,9 +37,8 @@ title: "Anti-Seal (Item) - Hyperdimension Neptunia Re;Birth1"
 | -- | -- | --- | ---- |
 | <input type="checkbox" id="rb1-colosseum-1-2001" class="trackbox" /> | 2001 | [Base](/neptunia/rb1/dlc/1-base.html) | [Eat it Fried](/neptunia/rb1/colosseum/1-2001-eat-it-fried.html) |
 
-
 ## Remake System plans which require **Anti-Seal**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-420" class="trackbox" /> | 420 | [Base](/neptunia/rb1/dlc/1-base.html) | [Anti-Seal Patch](/neptunia/rb1/quest/1-420-anti-seal-patch.html) |
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-420" class="trackbox" /> | 420 | [Base](/neptunia/rb1/dlc/1-base.html) | [Anti-Seal Patch](/neptunia/rb1/remake/1-420-anti-seal-patch.html)<br />→ [Anti-Seal Patch](/neptunia/rb1/item/1-2759-anti-seal-patch.html) (Ornament) | 8 |

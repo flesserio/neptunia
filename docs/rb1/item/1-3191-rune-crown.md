@@ -23,13 +23,11 @@ title: "Rune Crown (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 1500 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Rune Crown** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-598" class="trackbox" /> | 598 | [Base](/neptunia/rb1/dlc/1-base.html) | [Rune Crown](/neptunia/rb1/remake/1-598-rune-crown.html)<br /> → [Rune Crown](/neptunia/rb1/item/1-3191-rune-crown.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-598" class="trackbox" /> | 598 | [Base](/neptunia/rb1/dlc/1-base.html) | [Rune Crown](/neptunia/rb1/remake/1-598-rune-crown.html)<br />→ [Rune Crown](/neptunia/rb1/item/1-3191-rune-crown.html) (Accessory) |
 
 ## Player characters who can equip **Rune Crown**
 

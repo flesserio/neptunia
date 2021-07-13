@@ -23,7 +23,6 @@ title: "&lt;BLANK&gt; C (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **To unlock in shop** | Method 1<br />- Have Nepgear unlocked. |
 
-
 ## Player characters who can equip **&lt;BLANK&gt; C**
 
 |    | ID | DLC | Name |

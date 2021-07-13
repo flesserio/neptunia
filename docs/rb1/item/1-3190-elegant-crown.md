@@ -25,13 +25,11 @@ title: "Elegant Crown (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 500 |
 | **Max inventory** | 99 |
 
-
 ## Monsters which drop **Elegant Crown**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-1-225" class="trackbox" /> | 225 | [Base](/neptunia/rb1/dlc/1-base.html) | [1000-Year Turtle](/neptunia/rb1/monster/1-225-1000-year-turtle.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-1-225" class="trackbox" /> | 225 | [Base](/neptunia/rb1/dlc/1-base.html) | [1000-Year Turtle](/neptunia/rb1/monster/1-225-1000-year-turtle.html) | 75% |
 
 ## Dungeons **Elegant Crown** is found
 
@@ -39,15 +37,13 @@ title: "Elegant Crown (Item) - Hyperdimension Neptunia Re;Birth1"
 | -- | -- | --- | ---- | ---- |
 | <input type="checkbox" id="rb1-dungeon-1-22" class="trackbox" /> | 22 | [Base](/neptunia/rb1/dlc/1-base.html) | [M-Frontier Cave](/neptunia/rb1/dungeon/1-22-m-frontier-cave.html) | Monster drop |
 
-
 ## Remake System plans which require **Elegant Crown**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-598" class="trackbox" /> | 598 | [Base](/neptunia/rb1/dlc/1-base.html) | [Rune Crown](/neptunia/rb1/quest/1-598-rune-crown.html) |
-| <input type="checkbox" id="rb1-quest-1-599" class="trackbox" /> | 599 | [Base](/neptunia/rb1/dlc/1-base.html) | [Noble Crown](/neptunia/rb1/quest/1-599-noble-crown.html) |
-| <input type="checkbox" id="rb1-quest-1-600" class="trackbox" /> | 600 | [Base](/neptunia/rb1/dlc/1-base.html) | [Royal Crown](/neptunia/rb1/quest/1-600-royal-crown.html) |
-
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-598" class="trackbox" /> | 598 | [Base](/neptunia/rb1/dlc/1-base.html) | [Rune Crown](/neptunia/rb1/remake/1-598-rune-crown.html)<br />→ [Rune Crown](/neptunia/rb1/item/1-3191-rune-crown.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-1-599" class="trackbox" /> | 599 | [Base](/neptunia/rb1/dlc/1-base.html) | [Noble Crown](/neptunia/rb1/remake/1-599-noble-crown.html)<br />→ [Noble Crown](/neptunia/rb1/item/1-3192-noble-crown.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-1-600" class="trackbox" /> | 600 | [Base](/neptunia/rb1/dlc/1-base.html) | [Royal Crown](/neptunia/rb1/remake/1-600-royal-crown.html)<br />→ [Royal Crown](/neptunia/rb1/item/1-3193-royal-crown.html) (Accessory) | 1 |
 
 ## Player characters who can equip **Elegant Crown**
 

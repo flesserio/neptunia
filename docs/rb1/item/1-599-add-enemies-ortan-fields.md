@@ -23,16 +23,14 @@ title: "Add Enemies: Ortan Fields (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 0 |
 | **Max inventory** | 1 |
 
-
 ## Chirpers who give **Add Enemies: Ortan Fields**
 
 |    | ID | DLC | Avatar | Message | Conditions |
 | -- | -- | --- | ------ | ------- | ---------- |
-| <input type="checkbox" id="rb1-chirper-event-1-5152" class="trackbox" /> | 5152 | [Base](/neptunia/rb1/dlc/1-base.html) | [Gramp Monster](/neptunia/rb1/undefined/1-243-gramp-monster.html) | Here's a Plan for you that will summon stronger monsters.<br />You won't get any XP beating me! | Have remake [Add Dungeon](/neptunia/rb1/remake/1-211-add-dungeon.html) developed<br />View scene [Chapter 2: Lastation In A Muck](/neptunia/rb1/scene/1-214-chapter-2-lastation-in-a-muck.html)<br />Do not view scene [Chapter 4: Off To Lowee](/neptunia/rb1/scene/1-401-chapter-4-off-to-lowee.html) |
-
+| <input type="checkbox" id="rb1-chirper-event-1-5152" class="trackbox" /> | 5152 | [Base](/neptunia/rb1/dlc/1-base.html) | [Gramp Monster](/neptunia/rb1/avatar/1-243-gramp-monster.html) | Here's a Plan for you that will summon stronger monsters.<br />You won't get any XP beating me! | Have remake [Add Dungeon](/neptunia/rb1/remake/1-211-add-dungeon.html) developed<br />View scene [Chapter 2: Lastation In A Muck](/neptunia/rb1/scene/1-214-chapter-2-lastation-in-a-muck.html)<br />Do not view scene [Chapter 4: Off To Lowee](/neptunia/rb1/scene/1-401-chapter-4-off-to-lowee.html) |
 
 ## Plans added to Remake System after collecting **Add Enemies: Ortan Fields**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-248" class="trackbox" /> | 248 | [Base](/neptunia/rb1/dlc/1-base.html) | [Add Enemies](/neptunia/rb1/remake/1-248-add-enemies.html)<br /> → [Ortan Fields](/neptunia/rb1/dungeon/1-103-ortan-fields.html) (Dungeon) |
+| <input type="checkbox" id="rb1-remake-1-248" class="trackbox" /> | 248 | [Base](/neptunia/rb1/dlc/1-base.html) | [Add Enemies](/neptunia/rb1/remake/1-248-add-enemies.html)<br />→ [Ortan Fields](/neptunia/rb1/dungeon/1-103-ortan-fields.html) (Dungeon) |

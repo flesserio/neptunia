@@ -25,13 +25,11 @@ title: "Pachimon Circuit (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 3439 |
 | **Max inventory** | 99 |
 
-
 ## Monsters which drop **Pachimon Circuit**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-1-384" class="trackbox" /> | 384 | [Base](/neptunia/rb1/dlc/1-base.html) | [Killachine](/neptunia/rb1/monster/1-384-killachine.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-1-384" class="trackbox" /> | 384 | [Base](/neptunia/rb1/dlc/1-base.html) | [Killachine](/neptunia/rb1/monster/1-384-killachine.html) | 65% |
 
 ## Dungeons **Pachimon Circuit** is found
 
@@ -39,17 +37,15 @@ title: "Pachimon Circuit (Item) - Hyperdimension Neptunia Re;Birth1"
 | -- | -- | --- | ---- | ---- |
 | <input type="checkbox" id="rb1-dungeon-1-121" class="trackbox" /> | 121 | [Base](/neptunia/rb1/dlc/1-base.html) | [Dees Snow Forest](/neptunia/rb1/dungeon/1-121-dees-snow-forest.html) | Monster drop |
 
-
 ## Quests which require gathering **Pachimon Circuit**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
 | <input type="checkbox" id="rb1-quest-1-802" class="trackbox" /> | 802 | [Base](/neptunia/rb1/dlc/1-base.html) | [Got it!](/neptunia/rb1/quest/1-802-got-it.html) |
 
-
 ## Remake System plans which require **Pachimon Circuit**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-416" class="trackbox" /> | 416 | [Base](/neptunia/rb1/dlc/1-base.html) | [Candidate Ring](/neptunia/rb1/quest/1-416-candidate-ring.html) |
-| <input type="checkbox" id="rb1-quest-11-369" class="trackbox" /> | 369 | [Additional Content Package 2](/neptunia/rb1/dlc/11-pack2.html) | [Durandal](/neptunia/rb1/quest/11-369-durandal.html) |
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-416" class="trackbox" /> | 416 | [Base](/neptunia/rb1/dlc/1-base.html) | [Candidate Ring](/neptunia/rb1/remake/1-416-candidate-ring.html)<br />→ [Candidate Ring](/neptunia/rb1/item/1-2744-candidate-ring.html) (Ornament) | 1 |
+| <input type="checkbox" id="rb1-remake-11-369" class="trackbox" /> | 369 | [Additional Content Package 2](/neptunia/rb1/dlc/11-pack2.html) | [Durandal](/neptunia/rb1/remake/11-369-durandal.html)<br />→ [Durandal](/neptunia/rb1/item/11-2076-durandal.html) (Short Sword (Noire)) | 1 |

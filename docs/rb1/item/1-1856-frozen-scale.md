@@ -24,14 +24,12 @@ title: "Frozen Scale (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 178 |
 | **Max inventory** | 99 |
 
-
 ## Monsters which drop **Frozen Scale**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-1-161" class="trackbox" /> | 161 | [Base](/neptunia/rb1/dlc/1-base.html) | [Gold Lizard](/neptunia/rb1/monster/1-161-gold-lizard.html) |
-| <input type="checkbox" id="rb1-monster-1-162" class="trackbox" /> | 162 | [Base](/neptunia/rb1/dlc/1-base.html) | [Viral Gold Lizard](/neptunia/rb1/monster/1-162-viral-gold-lizard.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-1-161" class="trackbox" /> | 161 | [Base](/neptunia/rb1/dlc/1-base.html) | [Gold Lizard](/neptunia/rb1/monster/1-161-gold-lizard.html) | 40% |
+| <input type="checkbox" id="rb1-monster-1-162" class="trackbox" /> | 162 | [Base](/neptunia/rb1/dlc/1-base.html) | [Viral Gold Lizard](/neptunia/rb1/monster/1-162-viral-gold-lizard.html) | 80% |
 
 ## Dungeons **Frozen Scale** is found
 
@@ -40,12 +38,11 @@ title: "Frozen Scale (Item) - Hyperdimension Neptunia Re;Birth1"
 | <input type="checkbox" id="rb1-dungeon-1-12" class="trackbox" /> | 12 | [Base](/neptunia/rb1/dlc/1-base.html) | [Lowee Snowfield](/neptunia/rb1/dungeon/1-12-lowee-snowfield.html) | Gathering point |
 | <input type="checkbox" id="rb1-dungeon-1-12" class="trackbox" /> | 12 | [Base](/neptunia/rb1/dlc/1-base.html) | [Lowee Snowfield](/neptunia/rb1/dungeon/1-12-lowee-snowfield.html) | Monster drop |
 
-
 ## Remake System plans which require **Frozen Scale**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-284" class="trackbox" /> | 284 | [Base](/neptunia/rb1/dlc/1-base.html) | [Item Change](/neptunia/rb1/quest/1-284-item-change.html) |
-| <input type="checkbox" id="rb1-quest-1-370" class="trackbox" /> | 370 | [Base](/neptunia/rb1/dlc/1-base.html) | [Drive Hammer](/neptunia/rb1/quest/1-370-drive-hammer.html) |
-| <input type="checkbox" id="rb1-quest-1-404" class="trackbox" /> | 404 | [Base](/neptunia/rb1/dlc/1-base.html) | [Absolute Zero Ring](/neptunia/rb1/quest/1-404-absolute-zero-ring.html) |
-| <input type="checkbox" id="rb1-quest-1-585" class="trackbox" /> | 585 | [Base](/neptunia/rb1/dlc/1-base.html) | [Princess Blue](/neptunia/rb1/quest/1-585-princess-blue.html) |
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-284" class="trackbox" /> | 284 | [Base](/neptunia/rb1/dlc/1-base.html) | [Item Change](/neptunia/rb1/remake/1-284-item-change.html)<br />→ [Lowee Snowfield](/neptunia/rb1/dungeon/1-12-lowee-snowfield.html) (Dungeon) | 2 |
+| <input type="checkbox" id="rb1-remake-1-370" class="trackbox" /> | 370 | [Base](/neptunia/rb1/dlc/1-base.html) | [Drive Hammer](/neptunia/rb1/remake/1-370-drive-hammer.html)<br />→ [Drive Hammer](/neptunia/rb1/item/1-2086-drive-hammer.html) (Hammer (Blanc)) | 3 |
+| <input type="checkbox" id="rb1-remake-1-404" class="trackbox" /> | 404 | [Base](/neptunia/rb1/dlc/1-base.html) | [Absolute Zero Ring](/neptunia/rb1/remake/1-404-absolute-zero-ring.html)<br />→ [Absolute Zero Ring](/neptunia/rb1/item/1-2730-absolute-zero-ring.html) (Ornament) | 3 |
+| <input type="checkbox" id="rb1-remake-1-585" class="trackbox" /> | 585 | [Base](/neptunia/rb1/dlc/1-base.html) | [Princess Blue](/neptunia/rb1/remake/1-585-princess-blue.html)<br />→ [Princess Blue](/neptunia/rb1/item/1-3157-princess-blue.html) (Accessory) | 1 |

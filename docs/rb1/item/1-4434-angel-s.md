@@ -24,20 +24,17 @@ title: "Angel S (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 1000 |
 | **Max inventory** | 99 |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 90 | 30 | 60 | 0 | -15 | -15 | 0 | -7 | 7 | 7 | -7 |
 
-
 ## Remake System plans which unlock **Angel S** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-855" class="trackbox" /> | 855 | [Base](/neptunia/rb1/dlc/1-base.html) | [Angel S](/neptunia/rb1/remake/1-855-angel-s.html)<br /> → [Angel S](/neptunia/rb1/item/1-4434-angel-s.html) (Processor (S)) |
-
+| <input type="checkbox" id="rb1-remake-1-855" class="trackbox" /> | 855 | [Base](/neptunia/rb1/dlc/1-base.html) | [Angel S](/neptunia/rb1/remake/1-855-angel-s.html)<br />→ [Angel S](/neptunia/rb1/item/1-4434-angel-s.html) (Processor (S)) |
 
 ## Player characters who can equip **Angel S**
 

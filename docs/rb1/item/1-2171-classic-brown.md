@@ -25,13 +25,11 @@ title: "Classic Brown (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Weapon skill** | [Shine](/neptunia/rb1/skill/1-1801-shine.html) |
 | **To unlock in shop** | Method 1<br />- Have save in first playthrough<br />- Have Rom & Ram unlocked. |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 960 | 0 | 1760 | 0 | -176 | 0 | 0 | 0 | 0 | 0 | 0 |
-
 
 ## Player characters who can equip **Classic Brown**
 

@@ -23,13 +23,11 @@ title: "Cyber Suit (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 0 |
 | **Max inventory** | 1 |
 
-
 ## Player characters who have **Cyber Suit** equipped by default
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
 | <input type="checkbox" id="rb1-player-1-15" class="trackbox" /> | 15 | [Base](/neptunia/rb1/dlc/1-base.html) | [CyberConnect2](/neptunia/rb1/player/1-15-cyberconnect2.html) |
-
 
 ## Player characters who can equip **Cyber Suit**
 

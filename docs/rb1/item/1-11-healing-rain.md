@@ -23,9 +23,8 @@ title: "Healing Rain (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **Tool skill** | [Healing Rain](/neptunia/rb1/skill/1-10011-healing-rain.html) |
 
-
 ## Remake System plans which unlock **Healing Rain** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-324" class="trackbox" /> | 324 | [Base](/neptunia/rb1/dlc/1-base.html) | [Healing Rain](/neptunia/rb1/remake/1-324-healing-rain.html)<br /> → [Healing Rain](/neptunia/rb1/item/1-11-healing-rain.html) (Tool) |
+| <input type="checkbox" id="rb1-remake-1-324" class="trackbox" /> | 324 | [Base](/neptunia/rb1/dlc/1-base.html) | [Healing Rain](/neptunia/rb1/remake/1-324-healing-rain.html)<br />→ [Healing Rain](/neptunia/rb1/item/1-11-healing-rain.html) (Tool) |

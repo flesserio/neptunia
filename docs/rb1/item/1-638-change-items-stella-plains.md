@@ -23,16 +23,14 @@ title: "Change Items: Stella Plains (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 0 |
 | **Max inventory** | 1 |
 
-
 ## Chirpers who give **Change Items: Stella Plains**
 
 |    | ID | DLC | Avatar | Message | Conditions |
 | -- | -- | --- | ------ | ------- | ---------- |
-| <input type="checkbox" id="rb1-chirper-event-1-5080" class="trackbox" /> | 5080 | [Base](/neptunia/rb1/dlc/1-base.html) | [Cat](/neptunia/rb1/undefined/1-226-cat.html) | It's a Plan to change the items you can get in a dungeon, nya.<br />Find out what you get with this, nya. | View scene [Chapter 4: Let's Run](/neptunia/rb1/scene/1-421-chapter-4-lets-run.html)<br />Do not view scene [Chapter 6: 128th Where's Histy Summit](/neptunia/rb1/scene/1-601-chapter-6-128th-wheres-histy-summit.html) |
-
+| <input type="checkbox" id="rb1-chirper-event-1-5080" class="trackbox" /> | 5080 | [Base](/neptunia/rb1/dlc/1-base.html) | [Cat](/neptunia/rb1/avatar/1-226-cat.html) | It's a Plan to change the items you can get in a dungeon, nya.<br />Find out what you get with this, nya. | View scene [Chapter 4: Let's Run](/neptunia/rb1/scene/1-421-chapter-4-lets-run.html)<br />Do not view scene [Chapter 6: 128th Where's Histy Summit](/neptunia/rb1/scene/1-601-chapter-6-128th-wheres-histy-summit.html) |
 
 ## Plans added to Remake System after collecting **Change Items: Stella Plains**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-287" class="trackbox" /> | 287 | [Base](/neptunia/rb1/dlc/1-base.html) | [Item Change](/neptunia/rb1/remake/1-287-item-change.html)<br /> → [Stella Plains](/neptunia/rb1/dungeon/1-15-stella-plains.html) (Dungeon) |
+| <input type="checkbox" id="rb1-remake-1-287" class="trackbox" /> | 287 | [Base](/neptunia/rb1/dlc/1-base.html) | [Item Change](/neptunia/rb1/remake/1-287-item-change.html)<br />→ [Stella Plains](/neptunia/rb1/dungeon/1-15-stella-plains.html) (Dungeon) |

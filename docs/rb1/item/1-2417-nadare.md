@@ -25,13 +25,11 @@ title: "Nadare (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Weapon skill** | [L Slash](/neptunia/rb1/skill/1-2603-l-slash.html) |
 | **To unlock in shop** | Method 1<br />- Have save in first playthrough<br />- View scene [Chapter 6: 128th Where's Histy Summit](/neptunia/rb1/scene/1-601-chapter-6-128th-wheres-histy-summit.html) |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 500 | 1110 | 0 | 1584 | 0 | 138 | 0 | 138 | 0 | 0 | 0 | 0 |
-
 
 ## Player characters who can equip **Nadare**
 

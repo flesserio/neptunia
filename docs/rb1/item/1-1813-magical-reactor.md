@@ -23,17 +23,15 @@ title: "Magical Reactor (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 432 |
 | **Max inventory** | 99 |
 
-
 ## Monsters which drop **Magical Reactor**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-1-1021" class="trackbox" /> | 1021 | [Base](/neptunia/rb1/dlc/1-base.html) | [Killachine](/neptunia/rb1/monster/1-1021-killachine.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-1-1021" class="trackbox" /> | 1021 | [Base](/neptunia/rb1/dlc/1-base.html) | [Killachine](/neptunia/rb1/monster/1-1021-killachine.html) | 100% |
 
 ## Remake System plans which require **Magical Reactor**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-1" class="trackbox" /> | 1 | [Base](/neptunia/rb1/dlc/1-base.html) | [Escape Anywhere](/neptunia/rb1/quest/1-1-escape-anywhere.html) |
-| <input type="checkbox" id="rb1-quest-1-2" class="trackbox" /> | 2 | [Base](/neptunia/rb1/dlc/1-base.html) | [100％ Escape](/neptunia/rb1/quest/1-2-100-escape.html) |
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-1" class="trackbox" /> | 1 | [Base](/neptunia/rb1/dlc/1-base.html) | [Escape Anywhere](/neptunia/rb1/remake/1-1-escape-anywhere.html) | 1 |
+| <input type="checkbox" id="rb1-remake-1-2" class="trackbox" /> | 2 | [Base](/neptunia/rb1/dlc/1-base.html) | [100％ Escape](/neptunia/rb1/remake/1-2-100-escape.html) | 1 |

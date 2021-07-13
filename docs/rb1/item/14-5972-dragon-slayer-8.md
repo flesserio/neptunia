@@ -23,13 +23,11 @@ title: "Dragon Slayer+8 (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 0 |
 | **Max inventory** | 99 |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 1040 | 0 | 240 | 2336 | 0 | 1520 | 41 | 0 | 41 | 0 | 0 | 0 | 0 | 0 |
-
 
 ## Player characters who can equip **Dragon Slayer+8**
 

@@ -24,20 +24,17 @@ title: "Plutia C (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 100000 |
 | **Max inventory** | 99 |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 50 | 50 | 50 | 50 | 50 | 50 | 50 | 0 | 0 | 0 | 0 |
 
-
 ## Remake System plans which unlock **Plutia C** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-12-823" class="trackbox" /> | 823 | [Additional Content Package 3](/neptunia/rb1/dlc/12-pack3.html) | [Plutia C](/neptunia/rb1/remake/12-823-plutia-c.html)<br /> → [Plutia C](/neptunia/rb1/item/12-4074-plutia-c.html) (Processor (C)) |
-
+| <input type="checkbox" id="rb1-remake-12-823" class="trackbox" /> | 823 | [Additional Content Package 3](/neptunia/rb1/dlc/12-pack3.html) | [Plutia C](/neptunia/rb1/remake/12-823-plutia-c.html)<br />→ [Plutia C](/neptunia/rb1/item/12-4074-plutia-c.html) (Processor (C)) |
 
 ## Player characters who can equip **Plutia C**
 

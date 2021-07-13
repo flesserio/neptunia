@@ -24,13 +24,11 @@ title: "Red Earth Pipe (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 208 |
 | **Max inventory** | 99 |
 
-
 ## Monsters which drop **Red Earth Pipe**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-1-193" class="trackbox" /> | 193 | [Base](/neptunia/rb1/dlc/1-base.html) | [Plom-met](/neptunia/rb1/monster/1-193-plom-met.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-1-193" class="trackbox" /> | 193 | [Base](/neptunia/rb1/dlc/1-base.html) | [Plom-met](/neptunia/rb1/monster/1-193-plom-met.html) | 40% |
 
 ## Dungeons **Red Earth Pipe** is found
 
@@ -39,10 +37,9 @@ title: "Red Earth Pipe (Item) - Hyperdimension Neptunia Re;Birth1"
 | <input type="checkbox" id="rb1-dungeon-1-17" class="trackbox" /> | 17 | [Base](/neptunia/rb1/dlc/1-base.html) | [Fantasy Zone](/neptunia/rb1/dungeon/1-17-fantasy-zone.html) | Gathering point |
 | <input type="checkbox" id="rb1-dungeon-1-17" class="trackbox" /> | 17 | [Base](/neptunia/rb1/dlc/1-base.html) | [Fantasy Zone](/neptunia/rb1/dungeon/1-17-fantasy-zone.html) | Monster drop |
 
-
 ## Remake System plans which require **Red Earth Pipe**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-413" class="trackbox" /> | 413 | [Base](/neptunia/rb1/dlc/1-base.html) | [Mysterious Ring](/neptunia/rb1/quest/1-413-mysterious-ring.html) |
-| <input type="checkbox" id="rb1-quest-1-414" class="trackbox" /> | 414 | [Base](/neptunia/rb1/dlc/1-base.html) | [SP Buster III](/neptunia/rb1/quest/1-414-sp-buster-iii.html) |
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-413" class="trackbox" /> | 413 | [Base](/neptunia/rb1/dlc/1-base.html) | [Mysterious Ring](/neptunia/rb1/remake/1-413-mysterious-ring.html)<br />→ [Mysterious Ring](/neptunia/rb1/item/1-2741-mysterious-ring.html) (Ornament) | 3 |
+| <input type="checkbox" id="rb1-remake-1-414" class="trackbox" /> | 414 | [Base](/neptunia/rb1/dlc/1-base.html) | [SP Buster III](/neptunia/rb1/remake/1-414-sp-buster-iii.html)<br />→ [SP Buster III](/neptunia/rb1/item/1-2742-sp-buster-iii.html) (Ornament) | 3 |

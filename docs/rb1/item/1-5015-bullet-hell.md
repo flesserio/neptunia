@@ -23,17 +23,15 @@ title: "Bullet Hell (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 10 |
 | **Max inventory** | 99 |
 | **Idea Chip level** | 5 |
-| **Idea Chip ability** | [Act Fast Lv.5](/neptunia/rb1/avatar/1-9514-act-fast-lv-5.html)<br />Increases Wait Time Recovery by 25% |
-
+| **Idea Chip ability** | [Act Fast Lv.5](/neptunia/rb1/ability/1-9514-act-fast-lv-5.html)<br />Increases Wait Time Recovery by 25% |
 
 ## Dungeons **Bullet Hell** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
-| <input type="checkbox" id="rb1-dungeon-1-118" class="trackbox" /> | 118 | [Base](/neptunia/rb1/dlc/1-base.html) | [Uwii Ruins](/neptunia/rb1/dungeon/1-118-uwii-ruins.html) | Gathering point |
-| <input type="checkbox" id="rb1-dungeon-1-121" class="trackbox" /> | 121 | [Base](/neptunia/rb1/dlc/1-base.html) | [Dees Snow Forest](/neptunia/rb1/dungeon/1-121-dees-snow-forest.html) | Gathering point |
-| <input type="checkbox" id="rb1-dungeon-10-127" class="trackbox" /> | 127 | [Additional Content Package 1](/neptunia/rb1/dlc/10-pack1.html) | [Noma Cave](/neptunia/rb1/dungeon/10-127-noma-cave.html) | Gathering point |
-
+| <input type="checkbox" id="rb1-dungeon-1-118" class="trackbox" /> | 118 | [Base](/neptunia/rb1/dlc/1-base.html) | [Uwii Ruins](/neptunia/rb1/dungeon/1-118-uwii-ruins.html) | Treasure |
+| <input type="checkbox" id="rb1-dungeon-1-121" class="trackbox" /> | 121 | [Base](/neptunia/rb1/dlc/1-base.html) | [Dees Snow Forest](/neptunia/rb1/dungeon/1-121-dees-snow-forest.html) | Gathering point (Harvest Shift) |
+| <input type="checkbox" id="rb1-dungeon-10-127" class="trackbox" /> | 127 | [Additional Content Package 1](/neptunia/rb1/dlc/10-pack1.html) | [Noma Cave](/neptunia/rb1/dungeon/10-127-noma-cave.html) | Hidden treasure |
 
 ## Colosseum quests which reward **Bullet Hell**
 

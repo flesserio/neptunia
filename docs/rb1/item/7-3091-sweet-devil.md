@@ -23,13 +23,11 @@ title: "Sweet Devil (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 100000 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Sweet Devil** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-7-534" class="trackbox" /> | 534 | [[Plutia] Battle Entry License](/neptunia/rb1/dlc/7-plutia.html) | [Sweet Devil](/neptunia/rb1/remake/7-534-sweet-devil.html)<br /> → [Sweet Devil](/neptunia/rb1/item/7-3091-sweet-devil.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-7-534" class="trackbox" /> | 534 | [[Plutia] Battle Entry License](/neptunia/rb1/dlc/7-plutia.html) | [Sweet Devil](/neptunia/rb1/remake/7-534-sweet-devil.html)<br />→ [Sweet Devil](/neptunia/rb1/item/7-3091-sweet-devil.html) (Accessory) |
 
 ## Player characters who can equip **Sweet Devil**
 

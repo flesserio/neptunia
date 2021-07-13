@@ -24,15 +24,13 @@ title: "Mini Crown (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **To unlock in shop** | Method 1<br />- Have Nepgear unlocked. |
 
-
 ## Remake System plans which require **Mini Crown**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-676" class="trackbox" /> | 676 | [Base](/neptunia/rb1/dlc/1-base.html) | [Black Crown](/neptunia/rb1/quest/1-676-black-crown.html) |
-| <input type="checkbox" id="rb1-quest-1-677" class="trackbox" /> | 677 | [Base](/neptunia/rb1/dlc/1-base.html) | [White Crown](/neptunia/rb1/quest/1-677-white-crown.html) |
-| <input type="checkbox" id="rb1-quest-1-678" class="trackbox" /> | 678 | [Base](/neptunia/rb1/dlc/1-base.html) | [Gold Crown](/neptunia/rb1/quest/1-678-gold-crown.html) |
-
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-676" class="trackbox" /> | 676 | [Base](/neptunia/rb1/dlc/1-base.html) | [Black Crown](/neptunia/rb1/remake/1-676-black-crown.html)<br />→ [Black Crown](/neptunia/rb1/item/1-3308-black-crown.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-1-677" class="trackbox" /> | 677 | [Base](/neptunia/rb1/dlc/1-base.html) | [White Crown](/neptunia/rb1/remake/1-677-white-crown.html)<br />→ [White Crown](/neptunia/rb1/item/1-3309-white-crown.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-1-678" class="trackbox" /> | 678 | [Base](/neptunia/rb1/dlc/1-base.html) | [Gold Crown](/neptunia/rb1/remake/1-678-gold-crown.html)<br />→ [Gold Crown](/neptunia/rb1/item/1-3310-gold-crown.html) (Accessory) | 1 |
 
 ## Player characters who can equip **Mini Crown**
 

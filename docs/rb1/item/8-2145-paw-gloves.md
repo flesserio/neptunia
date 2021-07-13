@@ -25,13 +25,11 @@ title: "Paw Gloves (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Weapon skill** | [Left Punch](/neptunia/rb1/skill/8-1203-left-punch.html) |
 | **To unlock in shop** | Method 1<br />- View scene [Chapter 4: Lowee](/neptunia/rb1/scene/1-402-chapter-4-lowee.html)<br />- View scene [DLC 8 Event 1](/neptunia/rb1/scene/8-5020-dlc-8-event-1.html) |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 343 | -65 | 290 | -65 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-
 
 ## Player characters who can equip **Paw Gloves**
 

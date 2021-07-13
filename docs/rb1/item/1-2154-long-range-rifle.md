@@ -25,13 +25,11 @@ title: "Long Range Rifle (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Weapon skill** | [Shotgun](/neptunia/rb1/skill/1-1403-shotgun.html) |
 | **To unlock in shop** | Method 1<br />- Have Uni unlocked. |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 1150 | 0 | 1035 | 0 | 0 | 57 | 0 | 0 | 0 | 0 | 0 |
-
 
 ## Player characters who can equip **Long Range Rifle**
 

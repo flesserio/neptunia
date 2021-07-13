@@ -23,13 +23,11 @@ title: "Clear Lime Ribbon (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 1500 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Clear Lime Ribbon** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-803" class="trackbox" /> | 803 | [Base](/neptunia/rb1/dlc/1-base.html) | [Clear Lime Ribbon](/neptunia/rb1/remake/1-803-clear-lime-ribbon.html)<br /> → [Clear Lime Ribbon](/neptunia/rb1/item/1-3501-clear-lime-ribbon.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-803" class="trackbox" /> | 803 | [Base](/neptunia/rb1/dlc/1-base.html) | [Clear Lime Ribbon](/neptunia/rb1/remake/1-803-clear-lime-ribbon.html)<br />→ [Clear Lime Ribbon](/neptunia/rb1/item/1-3501-clear-lime-ribbon.html) (Accessory) |
 
 ## Player characters who can equip **Clear Lime Ribbon**
 

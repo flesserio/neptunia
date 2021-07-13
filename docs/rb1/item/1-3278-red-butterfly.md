@@ -23,13 +23,11 @@ title: "Red Butterfly (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 5000 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Red Butterfly** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-656" class="trackbox" /> | 656 | [Base](/neptunia/rb1/dlc/1-base.html) | [Red Butterfly](/neptunia/rb1/remake/1-656-red-butterfly.html)<br /> → [Red Butterfly](/neptunia/rb1/item/1-3278-red-butterfly.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-656" class="trackbox" /> | 656 | [Base](/neptunia/rb1/dlc/1-base.html) | [Red Butterfly](/neptunia/rb1/remake/1-656-red-butterfly.html)<br />→ [Red Butterfly](/neptunia/rb1/item/1-3278-red-butterfly.html) (Accessory) |
 
 ## Player characters who can equip **Red Butterfly**
 

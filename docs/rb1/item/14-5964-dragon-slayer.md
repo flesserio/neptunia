@@ -23,13 +23,11 @@ title: "Dragon Slayer+? (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 0 |
 | **Max inventory** | 99 |
 
-
 ## Colosseum quests which reward **Dragon Slayer+?**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
 | <input type="checkbox" id="rb1-colosseum-14-5012" class="trackbox" /> | 5012 | [Additional Content Pack 5](/neptunia/rb1/dlc/14-pack5.html) | [Adventure Story](/neptunia/rb1/colosseum/14-5012-adventure-story.html) |
-
 
 ## Player characters who can equip **Dragon Slayer+?**
 

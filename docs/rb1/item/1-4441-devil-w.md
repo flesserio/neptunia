@@ -24,20 +24,17 @@ title: "Devil W (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 1000 |
 | **Max inventory** | 99 |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 30 | 60 | 0 | -15 | -15 | 90 | 0 | 7 | -7 | -7 | 7 |
 
-
 ## Remake System plans which unlock **Devil W** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-862" class="trackbox" /> | 862 | [Base](/neptunia/rb1/dlc/1-base.html) | [Devil W](/neptunia/rb1/remake/1-862-devil-w.html)<br /> → [Devil W](/neptunia/rb1/item/1-4441-devil-w.html) (Processor (W)) |
-
+| <input type="checkbox" id="rb1-remake-1-862" class="trackbox" /> | 862 | [Base](/neptunia/rb1/dlc/1-base.html) | [Devil W](/neptunia/rb1/remake/1-862-devil-w.html)<br />→ [Devil W](/neptunia/rb1/item/1-4441-devil-w.html) (Processor (W)) |
 
 ## Player characters who can equip **Devil W**
 

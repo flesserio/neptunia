@@ -24,20 +24,17 @@ title: "Princess Dress Type-N (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 500 |
 | **Max inventory** | 99 |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 0 | 0 | 0 | 5 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 
-
 ## Quests which reward **Princess Dress Type-N**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
 | <input type="checkbox" id="rb1-quest-1-605" class="trackbox" /> | 605 | [Base](/neptunia/rb1/dlc/1-base.html) | [Slave driver](/neptunia/rb1/quest/1-605-slave-driver.html) |
-
 
 ## Player characters who can equip **Princess Dress Type-N**
 

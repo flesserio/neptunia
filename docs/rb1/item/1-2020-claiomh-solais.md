@@ -25,20 +25,17 @@ title: "Claiomh Solais  (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **Weapon skill** | [L Slash](/neptunia/rb1/skill/1-3-l-slash.html) |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 1125 | 0 | 842 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 
-
 ## Dungeons **Claiomh Solais ** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
-| <input type="checkbox" id="rb1-dungeon-1-123" class="trackbox" /> | 123 | [Base](/neptunia/rb1/dlc/1-base.html) | [Graphic Pass](/neptunia/rb1/dungeon/1-123-graphic-pass.html) | Gathering point |
-
+| <input type="checkbox" id="rb1-dungeon-1-123" class="trackbox" /> | 123 | [Base](/neptunia/rb1/dlc/1-base.html) | [Graphic Pass](/neptunia/rb1/dungeon/1-123-graphic-pass.html) | Treasure |
 
 ## Player characters who can equip **Claiomh Solais **
 

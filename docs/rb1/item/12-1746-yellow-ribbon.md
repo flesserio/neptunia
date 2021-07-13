@@ -24,13 +24,11 @@ title: "Yellow Ribbon (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 417 |
 | **Max inventory** | 99 |
 
-
 ## Monsters which drop **Yellow Ribbon**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-12-395" class="trackbox" /> | 395 | [Additional Content Package 3](/neptunia/rb1/dlc/12-pack3.html) | [Death Girl](/neptunia/rb1/monster/12-395-death-girl.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-12-395" class="trackbox" /> | 395 | [Additional Content Package 3](/neptunia/rb1/dlc/12-pack3.html) | [Death Girl](/neptunia/rb1/monster/12-395-death-girl.html) | 40% |
 
 ## Dungeons **Yellow Ribbon** is found
 
@@ -39,9 +37,8 @@ title: "Yellow Ribbon (Item) - Hyperdimension Neptunia Re;Birth1"
 | <input type="checkbox" id="rb1-dungeon-12-125" class="trackbox" /> | 125 | [Additional Content Package 3](/neptunia/rb1/dlc/12-pack3.html) | [Haneda Forest](/neptunia/rb1/dungeon/12-125-haneda-forest.html) | Gathering point |
 | <input type="checkbox" id="rb1-dungeon-12-125" class="trackbox" /> | 125 | [Additional Content Package 3](/neptunia/rb1/dlc/12-pack3.html) | [Haneda Forest](/neptunia/rb1/dungeon/12-125-haneda-forest.html) | Monster drop |
 
-
 ## Remake System plans which require **Yellow Ribbon**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-12-312" class="trackbox" /> | 312 | [Additional Content Package 3](/neptunia/rb1/dlc/12-pack3.html) | [Change Items](/neptunia/rb1/quest/12-312-change-items.html) |
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-12-312" class="trackbox" /> | 312 | [Additional Content Package 3](/neptunia/rb1/dlc/12-pack3.html) | [Change Items](/neptunia/rb1/remake/12-312-change-items.html)<br />→ [Haneda Forest](/neptunia/rb1/dungeon/12-125-haneda-forest.html) (Dungeon) | 2 |

@@ -23,13 +23,11 @@ title: "Rose Beret (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 1500 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Rose Beret** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-754" class="trackbox" /> | 754 | [Base](/neptunia/rb1/dlc/1-base.html) | [Rose Beret](/neptunia/rb1/remake/1-754-rose-beret.html)<br /> → [Rose Beret](/neptunia/rb1/item/1-3421-rose-beret.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-754" class="trackbox" /> | 754 | [Base](/neptunia/rb1/dlc/1-base.html) | [Rose Beret](/neptunia/rb1/remake/1-754-rose-beret.html)<br />→ [Rose Beret](/neptunia/rb1/item/1-3421-rose-beret.html) (Accessory) |
 
 ## Player characters who can equip **Rose Beret**
 

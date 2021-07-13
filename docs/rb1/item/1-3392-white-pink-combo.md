@@ -23,13 +23,11 @@ title: "White-Pink Combo (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 2500 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **White-Pink Combo** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-732" class="trackbox" /> | 732 | [Base](/neptunia/rb1/dlc/1-base.html) | [White-Pink Combo](/neptunia/rb1/remake/1-732-white-pink-combo.html)<br /> → [White-Pink Combo](/neptunia/rb1/item/1-3392-white-pink-combo.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-732" class="trackbox" /> | 732 | [Base](/neptunia/rb1/dlc/1-base.html) | [White-Pink Combo](/neptunia/rb1/remake/1-732-white-pink-combo.html)<br />→ [White-Pink Combo](/neptunia/rb1/item/1-3392-white-pink-combo.html) (Accessory) |
 
 ## Player characters who can equip **White-Pink Combo**
 

@@ -23,13 +23,11 @@ title: "Jet Ribbon (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 1500 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Jet Ribbon** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-737" class="trackbox" /> | 737 | [Base](/neptunia/rb1/dlc/1-base.html) | [Jet Ribbon](/neptunia/rb1/remake/1-737-jet-ribbon.html)<br /> → [Jet Ribbon](/neptunia/rb1/item/1-3399-jet-ribbon.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-737" class="trackbox" /> | 737 | [Base](/neptunia/rb1/dlc/1-base.html) | [Jet Ribbon](/neptunia/rb1/remake/1-737-jet-ribbon.html)<br />→ [Jet Ribbon](/neptunia/rb1/item/1-3399-jet-ribbon.html) (Accessory) |
 
 ## Player characters who can equip **Jet Ribbon**
 

@@ -25,13 +25,11 @@ title: "Melee Pencil (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Weapon skill** | [Shine](/neptunia/rb1/skill/1-1601-shine.html) |
 | **To unlock in shop** | Method 1<br />- Have Rom & Ram unlocked. |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 920 | 0 | 1150 | 57 | 0 | 57 | 0 | 0 | 0 | 0 | 0 |
-
 
 ## Player characters who can equip **Melee Pencil**
 

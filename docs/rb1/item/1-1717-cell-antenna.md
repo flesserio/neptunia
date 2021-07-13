@@ -24,14 +24,12 @@ title: "Cell Antenna (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 27 |
 | **Max inventory** | 99 |
 
-
 ## Monsters which drop **Cell Antenna**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-21-8050" class="trackbox" /> | 8050 | [Additional Content Pack 12](/neptunia/rb1/dlc/21-pack12.html) | [Nanovader](/neptunia/rb1/monster/21-8050-nanovader.html) |
-| <input type="checkbox" id="rb1-monster-1-285" class="trackbox" /> | 285 | [Base](/neptunia/rb1/dlc/1-base.html) | [Nanovader](/neptunia/rb1/monster/1-285-nanovader.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-21-8050" class="trackbox" /> | 8050 | [Additional Content Pack 12](/neptunia/rb1/dlc/21-pack12.html) | [Nanovader](/neptunia/rb1/monster/21-8050-nanovader.html) | 40% |
+| <input type="checkbox" id="rb1-monster-1-285" class="trackbox" /> | 285 | [Base](/neptunia/rb1/dlc/1-base.html) | [Nanovader](/neptunia/rb1/monster/1-285-nanovader.html) | 40% |
 
 ## Dungeons **Cell Antenna** is found
 
@@ -41,9 +39,8 @@ title: "Cell Antenna (Item) - Hyperdimension Neptunia Re;Birth1"
 | <input type="checkbox" id="rb1-dungeon-1-107" class="trackbox" /> | 107 | [Base](/neptunia/rb1/dlc/1-base.html) | [Gunbreak Underground Cavern](/neptunia/rb1/dungeon/1-107-gunbreak-underground-cavern.html) | Monster drop |
 | <input type="checkbox" id="rb1-dungeon-21-303" class="trackbox" /> | 303 | [Additional Content Pack 12](/neptunia/rb1/dlc/21-pack12.html) | [Lili Dungeon](/neptunia/rb1/dungeon/21-303-lili-dungeon.html) | Monster drop |
 
-
 ## Remake System plans which require **Cell Antenna**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-549" class="trackbox" /> | 549 | [Base](/neptunia/rb1/dlc/1-base.html) | [Metal Eyepatch](/neptunia/rb1/quest/1-549-metal-eyepatch.html) |
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-549" class="trackbox" /> | 549 | [Base](/neptunia/rb1/dlc/1-base.html) | [Metal Eyepatch](/neptunia/rb1/remake/1-549-metal-eyepatch.html)<br />→ [Metal Eyepatch](/neptunia/rb1/item/1-3104-metal-eyepatch.html) (Accessory) | 2 |

@@ -23,15 +23,13 @@ title: "Remake (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 10 |
 | **Max inventory** | 99 |
 | **Idea Chip level** | 5 |
-| **Idea Chip ability** | [Add Poison Lv.5](/neptunia/rb1/avatar/1-9539-add-poison-lv-5.html)<br />Increases Add Poison by 20% |
-
+| **Idea Chip ability** | [Add Poison Lv.5](/neptunia/rb1/ability/1-9539-add-poison-lv-5.html)<br />Increases Add Poison by 20% |
 
 ## Dungeons **Remake** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
-| <input type="checkbox" id="rb1-dungeon-1-116" class="trackbox" /> | 116 | [Base](/neptunia/rb1/dlc/1-base.html) | [Yukawa Ruins](/neptunia/rb1/dungeon/1-116-yukawa-ruins.html) | Gathering point |
-
+| <input type="checkbox" id="rb1-dungeon-1-116" class="trackbox" /> | 116 | [Base](/neptunia/rb1/dlc/1-base.html) | [Yukawa Ruins](/neptunia/rb1/dungeon/1-116-yukawa-ruins.html) | Hidden treasure |
 
 ## Colosseum quests which reward **Remake**
 

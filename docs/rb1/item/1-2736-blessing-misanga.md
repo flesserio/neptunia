@@ -24,20 +24,17 @@ title: "Blessing Misanga (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 3000 |
 | **Max inventory** | 99 |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 200 | 0 | 0 | 0 | 0 |
 
-
 ## Remake System plans which unlock **Blessing Misanga** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-410" class="trackbox" /> | 410 | [Base](/neptunia/rb1/dlc/1-base.html) | [Blessing Misanga](/neptunia/rb1/remake/1-410-blessing-misanga.html)<br /> → [Blessing Misanga](/neptunia/rb1/item/1-2736-blessing-misanga.html) (Ornament) |
-
+| <input type="checkbox" id="rb1-remake-1-410" class="trackbox" /> | 410 | [Base](/neptunia/rb1/dlc/1-base.html) | [Blessing Misanga](/neptunia/rb1/remake/1-410-blessing-misanga.html)<br />→ [Blessing Misanga](/neptunia/rb1/item/1-2736-blessing-misanga.html) (Ornament) |
 
 ## Player characters who can equip **Blessing Misanga**
 

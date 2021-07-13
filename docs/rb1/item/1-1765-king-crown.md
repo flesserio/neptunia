@@ -25,13 +25,11 @@ title: "King Crown (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 140 |
 | **Max inventory** | 99 |
 
-
 ## Monsters which drop **King Crown**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-1-347" class="trackbox" /> | 347 | [Base](/neptunia/rb1/dlc/1-base.html) | [King Cardbird](/neptunia/rb1/monster/1-347-king-cardbird.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-1-347" class="trackbox" /> | 347 | [Base](/neptunia/rb1/dlc/1-base.html) | [King Cardbird](/neptunia/rb1/monster/1-347-king-cardbird.html) | 45% |
 
 ## Dungeons **King Crown** is found
 
@@ -40,17 +38,15 @@ title: "King Crown (Item) - Hyperdimension Neptunia Re;Birth1"
 | <input type="checkbox" id="rb1-dungeon-1-117" class="trackbox" /> | 117 | [Base](/neptunia/rb1/dlc/1-base.html) | [Adjiten Forest Pass](/neptunia/rb1/dungeon/1-117-adjiten-forest-pass.html) | Gathering point |
 | <input type="checkbox" id="rb1-dungeon-1-117" class="trackbox" /> | 117 | [Base](/neptunia/rb1/dlc/1-base.html) | [Adjiten Forest Pass](/neptunia/rb1/dungeon/1-117-adjiten-forest-pass.html) | Monster drop |
 
-
 ## Quests which require gathering **King Crown**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
 | <input type="checkbox" id="rb1-quest-1-607" class="trackbox" /> | 607 | [Base](/neptunia/rb1/dlc/1-base.html) | [Kingly](/neptunia/rb1/quest/1-607-kingly.html) |
 
-
 ## Remake System plans which require **King Crown**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-339" class="trackbox" /> | 339 | [Base](/neptunia/rb1/dlc/1-base.html) | [Super Panacea](/neptunia/rb1/quest/1-339-super-panacea.html) |
-| <input type="checkbox" id="rb1-quest-1-376" class="trackbox" /> | 376 | [Base](/neptunia/rb1/dlc/1-base.html) | [Gae Bolg](/neptunia/rb1/quest/1-376-gae-bolg.html) |
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-339" class="trackbox" /> | 339 | [Base](/neptunia/rb1/dlc/1-base.html) | [Super Panacea](/neptunia/rb1/remake/1-339-super-panacea.html)<br />→ [Super Panacea](/neptunia/rb1/item/1-32-super-panacea.html) (Tool) | 2 |
+| <input type="checkbox" id="rb1-remake-1-376" class="trackbox" /> | 376 | [Base](/neptunia/rb1/dlc/1-base.html) | [Gae Bolg](/neptunia/rb1/remake/1-376-gae-bolg.html)<br />→ [Gae Bolg](/neptunia/rb1/item/1-2113-gae-bolg.html) (Spear (Vert)) | 3 |

@@ -24,20 +24,17 @@ title: "Lowee W (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 50000 |
 | **Max inventory** | 99 |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 70 | 120 | -20 | 0 | -20 | 0 | 40 | 0 | 5 | 0 | 0 |
 
-
 ## Remake System plans which unlock **Lowee W** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-838" class="trackbox" /> | 838 | [Base](/neptunia/rb1/dlc/1-base.html) | [Lowee W](/neptunia/rb1/remake/1-838-lowee-w.html)<br /> → [Lowee W](/neptunia/rb1/item/1-4186-lowee-w.html) (Processor (W)) |
-
+| <input type="checkbox" id="rb1-remake-1-838" class="trackbox" /> | 838 | [Base](/neptunia/rb1/dlc/1-base.html) | [Lowee W](/neptunia/rb1/remake/1-838-lowee-w.html)<br />→ [Lowee W](/neptunia/rb1/item/1-4186-lowee-w.html) (Processor (W)) |
 
 ## Player characters who can equip **Lowee W**
 

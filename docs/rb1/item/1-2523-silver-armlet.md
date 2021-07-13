@@ -24,20 +24,17 @@ title: "Silver Armlet (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 1500 |
 | **Max inventory** | 99 |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 230 | 0 | 345 | 0 | 460 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 
-
 ## Remake System plans which unlock **Silver Armlet** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-388" class="trackbox" /> | 388 | [Base](/neptunia/rb1/dlc/1-base.html) | [Silver Armlet](/neptunia/rb1/remake/1-388-silver-armlet.html)<br /> → [Silver Armlet](/neptunia/rb1/item/1-2523-silver-armlet.html) (Armor) |
-
+| <input type="checkbox" id="rb1-remake-1-388" class="trackbox" /> | 388 | [Base](/neptunia/rb1/dlc/1-base.html) | [Silver Armlet](/neptunia/rb1/remake/1-388-silver-armlet.html)<br />→ [Silver Armlet](/neptunia/rb1/item/1-2523-silver-armlet.html) (Armor) |
 
 ## Player characters who can equip **Silver Armlet**
 

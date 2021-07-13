@@ -23,16 +23,14 @@ title: "Add Enemies: Stella Plains (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 0 |
 | **Max inventory** | 1 |
 
-
 ## Chirpers who give **Add Enemies: Stella Plains**
 
 |    | ID | DLC | Avatar | Message | Conditions |
 | -- | -- | --- | ------ | ------- | ---------- |
-| <input type="checkbox" id="rb1-chirper-event-1-5035" class="trackbox" /> | 5035 | [Base](/neptunia/rb1/dlc/1-base.html) | [Sir Toichi](/neptunia/rb1/undefined/1-220-sir-toichi.html) | Here's a Plan to summon stronger enemies!<br />One day I'll be boss... | View scene [Chapter 4: Let's Run](/neptunia/rb1/scene/1-421-chapter-4-lets-run.html)<br />Do not view scene [Chapter 6: 128th Where's Histy Summit](/neptunia/rb1/scene/1-601-chapter-6-128th-wheres-histy-summit.html) |
-
+| <input type="checkbox" id="rb1-chirper-event-1-5035" class="trackbox" /> | 5035 | [Base](/neptunia/rb1/dlc/1-base.html) | [Sir Toichi](/neptunia/rb1/avatar/1-220-sir-toichi.html) | Here's a Plan to summon stronger enemies!<br />One day I'll be boss... | View scene [Chapter 4: Let's Run](/neptunia/rb1/scene/1-421-chapter-4-lets-run.html)<br />Do not view scene [Chapter 6: 128th Where's Histy Summit](/neptunia/rb1/scene/1-601-chapter-6-128th-wheres-histy-summit.html) |
 
 ## Plans added to Remake System after collecting **Add Enemies: Stella Plains**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-238" class="trackbox" /> | 238 | [Base](/neptunia/rb1/dlc/1-base.html) | [Add Enemies](/neptunia/rb1/remake/1-238-add-enemies.html)<br /> → [Stella Plains](/neptunia/rb1/dungeon/1-15-stella-plains.html) (Dungeon) |
+| <input type="checkbox" id="rb1-remake-1-238" class="trackbox" /> | 238 | [Base](/neptunia/rb1/dlc/1-base.html) | [Add Enemies](/neptunia/rb1/remake/1-238-add-enemies.html)<br />→ [Stella Plains](/neptunia/rb1/dungeon/1-15-stella-plains.html) (Dungeon) |

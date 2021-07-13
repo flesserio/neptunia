@@ -23,16 +23,14 @@ title: "Plan: Energy Lump (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 0 |
 | **Max inventory** | 1 |
 
-
 ## Chirpers who give **Plan: Energy Lump**
 
 |    | ID | DLC | Avatar | Message | Conditions |
 | -- | -- | --- | ------ | ------- | ---------- |
-| <input type="checkbox" id="rb1-chirper-event-1-5124" class="trackbox" /> | 5124 | [Base](/neptunia/rb1/dlc/1-base.html) | [Wondrous Chef](/neptunia/rb1/undefined/1-233-wondrous-chef.html) | Here's an item Plan for you.<br />The Wondrous Chef Appears 3!<br />I'll give you this super recipe that I got from traveling the world! | View scene [Chapter 6: 128th Where's Histy Summit](/neptunia/rb1/scene/1-601-chapter-6-128th-wheres-histy-summit.html)<br />Do not view scene [Chapter 8: The True Arfoire](/neptunia/rb1/scene/1-807-chapter-8-the-true-arfoire.html) |
-
+| <input type="checkbox" id="rb1-chirper-event-1-5124" class="trackbox" /> | 5124 | [Base](/neptunia/rb1/dlc/1-base.html) | [Wondrous Chef](/neptunia/rb1/avatar/1-233-wondrous-chef.html) | Here's an item Plan for you.<br />The Wondrous Chef Appears 3!<br />I'll give you this super recipe that I got from traveling the world! | View scene [Chapter 6: 128th Where's Histy Summit](/neptunia/rb1/scene/1-601-chapter-6-128th-wheres-histy-summit.html)<br />Do not view scene [Chapter 8: The True Arfoire](/neptunia/rb1/scene/1-807-chapter-8-the-true-arfoire.html) |
 
 ## Plans added to Remake System after collecting **Plan: Energy Lump**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-348" class="trackbox" /> | 348 | [Base](/neptunia/rb1/dlc/1-base.html) | [Energy Lump](/neptunia/rb1/remake/1-348-energy-lump.html)<br /> → [Energy Lump](/neptunia/rb1/item/1-41-energy-lump.html) (Tool) |
+| <input type="checkbox" id="rb1-remake-1-348" class="trackbox" /> | 348 | [Base](/neptunia/rb1/dlc/1-base.html) | [Energy Lump](/neptunia/rb1/remake/1-348-energy-lump.html)<br />→ [Energy Lump](/neptunia/rb1/item/1-41-energy-lump.html) (Tool) |

@@ -25,28 +25,24 @@ title: "Nep's Ring (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 0 |
 | **Max inventory** | 99 |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 2875 | 0 | 0 | 143 | 2875 | -213 | 2125 | 0 | 0 | 143 | 0 | 0 | 0 | 0 |
 
-
 ## Monsters which drop **Nep's Ring**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-16-1063" class="trackbox" /> | 1063 | [Additional Content Pack 7](/neptunia/rb1/dlc/16-pack7.html) | [Clione](/neptunia/rb1/monster/16-1063-clione.html) |
-| <input type="checkbox" id="rb1-monster-16-1065" class="trackbox" /> | 1065 | [Additional Content Pack 7](/neptunia/rb1/dlc/16-pack7.html) | [Clione](/neptunia/rb1/monster/16-1065-clione.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-16-1063" class="trackbox" /> | 1063 | [Additional Content Pack 7](/neptunia/rb1/dlc/16-pack7.html) | [Clione](/neptunia/rb1/monster/16-1063-clione.html) | 60% |
+| <input type="checkbox" id="rb1-monster-16-1065" class="trackbox" /> | 1065 | [Additional Content Pack 7](/neptunia/rb1/dlc/16-pack7.html) | [Clione](/neptunia/rb1/monster/16-1065-clione.html) | 60% |
 
 ## Dungeons **Nep's Ring** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
 | <input type="checkbox" id="rb1-dungeon-16-131" class="trackbox" /> | 131 | [Additional Content Pack 7](/neptunia/rb1/dlc/16-pack7.html) | [Rebeat Resort](/neptunia/rb1/dungeon/16-131-rebeat-resort.html) | Monster drop |
-
 
 ## Player characters who can equip **Nep's Ring**
 

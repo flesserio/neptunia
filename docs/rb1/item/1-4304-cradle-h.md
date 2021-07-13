@@ -24,20 +24,17 @@ title: "Cradle H (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 0 |
 | **Max inventory** | 99 |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 0 | -15 | 0 | 25 | 60 | 0 | 50 | 0 | 0 | 0 | 0 |
 
-
 ## Player characters who have **Cradle H** equipped by default
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
 | <input type="checkbox" id="rb1-player-1-8" class="trackbox" /> | 8 | [Base](/neptunia/rb1/dlc/1-base.html) | [Uni](/neptunia/rb1/player/1-8-uni.html) |
-
 
 ## Player characters who can equip **Cradle H**
 

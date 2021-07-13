@@ -23,13 +23,11 @@ title: "Bitty Crown (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 2500 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Bitty Crown** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-804" class="trackbox" /> | 804 | [Base](/neptunia/rb1/dlc/1-base.html) | [Bitty Crown](/neptunia/rb1/remake/1-804-bitty-crown.html)<br /> → [Bitty Crown](/neptunia/rb1/item/1-3503-bitty-crown.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-804" class="trackbox" /> | 804 | [Base](/neptunia/rb1/dlc/1-base.html) | [Bitty Crown](/neptunia/rb1/remake/1-804-bitty-crown.html)<br />→ [Bitty Crown](/neptunia/rb1/item/1-3503-bitty-crown.html) (Accessory) |
 
 ## Player characters who can equip **Bitty Crown**
 

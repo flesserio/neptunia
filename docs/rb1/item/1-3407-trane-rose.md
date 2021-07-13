@@ -23,13 +23,11 @@ title: "Trane Rose (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 5000 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Trane Rose** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-743" class="trackbox" /> | 743 | [Base](/neptunia/rb1/dlc/1-base.html) | [Trane Rose](/neptunia/rb1/remake/1-743-trane-rose.html)<br /> → [Trane Rose](/neptunia/rb1/item/1-3407-trane-rose.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-743" class="trackbox" /> | 743 | [Base](/neptunia/rb1/dlc/1-base.html) | [Trane Rose](/neptunia/rb1/remake/1-743-trane-rose.html)<br />→ [Trane Rose](/neptunia/rb1/item/1-3407-trane-rose.html) (Accessory) |
 
 ## Player characters who can equip **Trane Rose**
 

@@ -24,20 +24,17 @@ title: "Contract (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 0 |
 | **Max inventory** | 99 |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 0 | 152 | 0 | 141 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 
-
 ## Player characters who have **Contract** equipped by default
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
 | <input type="checkbox" id="rb1-player-14-27" class="trackbox" /> | 27 | [Additional Content Pack 5](/neptunia/rb1/dlc/14-pack5.html) | [Kei Jinguji](/neptunia/rb1/player/14-27-kei-jinguji.html) |
-
 
 ## Player characters who can equip **Contract**
 

@@ -24,20 +24,17 @@ title: "Engage Ring (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 5000 |
 | **Max inventory** | 99 |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 250 | 250 | 0 | 0 | 0 | 0 |
 
-
 ## Remake System plans which unlock **Engage Ring** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-412" class="trackbox" /> | 412 | [Base](/neptunia/rb1/dlc/1-base.html) | [Engage Ring](/neptunia/rb1/remake/1-412-engage-ring.html)<br /> → [Engage Ring](/neptunia/rb1/item/1-2738-engage-ring.html) (Ornament) |
-
+| <input type="checkbox" id="rb1-remake-1-412" class="trackbox" /> | 412 | [Base](/neptunia/rb1/dlc/1-base.html) | [Engage Ring](/neptunia/rb1/remake/1-412-engage-ring.html)<br />→ [Engage Ring](/neptunia/rb1/item/1-2738-engage-ring.html) (Ornament) |
 
 ## Player characters who can equip **Engage Ring**
 

@@ -25,14 +25,12 @@ title: "Reflex (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Tool skill** | [Reflex](/neptunia/rb1/skill/1-10025-reflex.html) |
 | **To unlock in shop** | Method 1<br />- View scene [Chapter 2: Lastation](/neptunia/rb1/scene/1-202-chapter-2-lastation.html) |
 
-
 ## Dungeons **Reflex** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
-| <input type="checkbox" id="rb1-dungeon-1-20" class="trackbox" /> | 20 | [Base](/neptunia/rb1/dlc/1-base.html) | [Factory No.459](/neptunia/rb1/dungeon/1-20-factory-no-459.html) | Gathering point |
-| <input type="checkbox" id="rb1-dungeon-1-104" class="trackbox" /> | 104 | [Base](/neptunia/rb1/dlc/1-base.html) | [Toh-Kiden Cave](/neptunia/rb1/dungeon/1-104-toh-kiden-cave.html) | Gathering point |
-
+| <input type="checkbox" id="rb1-dungeon-1-20" class="trackbox" /> | 20 | [Base](/neptunia/rb1/dlc/1-base.html) | [Factory No.459](/neptunia/rb1/dungeon/1-20-factory-no-459.html) | Treasure |
+| <input type="checkbox" id="rb1-dungeon-1-104" class="trackbox" /> | 104 | [Base](/neptunia/rb1/dlc/1-base.html) | [Toh-Kiden Cave](/neptunia/rb1/dungeon/1-104-toh-kiden-cave.html) | Treasure |
 
 ## Quests which reward **Reflex**
 

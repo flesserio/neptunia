@@ -25,27 +25,23 @@ title: "Silver Bracelet (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 1500 |
 | **Max inventory** | 99 |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 230 | 0 | 0 | 0 | 460 | 0 | 345 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 
-
 ## Remake System plans which unlock **Silver Bracelet** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-387" class="trackbox" /> | 387 | [Base](/neptunia/rb1/dlc/1-base.html) | [Silver Bracelet](/neptunia/rb1/remake/1-387-silver-bracelet.html)<br /> → [Silver Bracelet](/neptunia/rb1/item/1-2522-silver-bracelet.html) (Armor) |
-
+| <input type="checkbox" id="rb1-remake-1-387" class="trackbox" /> | 387 | [Base](/neptunia/rb1/dlc/1-base.html) | [Silver Bracelet](/neptunia/rb1/remake/1-387-silver-bracelet.html)<br />→ [Silver Bracelet](/neptunia/rb1/item/1-2522-silver-bracelet.html) (Armor) |
 
 ## Dungeons **Silver Bracelet** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
-| <input type="checkbox" id="rb1-dungeon-16-131" class="trackbox" /> | 131 | [Additional Content Pack 7](/neptunia/rb1/dlc/16-pack7.html) | [Rebeat Resort](/neptunia/rb1/dungeon/16-131-rebeat-resort.html) | Gathering point |
-
+| <input type="checkbox" id="rb1-dungeon-16-131" class="trackbox" /> | 131 | [Additional Content Pack 7](/neptunia/rb1/dlc/16-pack7.html) | [Rebeat Resort](/neptunia/rb1/dungeon/16-131-rebeat-resort.html) | Hidden treasure |
 
 ## Player characters who can equip **Silver Bracelet**
 

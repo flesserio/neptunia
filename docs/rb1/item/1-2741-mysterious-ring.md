@@ -24,20 +24,17 @@ title: "Mysterious Ring (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 50000 |
 | **Max inventory** | 99 |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 1000 | 0 | 500 | 0 | 0 | 0 | 0 | 150 | 150 | 150 | 0 | 0 | 0 | 0 |
 
-
 ## Remake System plans which unlock **Mysterious Ring** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-413" class="trackbox" /> | 413 | [Base](/neptunia/rb1/dlc/1-base.html) | [Mysterious Ring](/neptunia/rb1/remake/1-413-mysterious-ring.html)<br /> → [Mysterious Ring](/neptunia/rb1/item/1-2741-mysterious-ring.html) (Ornament) |
-
+| <input type="checkbox" id="rb1-remake-1-413" class="trackbox" /> | 413 | [Base](/neptunia/rb1/dlc/1-base.html) | [Mysterious Ring](/neptunia/rb1/remake/1-413-mysterious-ring.html)<br />→ [Mysterious Ring](/neptunia/rb1/item/1-2741-mysterious-ring.html) (Ornament) |
 
 ## Player characters who can equip **Mysterious Ring**
 

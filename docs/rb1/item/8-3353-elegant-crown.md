@@ -24,15 +24,13 @@ title: "Elegant Crown (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **To unlock in shop** | Method 1<br />- View scene [Chapter 2: Histoire And Arfoire](/neptunia/rb1/scene/1-201-chapter-2-histoire-and-arfoire.html)<br />- View scene [DLC 8 Event 1](/neptunia/rb1/scene/8-5020-dlc-8-event-1.html) |
 
-
 ## Remake System plans which require **Elegant Crown**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-8-706" class="trackbox" /> | 706 | [[Peashy] Battle Entry License](/neptunia/rb1/dlc/8-peashy.html) | [Rune Crown](/neptunia/rb1/quest/8-706-rune-crown.html) |
-| <input type="checkbox" id="rb1-quest-8-707" class="trackbox" /> | 707 | [[Peashy] Battle Entry License](/neptunia/rb1/dlc/8-peashy.html) | [Noble Crown](/neptunia/rb1/quest/8-707-noble-crown.html) |
-| <input type="checkbox" id="rb1-quest-8-708" class="trackbox" /> | 708 | [[Peashy] Battle Entry License](/neptunia/rb1/dlc/8-peashy.html) | [Royal Crown](/neptunia/rb1/quest/8-708-royal-crown.html) |
-
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-8-706" class="trackbox" /> | 706 | [[Peashy] Battle Entry License](/neptunia/rb1/dlc/8-peashy.html) | [Rune Crown](/neptunia/rb1/remake/8-706-rune-crown.html)<br />→ [Rune Crown](/neptunia/rb1/item/8-3354-rune-crown.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-8-707" class="trackbox" /> | 707 | [[Peashy] Battle Entry License](/neptunia/rb1/dlc/8-peashy.html) | [Noble Crown](/neptunia/rb1/remake/8-707-noble-crown.html)<br />→ [Noble Crown](/neptunia/rb1/item/8-3355-noble-crown.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-8-708" class="trackbox" /> | 708 | [[Peashy] Battle Entry License](/neptunia/rb1/dlc/8-peashy.html) | [Royal Crown](/neptunia/rb1/remake/8-708-royal-crown.html)<br />→ [Royal Crown](/neptunia/rb1/item/8-3356-royal-crown.html) (Accessory) | 1 |
 
 ## Player characters who can equip **Elegant Crown**
 

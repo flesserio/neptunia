@@ -23,13 +23,11 @@ title: "Black Cat Ribbon (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 2500 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Black Cat Ribbon** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-731" class="trackbox" /> | 731 | [Base](/neptunia/rb1/dlc/1-base.html) | [Black Cat Ribbon](/neptunia/rb1/remake/1-731-black-cat-ribbon.html)<br /> → [Black Cat Ribbon](/neptunia/rb1/item/1-3391-black-cat-ribbon.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-731" class="trackbox" /> | 731 | [Base](/neptunia/rb1/dlc/1-base.html) | [Black Cat Ribbon](/neptunia/rb1/remake/1-731-black-cat-ribbon.html)<br />→ [Black Cat Ribbon](/neptunia/rb1/item/1-3391-black-cat-ribbon.html) (Accessory) |
 
 ## Player characters who can equip **Black Cat Ribbon**
 

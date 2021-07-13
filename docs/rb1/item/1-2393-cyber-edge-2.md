@@ -25,13 +25,11 @@ title: "Cyber Edge 2 (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Weapon skill** | [Slash](/neptunia/rb1/skill/1-2702-slash.html) |
 | **To unlock in shop** | Method 1<br />- View scene [Chapter 8: 2nd Console War?](/neptunia/rb1/scene/1-802-chapter-8-2nd-console-war.html) |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 846 | 0 | 703 | 0 | 27 | 27 | 0 | 0 | 0 | 0 | 0 |
-
 
 ## Player characters who can equip **Cyber Edge 2**
 

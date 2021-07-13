@@ -25,20 +25,17 @@ title: "White Cat Ears (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 500 |
 | **Max inventory** | 99 |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 5 | 0 | 0 | 0 | 0 |
 
-
 ## Monsters which drop **White Cat Ears**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-1-150" class="trackbox" /> | 150 | [Base](/neptunia/rb1/dlc/1-base.html) | [Radisher](/neptunia/rb1/monster/1-150-radisher.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-1-150" class="trackbox" /> | 150 | [Base](/neptunia/rb1/dlc/1-base.html) | [Radisher](/neptunia/rb1/monster/1-150-radisher.html) | 15% |
 
 ## Dungeons **White Cat Ears** is found
 
@@ -46,7 +43,6 @@ title: "White Cat Ears (Item) - Hyperdimension Neptunia Re;Birth1"
 | -- | -- | --- | ---- | ---- |
 | <input type="checkbox" id="rb1-dungeon-1-10" class="trackbox" /> | 10 | [Base](/neptunia/rb1/dlc/1-base.html) | [Halo Mountain](/neptunia/rb1/dungeon/1-10-halo-mountain.html) | Monster drop |
 | <input type="checkbox" id="rb1-dungeon-1-11" class="trackbox" /> | 11 | [Base](/neptunia/rb1/dlc/1-base.html) | [Halo Mountain Peak](/neptunia/rb1/dungeon/1-11-halo-mountain-peak.html) | Monster drop |
-
 
 ## Player characters who can equip **White Cat Ears**
 

@@ -24,13 +24,11 @@ title: "Crab Shell (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 1890 |
 | **Max inventory** | 99 |
 
-
 ## Monsters which drop **Crab Shell**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-1-282" class="trackbox" /> | 282 | [Base](/neptunia/rb1/dlc/1-base.html) | [Forest Crab](/neptunia/rb1/monster/1-282-forest-crab.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-1-282" class="trackbox" /> | 282 | [Base](/neptunia/rb1/dlc/1-base.html) | [Forest Crab](/neptunia/rb1/monster/1-282-forest-crab.html) | 55% |
 
 ## Dungeons **Crab Shell** is found
 
@@ -39,10 +37,9 @@ title: "Crab Shell (Item) - Hyperdimension Neptunia Re;Birth1"
 | <input type="checkbox" id="rb1-dungeon-1-106" class="trackbox" /> | 106 | [Base](/neptunia/rb1/dlc/1-base.html) | [Gravidaze Ruins](/neptunia/rb1/dungeon/1-106-gravidaze-ruins.html) | Gathering point |
 | <input type="checkbox" id="rb1-dungeon-1-106" class="trackbox" /> | 106 | [Base](/neptunia/rb1/dlc/1-base.html) | [Gravidaze Ruins](/neptunia/rb1/dungeon/1-106-gravidaze-ruins.html) | Monster drop |
 
-
 ## Remake System plans which require **Crab Shell**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-251" class="trackbox" /> | 251 | [Base](/neptunia/rb1/dlc/1-base.html) | [Add Enemies](/neptunia/rb1/quest/1-251-add-enemies.html) |
-| <input type="checkbox" id="rb1-quest-1-669" class="trackbox" /> | 669 | [Base](/neptunia/rb1/dlc/1-base.html) | [Purple Frame](/neptunia/rb1/quest/1-669-purple-frame.html) |
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-251" class="trackbox" /> | 251 | [Base](/neptunia/rb1/dlc/1-base.html) | [Add Enemies](/neptunia/rb1/remake/1-251-add-enemies.html)<br />→ [Gunbreak Underground Cavern](/neptunia/rb1/dungeon/1-107-gunbreak-underground-cavern.html) (Dungeon) | 1 |
+| <input type="checkbox" id="rb1-remake-1-669" class="trackbox" /> | 669 | [Base](/neptunia/rb1/dlc/1-base.html) | [Purple Frame](/neptunia/rb1/remake/1-669-purple-frame.html)<br />→ [Purple Frame](/neptunia/rb1/item/1-3299-purple-frame.html) (Accessory) | 2 |

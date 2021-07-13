@@ -24,20 +24,17 @@ title: "Plutia L (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 100000 |
 | **Max inventory** | 99 |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 25 | 0 | -15 | 0 | 125 | -15 | 0 | 0 | 0 | 0 | 0 |
 
-
 ## Remake System plans which unlock **Plutia L** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-12-828" class="trackbox" /> | 828 | [Additional Content Package 3](/neptunia/rb1/dlc/12-pack3.html) | [Plutia L](/neptunia/rb1/remake/12-828-plutia-l.html)<br /> → [Plutia L](/neptunia/rb1/item/12-4079-plutia-l.html) (Processor (L)) |
-
+| <input type="checkbox" id="rb1-remake-12-828" class="trackbox" /> | 828 | [Additional Content Package 3](/neptunia/rb1/dlc/12-pack3.html) | [Plutia L](/neptunia/rb1/remake/12-828-plutia-l.html)<br />→ [Plutia L](/neptunia/rb1/item/12-4079-plutia-l.html) (Processor (L)) |
 
 ## Player characters who can equip **Plutia L**
 

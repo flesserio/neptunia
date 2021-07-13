@@ -25,13 +25,11 @@ title: "Metal Dogoo (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Weapon skill** | [Eeei!](/neptunia/rb1/skill/7-202-eeei.html) |
 | **To unlock in shop** | Method 1<br />- View scene [Chapter 7: Not Quite What I Imagined...](/neptunia/rb1/scene/1-701-chapter-7-not-quite-what-i-imagined.html)<br />- View scene [DLC 7 Event 1](/neptunia/rb1/scene/7-5010-dlc-7-event-1.html) |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 507 | 0 | 761 | 0 | 0 | -77 | 0 | 0 | 0 | 0 | 0 |
-
 
 ## Player characters who can equip **Metal Dogoo**
 

@@ -24,20 +24,17 @@ title: "Cardboard S (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 500 |
 | **Max inventory** | 99 |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 0 | 15 | 10 | -15 | 0 | 25 | 0 | -20 | 0 | 0 | 0 |
 
-
 ## Dungeons **Cardboard S** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
-| <input type="checkbox" id="rb1-dungeon-1-101" class="trackbox" /> | 101 | [Base](/neptunia/rb1/dlc/1-base.html) | [Zeca Ruins No.1](/neptunia/rb1/dungeon/1-101-zeca-ruins-no-1.html) | Gathering point |
-
+| <input type="checkbox" id="rb1-dungeon-1-101" class="trackbox" /> | 101 | [Base](/neptunia/rb1/dlc/1-base.html) | [Zeca Ruins No.1](/neptunia/rb1/dungeon/1-101-zeca-ruins-no-1.html) | Hidden treasure |
 
 ## Player characters who can equip **Cardboard S**
 

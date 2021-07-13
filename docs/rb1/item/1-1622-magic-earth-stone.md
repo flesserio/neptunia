@@ -23,16 +23,15 @@ title: "Magic Earth Stone (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 450 |
 | **Max inventory** | 99 |
 
-
 ## Dungeons **Magic Earth Stone** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
 | <input type="checkbox" id="rb1-dungeon-1-16" class="trackbox" /> | 16 | [Base](/neptunia/rb1/dlc/1-base.html) | [Soulsac Cave](/neptunia/rb1/dungeon/1-16-soulsac-cave.html) | Gathering point |
-
+| <input type="checkbox" id="rb1-dungeon-1-16" class="trackbox" /> | 16 | [Base](/neptunia/rb1/dlc/1-base.html) | [Soulsac Cave](/neptunia/rb1/dungeon/1-16-soulsac-cave.html) | Gathering point (Harvest Shift) |
 
 ## Remake System plans which require **Magic Earth Stone**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-590" class="trackbox" /> | 590 | [Base](/neptunia/rb1/dlc/1-base.html) | [Chocolate Ribbon](/neptunia/rb1/quest/1-590-chocolate-ribbon.html) |
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-590" class="trackbox" /> | 590 | [Base](/neptunia/rb1/dlc/1-base.html) | [Chocolate Ribbon](/neptunia/rb1/remake/1-590-chocolate-ribbon.html)<br />→ [Chocolate Ribbon](/neptunia/rb1/item/1-3175-chocolate-ribbon.html) (Accessory) | 2 |

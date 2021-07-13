@@ -23,16 +23,14 @@ title: "Add Dungeon: Yukawa Ruins (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 0 |
 | **Max inventory** | 1 |
 
-
 ## Plans added to Remake System after collecting **Add Dungeon: Yukawa Ruins**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-220" class="trackbox" /> | 220 | [Base](/neptunia/rb1/dlc/1-base.html) | [Add Dungeon](/neptunia/rb1/remake/1-220-add-dungeon.html)<br /> → [Yukawa Ruins](/neptunia/rb1/dungeon/1-116-yukawa-ruins.html) (Dungeon) |
-
+| <input type="checkbox" id="rb1-remake-1-220" class="trackbox" /> | 220 | [Base](/neptunia/rb1/dlc/1-base.html) | [Add Dungeon](/neptunia/rb1/remake/1-220-add-dungeon.html)<br />→ [Yukawa Ruins](/neptunia/rb1/dungeon/1-116-yukawa-ruins.html) (Dungeon) |
 
 ## Dungeons **Add Dungeon: Yukawa Ruins** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
-| <input type="checkbox" id="rb1-dungeon-1-113" class="trackbox" /> | 113 | [Base](/neptunia/rb1/dlc/1-base.html) | [Millenium Labryinth](/neptunia/rb1/dungeon/1-113-millenium-labryinth.html) | Gathering point |
+| <input type="checkbox" id="rb1-dungeon-1-113" class="trackbox" /> | 113 | [Base](/neptunia/rb1/dlc/1-base.html) | [Millenium Labryinth](/neptunia/rb1/dungeon/1-113-millenium-labryinth.html) | Treasure |

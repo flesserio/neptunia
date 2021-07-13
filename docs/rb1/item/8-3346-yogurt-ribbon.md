@@ -23,13 +23,11 @@ title: "Yogurt Ribbon (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 125000 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Yogurt Ribbon** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-8-700" class="trackbox" /> | 700 | [[Peashy] Battle Entry License](/neptunia/rb1/dlc/8-peashy.html) | [Yogurt Ribbon](/neptunia/rb1/remake/8-700-yogurt-ribbon.html)<br /> → [Yogurt Ribbon](/neptunia/rb1/item/8-3346-yogurt-ribbon.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-8-700" class="trackbox" /> | 700 | [[Peashy] Battle Entry License](/neptunia/rb1/dlc/8-peashy.html) | [Yogurt Ribbon](/neptunia/rb1/remake/8-700-yogurt-ribbon.html)<br />→ [Yogurt Ribbon](/neptunia/rb1/item/8-3346-yogurt-ribbon.html) (Accessory) |
 
 ## Player characters who can equip **Yogurt Ribbon**
 

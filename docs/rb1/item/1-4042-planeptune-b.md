@@ -24,20 +24,17 @@ title: "Planeptune B (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 1000 |
 | **Max inventory** | 99 |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 0 | -20 | 0 | 135 | -20 | 60 | 35 | 0 | 0 | 0 | 0 |
 
-
 ## Colosseum quests which reward **Planeptune B**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
 | <input type="checkbox" id="rb1-colosseum-1-2021" class="trackbox" /> | 2021 | [Base](/neptunia/rb1/dlc/1-base.html) | [Moving Mountain](/neptunia/rb1/colosseum/1-2021-moving-mountain.html) |
-
 
 ## Player characters who can equip **Planeptune B**
 

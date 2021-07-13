@@ -25,20 +25,17 @@ title: "Nep Bull C (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **Tool skill** | [Nep Bull C](/neptunia/rb1/skill/1-10006-nep-bull-c.html) |
 
-
 ## Remake System plans which unlock **Nep Bull C** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-319" class="trackbox" /> | 319 | [Base](/neptunia/rb1/dlc/1-base.html) | [Nep Bull C](/neptunia/rb1/remake/1-319-nep-bull-c.html)<br /> → [Nep Bull C](/neptunia/rb1/item/1-6-nep-bull-c.html) (Tool) |
-
+| <input type="checkbox" id="rb1-remake-1-319" class="trackbox" /> | 319 | [Base](/neptunia/rb1/dlc/1-base.html) | [Nep Bull C](/neptunia/rb1/remake/1-319-nep-bull-c.html)<br />→ [Nep Bull C](/neptunia/rb1/item/1-6-nep-bull-c.html) (Tool) |
 
 ## Colosseum quests which reward **Nep Bull C**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
 | <input type="checkbox" id="rb1-colosseum-1-2000" class="trackbox" /> | 2000 | [Base](/neptunia/rb1/dlc/1-base.html) | [Many Dogoos](/neptunia/rb1/colosseum/1-2000-many-dogoos.html) |
-
 
 ## Quests which reward **Nep Bull C**
 

@@ -23,13 +23,11 @@ title: "Pink Butterfly (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 1500 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Pink Butterfly** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-814" class="trackbox" /> | 814 | [Base](/neptunia/rb1/dlc/1-base.html) | [Pink Butterfly](/neptunia/rb1/remake/1-814-pink-butterfly.html)<br /> → [Pink Butterfly](/neptunia/rb1/item/1-3516-pink-butterfly.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-814" class="trackbox" /> | 814 | [Base](/neptunia/rb1/dlc/1-base.html) | [Pink Butterfly](/neptunia/rb1/remake/1-814-pink-butterfly.html)<br />→ [Pink Butterfly](/neptunia/rb1/item/1-3516-pink-butterfly.html) (Accessory) |
 
 ## Player characters who can equip **Pink Butterfly**
 

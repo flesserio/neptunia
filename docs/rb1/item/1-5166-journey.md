@@ -24,26 +24,23 @@ title: "Journey (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 10 |
 | **Max inventory** | 99 |
 | **Idea Chip level** | 4 |
-| **Idea Chip ability** | [Gained Credits Up Lv.4](/neptunia/rb1/avatar/1-9665-gained-credits-up-lv-4.html)<br />Increases Gained Credits by 40% |
-
+| **Idea Chip ability** | [Gained Credits Up Lv.4](/neptunia/rb1/ability/1-9665-gained-credits-up-lv-4.html)<br />Increases Gained Credits by 40% |
 
 ## Monsters which drop **Journey**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-1-148" class="trackbox" /> | 148 | [Base](/neptunia/rb1/dlc/1-base.html) | [Land Whale](/neptunia/rb1/monster/1-148-land-whale.html) |
-| <input type="checkbox" id="rb1-monster-1-1028" class="trackbox" /> | 1028 | [Base](/neptunia/rb1/dlc/1-base.html) | [Arfoire](/neptunia/rb1/monster/1-1028-arfoire.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-1-148" class="trackbox" /> | 148 | [Base](/neptunia/rb1/dlc/1-base.html) | [Land Whale](/neptunia/rb1/monster/1-148-land-whale.html) | 60% |
+| <input type="checkbox" id="rb1-monster-1-1028" class="trackbox" /> | 1028 | [Base](/neptunia/rb1/dlc/1-base.html) | [Arfoire](/neptunia/rb1/monster/1-1028-arfoire.html) | 100% |
 
 ## Dungeons **Journey** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
-| <input type="checkbox" id="rb1-dungeon-1-18" class="trackbox" /> | 18 | [Base](/neptunia/rb1/dlc/1-base.html) | [Neo-Geofront](/neptunia/rb1/dungeon/1-18-neo-geofront.html) | Gathering point |
-| <input type="checkbox" id="rb1-dungeon-1-121" class="trackbox" /> | 121 | [Base](/neptunia/rb1/dlc/1-base.html) | [Dees Snow Forest](/neptunia/rb1/dungeon/1-121-dees-snow-forest.html) | Gathering point |
-| <input type="checkbox" id="rb1-dungeon-10-127" class="trackbox" /> | 127 | [Additional Content Package 1](/neptunia/rb1/dlc/10-pack1.html) | [Noma Cave](/neptunia/rb1/dungeon/10-127-noma-cave.html) | Gathering point |
 | <input type="checkbox" id="rb1-dungeon-1-9" class="trackbox" /> | 9 | [Base](/neptunia/rb1/dlc/1-base.html) | [Marubaco Forest](/neptunia/rb1/dungeon/1-9-marubaco-forest.html) | Monster drop |
-
+| <input type="checkbox" id="rb1-dungeon-1-18" class="trackbox" /> | 18 | [Base](/neptunia/rb1/dlc/1-base.html) | [Neo-Geofront](/neptunia/rb1/dungeon/1-18-neo-geofront.html) | Hidden treasure |
+| <input type="checkbox" id="rb1-dungeon-1-121" class="trackbox" /> | 121 | [Base](/neptunia/rb1/dlc/1-base.html) | [Dees Snow Forest](/neptunia/rb1/dungeon/1-121-dees-snow-forest.html) | Gathering point (Harvest Shift) |
+| <input type="checkbox" id="rb1-dungeon-10-127" class="trackbox" /> | 127 | [Additional Content Package 1](/neptunia/rb1/dlc/10-pack1.html) | [Noma Cave](/neptunia/rb1/dungeon/10-127-noma-cave.html) | Gathering point (Harvest Shift) |
 
 ## Colosseum quests which reward **Journey**
 

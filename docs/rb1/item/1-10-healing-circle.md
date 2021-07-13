@@ -25,20 +25,17 @@ title: "Healing Circle (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **Tool skill** | [Healing Circle](/neptunia/rb1/skill/1-10010-healing-circle.html) |
 
-
 ## Remake System plans which unlock **Healing Circle** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-323" class="trackbox" /> | 323 | [Base](/neptunia/rb1/dlc/1-base.html) | [Healing Circle](/neptunia/rb1/remake/1-323-healing-circle.html)<br /> → [Healing Circle](/neptunia/rb1/item/1-10-healing-circle.html) (Tool) |
-
+| <input type="checkbox" id="rb1-remake-1-323" class="trackbox" /> | 323 | [Base](/neptunia/rb1/dlc/1-base.html) | [Healing Circle](/neptunia/rb1/remake/1-323-healing-circle.html)<br />→ [Healing Circle](/neptunia/rb1/item/1-10-healing-circle.html) (Tool) |
 
 ## Dungeons **Healing Circle** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
-| <input type="checkbox" id="rb1-dungeon-1-11" class="trackbox" /> | 11 | [Base](/neptunia/rb1/dlc/1-base.html) | [Halo Mountain Peak](/neptunia/rb1/dungeon/1-11-halo-mountain-peak.html) | Gathering point |
-
+| <input type="checkbox" id="rb1-dungeon-1-11" class="trackbox" /> | 11 | [Base](/neptunia/rb1/dlc/1-base.html) | [Halo Mountain Peak](/neptunia/rb1/dungeon/1-11-halo-mountain-peak.html) | Hidden treasure |
 
 ## Quests which reward **Healing Circle**
 

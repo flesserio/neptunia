@@ -25,20 +25,17 @@ title: "Taurus Rod (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **Weapon skill** | [Impulse](/neptunia/rb1/skill/1-2802-impulse.html) |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 500 | 0 | 1500 | 1740 | 0 | 3000 | 270 | 0 | 270 | 0 | 0 | 0 | 0 | 0 |
 
-
 ## Colosseum quests which reward **Taurus Rod**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
 | <input type="checkbox" id="rb1-colosseum-1-2020" class="trackbox" /> | 2020 | [Base](/neptunia/rb1/dlc/1-base.html) | [Lone Fang](/neptunia/rb1/colosseum/1-2020-lone-fang.html) |
-
 
 ## Player characters who can equip **Taurus Rod**
 

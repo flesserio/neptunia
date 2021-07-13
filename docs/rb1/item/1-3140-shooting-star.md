@@ -24,22 +24,19 @@ title: "Shooting Star (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 500 |
 | **Max inventory** | 99 |
 
-
 ## Quests which reward **Shooting Star**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
 | <input type="checkbox" id="rb1-quest-1-504" class="trackbox" /> | 504 | [Base](/neptunia/rb1/dlc/1-base.html) | [Girl who loves tanks, Part 2](/neptunia/rb1/quest/1-504-girl-who-loves-tanks-part-2.html) |
 
-
 ## Remake System plans which require **Shooting Star**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-569" class="trackbox" /> | 569 | [Base](/neptunia/rb1/dlc/1-base.html) | [Lucky Star](/neptunia/rb1/quest/1-569-lucky-star.html) |
-| <input type="checkbox" id="rb1-quest-1-570" class="trackbox" /> | 570 | [Base](/neptunia/rb1/dlc/1-base.html) | [Neon Star](/neptunia/rb1/quest/1-570-neon-star.html) |
-| <input type="checkbox" id="rb1-quest-1-571" class="trackbox" /> | 571 | [Base](/neptunia/rb1/dlc/1-base.html) | [Smile Star](/neptunia/rb1/quest/1-571-smile-star.html) |
-
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-569" class="trackbox" /> | 569 | [Base](/neptunia/rb1/dlc/1-base.html) | [Lucky Star](/neptunia/rb1/remake/1-569-lucky-star.html)<br />→ [Lucky Star](/neptunia/rb1/item/1-3141-lucky-star.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-1-570" class="trackbox" /> | 570 | [Base](/neptunia/rb1/dlc/1-base.html) | [Neon Star](/neptunia/rb1/remake/1-570-neon-star.html)<br />→ [Neon Star](/neptunia/rb1/item/1-3142-neon-star.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-1-571" class="trackbox" /> | 571 | [Base](/neptunia/rb1/dlc/1-base.html) | [Smile Star](/neptunia/rb1/remake/1-571-smile-star.html)<br />→ [Smile Star](/neptunia/rb1/item/1-3143-smile-star.html) (Accessory) | 1 |
 
 ## Player characters who can equip **Shooting Star**
 

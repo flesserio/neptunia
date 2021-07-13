@@ -23,7 +23,6 @@ title: "Hibari (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **To unlock in shop** | Method 1<br />- View scene [Chapter 6: 128th Where's Histy Summit](/neptunia/rb1/scene/1-601-chapter-6-128th-wheres-histy-summit.html) |
 
-
 ## Player characters who can equip **Hibari**
 
 |    | ID | DLC | Name |

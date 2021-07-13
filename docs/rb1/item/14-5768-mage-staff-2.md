@@ -24,13 +24,11 @@ title: "Mage Staff+2 (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **Weapon skill** | [Shine](/neptunia/rb1/skill/1-2801-shine.html) |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 60 | 0 | 260 | 308 | 0 | 560 | 14 | 0 | 14 | 0 | 0 | 0 | 0 | 0 |
-
 
 ## Player characters who can equip **Mage Staff+2**
 

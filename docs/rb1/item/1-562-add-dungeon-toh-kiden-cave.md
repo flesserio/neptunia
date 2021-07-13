@@ -23,16 +23,14 @@ title: "Add Dungeon: Toh-Kiden Cave (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 0 |
 | **Max inventory** | 1 |
 
-
 ## Plans added to Remake System after collecting **Add Dungeon: Toh-Kiden Cave**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-212" class="trackbox" /> | 212 | [Base](/neptunia/rb1/dlc/1-base.html) | [Add Dungeon](/neptunia/rb1/remake/1-212-add-dungeon.html)<br /> → [Toh-Kiden Cave](/neptunia/rb1/dungeon/1-104-toh-kiden-cave.html) (Dungeon) |
-
+| <input type="checkbox" id="rb1-remake-1-212" class="trackbox" /> | 212 | [Base](/neptunia/rb1/dlc/1-base.html) | [Add Dungeon](/neptunia/rb1/remake/1-212-add-dungeon.html)<br />→ [Toh-Kiden Cave](/neptunia/rb1/dungeon/1-104-toh-kiden-cave.html) (Dungeon) |
 
 ## Dungeons **Add Dungeon: Toh-Kiden Cave** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
-| <input type="checkbox" id="rb1-dungeon-1-103" class="trackbox" /> | 103 | [Base](/neptunia/rb1/dlc/1-base.html) | [Ortan Fields](/neptunia/rb1/dungeon/1-103-ortan-fields.html) | Gathering point |
+| <input type="checkbox" id="rb1-dungeon-1-103" class="trackbox" /> | 103 | [Base](/neptunia/rb1/dlc/1-base.html) | [Ortan Fields](/neptunia/rb1/dungeon/1-103-ortan-fields.html) | Treasure |

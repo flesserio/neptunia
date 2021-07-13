@@ -22,7 +22,6 @@ title: "Large Medal W (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 0 |
 | **Max inventory** | 1 |
 
-
 ## Quests which reward **Large Medal W**
 
 |    | ID | DLC | Name |

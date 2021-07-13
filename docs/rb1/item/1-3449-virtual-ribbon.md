@@ -23,13 +23,11 @@ title: "Virtual Ribbon (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 1500 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Virtual Ribbon** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-769" class="trackbox" /> | 769 | [Base](/neptunia/rb1/dlc/1-base.html) | [Virtual Ribbon](/neptunia/rb1/remake/1-769-virtual-ribbon.html)<br /> → [Virtual Ribbon](/neptunia/rb1/item/1-3449-virtual-ribbon.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-769" class="trackbox" /> | 769 | [Base](/neptunia/rb1/dlc/1-base.html) | [Virtual Ribbon](/neptunia/rb1/remake/1-769-virtual-ribbon.html)<br />→ [Virtual Ribbon](/neptunia/rb1/item/1-3449-virtual-ribbon.html) (Accessory) |
 
 ## Player characters who can equip **Virtual Ribbon**
 

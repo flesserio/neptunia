@@ -24,13 +24,11 @@ title: "Bone Fragment (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 52 |
 | **Max inventory** | 99 |
 
-
 ## Monsters which drop **Bone Fragment**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-1-303" class="trackbox" /> | 303 | [Base](/neptunia/rb1/dlc/1-base.html) | [Skeleton](/neptunia/rb1/monster/1-303-skeleton.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-1-303" class="trackbox" /> | 303 | [Base](/neptunia/rb1/dlc/1-base.html) | [Skeleton](/neptunia/rb1/monster/1-303-skeleton.html) | 40% |
 
 ## Dungeons **Bone Fragment** is found
 
@@ -39,11 +37,10 @@ title: "Bone Fragment (Item) - Hyperdimension Neptunia Re;Birth1"
 | <input type="checkbox" id="rb1-dungeon-1-110" class="trackbox" /> | 110 | [Base](/neptunia/rb1/dlc/1-base.html) | [Donkong Ruins](/neptunia/rb1/dungeon/1-110-donkong-ruins.html) | Gathering point |
 | <input type="checkbox" id="rb1-dungeon-1-110" class="trackbox" /> | 110 | [Base](/neptunia/rb1/dlc/1-base.html) | [Donkong Ruins](/neptunia/rb1/dungeon/1-110-donkong-ruins.html) | Monster drop |
 
-
 ## Remake System plans which require **Bone Fragment**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-217" class="trackbox" /> | 217 | [Base](/neptunia/rb1/dlc/1-base.html) | [Add Dungeon](/neptunia/rb1/quest/1-217-add-dungeon.html) |
-| <input type="checkbox" id="rb1-quest-1-330" class="trackbox" /> | 330 | [Base](/neptunia/rb1/dlc/1-base.html) | [Hero Drink C](/neptunia/rb1/quest/1-330-hero-drink-c.html) |
-| <input type="checkbox" id="rb1-quest-1-375" class="trackbox" /> | 375 | [Base](/neptunia/rb1/dlc/1-base.html) | [Partisan](/neptunia/rb1/quest/1-375-partisan.html) |
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-217" class="trackbox" /> | 217 | [Base](/neptunia/rb1/dlc/1-base.html) | [Add Dungeon](/neptunia/rb1/remake/1-217-add-dungeon.html)<br />→ [Naasne Volcano](/neptunia/rb1/dungeon/1-112-naasne-volcano.html) (Dungeon) | 2 |
+| <input type="checkbox" id="rb1-remake-1-330" class="trackbox" /> | 330 | [Base](/neptunia/rb1/dlc/1-base.html) | [Hero Drink C](/neptunia/rb1/remake/1-330-hero-drink-c.html)<br />→ [Hero Drink C](/neptunia/rb1/item/1-18-hero-drink-c.html) (Tool) | 3 |
+| <input type="checkbox" id="rb1-remake-1-375" class="trackbox" /> | 375 | [Base](/neptunia/rb1/dlc/1-base.html) | [Partisan](/neptunia/rb1/remake/1-375-partisan.html)<br />→ [Partisan](/neptunia/rb1/item/1-2107-partisan.html) (Spear (Vert)) | 2 |

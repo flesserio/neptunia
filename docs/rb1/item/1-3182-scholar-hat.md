@@ -23,13 +23,11 @@ title: "Scholar Hat (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 3750 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Scholar Hat** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-593" class="trackbox" /> | 593 | [Base](/neptunia/rb1/dlc/1-base.html) | [Scholar Hat](/neptunia/rb1/remake/1-593-scholar-hat.html)<br /> → [Scholar Hat](/neptunia/rb1/item/1-3182-scholar-hat.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-593" class="trackbox" /> | 593 | [Base](/neptunia/rb1/dlc/1-base.html) | [Scholar Hat](/neptunia/rb1/remake/1-593-scholar-hat.html)<br />→ [Scholar Hat](/neptunia/rb1/item/1-3182-scholar-hat.html) (Accessory) |
 
 ## Player characters who can equip **Scholar Hat**
 

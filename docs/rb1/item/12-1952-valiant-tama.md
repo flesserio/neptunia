@@ -24,13 +24,11 @@ title: "Valiant Tama (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 10000 |
 | **Max inventory** | 99 |
 
-
 ## Monsters which drop **Valiant Tama**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-12-402" class="trackbox" /> | 402 | [Additional Content Package 3](/neptunia/rb1/dlc/12-pack3.html) | [True Legacy](/neptunia/rb1/monster/12-402-true-legacy.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-12-402" class="trackbox" /> | 402 | [Additional Content Package 3](/neptunia/rb1/dlc/12-pack3.html) | [True Legacy](/neptunia/rb1/monster/12-402-true-legacy.html) | 60% |
 
 ## Dungeons **Valiant Tama** is found
 
@@ -38,9 +36,8 @@ title: "Valiant Tama (Item) - Hyperdimension Neptunia Re;Birth1"
 | -- | -- | --- | ---- | ---- |
 | <input type="checkbox" id="rb1-dungeon-12-125" class="trackbox" /> | 125 | [Additional Content Package 3](/neptunia/rb1/dlc/12-pack3.html) | [Haneda Forest](/neptunia/rb1/dungeon/12-125-haneda-forest.html) | Monster drop |
 
-
 ## Remake System plans which require **Valiant Tama**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-12-823" class="trackbox" /> | 823 | [Additional Content Package 3](/neptunia/rb1/dlc/12-pack3.html) | [Plutia C](/neptunia/rb1/quest/12-823-plutia-c.html) |
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-12-823" class="trackbox" /> | 823 | [Additional Content Package 3](/neptunia/rb1/dlc/12-pack3.html) | [Plutia C](/neptunia/rb1/remake/12-823-plutia-c.html)<br />→ [Plutia C](/neptunia/rb1/item/12-4074-plutia-c.html) (Processor (C)) | 1 |

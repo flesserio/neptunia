@@ -23,16 +23,14 @@ title: "Plan: Brisk Qatar (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 0 |
 | **Max inventory** | 1 |
 
-
 ## Plans added to Remake System after collecting **Plan: Brisk Qatar**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-363" class="trackbox" /> | 363 | [Base](/neptunia/rb1/dlc/1-base.html) | [Brisk Qatar](/neptunia/rb1/remake/1-363-brisk-qatar.html)<br /> → [Brisk Qatar](/neptunia/rb1/item/1-2302-brisk-qatar.html) (Qatar (IF)) |
-
+| <input type="checkbox" id="rb1-remake-1-363" class="trackbox" /> | 363 | [Base](/neptunia/rb1/dlc/1-base.html) | [Brisk Qatar](/neptunia/rb1/remake/1-363-brisk-qatar.html)<br />→ [Brisk Qatar](/neptunia/rb1/item/1-2302-brisk-qatar.html) (Qatar (IF)) |
 
 ## Dungeons **Plan: Brisk Qatar** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
-| <input type="checkbox" id="rb1-dungeon-1-104" class="trackbox" /> | 104 | [Base](/neptunia/rb1/dlc/1-base.html) | [Toh-Kiden Cave](/neptunia/rb1/dungeon/1-104-toh-kiden-cave.html) | Gathering point |
+| <input type="checkbox" id="rb1-dungeon-1-104" class="trackbox" /> | 104 | [Base](/neptunia/rb1/dlc/1-base.html) | [Toh-Kiden Cave](/neptunia/rb1/dungeon/1-104-toh-kiden-cave.html) | Treasure |

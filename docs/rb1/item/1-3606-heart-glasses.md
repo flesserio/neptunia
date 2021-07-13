@@ -25,27 +25,23 @@ title: "Heart Glasses (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 500 |
 | **Max inventory** | 99 |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 0 | 0 | 15 | 0 | 0 | 0 | 0 | 10 | 0 | 0 | 0 |
 
-
 ## Monsters which drop **Heart Glasses**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-1-383" class="trackbox" /> | 383 | [Base](/neptunia/rb1/dlc/1-base.html) | [Mega Turtle](/neptunia/rb1/monster/1-383-mega-turtle.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-1-383" class="trackbox" /> | 383 | [Base](/neptunia/rb1/dlc/1-base.html) | [Mega Turtle](/neptunia/rb1/monster/1-383-mega-turtle.html) | 75% |
 
 ## Dungeons **Heart Glasses** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
 | <input type="checkbox" id="rb1-dungeon-1-121" class="trackbox" /> | 121 | [Base](/neptunia/rb1/dlc/1-base.html) | [Dees Snow Forest](/neptunia/rb1/dungeon/1-121-dees-snow-forest.html) | Monster drop |
-
 
 ## Player characters who can equip **Heart Glasses**
 

@@ -23,13 +23,11 @@ title: "Schwarz Krone (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 2500 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Schwarz Krone** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-740" class="trackbox" /> | 740 | [Base](/neptunia/rb1/dlc/1-base.html) | [Schwarz Krone](/neptunia/rb1/remake/1-740-schwarz-krone.html)<br /> → [Schwarz Krone](/neptunia/rb1/item/1-3403-schwarz-krone.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-740" class="trackbox" /> | 740 | [Base](/neptunia/rb1/dlc/1-base.html) | [Schwarz Krone](/neptunia/rb1/remake/1-740-schwarz-krone.html)<br />→ [Schwarz Krone](/neptunia/rb1/item/1-3403-schwarz-krone.html) (Accessory) |
 
 ## Player characters who can equip **Schwarz Krone**
 

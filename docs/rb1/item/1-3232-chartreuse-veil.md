@@ -23,13 +23,11 @@ title: "Chartreuse Veil (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 2500 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Chartreuse Veil** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-623" class="trackbox" /> | 623 | [Base](/neptunia/rb1/dlc/1-base.html) | [Chartreuse Veil](/neptunia/rb1/remake/1-623-chartreuse-veil.html)<br /> → [Chartreuse Veil](/neptunia/rb1/item/1-3232-chartreuse-veil.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-623" class="trackbox" /> | 623 | [Base](/neptunia/rb1/dlc/1-base.html) | [Chartreuse Veil](/neptunia/rb1/remake/1-623-chartreuse-veil.html)<br />→ [Chartreuse Veil](/neptunia/rb1/item/1-3232-chartreuse-veil.html) (Accessory) |
 
 ## Player characters who can equip **Chartreuse Veil**
 

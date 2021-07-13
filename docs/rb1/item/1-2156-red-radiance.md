@@ -25,13 +25,11 @@ title: "Red Radiance (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Weapon skill** | [Shotgun](/neptunia/rb1/skill/1-1403-shotgun.html) |
 | **To unlock in shop** | Method 1<br />- Have Uni unlocked. |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 1300 | 0 | 1170 | 0 | 0 | 65 | 0 | 0 | 0 | 0 | 0 |
-
 
 ## Player characters who can equip **Red Radiance**
 

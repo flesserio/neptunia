@@ -25,14 +25,12 @@ title: "Crystal Skull (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 21 |
 | **Max inventory** | 99 |
 
-
 ## Monsters which drop **Crystal Skull**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-1-277" class="trackbox" /> | 277 | [Base](/neptunia/rb1/dlc/1-base.html) | [Crystal Golem](/neptunia/rb1/monster/1-277-crystal-golem.html) |
-| <input type="checkbox" id="rb1-monster-1-278" class="trackbox" /> | 278 | [Base](/neptunia/rb1/dlc/1-base.html) | [Viral Crystal Golem](/neptunia/rb1/monster/1-278-viral-crystal-golem.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-1-277" class="trackbox" /> | 277 | [Base](/neptunia/rb1/dlc/1-base.html) | [Crystal Golem](/neptunia/rb1/monster/1-277-crystal-golem.html) | 45% |
+| <input type="checkbox" id="rb1-monster-1-278" class="trackbox" /> | 278 | [Base](/neptunia/rb1/dlc/1-base.html) | [Viral Crystal Golem](/neptunia/rb1/monster/1-278-viral-crystal-golem.html) | 80% |
 
 ## Dungeons **Crystal Skull** is found
 
@@ -41,17 +39,15 @@ title: "Crystal Skull (Item) - Hyperdimension Neptunia Re;Birth1"
 | <input type="checkbox" id="rb1-dungeon-1-106" class="trackbox" /> | 106 | [Base](/neptunia/rb1/dlc/1-base.html) | [Gravidaze Ruins](/neptunia/rb1/dungeon/1-106-gravidaze-ruins.html) | Gathering point |
 | <input type="checkbox" id="rb1-dungeon-1-106" class="trackbox" /> | 106 | [Base](/neptunia/rb1/dlc/1-base.html) | [Gravidaze Ruins](/neptunia/rb1/dungeon/1-106-gravidaze-ruins.html) | Monster drop |
 
-
 ## Quests which require gathering **Crystal Skull**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
 | <input type="checkbox" id="rb1-quest-1-222" class="trackbox" /> | 222 | [Base](/neptunia/rb1/dlc/1-base.html) | [Where's my crystal ball?](/neptunia/rb1/quest/1-222-wheres-my-crystal-ball.html) |
 
-
 ## Remake System plans which require **Crystal Skull**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-214" class="trackbox" /> | 214 | [Base](/neptunia/rb1/dlc/1-base.html) | [Add Dungeon](/neptunia/rb1/quest/1-214-add-dungeon.html) |
-| <input type="checkbox" id="rb1-quest-1-585" class="trackbox" /> | 585 | [Base](/neptunia/rb1/dlc/1-base.html) | [Princess Blue](/neptunia/rb1/quest/1-585-princess-blue.html) |
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-214" class="trackbox" /> | 214 | [Base](/neptunia/rb1/dlc/1-base.html) | [Add Dungeon](/neptunia/rb1/remake/1-214-add-dungeon.html)<br />→ [Gunbreak Underground Cavern](/neptunia/rb1/dungeon/1-107-gunbreak-underground-cavern.html) (Dungeon) | 2 |
+| <input type="checkbox" id="rb1-remake-1-585" class="trackbox" /> | 585 | [Base](/neptunia/rb1/dlc/1-base.html) | [Princess Blue](/neptunia/rb1/remake/1-585-princess-blue.html)<br />→ [Princess Blue](/neptunia/rb1/item/1-3157-princess-blue.html) (Accessory) | 2 |

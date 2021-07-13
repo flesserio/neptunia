@@ -25,20 +25,17 @@ title: "Wood Staff (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **Weapon skill** | [Impulse](/neptunia/rb1/skill/1-2802-impulse.html) |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 373 | 0 | 442 | 0 | 0 | 0 | 50 | 0 | 0 | 0 | 0 |
 
-
 ## Dungeons **Wood Staff** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
-| <input type="checkbox" id="rb1-dungeon-1-16" class="trackbox" /> | 16 | [Base](/neptunia/rb1/dlc/1-base.html) | [Soulsac Cave](/neptunia/rb1/dungeon/1-16-soulsac-cave.html) | Gathering point |
-
+| <input type="checkbox" id="rb1-dungeon-1-16" class="trackbox" /> | 16 | [Base](/neptunia/rb1/dlc/1-base.html) | [Soulsac Cave](/neptunia/rb1/dungeon/1-16-soulsac-cave.html) | Treasure |
 
 ## Player characters who can equip **Wood Staff**
 

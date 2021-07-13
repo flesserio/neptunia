@@ -25,20 +25,17 @@ title: "Short Sword (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **Weapon skill** | [Slash](/neptunia/rb1/skill/1-402-slash.html) |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 104 | 0 | 104 | 0 | 0 | 0 | -8 | 0 | 0 | 0 | 0 |
 
-
 ## Player characters who have **Short Sword** equipped by default
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
 | <input type="checkbox" id="rb1-player-1-3" class="trackbox" /> | 3 | [Base](/neptunia/rb1/dlc/1-base.html) | [Noire](/neptunia/rb1/player/1-3-noire.html) |
-
 
 ## Player characters who can equip **Short Sword**
 

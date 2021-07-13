@@ -23,13 +23,11 @@ title: "Purple Shades (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 500 |
 | **Max inventory** | 99 |
 
-
 ## Quests which reward **Purple Shades**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
 | <input type="checkbox" id="rb1-quest-1-805" class="trackbox" /> | 805 | [Base](/neptunia/rb1/dlc/1-base.html) | [A genius request](/neptunia/rb1/quest/1-805-a-genius-request.html) |
-
 
 ## Player characters who can equip **Purple Shades**
 

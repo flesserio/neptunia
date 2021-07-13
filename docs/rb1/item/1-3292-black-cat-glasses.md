@@ -23,13 +23,11 @@ title: "Black Cat Glasses (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 5000 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Black Cat Glasses** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-662" class="trackbox" /> | 662 | [Base](/neptunia/rb1/dlc/1-base.html) | [Black Cat Glasses](/neptunia/rb1/remake/1-662-black-cat-glasses.html)<br /> → [Black Cat Glasses](/neptunia/rb1/item/1-3292-black-cat-glasses.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-662" class="trackbox" /> | 662 | [Base](/neptunia/rb1/dlc/1-base.html) | [Black Cat Glasses](/neptunia/rb1/remake/1-662-black-cat-glasses.html)<br />→ [Black Cat Glasses](/neptunia/rb1/item/1-3292-black-cat-glasses.html) (Accessory) |
 
 ## Player characters who can equip **Black Cat Glasses**
 

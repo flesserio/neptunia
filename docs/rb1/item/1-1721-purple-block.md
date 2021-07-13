@@ -24,15 +24,13 @@ title: "Purple Block (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 8 |
 | **Max inventory** | 99 |
 
-
 ## Monsters which drop **Purple Block**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-21-8052" class="trackbox" /> | 8052 | [Additional Content Pack 12](/neptunia/rb1/dlc/21-pack12.html) | [Terits](/neptunia/rb1/monster/21-8052-terits.html) |
-| <input type="checkbox" id="rb1-monster-1-120" class="trackbox" /> | 120 | [Base](/neptunia/rb1/dlc/1-base.html) | [Terits](/neptunia/rb1/monster/1-120-terits.html) |
-| <input type="checkbox" id="rb1-monster-16-1066" class="trackbox" /> | 1066 | [Additional Content Pack 7](/neptunia/rb1/dlc/16-pack7.html) | [Terits](/neptunia/rb1/monster/16-1066-terits.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-21-8052" class="trackbox" /> | 8052 | [Additional Content Pack 12](/neptunia/rb1/dlc/21-pack12.html) | [Terits](/neptunia/rb1/monster/21-8052-terits.html) | 40% |
+| <input type="checkbox" id="rb1-monster-1-120" class="trackbox" /> | 120 | [Base](/neptunia/rb1/dlc/1-base.html) | [Terits](/neptunia/rb1/monster/1-120-terits.html) | 40% |
+| <input type="checkbox" id="rb1-monster-16-1066" class="trackbox" /> | 1066 | [Additional Content Pack 7](/neptunia/rb1/dlc/16-pack7.html) | [Terits](/neptunia/rb1/monster/16-1066-terits.html) | 40% |
 
 ## Dungeons **Purple Block** is found
 
@@ -43,9 +41,8 @@ title: "Purple Block (Item) - Hyperdimension Neptunia Re;Birth1"
 | <input type="checkbox" id="rb1-dungeon-16-130" class="trackbox" /> | 130 | [Additional Content Pack 7](/neptunia/rb1/dlc/16-pack7.html) | [Ario Plateau](/neptunia/rb1/dungeon/16-130-ario-plateau.html) | Monster drop |
 | <input type="checkbox" id="rb1-dungeon-21-303" class="trackbox" /> | 303 | [Additional Content Pack 12](/neptunia/rb1/dlc/21-pack12.html) | [Lili Dungeon](/neptunia/rb1/dungeon/21-303-lili-dungeon.html) | Monster drop |
 
-
 ## Remake System plans which require **Purple Block**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-669" class="trackbox" /> | 669 | [Base](/neptunia/rb1/dlc/1-base.html) | [Purple Frame](/neptunia/rb1/quest/1-669-purple-frame.html) |
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-669" class="trackbox" /> | 669 | [Base](/neptunia/rb1/dlc/1-base.html) | [Purple Frame](/neptunia/rb1/remake/1-669-purple-frame.html)<br />→ [Purple Frame](/neptunia/rb1/item/1-3299-purple-frame.html) (Accessory) | 1 |

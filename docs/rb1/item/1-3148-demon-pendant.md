@@ -24,15 +24,13 @@ title: "Demon Pendant (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **To unlock in shop** | Method 1<br />- View scene [Chapter 5: Reunion](/neptunia/rb1/scene/1-503-chapter-5-reunion.html) |
 
-
 ## Remake System plans which require **Demon Pendant**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-575" class="trackbox" /> | 575 | [Base](/neptunia/rb1/dlc/1-base.html) | [Rose Devil](/neptunia/rb1/quest/1-575-rose-devil.html) |
-| <input type="checkbox" id="rb1-quest-1-576" class="trackbox" /> | 576 | [Base](/neptunia/rb1/dlc/1-base.html) | [Sweet Devil](/neptunia/rb1/quest/1-576-sweet-devil.html) |
-| <input type="checkbox" id="rb1-quest-1-577" class="trackbox" /> | 577 | [Base](/neptunia/rb1/dlc/1-base.html) | [Blue Devil](/neptunia/rb1/quest/1-577-blue-devil.html) |
-
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-575" class="trackbox" /> | 575 | [Base](/neptunia/rb1/dlc/1-base.html) | [Rose Devil](/neptunia/rb1/remake/1-575-rose-devil.html)<br />→ [Rose Devil](/neptunia/rb1/item/1-3149-rose-devil.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-1-576" class="trackbox" /> | 576 | [Base](/neptunia/rb1/dlc/1-base.html) | [Sweet Devil](/neptunia/rb1/remake/1-576-sweet-devil.html)<br />→ [Sweet Devil](/neptunia/rb1/item/1-3150-sweet-devil.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-1-577" class="trackbox" /> | 577 | [Base](/neptunia/rb1/dlc/1-base.html) | [Blue Devil](/neptunia/rb1/remake/1-577-blue-devil.html)<br />→ [Blue Devil](/neptunia/rb1/item/1-3151-blue-devil.html) (Accessory) | 1 |
 
 ## Player characters who can equip **Demon Pendant**
 

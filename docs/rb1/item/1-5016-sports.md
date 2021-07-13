@@ -22,13 +22,12 @@ title: "Sports (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 10 |
 | **Max inventory** | 99 |
 | **Idea Chip level** | 1 |
-| **Idea Chip ability** | [Critical Rate + Lv.1](/neptunia/rb1/avatar/1-9515-critical-rate-lv-1.html)<br />Increases Critical Rate by 5% |
-
+| **Idea Chip ability** | [Critical Rate + Lv.1](/neptunia/rb1/ability/1-9515-critical-rate-lv-1.html)<br />Increases Critical Rate by 5% |
 
 ## Dungeons **Sports** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
-| <input type="checkbox" id="rb1-dungeon-1-1" class="trackbox" /> | 1 | [Base](/neptunia/rb1/dlc/1-base.html) | [Virtua Forest](/neptunia/rb1/dungeon/1-1-virtua-forest.html) | Gathering point |
-| <input type="checkbox" id="rb1-dungeon-1-6" class="trackbox" /> | 6 | [Base](/neptunia/rb1/dlc/1-base.html) | [Avenir Storage No.3](/neptunia/rb1/dungeon/1-6-avenir-storage-no-3.html) | Gathering point |
-| <input type="checkbox" id="rb1-dungeon-21-303" class="trackbox" /> | 303 | [Additional Content Pack 12](/neptunia/rb1/dlc/21-pack12.html) | [Lili Dungeon](/neptunia/rb1/dungeon/21-303-lili-dungeon.html) | Gathering point |
+| <input type="checkbox" id="rb1-dungeon-1-1" class="trackbox" /> | 1 | [Base](/neptunia/rb1/dlc/1-base.html) | [Virtua Forest](/neptunia/rb1/dungeon/1-1-virtua-forest.html) | Hidden treasure |
+| <input type="checkbox" id="rb1-dungeon-1-6" class="trackbox" /> | 6 | [Base](/neptunia/rb1/dlc/1-base.html) | [Avenir Storage No.3](/neptunia/rb1/dungeon/1-6-avenir-storage-no-3.html) | Gathering point (Harvest Shift) |
+| <input type="checkbox" id="rb1-dungeon-21-303" class="trackbox" /> | 303 | [Additional Content Pack 12](/neptunia/rb1/dlc/21-pack12.html) | [Lili Dungeon](/neptunia/rb1/dungeon/21-303-lili-dungeon.html) | Hidden treasure |

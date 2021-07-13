@@ -23,16 +23,14 @@ title: "Plan: Underworld Ring (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 0 |
 | **Max inventory** | 1 |
 
-
 ## Chirpers who give **Plan: Underworld Ring**
 
 |    | ID | DLC | Avatar | Message | Conditions |
 | -- | -- | --- | ------ | ------- | ---------- |
-| <input type="checkbox" id="rb1-chirper-event-12-381" class="trackbox" /> | 381 | [Additional Content Package 3](/neptunia/rb1/dlc/12-pack3.html) | [IF](/neptunia/rb1/undefined/1-34-if.html) | Here's a Plan for an accessory.<br />Now you're one with the residents of the Underworld. | View scene [Chapter 2: Histoire And Arfoire](/neptunia/rb1/scene/1-201-chapter-2-histoire-and-arfoire.html)<br />Do not view scene [Chapter 8: The True Arfoire](/neptunia/rb1/scene/1-807-chapter-8-the-true-arfoire.html) |
-
+| <input type="checkbox" id="rb1-chirper-event-12-381" class="trackbox" /> | 381 | [Additional Content Package 3](/neptunia/rb1/dlc/12-pack3.html) | [IF](/neptunia/rb1/avatar/1-34-if.html) | Here's a Plan for an accessory.<br />Now you're one with the residents of the Underworld. | View scene [Chapter 2: Histoire And Arfoire](/neptunia/rb1/scene/1-201-chapter-2-histoire-and-arfoire.html)<br />Do not view scene [Chapter 8: The True Arfoire](/neptunia/rb1/scene/1-807-chapter-8-the-true-arfoire.html) |
 
 ## Plans added to Remake System after collecting **Plan: Underworld Ring**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-12-415" class="trackbox" /> | 415 | [Additional Content Package 3](/neptunia/rb1/dlc/12-pack3.html) | [Underworld Ring](/neptunia/rb1/remake/12-415-underworld-ring.html)<br /> → [Underworld Ring](/neptunia/rb1/item/12-2743-underworld-ring.html) (Ornament) |
+| <input type="checkbox" id="rb1-remake-12-415" class="trackbox" /> | 415 | [Additional Content Package 3](/neptunia/rb1/dlc/12-pack3.html) | [Underworld Ring](/neptunia/rb1/remake/12-415-underworld-ring.html)<br />→ [Underworld Ring](/neptunia/rb1/item/12-2743-underworld-ring.html) (Ornament) |

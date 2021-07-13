@@ -23,13 +23,11 @@ title: "Dress Hat (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 5000 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Dress Hat** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-775" class="trackbox" /> | 775 | [Base](/neptunia/rb1/dlc/1-base.html) | [Dress Hat](/neptunia/rb1/remake/1-775-dress-hat.html)<br /> → [Dress Hat](/neptunia/rb1/item/1-3457-dress-hat.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-775" class="trackbox" /> | 775 | [Base](/neptunia/rb1/dlc/1-base.html) | [Dress Hat](/neptunia/rb1/remake/1-775-dress-hat.html)<br />→ [Dress Hat](/neptunia/rb1/item/1-3457-dress-hat.html) (Accessory) |
 
 ## Player characters who can equip **Dress Hat**
 

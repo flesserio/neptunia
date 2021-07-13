@@ -25,20 +25,17 @@ title: "Star Gloves (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 1 |
 | **Weapon skill** | [Attack](/neptunia/rb1/skill/8-1201-attack.html) |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 2000 | 3525 | 0 | 2100 | 400 | 300 | 350 | 0 | 0 | 0 | 0 | 0 |
 
-
 ## Colosseum quests which reward **Star Gloves**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
 | <input type="checkbox" id="rb1-colosseum-12-2028" class="trackbox" /> | 2028 | [Additional Content Package 3](/neptunia/rb1/dlc/12-pack3.html) | [Thunder and Lightning](/neptunia/rb1/colosseum/12-2028-thunder-and-lightning.html) |
-
 
 ## Player characters who can equip **Star Gloves**
 

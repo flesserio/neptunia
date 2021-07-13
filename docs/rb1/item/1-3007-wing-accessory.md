@@ -23,13 +23,11 @@ title: "Wing Accessory (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 3750 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Wing Accessory** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-470" class="trackbox" /> | 470 | [Base](/neptunia/rb1/dlc/1-base.html) | [Wing Accessory](/neptunia/rb1/remake/1-470-wing-accessory.html)<br /> → [Wing Accessory](/neptunia/rb1/item/1-3007-wing-accessory.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-470" class="trackbox" /> | 470 | [Base](/neptunia/rb1/dlc/1-base.html) | [Wing Accessory](/neptunia/rb1/remake/1-470-wing-accessory.html)<br />→ [Wing Accessory](/neptunia/rb1/item/1-3007-wing-accessory.html) (Accessory) |
 
 ## Player characters who can equip **Wing Accessory**
 

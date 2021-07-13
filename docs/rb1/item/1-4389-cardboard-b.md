@@ -24,20 +24,17 @@ title: "Cardboard B (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 500 |
 | **Max inventory** | 99 |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 0 | 0 | 20 | -15 | 20 | 0 | 35 | -20 | 0 | 0 | 0 |
 
-
 ## Quests which reward **Cardboard B**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
 | <input type="checkbox" id="rb1-quest-1-211" class="trackbox" /> | 211 | [Base](/neptunia/rb1/dlc/1-base.html) | [I want to be famous](/neptunia/rb1/quest/1-211-i-want-to-be-famous.html) |
-
 
 ## Player characters who can equip **Cardboard B**
 

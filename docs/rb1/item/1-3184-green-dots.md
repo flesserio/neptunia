@@ -23,13 +23,11 @@ title: "Green Dots (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 1500 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Green Dots** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-594" class="trackbox" /> | 594 | [Base](/neptunia/rb1/dlc/1-base.html) | [Green Dots](/neptunia/rb1/remake/1-594-green-dots.html)<br /> → [Green Dots](/neptunia/rb1/item/1-3184-green-dots.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-594" class="trackbox" /> | 594 | [Base](/neptunia/rb1/dlc/1-base.html) | [Green Dots](/neptunia/rb1/remake/1-594-green-dots.html)<br />→ [Green Dots](/neptunia/rb1/item/1-3184-green-dots.html) (Accessory) |
 
 ## Player characters who can equip **Green Dots**
 

@@ -24,13 +24,11 @@ title: "Lilac-Mk2 L (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **To unlock in shop** | Method 1<br />- Have Nepgear unlocked. |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 0 | 0 | -15 | 35 | 70 | 0 | 30 | 0 | 0 | 0 | 0 |
-
 
 ## Player characters who can equip **Lilac-Mk2 L**
 

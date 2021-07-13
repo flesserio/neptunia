@@ -25,13 +25,11 @@ title: "Tuffmil (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Tool skill** | [Tuffmil](/neptunia/rb1/skill/1-10026-tuffmil.html) |
 | **To unlock in shop** | Method 1<br />- View scene [Chapter 2: Lastation](/neptunia/rb1/scene/1-202-chapter-2-lastation.html) |
 
-
 ## Dungeons **Tuffmil** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
-| <input type="checkbox" id="rb1-dungeon-1-8" class="trackbox" /> | 8 | [Base](/neptunia/rb1/dlc/1-base.html) | [MS Mountain](/neptunia/rb1/dungeon/1-8-ms-mountain.html) | Gathering point |
-
+| <input type="checkbox" id="rb1-dungeon-1-8" class="trackbox" /> | 8 | [Base](/neptunia/rb1/dlc/1-base.html) | [MS Mountain](/neptunia/rb1/dungeon/1-8-ms-mountain.html) | Treasure |
 
 ## Quests which reward **Tuffmil**
 

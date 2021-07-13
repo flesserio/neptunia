@@ -24,13 +24,11 @@ title: "Test Potion+5 (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **Weapon skill** | [Attack](/neptunia/rb1/skill/1-2001-attack.html) |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 900 | 912 | 23 | 1336 | 23 | 0 | 23 | 0 | 0 | 0 | 0 | 0 |
-
 
 ## Player characters who can equip **Test Potion+5**
 

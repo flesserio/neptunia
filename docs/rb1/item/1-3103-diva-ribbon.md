@@ -23,13 +23,11 @@ title: "Diva Ribbon (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 1500 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Diva Ribbon** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-548" class="trackbox" /> | 548 | [Base](/neptunia/rb1/dlc/1-base.html) | [Diva Ribbon](/neptunia/rb1/remake/1-548-diva-ribbon.html)<br /> → [Diva Ribbon](/neptunia/rb1/item/1-3103-diva-ribbon.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-548" class="trackbox" /> | 548 | [Base](/neptunia/rb1/dlc/1-base.html) | [Diva Ribbon](/neptunia/rb1/remake/1-548-diva-ribbon.html)<br />→ [Diva Ribbon](/neptunia/rb1/item/1-3103-diva-ribbon.html) (Accessory) |
 
 ## Player characters who can equip **Diva Ribbon**
 

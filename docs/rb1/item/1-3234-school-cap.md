@@ -23,13 +23,11 @@ title: "School Cap (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 500 |
 | **Max inventory** | 99 |
 
-
 ## Quests which reward **School Cap**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
 | <input type="checkbox" id="rb1-quest-1-407" class="trackbox" /> | 407 | [Base](/neptunia/rb1/dlc/1-base.html) | [Clean, kill, repeat](/neptunia/rb1/quest/1-407-clean-kill-repeat.html) |
-
 
 ## Player characters who can equip **School Cap**
 

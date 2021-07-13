@@ -23,16 +23,14 @@ title: "Classic Swimwear (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 0 |
 | **Max inventory** | 1 |
 
-
 ## Chirpers who give **Classic Swimwear**
 
 |    | ID | DLC | Avatar | Message | Conditions |
 | -- | -- | --- | ------ | ------- | ---------- |
-| <input type="checkbox" id="rb1-chirper-event-1-5203" class="trackbox" /> | 5203 | [Base](/neptunia/rb1/dlc/1-base.html) | [Kamraman](/neptunia/rb1/undefined/1-255-kamraman.html) | I'll give you this Plan for a costume.<br />You're going to be picture perfect in this! | View scene [Chapter 7: Legendary Get Together](/neptunia/rb1/scene/1-726-chapter-7-legendary-get-together.html)<br />Do not view scene [Chapter 8: The True Arfoire](/neptunia/rb1/scene/1-807-chapter-8-the-true-arfoire.html) |
-
+| <input type="checkbox" id="rb1-chirper-event-1-5203" class="trackbox" /> | 5203 | [Base](/neptunia/rb1/dlc/1-base.html) | [Kamraman](/neptunia/rb1/avatar/1-255-kamraman.html) | I'll give you this Plan for a costume.<br />You're going to be picture perfect in this! | View scene [Chapter 7: Legendary Get Together](/neptunia/rb1/scene/1-726-chapter-7-legendary-get-together.html)<br />Do not view scene [Chapter 8: The True Arfoire](/neptunia/rb1/scene/1-807-chapter-8-the-true-arfoire.html) |
 
 ## Plans added to Remake System after collecting **Classic Swimwear**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-455" class="trackbox" /> | 455 | [Base](/neptunia/rb1/dlc/1-base.html) | [Classic Swimwear](/neptunia/rb1/remake/1-455-classic-swimwear.html)<br /> → [Classic Swimwear](/neptunia/rb1/item/1-2939-classic-swimwear.html) (Clothing) |
+| <input type="checkbox" id="rb1-remake-1-455" class="trackbox" /> | 455 | [Base](/neptunia/rb1/dlc/1-base.html) | [Classic Swimwear](/neptunia/rb1/remake/1-455-classic-swimwear.html)<br />→ [Classic Swimwear](/neptunia/rb1/item/1-2939-classic-swimwear.html) (Clothing) |

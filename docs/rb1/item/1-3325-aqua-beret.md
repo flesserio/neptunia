@@ -23,13 +23,11 @@ title: "Aqua Beret (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 1500 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Aqua Beret** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-689" class="trackbox" /> | 689 | [Base](/neptunia/rb1/dlc/1-base.html) | [Aqua Beret](/neptunia/rb1/remake/1-689-aqua-beret.html)<br /> → [Aqua Beret](/neptunia/rb1/item/1-3325-aqua-beret.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-689" class="trackbox" /> | 689 | [Base](/neptunia/rb1/dlc/1-base.html) | [Aqua Beret](/neptunia/rb1/remake/1-689-aqua-beret.html)<br />→ [Aqua Beret](/neptunia/rb1/item/1-3325-aqua-beret.html) (Accessory) |
 
 ## Player characters who can equip **Aqua Beret**
 

@@ -23,13 +23,11 @@ title: "Snow Button (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 125000 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Snow Button** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-7-513" class="trackbox" /> | 513 | [[Plutia] Battle Entry License](/neptunia/rb1/dlc/7-plutia.html) | [Snow Button](/neptunia/rb1/remake/7-513-snow-button.html)<br /> → [Snow Button](/neptunia/rb1/item/7-3063-snow-button.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-7-513" class="trackbox" /> | 513 | [[Plutia] Battle Entry License](/neptunia/rb1/dlc/7-plutia.html) | [Snow Button](/neptunia/rb1/remake/7-513-snow-button.html)<br />→ [Snow Button](/neptunia/rb1/item/7-3063-snow-button.html) (Accessory) |
 
 ## Player characters who can equip **Snow Button**
 

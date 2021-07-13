@@ -23,13 +23,11 @@ title: "Peach Dogoo Hat (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 5000 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Peach Dogoo Hat** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-667" class="trackbox" /> | 667 | [Base](/neptunia/rb1/dlc/1-base.html) | [Peach Dogoo Hat](/neptunia/rb1/remake/1-667-peach-dogoo-hat.html)<br /> → [Peach Dogoo Hat](/neptunia/rb1/item/1-3297-peach-dogoo-hat.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-667" class="trackbox" /> | 667 | [Base](/neptunia/rb1/dlc/1-base.html) | [Peach Dogoo Hat](/neptunia/rb1/remake/1-667-peach-dogoo-hat.html)<br />→ [Peach Dogoo Hat](/neptunia/rb1/item/1-3297-peach-dogoo-hat.html) (Accessory) |
 
 ## Player characters who can equip **Peach Dogoo Hat**
 

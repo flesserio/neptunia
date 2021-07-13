@@ -24,20 +24,17 @@ title: "Thunderclap Ring (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 2000 |
 | **Max inventory** | 99 |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 50 |
 
-
 ## Remake System plans which unlock **Thunderclap Ring** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-406" class="trackbox" /> | 406 | [Base](/neptunia/rb1/dlc/1-base.html) | [Thunderclap Ring](/neptunia/rb1/remake/1-406-thunderclap-ring.html)<br /> → [Thunderclap Ring](/neptunia/rb1/item/1-2732-thunderclap-ring.html) (Ornament) |
-
+| <input type="checkbox" id="rb1-remake-1-406" class="trackbox" /> | 406 | [Base](/neptunia/rb1/dlc/1-base.html) | [Thunderclap Ring](/neptunia/rb1/remake/1-406-thunderclap-ring.html)<br />→ [Thunderclap Ring](/neptunia/rb1/item/1-2732-thunderclap-ring.html) (Ornament) |
 
 ## Player characters who can equip **Thunderclap Ring**
 

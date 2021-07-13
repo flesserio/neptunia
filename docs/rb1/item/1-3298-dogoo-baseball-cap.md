@@ -23,13 +23,11 @@ title: "Dogoo Baseball Cap (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 5000 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Dogoo Baseball Cap** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-668" class="trackbox" /> | 668 | [Base](/neptunia/rb1/dlc/1-base.html) | [Dogoo Baseball Cap](/neptunia/rb1/remake/1-668-dogoo-baseball-cap.html)<br /> → [Dogoo Baseball Cap](/neptunia/rb1/item/1-3298-dogoo-baseball-cap.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-668" class="trackbox" /> | 668 | [Base](/neptunia/rb1/dlc/1-base.html) | [Dogoo Baseball Cap](/neptunia/rb1/remake/1-668-dogoo-baseball-cap.html)<br />→ [Dogoo Baseball Cap](/neptunia/rb1/item/1-3298-dogoo-baseball-cap.html) (Accessory) |
 
 ## Player characters who can equip **Dogoo Baseball Cap**
 

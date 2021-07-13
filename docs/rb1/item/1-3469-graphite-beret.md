@@ -23,13 +23,11 @@ title: "Graphite Beret (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 1500 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Graphite Beret** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-784" class="trackbox" /> | 784 | [Base](/neptunia/rb1/dlc/1-base.html) | [Graphite Beret](/neptunia/rb1/remake/1-784-graphite-beret.html)<br /> → [Graphite Beret](/neptunia/rb1/item/1-3469-graphite-beret.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-784" class="trackbox" /> | 784 | [Base](/neptunia/rb1/dlc/1-base.html) | [Graphite Beret](/neptunia/rb1/remake/1-784-graphite-beret.html)<br />→ [Graphite Beret](/neptunia/rb1/item/1-3469-graphite-beret.html) (Accessory) |
 
 ## Player characters who can equip **Graphite Beret**
 

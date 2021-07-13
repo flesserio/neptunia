@@ -23,13 +23,11 @@ title: "Pink Ribbon (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 1500 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Pink Ribbon** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-547" class="trackbox" /> | 547 | [Base](/neptunia/rb1/dlc/1-base.html) | [Pink Ribbon](/neptunia/rb1/remake/1-547-pink-ribbon.html)<br /> → [Pink Ribbon](/neptunia/rb1/item/1-3102-pink-ribbon.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-547" class="trackbox" /> | 547 | [Base](/neptunia/rb1/dlc/1-base.html) | [Pink Ribbon](/neptunia/rb1/remake/1-547-pink-ribbon.html)<br />→ [Pink Ribbon](/neptunia/rb1/item/1-3102-pink-ribbon.html) (Accessory) |
 
 ## Player characters who can equip **Pink Ribbon**
 

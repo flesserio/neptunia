@@ -23,13 +23,11 @@ title: "Candy Coat (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 0 |
 | **Max inventory** | 1 |
 
-
 ## Player characters who have **Candy Coat** equipped by default
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
 | <input type="checkbox" id="rb1-player-1-10" class="trackbox" /> | 10 | [Base](/neptunia/rb1/dlc/1-base.html) | [Ram](/neptunia/rb1/player/1-10-ram.html) |
-
 
 ## Player characters who can equip **Candy Coat**
 

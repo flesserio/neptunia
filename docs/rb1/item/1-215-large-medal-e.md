@@ -23,13 +23,11 @@ title: "Large Medal E (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 0 |
 | **Max inventory** | 1 |
 
-
 ## Monsters which drop **Large Medal E**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-1-291" class="trackbox" /> | 291 | [Base](/neptunia/rb1/dlc/1-base.html) | [Grendel](/neptunia/rb1/monster/1-291-grendel.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-1-291" class="trackbox" /> | 291 | [Base](/neptunia/rb1/dlc/1-base.html) | [Grendel](/neptunia/rb1/monster/1-291-grendel.html) | 100% |
 
 ## Dungeons **Large Medal E** is found
 

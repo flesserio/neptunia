@@ -24,28 +24,27 @@ title: "Dogoo-Man Jelly (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 2 |
 | **Max inventory** | 99 |
 
-
 ## Monsters which drop **Dogoo-Man Jelly**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-1-103" class="trackbox" /> | 103 | [Base](/neptunia/rb1/dlc/1-base.html) | [Dogoo-Man](/neptunia/rb1/monster/1-103-dogoo-man.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-1-103" class="trackbox" /> | 103 | [Base](/neptunia/rb1/dlc/1-base.html) | [Dogoo-Man](/neptunia/rb1/monster/1-103-dogoo-man.html) | 55% |
 
 ## Dungeons **Dogoo-Man Jelly** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
 | <input type="checkbox" id="rb1-dungeon-1-1" class="trackbox" /> | 1 | [Base](/neptunia/rb1/dlc/1-base.html) | [Virtua Forest](/neptunia/rb1/dungeon/1-1-virtua-forest.html) | Gathering point |
-| <input type="checkbox" id="rb1-dungeon-21-303" class="trackbox" /> | 303 | [Additional Content Pack 12](/neptunia/rb1/dlc/21-pack12.html) | [Lili Dungeon](/neptunia/rb1/dungeon/21-303-lili-dungeon.html) | Gathering point |
+| <input type="checkbox" id="rb1-dungeon-1-1" class="trackbox" /> | 1 | [Base](/neptunia/rb1/dlc/1-base.html) | [Virtua Forest](/neptunia/rb1/dungeon/1-1-virtua-forest.html) | Gathering point (Harvest Shift) |
 | <input type="checkbox" id="rb1-dungeon-1-1" class="trackbox" /> | 1 | [Base](/neptunia/rb1/dlc/1-base.html) | [Virtua Forest](/neptunia/rb1/dungeon/1-1-virtua-forest.html) | Monster drop |
 | <input type="checkbox" id="rb1-dungeon-1-201" class="trackbox" /> | 201 | [Base](/neptunia/rb1/dlc/1-base.html) | [Colosseum](/neptunia/rb1/dungeon/1-201-colosseum.html) | Monster drop |
-
+| <input type="checkbox" id="rb1-dungeon-21-303" class="trackbox" /> | 303 | [Additional Content Pack 12](/neptunia/rb1/dlc/21-pack12.html) | [Lili Dungeon](/neptunia/rb1/dungeon/21-303-lili-dungeon.html) | Gathering point |
+| <input type="checkbox" id="rb1-dungeon-21-303" class="trackbox" /> | 303 | [Additional Content Pack 12](/neptunia/rb1/dlc/21-pack12.html) | [Lili Dungeon](/neptunia/rb1/dungeon/21-303-lili-dungeon.html) | Gathering point (Harvest Shift) |
 
 ## Remake System plans which require **Dogoo-Man Jelly**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-209" class="trackbox" /> | 209 | [Base](/neptunia/rb1/dlc/1-base.html) | [Add Dungeon](/neptunia/rb1/quest/1-209-add-dungeon.html) |
-| <input type="checkbox" id="rb1-quest-1-276" class="trackbox" /> | 276 | [Base](/neptunia/rb1/dlc/1-base.html) | [Item Change](/neptunia/rb1/quest/1-276-item-change.html) |
-| <input type="checkbox" id="rb1-quest-1-351" class="trackbox" /> | 351 | [Base](/neptunia/rb1/dlc/1-base.html) | [Eject Button](/neptunia/rb1/quest/1-351-eject-button.html) |
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-209" class="trackbox" /> | 209 | [Base](/neptunia/rb1/dlc/1-base.html) | [Add Dungeon](/neptunia/rb1/remake/1-209-add-dungeon.html)<br />→ [Zeca Ruins No.1](/neptunia/rb1/dungeon/1-101-zeca-ruins-no-1.html) (Dungeon) | 3 |
+| <input type="checkbox" id="rb1-remake-1-276" class="trackbox" /> | 276 | [Base](/neptunia/rb1/dlc/1-base.html) | [Item Change](/neptunia/rb1/remake/1-276-item-change.html)<br />→ [Virtua Forest](/neptunia/rb1/dungeon/1-1-virtua-forest.html) (Dungeon) | 2 |
+| <input type="checkbox" id="rb1-remake-1-351" class="trackbox" /> | 351 | [Base](/neptunia/rb1/dlc/1-base.html) | [Eject Button](/neptunia/rb1/remake/1-351-eject-button.html)<br />→ [Eject Button](/neptunia/rb1/item/1-44-eject-button.html) (Tool) | 2 |

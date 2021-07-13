@@ -24,20 +24,17 @@ title: "Prominence Badge (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 3000 |
 | **Max inventory** | 99 |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 200 | 0 | 0 | 0 | 0 | 0 |
 
-
 ## Remake System plans which unlock **Prominence Badge** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-409" class="trackbox" /> | 409 | [Base](/neptunia/rb1/dlc/1-base.html) | [Prominence Badge](/neptunia/rb1/remake/1-409-prominence-badge.html)<br /> → [Prominence Badge](/neptunia/rb1/item/1-2735-prominence-badge.html) (Ornament) |
-
+| <input type="checkbox" id="rb1-remake-1-409" class="trackbox" /> | 409 | [Base](/neptunia/rb1/dlc/1-base.html) | [Prominence Badge](/neptunia/rb1/remake/1-409-prominence-badge.html)<br />→ [Prominence Badge](/neptunia/rb1/item/1-2735-prominence-badge.html) (Ornament) |
 
 ## Player characters who can equip **Prominence Badge**
 

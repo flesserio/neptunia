@@ -24,13 +24,11 @@ title: "Mysterious Red Ball (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 17 |
 | **Max inventory** | 99 |
 
-
 ## Monsters which drop **Mysterious Red Ball**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-1-139" class="trackbox" /> | 139 | [Base](/neptunia/rb1/dlc/1-base.html) | [Lightbulb Angel](/neptunia/rb1/monster/1-139-lightbulb-angel.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-1-139" class="trackbox" /> | 139 | [Base](/neptunia/rb1/dlc/1-base.html) | [Lightbulb Angel](/neptunia/rb1/monster/1-139-lightbulb-angel.html) | 40% |
 
 ## Dungeons **Mysterious Red Ball** is found
 
@@ -39,9 +37,8 @@ title: "Mysterious Red Ball (Item) - Hyperdimension Neptunia Re;Birth1"
 | <input type="checkbox" id="rb1-dungeon-1-8" class="trackbox" /> | 8 | [Base](/neptunia/rb1/dlc/1-base.html) | [MS Mountain](/neptunia/rb1/dungeon/1-8-ms-mountain.html) | Monster drop |
 | <input type="checkbox" id="rb1-dungeon-1-26" class="trackbox" /> | 26 | [Base](/neptunia/rb1/dlc/1-base.html) | [MS Mountain Peak](/neptunia/rb1/dungeon/1-26-ms-mountain-peak.html) | Monster drop |
 
-
 ## Remake System plans which require **Mysterious Red Ball**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-353" class="trackbox" /> | 353 | [Base](/neptunia/rb1/dlc/1-base.html) | [Beam Katana Beta](/neptunia/rb1/quest/1-353-beam-katana-beta.html) |
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-353" class="trackbox" /> | 353 | [Base](/neptunia/rb1/dlc/1-base.html) | [Beam Katana Beta](/neptunia/rb1/remake/1-353-beam-katana-beta.html)<br />→ [Beam Katana Beta](/neptunia/rb1/item/1-2009-beam-katana-beta.html) (Katana (Neptune)) | 3 |

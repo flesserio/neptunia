@@ -24,15 +24,13 @@ title: "Purple Empress (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **To unlock in shop** | Method 1<br />- Have Nepgear unlocked. |
 
-
 ## Remake System plans which require **Purple Empress**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-685" class="trackbox" /> | 685 | [Base](/neptunia/rb1/dlc/1-base.html) | [Blue Morpho](/neptunia/rb1/quest/1-685-blue-morpho.html) |
-| <input type="checkbox" id="rb1-quest-1-686" class="trackbox" /> | 686 | [Base](/neptunia/rb1/dlc/1-base.html) | [Magenta Papillon](/neptunia/rb1/quest/1-686-magenta-papillon.html) |
-| <input type="checkbox" id="rb1-quest-1-687" class="trackbox" /> | 687 | [Base](/neptunia/rb1/dlc/1-base.html) | [Green Hairstreak](/neptunia/rb1/quest/1-687-green-hairstreak.html) |
-
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-685" class="trackbox" /> | 685 | [Base](/neptunia/rb1/dlc/1-base.html) | [Blue Morpho](/neptunia/rb1/remake/1-685-blue-morpho.html)<br />→ [Blue Morpho](/neptunia/rb1/item/1-3320-blue-morpho.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-1-686" class="trackbox" /> | 686 | [Base](/neptunia/rb1/dlc/1-base.html) | [Magenta Papillon](/neptunia/rb1/remake/1-686-magenta-papillon.html)<br />→ [Magenta Papillon](/neptunia/rb1/item/1-3321-magenta-papillon.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-1-687" class="trackbox" /> | 687 | [Base](/neptunia/rb1/dlc/1-base.html) | [Green Hairstreak](/neptunia/rb1/remake/1-687-green-hairstreak.html)<br />→ [Green Hairstreak](/neptunia/rb1/item/1-3322-green-hairstreak.html) (Accessory) | 1 |
 
 ## Player characters who can equip **Purple Empress**
 

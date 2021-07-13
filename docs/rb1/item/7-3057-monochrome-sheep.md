@@ -24,22 +24,19 @@ title: "Monochrome Sheep (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 125000 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Monochrome Sheep** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-7-507" class="trackbox" /> | 507 | [[Plutia] Battle Entry License](/neptunia/rb1/dlc/7-plutia.html) | [Monochrome Sheep](/neptunia/rb1/remake/7-507-monochrome-sheep.html)<br /> → [Monochrome Sheep](/neptunia/rb1/item/7-3057-monochrome-sheep.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-7-507" class="trackbox" /> | 507 | [[Plutia] Battle Entry License](/neptunia/rb1/dlc/7-plutia.html) | [Monochrome Sheep](/neptunia/rb1/remake/7-507-monochrome-sheep.html)<br />→ [Monochrome Sheep](/neptunia/rb1/item/7-3057-monochrome-sheep.html) (Accessory) |
 
 ## Remake System plans which require **Monochrome Sheep**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-7-508" class="trackbox" /> | 508 | [[Plutia] Battle Entry License](/neptunia/rb1/dlc/7-plutia.html) | [Sheep](/neptunia/rb1/quest/7-508-sheep.html) |
-| <input type="checkbox" id="rb1-quest-7-509" class="trackbox" /> | 509 | [[Plutia] Battle Entry License](/neptunia/rb1/dlc/7-plutia.html) | [Fluffy Sheep](/neptunia/rb1/quest/7-509-fluffy-sheep.html) |
-| <input type="checkbox" id="rb1-quest-7-510" class="trackbox" /> | 510 | [[Plutia] Battle Entry License](/neptunia/rb1/dlc/7-plutia.html) | [Black Sheep](/neptunia/rb1/quest/7-510-black-sheep.html) |
-
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-7-508" class="trackbox" /> | 508 | [[Plutia] Battle Entry License](/neptunia/rb1/dlc/7-plutia.html) | [Sheep](/neptunia/rb1/remake/7-508-sheep.html)<br />→ [Sheep](/neptunia/rb1/item/7-3058-sheep.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-7-509" class="trackbox" /> | 509 | [[Plutia] Battle Entry License](/neptunia/rb1/dlc/7-plutia.html) | [Fluffy Sheep](/neptunia/rb1/remake/7-509-fluffy-sheep.html)<br />→ [Fluffy Sheep](/neptunia/rb1/item/7-3059-fluffy-sheep.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-7-510" class="trackbox" /> | 510 | [[Plutia] Battle Entry License](/neptunia/rb1/dlc/7-plutia.html) | [Black Sheep](/neptunia/rb1/remake/7-510-black-sheep.html)<br />→ [Black Sheep](/neptunia/rb1/item/7-3060-black-sheep.html) (Accessory) | 1 |
 
 ## Player characters who can equip **Monochrome Sheep**
 

@@ -23,16 +23,15 @@ title: "Die So Fast (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 10 |
 | **Max inventory** | 99 |
 | **Idea Chip level** | 1 |
-| **Idea Chip ability** | [Critical Defense + Lv.1](/neptunia/rb1/avatar/1-9672-critical-defense-lv-1.html)<br />Increases Critical Defense by 10% |
-
+| **Idea Chip ability** | [Critical Defense + Lv.1](/neptunia/rb1/ability/1-9672-critical-defense-lv-1.html)<br />Increases Critical Defense by 10% |
 
 ## Dungeons **Die So Fast** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
-| <input type="checkbox" id="rb1-dungeon-1-5" class="trackbox" /> | 5 | [Base](/neptunia/rb1/dlc/1-base.html) | [Thelad Sanctuary](/neptunia/rb1/dungeon/1-5-thelad-sanctuary.html) | Gathering point |
-| <input type="checkbox" id="rb1-dungeon-1-110" class="trackbox" /> | 110 | [Base](/neptunia/rb1/dlc/1-base.html) | [Donkong Ruins](/neptunia/rb1/dungeon/1-110-donkong-ruins.html) | Gathering point |
-
+| <input type="checkbox" id="rb1-dungeon-1-5" class="trackbox" /> | 5 | [Base](/neptunia/rb1/dlc/1-base.html) | [Thelad Sanctuary](/neptunia/rb1/dungeon/1-5-thelad-sanctuary.html) | Gathering point (Harvest Shift) |
+| <input type="checkbox" id="rb1-dungeon-1-5" class="trackbox" /> | 5 | [Base](/neptunia/rb1/dlc/1-base.html) | [Thelad Sanctuary](/neptunia/rb1/dungeon/1-5-thelad-sanctuary.html) | Treasure |
+| <input type="checkbox" id="rb1-dungeon-1-110" class="trackbox" /> | 110 | [Base](/neptunia/rb1/dlc/1-base.html) | [Donkong Ruins](/neptunia/rb1/dungeon/1-110-donkong-ruins.html) | Gathering point (Harvest Shift) |
 
 ## Quests which reward **Die So Fast**
 

@@ -24,13 +24,11 @@ title: "Invisible Ribbon (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 35 |
 | **Max inventory** | 99 |
 
-
 ## Monsters which drop **Invisible Ribbon**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-1-331" class="trackbox" /> | 331 | [Base](/neptunia/rb1/dlc/1-base.html) | [Ms. Pinky](/neptunia/rb1/monster/1-331-ms-pinky.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-1-331" class="trackbox" /> | 331 | [Base](/neptunia/rb1/dlc/1-base.html) | [Ms. Pinky](/neptunia/rb1/monster/1-331-ms-pinky.html) | 40% |
 
 ## Dungeons **Invisible Ribbon** is found
 
@@ -39,11 +37,10 @@ title: "Invisible Ribbon (Item) - Hyperdimension Neptunia Re;Birth1"
 | <input type="checkbox" id="rb1-dungeon-1-114" class="trackbox" /> | 114 | [Base](/neptunia/rb1/dlc/1-base.html) | [Kinest Range](/neptunia/rb1/dungeon/1-114-kinest-range.html) | Gathering point |
 | <input type="checkbox" id="rb1-dungeon-1-114" class="trackbox" /> | 114 | [Base](/neptunia/rb1/dlc/1-base.html) | [Kinest Range](/neptunia/rb1/dungeon/1-114-kinest-range.html) | Monster drop |
 
-
 ## Remake System plans which require **Invisible Ribbon**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-550" class="trackbox" /> | 550 | [Base](/neptunia/rb1/dlc/1-base.html) | [Witch Hat](/neptunia/rb1/quest/1-550-witch-hat.html) |
-| <input type="checkbox" id="rb1-quest-1-552" class="trackbox" /> | 552 | [Base](/neptunia/rb1/dlc/1-base.html) | [Maid Hairband](/neptunia/rb1/quest/1-552-maid-hairband.html) |
-| <input type="checkbox" id="rb1-quest-1-791" class="trackbox" /> | 791 | [Base](/neptunia/rb1/dlc/1-base.html) | [Candy Ribbon](/neptunia/rb1/quest/1-791-candy-ribbon.html) |
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-550" class="trackbox" /> | 550 | [Base](/neptunia/rb1/dlc/1-base.html) | [Witch Hat](/neptunia/rb1/remake/1-550-witch-hat.html)<br />→ [Witch Hat](/neptunia/rb1/item/1-3117-witch-hat.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-1-552" class="trackbox" /> | 552 | [Base](/neptunia/rb1/dlc/1-base.html) | [Maid Hairband](/neptunia/rb1/remake/1-552-maid-hairband.html)<br />→ [Maid Hairband](/neptunia/rb1/item/1-3119-maid-hairband.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-1-791" class="trackbox" /> | 791 | [Base](/neptunia/rb1/dlc/1-base.html) | [Candy Ribbon](/neptunia/rb1/remake/1-791-candy-ribbon.html)<br />→ [Candy Ribbon](/neptunia/rb1/item/1-3486-candy-ribbon.html) (Accessory) | 2 |

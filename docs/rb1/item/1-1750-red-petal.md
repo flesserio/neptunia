@@ -24,15 +24,13 @@ title: "Red Petal (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 34 |
 | **Max inventory** | 99 |
 
-
 ## Monsters which drop **Red Petal**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-1-138" class="trackbox" /> | 138 | [Base](/neptunia/rb1/dlc/1-base.html) | [Apeldoom](/neptunia/rb1/monster/1-138-apeldoom.html) |
-| <input type="checkbox" id="rb1-monster-1-306" class="trackbox" /> | 306 | [Base](/neptunia/rb1/dlc/1-base.html) | [Floristan](/neptunia/rb1/monster/1-306-floristan.html) |
-| <input type="checkbox" id="rb1-monster-1-387" class="trackbox" /> | 387 | [Base](/neptunia/rb1/dlc/1-base.html) | [Alfred](/neptunia/rb1/monster/1-387-alfred.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-1-138" class="trackbox" /> | 138 | [Base](/neptunia/rb1/dlc/1-base.html) | [Apeldoom](/neptunia/rb1/monster/1-138-apeldoom.html) | 40% |
+| <input type="checkbox" id="rb1-monster-1-306" class="trackbox" /> | 306 | [Base](/neptunia/rb1/dlc/1-base.html) | [Floristan](/neptunia/rb1/monster/1-306-floristan.html) | 40% |
+| <input type="checkbox" id="rb1-monster-1-387" class="trackbox" /> | 387 | [Base](/neptunia/rb1/dlc/1-base.html) | [Alfred](/neptunia/rb1/monster/1-387-alfred.html) | 40% |
 
 ## Dungeons **Red Petal** is found
 
@@ -44,11 +42,10 @@ title: "Red Petal (Item) - Hyperdimension Neptunia Re;Birth1"
 | <input type="checkbox" id="rb1-dungeon-1-123" class="trackbox" /> | 123 | [Base](/neptunia/rb1/dlc/1-base.html) | [Graphic Pass](/neptunia/rb1/dungeon/1-123-graphic-pass.html) | Monster drop |
 | <input type="checkbox" id="rb1-dungeon-1-124" class="trackbox" /> | 124 | [Base](/neptunia/rb1/dlc/1-base.html) | [Graphic Pass Peak](/neptunia/rb1/dungeon/1-124-graphic-pass-peak.html) | Monster drop |
 
-
 ## Remake System plans which require **Red Petal**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-332" class="trackbox" /> | 332 | [Base](/neptunia/rb1/dlc/1-base.html) | [Blanc Manju](/neptunia/rb1/quest/1-332-blanc-manju.html) |
-| <input type="checkbox" id="rb1-quest-1-347" class="trackbox" /> | 347 | [Base](/neptunia/rb1/dlc/1-base.html) | [Energy Fragment](/neptunia/rb1/quest/1-347-energy-fragment.html) |
-| <input type="checkbox" id="rb1-quest-1-458" class="trackbox" /> | 458 | [Base](/neptunia/rb1/dlc/1-base.html) | [Red Pigment](/neptunia/rb1/quest/1-458-red-pigment.html) |
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-332" class="trackbox" /> | 332 | [Base](/neptunia/rb1/dlc/1-base.html) | [Blanc Manju](/neptunia/rb1/remake/1-332-blanc-manju.html)<br />→ [Blanc Manju](/neptunia/rb1/item/1-20-blanc-manju.html) (Tool) | 2 |
+| <input type="checkbox" id="rb1-remake-1-347" class="trackbox" /> | 347 | [Base](/neptunia/rb1/dlc/1-base.html) | [Energy Fragment](/neptunia/rb1/remake/1-347-energy-fragment.html)<br />→ [Energy Fragment](/neptunia/rb1/item/1-40-energy-fragment.html) (Tool) | 3 |
+| <input type="checkbox" id="rb1-remake-1-458" class="trackbox" /> | 458 | [Base](/neptunia/rb1/dlc/1-base.html) | [Red Pigment](/neptunia/rb1/remake/1-458-red-pigment.html)<br />→ [Red Pigment](/neptunia/rb1/item/1-1937-red-pigment.html) (Material) | 3 |

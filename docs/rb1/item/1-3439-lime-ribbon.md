@@ -23,13 +23,11 @@ title: "Lime Ribbon (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 2500 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Lime Ribbon** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-762" class="trackbox" /> | 762 | [Base](/neptunia/rb1/dlc/1-base.html) | [Lime Ribbon](/neptunia/rb1/remake/1-762-lime-ribbon.html)<br /> → [Lime Ribbon](/neptunia/rb1/item/1-3439-lime-ribbon.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-762" class="trackbox" /> | 762 | [Base](/neptunia/rb1/dlc/1-base.html) | [Lime Ribbon](/neptunia/rb1/remake/1-762-lime-ribbon.html)<br />→ [Lime Ribbon](/neptunia/rb1/item/1-3439-lime-ribbon.html) (Accessory) |
 
 ## Player characters who can equip **Lime Ribbon**
 

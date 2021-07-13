@@ -24,13 +24,11 @@ title: "Light Snowfall (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **To unlock in shop** | Method 1<br />- View scene [Chapter 4: Where's Lowee's Key Fragment?](/neptunia/rb1/scene/1-410-chapter-4-wheres-lowees-key-fragment.html) |
 
-
 ## Remake System plans which require **Light Snowfall**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-433" class="trackbox" /> | 433 | [Base](/neptunia/rb1/dlc/1-base.html) | [Winter Maiden](/neptunia/rb1/quest/1-433-winter-maiden.html) |
-
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-433" class="trackbox" /> | 433 | [Base](/neptunia/rb1/dlc/1-base.html) | [Winter Maiden](/neptunia/rb1/remake/1-433-winter-maiden.html)<br />→ [Winter Maiden](/neptunia/rb1/item/1-2848-winter-maiden.html) (Clothing) | 1 |
 
 ## Player characters who can equip **Light Snowfall**
 

@@ -25,20 +25,17 @@ title: "Strike Lancer (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **Weapon skill** | [Attack](/neptunia/rb1/skill/1-801-attack.html) |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 520 | -26 | 496 | 0 | 0 | 33 | 0 | 0 | 0 | 0 | 0 |
 
-
 ## Dungeons **Strike Lancer** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
-| <input type="checkbox" id="rb1-dungeon-1-17" class="trackbox" /> | 17 | [Base](/neptunia/rb1/dlc/1-base.html) | [Fantasy Zone](/neptunia/rb1/dungeon/1-17-fantasy-zone.html) | Gathering point |
-
+| <input type="checkbox" id="rb1-dungeon-1-17" class="trackbox" /> | 17 | [Base](/neptunia/rb1/dlc/1-base.html) | [Fantasy Zone](/neptunia/rb1/dungeon/1-17-fantasy-zone.html) | Treasure |
 
 ## Player characters who can equip **Strike Lancer**
 

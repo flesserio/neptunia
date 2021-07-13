@@ -23,9 +23,8 @@ title: "Hero Sausage (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **Tool skill** | [Hero Sausage](/neptunia/rb1/skill/1-10019-hero-sausage.html) |
 
-
 ## Remake System plans which unlock **Hero Sausage** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-331" class="trackbox" /> | 331 | [Base](/neptunia/rb1/dlc/1-base.html) | [Hero Sausage](/neptunia/rb1/remake/1-331-hero-sausage.html)<br /> → [Hero Sausage](/neptunia/rb1/item/1-19-hero-sausage.html) (Tool) |
+| <input type="checkbox" id="rb1-remake-1-331" class="trackbox" /> | 331 | [Base](/neptunia/rb1/dlc/1-base.html) | [Hero Sausage](/neptunia/rb1/remake/1-331-hero-sausage.html)<br />→ [Hero Sausage](/neptunia/rb1/item/1-19-hero-sausage.html) (Tool) |

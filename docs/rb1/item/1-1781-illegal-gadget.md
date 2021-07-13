@@ -24,13 +24,11 @@ title: "Illegal Gadget (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 22 |
 | **Max inventory** | 99 |
 
-
 ## Monsters which drop **Illegal Gadget**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-1-301" class="trackbox" /> | 301 | [Base](/neptunia/rb1/dlc/1-base.html) | [High Bit](/neptunia/rb1/monster/1-301-high-bit.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-1-301" class="trackbox" /> | 301 | [Base](/neptunia/rb1/dlc/1-base.html) | [High Bit](/neptunia/rb1/monster/1-301-high-bit.html) | 40% |
 
 ## Dungeons **Illegal Gadget** is found
 
@@ -39,15 +37,14 @@ title: "Illegal Gadget (Item) - Hyperdimension Neptunia Re;Birth1"
 | <input type="checkbox" id="rb1-dungeon-1-110" class="trackbox" /> | 110 | [Base](/neptunia/rb1/dlc/1-base.html) | [Donkong Ruins](/neptunia/rb1/dungeon/1-110-donkong-ruins.html) | Gathering point |
 | <input type="checkbox" id="rb1-dungeon-1-110" class="trackbox" /> | 110 | [Base](/neptunia/rb1/dlc/1-base.html) | [Donkong Ruins](/neptunia/rb1/dungeon/1-110-donkong-ruins.html) | Monster drop |
 
-
 ## Remake System plans which require **Illegal Gadget**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-217" class="trackbox" /> | 217 | [Base](/neptunia/rb1/dlc/1-base.html) | [Add Dungeon](/neptunia/rb1/quest/1-217-add-dungeon.html) |
-| <input type="checkbox" id="rb1-quest-1-302" class="trackbox" /> | 302 | [Base](/neptunia/rb1/dlc/1-base.html) | [Item Change](/neptunia/rb1/quest/1-302-item-change.html) |
-| <input type="checkbox" id="rb1-quest-1-399" class="trackbox" /> | 399 | [Base](/neptunia/rb1/dlc/1-base.html) | [Hitting Badge](/neptunia/rb1/quest/1-399-hitting-badge.html) |
-| <input type="checkbox" id="rb1-quest-1-418" class="trackbox" /> | 418 | [Base](/neptunia/rb1/dlc/1-base.html) | [Anti-Poison Patch](/neptunia/rb1/quest/1-418-anti-poison-patch.html) |
-| <input type="checkbox" id="rb1-quest-1-419" class="trackbox" /> | 419 | [Base](/neptunia/rb1/dlc/1-base.html) | [Anti-Paralyze Patch](/neptunia/rb1/quest/1-419-anti-paralyze-patch.html) |
-| <input type="checkbox" id="rb1-quest-1-420" class="trackbox" /> | 420 | [Base](/neptunia/rb1/dlc/1-base.html) | [Anti-Seal Patch](/neptunia/rb1/quest/1-420-anti-seal-patch.html) |
-| <input type="checkbox" id="rb1-quest-1-421" class="trackbox" /> | 421 | [Base](/neptunia/rb1/dlc/1-base.html) | [Anti-Virus Patch](/neptunia/rb1/quest/1-421-anti-virus-patch.html) |
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-217" class="trackbox" /> | 217 | [Base](/neptunia/rb1/dlc/1-base.html) | [Add Dungeon](/neptunia/rb1/remake/1-217-add-dungeon.html)<br />→ [Naasne Volcano](/neptunia/rb1/dungeon/1-112-naasne-volcano.html) (Dungeon) | 2 |
+| <input type="checkbox" id="rb1-remake-1-302" class="trackbox" /> | 302 | [Base](/neptunia/rb1/dlc/1-base.html) | [Item Change](/neptunia/rb1/remake/1-302-item-change.html)<br />→ [Donkong Ruins](/neptunia/rb1/dungeon/1-110-donkong-ruins.html) (Dungeon) | 2 |
+| <input type="checkbox" id="rb1-remake-1-399" class="trackbox" /> | 399 | [Base](/neptunia/rb1/dlc/1-base.html) | [Hitting Badge](/neptunia/rb1/remake/1-399-hitting-badge.html)<br />→ [Hitting Badge](/neptunia/rb1/item/1-2725-hitting-badge.html) (Ornament) | 2 |
+| <input type="checkbox" id="rb1-remake-1-418" class="trackbox" /> | 418 | [Base](/neptunia/rb1/dlc/1-base.html) | [Anti-Poison Patch](/neptunia/rb1/remake/1-418-anti-poison-patch.html)<br />→ [Anti-Poison Patch](/neptunia/rb1/item/1-2757-anti-poison-patch.html) (Ornament) | 2 |
+| <input type="checkbox" id="rb1-remake-1-419" class="trackbox" /> | 419 | [Base](/neptunia/rb1/dlc/1-base.html) | [Anti-Paralyze Patch](/neptunia/rb1/remake/1-419-anti-paralyze-patch.html)<br />→ [Anti-Paralyze Patch](/neptunia/rb1/item/1-2758-anti-paralyze-patch.html) (Ornament) | 2 |
+| <input type="checkbox" id="rb1-remake-1-420" class="trackbox" /> | 420 | [Base](/neptunia/rb1/dlc/1-base.html) | [Anti-Seal Patch](/neptunia/rb1/remake/1-420-anti-seal-patch.html)<br />→ [Anti-Seal Patch](/neptunia/rb1/item/1-2759-anti-seal-patch.html) (Ornament) | 2 |
+| <input type="checkbox" id="rb1-remake-1-421" class="trackbox" /> | 421 | [Base](/neptunia/rb1/dlc/1-base.html) | [Anti-Virus Patch](/neptunia/rb1/remake/1-421-anti-virus-patch.html)<br />→ [Anti-Virus Patch](/neptunia/rb1/item/1-2760-anti-virus-patch.html) (Ornament) | 2 |

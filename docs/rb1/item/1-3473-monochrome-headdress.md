@@ -23,13 +23,11 @@ title: "Monochrome Headdress (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 5000 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Monochrome Headdress** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-787" class="trackbox" /> | 787 | [Base](/neptunia/rb1/dlc/1-base.html) | [Monochrome Headdress](/neptunia/rb1/remake/1-787-monochrome-headdress.html)<br /> → [Monochrome Headdress](/neptunia/rb1/item/1-3473-monochrome-headdress.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-787" class="trackbox" /> | 787 | [Base](/neptunia/rb1/dlc/1-base.html) | [Monochrome Headdress](/neptunia/rb1/remake/1-787-monochrome-headdress.html)<br />→ [Monochrome Headdress](/neptunia/rb1/item/1-3473-monochrome-headdress.html) (Accessory) |
 
 ## Player characters who can equip **Monochrome Headdress**
 

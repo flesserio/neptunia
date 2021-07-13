@@ -25,13 +25,11 @@ title: "Schwertgewehr (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Weapon skill** | [Attack](/neptunia/rb1/skill/1-1001-attack.html) |
 | **To unlock in shop** | Method 1<br />- Have Nepgear unlocked. |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 1150 | 0 | 1150 | 0 | 0 | 57 | 57 | 0 | 0 | 0 | 0 |
-
 
 ## Player characters who can equip **Schwertgewehr**
 

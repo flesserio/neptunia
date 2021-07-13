@@ -22,12 +22,11 @@ title: "Moe Burnin' (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 10 |
 | **Max inventory** | 99 |
 | **Idea Chip level** | 4 |
-| **Idea Chip ability** | [Insect Defense Lv.4](/neptunia/rb1/avatar/1-9569-insect-defense-lv-4.html)<br />Increases Insect Defense by 25% |
-
+| **Idea Chip ability** | [Insect Defense Lv.4](/neptunia/rb1/ability/1-9569-insect-defense-lv-4.html)<br />Increases Insect Defense by 25% |
 
 ## Dungeons **Moe Burnin'** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
-| <input type="checkbox" id="rb1-dungeon-1-16" class="trackbox" /> | 16 | [Base](/neptunia/rb1/dlc/1-base.html) | [Soulsac Cave](/neptunia/rb1/dungeon/1-16-soulsac-cave.html) | Gathering point |
-| <input type="checkbox" id="rb1-dungeon-1-113" class="trackbox" /> | 113 | [Base](/neptunia/rb1/dlc/1-base.html) | [Millenium Labryinth](/neptunia/rb1/dungeon/1-113-millenium-labryinth.html) | Gathering point |
+| <input type="checkbox" id="rb1-dungeon-1-16" class="trackbox" /> | 16 | [Base](/neptunia/rb1/dlc/1-base.html) | [Soulsac Cave](/neptunia/rb1/dungeon/1-16-soulsac-cave.html) | Hidden treasure |
+| <input type="checkbox" id="rb1-dungeon-1-113" class="trackbox" /> | 113 | [Base](/neptunia/rb1/dlc/1-base.html) | [Millenium Labryinth](/neptunia/rb1/dungeon/1-113-millenium-labryinth.html) | Gathering point (Harvest Shift) |

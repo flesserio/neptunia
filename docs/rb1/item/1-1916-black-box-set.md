@@ -25,13 +25,11 @@ title: "Black Box Set (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 180 |
 | **Max inventory** | 99 |
 
-
 ## Monsters which drop **Black Box Set**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-1-165" class="trackbox" /> | 165 | [Base](/neptunia/rb1/dlc/1-base.html) | [Violent Good Girl](/neptunia/rb1/monster/1-165-violent-good-girl.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-1-165" class="trackbox" /> | 165 | [Base](/neptunia/rb1/dlc/1-base.html) | [Violent Good Girl](/neptunia/rb1/monster/1-165-violent-good-girl.html) | 40% |
 
 ## Dungeons **Black Box Set** is found
 
@@ -40,16 +38,14 @@ title: "Black Box Set (Item) - Hyperdimension Neptunia Re;Birth1"
 | <input type="checkbox" id="rb1-dungeon-1-12" class="trackbox" /> | 12 | [Base](/neptunia/rb1/dlc/1-base.html) | [Lowee Snowfield](/neptunia/rb1/dungeon/1-12-lowee-snowfield.html) | Gathering point |
 | <input type="checkbox" id="rb1-dungeon-1-12" class="trackbox" /> | 12 | [Base](/neptunia/rb1/dlc/1-base.html) | [Lowee Snowfield](/neptunia/rb1/dungeon/1-12-lowee-snowfield.html) | Monster drop |
 
-
 ## Quests which require gathering **Black Box Set**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
 | <input type="checkbox" id="rb1-quest-1-405" class="trackbox" /> | 405 | [Base](/neptunia/rb1/dlc/1-base.html) | [I have a request to make](/neptunia/rb1/quest/1-405-i-have-a-request-to-make.html) |
 
-
 ## Remake System plans which require **Black Box Set**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-399" class="trackbox" /> | 399 | [Base](/neptunia/rb1/dlc/1-base.html) | [Hitting Badge](/neptunia/rb1/quest/1-399-hitting-badge.html) |
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-399" class="trackbox" /> | 399 | [Base](/neptunia/rb1/dlc/1-base.html) | [Hitting Badge](/neptunia/rb1/remake/1-399-hitting-badge.html)<br />→ [Hitting Badge](/neptunia/rb1/item/1-2725-hitting-badge.html) (Ornament) | 2 |

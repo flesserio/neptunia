@@ -24,15 +24,13 @@ title: "Red Eyes (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **To unlock in shop** | Method 1<br />- Have Uni unlocked. |
 
-
 ## Remake System plans which require **Red Eyes**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-734" class="trackbox" /> | 734 | [Base](/neptunia/rb1/dlc/1-base.html) | [Cassis Eyes](/neptunia/rb1/quest/1-734-cassis-eyes.html) |
-| <input type="checkbox" id="rb1-quest-1-735" class="trackbox" /> | 735 | [Base](/neptunia/rb1/dlc/1-base.html) | [Strawberry Eye](/neptunia/rb1/quest/1-735-strawberry-eye.html) |
-| <input type="checkbox" id="rb1-quest-1-736" class="trackbox" /> | 736 | [Base](/neptunia/rb1/dlc/1-base.html) | [Emerald Eye](/neptunia/rb1/quest/1-736-emerald-eye.html) |
-
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-734" class="trackbox" /> | 734 | [Base](/neptunia/rb1/dlc/1-base.html) | [Cassis Eyes](/neptunia/rb1/remake/1-734-cassis-eyes.html)<br />→ [Cassis Eyes](/neptunia/rb1/item/1-3395-cassis-eyes.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-1-735" class="trackbox" /> | 735 | [Base](/neptunia/rb1/dlc/1-base.html) | [Strawberry Eye](/neptunia/rb1/remake/1-735-strawberry-eye.html)<br />→ [Strawberry Eye](/neptunia/rb1/item/1-3396-strawberry-eye.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-1-736" class="trackbox" /> | 736 | [Base](/neptunia/rb1/dlc/1-base.html) | [Emerald Eye](/neptunia/rb1/remake/1-736-emerald-eye.html)<br />→ [Emerald Eye](/neptunia/rb1/item/1-3397-emerald-eye.html) (Accessory) | 1 |
 
 ## Player characters who can equip **Red Eyes**
 

@@ -24,13 +24,11 @@ title: "Lost Holy Cloth (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 72 |
 | **Max inventory** | 99 |
 
-
 ## Monsters which drop **Lost Holy Cloth**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-1-360" class="trackbox" /> | 360 | [Base](/neptunia/rb1/dlc/1-base.html) | [Lost Boy](/neptunia/rb1/monster/1-360-lost-boy.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-1-360" class="trackbox" /> | 360 | [Base](/neptunia/rb1/dlc/1-base.html) | [Lost Boy](/neptunia/rb1/monster/1-360-lost-boy.html) | 40% |
 
 ## Dungeons **Lost Holy Cloth** is found
 
@@ -39,10 +37,9 @@ title: "Lost Holy Cloth (Item) - Hyperdimension Neptunia Re;Birth1"
 | <input type="checkbox" id="rb1-dungeon-1-118" class="trackbox" /> | 118 | [Base](/neptunia/rb1/dlc/1-base.html) | [Uwii Ruins](/neptunia/rb1/dungeon/1-118-uwii-ruins.html) | Gathering point |
 | <input type="checkbox" id="rb1-dungeon-1-118" class="trackbox" /> | 118 | [Base](/neptunia/rb1/dlc/1-base.html) | [Uwii Ruins](/neptunia/rb1/dungeon/1-118-uwii-ruins.html) | Monster drop |
 
-
 ## Remake System plans which require **Lost Holy Cloth**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-355" class="trackbox" /> | 355 | [Base](/neptunia/rb1/dlc/1-base.html) | [Demon Blade Rain](/neptunia/rb1/quest/1-355-demon-blade-rain.html) |
-| <input type="checkbox" id="rb1-quest-1-383" class="trackbox" /> | 383 | [Base](/neptunia/rb1/dlc/1-base.html) | [Truth Slayer](/neptunia/rb1/quest/1-383-truth-slayer.html) |
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-355" class="trackbox" /> | 355 | [Base](/neptunia/rb1/dlc/1-base.html) | [Demon Blade Rain](/neptunia/rb1/remake/1-355-demon-blade-rain.html)<br />→ [Demon Blade Rain](/neptunia/rb1/item/1-2019-demon-blade-rain.html) (Katana (Neptune)) | 3 |
+| <input type="checkbox" id="rb1-remake-1-383" class="trackbox" /> | 383 | [Base](/neptunia/rb1/dlc/1-base.html) | [Truth Slayer](/neptunia/rb1/remake/1-383-truth-slayer.html)<br />→ [Truth Slayer](/neptunia/rb1/item/1-2376-truth-slayer.html) (Sword (Falcom)) | 3 |

@@ -24,20 +24,17 @@ title: "Cool Lady Ribbon (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 500 |
 | **Max inventory** | 99 |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 0 | 15 | 0 | 0 | 0 | 0 | 15 | 0 | 0 | 0 | 0 |
 
-
 ## Monsters which drop **Cool Lady Ribbon**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-1-1049" class="trackbox" /> | 1049 | [Base](/neptunia/rb1/dlc/1-base.html) | [Fake Black Heart](/neptunia/rb1/monster/1-1049-fake-black-heart.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-1-1049" class="trackbox" /> | 1049 | [Base](/neptunia/rb1/dlc/1-base.html) | [Fake Black Heart](/neptunia/rb1/monster/1-1049-fake-black-heart.html) | 100% |
 
 ## Player characters who can equip **Cool Lady Ribbon**
 

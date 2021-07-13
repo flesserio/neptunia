@@ -26,27 +26,23 @@ title: "EM Ring (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **To unlock in shop** | Method 1<br />- View scene [Chapter 2: Lastation](/neptunia/rb1/scene/1-202-chapter-2-lastation.html) |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 25 |
 
-
 ## Dungeons **EM Ring** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
-| <input type="checkbox" id="rb1-dungeon-16-131" class="trackbox" /> | 131 | [Additional Content Pack 7](/neptunia/rb1/dlc/16-pack7.html) | [Rebeat Resort](/neptunia/rb1/dungeon/16-131-rebeat-resort.html) | Gathering point |
-
+| <input type="checkbox" id="rb1-dungeon-16-131" class="trackbox" /> | 131 | [Additional Content Pack 7](/neptunia/rb1/dlc/16-pack7.html) | [Rebeat Resort](/neptunia/rb1/dungeon/16-131-rebeat-resort.html) | Hidden treasure |
 
 ## Remake System plans which require **EM Ring**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-406" class="trackbox" /> | 406 | [Base](/neptunia/rb1/dlc/1-base.html) | [Thunderclap Ring](/neptunia/rb1/quest/1-406-thunderclap-ring.html) |
-
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-406" class="trackbox" /> | 406 | [Base](/neptunia/rb1/dlc/1-base.html) | [Thunderclap Ring](/neptunia/rb1/remake/1-406-thunderclap-ring.html)<br />→ [Thunderclap Ring](/neptunia/rb1/item/1-2732-thunderclap-ring.html) (Ornament) | 2 |
 
 ## Player characters who can equip **EM Ring**
 

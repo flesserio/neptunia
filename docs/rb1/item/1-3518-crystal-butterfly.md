@@ -24,15 +24,13 @@ title: "Crystal Butterfly (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **To unlock in shop** | Method 1<br />- Have Rom & Ram unlocked. |
 
-
 ## Remake System plans which require **Crystal Butterfly**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-816" class="trackbox" /> | 816 | [Base](/neptunia/rb1/dlc/1-base.html) | [Jet Black Beret](/neptunia/rb1/quest/1-816-jet-black-beret.html) |
-| <input type="checkbox" id="rb1-quest-1-817" class="trackbox" /> | 817 | [Base](/neptunia/rb1/dlc/1-base.html) | [Ice Blue Beret](/neptunia/rb1/quest/1-817-ice-blue-beret.html) |
-| <input type="checkbox" id="rb1-quest-1-818" class="trackbox" /> | 818 | [Base](/neptunia/rb1/dlc/1-base.html) | [Noble Pink Beret](/neptunia/rb1/quest/1-818-noble-pink-beret.html) |
-
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-816" class="trackbox" /> | 816 | [Base](/neptunia/rb1/dlc/1-base.html) | [Jet Black Beret](/neptunia/rb1/remake/1-816-jet-black-beret.html)<br />→ [Jet Black Beret](/neptunia/rb1/item/1-3519-jet-black-beret.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-1-817" class="trackbox" /> | 817 | [Base](/neptunia/rb1/dlc/1-base.html) | [Ice Blue Beret](/neptunia/rb1/remake/1-817-ice-blue-beret.html)<br />→ [Ice Blue Beret](/neptunia/rb1/item/1-3520-ice-blue-beret.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-1-818" class="trackbox" /> | 818 | [Base](/neptunia/rb1/dlc/1-base.html) | [Noble Pink Beret](/neptunia/rb1/remake/1-818-noble-pink-beret.html)<br />→ [Noble Pink Beret](/neptunia/rb1/item/1-3521-noble-pink-beret.html) (Accessory) | 1 |
 
 ## Player characters who can equip **Crystal Butterfly**
 

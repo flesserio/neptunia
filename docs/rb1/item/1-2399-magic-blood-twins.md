@@ -25,20 +25,17 @@ title: "Magic Blood Twins (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **Weapon skill** | [Attack](/neptunia/rb1/skill/1-2701-attack.html) |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 500 | 0 | 500 | 2660 | 0 | 2600 | 0 | 246 | 246 | 123 | 0 | 0 | 0 | 0 |
 
-
 ## Colosseum quests which reward **Magic Blood Twins**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
 | <input type="checkbox" id="rb1-colosseum-1-2024" class="trackbox" /> | 2024 | [Base](/neptunia/rb1/dlc/1-base.html) | [The Lineage of 'D' II](/neptunia/rb1/colosseum/1-2024-the-lineage-of-d-ii.html) |
-
 
 ## Player characters who can equip **Magic Blood Twins**
 

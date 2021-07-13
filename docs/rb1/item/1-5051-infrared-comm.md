@@ -24,22 +24,19 @@ title: "Infrared Comm. (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 10 |
 | **Max inventory** | 99 |
 | **Idea Chip level** | 3 |
-| **Idea Chip ability** | [Poison Immunity](/neptunia/rb1/avatar/1-9550-poison-immunity.html)<br />Gives Poison Immunity |
-
+| **Idea Chip ability** | [Poison Immunity](/neptunia/rb1/ability/1-9550-poison-immunity.html)<br />Gives Poison Immunity |
 
 ## Dungeons **Infrared Comm.** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
-| <input type="checkbox" id="rb1-dungeon-1-9" class="trackbox" /> | 9 | [Base](/neptunia/rb1/dlc/1-base.html) | [Marubaco Forest](/neptunia/rb1/dungeon/1-9-marubaco-forest.html) | Gathering point |
-
+| <input type="checkbox" id="rb1-dungeon-1-9" class="trackbox" /> | 9 | [Base](/neptunia/rb1/dlc/1-base.html) | [Marubaco Forest](/neptunia/rb1/dungeon/1-9-marubaco-forest.html) | Hidden treasure |
 
 ## Colosseum quests which reward **Infrared Comm.**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
 | <input type="checkbox" id="rb1-colosseum-1-2014" class="trackbox" /> | 2014 | [Base](/neptunia/rb1/dlc/1-base.html) | [Eggplant Panic](/neptunia/rb1/colosseum/1-2014-eggplant-panic.html) |
-
 
 ## Quests which reward **Infrared Comm.**
 

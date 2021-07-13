@@ -22,8 +22,7 @@ title: "Hardcore-oriented (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 10 |
 | **Max inventory** | 99 |
 | **Idea Chip level** | 5 |
-| **Idea Chip ability** | [Battle End HP Heal Lv.5](/neptunia/rb1/avatar/1-9636-battle-end-hp-heal-lv-5.html)<br />Increases Battle End HP Heal by 10% |
-
+| **Idea Chip ability** | [Battle End HP Heal Lv.5](/neptunia/rb1/ability/1-9636-battle-end-hp-heal-lv-5.html)<br />Increases Battle End HP Heal by 10% |
 
 ## Dungeons **Hardcore-oriented** is found
 

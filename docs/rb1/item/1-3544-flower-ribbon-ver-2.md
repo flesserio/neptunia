@@ -25,20 +25,17 @@ title: "Flower Ribbon Ver-2 (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 500 |
 | **Max inventory** | 99 |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 5 | 0 | 0 | 0 | 0 | 0 |
 
-
 ## Monsters which drop **Flower Ribbon Ver-2**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-1-138" class="trackbox" /> | 138 | [Base](/neptunia/rb1/dlc/1-base.html) | [Apeldoom](/neptunia/rb1/monster/1-138-apeldoom.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-1-138" class="trackbox" /> | 138 | [Base](/neptunia/rb1/dlc/1-base.html) | [Apeldoom](/neptunia/rb1/monster/1-138-apeldoom.html) | 15% |
 
 ## Dungeons **Flower Ribbon Ver-2** is found
 
@@ -46,7 +43,6 @@ title: "Flower Ribbon Ver-2 (Item) - Hyperdimension Neptunia Re;Birth1"
 | -- | -- | --- | ---- | ---- |
 | <input type="checkbox" id="rb1-dungeon-1-8" class="trackbox" /> | 8 | [Base](/neptunia/rb1/dlc/1-base.html) | [MS Mountain](/neptunia/rb1/dungeon/1-8-ms-mountain.html) | Monster drop |
 | <input type="checkbox" id="rb1-dungeon-1-26" class="trackbox" /> | 26 | [Base](/neptunia/rb1/dlc/1-base.html) | [MS Mountain Peak](/neptunia/rb1/dungeon/1-26-ms-mountain-peak.html) | Monster drop |
-
 
 ## Player characters who can equip **Flower Ribbon Ver-2**
 

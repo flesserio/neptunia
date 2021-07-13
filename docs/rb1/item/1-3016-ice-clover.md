@@ -24,20 +24,17 @@ title: "Ice Clover (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 2500 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Ice Clover** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-478" class="trackbox" /> | 478 | [Base](/neptunia/rb1/dlc/1-base.html) | [Ice Clover](/neptunia/rb1/remake/1-478-ice-clover.html)<br /> → [Ice Clover](/neptunia/rb1/item/1-3016-ice-clover.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-478" class="trackbox" /> | 478 | [Base](/neptunia/rb1/dlc/1-base.html) | [Ice Clover](/neptunia/rb1/remake/1-478-ice-clover.html)<br />→ [Ice Clover](/neptunia/rb1/item/1-3016-ice-clover.html) (Accessory) |
 
 ## Remake System plans which require **Ice Clover**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-479" class="trackbox" /> | 479 | [Base](/neptunia/rb1/dlc/1-base.html) | [Clover Pin](/neptunia/rb1/quest/1-479-clover-pin.html) |
-
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-479" class="trackbox" /> | 479 | [Base](/neptunia/rb1/dlc/1-base.html) | [Clover Pin](/neptunia/rb1/remake/1-479-clover-pin.html)<br />→ [Clover Pin](/neptunia/rb1/item/1-3017-clover-pin.html) (Accessory) | 1 |
 
 ## Player characters who can equip **Ice Clover**
 

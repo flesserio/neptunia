@@ -25,13 +25,11 @@ title: "Dual Blade Neptune (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Weapon skill** | [Slash](/neptunia/rb1/skill/1-2102-slash.html) |
 | **To unlock in shop** | Method 1<br />- View scene [Chapter 7: Back To Their Lands](/neptunia/rb1/scene/1-704-chapter-7-back-to-their-lands.html) |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 663 | 0 | 663 | 0 | 106 | 106 | 0 | 0 | 0 | 0 | 0 |
-
 
 ## Player characters who can equip **Dual Blade Neptune**
 

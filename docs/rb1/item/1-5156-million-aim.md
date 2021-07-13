@@ -22,13 +22,12 @@ title: "Million Aim (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 10 |
 | **Max inventory** | 99 |
 | **Idea Chip level** | 4 |
-| **Idea Chip ability** | [Gradual SP Recovery Lv.4](/neptunia/rb1/avatar/1-9655-gradual-sp-recovery-lv-4.html)<br />Increases SP Recovery Per Turn by 6% |
-
+| **Idea Chip ability** | [Gradual SP Recovery Lv.4](/neptunia/rb1/ability/1-9655-gradual-sp-recovery-lv-4.html)<br />Increases SP Recovery Per Turn by 6% |
 
 ## Dungeons **Million Aim** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
-| <input type="checkbox" id="rb1-dungeon-1-16" class="trackbox" /> | 16 | [Base](/neptunia/rb1/dlc/1-base.html) | [Soulsac Cave](/neptunia/rb1/dungeon/1-16-soulsac-cave.html) | Gathering point |
-| <input type="checkbox" id="rb1-dungeon-1-20" class="trackbox" /> | 20 | [Base](/neptunia/rb1/dlc/1-base.html) | [Factory No.459](/neptunia/rb1/dungeon/1-20-factory-no-459.html) | Gathering point |
-| <input type="checkbox" id="rb1-dungeon-12-125" class="trackbox" /> | 125 | [Additional Content Package 3](/neptunia/rb1/dlc/12-pack3.html) | [Haneda Forest](/neptunia/rb1/dungeon/12-125-haneda-forest.html) | Gathering point |
+| <input type="checkbox" id="rb1-dungeon-1-16" class="trackbox" /> | 16 | [Base](/neptunia/rb1/dlc/1-base.html) | [Soulsac Cave](/neptunia/rb1/dungeon/1-16-soulsac-cave.html) | Gathering point (Harvest Shift) |
+| <input type="checkbox" id="rb1-dungeon-1-20" class="trackbox" /> | 20 | [Base](/neptunia/rb1/dlc/1-base.html) | [Factory No.459](/neptunia/rb1/dungeon/1-20-factory-no-459.html) | Gathering point (Harvest Shift) |
+| <input type="checkbox" id="rb1-dungeon-12-125" class="trackbox" /> | 125 | [Additional Content Package 3](/neptunia/rb1/dlc/12-pack3.html) | [Haneda Forest](/neptunia/rb1/dungeon/12-125-haneda-forest.html) | Gathering point (Harvest Shift) |

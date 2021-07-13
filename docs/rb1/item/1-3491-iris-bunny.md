@@ -23,13 +23,11 @@ title: "Iris Bunny (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 2500 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Iris Bunny** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-795" class="trackbox" /> | 795 | [Base](/neptunia/rb1/dlc/1-base.html) | [Iris Bunny](/neptunia/rb1/remake/1-795-iris-bunny.html)<br /> → [Iris Bunny](/neptunia/rb1/item/1-3491-iris-bunny.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-795" class="trackbox" /> | 795 | [Base](/neptunia/rb1/dlc/1-base.html) | [Iris Bunny](/neptunia/rb1/remake/1-795-iris-bunny.html)<br />→ [Iris Bunny](/neptunia/rb1/item/1-3491-iris-bunny.html) (Accessory) |
 
 ## Player characters who can equip **Iris Bunny**
 

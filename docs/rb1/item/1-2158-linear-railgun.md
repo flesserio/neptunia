@@ -25,20 +25,17 @@ title: "Linear Railgun (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **Weapon skill** | [Shot](/neptunia/rb1/skill/1-1401-shot.html) |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | -210 | 2100 | 0 | 1400 | 0 | -210 | 0 | 0 | 0 | 0 | 0 | 0 |
 
-
 ## Colosseum quests which reward **Linear Railgun**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
 | <input type="checkbox" id="rb1-colosseum-1-2030" class="trackbox" /> | 2030 | [Base](/neptunia/rb1/dlc/1-base.html) | [New Beat](/neptunia/rb1/colosseum/1-2030-new-beat.html) |
-
 
 ## Player characters who can equip **Linear Railgun**
 

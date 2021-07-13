@@ -23,13 +23,11 @@ title: "Stripe Money (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 75000 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Stripe Money** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-448" class="trackbox" /> | 448 | [Base](/neptunia/rb1/dlc/1-base.html) | [Stripe Money](/neptunia/rb1/remake/1-448-stripe-money.html)<br /> → [Stripe Money](/neptunia/rb1/item/1-2872-stripe-money.html) (Clothing) |
-
+| <input type="checkbox" id="rb1-remake-1-448" class="trackbox" /> | 448 | [Base](/neptunia/rb1/dlc/1-base.html) | [Stripe Money](/neptunia/rb1/remake/1-448-stripe-money.html)<br />→ [Stripe Money](/neptunia/rb1/item/1-2872-stripe-money.html) (Clothing) |
 
 ## Player characters who can equip **Stripe Money**
 

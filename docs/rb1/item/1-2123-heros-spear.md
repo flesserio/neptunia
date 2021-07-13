@@ -24,13 +24,11 @@ title: "Hero's Spear (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 1 |
 | **Weapon skill** | [Fencer](/neptunia/rb1/skill/1-802-fencer.html) |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 745 | 0 | 897 | 0 | 60 | 60 | 0 | 0 | 0 | 0 | 0 |
-
 
 ## Player characters who can equip **Hero's Spear**
 

@@ -23,13 +23,11 @@ title: "Compa's Bandage (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 0 |
 | **Max inventory** | 99 |
 
-
 ## Player characters who have **Compa's Bandage** equipped by default
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
 | <input type="checkbox" id="rb1-player-17-21" class="trackbox" /> | 21 | [Additional Content Pack 8](/neptunia/rb1/dlc/17-pack8.html) | [Compa](/neptunia/rb1/player/17-21-compa.html) |
-
 
 ## Player characters who can equip **Compa's Bandage**
 

@@ -23,13 +23,11 @@ title: "Air Cleanser (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 2500 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Air Cleanser** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-613" class="trackbox" /> | 613 | [Base](/neptunia/rb1/dlc/1-base.html) | [Air Cleanser](/neptunia/rb1/remake/1-613-air-cleanser.html)<br /> → [Air Cleanser](/neptunia/rb1/item/1-3210-air-cleanser.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-613" class="trackbox" /> | 613 | [Base](/neptunia/rb1/dlc/1-base.html) | [Air Cleanser](/neptunia/rb1/remake/1-613-air-cleanser.html)<br />→ [Air Cleanser](/neptunia/rb1/item/1-3210-air-cleanser.html) (Accessory) |
 
 ## Player characters who can equip **Air Cleanser**
 

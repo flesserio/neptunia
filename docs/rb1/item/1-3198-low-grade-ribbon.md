@@ -24,16 +24,14 @@ title: "Low-Grade Ribbon (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **To unlock in shop** | Method 1<br />- View scene [Chapter 4: Where's Lowee's Key Fragment?](/neptunia/rb1/scene/1-410-chapter-4-wheres-lowees-key-fragment.html) |
 
-
 ## Remake System plans which require **Low-Grade Ribbon**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-604" class="trackbox" /> | 604 | [Base](/neptunia/rb1/dlc/1-base.html) | [Mai Waifu](/neptunia/rb1/quest/1-604-mai-waifu.html) |
-| <input type="checkbox" id="rb1-quest-1-605" class="trackbox" /> | 605 | [Base](/neptunia/rb1/dlc/1-base.html) | [1st Place Ribbon](/neptunia/rb1/quest/1-605-1st-place-ribbon.html) |
-| <input type="checkbox" id="rb1-quest-1-606" class="trackbox" /> | 606 | [Base](/neptunia/rb1/dlc/1-base.html) | [Good-Job Ribbon](/neptunia/rb1/quest/1-606-good-job-ribbon.html) |
-| <input type="checkbox" id="rb1-quest-1-607" class="trackbox" /> | 607 | [Base](/neptunia/rb1/dlc/1-base.html) | [Protagonist Ribbon](/neptunia/rb1/quest/1-607-protagonist-ribbon.html) |
-
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-604" class="trackbox" /> | 604 | [Base](/neptunia/rb1/dlc/1-base.html) | [Mai Waifu](/neptunia/rb1/remake/1-604-mai-waifu.html)<br />→ [Mai Waifu](/neptunia/rb1/item/1-3199-mai-waifu.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-1-605" class="trackbox" /> | 605 | [Base](/neptunia/rb1/dlc/1-base.html) | [1st Place Ribbon](/neptunia/rb1/remake/1-605-1st-place-ribbon.html)<br />→ [1st Place Ribbon](/neptunia/rb1/item/1-3200-1st-place-ribbon.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-1-606" class="trackbox" /> | 606 | [Base](/neptunia/rb1/dlc/1-base.html) | [Good-Job Ribbon](/neptunia/rb1/remake/1-606-good-job-ribbon.html)<br />→ [Good-Job Ribbon](/neptunia/rb1/item/1-3201-good-job-ribbon.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-1-607" class="trackbox" /> | 607 | [Base](/neptunia/rb1/dlc/1-base.html) | [Protagonist Ribbon](/neptunia/rb1/remake/1-607-protagonist-ribbon.html)<br />→ [Protagonist Ribbon](/neptunia/rb1/item/1-3202-protagonist-ribbon.html) (Accessory) | 1 |
 
 ## Player characters who can equip **Low-Grade Ribbon**
 

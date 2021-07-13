@@ -24,16 +24,14 @@ title: "Anti-Virus (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **Tool skill** | [Anti-Virus](/neptunia/rb1/skill/1-10030-anti-virus.html) |
 
-
 ## Remake System plans which unlock **Anti-Virus** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-337" class="trackbox" /> | 337 | [Base](/neptunia/rb1/dlc/1-base.html) | [Anti-Virus](/neptunia/rb1/remake/1-337-anti-virus.html)<br /> → [Anti-Virus](/neptunia/rb1/item/1-30-anti-virus.html) (Tool) |
-
+| <input type="checkbox" id="rb1-remake-1-337" class="trackbox" /> | 337 | [Base](/neptunia/rb1/dlc/1-base.html) | [Anti-Virus](/neptunia/rb1/remake/1-337-anti-virus.html)<br />→ [Anti-Virus](/neptunia/rb1/item/1-30-anti-virus.html) (Tool) |
 
 ## Remake System plans which require **Anti-Virus**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-421" class="trackbox" /> | 421 | [Base](/neptunia/rb1/dlc/1-base.html) | [Anti-Virus Patch](/neptunia/rb1/quest/1-421-anti-virus-patch.html) |
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-421" class="trackbox" /> | 421 | [Base](/neptunia/rb1/dlc/1-base.html) | [Anti-Virus Patch](/neptunia/rb1/remake/1-421-anti-virus-patch.html)<br />→ [Anti-Virus Patch](/neptunia/rb1/item/1-2760-anti-virus-patch.html) (Ornament) | 8 |

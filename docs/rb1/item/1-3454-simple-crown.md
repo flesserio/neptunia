@@ -23,13 +23,11 @@ title: "Simple Crown (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 2500 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Simple Crown** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-773" class="trackbox" /> | 773 | [Base](/neptunia/rb1/dlc/1-base.html) | [Simple Crown](/neptunia/rb1/remake/1-773-simple-crown.html)<br /> → [Simple Crown](/neptunia/rb1/item/1-3454-simple-crown.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-773" class="trackbox" /> | 773 | [Base](/neptunia/rb1/dlc/1-base.html) | [Simple Crown](/neptunia/rb1/remake/1-773-simple-crown.html)<br />→ [Simple Crown](/neptunia/rb1/item/1-3454-simple-crown.html) (Accessory) |
 
 ## Player characters who can equip **Simple Crown**
 

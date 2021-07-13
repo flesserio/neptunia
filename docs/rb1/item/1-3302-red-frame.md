@@ -23,13 +23,11 @@ title: "Red Frame (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 5000 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Red Frame** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-672" class="trackbox" /> | 672 | [Base](/neptunia/rb1/dlc/1-base.html) | [Red Frame](/neptunia/rb1/remake/1-672-red-frame.html)<br /> → [Red Frame](/neptunia/rb1/item/1-3302-red-frame.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-672" class="trackbox" /> | 672 | [Base](/neptunia/rb1/dlc/1-base.html) | [Red Frame](/neptunia/rb1/remake/1-672-red-frame.html)<br />→ [Red Frame](/neptunia/rb1/item/1-3302-red-frame.html) (Accessory) |
 
 ## Player characters who can equip **Red Frame**
 

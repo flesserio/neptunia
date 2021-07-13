@@ -22,7 +22,6 @@ title: "Anti-Static Keychain (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 0 |
 | **Max inventory** | 99 |
 
-
 ## Quests which reward **Anti-Static Keychain**
 
 |    | ID | DLC | Name |

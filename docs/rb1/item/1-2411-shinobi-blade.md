@@ -25,20 +25,17 @@ title: "Shinobi Blade (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **Weapon skill** | [L Slash](/neptunia/rb1/skill/1-2603-l-slash.html) |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 568 | 0 | 554 | 0 | 25 | 0 | 0 | 0 | 0 | 0 | 0 |
 
-
 ## Remake System plans which unlock **Shinobi Blade** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-381" class="trackbox" /> | 381 | [Base](/neptunia/rb1/dlc/1-base.html) | [Shinobi Blade](/neptunia/rb1/remake/1-381-shinobi-blade.html)<br /> → [Shinobi Blade](/neptunia/rb1/item/1-2411-shinobi-blade.html) (Sword (MarvelousAQL)) |
-
+| <input type="checkbox" id="rb1-remake-1-381" class="trackbox" /> | 381 | [Base](/neptunia/rb1/dlc/1-base.html) | [Shinobi Blade](/neptunia/rb1/remake/1-381-shinobi-blade.html)<br />→ [Shinobi Blade](/neptunia/rb1/item/1-2411-shinobi-blade.html) (Sword (MarvelousAQL)) |
 
 ## Player characters who can equip **Shinobi Blade**
 

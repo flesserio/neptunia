@@ -23,13 +23,11 @@ title: "Garnet Barrette (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 1500 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Garnet Barrette** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-620" class="trackbox" /> | 620 | [Base](/neptunia/rb1/dlc/1-base.html) | [Garnet Barrette](/neptunia/rb1/remake/1-620-garnet-barrette.html)<br /> → [Garnet Barrette](/neptunia/rb1/item/1-3229-garnet-barrette.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-620" class="trackbox" /> | 620 | [Base](/neptunia/rb1/dlc/1-base.html) | [Garnet Barrette](/neptunia/rb1/remake/1-620-garnet-barrette.html)<br />→ [Garnet Barrette](/neptunia/rb1/item/1-3229-garnet-barrette.html) (Accessory) |
 
 ## Player characters who can equip **Garnet Barrette**
 

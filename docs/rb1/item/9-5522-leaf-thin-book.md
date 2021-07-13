@@ -25,13 +25,11 @@ title: "Leaf-Thin Book (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Weapon skill** | [Break](/neptunia/rb1/skill/9-3003-break.html) |
 | **To unlock in shop** | Method 1<br />- Have save in first playthrough<br />- View scene [Chapter 2: Histoire And Arfoire](/neptunia/rb1/scene/1-201-chapter-2-histoire-and-arfoire.html)<br />- View scene [DLC 9 Event 1](/neptunia/rb1/scene/9-5030-dlc-9-event-1.html) |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 1500 | 0 | 1500 | 2375 | 0 | 3050 | 300 | 0 | 0 | 200 | 0 | 0 | 0 | 0 |
-
 
 ## Player characters who can equip **Leaf-Thin Book**
 

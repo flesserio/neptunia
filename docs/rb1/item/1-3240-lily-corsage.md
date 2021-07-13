@@ -23,13 +23,11 @@ title: "Lily Corsage (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 500 |
 | **Max inventory** | 99 |
 
-
 ## Dungeons **Lily Corsage** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
-| <input type="checkbox" id="rb1-dungeon-1-9" class="trackbox" /> | 9 | [Base](/neptunia/rb1/dlc/1-base.html) | [Marubaco Forest](/neptunia/rb1/dungeon/1-9-marubaco-forest.html) | Gathering point |
-
+| <input type="checkbox" id="rb1-dungeon-1-9" class="trackbox" /> | 9 | [Base](/neptunia/rb1/dlc/1-base.html) | [Marubaco Forest](/neptunia/rb1/dungeon/1-9-marubaco-forest.html) | Hidden treasure |
 
 ## Player characters who can equip **Lily Corsage**
 

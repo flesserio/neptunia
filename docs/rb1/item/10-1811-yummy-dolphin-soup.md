@@ -24,13 +24,11 @@ title: "Yummy Dolphin Soup (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 3256 |
 | **Max inventory** | 99 |
 
-
 ## Monsters which drop **Yummy Dolphin Soup**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-10-416" class="trackbox" /> | 416 | [Additional Content Package 1](/neptunia/rb1/dlc/10-pack1.html) | [1000-Year Dolphin](/neptunia/rb1/monster/10-416-1000-year-dolphin.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-10-416" class="trackbox" /> | 416 | [Additional Content Package 1](/neptunia/rb1/dlc/10-pack1.html) | [1000-Year Dolphin](/neptunia/rb1/monster/10-416-1000-year-dolphin.html) | 55% |
 
 ## Dungeons **Yummy Dolphin Soup** is found
 
@@ -39,9 +37,8 @@ title: "Yummy Dolphin Soup (Item) - Hyperdimension Neptunia Re;Birth1"
 | <input type="checkbox" id="rb1-dungeon-10-127" class="trackbox" /> | 127 | [Additional Content Package 1](/neptunia/rb1/dlc/10-pack1.html) | [Noma Cave](/neptunia/rb1/dungeon/10-127-noma-cave.html) | Gathering point |
 | <input type="checkbox" id="rb1-dungeon-10-127" class="trackbox" /> | 127 | [Additional Content Package 1](/neptunia/rb1/dlc/10-pack1.html) | [Noma Cave](/neptunia/rb1/dungeon/10-127-noma-cave.html) | Monster drop |
 
-
 ## Remake System plans which require **Yummy Dolphin Soup**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-10-396" class="trackbox" /> | 396 | [Additional Content Package 1](/neptunia/rb1/dlc/10-pack1.html) | [Shining Ring](/neptunia/rb1/quest/10-396-shining-ring.html) |
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-10-396" class="trackbox" /> | 396 | [Additional Content Package 1](/neptunia/rb1/dlc/10-pack1.html) | [Shining Ring](/neptunia/rb1/remake/10-396-shining-ring.html)<br />→ [Shining Ring](/neptunia/rb1/item/10-2560-shining-ring.html) (Armor) | 3 |

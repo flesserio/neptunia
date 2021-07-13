@@ -23,16 +23,14 @@ title: "Plan: Burst Qatar (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 0 |
 | **Max inventory** | 1 |
 
-
 ## Plans added to Remake System after collecting **Plan: Burst Qatar**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-365" class="trackbox" /> | 365 | [Base](/neptunia/rb1/dlc/1-base.html) | [Burst Qatar](/neptunia/rb1/remake/1-365-burst-qatar.html)<br /> → [Burst Qatar](/neptunia/rb1/item/1-2305-burst-qatar.html) (Qatar (IF)) |
-
+| <input type="checkbox" id="rb1-remake-1-365" class="trackbox" /> | 365 | [Base](/neptunia/rb1/dlc/1-base.html) | [Burst Qatar](/neptunia/rb1/remake/1-365-burst-qatar.html)<br />→ [Burst Qatar](/neptunia/rb1/item/1-2305-burst-qatar.html) (Qatar (IF)) |
 
 ## Dungeons **Plan: Burst Qatar** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
-| <input type="checkbox" id="rb1-dungeon-1-109" class="trackbox" /> | 109 | [Base](/neptunia/rb1/dlc/1-base.html) | [Duty Space](/neptunia/rb1/dungeon/1-109-duty-space.html) | Gathering point |
+| <input type="checkbox" id="rb1-dungeon-1-109" class="trackbox" /> | 109 | [Base](/neptunia/rb1/dlc/1-base.html) | [Duty Space](/neptunia/rb1/dungeon/1-109-duty-space.html) | Treasure |

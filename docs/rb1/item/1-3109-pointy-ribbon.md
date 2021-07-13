@@ -24,22 +24,19 @@ title: "Pointy Ribbon (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 2500 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Pointy Ribbon** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-537" class="trackbox" /> | 537 | [Base](/neptunia/rb1/dlc/1-base.html) | [Pointy Ribbon](/neptunia/rb1/remake/1-537-pointy-ribbon.html)<br /> → [Pointy Ribbon](/neptunia/rb1/item/1-3109-pointy-ribbon.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-537" class="trackbox" /> | 537 | [Base](/neptunia/rb1/dlc/1-base.html) | [Pointy Ribbon](/neptunia/rb1/remake/1-537-pointy-ribbon.html)<br />→ [Pointy Ribbon](/neptunia/rb1/item/1-3109-pointy-ribbon.html) (Accessory) |
 
 ## Remake System plans which require **Pointy Ribbon**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-538" class="trackbox" /> | 538 | [Base](/neptunia/rb1/dlc/1-base.html) | [Raindrop](/neptunia/rb1/quest/1-538-raindrop.html) |
-| <input type="checkbox" id="rb1-quest-1-539" class="trackbox" /> | 539 | [Base](/neptunia/rb1/dlc/1-base.html) | [Heroine Ribbon](/neptunia/rb1/quest/1-539-heroine-ribbon.html) |
-| <input type="checkbox" id="rb1-quest-1-540" class="trackbox" /> | 540 | [Base](/neptunia/rb1/dlc/1-base.html) | [Stepsister Ribbon](/neptunia/rb1/quest/1-540-stepsister-ribbon.html) |
-
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-538" class="trackbox" /> | 538 | [Base](/neptunia/rb1/dlc/1-base.html) | [Raindrop](/neptunia/rb1/remake/1-538-raindrop.html)<br />→ [Raindrop](/neptunia/rb1/item/1-3110-raindrop.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-1-539" class="trackbox" /> | 539 | [Base](/neptunia/rb1/dlc/1-base.html) | [Heroine Ribbon](/neptunia/rb1/remake/1-539-heroine-ribbon.html)<br />→ [Heroine Ribbon](/neptunia/rb1/item/1-3111-heroine-ribbon.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-1-540" class="trackbox" /> | 540 | [Base](/neptunia/rb1/dlc/1-base.html) | [Stepsister Ribbon](/neptunia/rb1/remake/1-540-stepsister-ribbon.html)<br />→ [Stepsister Ribbon](/neptunia/rb1/item/1-3112-stepsister-ribbon.html) (Accessory) | 1 |
 
 ## Player characters who can equip **Pointy Ribbon**
 

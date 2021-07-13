@@ -24,15 +24,13 @@ title: "Halo Bulb (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **To unlock in shop** | Method 1<br />- View scene [Chapter 3: (´・ω・｀) Ran-Ran](/neptunia/rb1/scene/1-309-chapter-3-ran-ran.html) |
 
-
 ## Remake System plans which require **Halo Bulb**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-648" class="trackbox" /> | 648 | [Base](/neptunia/rb1/dlc/1-base.html) | [Black Light](/neptunia/rb1/quest/1-648-black-light.html) |
-| <input type="checkbox" id="rb1-quest-1-649" class="trackbox" /> | 649 | [Base](/neptunia/rb1/dlc/1-base.html) | [Halogen Lamp](/neptunia/rb1/quest/1-649-halogen-lamp.html) |
-| <input type="checkbox" id="rb1-quest-1-650" class="trackbox" /> | 650 | [Base](/neptunia/rb1/dlc/1-base.html) | [Air Cleanser](/neptunia/rb1/quest/1-650-air-cleanser.html) |
-
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-648" class="trackbox" /> | 648 | [Base](/neptunia/rb1/dlc/1-base.html) | [Black Light](/neptunia/rb1/remake/1-648-black-light.html)<br />→ [Black Light](/neptunia/rb1/item/1-3268-black-light.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-1-649" class="trackbox" /> | 649 | [Base](/neptunia/rb1/dlc/1-base.html) | [Halogen Lamp](/neptunia/rb1/remake/1-649-halogen-lamp.html)<br />→ [Halogen Lamp](/neptunia/rb1/item/1-3269-halogen-lamp.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-1-650" class="trackbox" /> | 650 | [Base](/neptunia/rb1/dlc/1-base.html) | [Air Cleanser](/neptunia/rb1/remake/1-650-air-cleanser.html)<br />→ [Air Cleanser](/neptunia/rb1/item/1-3270-air-cleanser.html) (Accessory) | 1 |
 
 ## Player characters who can equip **Halo Bulb**
 

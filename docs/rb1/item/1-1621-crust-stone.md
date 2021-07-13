@@ -23,7 +23,6 @@ title: "Crust Stone (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 250 |
 | **Max inventory** | 99 |
 
-
 ## Dungeons **Crust Stone** is found
 
 |    | ID | DLC | Name | From |
@@ -32,10 +31,9 @@ title: "Crust Stone (Item) - Hyperdimension Neptunia Re;Birth1"
 | <input type="checkbox" id="rb1-dungeon-1-11" class="trackbox" /> | 11 | [Base](/neptunia/rb1/dlc/1-base.html) | [Halo Mountain Peak](/neptunia/rb1/dungeon/1-11-halo-mountain-peak.html) | Gathering point |
 | <input type="checkbox" id="rb1-dungeon-1-106" class="trackbox" /> | 106 | [Base](/neptunia/rb1/dlc/1-base.html) | [Gravidaze Ruins](/neptunia/rb1/dungeon/1-106-gravidaze-ruins.html) | Gathering point |
 
-
 ## Remake System plans which require **Crust Stone**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-335" class="trackbox" /> | 335 | [Base](/neptunia/rb1/dlc/1-base.html) | [Anti-Paralysis](/neptunia/rb1/quest/1-335-anti-paralysis.html) |
-| <input type="checkbox" id="rb1-quest-1-406" class="trackbox" /> | 406 | [Base](/neptunia/rb1/dlc/1-base.html) | [Thunderclap Ring](/neptunia/rb1/quest/1-406-thunderclap-ring.html) |
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-335" class="trackbox" /> | 335 | [Base](/neptunia/rb1/dlc/1-base.html) | [Anti-Paralysis](/neptunia/rb1/remake/1-335-anti-paralysis.html)<br />→ [Anti-Paralysis](/neptunia/rb1/item/1-28-anti-paralysis.html) (Tool) | 2 |
+| <input type="checkbox" id="rb1-remake-1-406" class="trackbox" /> | 406 | [Base](/neptunia/rb1/dlc/1-base.html) | [Thunderclap Ring](/neptunia/rb1/remake/1-406-thunderclap-ring.html)<br />→ [Thunderclap Ring](/neptunia/rb1/item/1-2732-thunderclap-ring.html) (Ornament) | 3 |

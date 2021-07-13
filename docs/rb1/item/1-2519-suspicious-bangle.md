@@ -25,27 +25,23 @@ title: "Suspicious Bangle (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 1000 |
 | **Max inventory** | 99 |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 183 | 0 | 0 | 0 | 367 | 0 | 262 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 
-
 ## Remake System plans which unlock **Suspicious Bangle** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-386" class="trackbox" /> | 386 | [Base](/neptunia/rb1/dlc/1-base.html) | [Suspicious Bangle](/neptunia/rb1/remake/1-386-suspicious-bangle.html)<br /> → [Suspicious Bangle](/neptunia/rb1/item/1-2519-suspicious-bangle.html) (Armor) |
-
+| <input type="checkbox" id="rb1-remake-1-386" class="trackbox" /> | 386 | [Base](/neptunia/rb1/dlc/1-base.html) | [Suspicious Bangle](/neptunia/rb1/remake/1-386-suspicious-bangle.html)<br />→ [Suspicious Bangle](/neptunia/rb1/item/1-2519-suspicious-bangle.html) (Armor) |
 
 ## Remake System plans which require **Suspicious Bangle**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-358" class="trackbox" /> | 358 | [Base](/neptunia/rb1/dlc/1-base.html) | [Demon Blade Curse](/neptunia/rb1/quest/1-358-demon-blade-curse.html) |
-
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-358" class="trackbox" /> | 358 | [Base](/neptunia/rb1/dlc/1-base.html) | [Demon Blade Curse](/neptunia/rb1/remake/1-358-demon-blade-curse.html)<br />→ [Demon Blade Curse](/neptunia/rb1/item/1-2021-demon-blade-curse.html) (Katana (Neptune)) | 1 |
 
 ## Player characters who can equip **Suspicious Bangle**
 

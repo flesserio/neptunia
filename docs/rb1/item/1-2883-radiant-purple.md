@@ -23,7 +23,6 @@ title: "Radiant Purple (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **To unlock in shop** | Method 1<br />- Have Uni unlocked. |
 
-
 ## Player characters who can equip **Radiant Purple**
 
 |    | ID | DLC | Name |

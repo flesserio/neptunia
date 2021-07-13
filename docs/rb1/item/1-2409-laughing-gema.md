@@ -25,20 +25,17 @@ title: "Laughing Gema (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **Weapon skill** | [Hit nyu all!](/neptunia/rb1/skill/1-2303-hit-nyu-all.html) |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 1000 | 0 | 1000 | 2780 | 258 | 1832 | 0 | 0 | 0 | 129 | 0 | 0 | 0 | 0 |
 
-
 ## Colosseum quests which reward **Laughing Gema**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
 | <input type="checkbox" id="rb1-colosseum-1-2015" class="trackbox" /> | 2015 | [Base](/neptunia/rb1/dlc/1-base.html) | [Brave Wings](/neptunia/rb1/colosseum/1-2015-brave-wings.html) |
-
 
 ## Player characters who can equip **Laughing Gema**
 

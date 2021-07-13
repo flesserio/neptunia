@@ -23,13 +23,11 @@ title: "Lost Purple H (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 0 |
 | **Max inventory** | 99 |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | -15 | -15 | 90 | 0 | 0 | 90 | 0 | 0 | 0 | 0 | 0 |
-
 
 ## Player characters who can equip **Lost Purple H**
 

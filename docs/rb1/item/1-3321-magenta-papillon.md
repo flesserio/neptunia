@@ -23,13 +23,11 @@ title: "Magenta Papillon (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 2500 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Magenta Papillon** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-686" class="trackbox" /> | 686 | [Base](/neptunia/rb1/dlc/1-base.html) | [Magenta Papillon](/neptunia/rb1/remake/1-686-magenta-papillon.html)<br /> → [Magenta Papillon](/neptunia/rb1/item/1-3321-magenta-papillon.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-686" class="trackbox" /> | 686 | [Base](/neptunia/rb1/dlc/1-base.html) | [Magenta Papillon](/neptunia/rb1/remake/1-686-magenta-papillon.html)<br />→ [Magenta Papillon](/neptunia/rb1/item/1-3321-magenta-papillon.html) (Accessory) |
 
 ## Player characters who can equip **Magenta Papillon**
 

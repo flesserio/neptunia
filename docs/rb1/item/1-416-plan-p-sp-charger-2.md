@@ -23,16 +23,14 @@ title: "Plan: P. SP Charger 2 (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 0 |
 | **Max inventory** | 1 |
 
-
 ## Plans added to Remake System after collecting **Plan: P. SP Charger 2**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-328" class="trackbox" /> | 328 | [Base](/neptunia/rb1/dlc/1-base.html) | [P. SP Charger 2](/neptunia/rb1/remake/1-328-p-sp-charger-2.html)<br /> → [P. SP Charger 2](/neptunia/rb1/item/1-16-p-sp-charger-2.html) (Tool) |
-
+| <input type="checkbox" id="rb1-remake-1-328" class="trackbox" /> | 328 | [Base](/neptunia/rb1/dlc/1-base.html) | [P. SP Charger 2](/neptunia/rb1/remake/1-328-p-sp-charger-2.html)<br />→ [P. SP Charger 2](/neptunia/rb1/item/1-16-p-sp-charger-2.html) (Tool) |
 
 ## Dungeons **Plan: P. SP Charger 2** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
-| <input type="checkbox" id="rb1-dungeon-1-16" class="trackbox" /> | 16 | [Base](/neptunia/rb1/dlc/1-base.html) | [Soulsac Cave](/neptunia/rb1/dungeon/1-16-soulsac-cave.html) | Gathering point |
+| <input type="checkbox" id="rb1-dungeon-1-16" class="trackbox" /> | 16 | [Base](/neptunia/rb1/dlc/1-base.html) | [Soulsac Cave](/neptunia/rb1/dungeon/1-16-soulsac-cave.html) | Treasure |

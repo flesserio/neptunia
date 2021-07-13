@@ -24,14 +24,12 @@ title: "Kupokitty Claw (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 13 |
 | **Max inventory** | 99 |
 
-
 ## Monsters which drop **Kupokitty Claw**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-21-8055" class="trackbox" /> | 8055 | [Additional Content Pack 12](/neptunia/rb1/dlc/21-pack12.html) | [Kupokitty](/neptunia/rb1/monster/21-8055-kupokitty.html) |
-| <input type="checkbox" id="rb1-monster-1-155" class="trackbox" /> | 155 | [Base](/neptunia/rb1/dlc/1-base.html) | [Kupokitty](/neptunia/rb1/monster/1-155-kupokitty.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-21-8055" class="trackbox" /> | 8055 | [Additional Content Pack 12](/neptunia/rb1/dlc/21-pack12.html) | [Kupokitty](/neptunia/rb1/monster/21-8055-kupokitty.html) | 40% |
+| <input type="checkbox" id="rb1-monster-1-155" class="trackbox" /> | 155 | [Base](/neptunia/rb1/dlc/1-base.html) | [Kupokitty](/neptunia/rb1/monster/1-155-kupokitty.html) | 40% |
 
 ## Dungeons **Kupokitty Claw** is found
 
@@ -40,9 +38,8 @@ title: "Kupokitty Claw (Item) - Hyperdimension Neptunia Re;Birth1"
 | <input type="checkbox" id="rb1-dungeon-1-11" class="trackbox" /> | 11 | [Base](/neptunia/rb1/dlc/1-base.html) | [Halo Mountain Peak](/neptunia/rb1/dungeon/1-11-halo-mountain-peak.html) | Monster drop |
 | <input type="checkbox" id="rb1-dungeon-21-303" class="trackbox" /> | 303 | [Additional Content Pack 12](/neptunia/rb1/dlc/21-pack12.html) | [Lili Dungeon](/neptunia/rb1/dungeon/21-303-lili-dungeon.html) | Monster drop |
 
-
 ## Remake System plans which require **Kupokitty Claw**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-475" class="trackbox" /> | 475 | [Base](/neptunia/rb1/dlc/1-base.html) | [Black Cat](/neptunia/rb1/quest/1-475-black-cat.html) |
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-475" class="trackbox" /> | 475 | [Base](/neptunia/rb1/dlc/1-base.html) | [Black Cat](/neptunia/rb1/remake/1-475-black-cat.html)<br />→ [Black Cat](/neptunia/rb1/item/1-3012-black-cat.html) (Accessory) | 1 |

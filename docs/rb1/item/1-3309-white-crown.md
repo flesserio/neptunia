@@ -23,13 +23,11 @@ title: "White Crown (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 1500 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **White Crown** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-677" class="trackbox" /> | 677 | [Base](/neptunia/rb1/dlc/1-base.html) | [White Crown](/neptunia/rb1/remake/1-677-white-crown.html)<br /> → [White Crown](/neptunia/rb1/item/1-3309-white-crown.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-677" class="trackbox" /> | 677 | [Base](/neptunia/rb1/dlc/1-base.html) | [White Crown](/neptunia/rb1/remake/1-677-white-crown.html)<br />→ [White Crown](/neptunia/rb1/item/1-3309-white-crown.html) (Accessory) |
 
 ## Player characters who can equip **White Crown**
 

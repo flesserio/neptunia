@@ -24,22 +24,19 @@ title: "Heart Barrette (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 1500 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Heart Barrette** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-617" class="trackbox" /> | 617 | [Base](/neptunia/rb1/dlc/1-base.html) | [Heart Barrette](/neptunia/rb1/remake/1-617-heart-barrette.html)<br /> → [Heart Barrette](/neptunia/rb1/item/1-3226-heart-barrette.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-617" class="trackbox" /> | 617 | [Base](/neptunia/rb1/dlc/1-base.html) | [Heart Barrette](/neptunia/rb1/remake/1-617-heart-barrette.html)<br />→ [Heart Barrette](/neptunia/rb1/item/1-3226-heart-barrette.html) (Accessory) |
 
 ## Remake System plans which require **Heart Barrette**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-618" class="trackbox" /> | 618 | [Base](/neptunia/rb1/dlc/1-base.html) | [Spinel Barrette](/neptunia/rb1/quest/1-618-spinel-barrette.html) |
-| <input type="checkbox" id="rb1-quest-1-619" class="trackbox" /> | 619 | [Base](/neptunia/rb1/dlc/1-base.html) | [Peridot Barrette](/neptunia/rb1/quest/1-619-peridot-barrette.html) |
-| <input type="checkbox" id="rb1-quest-1-620" class="trackbox" /> | 620 | [Base](/neptunia/rb1/dlc/1-base.html) | [Garnet Barrette](/neptunia/rb1/quest/1-620-garnet-barrette.html) |
-
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-618" class="trackbox" /> | 618 | [Base](/neptunia/rb1/dlc/1-base.html) | [Spinel Barrette](/neptunia/rb1/remake/1-618-spinel-barrette.html)<br />→ [Spinel Barrette](/neptunia/rb1/item/1-3227-spinel-barrette.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-1-619" class="trackbox" /> | 619 | [Base](/neptunia/rb1/dlc/1-base.html) | [Peridot Barrette](/neptunia/rb1/remake/1-619-peridot-barrette.html)<br />→ [Peridot Barrette](/neptunia/rb1/item/1-3228-peridot-barrette.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-1-620" class="trackbox" /> | 620 | [Base](/neptunia/rb1/dlc/1-base.html) | [Garnet Barrette](/neptunia/rb1/remake/1-620-garnet-barrette.html)<br />→ [Garnet Barrette](/neptunia/rb1/item/1-3229-garnet-barrette.html) (Accessory) | 1 |
 
 ## Player characters who can equip **Heart Barrette**
 

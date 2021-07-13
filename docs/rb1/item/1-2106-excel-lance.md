@@ -25,20 +25,17 @@ title: "Excel-Lance (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **Weapon skill** | [Attack](/neptunia/rb1/skill/1-801-attack.html) |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 266 | -14 | 280 | 0 | 0 | 17 | 0 | 0 | 0 | 0 | 0 |
 
-
 ## Remake System plans which unlock **Excel-Lance** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-374" class="trackbox" /> | 374 | [Base](/neptunia/rb1/dlc/1-base.html) | [Excel-Lance](/neptunia/rb1/remake/1-374-excel-lance.html)<br /> → [Excel-Lance](/neptunia/rb1/item/1-2106-excel-lance.html) (Spear (Vert)) |
-
+| <input type="checkbox" id="rb1-remake-1-374" class="trackbox" /> | 374 | [Base](/neptunia/rb1/dlc/1-base.html) | [Excel-Lance](/neptunia/rb1/remake/1-374-excel-lance.html)<br />→ [Excel-Lance](/neptunia/rb1/item/1-2106-excel-lance.html) (Spear (Vert)) |
 
 ## Player characters who can equip **Excel-Lance**
 

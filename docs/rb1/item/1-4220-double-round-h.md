@@ -25,21 +25,18 @@ title: "Double Round H (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 1000 |
 | **Max inventory** | 99 |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 40 | 25 | 0 | 0 | -15 | 90 | 0 | 0 | 0 | 0 | 0 |
 
-
 ## Monsters which drop **Double Round H**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-1-379" class="trackbox" /> | 379 | [Base](/neptunia/rb1/dlc/1-base.html) | [Snow Boy](/neptunia/rb1/monster/1-379-snow-boy.html) |
-| <input type="checkbox" id="rb1-monster-16-1060" class="trackbox" /> | 1060 | [Additional Content Pack 7](/neptunia/rb1/dlc/16-pack7.html) | [Snow Boy](/neptunia/rb1/monster/16-1060-snow-boy.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-1-379" class="trackbox" /> | 379 | [Base](/neptunia/rb1/dlc/1-base.html) | [Snow Boy](/neptunia/rb1/monster/1-379-snow-boy.html) | 15% |
+| <input type="checkbox" id="rb1-monster-16-1060" class="trackbox" /> | 1060 | [Additional Content Pack 7](/neptunia/rb1/dlc/16-pack7.html) | [Snow Boy](/neptunia/rb1/monster/16-1060-snow-boy.html) | 15% |
 
 ## Dungeons **Double Round H** is found
 
@@ -47,7 +44,6 @@ title: "Double Round H (Item) - Hyperdimension Neptunia Re;Birth1"
 | -- | -- | --- | ---- | ---- |
 | <input type="checkbox" id="rb1-dungeon-1-121" class="trackbox" /> | 121 | [Base](/neptunia/rb1/dlc/1-base.html) | [Dees Snow Forest](/neptunia/rb1/dungeon/1-121-dees-snow-forest.html) | Monster drop |
 | <input type="checkbox" id="rb1-dungeon-16-131" class="trackbox" /> | 131 | [Additional Content Pack 7](/neptunia/rb1/dlc/16-pack7.html) | [Rebeat Resort](/neptunia/rb1/dungeon/16-131-rebeat-resort.html) | Monster drop |
-
 
 ## Player characters who can equip **Double Round H**
 

@@ -23,13 +23,11 @@ title: "Large Medal S (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 0 |
 | **Max inventory** | 1 |
 
-
 ## Monsters which drop **Large Medal S**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-1-192" class="trackbox" /> | 192 | [Base](/neptunia/rb1/dlc/1-base.html) | [Undisputed God's Peon](/neptunia/rb1/monster/1-192-undisputed-gods-peon.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-1-192" class="trackbox" /> | 192 | [Base](/neptunia/rb1/dlc/1-base.html) | [Undisputed God's Peon](/neptunia/rb1/monster/1-192-undisputed-gods-peon.html) | 100% |
 
 ## Dungeons **Large Medal S** is found
 

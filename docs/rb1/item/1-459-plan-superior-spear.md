@@ -23,16 +23,14 @@ title: "Plan: Superior Spear (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 0 |
 | **Max inventory** | 1 |
 
-
 ## Plans added to Remake System after collecting **Plan: Superior Spear**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-378" class="trackbox" /> | 378 | [Base](/neptunia/rb1/dlc/1-base.html) | [Superior Spear](/neptunia/rb1/remake/1-378-superior-spear.html)<br /> → [Superior Spear](/neptunia/rb1/item/1-2114-superior-spear.html) (Spear (Vert)) |
-
+| <input type="checkbox" id="rb1-remake-1-378" class="trackbox" /> | 378 | [Base](/neptunia/rb1/dlc/1-base.html) | [Superior Spear](/neptunia/rb1/remake/1-378-superior-spear.html)<br />→ [Superior Spear](/neptunia/rb1/item/1-2114-superior-spear.html) (Spear (Vert)) |
 
 ## Dungeons **Plan: Superior Spear** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
-| <input type="checkbox" id="rb1-dungeon-1-121" class="trackbox" /> | 121 | [Base](/neptunia/rb1/dlc/1-base.html) | [Dees Snow Forest](/neptunia/rb1/dungeon/1-121-dees-snow-forest.html) | Gathering point |
+| <input type="checkbox" id="rb1-dungeon-1-121" class="trackbox" /> | 121 | [Base](/neptunia/rb1/dlc/1-base.html) | [Dees Snow Forest](/neptunia/rb1/dungeon/1-121-dees-snow-forest.html) | Treasure |

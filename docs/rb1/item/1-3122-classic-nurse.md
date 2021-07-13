@@ -23,13 +23,11 @@ title: "Classic Nurse (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 7500 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Classic Nurse** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-555" class="trackbox" /> | 555 | [Base](/neptunia/rb1/dlc/1-base.html) | [Classic Nurse](/neptunia/rb1/remake/1-555-classic-nurse.html)<br /> → [Classic Nurse](/neptunia/rb1/item/1-3122-classic-nurse.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-555" class="trackbox" /> | 555 | [Base](/neptunia/rb1/dlc/1-base.html) | [Classic Nurse](/neptunia/rb1/remake/1-555-classic-nurse.html)<br />→ [Classic Nurse](/neptunia/rb1/item/1-3122-classic-nurse.html) (Accessory) |
 
 ## Player characters who can equip **Classic Nurse**
 

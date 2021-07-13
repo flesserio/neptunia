@@ -24,20 +24,17 @@ title: "Shining Ring (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 62500 |
 | **Max inventory** | 99 |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 0 | 2932 | 0 | 2422 | 366 | 366 | 0 | 0 | 0 | 0 | 0 |
 
-
 ## Remake System plans which unlock **Shining Ring** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-10-396" class="trackbox" /> | 396 | [Additional Content Package 1](/neptunia/rb1/dlc/10-pack1.html) | [Shining Ring](/neptunia/rb1/remake/10-396-shining-ring.html)<br /> → [Shining Ring](/neptunia/rb1/item/10-2560-shining-ring.html) (Armor) |
-
+| <input type="checkbox" id="rb1-remake-10-396" class="trackbox" /> | 396 | [Additional Content Package 1](/neptunia/rb1/dlc/10-pack1.html) | [Shining Ring](/neptunia/rb1/remake/10-396-shining-ring.html)<br />→ [Shining Ring](/neptunia/rb1/item/10-2560-shining-ring.html) (Armor) |
 
 ## Player characters who can equip **Shining Ring**
 

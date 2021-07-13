@@ -23,16 +23,14 @@ title: "Plan: Engage Ring (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 0 |
 | **Max inventory** | 1 |
 
-
 ## Chirpers who give **Plan: Engage Ring**
 
 |    | ID | DLC | Avatar | Message | Conditions |
 | -- | -- | --- | ------ | ------- | ---------- |
-| <input type="checkbox" id="rb1-chirper-event-1-5014" class="trackbox" /> | 5014 | [Base](/neptunia/rb1/dlc/1-base.html) | [2x-Rainbow Man](/neptunia/rb1/undefined/1-218-2x-rainbow-man.html) | Here's a Plan for an accessory.<br />I gave this to my girl, but she doesn't come out of the screen.<br />I wonder if she's just shy? | View scene [Chapter 6: 128th Where's Histy Summit](/neptunia/rb1/scene/1-601-chapter-6-128th-wheres-histy-summit.html)<br />Do not view scene [Chapter 8: The True Arfoire](/neptunia/rb1/scene/1-807-chapter-8-the-true-arfoire.html) |
-
+| <input type="checkbox" id="rb1-chirper-event-1-5014" class="trackbox" /> | 5014 | [Base](/neptunia/rb1/dlc/1-base.html) | [2x-Rainbow Man](/neptunia/rb1/avatar/1-218-2x-rainbow-man.html) | Here's a Plan for an accessory.<br />I gave this to my girl, but she doesn't come out of the screen.<br />I wonder if she's just shy? | View scene [Chapter 6: 128th Where's Histy Summit](/neptunia/rb1/scene/1-601-chapter-6-128th-wheres-histy-summit.html)<br />Do not view scene [Chapter 8: The True Arfoire](/neptunia/rb1/scene/1-807-chapter-8-the-true-arfoire.html) |
 
 ## Plans added to Remake System after collecting **Plan: Engage Ring**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-412" class="trackbox" /> | 412 | [Base](/neptunia/rb1/dlc/1-base.html) | [Engage Ring](/neptunia/rb1/remake/1-412-engage-ring.html)<br /> → [Engage Ring](/neptunia/rb1/item/1-2738-engage-ring.html) (Ornament) |
+| <input type="checkbox" id="rb1-remake-1-412" class="trackbox" /> | 412 | [Base](/neptunia/rb1/dlc/1-base.html) | [Engage Ring](/neptunia/rb1/remake/1-412-engage-ring.html)<br />→ [Engage Ring](/neptunia/rb1/item/1-2738-engage-ring.html) (Ornament) |

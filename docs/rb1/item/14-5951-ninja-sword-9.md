@@ -24,13 +24,11 @@ title: "Ninja Sword+9 (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **Weapon skill** | [Attack](/neptunia/rb1/skill/1-2601-attack.html) |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 270 | 0 | 0 | 1980 | 0 | 2433 | 54 | 54 | 0 | 0 | 0 | 0 | 0 | 0 |
-
 
 ## Player characters who can equip **Ninja Sword+9**
 

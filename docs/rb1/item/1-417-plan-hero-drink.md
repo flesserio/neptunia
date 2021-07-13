@@ -23,16 +23,14 @@ title: "Plan: Hero Drink (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 0 |
 | **Max inventory** | 1 |
 
-
 ## Plans added to Remake System after collecting **Plan: Hero Drink**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-329" class="trackbox" /> | 329 | [Base](/neptunia/rb1/dlc/1-base.html) | [Hero Drink](/neptunia/rb1/remake/1-329-hero-drink.html)<br /> → [Hero Drink](/neptunia/rb1/item/1-17-hero-drink.html) (Tool) |
-
+| <input type="checkbox" id="rb1-remake-1-329" class="trackbox" /> | 329 | [Base](/neptunia/rb1/dlc/1-base.html) | [Hero Drink](/neptunia/rb1/remake/1-329-hero-drink.html)<br />→ [Hero Drink](/neptunia/rb1/item/1-17-hero-drink.html) (Tool) |
 
 ## Dungeons **Plan: Hero Drink** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
-| <input type="checkbox" id="rb1-dungeon-1-103" class="trackbox" /> | 103 | [Base](/neptunia/rb1/dlc/1-base.html) | [Ortan Fields](/neptunia/rb1/dungeon/1-103-ortan-fields.html) | Gathering point |
+| <input type="checkbox" id="rb1-dungeon-1-103" class="trackbox" /> | 103 | [Base](/neptunia/rb1/dlc/1-base.html) | [Ortan Fields](/neptunia/rb1/dungeon/1-103-ortan-fields.html) | Treasure |

@@ -23,13 +23,11 @@ title: "Sugar Style (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 25000 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Sugar Style** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-425" class="trackbox" /> | 425 | [Base](/neptunia/rb1/dlc/1-base.html) | [Sugar Style](/neptunia/rb1/remake/1-425-sugar-style.html)<br /> → [Sugar Style](/neptunia/rb1/item/1-2831-sugar-style.html) (Clothing) |
-
+| <input type="checkbox" id="rb1-remake-1-425" class="trackbox" /> | 425 | [Base](/neptunia/rb1/dlc/1-base.html) | [Sugar Style](/neptunia/rb1/remake/1-425-sugar-style.html)<br />→ [Sugar Style](/neptunia/rb1/item/1-2831-sugar-style.html) (Clothing) |
 
 ## Player characters who can equip **Sugar Style**
 

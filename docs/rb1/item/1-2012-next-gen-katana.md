@@ -25,13 +25,11 @@ title: "Next-Gen Katana (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Weapon skill** | [Attack](/neptunia/rb1/skill/1-1-attack.html) |
 | **To unlock in shop** | Method 1<br />- View scene [Chapter 5: Air Nep-Nep](/neptunia/rb1/scene/1-502-chapter-5-air-nep-nep.html) |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 367 | 0 | 262 | 0 | -37 | -37 | 0 | 0 | 0 | 0 | 0 |
-
 
 ## Player characters who can equip **Next-Gen Katana**
 

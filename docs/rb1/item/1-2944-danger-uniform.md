@@ -24,20 +24,17 @@ title: "Danger Uniform (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 500 |
 | **Max inventory** | 99 |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 0 | 0 | 0 | 15 | 0 | 0 | 0 | 10 | 0 | 0 | 0 |
 
-
 ## Quests which reward **Danger Uniform**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
 | <input type="checkbox" id="rb1-quest-1-611" class="trackbox" /> | 611 | [Base](/neptunia/rb1/dlc/1-base.html) | [For the team](/neptunia/rb1/quest/1-611-for-the-team.html) |
-
 
 ## Player characters who can equip **Danger Uniform**
 

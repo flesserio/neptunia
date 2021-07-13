@@ -24,20 +24,17 @@ title: "SP Buster II (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 2500 |
 | **Max inventory** | 99 |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 1000 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 
-
 ## Remake System plans which unlock **SP Buster II** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-397" class="trackbox" /> | 397 | [Base](/neptunia/rb1/dlc/1-base.html) | [SP Buster II](/neptunia/rb1/remake/1-397-sp-buster-ii.html)<br /> → [SP Buster II](/neptunia/rb1/item/1-2723-sp-buster-ii.html) (Ornament) |
-
+| <input type="checkbox" id="rb1-remake-1-397" class="trackbox" /> | 397 | [Base](/neptunia/rb1/dlc/1-base.html) | [SP Buster II](/neptunia/rb1/remake/1-397-sp-buster-ii.html)<br />→ [SP Buster II](/neptunia/rb1/item/1-2723-sp-buster-ii.html) (Ornament) |
 
 ## Player characters who can equip **SP Buster II**
 

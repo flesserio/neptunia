@@ -23,13 +23,11 @@ title: "Fine Black (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 2500 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Fine Black** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-543" class="trackbox" /> | 543 | [Base](/neptunia/rb1/dlc/1-base.html) | [Fine Black](/neptunia/rb1/remake/1-543-fine-black.html)<br /> → [Fine Black](/neptunia/rb1/item/1-3115-fine-black.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-543" class="trackbox" /> | 543 | [Base](/neptunia/rb1/dlc/1-base.html) | [Fine Black](/neptunia/rb1/remake/1-543-fine-black.html)<br />→ [Fine Black](/neptunia/rb1/item/1-3115-fine-black.html) (Accessory) |
 
 ## Player characters who can equip **Fine Black**
 

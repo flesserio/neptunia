@@ -23,16 +23,14 @@ title: "Plan: Suspicious Bangle (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 0 |
 | **Max inventory** | 1 |
 
-
 ## Plans added to Remake System after collecting **Plan: Suspicious Bangle**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-386" class="trackbox" /> | 386 | [Base](/neptunia/rb1/dlc/1-base.html) | [Suspicious Bangle](/neptunia/rb1/remake/1-386-suspicious-bangle.html)<br /> → [Suspicious Bangle](/neptunia/rb1/item/1-2519-suspicious-bangle.html) (Armor) |
-
+| <input type="checkbox" id="rb1-remake-1-386" class="trackbox" /> | 386 | [Base](/neptunia/rb1/dlc/1-base.html) | [Suspicious Bangle](/neptunia/rb1/remake/1-386-suspicious-bangle.html)<br />→ [Suspicious Bangle](/neptunia/rb1/item/1-2519-suspicious-bangle.html) (Armor) |
 
 ## Dungeons **Plan: Suspicious Bangle** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
-| <input type="checkbox" id="rb1-dungeon-1-9" class="trackbox" /> | 9 | [Base](/neptunia/rb1/dlc/1-base.html) | [Marubaco Forest](/neptunia/rb1/dungeon/1-9-marubaco-forest.html) | Gathering point |
+| <input type="checkbox" id="rb1-dungeon-1-9" class="trackbox" /> | 9 | [Base](/neptunia/rb1/dlc/1-base.html) | [Marubaco Forest](/neptunia/rb1/dungeon/1-9-marubaco-forest.html) | Treasure |

@@ -24,15 +24,13 @@ title: "Clear Purple Ribbon (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **To unlock in shop** | Method 1<br />- Have Rom & Ram unlocked. |
 
-
 ## Remake System plans which require **Clear Purple Ribbon**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-801" class="trackbox" /> | 801 | [Base](/neptunia/rb1/dlc/1-base.html) | [Clear Blue Ribbon](/neptunia/rb1/quest/1-801-clear-blue-ribbon.html) |
-| <input type="checkbox" id="rb1-quest-1-802" class="trackbox" /> | 802 | [Base](/neptunia/rb1/dlc/1-base.html) | [Clear Pink Ribbon](/neptunia/rb1/quest/1-802-clear-pink-ribbon.html) |
-| <input type="checkbox" id="rb1-quest-1-803" class="trackbox" /> | 803 | [Base](/neptunia/rb1/dlc/1-base.html) | [Clear Lime Ribbon](/neptunia/rb1/quest/1-803-clear-lime-ribbon.html) |
-
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-801" class="trackbox" /> | 801 | [Base](/neptunia/rb1/dlc/1-base.html) | [Clear Blue Ribbon](/neptunia/rb1/remake/1-801-clear-blue-ribbon.html)<br />→ [Clear Blue Ribbon](/neptunia/rb1/item/1-3499-clear-blue-ribbon.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-1-802" class="trackbox" /> | 802 | [Base](/neptunia/rb1/dlc/1-base.html) | [Clear Pink Ribbon](/neptunia/rb1/remake/1-802-clear-pink-ribbon.html)<br />→ [Clear Pink Ribbon](/neptunia/rb1/item/1-3500-clear-pink-ribbon.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-1-803" class="trackbox" /> | 803 | [Base](/neptunia/rb1/dlc/1-base.html) | [Clear Lime Ribbon](/neptunia/rb1/remake/1-803-clear-lime-ribbon.html)<br />→ [Clear Lime Ribbon](/neptunia/rb1/item/1-3501-clear-lime-ribbon.html) (Accessory) | 1 |
 
 ## Player characters who can equip **Clear Purple Ribbon**
 

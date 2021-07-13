@@ -24,20 +24,17 @@ title: "LASOU Uniform (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 500 |
 | **Max inventory** | 99 |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 30 | 0 | 0 | 0 | 0 |
 
-
 ## Quests which reward **LASOU Uniform**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
 | <input type="checkbox" id="rb1-quest-1-704" class="trackbox" /> | 704 | [Base](/neptunia/rb1/dlc/1-base.html) | [Key to victory is friendship](/neptunia/rb1/quest/1-704-key-to-victory-is-friendship.html) |
-
 
 ## Player characters who can equip **LASOU Uniform**
 

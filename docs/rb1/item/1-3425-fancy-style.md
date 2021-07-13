@@ -23,13 +23,11 @@ title: "Fancy Style (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 1500 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Fancy Style** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-757" class="trackbox" /> | 757 | [Base](/neptunia/rb1/dlc/1-base.html) | [Fancy Style](/neptunia/rb1/remake/1-757-fancy-style.html)<br /> → [Fancy Style](/neptunia/rb1/item/1-3425-fancy-style.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-757" class="trackbox" /> | 757 | [Base](/neptunia/rb1/dlc/1-base.html) | [Fancy Style](/neptunia/rb1/remake/1-757-fancy-style.html)<br />→ [Fancy Style](/neptunia/rb1/item/1-3425-fancy-style.html) (Accessory) |
 
 ## Player characters who can equip **Fancy Style**
 

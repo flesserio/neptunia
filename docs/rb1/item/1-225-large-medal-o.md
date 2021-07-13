@@ -23,13 +23,11 @@ title: "Large Medal O (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 0 |
 | **Max inventory** | 1 |
 
-
 ## Monsters which drop **Large Medal O**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-1-200" class="trackbox" /> | 200 | [Base](/neptunia/rb1/dlc/1-base.html) | [Viral Mareshimono](/neptunia/rb1/monster/1-200-viral-mareshimono.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-1-200" class="trackbox" /> | 200 | [Base](/neptunia/rb1/dlc/1-base.html) | [Viral Mareshimono](/neptunia/rb1/monster/1-200-viral-mareshimono.html) | 100% |
 
 ## Dungeons **Large Medal O** is found
 

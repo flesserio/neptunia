@@ -25,13 +25,11 @@ title: "Claymore (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Weapon skill** | [Slash](/neptunia/rb1/skill/1-2-slash.html) |
 | **To unlock in shop** | Method 1<br />- View scene [Chapter 3: Leanbox](/neptunia/rb1/scene/1-302-chapter-3-leanbox.html) |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 162 | 0 | 116 | 0 | -17 | -17 | 0 | 0 | 0 | 0 | 0 |
-
 
 ## Player characters who can equip **Claymore**
 

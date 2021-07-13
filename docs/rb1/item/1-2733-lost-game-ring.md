@@ -25,27 +25,23 @@ title: "Lost Game Ring (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 3000 |
 | **Max inventory** | 99 |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 100 | 100 | 0 | 0 | 0 | 0 | -100 | 0 | 0 | 0 | 0 |
 
-
 ## Remake System plans which unlock **Lost Game Ring** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-407" class="trackbox" /> | 407 | [Base](/neptunia/rb1/dlc/1-base.html) | [Lost Game Ring](/neptunia/rb1/remake/1-407-lost-game-ring.html)<br /> → [Lost Game Ring](/neptunia/rb1/item/1-2733-lost-game-ring.html) (Ornament) |
-
+| <input type="checkbox" id="rb1-remake-1-407" class="trackbox" /> | 407 | [Base](/neptunia/rb1/dlc/1-base.html) | [Lost Game Ring](/neptunia/rb1/remake/1-407-lost-game-ring.html)<br />→ [Lost Game Ring](/neptunia/rb1/item/1-2733-lost-game-ring.html) (Ornament) |
 
 ## Remake System plans which require **Lost Game Ring**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-5" class="trackbox" /> | 5 | [Base](/neptunia/rb1/dlc/1-base.html) | [Break Damage Limit](/neptunia/rb1/quest/1-5-break-damage-limit.html) |
-
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-5" class="trackbox" /> | 5 | [Base](/neptunia/rb1/dlc/1-base.html) | [Break Damage Limit](/neptunia/rb1/remake/1-5-break-damage-limit.html) | 1 |
 
 ## Player characters who can equip **Lost Game Ring**
 

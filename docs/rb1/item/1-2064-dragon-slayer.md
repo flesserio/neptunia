@@ -25,13 +25,11 @@ title: "Dragon Slayer (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Weapon skill** | [Attack](/neptunia/rb1/skill/1-401-attack.html) |
 | **To unlock in shop** | Method 1<br />- View scene [Chapter 5: Reunion](/neptunia/rb1/scene/1-503-chapter-5-reunion.html) |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 394 | 0 | 394 | 0 | 39 | 0 | 0 | 0 | 0 | 0 | 0 |
-
 
 ## Player characters who can equip **Dragon Slayer**
 

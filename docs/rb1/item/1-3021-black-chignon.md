@@ -23,13 +23,11 @@ title: "Black Chignon (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 2500 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Black Chignon** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-483" class="trackbox" /> | 483 | [Base](/neptunia/rb1/dlc/1-base.html) | [Black Chignon](/neptunia/rb1/remake/1-483-black-chignon.html)<br /> → [Black Chignon](/neptunia/rb1/item/1-3021-black-chignon.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-483" class="trackbox" /> | 483 | [Base](/neptunia/rb1/dlc/1-base.html) | [Black Chignon](/neptunia/rb1/remake/1-483-black-chignon.html)<br />→ [Black Chignon](/neptunia/rb1/item/1-3021-black-chignon.html) (Accessory) |
 
 ## Player characters who can equip **Black Chignon**
 

@@ -23,16 +23,14 @@ title: "Add Dungeon: Dees Snow Forest (Item) - Hyperdimension Neptunia Re;Birth1
 | **Sell Price** | 0 |
 | **Max inventory** | 1 |
 
-
 ## Plans added to Remake System after collecting **Add Dungeon: Dees Snow Forest**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-224" class="trackbox" /> | 224 | [Base](/neptunia/rb1/dlc/1-base.html) | [Add Dungeon](/neptunia/rb1/remake/1-224-add-dungeon.html)<br /> → [Dees Snow Forest](/neptunia/rb1/dungeon/1-121-dees-snow-forest.html) (Dungeon) |
-
+| <input type="checkbox" id="rb1-remake-1-224" class="trackbox" /> | 224 | [Base](/neptunia/rb1/dlc/1-base.html) | [Add Dungeon](/neptunia/rb1/remake/1-224-add-dungeon.html)<br />→ [Dees Snow Forest](/neptunia/rb1/dungeon/1-121-dees-snow-forest.html) (Dungeon) |
 
 ## Dungeons **Add Dungeon: Dees Snow Forest** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
-| <input type="checkbox" id="rb1-dungeon-1-120" class="trackbox" /> | 120 | [Base](/neptunia/rb1/dlc/1-base.html) | [Zeca Ruins No.2](/neptunia/rb1/dungeon/1-120-zeca-ruins-no-2.html) | Gathering point |
+| <input type="checkbox" id="rb1-dungeon-1-120" class="trackbox" /> | 120 | [Base](/neptunia/rb1/dlc/1-base.html) | [Zeca Ruins No.2](/neptunia/rb1/dungeon/1-120-zeca-ruins-no-2.html) | Treasure |

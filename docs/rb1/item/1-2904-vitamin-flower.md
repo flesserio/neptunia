@@ -23,13 +23,11 @@ title: "Vitamin Flower (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 75000 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Vitamin Flower** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-451" class="trackbox" /> | 451 | [Base](/neptunia/rb1/dlc/1-base.html) | [Vitamin Flower](/neptunia/rb1/remake/1-451-vitamin-flower.html)<br /> → [Vitamin Flower](/neptunia/rb1/item/1-2904-vitamin-flower.html) (Clothing) |
-
+| <input type="checkbox" id="rb1-remake-1-451" class="trackbox" /> | 451 | [Base](/neptunia/rb1/dlc/1-base.html) | [Vitamin Flower](/neptunia/rb1/remake/1-451-vitamin-flower.html)<br />→ [Vitamin Flower](/neptunia/rb1/item/1-2904-vitamin-flower.html) (Clothing) |
 
 ## Player characters who can equip **Vitamin Flower**
 

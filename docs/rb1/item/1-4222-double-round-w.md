@@ -26,27 +26,23 @@ title: "Double Round W (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **To unlock in shop** | Method 1<br />- View scene [Chapter 6: 128th Where's Histy Summit](/neptunia/rb1/scene/1-601-chapter-6-128th-wheres-histy-summit.html) |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 25 | 0 | -15 | 0 | 40 | 0 | 90 | 0 | 0 | 0 | 0 |
 
-
 ## Monsters which drop **Double Round W**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-16-1064" class="trackbox" /> | 1064 | [Additional Content Pack 7](/neptunia/rb1/dlc/16-pack7.html) | [Frozen Hermit Crab](/neptunia/rb1/monster/16-1064-frozen-hermit-crab.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-16-1064" class="trackbox" /> | 1064 | [Additional Content Pack 7](/neptunia/rb1/dlc/16-pack7.html) | [Frozen Hermit Crab](/neptunia/rb1/monster/16-1064-frozen-hermit-crab.html) | 80% |
 
 ## Dungeons **Double Round W** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
 | <input type="checkbox" id="rb1-dungeon-16-131" class="trackbox" /> | 131 | [Additional Content Pack 7](/neptunia/rb1/dlc/16-pack7.html) | [Rebeat Resort](/neptunia/rb1/dungeon/16-131-rebeat-resort.html) | Monster drop |
-
 
 ## Player characters who can equip **Double Round W**
 

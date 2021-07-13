@@ -23,16 +23,14 @@ title: "Plan: Hitting Badge (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 0 |
 | **Max inventory** | 1 |
 
-
 ## Plans added to Remake System after collecting **Plan: Hitting Badge**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-399" class="trackbox" /> | 399 | [Base](/neptunia/rb1/dlc/1-base.html) | [Hitting Badge](/neptunia/rb1/remake/1-399-hitting-badge.html)<br /> → [Hitting Badge](/neptunia/rb1/item/1-2725-hitting-badge.html) (Ornament) |
-
+| <input type="checkbox" id="rb1-remake-1-399" class="trackbox" /> | 399 | [Base](/neptunia/rb1/dlc/1-base.html) | [Hitting Badge](/neptunia/rb1/remake/1-399-hitting-badge.html)<br />→ [Hitting Badge](/neptunia/rb1/item/1-2725-hitting-badge.html) (Ornament) |
 
 ## Dungeons **Plan: Hitting Badge** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
-| <input type="checkbox" id="rb1-dungeon-1-110" class="trackbox" /> | 110 | [Base](/neptunia/rb1/dlc/1-base.html) | [Donkong Ruins](/neptunia/rb1/dungeon/1-110-donkong-ruins.html) | Gathering point |
+| <input type="checkbox" id="rb1-dungeon-1-110" class="trackbox" /> | 110 | [Base](/neptunia/rb1/dlc/1-base.html) | [Donkong Ruins](/neptunia/rb1/dungeon/1-110-donkong-ruins.html) | Treasure |

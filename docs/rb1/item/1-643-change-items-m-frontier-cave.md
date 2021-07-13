@@ -23,16 +23,14 @@ title: "Change Items: M-Frontier Cave (Item) - Hyperdimension Neptunia Re;Birth1
 | **Sell Price** | 0 |
 | **Max inventory** | 1 |
 
-
 ## Chirpers who give **Change Items: M-Frontier Cave**
 
 |    | ID | DLC | Avatar | Message | Conditions |
 | -- | -- | --- | ------ | ------- | ---------- |
-| <input type="checkbox" id="rb1-chirper-event-1-5090" class="trackbox" /> | 5090 | [Base](/neptunia/rb1/dlc/1-base.html) | [Cat](/neptunia/rb1/undefined/1-226-cat.html) | It's a Plan to change the items you can get in a dungeon, nya.<br />Find out what you get with this, nya. | View scene [Chapter 7: Quiz Time!](/neptunia/rb1/scene/1-717-chapter-7-quiz-time.html)<br />Do not view scene [Chapter 8: The True Arfoire](/neptunia/rb1/scene/1-807-chapter-8-the-true-arfoire.html) |
-
+| <input type="checkbox" id="rb1-chirper-event-1-5090" class="trackbox" /> | 5090 | [Base](/neptunia/rb1/dlc/1-base.html) | [Cat](/neptunia/rb1/avatar/1-226-cat.html) | It's a Plan to change the items you can get in a dungeon, nya.<br />Find out what you get with this, nya. | View scene [Chapter 7: Quiz Time!](/neptunia/rb1/scene/1-717-chapter-7-quiz-time.html)<br />Do not view scene [Chapter 8: The True Arfoire](/neptunia/rb1/scene/1-807-chapter-8-the-true-arfoire.html) |
 
 ## Plans added to Remake System after collecting **Change Items: M-Frontier Cave**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-292" class="trackbox" /> | 292 | [Base](/neptunia/rb1/dlc/1-base.html) | [Item Change](/neptunia/rb1/remake/1-292-item-change.html)<br /> → [M-Frontier Cave](/neptunia/rb1/dungeon/1-22-m-frontier-cave.html) (Dungeon) |
+| <input type="checkbox" id="rb1-remake-1-292" class="trackbox" /> | 292 | [Base](/neptunia/rb1/dlc/1-base.html) | [Item Change](/neptunia/rb1/remake/1-292-item-change.html)<br />→ [M-Frontier Cave](/neptunia/rb1/dungeon/1-22-m-frontier-cave.html) (Dungeon) |

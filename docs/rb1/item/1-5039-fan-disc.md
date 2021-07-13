@@ -23,15 +23,13 @@ title: "Fan Disc (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 10 |
 | **Max inventory** | 99 |
 | **Idea Chip level** | 4 |
-| **Idea Chip ability** | [Add Poison Lv.4](/neptunia/rb1/avatar/1-9538-add-poison-lv-4.html)<br />Increases Add Poison by 16% |
-
+| **Idea Chip ability** | [Add Poison Lv.4](/neptunia/rb1/ability/1-9538-add-poison-lv-4.html)<br />Increases Add Poison by 16% |
 
 ## Dungeons **Fan Disc** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
-| <input type="checkbox" id="rb1-dungeon-16-130" class="trackbox" /> | 130 | [Additional Content Pack 7](/neptunia/rb1/dlc/16-pack7.html) | [Ario Plateau](/neptunia/rb1/dungeon/16-130-ario-plateau.html) | Gathering point |
-
+| <input type="checkbox" id="rb1-dungeon-16-130" class="trackbox" /> | 130 | [Additional Content Pack 7](/neptunia/rb1/dlc/16-pack7.html) | [Ario Plateau](/neptunia/rb1/dungeon/16-130-ario-plateau.html) | Gathering point (Harvest Shift) |
 
 ## Quests which reward **Fan Disc**
 

@@ -23,13 +23,11 @@ title: "Lime Butterfly (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 1500 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Lime Butterfly** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-815" class="trackbox" /> | 815 | [Base](/neptunia/rb1/dlc/1-base.html) | [Lime Butterfly](/neptunia/rb1/remake/1-815-lime-butterfly.html)<br /> → [Lime Butterfly](/neptunia/rb1/item/1-3517-lime-butterfly.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-815" class="trackbox" /> | 815 | [Base](/neptunia/rb1/dlc/1-base.html) | [Lime Butterfly](/neptunia/rb1/remake/1-815-lime-butterfly.html)<br />→ [Lime Butterfly](/neptunia/rb1/item/1-3517-lime-butterfly.html) (Accessory) |
 
 ## Player characters who can equip **Lime Butterfly**
 

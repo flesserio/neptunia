@@ -23,13 +23,11 @@ title: "Stepsister Ribbon (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 2500 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Stepsister Ribbon** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-540" class="trackbox" /> | 540 | [Base](/neptunia/rb1/dlc/1-base.html) | [Stepsister Ribbon](/neptunia/rb1/remake/1-540-stepsister-ribbon.html)<br /> → [Stepsister Ribbon](/neptunia/rb1/item/1-3112-stepsister-ribbon.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-540" class="trackbox" /> | 540 | [Base](/neptunia/rb1/dlc/1-base.html) | [Stepsister Ribbon](/neptunia/rb1/remake/1-540-stepsister-ribbon.html)<br />→ [Stepsister Ribbon](/neptunia/rb1/item/1-3112-stepsister-ribbon.html) (Accessory) |
 
 ## Player characters who can equip **Stepsister Ribbon**
 

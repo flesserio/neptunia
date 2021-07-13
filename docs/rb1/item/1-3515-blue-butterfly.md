@@ -23,13 +23,11 @@ title: "Blue Butterfly (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 1500 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Blue Butterfly** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-813" class="trackbox" /> | 813 | [Base](/neptunia/rb1/dlc/1-base.html) | [Blue Butterfly](/neptunia/rb1/remake/1-813-blue-butterfly.html)<br /> → [Blue Butterfly](/neptunia/rb1/item/1-3515-blue-butterfly.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-813" class="trackbox" /> | 813 | [Base](/neptunia/rb1/dlc/1-base.html) | [Blue Butterfly](/neptunia/rb1/remake/1-813-blue-butterfly.html)<br />→ [Blue Butterfly](/neptunia/rb1/item/1-3515-blue-butterfly.html) (Accessory) |
 
 ## Player characters who can equip **Blue Butterfly**
 

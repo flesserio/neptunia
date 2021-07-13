@@ -26,27 +26,23 @@ title: "Staff of Ideals (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **Weapon skill** | [Impulse](/neptunia/rb1/skill/1-1802-impulse.html) |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 3000 | 0 | 0 | 2475 | 250 | 3525 | 0 | 0 | 300 | 200 | 0 | 0 | 0 | 0 |
 
-
 ## Monsters which drop **Staff of Ideals**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-10-337" class="trackbox" /> | 337 | [Additional Content Package 1](/neptunia/rb1/dlc/10-pack1.html) | [Super Gebachu](/neptunia/rb1/monster/10-337-super-gebachu.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-10-337" class="trackbox" /> | 337 | [Additional Content Package 1](/neptunia/rb1/dlc/10-pack1.html) | [Super Gebachu](/neptunia/rb1/monster/10-337-super-gebachu.html) | 33% |
 
 ## Dungeons **Staff of Ideals** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
 | <input type="checkbox" id="rb1-dungeon-1-114" class="trackbox" /> | 114 | [Base](/neptunia/rb1/dlc/1-base.html) | [Kinest Range](/neptunia/rb1/dungeon/1-114-kinest-range.html) | Monster drop |
-
 
 ## Player characters who can equip **Staff of Ideals**
 

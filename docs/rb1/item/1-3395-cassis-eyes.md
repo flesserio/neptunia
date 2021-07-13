@@ -23,13 +23,11 @@ title: "Cassis Eyes (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 500 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Cassis Eyes** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-734" class="trackbox" /> | 734 | [Base](/neptunia/rb1/dlc/1-base.html) | [Cassis Eyes](/neptunia/rb1/remake/1-734-cassis-eyes.html)<br /> → [Cassis Eyes](/neptunia/rb1/item/1-3395-cassis-eyes.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-734" class="trackbox" /> | 734 | [Base](/neptunia/rb1/dlc/1-base.html) | [Cassis Eyes](/neptunia/rb1/remake/1-734-cassis-eyes.html)<br />→ [Cassis Eyes](/neptunia/rb1/item/1-3395-cassis-eyes.html) (Accessory) |
 
 ## Player characters who can equip **Cassis Eyes**
 

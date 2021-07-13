@@ -23,16 +23,14 @@ title: "Famous Creator (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 10 |
 | **Max inventory** | 99 |
 | **Idea Chip level** | 4 |
-| **Idea Chip ability** | [Gradual HP Recovery Lv.4](/neptunia/rb1/avatar/1-9650-gradual-hp-recovery-lv-4.html)<br />Increases HP Recovery Per Turn by 7% |
-
+| **Idea Chip ability** | [Gradual HP Recovery Lv.4](/neptunia/rb1/ability/1-9650-gradual-hp-recovery-lv-4.html)<br />Increases HP Recovery Per Turn by 7% |
 
 ## Dungeons **Famous Creator** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
-| <input type="checkbox" id="rb1-dungeon-1-20" class="trackbox" /> | 20 | [Base](/neptunia/rb1/dlc/1-base.html) | [Factory No.459](/neptunia/rb1/dungeon/1-20-factory-no-459.html) | Gathering point |
-| <input type="checkbox" id="rb1-dungeon-1-117" class="trackbox" /> | 117 | [Base](/neptunia/rb1/dlc/1-base.html) | [Adjiten Forest Pass](/neptunia/rb1/dungeon/1-117-adjiten-forest-pass.html) | Gathering point |
-
+| <input type="checkbox" id="rb1-dungeon-1-20" class="trackbox" /> | 20 | [Base](/neptunia/rb1/dlc/1-base.html) | [Factory No.459](/neptunia/rb1/dungeon/1-20-factory-no-459.html) | Hidden treasure |
+| <input type="checkbox" id="rb1-dungeon-1-117" class="trackbox" /> | 117 | [Base](/neptunia/rb1/dlc/1-base.html) | [Adjiten Forest Pass](/neptunia/rb1/dungeon/1-117-adjiten-forest-pass.html) | Gathering point (Harvest Shift) |
 
 ## Colosseum quests which reward **Famous Creator**
 

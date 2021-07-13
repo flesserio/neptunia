@@ -23,9 +23,8 @@ title: "Nep Bull EX II (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **Tool skill** | [Nep Bull EX II](/neptunia/rb1/skill/1-10009-nep-bull-ex-ii.html) |
 
-
 ## Remake System plans which unlock **Nep Bull EX II** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-322" class="trackbox" /> | 322 | [Base](/neptunia/rb1/dlc/1-base.html) | [Nep Bull EX II](/neptunia/rb1/remake/1-322-nep-bull-ex-ii.html)<br /> → [Nep Bull EX II](/neptunia/rb1/item/1-9-nep-bull-ex-ii.html) (Tool) |
+| <input type="checkbox" id="rb1-remake-1-322" class="trackbox" /> | 322 | [Base](/neptunia/rb1/dlc/1-base.html) | [Nep Bull EX II](/neptunia/rb1/remake/1-322-nep-bull-ex-ii.html)<br />→ [Nep Bull EX II](/neptunia/rb1/item/1-9-nep-bull-ex-ii.html) (Tool) |

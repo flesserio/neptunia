@@ -23,16 +23,14 @@ title: "Plan: Healing Rain (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 0 |
 | **Max inventory** | 1 |
 
-
 ## Plans added to Remake System after collecting **Plan: Healing Rain**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-324" class="trackbox" /> | 324 | [Base](/neptunia/rb1/dlc/1-base.html) | [Healing Rain](/neptunia/rb1/remake/1-324-healing-rain.html)<br /> → [Healing Rain](/neptunia/rb1/item/1-11-healing-rain.html) (Tool) |
-
+| <input type="checkbox" id="rb1-remake-1-324" class="trackbox" /> | 324 | [Base](/neptunia/rb1/dlc/1-base.html) | [Healing Rain](/neptunia/rb1/remake/1-324-healing-rain.html)<br />→ [Healing Rain](/neptunia/rb1/item/1-11-healing-rain.html) (Tool) |
 
 ## Dungeons **Plan: Healing Rain** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
-| <input type="checkbox" id="rb1-dungeon-1-13" class="trackbox" /> | 13 | [Base](/neptunia/rb1/dlc/1-base.html) | [Avenir Storage No.4](/neptunia/rb1/dungeon/1-13-avenir-storage-no-4.html) | Gathering point |
+| <input type="checkbox" id="rb1-dungeon-1-13" class="trackbox" /> | 13 | [Base](/neptunia/rb1/dlc/1-base.html) | [Avenir Storage No.4](/neptunia/rb1/dungeon/1-13-avenir-storage-no-4.html) | Treasure |

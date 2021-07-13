@@ -23,17 +23,16 @@ title: "Magic Fire Stone (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 525 |
 | **Max inventory** | 99 |
 
-
 ## Dungeons **Magic Fire Stone** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
 | <input type="checkbox" id="rb1-dungeon-1-18" class="trackbox" /> | 18 | [Base](/neptunia/rb1/dlc/1-base.html) | [Neo-Geofront](/neptunia/rb1/dungeon/1-18-neo-geofront.html) | Gathering point |
 | <input type="checkbox" id="rb1-dungeon-1-19" class="trackbox" /> | 19 | [Base](/neptunia/rb1/dlc/1-base.html) | [Neo-Geofront Depths](/neptunia/rb1/dungeon/1-19-neo-geofront-depths.html) | Gathering point |
-
+| <input type="checkbox" id="rb1-dungeon-1-19" class="trackbox" /> | 19 | [Base](/neptunia/rb1/dlc/1-base.html) | [Neo-Geofront Depths](/neptunia/rb1/dungeon/1-19-neo-geofront-depths.html) | Gathering point (Harvest Shift) |
 
 ## Remake System plans which require **Magic Fire Stone**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-556" class="trackbox" /> | 556 | [Base](/neptunia/rb1/dlc/1-base.html) | [Berry Scrunchie](/neptunia/rb1/quest/1-556-berry-scrunchie.html) |
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-556" class="trackbox" /> | 556 | [Base](/neptunia/rb1/dlc/1-base.html) | [Berry Scrunchie](/neptunia/rb1/remake/1-556-berry-scrunchie.html)<br />→ [Berry Scrunchie](/neptunia/rb1/item/1-3123-berry-scrunchie.html) (Accessory) | 2 |

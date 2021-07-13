@@ -25,13 +25,11 @@ title: "B.K. Tekken Deity (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Weapon skill** | [Smash](/neptunia/rb1/skill/1-2902-smash.html) |
 | **To unlock in shop** | Method 1<br />- Have save in first playthrough<br />- View scene [Chapter 7: Legendary Get Together](/neptunia/rb1/scene/1-726-chapter-7-legendary-get-together.html) |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 900 | 0 | 500 | 1880 | 0 | 1170 | 117 | 0 | 117 | 0 | 0 | 0 | 0 | 0 |
-
 
 ## Player characters who can equip **B.K. Tekken Deity**
 

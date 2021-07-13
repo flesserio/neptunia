@@ -23,13 +23,11 @@ title: "Turquoise Beret (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 1500 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Turquoise Beret** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-785" class="trackbox" /> | 785 | [Base](/neptunia/rb1/dlc/1-base.html) | [Turquoise Beret](/neptunia/rb1/remake/1-785-turquoise-beret.html)<br /> → [Turquoise Beret](/neptunia/rb1/item/1-3470-turquoise-beret.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-785" class="trackbox" /> | 785 | [Base](/neptunia/rb1/dlc/1-base.html) | [Turquoise Beret](/neptunia/rb1/remake/1-785-turquoise-beret.html)<br />→ [Turquoise Beret](/neptunia/rb1/item/1-3470-turquoise-beret.html) (Accessory) |
 
 ## Player characters who can equip **Turquoise Beret**
 

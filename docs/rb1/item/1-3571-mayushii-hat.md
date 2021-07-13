@@ -23,13 +23,11 @@ title: "Mayushii Hat (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 500 |
 | **Max inventory** | 99 |
 
-
 ## Quests which reward **Mayushii Hat**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
 | <input type="checkbox" id="rb1-quest-1-501" class="trackbox" /> | 501 | [Base](/neptunia/rb1/dlc/1-base.html) | [Unchanging weakness](/neptunia/rb1/quest/1-501-unchanging-weakness.html) |
-
 
 ## Player characters who can equip **Mayushii Hat**
 

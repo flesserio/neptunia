@@ -24,13 +24,11 @@ title: "Visual Memory 8X (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 437 |
 | **Max inventory** | 99 |
 
-
 ## Monsters which drop **Visual Memory 8X**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-1-126" class="trackbox" /> | 126 | [Base](/neptunia/rb1/dlc/1-base.html) | [Galakryzer](/neptunia/rb1/monster/1-126-galakryzer.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-1-126" class="trackbox" /> | 126 | [Base](/neptunia/rb1/dlc/1-base.html) | [Galakryzer](/neptunia/rb1/monster/1-126-galakryzer.html) | 70% |
 
 ## Dungeons **Visual Memory 8X** is found
 
@@ -38,9 +36,8 @@ title: "Visual Memory 8X (Item) - Hyperdimension Neptunia Re;Birth1"
 | -- | -- | --- | ---- | ---- |
 | <input type="checkbox" id="rb1-dungeon-1-5" class="trackbox" /> | 5 | [Base](/neptunia/rb1/dlc/1-base.html) | [Thelad Sanctuary](/neptunia/rb1/dungeon/1-5-thelad-sanctuary.html) | Monster drop |
 
-
 ## Remake System plans which require **Visual Memory 8X**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-12-824" class="trackbox" /> | 824 | [Additional Content Package 3](/neptunia/rb1/dlc/12-pack3.html) | [Plutia H](/neptunia/rb1/quest/12-824-plutia-h.html) |
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-12-824" class="trackbox" /> | 824 | [Additional Content Package 3](/neptunia/rb1/dlc/12-pack3.html) | [Plutia H](/neptunia/rb1/remake/12-824-plutia-h.html)<br />→ [Plutia H](/neptunia/rb1/item/12-4075-plutia-h.html) (Processor (H)) | 1 |

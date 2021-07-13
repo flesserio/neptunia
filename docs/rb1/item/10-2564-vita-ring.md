@@ -25,27 +25,23 @@ title: "Vita Ring (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 500 |
 | **Max inventory** | 99 |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 1500 | 0 | 0 | 210 | 2500 | 0 | 2805 | 0 | 350 | 0 | 0 | 0 | 0 | 0 |
 
-
 ## Monsters which drop **Vita Ring**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-10-346" class="trackbox" /> | 346 | [Additional Content Package 1](/neptunia/rb1/dlc/10-pack1.html) | [Legacy MK-2](/neptunia/rb1/monster/10-346-legacy-mk-2.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-10-346" class="trackbox" /> | 346 | [Additional Content Package 1](/neptunia/rb1/dlc/10-pack1.html) | [Legacy MK-2](/neptunia/rb1/monster/10-346-legacy-mk-2.html) | 50% |
 
 ## Dungeons **Vita Ring** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
 | <input type="checkbox" id="rb1-dungeon-1-116" class="trackbox" /> | 116 | [Base](/neptunia/rb1/dlc/1-base.html) | [Yukawa Ruins](/neptunia/rb1/dungeon/1-116-yukawa-ruins.html) | Monster drop |
-
 
 ## Player characters who can equip **Vita Ring**
 

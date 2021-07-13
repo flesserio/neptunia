@@ -23,13 +23,11 @@ title: "Dragon Slayer+7 (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 0 |
 | **Max inventory** | 99 |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 910 | 0 | 210 | 2044 | 0 | 1330 | 36 | 0 | 36 | 0 | 0 | 0 | 0 | 0 |
-
 
 ## Player characters who can equip **Dragon Slayer+7**
 

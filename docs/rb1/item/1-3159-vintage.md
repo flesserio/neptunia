@@ -23,13 +23,11 @@ title: "Vintage (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 1500 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Vintage** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-587" class="trackbox" /> | 587 | [Base](/neptunia/rb1/dlc/1-base.html) | [Vintage](/neptunia/rb1/remake/1-587-vintage.html)<br /> → [Vintage](/neptunia/rb1/item/1-3159-vintage.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-587" class="trackbox" /> | 587 | [Base](/neptunia/rb1/dlc/1-base.html) | [Vintage](/neptunia/rb1/remake/1-587-vintage.html)<br />→ [Vintage](/neptunia/rb1/item/1-3159-vintage.html) (Accessory) |
 
 ## Player characters who can equip **Vintage**
 

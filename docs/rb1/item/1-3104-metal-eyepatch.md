@@ -23,13 +23,11 @@ title: "Metal Eyepatch (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 2500 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Metal Eyepatch** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-549" class="trackbox" /> | 549 | [Base](/neptunia/rb1/dlc/1-base.html) | [Metal Eyepatch](/neptunia/rb1/remake/1-549-metal-eyepatch.html)<br /> → [Metal Eyepatch](/neptunia/rb1/item/1-3104-metal-eyepatch.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-549" class="trackbox" /> | 549 | [Base](/neptunia/rb1/dlc/1-base.html) | [Metal Eyepatch](/neptunia/rb1/remake/1-549-metal-eyepatch.html)<br />→ [Metal Eyepatch](/neptunia/rb1/item/1-3104-metal-eyepatch.html) (Accessory) |
 
 ## Player characters who can equip **Metal Eyepatch**
 

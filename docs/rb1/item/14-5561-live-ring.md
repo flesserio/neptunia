@@ -24,20 +24,17 @@ title: "LIVE Ring (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 0 |
 | **Max inventory** | 99 |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 0 | 810 | 0 | 810 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 
-
 ## Player characters who have **LIVE Ring** equipped by default
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
 | <input type="checkbox" id="rb1-player-14-29" class="trackbox" /> | 29 | [Additional Content Pack 5](/neptunia/rb1/dlc/14-pack5.html) | [Chika Hakozaki](/neptunia/rb1/player/14-29-chika-hakozaki.html) |
-
 
 ## Player characters who can equip **LIVE Ring**
 

@@ -23,13 +23,11 @@ title: "Northern Fox Band (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 7500 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Northern Fox Band** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-812" class="trackbox" /> | 812 | [Base](/neptunia/rb1/dlc/1-base.html) | [Northern Fox Band](/neptunia/rb1/remake/1-812-northern-fox-band.html)<br /> → [Northern Fox Band](/neptunia/rb1/item/1-3513-northern-fox-band.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-812" class="trackbox" /> | 812 | [Base](/neptunia/rb1/dlc/1-base.html) | [Northern Fox Band](/neptunia/rb1/remake/1-812-northern-fox-band.html)<br />→ [Northern Fox Band](/neptunia/rb1/item/1-3513-northern-fox-band.html) (Accessory) |
 
 ## Player characters who can equip **Northern Fox Band**
 

@@ -25,24 +25,21 @@ title: "Strangled Lump (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 122 |
 | **Max inventory** | 99 |
 
-
 ## Monsters which drop **Strangled Lump**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-1-386" class="trackbox" /> | 386 | [Base](/neptunia/rb1/dlc/1-base.html) | [Tetrisi](/neptunia/rb1/monster/1-386-tetrisi.html) |
-| <input type="checkbox" id="rb1-monster-1-1052" class="trackbox" /> | 1052 | [Base](/neptunia/rb1/dlc/1-base.html) | [Fake Green Heart](/neptunia/rb1/monster/1-1052-fake-green-heart.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-1-386" class="trackbox" /> | 386 | [Base](/neptunia/rb1/dlc/1-base.html) | [Tetrisi](/neptunia/rb1/monster/1-386-tetrisi.html) | 40% |
+| <input type="checkbox" id="rb1-monster-1-1052" class="trackbox" /> | 1052 | [Base](/neptunia/rb1/dlc/1-base.html) | [Fake Green Heart](/neptunia/rb1/monster/1-1052-fake-green-heart.html) | 100% |
 
 ## Dungeons **Strangled Lump** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
 | <input type="checkbox" id="rb1-dungeon-1-123" class="trackbox" /> | 123 | [Base](/neptunia/rb1/dlc/1-base.html) | [Graphic Pass](/neptunia/rb1/dungeon/1-123-graphic-pass.html) | Gathering point |
-| <input type="checkbox" id="rb1-dungeon-1-124" class="trackbox" /> | 124 | [Base](/neptunia/rb1/dlc/1-base.html) | [Graphic Pass Peak](/neptunia/rb1/dungeon/1-124-graphic-pass-peak.html) | Gathering point |
 | <input type="checkbox" id="rb1-dungeon-1-123" class="trackbox" /> | 123 | [Base](/neptunia/rb1/dlc/1-base.html) | [Graphic Pass](/neptunia/rb1/dungeon/1-123-graphic-pass.html) | Monster drop |
+| <input type="checkbox" id="rb1-dungeon-1-124" class="trackbox" /> | 124 | [Base](/neptunia/rb1/dlc/1-base.html) | [Graphic Pass Peak](/neptunia/rb1/dungeon/1-124-graphic-pass-peak.html) | Gathering point |
 | <input type="checkbox" id="rb1-dungeon-1-124" class="trackbox" /> | 124 | [Base](/neptunia/rb1/dlc/1-base.html) | [Graphic Pass Peak](/neptunia/rb1/dungeon/1-124-graphic-pass-peak.html) | Monster drop |
-
 
 ## Quests which require gathering **Strangled Lump**
 
@@ -50,11 +47,10 @@ title: "Strangled Lump (Item) - Hyperdimension Neptunia Re;Birth1"
 | -- | -- | --- | ---- |
 | <input type="checkbox" id="rb1-quest-1-803" class="trackbox" /> | 803 | [Base](/neptunia/rb1/dlc/1-base.html) | [Surrounded by soft](/neptunia/rb1/quest/1-803-surrounded-by-soft.html) |
 
-
 ## Remake System plans which require **Strangled Lump**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-372" class="trackbox" /> | 372 | [Base](/neptunia/rb1/dlc/1-base.html) | [Gordian Hammer](/neptunia/rb1/quest/1-372-gordian-hammer.html) |
-| <input type="checkbox" id="rb1-quest-1-477" class="trackbox" /> | 477 | [Base](/neptunia/rb1/dlc/1-base.html) | [Mirror Rice Cakes](/neptunia/rb1/quest/1-477-mirror-rice-cakes.html) |
-| <input type="checkbox" id="rb1-quest-10-228" class="trackbox" /> | 228 | [Additional Content Package 1](/neptunia/rb1/dlc/10-pack1.html) | [Add Dungeon](/neptunia/rb1/quest/10-228-add-dungeon.html) |
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-372" class="trackbox" /> | 372 | [Base](/neptunia/rb1/dlc/1-base.html) | [Gordian Hammer](/neptunia/rb1/remake/1-372-gordian-hammer.html)<br />→ [Gordian Hammer](/neptunia/rb1/item/1-2096-gordian-hammer.html) (Hammer (Blanc)) | 3 |
+| <input type="checkbox" id="rb1-remake-1-477" class="trackbox" /> | 477 | [Base](/neptunia/rb1/dlc/1-base.html) | [Mirror Rice Cakes](/neptunia/rb1/remake/1-477-mirror-rice-cakes.html)<br />→ [Mirror Rice Cakes](/neptunia/rb1/item/1-3014-mirror-rice-cakes.html) (Accessory) | 2 |
+| <input type="checkbox" id="rb1-remake-10-228" class="trackbox" /> | 228 | [Additional Content Package 1](/neptunia/rb1/dlc/10-pack1.html) | [Add Dungeon](/neptunia/rb1/remake/10-228-add-dungeon.html)<br />→ [Noma Cave](/neptunia/rb1/dungeon/10-127-noma-cave.html) (Dungeon) | 3 |

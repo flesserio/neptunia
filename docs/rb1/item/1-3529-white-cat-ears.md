@@ -24,13 +24,11 @@ title: "White Cat Ears (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **To unlock in shop** | Method 1<br />- Have Rom & Ram unlocked. |
 
-
 ## Remake System plans which require **White Cat Ears**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-822" class="trackbox" /> | 822 | [Base](/neptunia/rb1/dlc/1-base.html) | [Black Cat Ears](/neptunia/rb1/quest/1-822-black-cat-ears.html) |
-
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-822" class="trackbox" /> | 822 | [Base](/neptunia/rb1/dlc/1-base.html) | [Black Cat Ears](/neptunia/rb1/remake/1-822-black-cat-ears.html)<br />→ [Black Cat Ears](/neptunia/rb1/item/1-3530-black-cat-ears.html) (Accessory) | 1 |
 
 ## Player characters who can equip **White Cat Ears**
 

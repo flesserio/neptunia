@@ -25,27 +25,23 @@ title: "Face Visor (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 500 |
 | **Max inventory** | 99 |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 20 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 
-
 ## Monsters which drop **Face Visor**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-1-242" class="trackbox" /> | 242 | [Base](/neptunia/rb1/dlc/1-base.html) | [Prince Boxbird](/neptunia/rb1/monster/1-242-prince-boxbird.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-1-242" class="trackbox" /> | 242 | [Base](/neptunia/rb1/dlc/1-base.html) | [Prince Boxbird](/neptunia/rb1/monster/1-242-prince-boxbird.html) | 15% |
 
 ## Dungeons **Face Visor** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
 | <input type="checkbox" id="rb1-dungeon-1-25" class="trackbox" /> | 25 | [Base](/neptunia/rb1/dlc/1-base.html) | [Road to Celestia](/neptunia/rb1/dungeon/1-25-road-to-celestia.html) | Monster drop |
-
 
 ## Player characters who can equip **Face Visor**
 

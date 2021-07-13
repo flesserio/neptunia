@@ -23,16 +23,14 @@ title: "Add Dungeon: Adjiten Forest Pass (Item) - Hyperdimension Neptunia Re;Bir
 | **Sell Price** | 0 |
 | **Max inventory** | 1 |
 
-
 ## Chirpers who give **Add Dungeon: Adjiten Forest Pass**
 
 |    | ID | DLC | Avatar | Message | Conditions |
 | -- | -- | --- | ------ | ------- | ---------- |
-| <input type="checkbox" id="rb1-chirper-event-1-5175" class="trackbox" /> | 5175 | [Base](/neptunia/rb1/dlc/1-base.html) | [Spelunker](/neptunia/rb1/undefined/1-244-spelunker.html) | This is a Plan for a new dungeon.<br />I'm a spelunker.<br />Not a monster hunter. Of course I can't beat monsters. | View scene [Chapter 6: Back To Origins](/neptunia/rb1/scene/1-607-chapter-6-back-to-origins.html)<br />Do not view scene [Chapter 8: The True Arfoire](/neptunia/rb1/scene/1-807-chapter-8-the-true-arfoire.html) |
-
+| <input type="checkbox" id="rb1-chirper-event-1-5175" class="trackbox" /> | 5175 | [Base](/neptunia/rb1/dlc/1-base.html) | [Spelunker](/neptunia/rb1/avatar/1-244-spelunker.html) | This is a Plan for a new dungeon.<br />I'm a spelunker.<br />Not a monster hunter. Of course I can't beat monsters. | View scene [Chapter 6: Back To Origins](/neptunia/rb1/scene/1-607-chapter-6-back-to-origins.html)<br />Do not view scene [Chapter 8: The True Arfoire](/neptunia/rb1/scene/1-807-chapter-8-the-true-arfoire.html) |
 
 ## Plans added to Remake System after collecting **Add Dungeon: Adjiten Forest Pass**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-221" class="trackbox" /> | 221 | [Base](/neptunia/rb1/dlc/1-base.html) | [Add Dungeon](/neptunia/rb1/remake/1-221-add-dungeon.html)<br /> → [Adjiten Forest Pass](/neptunia/rb1/dungeon/1-117-adjiten-forest-pass.html) (Dungeon) |
+| <input type="checkbox" id="rb1-remake-1-221" class="trackbox" /> | 221 | [Base](/neptunia/rb1/dlc/1-base.html) | [Add Dungeon](/neptunia/rb1/remake/1-221-add-dungeon.html)<br />→ [Adjiten Forest Pass](/neptunia/rb1/dungeon/1-117-adjiten-forest-pass.html) (Dungeon) |

@@ -24,20 +24,17 @@ title: "Royal Armlet (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 3500 |
 | **Max inventory** | 99 |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 380 | 0 | 543 | 0 | 761 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 
-
 ## Remake System plans which unlock **Royal Armlet** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-391" class="trackbox" /> | 391 | [Base](/neptunia/rb1/dlc/1-base.html) | [Royal Armlet](/neptunia/rb1/remake/1-391-royal-armlet.html)<br /> → [Royal Armlet](/neptunia/rb1/item/1-2530-royal-armlet.html) (Armor) |
-
+| <input type="checkbox" id="rb1-remake-1-391" class="trackbox" /> | 391 | [Base](/neptunia/rb1/dlc/1-base.html) | [Royal Armlet](/neptunia/rb1/remake/1-391-royal-armlet.html)<br />→ [Royal Armlet](/neptunia/rb1/item/1-2530-royal-armlet.html) (Armor) |
 
 ## Player characters who can equip **Royal Armlet**
 

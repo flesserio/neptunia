@@ -24,13 +24,11 @@ title: "Rune Encyclopedia (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 10000 |
 | **Max inventory** | 99 |
 
-
 ## Monsters which drop **Rune Encyclopedia**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-12-401" class="trackbox" /> | 401 | [Additional Content Package 3](/neptunia/rb1/dlc/12-pack3.html) | [Clione](/neptunia/rb1/monster/12-401-clione.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-12-401" class="trackbox" /> | 401 | [Additional Content Package 3](/neptunia/rb1/dlc/12-pack3.html) | [Clione](/neptunia/rb1/monster/12-401-clione.html) | 60% |
 
 ## Dungeons **Rune Encyclopedia** is found
 
@@ -38,10 +36,9 @@ title: "Rune Encyclopedia (Item) - Hyperdimension Neptunia Re;Birth1"
 | -- | -- | --- | ---- | ---- |
 | <input type="checkbox" id="rb1-dungeon-12-125" class="trackbox" /> | 125 | [Additional Content Package 3](/neptunia/rb1/dlc/12-pack3.html) | [Haneda Forest](/neptunia/rb1/dungeon/12-125-haneda-forest.html) | Monster drop |
 
-
 ## Remake System plans which require **Rune Encyclopedia**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-12-273" class="trackbox" /> | 273 | [Additional Content Package 3](/neptunia/rb1/dlc/12-pack3.html) | [Add Super Enemies](/neptunia/rb1/quest/12-273-add-super-enemies.html) |
-| <input type="checkbox" id="rb1-quest-12-415" class="trackbox" /> | 415 | [Additional Content Package 3](/neptunia/rb1/dlc/12-pack3.html) | [Underworld Ring](/neptunia/rb1/quest/12-415-underworld-ring.html) |
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-12-273" class="trackbox" /> | 273 | [Additional Content Package 3](/neptunia/rb1/dlc/12-pack3.html) | [Add Super Enemies](/neptunia/rb1/remake/12-273-add-super-enemies.html)<br />→ [Haneda Forest](/neptunia/rb1/dungeon/12-125-haneda-forest.html) (Dungeon) | 1 |
+| <input type="checkbox" id="rb1-remake-12-415" class="trackbox" /> | 415 | [Additional Content Package 3](/neptunia/rb1/dlc/12-pack3.html) | [Underworld Ring](/neptunia/rb1/remake/12-415-underworld-ring.html)<br />→ [Underworld Ring](/neptunia/rb1/item/12-2743-underworld-ring.html) (Ornament) | 1 |

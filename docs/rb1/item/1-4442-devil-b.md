@@ -24,20 +24,17 @@ title: "Devil B (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 1000 |
 | **Max inventory** | 99 |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 30 | -15 | 60 | 0 | 90 | 0 | -15 | 7 | -7 | -7 | 7 |
 
-
 ## Remake System plans which unlock **Devil B** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-863" class="trackbox" /> | 863 | [Base](/neptunia/rb1/dlc/1-base.html) | [Devil B](/neptunia/rb1/remake/1-863-devil-b.html)<br /> → [Devil B](/neptunia/rb1/item/1-4442-devil-b.html) (Processor (B)) |
-
+| <input type="checkbox" id="rb1-remake-1-863" class="trackbox" /> | 863 | [Base](/neptunia/rb1/dlc/1-base.html) | [Devil B](/neptunia/rb1/remake/1-863-devil-b.html)<br />→ [Devil B](/neptunia/rb1/item/1-4442-devil-b.html) (Processor (B)) |
 
 ## Player characters who can equip **Devil B**
 

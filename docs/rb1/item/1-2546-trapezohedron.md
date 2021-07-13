@@ -24,20 +24,17 @@ title: "Trapezohedron (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 20000 |
 | **Max inventory** | 99 |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 575 | 0 | 0 | 0 | 1150 | 0 | 1150 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 
-
 ## Monsters which drop **Trapezohedron**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-1-1046" class="trackbox" /> | 1046 | [Base](/neptunia/rb1/dlc/1-base.html) | [Overlord Momus](/neptunia/rb1/monster/1-1046-overlord-momus.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-1-1046" class="trackbox" /> | 1046 | [Base](/neptunia/rb1/dlc/1-base.html) | [Overlord Momus](/neptunia/rb1/monster/1-1046-overlord-momus.html) | 100% |
 
 ## Player characters who can equip **Trapezohedron**
 

@@ -24,27 +24,24 @@ title: "Bomb Fragment (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 15 |
 | **Max inventory** | 99 |
 
-
 ## Monsters which drop **Bomb Fragment**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-1-137" class="trackbox" /> | 137 | [Base](/neptunia/rb1/dlc/1-base.html) | [WD Head](/neptunia/rb1/monster/1-137-wd-head.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-1-137" class="trackbox" /> | 137 | [Base](/neptunia/rb1/dlc/1-base.html) | [WD Head](/neptunia/rb1/monster/1-137-wd-head.html) | 40% |
 
 ## Dungeons **Bomb Fragment** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
 | <input type="checkbox" id="rb1-dungeon-1-8" class="trackbox" /> | 8 | [Base](/neptunia/rb1/dlc/1-base.html) | [MS Mountain](/neptunia/rb1/dungeon/1-8-ms-mountain.html) | Gathering point |
-| <input type="checkbox" id="rb1-dungeon-1-26" class="trackbox" /> | 26 | [Base](/neptunia/rb1/dlc/1-base.html) | [MS Mountain Peak](/neptunia/rb1/dungeon/1-26-ms-mountain-peak.html) | Gathering point |
 | <input type="checkbox" id="rb1-dungeon-1-8" class="trackbox" /> | 8 | [Base](/neptunia/rb1/dlc/1-base.html) | [MS Mountain](/neptunia/rb1/dungeon/1-8-ms-mountain.html) | Monster drop |
+| <input type="checkbox" id="rb1-dungeon-1-26" class="trackbox" /> | 26 | [Base](/neptunia/rb1/dlc/1-base.html) | [MS Mountain Peak](/neptunia/rb1/dungeon/1-26-ms-mountain-peak.html) | Gathering point |
 | <input type="checkbox" id="rb1-dungeon-1-26" class="trackbox" /> | 26 | [Base](/neptunia/rb1/dlc/1-base.html) | [MS Mountain Peak](/neptunia/rb1/dungeon/1-26-ms-mountain-peak.html) | Monster drop |
-
 
 ## Remake System plans which require **Bomb Fragment**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-365" class="trackbox" /> | 365 | [Base](/neptunia/rb1/dlc/1-base.html) | [Burst Qatar](/neptunia/rb1/quest/1-365-burst-qatar.html) |
-| <input type="checkbox" id="rb1-quest-1-403" class="trackbox" /> | 403 | [Base](/neptunia/rb1/dlc/1-base.html) | [Molten Ring](/neptunia/rb1/quest/1-403-molten-ring.html) |
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-365" class="trackbox" /> | 365 | [Base](/neptunia/rb1/dlc/1-base.html) | [Burst Qatar](/neptunia/rb1/remake/1-365-burst-qatar.html)<br />→ [Burst Qatar](/neptunia/rb1/item/1-2305-burst-qatar.html) (Qatar (IF)) | 2 |
+| <input type="checkbox" id="rb1-remake-1-403" class="trackbox" /> | 403 | [Base](/neptunia/rb1/dlc/1-base.html) | [Molten Ring](/neptunia/rb1/remake/1-403-molten-ring.html)<br />→ [Molten Ring](/neptunia/rb1/item/1-2729-molten-ring.html) (Ornament) | 3 |

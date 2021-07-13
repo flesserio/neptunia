@@ -24,15 +24,13 @@ title: "Petite Crown (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **To unlock in shop** | Method 1<br />- Have Rom & Ram unlocked. |
 
-
 ## Remake System plans which require **Petite Crown**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-772" class="trackbox" /> | 772 | [Base](/neptunia/rb1/dlc/1-base.html) | [Mini Crown](/neptunia/rb1/quest/1-772-mini-crown.html) |
-| <input type="checkbox" id="rb1-quest-1-773" class="trackbox" /> | 773 | [Base](/neptunia/rb1/dlc/1-base.html) | [Simple Crown](/neptunia/rb1/quest/1-773-simple-crown.html) |
-| <input type="checkbox" id="rb1-quest-1-774" class="trackbox" /> | 774 | [Base](/neptunia/rb1/dlc/1-base.html) | [Gorgeous Crown](/neptunia/rb1/quest/1-774-gorgeous-crown.html) |
-
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-772" class="trackbox" /> | 772 | [Base](/neptunia/rb1/dlc/1-base.html) | [Mini Crown](/neptunia/rb1/remake/1-772-mini-crown.html)<br />→ [Mini Crown](/neptunia/rb1/item/1-3453-mini-crown.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-1-773" class="trackbox" /> | 773 | [Base](/neptunia/rb1/dlc/1-base.html) | [Simple Crown](/neptunia/rb1/remake/1-773-simple-crown.html)<br />→ [Simple Crown](/neptunia/rb1/item/1-3454-simple-crown.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-1-774" class="trackbox" /> | 774 | [Base](/neptunia/rb1/dlc/1-base.html) | [Gorgeous Crown](/neptunia/rb1/remake/1-774-gorgeous-crown.html)<br />→ [Gorgeous Crown](/neptunia/rb1/item/1-3455-gorgeous-crown.html) (Accessory) | 1 |
 
 ## Player characters who can equip **Petite Crown**
 

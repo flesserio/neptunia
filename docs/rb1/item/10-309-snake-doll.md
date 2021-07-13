@@ -22,7 +22,6 @@ title: "Snake Doll? (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 0 |
 | **Max inventory** | 99 |
 
-
 ## Colosseum quests which reward **Snake Doll?**
 
 |    | ID | DLC | Name |

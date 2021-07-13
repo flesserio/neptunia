@@ -24,20 +24,17 @@ title: "Homura Headset (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 500 |
 | **Max inventory** | 99 |
 
-
 ## Monsters which drop **Homura Headset**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-1-342" class="trackbox" /> | 342 | [Base](/neptunia/rb1/dlc/1-base.html) | [A2-i](/neptunia/rb1/monster/1-342-a2-i.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-1-342" class="trackbox" /> | 342 | [Base](/neptunia/rb1/dlc/1-base.html) | [A2-i](/neptunia/rb1/monster/1-342-a2-i.html) | 15% |
 
 ## Dungeons **Homura Headset** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
 | <input type="checkbox" id="rb1-dungeon-1-116" class="trackbox" /> | 116 | [Base](/neptunia/rb1/dlc/1-base.html) | [Yukawa Ruins](/neptunia/rb1/dungeon/1-116-yukawa-ruins.html) | Monster drop |
-
 
 ## Player characters who can equip **Homura Headset**
 

@@ -23,13 +23,11 @@ title: "Blood Style (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 25000 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Blood Style** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-430" class="trackbox" /> | 430 | [Base](/neptunia/rb1/dlc/1-base.html) | [Blood Style](/neptunia/rb1/remake/1-430-blood-style.html)<br /> → [Blood Style](/neptunia/rb1/item/1-2862-blood-style.html) (Clothing) |
-
+| <input type="checkbox" id="rb1-remake-1-430" class="trackbox" /> | 430 | [Base](/neptunia/rb1/dlc/1-base.html) | [Blood Style](/neptunia/rb1/remake/1-430-blood-style.html)<br />→ [Blood Style](/neptunia/rb1/item/1-2862-blood-style.html) (Clothing) |
 
 ## Player characters who can equip **Blood Style**
 

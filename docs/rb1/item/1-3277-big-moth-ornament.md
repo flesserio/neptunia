@@ -23,13 +23,11 @@ title: "Big Moth Ornament (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 5000 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Big Moth Ornament** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-655" class="trackbox" /> | 655 | [Base](/neptunia/rb1/dlc/1-base.html) | [Big Moth Ornament](/neptunia/rb1/remake/1-655-big-moth-ornament.html)<br /> → [Big Moth Ornament](/neptunia/rb1/item/1-3277-big-moth-ornament.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-655" class="trackbox" /> | 655 | [Base](/neptunia/rb1/dlc/1-base.html) | [Big Moth Ornament](/neptunia/rb1/remake/1-655-big-moth-ornament.html)<br />→ [Big Moth Ornament](/neptunia/rb1/item/1-3277-big-moth-ornament.html) (Accessory) |
 
 ## Player characters who can equip **Big Moth Ornament**
 

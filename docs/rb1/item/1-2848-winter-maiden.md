@@ -23,13 +23,11 @@ title: "Winter Maiden (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 25000 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Winter Maiden** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-433" class="trackbox" /> | 433 | [Base](/neptunia/rb1/dlc/1-base.html) | [Winter Maiden](/neptunia/rb1/remake/1-433-winter-maiden.html)<br /> → [Winter Maiden](/neptunia/rb1/item/1-2848-winter-maiden.html) (Clothing) |
-
+| <input type="checkbox" id="rb1-remake-1-433" class="trackbox" /> | 433 | [Base](/neptunia/rb1/dlc/1-base.html) | [Winter Maiden](/neptunia/rb1/remake/1-433-winter-maiden.html)<br />→ [Winter Maiden](/neptunia/rb1/item/1-2848-winter-maiden.html) (Clothing) |
 
 ## Player characters who can equip **Winter Maiden**
 

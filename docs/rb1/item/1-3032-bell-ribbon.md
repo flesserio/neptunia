@@ -24,21 +24,18 @@ title: "Bell Ribbon (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 500 |
 | **Max inventory** | 99 |
 
-
 ## Quests which reward **Bell Ribbon**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
 | <input type="checkbox" id="rb1-quest-1-219" class="trackbox" /> | 219 | [Base](/neptunia/rb1/dlc/1-base.html) | [Underground](/neptunia/rb1/quest/1-219-underground.html) |
 
-
 ## Remake System plans which require **Bell Ribbon**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-492" class="trackbox" /> | 492 | [Base](/neptunia/rb1/dlc/1-base.html) | [Stripe Ribbon](/neptunia/rb1/quest/1-492-stripe-ribbon.html) |
-| <input type="checkbox" id="rb1-quest-1-493" class="trackbox" /> | 493 | [Base](/neptunia/rb1/dlc/1-base.html) | [Polka Dot Ribbon](/neptunia/rb1/quest/1-493-polka-dot-ribbon.html) |
-
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-492" class="trackbox" /> | 492 | [Base](/neptunia/rb1/dlc/1-base.html) | [Stripe Ribbon](/neptunia/rb1/remake/1-492-stripe-ribbon.html)<br />→ [Stripe Ribbon](/neptunia/rb1/item/1-3033-stripe-ribbon.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-1-493" class="trackbox" /> | 493 | [Base](/neptunia/rb1/dlc/1-base.html) | [Polka Dot Ribbon](/neptunia/rb1/remake/1-493-polka-dot-ribbon.html)<br />→ [Polka Dot Ribbon](/neptunia/rb1/item/1-3034-polka-dot-ribbon.html) (Accessory) | 1 |
 
 ## Player characters who can equip **Bell Ribbon**
 

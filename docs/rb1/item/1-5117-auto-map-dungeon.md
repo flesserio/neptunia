@@ -23,16 +23,14 @@ title: "Auto-map Dungeon (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 10 |
 | **Max inventory** | 99 |
 | **Idea Chip level** | 1 |
-| **Idea Chip ability** | [Physical Defense + Lv.1](/neptunia/rb1/avatar/1-9616-physical-defense-lv-1.html)<br />Increases Phys. Defense by 10% |
-
+| **Idea Chip ability** | [Physical Defense + Lv.1](/neptunia/rb1/ability/1-9616-physical-defense-lv-1.html)<br />Increases Phys. Defense by 10% |
 
 ## Dungeons **Auto-map Dungeon** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
-| <input type="checkbox" id="rb1-dungeon-1-101" class="trackbox" /> | 101 | [Base](/neptunia/rb1/dlc/1-base.html) | [Zeca Ruins No.1](/neptunia/rb1/dungeon/1-101-zeca-ruins-no-1.html) | Gathering point |
-| <input type="checkbox" id="rb1-dungeon-1-103" class="trackbox" /> | 103 | [Base](/neptunia/rb1/dlc/1-base.html) | [Ortan Fields](/neptunia/rb1/dungeon/1-103-ortan-fields.html) | Gathering point |
-
+| <input type="checkbox" id="rb1-dungeon-1-101" class="trackbox" /> | 101 | [Base](/neptunia/rb1/dlc/1-base.html) | [Zeca Ruins No.1](/neptunia/rb1/dungeon/1-101-zeca-ruins-no-1.html) | Gathering point (Harvest Shift) |
+| <input type="checkbox" id="rb1-dungeon-1-103" class="trackbox" /> | 103 | [Base](/neptunia/rb1/dlc/1-base.html) | [Ortan Fields](/neptunia/rb1/dungeon/1-103-ortan-fields.html) | Gathering point (Harvest Shift) |
 
 ## Quests which reward **Auto-map Dungeon**
 

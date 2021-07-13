@@ -23,13 +23,11 @@ title: "Mr. Rabbit Duds (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 750000 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Mr. Rabbit Duds** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-8-437" class="trackbox" /> | 437 | [[Peashy] Battle Entry License](/neptunia/rb1/dlc/8-peashy.html) | [Mr. Rabbit Duds](/neptunia/rb1/remake/8-437-mr-rabbit-duds.html)<br /> → [Mr. Rabbit Duds](/neptunia/rb1/item/8-2878-mr-rabbit-duds.html) (Clothing) |
-
+| <input type="checkbox" id="rb1-remake-8-437" class="trackbox" /> | 437 | [[Peashy] Battle Entry License](/neptunia/rb1/dlc/8-peashy.html) | [Mr. Rabbit Duds](/neptunia/rb1/remake/8-437-mr-rabbit-duds.html)<br />→ [Mr. Rabbit Duds](/neptunia/rb1/item/8-2878-mr-rabbit-duds.html) (Clothing) |
 
 ## Player characters who can equip **Mr. Rabbit Duds**
 

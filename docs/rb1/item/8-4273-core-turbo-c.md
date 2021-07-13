@@ -24,13 +24,11 @@ title: "Core Turbo C (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **To unlock in shop** | Method 1<br />- View scene [Chapter 4: Off To Lowee](/neptunia/rb1/scene/1-401-chapter-4-off-to-lowee.html)<br />- View scene [DLC 8 Event 1](/neptunia/rb1/scene/8-5020-dlc-8-event-1.html) |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 30 | 30 | 30 | 30 | 40 | 40 | 35 | 0 | 0 | 0 | 0 |
-
 
 ## Player characters who can equip **Core Turbo C**
 

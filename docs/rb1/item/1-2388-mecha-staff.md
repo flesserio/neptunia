@@ -25,13 +25,11 @@ title: "Mecha Staff (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Weapon skill** | [Break](/neptunia/rb1/skill/1-2803-break.html) |
 | **To unlock in shop** | Method 1<br />- Have save in first playthrough<br />- View scene [Chapter 4: Ganache's Trap](/neptunia/rb1/scene/1-417-chapter-4-ganaches-trap.html) |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 1000 | 0 | 1000 | 1260 | 0 | 2316 | 201 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-
 
 ## Player characters who can equip **Mecha Staff**
 

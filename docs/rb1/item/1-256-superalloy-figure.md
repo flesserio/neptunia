@@ -23,13 +23,11 @@ title: "Superalloy Figure (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 0 |
 | **Max inventory** | 99 |
 
-
 ## Monsters which drop **Superalloy Figure**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-1-260" class="trackbox" /> | 260 | [Base](/neptunia/rb1/dlc/1-base.html) | [Herobo](/neptunia/rb1/monster/1-260-herobo.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-1-260" class="trackbox" /> | 260 | [Base](/neptunia/rb1/dlc/1-base.html) | [Herobo](/neptunia/rb1/monster/1-260-herobo.html) | 30% |
 
 ## Dungeons **Superalloy Figure** is found
 

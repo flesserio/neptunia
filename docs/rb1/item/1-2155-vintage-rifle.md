@@ -25,13 +25,11 @@ title: "Vintage Rifle (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Weapon skill** | [Shot](/neptunia/rb1/skill/1-1401-shot.html) |
 | **To unlock in shop** | Method 1<br />- Have Uni unlocked. |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | -137 | 1365 | 0 | 910 | 0 | -137 | 0 | 0 | 0 | 0 | 0 | 0 |
-
 
 ## Player characters who can equip **Vintage Rifle**
 

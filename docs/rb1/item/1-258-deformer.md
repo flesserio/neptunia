@@ -22,7 +22,6 @@ title: "Deformer (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 0 |
 | **Max inventory** | 99 |
 
-
 ## Quests which reward **Deformer**
 
 |    | ID | DLC | Name |

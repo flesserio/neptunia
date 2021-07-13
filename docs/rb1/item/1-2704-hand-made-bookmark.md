@@ -24,20 +24,17 @@ title: "Hand-made Bookmark (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 0 |
 | **Max inventory** | 99 |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 0 | 0 | 0 | 25 | 0 | 25 | 0 | 0 | 0 | 0 | 0 |
 
-
 ## Player characters who have **Hand-made Bookmark** equipped by default
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
 | <input type="checkbox" id="rb1-player-1-4" class="trackbox" /> | 4 | [Base](/neptunia/rb1/dlc/1-base.html) | [Blanc](/neptunia/rb1/player/1-4-blanc.html) |
-
 
 ## Player characters who can equip **Hand-made Bookmark**
 

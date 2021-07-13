@@ -24,20 +24,17 @@ title: "SP Buster III (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 50000 |
 | **Max inventory** | 99 |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 2500 | 0 | 0 | 150 | 150 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 
-
 ## Remake System plans which unlock **SP Buster III** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-414" class="trackbox" /> | 414 | [Base](/neptunia/rb1/dlc/1-base.html) | [SP Buster III](/neptunia/rb1/remake/1-414-sp-buster-iii.html)<br /> → [SP Buster III](/neptunia/rb1/item/1-2742-sp-buster-iii.html) (Ornament) |
-
+| <input type="checkbox" id="rb1-remake-1-414" class="trackbox" /> | 414 | [Base](/neptunia/rb1/dlc/1-base.html) | [SP Buster III](/neptunia/rb1/remake/1-414-sp-buster-iii.html)<br />→ [SP Buster III](/neptunia/rb1/item/1-2742-sp-buster-iii.html) (Ornament) |
 
 ## Player characters who can equip **SP Buster III**
 

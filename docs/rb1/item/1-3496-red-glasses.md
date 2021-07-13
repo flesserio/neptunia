@@ -23,13 +23,11 @@ title: "Red Glasses (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 500 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Red Glasses** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-799" class="trackbox" /> | 799 | [Base](/neptunia/rb1/dlc/1-base.html) | [Red Glasses](/neptunia/rb1/remake/1-799-red-glasses.html)<br /> → [Red Glasses](/neptunia/rb1/item/1-3496-red-glasses.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-799" class="trackbox" /> | 799 | [Base](/neptunia/rb1/dlc/1-base.html) | [Red Glasses](/neptunia/rb1/remake/1-799-red-glasses.html)<br />→ [Red Glasses](/neptunia/rb1/item/1-3496-red-glasses.html) (Accessory) |
 
 ## Player characters who can equip **Red Glasses**
 

@@ -24,22 +24,19 @@ title: "Casual Colorful (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 0 |
 | **Max inventory** | 1 |
 
-
 ## Plans added to Remake System after collecting **Casual Colorful**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-422" class="trackbox" /> | 422 | [Base](/neptunia/rb1/dlc/1-base.html) | [Monochrome Style](/neptunia/rb1/remake/1-422-monochrome-style.html)<br /> → [Monochrome Style](/neptunia/rb1/item/1-2807-monochrome-style.html) (Clothing) |
-| <input type="checkbox" id="rb1-remake-1-423" class="trackbox" /> | 423 | [Base](/neptunia/rb1/dlc/1-base.html) | [Virtual Style](/neptunia/rb1/remake/1-423-virtual-style.html)<br /> → [Virtual Style](/neptunia/rb1/item/1-2808-virtual-style.html) (Clothing) |
-| <input type="checkbox" id="rb1-remake-1-424" class="trackbox" /> | 424 | [Base](/neptunia/rb1/dlc/1-base.html) | [Dream Style](/neptunia/rb1/remake/1-424-dream-style.html)<br /> → [Dream Style](/neptunia/rb1/item/1-2809-dream-style.html) (Clothing) |
-
+| <input type="checkbox" id="rb1-remake-1-422" class="trackbox" /> | 422 | [Base](/neptunia/rb1/dlc/1-base.html) | [Monochrome Style](/neptunia/rb1/remake/1-422-monochrome-style.html)<br />→ [Monochrome Style](/neptunia/rb1/item/1-2807-monochrome-style.html) (Clothing) |
+| <input type="checkbox" id="rb1-remake-1-423" class="trackbox" /> | 423 | [Base](/neptunia/rb1/dlc/1-base.html) | [Virtual Style](/neptunia/rb1/remake/1-423-virtual-style.html)<br />→ [Virtual Style](/neptunia/rb1/item/1-2808-virtual-style.html) (Clothing) |
+| <input type="checkbox" id="rb1-remake-1-424" class="trackbox" /> | 424 | [Base](/neptunia/rb1/dlc/1-base.html) | [Dream Style](/neptunia/rb1/remake/1-424-dream-style.html)<br />→ [Dream Style](/neptunia/rb1/item/1-2809-dream-style.html) (Clothing) |
 
 ## Monsters which drop **Casual Colorful**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-1-274" class="trackbox" /> | 274 | [Base](/neptunia/rb1/dlc/1-base.html) | [Grand Dragon](/neptunia/rb1/monster/1-274-grand-dragon.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-1-274" class="trackbox" /> | 274 | [Base](/neptunia/rb1/dlc/1-base.html) | [Grand Dragon](/neptunia/rb1/monster/1-274-grand-dragon.html) | 65% |
 
 ## Dungeons **Casual Colorful** is found
 

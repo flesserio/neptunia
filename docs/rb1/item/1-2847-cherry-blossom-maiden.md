@@ -23,13 +23,11 @@ title: "Cherry Blossom Maiden (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 25000 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Cherry Blossom Maiden** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-432" class="trackbox" /> | 432 | [Base](/neptunia/rb1/dlc/1-base.html) | [Cherry Blossom Maiden](/neptunia/rb1/remake/1-432-cherry-blossom-maiden.html)<br /> → [Cherry Blossom Maiden](/neptunia/rb1/item/1-2847-cherry-blossom-maiden.html) (Clothing) |
-
+| <input type="checkbox" id="rb1-remake-1-432" class="trackbox" /> | 432 | [Base](/neptunia/rb1/dlc/1-base.html) | [Cherry Blossom Maiden](/neptunia/rb1/remake/1-432-cherry-blossom-maiden.html)<br />→ [Cherry Blossom Maiden](/neptunia/rb1/item/1-2847-cherry-blossom-maiden.html) (Clothing) |
 
 ## Player characters who can equip **Cherry Blossom Maiden**
 

@@ -23,13 +23,11 @@ title: "White Camellia (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 2500 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **White Camellia** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-580" class="trackbox" /> | 580 | [Base](/neptunia/rb1/dlc/1-base.html) | [White Camellia](/neptunia/rb1/remake/1-580-white-camellia.html)<br /> → [White Camellia](/neptunia/rb1/item/1-3166-white-camellia.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-580" class="trackbox" /> | 580 | [Base](/neptunia/rb1/dlc/1-base.html) | [White Camellia](/neptunia/rb1/remake/1-580-white-camellia.html)<br />→ [White Camellia](/neptunia/rb1/item/1-3166-white-camellia.html) (Accessory) |
 
 ## Player characters who can equip **White Camellia**
 

@@ -23,18 +23,18 @@ title: "LING PCB (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 450 |
 | **Max inventory** | 99 |
 
-
 ## Dungeons **LING PCB** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
 | <input type="checkbox" id="rb1-dungeon-1-17" class="trackbox" /> | 17 | [Base](/neptunia/rb1/dlc/1-base.html) | [Fantasy Zone](/neptunia/rb1/dungeon/1-17-fantasy-zone.html) | Gathering point |
+| <input type="checkbox" id="rb1-dungeon-1-17" class="trackbox" /> | 17 | [Base](/neptunia/rb1/dlc/1-base.html) | [Fantasy Zone](/neptunia/rb1/dungeon/1-17-fantasy-zone.html) | Gathering point (Harvest Shift) |
 | <input type="checkbox" id="rb1-dungeon-1-20" class="trackbox" /> | 20 | [Base](/neptunia/rb1/dlc/1-base.html) | [Factory No.459](/neptunia/rb1/dungeon/1-20-factory-no-459.html) | Gathering point |
 | <input type="checkbox" id="rb1-dungeon-1-21" class="trackbox" /> | 21 | [Base](/neptunia/rb1/dlc/1-base.html) | [Factory No.459 Depths](/neptunia/rb1/dungeon/1-21-factory-no-459-depths.html) | Gathering point |
-
+| <input type="checkbox" id="rb1-dungeon-1-21" class="trackbox" /> | 21 | [Base](/neptunia/rb1/dlc/1-base.html) | [Factory No.459 Depths](/neptunia/rb1/dungeon/1-21-factory-no-459-depths.html) | Gathering point (Harvest Shift) |
 
 ## Remake System plans which require **LING PCB**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-593" class="trackbox" /> | 593 | [Base](/neptunia/rb1/dlc/1-base.html) | [Scholar Hat](/neptunia/rb1/quest/1-593-scholar-hat.html) |
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-593" class="trackbox" /> | 593 | [Base](/neptunia/rb1/dlc/1-base.html) | [Scholar Hat](/neptunia/rb1/remake/1-593-scholar-hat.html)<br />→ [Scholar Hat](/neptunia/rb1/item/1-3182-scholar-hat.html) (Accessory) | 2 |

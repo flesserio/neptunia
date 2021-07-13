@@ -25,20 +25,17 @@ title: "Demon Blade Rain (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **Weapon skill** | [Slash](/neptunia/rb1/skill/1-2-slash.html) |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 761 | 0 | 543 | 0 | -77 | -77 | 0 | 0 | 0 | 0 | 0 |
 
-
 ## Remake System plans which unlock **Demon Blade Rain** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-355" class="trackbox" /> | 355 | [Base](/neptunia/rb1/dlc/1-base.html) | [Demon Blade Rain](/neptunia/rb1/remake/1-355-demon-blade-rain.html)<br /> → [Demon Blade Rain](/neptunia/rb1/item/1-2019-demon-blade-rain.html) (Katana (Neptune)) |
-
+| <input type="checkbox" id="rb1-remake-1-355" class="trackbox" /> | 355 | [Base](/neptunia/rb1/dlc/1-base.html) | [Demon Blade Rain](/neptunia/rb1/remake/1-355-demon-blade-rain.html)<br />→ [Demon Blade Rain](/neptunia/rb1/item/1-2019-demon-blade-rain.html) (Katana (Neptune)) |
 
 ## Player characters who can equip **Demon Blade Rain**
 

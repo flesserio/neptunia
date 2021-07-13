@@ -25,20 +25,17 @@ title: "Lord Lance (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **Weapon skill** | [Attack](/neptunia/rb1/skill/1-801-attack.html) |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 1173 | 0 | 920 | 0 | 0 | -118 | 0 | 0 | 0 | 0 | 0 |
 
-
 ## Remake System plans which unlock **Lord Lance** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-377" class="trackbox" /> | 377 | [Base](/neptunia/rb1/dlc/1-base.html) | [Lord Lance](/neptunia/rb1/remake/1-377-lord-lance.html)<br /> → [Lord Lance](/neptunia/rb1/item/1-2116-lord-lance.html) (Spear (Vert)) |
-
+| <input type="checkbox" id="rb1-remake-1-377" class="trackbox" /> | 377 | [Base](/neptunia/rb1/dlc/1-base.html) | [Lord Lance](/neptunia/rb1/remake/1-377-lord-lance.html)<br />→ [Lord Lance](/neptunia/rb1/item/1-2116-lord-lance.html) (Spear (Vert)) |
 
 ## Player characters who can equip **Lord Lance**
 

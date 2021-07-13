@@ -23,13 +23,11 @@ title: "Dragon Slayer+5 (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 0 |
 | **Max inventory** | 99 |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 650 | 0 | 150 | 1460 | 0 | 950 | 26 | 0 | 26 | 0 | 0 | 0 | 0 | 0 |
-
 
 ## Player characters who can equip **Dragon Slayer+5**
 

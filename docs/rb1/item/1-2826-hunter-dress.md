@@ -24,20 +24,17 @@ title: "Hunter Dress (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 500 |
 | **Max inventory** | 99 |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 0 | 5 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 
-
 ## Chirpers who give **Hunter Dress**
 
 |    | ID | DLC | Avatar | Message | Conditions |
 | -- | -- | --- | ------ | ------- | ---------- |
-| <input type="checkbox" id="rb1-chirper-event-1-5197" class="trackbox" /> | 5197 | [Base](/neptunia/rb1/dlc/1-base.html) | [Hot-Blooded Merc](/neptunia/rb1/undefined/1-253-hot-blooded-merc.html) | Let me give you this. A monster dropped this.<br />No need to thank me. I can't equip it anyways. | View scene [Chapter 8: Arfoire Of Celestia](/neptunia/rb1/scene/1-801-chapter-8-arfoire-of-celestia.html)<br />Do not view scene [Chapter 8: The True Arfoire](/neptunia/rb1/scene/1-807-chapter-8-the-true-arfoire.html) |
-
+| <input type="checkbox" id="rb1-chirper-event-1-5197" class="trackbox" /> | 5197 | [Base](/neptunia/rb1/dlc/1-base.html) | [Hot-Blooded Merc](/neptunia/rb1/avatar/1-253-hot-blooded-merc.html) | Let me give you this. A monster dropped this.<br />No need to thank me. I can't equip it anyways. | View scene [Chapter 8: Arfoire Of Celestia](/neptunia/rb1/scene/1-801-chapter-8-arfoire-of-celestia.html)<br />Do not view scene [Chapter 8: The True Arfoire](/neptunia/rb1/scene/1-807-chapter-8-the-true-arfoire.html) |
 
 ## Player characters who can equip **Hunter Dress**
 

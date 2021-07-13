@@ -23,13 +23,11 @@ title: "Cat Hat Glasses (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 5000 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Cat Hat Glasses** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-661" class="trackbox" /> | 661 | [Base](/neptunia/rb1/dlc/1-base.html) | [Cat Hat Glasses](/neptunia/rb1/remake/1-661-cat-hat-glasses.html)<br /> → [Cat Hat Glasses](/neptunia/rb1/item/1-3291-cat-hat-glasses.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-661" class="trackbox" /> | 661 | [Base](/neptunia/rb1/dlc/1-base.html) | [Cat Hat Glasses](/neptunia/rb1/remake/1-661-cat-hat-glasses.html)<br />→ [Cat Hat Glasses](/neptunia/rb1/item/1-3291-cat-hat-glasses.html) (Accessory) |
 
 ## Player characters who can equip **Cat Hat Glasses**
 

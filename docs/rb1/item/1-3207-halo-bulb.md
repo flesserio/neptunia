@@ -24,15 +24,13 @@ title: "Halo Bulb (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **To unlock in shop** | Method 1<br />- View scene [Chapter 4: Where's Lowee's Key Fragment?](/neptunia/rb1/scene/1-410-chapter-4-wheres-lowees-key-fragment.html) |
 
-
 ## Remake System plans which require **Halo Bulb**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-611" class="trackbox" /> | 611 | [Base](/neptunia/rb1/dlc/1-base.html) | [Black Light](/neptunia/rb1/quest/1-611-black-light.html) |
-| <input type="checkbox" id="rb1-quest-1-612" class="trackbox" /> | 612 | [Base](/neptunia/rb1/dlc/1-base.html) | [Halogen Lamp](/neptunia/rb1/quest/1-612-halogen-lamp.html) |
-| <input type="checkbox" id="rb1-quest-1-613" class="trackbox" /> | 613 | [Base](/neptunia/rb1/dlc/1-base.html) | [Air Cleanser](/neptunia/rb1/quest/1-613-air-cleanser.html) |
-
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-611" class="trackbox" /> | 611 | [Base](/neptunia/rb1/dlc/1-base.html) | [Black Light](/neptunia/rb1/remake/1-611-black-light.html)<br />→ [Black Light](/neptunia/rb1/item/1-3208-black-light.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-1-612" class="trackbox" /> | 612 | [Base](/neptunia/rb1/dlc/1-base.html) | [Halogen Lamp](/neptunia/rb1/remake/1-612-halogen-lamp.html)<br />→ [Halogen Lamp](/neptunia/rb1/item/1-3209-halogen-lamp.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-1-613" class="trackbox" /> | 613 | [Base](/neptunia/rb1/dlc/1-base.html) | [Air Cleanser](/neptunia/rb1/remake/1-613-air-cleanser.html)<br />→ [Air Cleanser](/neptunia/rb1/item/1-3210-air-cleanser.html) (Accessory) | 1 |
 
 ## Player characters who can equip **Halo Bulb**
 

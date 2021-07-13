@@ -25,13 +25,11 @@ title: "Maximum Hammer (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Weapon skill** | [L Attack](/neptunia/rb1/skill/1-602-l-attack.html) |
 | **To unlock in shop** | Method 1<br />- View scene [Chapter 8: Planeptune's Legendary Weapon](/neptunia/rb1/scene/1-804-chapter-8-planeptunes-legendary-weapon.html) |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | -248 | 990 | 0 | 585 | 0 | -99 | 0 | 0 | 0 | 0 | 0 | 0 |
-
 
 ## Player characters who can equip **Maximum Hammer**
 

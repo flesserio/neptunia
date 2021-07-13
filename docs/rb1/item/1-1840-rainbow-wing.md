@@ -25,14 +25,12 @@ title: "Rainbow Wing (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 105 |
 | **Max inventory** | 99 |
 
-
 ## Monsters which drop **Rainbow Wing**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-1-332" class="trackbox" /> | 332 | [Base](/neptunia/rb1/dlc/1-base.html) | [Paradise Avian](/neptunia/rb1/monster/1-332-paradise-avian.html) |
-| <input type="checkbox" id="rb1-monster-1-333" class="trackbox" /> | 333 | [Base](/neptunia/rb1/dlc/1-base.html) | [Viral Paradise Avian](/neptunia/rb1/monster/1-333-viral-paradise-avian.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-1-332" class="trackbox" /> | 332 | [Base](/neptunia/rb1/dlc/1-base.html) | [Paradise Avian](/neptunia/rb1/monster/1-332-paradise-avian.html) | 40% |
+| <input type="checkbox" id="rb1-monster-1-333" class="trackbox" /> | 333 | [Base](/neptunia/rb1/dlc/1-base.html) | [Viral Paradise Avian](/neptunia/rb1/monster/1-333-viral-paradise-avian.html) | 80% |
 
 ## Dungeons **Rainbow Wing** is found
 
@@ -41,18 +39,16 @@ title: "Rainbow Wing (Item) - Hyperdimension Neptunia Re;Birth1"
 | <input type="checkbox" id="rb1-dungeon-1-114" class="trackbox" /> | 114 | [Base](/neptunia/rb1/dlc/1-base.html) | [Kinest Range](/neptunia/rb1/dungeon/1-114-kinest-range.html) | Gathering point |
 | <input type="checkbox" id="rb1-dungeon-1-114" class="trackbox" /> | 114 | [Base](/neptunia/rb1/dlc/1-base.html) | [Kinest Range](/neptunia/rb1/dungeon/1-114-kinest-range.html) | Monster drop |
 
-
 ## Quests which require gathering **Rainbow Wing**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
 | <input type="checkbox" id="rb1-quest-1-602" class="trackbox" /> | 602 | [Base](/neptunia/rb1/dlc/1-base.html) | [I need materials for my dress](/neptunia/rb1/quest/1-602-i-need-materials-for-my-dress.html) |
 
-
 ## Remake System plans which require **Rainbow Wing**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-221" class="trackbox" /> | 221 | [Base](/neptunia/rb1/dlc/1-base.html) | [Add Dungeon](/neptunia/rb1/quest/1-221-add-dungeon.html) |
-| <input type="checkbox" id="rb1-quest-1-317" class="trackbox" /> | 317 | [Base](/neptunia/rb1/dlc/1-base.html) | [Healing Bottle](/neptunia/rb1/quest/1-317-healing-bottle.html) |
-| <input type="checkbox" id="rb1-quest-1-413" class="trackbox" /> | 413 | [Base](/neptunia/rb1/dlc/1-base.html) | [Mysterious Ring](/neptunia/rb1/quest/1-413-mysterious-ring.html) |
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-221" class="trackbox" /> | 221 | [Base](/neptunia/rb1/dlc/1-base.html) | [Add Dungeon](/neptunia/rb1/remake/1-221-add-dungeon.html)<br />→ [Adjiten Forest Pass](/neptunia/rb1/dungeon/1-117-adjiten-forest-pass.html) (Dungeon) | 3 |
+| <input type="checkbox" id="rb1-remake-1-317" class="trackbox" /> | 317 | [Base](/neptunia/rb1/dlc/1-base.html) | [Healing Bottle](/neptunia/rb1/remake/1-317-healing-bottle.html)<br />→ [Healing Bottle](/neptunia/rb1/item/1-4-healing-bottle.html) (Tool) | 2 |
+| <input type="checkbox" id="rb1-remake-1-413" class="trackbox" /> | 413 | [Base](/neptunia/rb1/dlc/1-base.html) | [Mysterious Ring](/neptunia/rb1/remake/1-413-mysterious-ring.html)<br />→ [Mysterious Ring](/neptunia/rb1/item/1-2741-mysterious-ring.html) (Ornament) | 3 |

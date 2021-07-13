@@ -25,20 +25,17 @@ title: "Phantom Blade (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **Weapon skill** | [Slash](/neptunia/rb1/skill/1-402-slash.html) |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 1520 | 0 | 1520 | 0 | 152 | 0 | 0 | 0 | 0 | 0 | 0 |
 
-
 ## Colosseum quests which reward **Phantom Blade**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
 | <input type="checkbox" id="rb1-colosseum-1-2009" class="trackbox" /> | 2009 | [Base](/neptunia/rb1/dlc/1-base.html) | [Game Hell](/neptunia/rb1/colosseum/1-2009-game-hell.html) |
-
 
 ## Player characters who can equip **Phantom Blade**
 

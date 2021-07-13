@@ -25,20 +25,17 @@ title: "Demon Blade Curse (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **Weapon skill** | [Slash](/neptunia/rb1/skill/1-2-slash.html) |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 945 | 0 | 675 | 0 | -95 | -95 | 0 | 0 | 0 | 0 | 0 |
 
-
 ## Remake System plans which unlock **Demon Blade Curse** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-358" class="trackbox" /> | 358 | [Base](/neptunia/rb1/dlc/1-base.html) | [Demon Blade Curse](/neptunia/rb1/remake/1-358-demon-blade-curse.html)<br /> → [Demon Blade Curse](/neptunia/rb1/item/1-2021-demon-blade-curse.html) (Katana (Neptune)) |
-
+| <input type="checkbox" id="rb1-remake-1-358" class="trackbox" /> | 358 | [Base](/neptunia/rb1/dlc/1-base.html) | [Demon Blade Curse](/neptunia/rb1/remake/1-358-demon-blade-curse.html)<br />→ [Demon Blade Curse](/neptunia/rb1/item/1-2021-demon-blade-curse.html) (Katana (Neptune)) |
 
 ## Player characters who can equip **Demon Blade Curse**
 

@@ -23,13 +23,11 @@ title: "Minimum Crown (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 2500 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Minimum Crown** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-805" class="trackbox" /> | 805 | [Base](/neptunia/rb1/dlc/1-base.html) | [Minimum Crown](/neptunia/rb1/remake/1-805-minimum-crown.html)<br /> → [Minimum Crown](/neptunia/rb1/item/1-3504-minimum-crown.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-805" class="trackbox" /> | 805 | [Base](/neptunia/rb1/dlc/1-base.html) | [Minimum Crown](/neptunia/rb1/remake/1-805-minimum-crown.html)<br />→ [Minimum Crown](/neptunia/rb1/item/1-3504-minimum-crown.html) (Accessory) |
 
 ## Player characters who can equip **Minimum Crown**
 

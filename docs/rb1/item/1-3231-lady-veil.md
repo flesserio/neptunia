@@ -23,13 +23,11 @@ title: "Lady Veil (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 2500 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Lady Veil** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-622" class="trackbox" /> | 622 | [Base](/neptunia/rb1/dlc/1-base.html) | [Lady Veil](/neptunia/rb1/remake/1-622-lady-veil.html)<br /> → [Lady Veil](/neptunia/rb1/item/1-3231-lady-veil.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-622" class="trackbox" /> | 622 | [Base](/neptunia/rb1/dlc/1-base.html) | [Lady Veil](/neptunia/rb1/remake/1-622-lady-veil.html)<br />→ [Lady Veil](/neptunia/rb1/item/1-3231-lady-veil.html) (Accessory) |
 
 ## Player characters who can equip **Lady Veil**
 

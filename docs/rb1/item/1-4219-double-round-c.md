@@ -25,27 +25,23 @@ title: "Double Round C (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 1000 |
 | **Max inventory** | 99 |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 35 | 40 | 35 | 40 | 45 | 45 | 40 | 0 | 0 | 0 | 0 |
 
-
 ## Dungeons **Double Round C** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
-| <input type="checkbox" id="rb1-dungeon-1-114" class="trackbox" /> | 114 | [Base](/neptunia/rb1/dlc/1-base.html) | [Kinest Range](/neptunia/rb1/dungeon/1-114-kinest-range.html) | Gathering point |
-
+| <input type="checkbox" id="rb1-dungeon-1-114" class="trackbox" /> | 114 | [Base](/neptunia/rb1/dlc/1-base.html) | [Kinest Range](/neptunia/rb1/dungeon/1-114-kinest-range.html) | Hidden treasure |
 
 ## Remake System plans which require **Double Round C**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-841" class="trackbox" /> | 841 | [Base](/neptunia/rb1/dlc/1-base.html) | [Leanbox C](/neptunia/rb1/quest/1-841-leanbox-c.html) |
-
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-841" class="trackbox" /> | 841 | [Base](/neptunia/rb1/dlc/1-base.html) | [Leanbox C](/neptunia/rb1/remake/1-841-leanbox-c.html)<br />→ [Leanbox C](/neptunia/rb1/item/1-4231-leanbox-c.html) (Processor (C)) | 1 |
 
 ## Player characters who can equip **Double Round C**
 

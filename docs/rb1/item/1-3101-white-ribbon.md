@@ -23,13 +23,11 @@ title: "White Ribbon (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 1500 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **White Ribbon** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-546" class="trackbox" /> | 546 | [Base](/neptunia/rb1/dlc/1-base.html) | [White Ribbon](/neptunia/rb1/remake/1-546-white-ribbon.html)<br /> → [White Ribbon](/neptunia/rb1/item/1-3101-white-ribbon.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-546" class="trackbox" /> | 546 | [Base](/neptunia/rb1/dlc/1-base.html) | [White Ribbon](/neptunia/rb1/remake/1-546-white-ribbon.html)<br />→ [White Ribbon](/neptunia/rb1/item/1-3101-white-ribbon.html) (Accessory) |
 
 ## Player characters who can equip **White Ribbon**
 

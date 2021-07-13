@@ -23,13 +23,11 @@ title: "Dragon Slayer+10 (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 0 |
 | **Max inventory** | 99 |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 1300 | 0 | 300 | 2920 | 0 | 1900 | 52 | 0 | 52 | 0 | 0 | 0 | 0 | 0 |
-
 
 ## Player characters who can equip **Dragon Slayer+10**
 

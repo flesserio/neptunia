@@ -23,16 +23,14 @@ title: "Plan: Drive Hammer (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 0 |
 | **Max inventory** | 1 |
 
-
 ## Plans added to Remake System after collecting **Plan: Drive Hammer**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-370" class="trackbox" /> | 370 | [Base](/neptunia/rb1/dlc/1-base.html) | [Drive Hammer](/neptunia/rb1/remake/1-370-drive-hammer.html)<br /> → [Drive Hammer](/neptunia/rb1/item/1-2086-drive-hammer.html) (Hammer (Blanc)) |
-
+| <input type="checkbox" id="rb1-remake-1-370" class="trackbox" /> | 370 | [Base](/neptunia/rb1/dlc/1-base.html) | [Drive Hammer](/neptunia/rb1/remake/1-370-drive-hammer.html)<br />→ [Drive Hammer](/neptunia/rb1/item/1-2086-drive-hammer.html) (Hammer (Blanc)) |
 
 ## Dungeons **Plan: Drive Hammer** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
-| <input type="checkbox" id="rb1-dungeon-1-14" class="trackbox" /> | 14 | [Base](/neptunia/rb1/dlc/1-base.html) | [Hyrarule Snowfield](/neptunia/rb1/dungeon/1-14-hyrarule-snowfield.html) | Gathering point |
+| <input type="checkbox" id="rb1-dungeon-1-14" class="trackbox" /> | 14 | [Base](/neptunia/rb1/dlc/1-base.html) | [Hyrarule Snowfield](/neptunia/rb1/dungeon/1-14-hyrarule-snowfield.html) | Treasure |

@@ -23,16 +23,14 @@ title: "Add Dungeon: Gunbreak Underground Cavern (Item) - Hyperdimension Neptuni
 | **Sell Price** | 0 |
 | **Max inventory** | 1 |
 
-
 ## Plans added to Remake System after collecting **Add Dungeon: Gunbreak Underground Cavern**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-214" class="trackbox" /> | 214 | [Base](/neptunia/rb1/dlc/1-base.html) | [Add Dungeon](/neptunia/rb1/remake/1-214-add-dungeon.html)<br /> → [Gunbreak Underground Cavern](/neptunia/rb1/dungeon/1-107-gunbreak-underground-cavern.html) (Dungeon) |
-
+| <input type="checkbox" id="rb1-remake-1-214" class="trackbox" /> | 214 | [Base](/neptunia/rb1/dlc/1-base.html) | [Add Dungeon](/neptunia/rb1/remake/1-214-add-dungeon.html)<br />→ [Gunbreak Underground Cavern](/neptunia/rb1/dungeon/1-107-gunbreak-underground-cavern.html) (Dungeon) |
 
 ## Dungeons **Add Dungeon: Gunbreak Underground Cavern** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
-| <input type="checkbox" id="rb1-dungeon-1-106" class="trackbox" /> | 106 | [Base](/neptunia/rb1/dlc/1-base.html) | [Gravidaze Ruins](/neptunia/rb1/dungeon/1-106-gravidaze-ruins.html) | Gathering point |
+| <input type="checkbox" id="rb1-dungeon-1-106" class="trackbox" /> | 106 | [Base](/neptunia/rb1/dlc/1-base.html) | [Gravidaze Ruins](/neptunia/rb1/dungeon/1-106-gravidaze-ruins.html) | Treasure |

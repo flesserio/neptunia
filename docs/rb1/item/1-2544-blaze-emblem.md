@@ -24,13 +24,11 @@ title: "Blaze Emblem (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **To unlock in shop** | Method 1<br />- Have Rom & Ram unlocked. |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 0 | 1300 | 178 | 1430 | 162 | 0 | 0 | 0 | 0 | 0 | 0 |
-
 
 ## Player characters who can equip **Blaze Emblem**
 

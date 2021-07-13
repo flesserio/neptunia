@@ -23,13 +23,11 @@ title: "Gold Crown (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 1500 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Gold Crown** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-678" class="trackbox" /> | 678 | [Base](/neptunia/rb1/dlc/1-base.html) | [Gold Crown](/neptunia/rb1/remake/1-678-gold-crown.html)<br /> → [Gold Crown](/neptunia/rb1/item/1-3310-gold-crown.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-678" class="trackbox" /> | 678 | [Base](/neptunia/rb1/dlc/1-base.html) | [Gold Crown](/neptunia/rb1/remake/1-678-gold-crown.html)<br />→ [Gold Crown](/neptunia/rb1/item/1-3310-gold-crown.html) (Accessory) |
 
 ## Player characters who can equip **Gold Crown**
 

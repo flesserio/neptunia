@@ -24,21 +24,18 @@ title: "Princess Blue (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 1500 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Princess Blue** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-585" class="trackbox" /> | 585 | [Base](/neptunia/rb1/dlc/1-base.html) | [Princess Blue](/neptunia/rb1/remake/1-585-princess-blue.html)<br /> → [Princess Blue](/neptunia/rb1/item/1-3157-princess-blue.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-585" class="trackbox" /> | 585 | [Base](/neptunia/rb1/dlc/1-base.html) | [Princess Blue](/neptunia/rb1/remake/1-585-princess-blue.html)<br />→ [Princess Blue](/neptunia/rb1/item/1-3157-princess-blue.html) (Accessory) |
 
 ## Remake System plans which require **Princess Blue**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-586" class="trackbox" /> | 586 | [Base](/neptunia/rb1/dlc/1-base.html) | [Black](/neptunia/rb1/quest/1-586-black.html) |
-| <input type="checkbox" id="rb1-quest-1-587" class="trackbox" /> | 587 | [Base](/neptunia/rb1/dlc/1-base.html) | [Vintage](/neptunia/rb1/quest/1-587-vintage.html) |
-
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-586" class="trackbox" /> | 586 | [Base](/neptunia/rb1/dlc/1-base.html) | [Black](/neptunia/rb1/remake/1-586-black.html)<br />→ [Black](/neptunia/rb1/item/1-3158-black.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-1-587" class="trackbox" /> | 587 | [Base](/neptunia/rb1/dlc/1-base.html) | [Vintage](/neptunia/rb1/remake/1-587-vintage.html)<br />→ [Vintage](/neptunia/rb1/item/1-3159-vintage.html) (Accessory) | 1 |
 
 ## Player characters who can equip **Princess Blue**
 

@@ -22,9 +22,8 @@ title: "Large Medal M (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 0 |
 | **Max inventory** | 1 |
 
-
 ## Monsters which drop **Large Medal M**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-1-1026" class="trackbox" /> | 1026 | [Base](/neptunia/rb1/dlc/1-base.html) | [Arfoire](/neptunia/rb1/monster/1-1026-arfoire.html) |
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-1-1026" class="trackbox" /> | 1026 | [Base](/neptunia/rb1/dlc/1-base.html) | [Arfoire](/neptunia/rb1/monster/1-1026-arfoire.html) | 100% |

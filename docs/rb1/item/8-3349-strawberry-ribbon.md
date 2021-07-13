@@ -24,15 +24,13 @@ title: "Strawberry Ribbon (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **To unlock in shop** | Method 1<br />- View scene [Chapter 2: Histoire And Arfoire](/neptunia/rb1/scene/1-201-chapter-2-histoire-and-arfoire.html)<br />- View scene [DLC 8 Event 1](/neptunia/rb1/scene/8-5020-dlc-8-event-1.html) |
 
-
 ## Remake System plans which require **Strawberry Ribbon**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-8-703" class="trackbox" /> | 703 | [[Peashy] Battle Entry License](/neptunia/rb1/dlc/8-peashy.html) | [Strawberry Milk](/neptunia/rb1/quest/8-703-strawberry-milk.html) |
-| <input type="checkbox" id="rb1-quest-8-704" class="trackbox" /> | 704 | [[Peashy] Battle Entry License](/neptunia/rb1/dlc/8-peashy.html) | [Radish Ribbon](/neptunia/rb1/quest/8-704-radish-ribbon.html) |
-| <input type="checkbox" id="rb1-quest-8-705" class="trackbox" /> | 705 | [[Peashy] Battle Entry License](/neptunia/rb1/dlc/8-peashy.html) | [Carrot Ribbon](/neptunia/rb1/quest/8-705-carrot-ribbon.html) |
-
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-8-703" class="trackbox" /> | 703 | [[Peashy] Battle Entry License](/neptunia/rb1/dlc/8-peashy.html) | [Strawberry Milk](/neptunia/rb1/remake/8-703-strawberry-milk.html)<br />→ [Strawberry Milk](/neptunia/rb1/item/8-3350-strawberry-milk.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-8-704" class="trackbox" /> | 704 | [[Peashy] Battle Entry License](/neptunia/rb1/dlc/8-peashy.html) | [Radish Ribbon](/neptunia/rb1/remake/8-704-radish-ribbon.html)<br />→ [Radish Ribbon](/neptunia/rb1/item/8-3351-radish-ribbon.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-8-705" class="trackbox" /> | 705 | [[Peashy] Battle Entry License](/neptunia/rb1/dlc/8-peashy.html) | [Carrot Ribbon](/neptunia/rb1/remake/8-705-carrot-ribbon.html)<br />→ [Carrot Ribbon](/neptunia/rb1/item/8-3352-carrot-ribbon.html) (Accessory) | 1 |
 
 ## Player characters who can equip **Strawberry Ribbon**
 

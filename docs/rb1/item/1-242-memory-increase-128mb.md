@@ -22,9 +22,8 @@ title: "Memory Increase - 128MB (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 0 |
 | **Max inventory** | 4 |
 
-
 ## Monsters which drop **Memory Increase - 128MB**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-1-1013" class="trackbox" /> | 1013 | [Base](/neptunia/rb1/dlc/1-base.html) | [Black Heart](/neptunia/rb1/monster/1-1013-black-heart.html) |
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-1-1013" class="trackbox" /> | 1013 | [Base](/neptunia/rb1/dlc/1-base.html) | [Black Heart](/neptunia/rb1/monster/1-1013-black-heart.html) | 100% |

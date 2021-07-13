@@ -24,13 +24,11 @@ title: "Red Gel Feeler (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 16 |
 | **Max inventory** | 99 |
 
-
 ## Monsters which drop **Red Gel Feeler**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-1-129" class="trackbox" /> | 129 | [Base](/neptunia/rb1/dlc/1-base.html) | [Healing Dogoo](/neptunia/rb1/monster/1-129-healing-dogoo.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-1-129" class="trackbox" /> | 129 | [Base](/neptunia/rb1/dlc/1-base.html) | [Healing Dogoo](/neptunia/rb1/monster/1-129-healing-dogoo.html) | 40% |
 
 ## Dungeons **Red Gel Feeler** is found
 
@@ -39,9 +37,8 @@ title: "Red Gel Feeler (Item) - Hyperdimension Neptunia Re;Birth1"
 | <input type="checkbox" id="rb1-dungeon-1-6" class="trackbox" /> | 6 | [Base](/neptunia/rb1/dlc/1-base.html) | [Avenir Storage No.3](/neptunia/rb1/dungeon/1-6-avenir-storage-no-3.html) | Gathering point |
 | <input type="checkbox" id="rb1-dungeon-1-6" class="trackbox" /> | 6 | [Base](/neptunia/rb1/dlc/1-base.html) | [Avenir Storage No.3](/neptunia/rb1/dungeon/1-6-avenir-storage-no-3.html) | Monster drop |
 
-
 ## Remake System plans which require **Red Gel Feeler**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-322" class="trackbox" /> | 322 | [Base](/neptunia/rb1/dlc/1-base.html) | [Nep Bull EX II](/neptunia/rb1/quest/1-322-nep-bull-ex-ii.html) |
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-322" class="trackbox" /> | 322 | [Base](/neptunia/rb1/dlc/1-base.html) | [Nep Bull EX II](/neptunia/rb1/remake/1-322-nep-bull-ex-ii.html)<br />→ [Nep Bull EX II](/neptunia/rb1/item/1-9-nep-bull-ex-ii.html) (Tool) | 2 |

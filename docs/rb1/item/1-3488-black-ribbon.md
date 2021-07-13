@@ -23,13 +23,11 @@ title: "Black Ribbon (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 2500 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Black Ribbon** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-793" class="trackbox" /> | 793 | [Base](/neptunia/rb1/dlc/1-base.html) | [Black Ribbon](/neptunia/rb1/remake/1-793-black-ribbon.html)<br /> → [Black Ribbon](/neptunia/rb1/item/1-3488-black-ribbon.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-793" class="trackbox" /> | 793 | [Base](/neptunia/rb1/dlc/1-base.html) | [Black Ribbon](/neptunia/rb1/remake/1-793-black-ribbon.html)<br />→ [Black Ribbon](/neptunia/rb1/item/1-3488-black-ribbon.html) (Accessory) |
 
 ## Player characters who can equip **Black Ribbon**
 

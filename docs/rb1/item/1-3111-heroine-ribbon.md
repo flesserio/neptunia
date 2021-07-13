@@ -23,13 +23,11 @@ title: "Heroine Ribbon (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 2500 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Heroine Ribbon** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-539" class="trackbox" /> | 539 | [Base](/neptunia/rb1/dlc/1-base.html) | [Heroine Ribbon](/neptunia/rb1/remake/1-539-heroine-ribbon.html)<br /> → [Heroine Ribbon](/neptunia/rb1/item/1-3111-heroine-ribbon.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-539" class="trackbox" /> | 539 | [Base](/neptunia/rb1/dlc/1-base.html) | [Heroine Ribbon](/neptunia/rb1/remake/1-539-heroine-ribbon.html)<br />→ [Heroine Ribbon](/neptunia/rb1/item/1-3111-heroine-ribbon.html) (Accessory) |
 
 ## Player characters who can equip **Heroine Ribbon**
 

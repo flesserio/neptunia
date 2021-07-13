@@ -25,24 +25,21 @@ title: "Super Panacea (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **Tool skill** | [Super Panacea](/neptunia/rb1/skill/1-10032-super-panacea.html) |
 
-
 ## Remake System plans which unlock **Super Panacea** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-339" class="trackbox" /> | 339 | [Base](/neptunia/rb1/dlc/1-base.html) | [Super Panacea](/neptunia/rb1/remake/1-339-super-panacea.html)<br /> → [Super Panacea](/neptunia/rb1/item/1-32-super-panacea.html) (Tool) |
-
+| <input type="checkbox" id="rb1-remake-1-339" class="trackbox" /> | 339 | [Base](/neptunia/rb1/dlc/1-base.html) | [Super Panacea](/neptunia/rb1/remake/1-339-super-panacea.html)<br />→ [Super Panacea](/neptunia/rb1/item/1-32-super-panacea.html) (Tool) |
 
 ## Dungeons **Super Panacea** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
-| <input type="checkbox" id="rb1-dungeon-1-25" class="trackbox" /> | 25 | [Base](/neptunia/rb1/dlc/1-base.html) | [Road to Celestia](/neptunia/rb1/dungeon/1-25-road-to-celestia.html) | Gathering point |
-| <input type="checkbox" id="rb1-dungeon-1-117" class="trackbox" /> | 117 | [Base](/neptunia/rb1/dlc/1-base.html) | [Adjiten Forest Pass](/neptunia/rb1/dungeon/1-117-adjiten-forest-pass.html) | Gathering point |
-| <input type="checkbox" id="rb1-dungeon-12-125" class="trackbox" /> | 125 | [Additional Content Package 3](/neptunia/rb1/dlc/12-pack3.html) | [Haneda Forest](/neptunia/rb1/dungeon/12-125-haneda-forest.html) | Gathering point |
-| <input type="checkbox" id="rb1-dungeon-19-301" class="trackbox" /> | 301 | [Additional Content Pack 10](/neptunia/rb1/dlc/19-pack10.html) | [Giant Island](/neptunia/rb1/dungeon/19-301-giant-island.html) | Gathering point |
-| <input type="checkbox" id="rb1-dungeon-20-302" class="trackbox" /> | 302 | [Additional Content Pack 11](/neptunia/rb1/dlc/20-pack11.html) | [Mini Island](/neptunia/rb1/dungeon/20-302-mini-island.html) | Gathering point |
-
+| <input type="checkbox" id="rb1-dungeon-1-25" class="trackbox" /> | 25 | [Base](/neptunia/rb1/dlc/1-base.html) | [Road to Celestia](/neptunia/rb1/dungeon/1-25-road-to-celestia.html) | Treasure |
+| <input type="checkbox" id="rb1-dungeon-1-117" class="trackbox" /> | 117 | [Base](/neptunia/rb1/dlc/1-base.html) | [Adjiten Forest Pass](/neptunia/rb1/dungeon/1-117-adjiten-forest-pass.html) | Treasure |
+| <input type="checkbox" id="rb1-dungeon-12-125" class="trackbox" /> | 125 | [Additional Content Package 3](/neptunia/rb1/dlc/12-pack3.html) | [Haneda Forest](/neptunia/rb1/dungeon/12-125-haneda-forest.html) | Treasure |
+| <input type="checkbox" id="rb1-dungeon-19-301" class="trackbox" /> | 301 | [Additional Content Pack 10](/neptunia/rb1/dlc/19-pack10.html) | [Giant Island](/neptunia/rb1/dungeon/19-301-giant-island.html) | Treasure |
+| <input type="checkbox" id="rb1-dungeon-20-302" class="trackbox" /> | 302 | [Additional Content Pack 11](/neptunia/rb1/dlc/20-pack11.html) | [Mini Island](/neptunia/rb1/dungeon/20-302-mini-island.html) | Treasure |
 
 ## Colosseum quests which reward **Super Panacea**
 

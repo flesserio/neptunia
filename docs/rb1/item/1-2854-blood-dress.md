@@ -23,13 +23,11 @@ title: "Blood Dress (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 500 |
 | **Max inventory** | 99 |
 
-
 ## Dungeons **Blood Dress** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
-| <input type="checkbox" id="rb1-dungeon-1-23" class="trackbox" /> | 23 | [Base](/neptunia/rb1/dlc/1-base.html) | [Gheytz Forest](/neptunia/rb1/dungeon/1-23-gheytz-forest.html) | Gathering point |
-
+| <input type="checkbox" id="rb1-dungeon-1-23" class="trackbox" /> | 23 | [Base](/neptunia/rb1/dlc/1-base.html) | [Gheytz Forest](/neptunia/rb1/dungeon/1-23-gheytz-forest.html) | Hidden treasure |
 
 ## Player characters who can equip **Blood Dress**
 

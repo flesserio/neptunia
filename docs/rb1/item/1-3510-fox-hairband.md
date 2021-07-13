@@ -24,15 +24,13 @@ title: "Fox Hairband (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **To unlock in shop** | Method 1<br />- Have Rom & Ram unlocked. |
 
-
 ## Remake System plans which require **Fox Hairband**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-810" class="trackbox" /> | 810 | [Base](/neptunia/rb1/dlc/1-base.html) | [Black Fox Band](/neptunia/rb1/quest/1-810-black-fox-band.html) |
-| <input type="checkbox" id="rb1-quest-1-811" class="trackbox" /> | 811 | [Base](/neptunia/rb1/dlc/1-base.html) | [White Fox Band](/neptunia/rb1/quest/1-811-white-fox-band.html) |
-| <input type="checkbox" id="rb1-quest-1-812" class="trackbox" /> | 812 | [Base](/neptunia/rb1/dlc/1-base.html) | [Northern Fox Band](/neptunia/rb1/quest/1-812-northern-fox-band.html) |
-
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-810" class="trackbox" /> | 810 | [Base](/neptunia/rb1/dlc/1-base.html) | [Black Fox Band](/neptunia/rb1/remake/1-810-black-fox-band.html)<br />→ [Black Fox Band](/neptunia/rb1/item/1-3511-black-fox-band.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-1-811" class="trackbox" /> | 811 | [Base](/neptunia/rb1/dlc/1-base.html) | [White Fox Band](/neptunia/rb1/remake/1-811-white-fox-band.html)<br />→ [White Fox Band](/neptunia/rb1/item/1-3512-white-fox-band.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-1-812" class="trackbox" /> | 812 | [Base](/neptunia/rb1/dlc/1-base.html) | [Northern Fox Band](/neptunia/rb1/remake/1-812-northern-fox-band.html)<br />→ [Northern Fox Band](/neptunia/rb1/item/1-3513-northern-fox-band.html) (Accessory) | 1 |
 
 ## Player characters who can equip **Fox Hairband**
 

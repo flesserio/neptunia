@@ -24,22 +24,19 @@ title: "Candy Ribbon (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 2500 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Candy Ribbon** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-791" class="trackbox" /> | 791 | [Base](/neptunia/rb1/dlc/1-base.html) | [Candy Ribbon](/neptunia/rb1/remake/1-791-candy-ribbon.html)<br /> → [Candy Ribbon](/neptunia/rb1/item/1-3486-candy-ribbon.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-791" class="trackbox" /> | 791 | [Base](/neptunia/rb1/dlc/1-base.html) | [Candy Ribbon](/neptunia/rb1/remake/1-791-candy-ribbon.html)<br />→ [Candy Ribbon](/neptunia/rb1/item/1-3486-candy-ribbon.html) (Accessory) |
 
 ## Remake System plans which require **Candy Ribbon**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-792" class="trackbox" /> | 792 | [Base](/neptunia/rb1/dlc/1-base.html) | [Violet Ribbon](/neptunia/rb1/quest/1-792-violet-ribbon.html) |
-| <input type="checkbox" id="rb1-quest-1-793" class="trackbox" /> | 793 | [Base](/neptunia/rb1/dlc/1-base.html) | [Black Ribbon](/neptunia/rb1/quest/1-793-black-ribbon.html) |
-| <input type="checkbox" id="rb1-quest-1-794" class="trackbox" /> | 794 | [Base](/neptunia/rb1/dlc/1-base.html) | [Lime Ribbon](/neptunia/rb1/quest/1-794-lime-ribbon.html) |
-
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-792" class="trackbox" /> | 792 | [Base](/neptunia/rb1/dlc/1-base.html) | [Violet Ribbon](/neptunia/rb1/remake/1-792-violet-ribbon.html)<br />→ [Violet Ribbon](/neptunia/rb1/item/1-3487-violet-ribbon.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-1-793" class="trackbox" /> | 793 | [Base](/neptunia/rb1/dlc/1-base.html) | [Black Ribbon](/neptunia/rb1/remake/1-793-black-ribbon.html)<br />→ [Black Ribbon](/neptunia/rb1/item/1-3488-black-ribbon.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-1-794" class="trackbox" /> | 794 | [Base](/neptunia/rb1/dlc/1-base.html) | [Lime Ribbon](/neptunia/rb1/remake/1-794-lime-ribbon.html)<br />→ [Lime Ribbon](/neptunia/rb1/item/1-3489-lime-ribbon.html) (Accessory) | 1 |
 
 ## Player characters who can equip **Candy Ribbon**
 

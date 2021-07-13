@@ -23,13 +23,11 @@ title: "Gray Chignon (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 2500 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Gray Chignon** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-484" class="trackbox" /> | 484 | [Base](/neptunia/rb1/dlc/1-base.html) | [Gray Chignon](/neptunia/rb1/remake/1-484-gray-chignon.html)<br /> → [Gray Chignon](/neptunia/rb1/item/1-3022-gray-chignon.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-484" class="trackbox" /> | 484 | [Base](/neptunia/rb1/dlc/1-base.html) | [Gray Chignon](/neptunia/rb1/remake/1-484-gray-chignon.html)<br />→ [Gray Chignon](/neptunia/rb1/item/1-3022-gray-chignon.html) (Accessory) |
 
 ## Player characters who can equip **Gray Chignon**
 

@@ -24,22 +24,19 @@ title: "Crimson Princess (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 2500 |
 | **Max inventory** | 99 |
 
-
 ## Quests which reward **Crimson Princess**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
 | <input type="checkbox" id="rb1-quest-1-410" class="trackbox" /> | 410 | [Base](/neptunia/rb1/dlc/1-base.html) | [Furo Ristan](/neptunia/rb1/quest/1-410-furo-ristan.html) |
 
-
 ## Remake System plans which require **Crimson Princess**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-582" class="trackbox" /> | 582 | [Base](/neptunia/rb1/dlc/1-base.html) | [Sakura Ribbon](/neptunia/rb1/quest/1-582-sakura-ribbon.html) |
-| <input type="checkbox" id="rb1-quest-1-583" class="trackbox" /> | 583 | [Base](/neptunia/rb1/dlc/1-base.html) | [Blue Ribbon](/neptunia/rb1/quest/1-583-blue-ribbon.html) |
-| <input type="checkbox" id="rb1-quest-1-584" class="trackbox" /> | 584 | [Base](/neptunia/rb1/dlc/1-base.html) | [Snowy Ribbon](/neptunia/rb1/quest/1-584-snowy-ribbon.html) |
-
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-582" class="trackbox" /> | 582 | [Base](/neptunia/rb1/dlc/1-base.html) | [Sakura Ribbon](/neptunia/rb1/remake/1-582-sakura-ribbon.html)<br />→ [Sakura Ribbon](/neptunia/rb1/item/1-3169-sakura-ribbon.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-1-583" class="trackbox" /> | 583 | [Base](/neptunia/rb1/dlc/1-base.html) | [Blue Ribbon](/neptunia/rb1/remake/1-583-blue-ribbon.html)<br />→ [Blue Ribbon](/neptunia/rb1/item/1-3170-blue-ribbon.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-1-584" class="trackbox" /> | 584 | [Base](/neptunia/rb1/dlc/1-base.html) | [Snowy Ribbon](/neptunia/rb1/remake/1-584-snowy-ribbon.html)<br />→ [Snowy Ribbon](/neptunia/rb1/item/1-3171-snowy-ribbon.html) (Accessory) | 1 |
 
 ## Player characters who can equip **Crimson Princess**
 

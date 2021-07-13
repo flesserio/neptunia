@@ -25,13 +25,11 @@ title: "Newbie Nurse Cap (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 490 |
 | **Max inventory** | 99 |
 
-
 ## Monsters which drop **Newbie Nurse Cap**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-1-266" class="trackbox" /> | 266 | [Base](/neptunia/rb1/dlc/1-base.html) | [Nurse Binder](/neptunia/rb1/monster/1-266-nurse-binder.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-1-266" class="trackbox" /> | 266 | [Base](/neptunia/rb1/dlc/1-base.html) | [Nurse Binder](/neptunia/rb1/monster/1-266-nurse-binder.html) | 65% |
 
 ## Dungeons **Newbie Nurse Cap** is found
 
@@ -39,18 +37,16 @@ title: "Newbie Nurse Cap (Item) - Hyperdimension Neptunia Re;Birth1"
 | -- | -- | --- | ---- | ---- |
 | <input type="checkbox" id="rb1-dungeon-1-103" class="trackbox" /> | 103 | [Base](/neptunia/rb1/dlc/1-base.html) | [Ortan Fields](/neptunia/rb1/dungeon/1-103-ortan-fields.html) | Monster drop |
 
-
 ## Quests which require gathering **Newbie Nurse Cap**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
 | <input type="checkbox" id="rb1-quest-1-213" class="trackbox" /> | 213 | [Base](/neptunia/rb1/dlc/1-base.html) | [Nursing](/neptunia/rb1/quest/1-213-nursing.html) |
 
-
 ## Remake System plans which require **Newbie Nurse Cap**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-555" class="trackbox" /> | 555 | [Base](/neptunia/rb1/dlc/1-base.html) | [Classic Nurse](/neptunia/rb1/quest/1-555-classic-nurse.html) |
-| <input type="checkbox" id="rb1-quest-1-631" class="trackbox" /> | 631 | [Base](/neptunia/rb1/dlc/1-base.html) | [Clover Nurse](/neptunia/rb1/quest/1-631-clover-nurse.html) |
-| <input type="checkbox" id="rb1-quest-1-657" class="trackbox" /> | 657 | [Base](/neptunia/rb1/dlc/1-base.html) | [Cat Ears Hat](/neptunia/rb1/quest/1-657-cat-ears-hat.html) |
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-555" class="trackbox" /> | 555 | [Base](/neptunia/rb1/dlc/1-base.html) | [Classic Nurse](/neptunia/rb1/remake/1-555-classic-nurse.html)<br />→ [Classic Nurse](/neptunia/rb1/item/1-3122-classic-nurse.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-1-631" class="trackbox" /> | 631 | [Base](/neptunia/rb1/dlc/1-base.html) | [Clover Nurse](/neptunia/rb1/remake/1-631-clover-nurse.html)<br />→ [Clover Nurse](/neptunia/rb1/item/1-3245-clover-nurse.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-1-657" class="trackbox" /> | 657 | [Base](/neptunia/rb1/dlc/1-base.html) | [Cat Ears Hat](/neptunia/rb1/remake/1-657-cat-ears-hat.html)<br />→ [Cat Ears Hat](/neptunia/rb1/item/1-3287-cat-ears-hat.html) (Accessory) | 2 |

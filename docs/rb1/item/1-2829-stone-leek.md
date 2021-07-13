@@ -24,13 +24,11 @@ title: "Stone Leek (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **To unlock in shop** | Method 1<br />- View scene [Chapter 5: Reunion](/neptunia/rb1/scene/1-503-chapter-5-reunion.html) |
 
-
 ## Remake System plans which require **Stone Leek**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-426" class="trackbox" /> | 426 | [Base](/neptunia/rb1/dlc/1-base.html) | [Stone Leek Style](/neptunia/rb1/quest/1-426-stone-leek-style.html) |
-
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-426" class="trackbox" /> | 426 | [Base](/neptunia/rb1/dlc/1-base.html) | [Stone Leek Style](/neptunia/rb1/remake/1-426-stone-leek-style.html)<br />→ [Stone Leek Style](/neptunia/rb1/item/1-2832-stone-leek-style.html) (Clothing) | 1 |
 
 ## Player characters who can equip **Stone Leek**
 

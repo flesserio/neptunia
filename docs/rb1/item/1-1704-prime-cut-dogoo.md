@@ -23,13 +23,11 @@ title: "Prime Cut Dogoo (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 300 |
 | **Max inventory** | 99 |
 
-
 ## Monsters which drop **Prime Cut Dogoo**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-1-159" class="trackbox" /> | 159 | [Base](/neptunia/rb1/dlc/1-base.html) | [Obese Dogoo](/neptunia/rb1/monster/1-159-obese-dogoo.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-1-159" class="trackbox" /> | 159 | [Base](/neptunia/rb1/dlc/1-base.html) | [Obese Dogoo](/neptunia/rb1/monster/1-159-obese-dogoo.html) | 65% |
 
 ## Dungeons **Prime Cut Dogoo** is found
 

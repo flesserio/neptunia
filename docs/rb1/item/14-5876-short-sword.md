@@ -24,13 +24,11 @@ title: "Short Sword+? (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **Weapon skill** | [Slash](/neptunia/rb1/skill/1-402-slash.html) |
 
-
 ## Colosseum quests which reward **Short Sword+?**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
 | <input type="checkbox" id="rb1-colosseum-14-5007" class="trackbox" /> | 5007 | [Additional Content Pack 5](/neptunia/rb1/dlc/14-pack5.html) | [The Goddess & Oracle: Lastation](/neptunia/rb1/colosseum/14-5007-the-goddess-oracle-lastation.html) |
-
 
 ## Player characters who can equip **Short Sword+?**
 

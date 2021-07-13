@@ -23,13 +23,11 @@ title: "Plutia Clothes (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 750000 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Plutia Clothes** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-8-438" class="trackbox" /> | 438 | [[Peashy] Battle Entry License](/neptunia/rb1/dlc/8-peashy.html) | [Plutia Clothes](/neptunia/rb1/remake/8-438-plutia-clothes.html)<br /> → [Plutia Clothes](/neptunia/rb1/item/8-2879-plutia-clothes.html) (Clothing) |
-
+| <input type="checkbox" id="rb1-remake-8-438" class="trackbox" /> | 438 | [[Peashy] Battle Entry License](/neptunia/rb1/dlc/8-peashy.html) | [Plutia Clothes](/neptunia/rb1/remake/8-438-plutia-clothes.html)<br />→ [Plutia Clothes](/neptunia/rb1/item/8-2879-plutia-clothes.html) (Clothing) |
 
 ## Player characters who can equip **Plutia Clothes**
 

@@ -23,13 +23,11 @@ title: "1st Place Ribbon (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 500 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **1st Place Ribbon** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-7-524" class="trackbox" /> | 524 | [[Plutia] Battle Entry License](/neptunia/rb1/dlc/7-plutia.html) | [1st Place Ribbon](/neptunia/rb1/remake/7-524-1st-place-ribbon.html)<br /> → [1st Place Ribbon](/neptunia/rb1/item/7-3078-1st-place-ribbon.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-7-524" class="trackbox" /> | 524 | [[Plutia] Battle Entry License](/neptunia/rb1/dlc/7-plutia.html) | [1st Place Ribbon](/neptunia/rb1/remake/7-524-1st-place-ribbon.html)<br />→ [1st Place Ribbon](/neptunia/rb1/item/7-3078-1st-place-ribbon.html) (Accessory) |
 
 ## Player characters who can equip **1st Place Ribbon**
 

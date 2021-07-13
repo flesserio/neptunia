@@ -23,13 +23,11 @@ title: "Scholar Set (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 2500 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Scholar Set** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-592" class="trackbox" /> | 592 | [Base](/neptunia/rb1/dlc/1-base.html) | [Scholar Set](/neptunia/rb1/remake/1-592-scholar-set.html)<br /> → [Scholar Set](/neptunia/rb1/item/1-3179-scholar-set.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-592" class="trackbox" /> | 592 | [Base](/neptunia/rb1/dlc/1-base.html) | [Scholar Set](/neptunia/rb1/remake/1-592-scholar-set.html)<br />→ [Scholar Set](/neptunia/rb1/item/1-3179-scholar-set.html) (Accessory) |
 
 ## Player characters who can equip **Scholar Set**
 

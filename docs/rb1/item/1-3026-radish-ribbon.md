@@ -23,13 +23,11 @@ title: "Radish Ribbon (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 5000 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Radish Ribbon** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-487" class="trackbox" /> | 487 | [Base](/neptunia/rb1/dlc/1-base.html) | [Radish Ribbon](/neptunia/rb1/remake/1-487-radish-ribbon.html)<br /> → [Radish Ribbon](/neptunia/rb1/item/1-3026-radish-ribbon.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-487" class="trackbox" /> | 487 | [Base](/neptunia/rb1/dlc/1-base.html) | [Radish Ribbon](/neptunia/rb1/remake/1-487-radish-ribbon.html)<br />→ [Radish Ribbon](/neptunia/rb1/item/1-3026-radish-ribbon.html) (Accessory) |
 
 ## Player characters who can equip **Radish Ribbon**
 

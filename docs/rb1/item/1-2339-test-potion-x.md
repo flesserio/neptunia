@@ -25,20 +25,17 @@ title: "Test Potion X (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **Weapon skill** | [Syringe, Desu!](/neptunia/rb1/skill/1-2002-syringe-desu.html) |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 697 | 0 | 757 | 120 | 120 | 0 | 0 | 0 | 0 | 0 | 0 |
 
-
 ## Dungeons **Test Potion X** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
-| <input type="checkbox" id="rb1-dungeon-1-23" class="trackbox" /> | 23 | [Base](/neptunia/rb1/dlc/1-base.html) | [Gheytz Forest](/neptunia/rb1/dungeon/1-23-gheytz-forest.html) | Gathering point |
-
+| <input type="checkbox" id="rb1-dungeon-1-23" class="trackbox" /> | 23 | [Base](/neptunia/rb1/dlc/1-base.html) | [Gheytz Forest](/neptunia/rb1/dungeon/1-23-gheytz-forest.html) | Treasure |
 
 ## Player characters who can equip **Test Potion X**
 

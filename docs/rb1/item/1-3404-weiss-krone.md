@@ -23,13 +23,11 @@ title: "Weiss Krone (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 2500 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Weiss Krone** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-741" class="trackbox" /> | 741 | [Base](/neptunia/rb1/dlc/1-base.html) | [Weiss Krone](/neptunia/rb1/remake/1-741-weiss-krone.html)<br /> → [Weiss Krone](/neptunia/rb1/item/1-3404-weiss-krone.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-741" class="trackbox" /> | 741 | [Base](/neptunia/rb1/dlc/1-base.html) | [Weiss Krone](/neptunia/rb1/remake/1-741-weiss-krone.html)<br />→ [Weiss Krone](/neptunia/rb1/item/1-3404-weiss-krone.html) (Accessory) |
 
 ## Player characters who can equip **Weiss Krone**
 

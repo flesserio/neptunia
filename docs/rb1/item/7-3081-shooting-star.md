@@ -24,15 +24,13 @@ title: "Shooting Star (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **To unlock in shop** | Method 1<br />- View scene [Chapter 2: Histoire And Arfoire](/neptunia/rb1/scene/1-201-chapter-2-histoire-and-arfoire.html)<br />- View scene [DLC 7 Event 1](/neptunia/rb1/scene/7-5010-dlc-7-event-1.html) |
 
-
 ## Remake System plans which require **Shooting Star**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-7-527" class="trackbox" /> | 527 | [[Plutia] Battle Entry License](/neptunia/rb1/dlc/7-plutia.html) | [Lucky Star](/neptunia/rb1/quest/7-527-lucky-star.html) |
-| <input type="checkbox" id="rb1-quest-7-528" class="trackbox" /> | 528 | [[Plutia] Battle Entry License](/neptunia/rb1/dlc/7-plutia.html) | [Neon Star](/neptunia/rb1/quest/7-528-neon-star.html) |
-| <input type="checkbox" id="rb1-quest-7-529" class="trackbox" /> | 529 | [[Plutia] Battle Entry License](/neptunia/rb1/dlc/7-plutia.html) | [Smile Star](/neptunia/rb1/quest/7-529-smile-star.html) |
-
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-7-527" class="trackbox" /> | 527 | [[Plutia] Battle Entry License](/neptunia/rb1/dlc/7-plutia.html) | [Lucky Star](/neptunia/rb1/remake/7-527-lucky-star.html)<br />→ [Lucky Star](/neptunia/rb1/item/7-3082-lucky-star.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-7-528" class="trackbox" /> | 528 | [[Plutia] Battle Entry License](/neptunia/rb1/dlc/7-plutia.html) | [Neon Star](/neptunia/rb1/remake/7-528-neon-star.html)<br />→ [Neon Star](/neptunia/rb1/item/7-3083-neon-star.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-7-529" class="trackbox" /> | 529 | [[Plutia] Battle Entry License](/neptunia/rb1/dlc/7-plutia.html) | [Smile Star](/neptunia/rb1/remake/7-529-smile-star.html)<br />→ [Smile Star](/neptunia/rb1/item/7-3084-smile-star.html) (Accessory) | 1 |
 
 ## Player characters who can equip **Shooting Star**
 

@@ -23,16 +23,14 @@ title: "Item Drop Rate Up (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 0 |
 | **Max inventory** | 1 |
 
-
 ## Plans added to Remake System after collecting **Item Drop Rate Up**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
 | <input type="checkbox" id="rb1-remake-1-17" class="trackbox" /> | 17 | [Base](/neptunia/rb1/dlc/1-base.html) | [Treasure Hunter](/neptunia/rb1/remake/1-17-treasure-hunter.html) |
 
-
 ## Dungeons **Item Drop Rate Up** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
-| <input type="checkbox" id="rb1-dungeon-1-107" class="trackbox" /> | 107 | [Base](/neptunia/rb1/dlc/1-base.html) | [Gunbreak Underground Cavern](/neptunia/rb1/dungeon/1-107-gunbreak-underground-cavern.html) | Gathering point |
+| <input type="checkbox" id="rb1-dungeon-1-107" class="trackbox" /> | 107 | [Base](/neptunia/rb1/dlc/1-base.html) | [Gunbreak Underground Cavern](/neptunia/rb1/dungeon/1-107-gunbreak-underground-cavern.html) | Treasure |

@@ -24,23 +24,20 @@ title: "Purple Frame (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 500 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Purple Frame** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-669" class="trackbox" /> | 669 | [Base](/neptunia/rb1/dlc/1-base.html) | [Purple Frame](/neptunia/rb1/remake/1-669-purple-frame.html)<br /> → [Purple Frame](/neptunia/rb1/item/1-3299-purple-frame.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-669" class="trackbox" /> | 669 | [Base](/neptunia/rb1/dlc/1-base.html) | [Purple Frame](/neptunia/rb1/remake/1-669-purple-frame.html)<br />→ [Purple Frame](/neptunia/rb1/item/1-3299-purple-frame.html) (Accessory) |
 
 ## Remake System plans which require **Purple Frame**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-661" class="trackbox" /> | 661 | [Base](/neptunia/rb1/dlc/1-base.html) | [Cat Hat Glasses](/neptunia/rb1/quest/1-661-cat-hat-glasses.html) |
-| <input type="checkbox" id="rb1-quest-1-670" class="trackbox" /> | 670 | [Base](/neptunia/rb1/dlc/1-base.html) | [Black Frame](/neptunia/rb1/quest/1-670-black-frame.html) |
-| <input type="checkbox" id="rb1-quest-1-671" class="trackbox" /> | 671 | [Base](/neptunia/rb1/dlc/1-base.html) | [Pink Frame](/neptunia/rb1/quest/1-671-pink-frame.html) |
-| <input type="checkbox" id="rb1-quest-1-672" class="trackbox" /> | 672 | [Base](/neptunia/rb1/dlc/1-base.html) | [Red Frame](/neptunia/rb1/quest/1-672-red-frame.html) |
-
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-661" class="trackbox" /> | 661 | [Base](/neptunia/rb1/dlc/1-base.html) | [Cat Hat Glasses](/neptunia/rb1/remake/1-661-cat-hat-glasses.html)<br />→ [Cat Hat Glasses](/neptunia/rb1/item/1-3291-cat-hat-glasses.html) (Accessory) | 2 |
+| <input type="checkbox" id="rb1-remake-1-670" class="trackbox" /> | 670 | [Base](/neptunia/rb1/dlc/1-base.html) | [Black Frame](/neptunia/rb1/remake/1-670-black-frame.html)<br />→ [Black Frame](/neptunia/rb1/item/1-3300-black-frame.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-1-671" class="trackbox" /> | 671 | [Base](/neptunia/rb1/dlc/1-base.html) | [Pink Frame](/neptunia/rb1/remake/1-671-pink-frame.html)<br />→ [Pink Frame](/neptunia/rb1/item/1-3301-pink-frame.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-1-672" class="trackbox" /> | 672 | [Base](/neptunia/rb1/dlc/1-base.html) | [Red Frame](/neptunia/rb1/remake/1-672-red-frame.html)<br />→ [Red Frame](/neptunia/rb1/item/1-3302-red-frame.html) (Accessory) | 1 |
 
 ## Player characters who can equip **Purple Frame**
 

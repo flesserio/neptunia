@@ -23,13 +23,11 @@ title: "Black Sheep (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 125000 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Black Sheep** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-7-510" class="trackbox" /> | 510 | [[Plutia] Battle Entry License](/neptunia/rb1/dlc/7-plutia.html) | [Black Sheep](/neptunia/rb1/remake/7-510-black-sheep.html)<br /> → [Black Sheep](/neptunia/rb1/item/7-3060-black-sheep.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-7-510" class="trackbox" /> | 510 | [[Plutia] Battle Entry License](/neptunia/rb1/dlc/7-plutia.html) | [Black Sheep](/neptunia/rb1/remake/7-510-black-sheep.html)<br />→ [Black Sheep](/neptunia/rb1/item/7-3060-black-sheep.html) (Accessory) |
 
 ## Player characters who can equip **Black Sheep**
 

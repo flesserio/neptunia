@@ -23,7 +23,6 @@ title: "Gold Ore (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 200 |
 | **Max inventory** | 99 |
 
-
 ## Dungeons **Gold Ore** is found
 
 |    | ID | DLC | Name | From |
@@ -33,12 +32,11 @@ title: "Gold Ore (Item) - Hyperdimension Neptunia Re;Birth1"
 | <input type="checkbox" id="rb1-dungeon-1-20" class="trackbox" /> | 20 | [Base](/neptunia/rb1/dlc/1-base.html) | [Factory No.459](/neptunia/rb1/dungeon/1-20-factory-no-459.html) | Gathering point |
 | <input type="checkbox" id="rb1-dungeon-1-21" class="trackbox" /> | 21 | [Base](/neptunia/rb1/dlc/1-base.html) | [Factory No.459 Depths](/neptunia/rb1/dungeon/1-21-factory-no-459-depths.html) | Gathering point |
 
-
 ## Remake System plans which require **Gold Ore**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-372" class="trackbox" /> | 372 | [Base](/neptunia/rb1/dlc/1-base.html) | [Gordian Hammer](/neptunia/rb1/quest/1-372-gordian-hammer.html) |
-| <input type="checkbox" id="rb1-quest-1-378" class="trackbox" /> | 378 | [Base](/neptunia/rb1/dlc/1-base.html) | [Superior Spear](/neptunia/rb1/quest/1-378-superior-spear.html) |
-| <input type="checkbox" id="rb1-quest-1-551" class="trackbox" /> | 551 | [Base](/neptunia/rb1/dlc/1-base.html) | [Platinum Tiara](/neptunia/rb1/quest/1-551-platinum-tiara.html) |
-| <input type="checkbox" id="rb1-quest-1-628" class="trackbox" /> | 628 | [Base](/neptunia/rb1/dlc/1-base.html) | [Platinum Tiara](/neptunia/rb1/quest/1-628-platinum-tiara.html) |
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-372" class="trackbox" /> | 372 | [Base](/neptunia/rb1/dlc/1-base.html) | [Gordian Hammer](/neptunia/rb1/remake/1-372-gordian-hammer.html)<br />→ [Gordian Hammer](/neptunia/rb1/item/1-2096-gordian-hammer.html) (Hammer (Blanc)) | 2 |
+| <input type="checkbox" id="rb1-remake-1-378" class="trackbox" /> | 378 | [Base](/neptunia/rb1/dlc/1-base.html) | [Superior Spear](/neptunia/rb1/remake/1-378-superior-spear.html)<br />→ [Superior Spear](/neptunia/rb1/item/1-2114-superior-spear.html) (Spear (Vert)) | 2 |
+| <input type="checkbox" id="rb1-remake-1-551" class="trackbox" /> | 551 | [Base](/neptunia/rb1/dlc/1-base.html) | [Platinum Tiara](/neptunia/rb1/remake/1-551-platinum-tiara.html)<br />→ [Platinum Tiara](/neptunia/rb1/item/1-3118-platinum-tiara.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-1-628" class="trackbox" /> | 628 | [Base](/neptunia/rb1/dlc/1-base.html) | [Platinum Tiara](/neptunia/rb1/remake/1-628-platinum-tiara.html)<br />→ [Platinum Tiara](/neptunia/rb1/item/1-3239-platinum-tiara.html) (Accessory) | 2 |

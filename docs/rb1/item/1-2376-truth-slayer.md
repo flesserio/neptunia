@@ -25,20 +25,17 @@ title: "Truth Slayer (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **Weapon skill** | [Attack](/neptunia/rb1/skill/1-2401-attack.html) |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 1000 | 0 | 500 | 1178 | 117 | 805 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 
-
 ## Remake System plans which unlock **Truth Slayer** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-383" class="trackbox" /> | 383 | [Base](/neptunia/rb1/dlc/1-base.html) | [Truth Slayer](/neptunia/rb1/remake/1-383-truth-slayer.html)<br /> → [Truth Slayer](/neptunia/rb1/item/1-2376-truth-slayer.html) (Sword (Falcom)) |
-
+| <input type="checkbox" id="rb1-remake-1-383" class="trackbox" /> | 383 | [Base](/neptunia/rb1/dlc/1-base.html) | [Truth Slayer](/neptunia/rb1/remake/1-383-truth-slayer.html)<br />→ [Truth Slayer](/neptunia/rb1/item/1-2376-truth-slayer.html) (Sword (Falcom)) |
 
 ## Player characters who can equip **Truth Slayer**
 

@@ -24,13 +24,11 @@ title: "Messy Cloth (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 4 |
 | **Max inventory** | 99 |
 
-
 ## Monsters which drop **Messy Cloth**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-1-106" class="trackbox" /> | 106 | [Base](/neptunia/rb1/dlc/1-base.html) | [Clyde](/neptunia/rb1/monster/1-106-clyde.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-1-106" class="trackbox" /> | 106 | [Base](/neptunia/rb1/dlc/1-base.html) | [Clyde](/neptunia/rb1/monster/1-106-clyde.html) | 40% |
 
 ## Dungeons **Messy Cloth** is found
 
@@ -39,10 +37,9 @@ title: "Messy Cloth (Item) - Hyperdimension Neptunia Re;Birth1"
 | <input type="checkbox" id="rb1-dungeon-1-2" class="trackbox" /> | 2 | [Base](/neptunia/rb1/dlc/1-base.html) | [Monster Cave](/neptunia/rb1/dungeon/1-2-monster-cave.html) | Gathering point |
 | <input type="checkbox" id="rb1-dungeon-1-2" class="trackbox" /> | 2 | [Base](/neptunia/rb1/dlc/1-base.html) | [Monster Cave](/neptunia/rb1/dungeon/1-2-monster-cave.html) | Monster drop |
 
-
 ## Remake System plans which require **Messy Cloth**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-384" class="trackbox" /> | 384 | [Base](/neptunia/rb1/dlc/1-base.html) | [Youth Bandage](/neptunia/rb1/quest/1-384-youth-bandage.html) |
-| <input type="checkbox" id="rb1-quest-1-537" class="trackbox" /> | 537 | [Base](/neptunia/rb1/dlc/1-base.html) | [Pointy Ribbon](/neptunia/rb1/quest/1-537-pointy-ribbon.html) |
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-384" class="trackbox" /> | 384 | [Base](/neptunia/rb1/dlc/1-base.html) | [Youth Bandage](/neptunia/rb1/remake/1-384-youth-bandage.html)<br />→ [Youth Bandage](/neptunia/rb1/item/1-2515-youth-bandage.html) (Armor) | 8 |
+| <input type="checkbox" id="rb1-remake-1-537" class="trackbox" /> | 537 | [Base](/neptunia/rb1/dlc/1-base.html) | [Pointy Ribbon](/neptunia/rb1/remake/1-537-pointy-ribbon.html)<br />→ [Pointy Ribbon](/neptunia/rb1/item/1-3109-pointy-ribbon.html) (Accessory) | 1 |

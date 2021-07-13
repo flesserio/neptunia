@@ -23,13 +23,11 @@ title: "Plan: SP Buster III (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 0 |
 | **Max inventory** | 1 |
 
-
 ## Plans added to Remake System after collecting **Plan: SP Buster III**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-414" class="trackbox" /> | 414 | [Base](/neptunia/rb1/dlc/1-base.html) | [SP Buster III](/neptunia/rb1/remake/1-414-sp-buster-iii.html)<br /> → [SP Buster III](/neptunia/rb1/item/1-2742-sp-buster-iii.html) (Ornament) |
-
+| <input type="checkbox" id="rb1-remake-1-414" class="trackbox" /> | 414 | [Base](/neptunia/rb1/dlc/1-base.html) | [SP Buster III](/neptunia/rb1/remake/1-414-sp-buster-iii.html)<br />→ [SP Buster III](/neptunia/rb1/item/1-2742-sp-buster-iii.html) (Ornament) |
 
 ## Quests which reward **Plan: SP Buster III**
 

@@ -24,24 +24,21 @@ title: "Juvenile Game (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 10 |
 | **Max inventory** | 99 |
 | **Idea Chip level** | 5 |
-| **Idea Chip ability** | [Machine Defense Lv.5](/neptunia/rb1/avatar/1-9610-machine-defense-lv-5.html)<br />Increases Machine Defense by 30% |
-
+| **Idea Chip ability** | [Machine Defense Lv.5](/neptunia/rb1/ability/1-9610-machine-defense-lv-5.html)<br />Increases Machine Defense by 30% |
 
 ## Monsters which drop **Juvenile Game**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-1-344" class="trackbox" /> | 344 | [Base](/neptunia/rb1/dlc/1-base.html) | [Maximus Dogoous](/neptunia/rb1/monster/1-344-maximus-dogoous.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-1-344" class="trackbox" /> | 344 | [Base](/neptunia/rb1/dlc/1-base.html) | [Maximus Dogoous](/neptunia/rb1/monster/1-344-maximus-dogoous.html) | 65% |
 
 ## Dungeons **Juvenile Game** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
-| <input type="checkbox" id="rb1-dungeon-1-123" class="trackbox" /> | 123 | [Base](/neptunia/rb1/dlc/1-base.html) | [Graphic Pass](/neptunia/rb1/dungeon/1-123-graphic-pass.html) | Gathering point |
 | <input type="checkbox" id="rb1-dungeon-1-116" class="trackbox" /> | 116 | [Base](/neptunia/rb1/dlc/1-base.html) | [Yukawa Ruins](/neptunia/rb1/dungeon/1-116-yukawa-ruins.html) | Monster drop |
+| <input type="checkbox" id="rb1-dungeon-1-123" class="trackbox" /> | 123 | [Base](/neptunia/rb1/dlc/1-base.html) | [Graphic Pass](/neptunia/rb1/dungeon/1-123-graphic-pass.html) | Treasure |
 | <input type="checkbox" id="rb1-dungeon-16-131" class="trackbox" /> | 131 | [Additional Content Pack 7](/neptunia/rb1/dlc/16-pack7.html) | [Rebeat Resort](/neptunia/rb1/dungeon/16-131-rebeat-resort.html) | Monster drop |
-
 
 ## Colosseum quests which reward **Juvenile Game**
 

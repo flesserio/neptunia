@@ -24,20 +24,17 @@ title: "Black Cat Ring (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 62500 |
 | **Max inventory** | 99 |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 351 | 2812 | 0 | 2486 | 0 | 0 | 351 | 0 | 0 | 0 | 0 |
 
-
 ## Remake System plans which unlock **Black Cat Ring** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-11-394" class="trackbox" /> | 394 | [Additional Content Package 2](/neptunia/rb1/dlc/11-pack2.html) | [Black Cat Ring](/neptunia/rb1/remake/11-394-black-cat-ring.html)<br /> → [Black Cat Ring](/neptunia/rb1/item/11-2563-black-cat-ring.html) (Armor) |
-
+| <input type="checkbox" id="rb1-remake-11-394" class="trackbox" /> | 394 | [Additional Content Package 2](/neptunia/rb1/dlc/11-pack2.html) | [Black Cat Ring](/neptunia/rb1/remake/11-394-black-cat-ring.html)<br />→ [Black Cat Ring](/neptunia/rb1/item/11-2563-black-cat-ring.html) (Armor) |
 
 ## Player characters who can equip **Black Cat Ring**
 

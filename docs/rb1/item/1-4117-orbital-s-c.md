@@ -25,27 +25,23 @@ title: "Orbital-S C (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 1000 |
 | **Max inventory** | 99 |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 40 | 40 | 40 | 40 | 40 | 40 | 30 | 0 | 0 | 0 | 0 |
 
-
 ## Dungeons **Orbital-S C** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
-| <input type="checkbox" id="rb1-dungeon-1-128" class="trackbox" /> | 128 | [Base](/neptunia/rb1/dlc/1-base.html) | [Naasne Volcano Depths](/neptunia/rb1/dungeon/1-128-naasne-volcano-depths.html) | Gathering point |
-
+| <input type="checkbox" id="rb1-dungeon-1-128" class="trackbox" /> | 128 | [Base](/neptunia/rb1/dlc/1-base.html) | [Naasne Volcano Depths](/neptunia/rb1/dungeon/1-128-naasne-volcano-depths.html) | Hidden treasure |
 
 ## Remake System plans which require **Orbital-S C**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-829" class="trackbox" /> | 829 | [Base](/neptunia/rb1/dlc/1-base.html) | [Lastation C](/neptunia/rb1/quest/1-829-lastation-c.html) |
-
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-829" class="trackbox" /> | 829 | [Base](/neptunia/rb1/dlc/1-base.html) | [Lastation C](/neptunia/rb1/remake/1-829-lastation-c.html)<br />→ [Lastation C](/neptunia/rb1/item/1-4129-lastation-c.html) (Processor (C)) | 1 |
 
 ## Player characters who can equip **Orbital-S C**
 

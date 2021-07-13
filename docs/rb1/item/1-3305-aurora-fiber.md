@@ -23,13 +23,11 @@ title: "Aurora Fiber (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 5000 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Aurora Fiber** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-674" class="trackbox" /> | 674 | [Base](/neptunia/rb1/dlc/1-base.html) | [Aurora Fiber](/neptunia/rb1/remake/1-674-aurora-fiber.html)<br /> → [Aurora Fiber](/neptunia/rb1/item/1-3305-aurora-fiber.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-674" class="trackbox" /> | 674 | [Base](/neptunia/rb1/dlc/1-base.html) | [Aurora Fiber](/neptunia/rb1/remake/1-674-aurora-fiber.html)<br />→ [Aurora Fiber](/neptunia/rb1/item/1-3305-aurora-fiber.html) (Accessory) |
 
 ## Player characters who can equip **Aurora Fiber**
 

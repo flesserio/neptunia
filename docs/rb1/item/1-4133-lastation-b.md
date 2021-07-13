@@ -24,20 +24,17 @@ title: "Lastation B (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 50000 |
 | **Max inventory** | 99 |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 0 | 0 | -20 | 0 | 50 | 135 | 40 | 5 | 0 | 0 | 0 |
 
-
 ## Remake System plans which unlock **Lastation B** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-833" class="trackbox" /> | 833 | [Base](/neptunia/rb1/dlc/1-base.html) | [Lastation B](/neptunia/rb1/remake/1-833-lastation-b.html)<br /> → [Lastation B](/neptunia/rb1/item/1-4133-lastation-b.html) (Processor (B)) |
-
+| <input type="checkbox" id="rb1-remake-1-833" class="trackbox" /> | 833 | [Base](/neptunia/rb1/dlc/1-base.html) | [Lastation B](/neptunia/rb1/remake/1-833-lastation-b.html)<br />→ [Lastation B](/neptunia/rb1/item/1-4133-lastation-b.html) (Processor (B)) |
 
 ## Player characters who can equip **Lastation B**
 

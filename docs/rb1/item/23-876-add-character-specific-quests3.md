@@ -23,16 +23,14 @@ title: "Add character-specific quests3 (Item) - Hyperdimension Neptunia Re;Birth
 | **Sell Price** | 0 |
 | **Max inventory** | 1 |
 
-
 ## Chirpers who give **Add character-specific quests3**
 
 |    | ID | DLC | Avatar | Message | Conditions |
 | -- | -- | --- | ------ | ------- | ---------- |
-| <input type="checkbox" id="rb1-chirper-event-23-5234" class="trackbox" /> | 5234 | [Additional Content Pack 14](/neptunia/rb1/dlc/23-pack14.html) | [Shiro Pluto](/neptunia/rb1/undefined/1-254-shiro-pluto.html) | These are plans for  character-specific quests!<br />I'm not done having fun yet! | Obtain item [Colosseum Unlock](/neptunia/rb1/item/1-683-colosseum-unlock.html)<br />Obtain item [Add character-specific quests3](/neptunia/rb1/item/23-876-add-character-specific-quests3.html) |
-
+| <input type="checkbox" id="rb1-chirper-event-23-5234" class="trackbox" /> | 5234 | [Additional Content Pack 14](/neptunia/rb1/dlc/23-pack14.html) | [Shiro Pluto](/neptunia/rb1/avatar/1-254-shiro-pluto.html) | These are plans for  character-specific quests!<br />I'm not done having fun yet! | Obtain item [Colosseum Unlock](/neptunia/rb1/item/1-683-colosseum-unlock.html)<br />Obtain item [Add character-specific quests3](/neptunia/rb1/item/23-876-add-character-specific-quests3.html) |
 
 ## Plans added to Remake System after collecting **Add character-specific quests3**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-23-32" class="trackbox" /> | 32 | [Additional Content Pack 14](/neptunia/rb1/dlc/23-pack14.html) | [Add character-specific quests3](/neptunia/rb1/remake/23-32-add-character-specific-quests3.html)<br /> → [Phantom of Time](/neptunia/rb1/quest/1-2031-phantom-of-time.html) (Colosseum),<br /> → [Ruler of the End](/neptunia/rb1/quest/1-2032-ruler-of-the-end.html) (Colosseum) |
+| <input type="checkbox" id="rb1-remake-23-32" class="trackbox" /> | 32 | [Additional Content Pack 14](/neptunia/rb1/dlc/23-pack14.html) | [Add character-specific quests3](/neptunia/rb1/remake/23-32-add-character-specific-quests3.html)<br />→ [Phantom of Time](/neptunia/rb1/colosseum/1-2031-phantom-of-time.html) (Colosseum)<br />→ [Ruler of the End](/neptunia/rb1/colosseum/1-2032-ruler-of-the-end.html) (Colosseum) |

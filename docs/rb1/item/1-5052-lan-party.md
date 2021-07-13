@@ -23,15 +23,13 @@ title: "LAN Party (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 10 |
 | **Max inventory** | 99 |
 | **Idea Chip level** | 3 |
-| **Idea Chip ability** | [Skill Seal Immunity](/neptunia/rb1/avatar/1-9551-skill-seal-immunity.html)<br />Gives Skill Seal Immunity |
-
+| **Idea Chip ability** | [Skill Seal Immunity](/neptunia/rb1/ability/1-9551-skill-seal-immunity.html)<br />Gives Skill Seal Immunity |
 
 ## Dungeons **LAN Party** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
-| <input type="checkbox" id="rb1-dungeon-1-109" class="trackbox" /> | 109 | [Base](/neptunia/rb1/dlc/1-base.html) | [Duty Space](/neptunia/rb1/dungeon/1-109-duty-space.html) | Gathering point |
-
+| <input type="checkbox" id="rb1-dungeon-1-109" class="trackbox" /> | 109 | [Base](/neptunia/rb1/dlc/1-base.html) | [Duty Space](/neptunia/rb1/dungeon/1-109-duty-space.html) | Hidden treasure |
 
 ## Colosseum quests which reward **LAN Party**
 

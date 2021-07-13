@@ -23,7 +23,6 @@ title: "Move Memory (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **To unlock in shop** | Unlocked from start of game<br />Unlocked from start of game |
 
-
 ## Player characters who can equip **Move Memory**
 
 |    | ID | DLC | Name |

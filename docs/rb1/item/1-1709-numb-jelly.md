@@ -24,13 +24,11 @@ title: "Numb Jelly (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 120 |
 | **Max inventory** | 99 |
 
-
 ## Monsters which drop **Numb Jelly**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-1-286" class="trackbox" /> | 286 | [Base](/neptunia/rb1/dlc/1-base.html) | [Numb Dogoo](/neptunia/rb1/monster/1-286-numb-dogoo.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-1-286" class="trackbox" /> | 286 | [Base](/neptunia/rb1/dlc/1-base.html) | [Numb Dogoo](/neptunia/rb1/monster/1-286-numb-dogoo.html) | 40% |
 
 ## Dungeons **Numb Jelly** is found
 
@@ -38,10 +36,9 @@ title: "Numb Jelly (Item) - Hyperdimension Neptunia Re;Birth1"
 | -- | -- | --- | ---- | ---- |
 | <input type="checkbox" id="rb1-dungeon-1-107" class="trackbox" /> | 107 | [Base](/neptunia/rb1/dlc/1-base.html) | [Gunbreak Underground Cavern](/neptunia/rb1/dungeon/1-107-gunbreak-underground-cavern.html) | Monster drop |
 
-
 ## Remake System plans which require **Numb Jelly**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-300" class="trackbox" /> | 300 | [Base](/neptunia/rb1/dlc/1-base.html) | [Item Change](/neptunia/rb1/quest/1-300-item-change.html) |
-| <input type="checkbox" id="rb1-quest-1-321" class="trackbox" /> | 321 | [Base](/neptunia/rb1/dlc/1-base.html) | [Nep Bull EX](/neptunia/rb1/quest/1-321-nep-bull-ex.html) |
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-300" class="trackbox" /> | 300 | [Base](/neptunia/rb1/dlc/1-base.html) | [Item Change](/neptunia/rb1/remake/1-300-item-change.html)<br />→ [Gunbreak Underground Cavern](/neptunia/rb1/dungeon/1-107-gunbreak-underground-cavern.html) (Dungeon) | 2 |
+| <input type="checkbox" id="rb1-remake-1-321" class="trackbox" /> | 321 | [Base](/neptunia/rb1/dlc/1-base.html) | [Nep Bull EX](/neptunia/rb1/remake/1-321-nep-bull-ex.html)<br />→ [Nep Bull EX](/neptunia/rb1/item/1-8-nep-bull-ex.html) (Tool) | 2 |

@@ -24,15 +24,13 @@ title: "Violet Krone (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **To unlock in shop** | Method 1<br />- Have Uni unlocked. |
 
-
 ## Remake System plans which require **Violet Krone**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-740" class="trackbox" /> | 740 | [Base](/neptunia/rb1/dlc/1-base.html) | [Schwarz Krone](/neptunia/rb1/quest/1-740-schwarz-krone.html) |
-| <input type="checkbox" id="rb1-quest-1-741" class="trackbox" /> | 741 | [Base](/neptunia/rb1/dlc/1-base.html) | [Weiss Krone](/neptunia/rb1/quest/1-741-weiss-krone.html) |
-| <input type="checkbox" id="rb1-quest-1-742" class="trackbox" /> | 742 | [Base](/neptunia/rb1/dlc/1-base.html) | [Gruen Krone](/neptunia/rb1/quest/1-742-gruen-krone.html) |
-
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-740" class="trackbox" /> | 740 | [Base](/neptunia/rb1/dlc/1-base.html) | [Schwarz Krone](/neptunia/rb1/remake/1-740-schwarz-krone.html)<br />→ [Schwarz Krone](/neptunia/rb1/item/1-3403-schwarz-krone.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-1-741" class="trackbox" /> | 741 | [Base](/neptunia/rb1/dlc/1-base.html) | [Weiss Krone](/neptunia/rb1/remake/1-741-weiss-krone.html)<br />→ [Weiss Krone](/neptunia/rb1/item/1-3404-weiss-krone.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-1-742" class="trackbox" /> | 742 | [Base](/neptunia/rb1/dlc/1-base.html) | [Gruen Krone](/neptunia/rb1/remake/1-742-gruen-krone.html)<br />→ [Gruen Krone](/neptunia/rb1/item/1-3405-gruen-krone.html) (Accessory) | 1 |
 
 ## Player characters who can equip **Violet Krone**
 

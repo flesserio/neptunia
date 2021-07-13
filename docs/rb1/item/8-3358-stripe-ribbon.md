@@ -23,13 +23,11 @@ title: "Stripe Ribbon (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 5000 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Stripe Ribbon** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-8-709" class="trackbox" /> | 709 | [[Peashy] Battle Entry License](/neptunia/rb1/dlc/8-peashy.html) | [Stripe Ribbon](/neptunia/rb1/remake/8-709-stripe-ribbon.html)<br /> → [Stripe Ribbon](/neptunia/rb1/item/8-3358-stripe-ribbon.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-8-709" class="trackbox" /> | 709 | [[Peashy] Battle Entry License](/neptunia/rb1/dlc/8-peashy.html) | [Stripe Ribbon](/neptunia/rb1/remake/8-709-stripe-ribbon.html)<br />→ [Stripe Ribbon](/neptunia/rb1/item/8-3358-stripe-ribbon.html) (Accessory) |
 
 ## Player characters who can equip **Stripe Ribbon**
 

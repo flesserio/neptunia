@@ -24,20 +24,17 @@ title: "Mystic Hat (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 500 |
 | **Max inventory** | 99 |
 
-
 ## Monsters which drop **Mystic Hat**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-1-147" class="trackbox" /> | 147 | [Base](/neptunia/rb1/dlc/1-base.html) | [Turtle](/neptunia/rb1/monster/1-147-turtle.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-1-147" class="trackbox" /> | 147 | [Base](/neptunia/rb1/dlc/1-base.html) | [Turtle](/neptunia/rb1/monster/1-147-turtle.html) | 75% |
 
 ## Dungeons **Mystic Hat** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
 | <input type="checkbox" id="rb1-dungeon-1-9" class="trackbox" /> | 9 | [Base](/neptunia/rb1/dlc/1-base.html) | [Marubaco Forest](/neptunia/rb1/dungeon/1-9-marubaco-forest.html) | Monster drop |
-
 
 ## Player characters who can equip **Mystic Hat**
 

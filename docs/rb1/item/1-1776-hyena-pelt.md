@@ -24,14 +24,12 @@ title: "Hyena Pelt (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 74 |
 | **Max inventory** | 99 |
 
-
 ## Monsters which drop **Hyena Pelt**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-1-304" class="trackbox" /> | 304 | [Base](/neptunia/rb1/dlc/1-base.html) | [Hyena](/neptunia/rb1/monster/1-304-hyena.html) |
-| <input type="checkbox" id="rb1-monster-1-305" class="trackbox" /> | 305 | [Base](/neptunia/rb1/dlc/1-base.html) | [Viral Hyena](/neptunia/rb1/monster/1-305-viral-hyena.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-1-304" class="trackbox" /> | 304 | [Base](/neptunia/rb1/dlc/1-base.html) | [Hyena](/neptunia/rb1/monster/1-304-hyena.html) | 40% |
+| <input type="checkbox" id="rb1-monster-1-305" class="trackbox" /> | 305 | [Base](/neptunia/rb1/dlc/1-base.html) | [Viral Hyena](/neptunia/rb1/monster/1-305-viral-hyena.html) | 80% |
 
 ## Dungeons **Hyena Pelt** is found
 
@@ -40,11 +38,10 @@ title: "Hyena Pelt (Item) - Hyperdimension Neptunia Re;Birth1"
 | <input type="checkbox" id="rb1-dungeon-1-110" class="trackbox" /> | 110 | [Base](/neptunia/rb1/dlc/1-base.html) | [Donkong Ruins](/neptunia/rb1/dungeon/1-110-donkong-ruins.html) | Gathering point |
 | <input type="checkbox" id="rb1-dungeon-1-110" class="trackbox" /> | 110 | [Base](/neptunia/rb1/dlc/1-base.html) | [Donkong Ruins](/neptunia/rb1/dungeon/1-110-donkong-ruins.html) | Monster drop |
 
-
 ## Remake System plans which require **Hyena Pelt**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-217" class="trackbox" /> | 217 | [Base](/neptunia/rb1/dlc/1-base.html) | [Add Dungeon](/neptunia/rb1/quest/1-217-add-dungeon.html) |
-| <input type="checkbox" id="rb1-quest-1-370" class="trackbox" /> | 370 | [Base](/neptunia/rb1/dlc/1-base.html) | [Drive Hammer](/neptunia/rb1/quest/1-370-drive-hammer.html) |
-| <input type="checkbox" id="rb1-quest-1-400" class="trackbox" /> | 400 | [Base](/neptunia/rb1/dlc/1-base.html) | [Misanga of Joy](/neptunia/rb1/quest/1-400-misanga-of-joy.html) |
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-217" class="trackbox" /> | 217 | [Base](/neptunia/rb1/dlc/1-base.html) | [Add Dungeon](/neptunia/rb1/remake/1-217-add-dungeon.html)<br />→ [Naasne Volcano](/neptunia/rb1/dungeon/1-112-naasne-volcano.html) (Dungeon) | 2 |
+| <input type="checkbox" id="rb1-remake-1-370" class="trackbox" /> | 370 | [Base](/neptunia/rb1/dlc/1-base.html) | [Drive Hammer](/neptunia/rb1/remake/1-370-drive-hammer.html)<br />→ [Drive Hammer](/neptunia/rb1/item/1-2086-drive-hammer.html) (Hammer (Blanc)) | 3 |
+| <input type="checkbox" id="rb1-remake-1-400" class="trackbox" /> | 400 | [Base](/neptunia/rb1/dlc/1-base.html) | [Misanga of Joy](/neptunia/rb1/remake/1-400-misanga-of-joy.html)<br />→ [Misanga of Joy](/neptunia/rb1/item/1-2726-misanga-of-joy.html) (Ornament) | 3 |

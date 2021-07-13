@@ -23,13 +23,11 @@ title: "Raindrop (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 2500 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Raindrop** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-538" class="trackbox" /> | 538 | [Base](/neptunia/rb1/dlc/1-base.html) | [Raindrop](/neptunia/rb1/remake/1-538-raindrop.html)<br /> → [Raindrop](/neptunia/rb1/item/1-3110-raindrop.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-538" class="trackbox" /> | 538 | [Base](/neptunia/rb1/dlc/1-base.html) | [Raindrop](/neptunia/rb1/remake/1-538-raindrop.html)<br />→ [Raindrop](/neptunia/rb1/item/1-3110-raindrop.html) (Accessory) |
 
 ## Player characters who can equip **Raindrop**
 

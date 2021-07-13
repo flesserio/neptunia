@@ -24,20 +24,17 @@ title: "Orbital-S W (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 1000 |
 | **Max inventory** | 99 |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | -15 | 90 | 0 | 0 | 0 | 40 | 25 | 0 | 0 | 0 | 0 |
 
-
 ## Quests which reward **Orbital-S W**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
 | <input type="checkbox" id="rb1-quest-1-729" class="trackbox" /> | 729 | [Base](/neptunia/rb1/dlc/1-base.html) | [What's an Orthros?](/neptunia/rb1/quest/1-729-whats-an-orthros.html) |
-
 
 ## Player characters who can equip **Orbital-S W**
 

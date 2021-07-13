@@ -24,20 +24,17 @@ title: "Leanbox C (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 50000 |
 | **Max inventory** | 99 |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | -20 | 0 | 120 | 0 | -20 | 70 | 20 | 0 | 0 | 10 | 0 |
 
-
 ## Remake System plans which unlock **Leanbox C** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-841" class="trackbox" /> | 841 | [Base](/neptunia/rb1/dlc/1-base.html) | [Leanbox C](/neptunia/rb1/remake/1-841-leanbox-c.html)<br /> → [Leanbox C](/neptunia/rb1/item/1-4231-leanbox-c.html) (Processor (C)) |
-
+| <input type="checkbox" id="rb1-remake-1-841" class="trackbox" /> | 841 | [Base](/neptunia/rb1/dlc/1-base.html) | [Leanbox C](/neptunia/rb1/remake/1-841-leanbox-c.html)<br />→ [Leanbox C](/neptunia/rb1/item/1-4231-leanbox-c.html) (Processor (C)) |
 
 ## Player characters who can equip **Leanbox C**
 

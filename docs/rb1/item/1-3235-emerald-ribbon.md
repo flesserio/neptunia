@@ -24,15 +24,13 @@ title: "Emerald Ribbon (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **To unlock in shop** | Method 1<br />- View scene [Chapter 3: (´・ω・｀) Ran-Ran](/neptunia/rb1/scene/1-309-chapter-3-ran-ran.html) |
 
-
 ## Remake System plans which require **Emerald Ribbon**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-625" class="trackbox" /> | 625 | [Base](/neptunia/rb1/dlc/1-base.html) | [Silk Ribbon](/neptunia/rb1/quest/1-625-silk-ribbon.html) |
-| <input type="checkbox" id="rb1-quest-1-626" class="trackbox" /> | 626 | [Base](/neptunia/rb1/dlc/1-base.html) | [Elite Ribbon](/neptunia/rb1/quest/1-626-elite-ribbon.html) |
-| <input type="checkbox" id="rb1-quest-1-627" class="trackbox" /> | 627 | [Base](/neptunia/rb1/dlc/1-base.html) | [Wine Red Ribbon](/neptunia/rb1/quest/1-627-wine-red-ribbon.html) |
-
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-625" class="trackbox" /> | 625 | [Base](/neptunia/rb1/dlc/1-base.html) | [Silk Ribbon](/neptunia/rb1/remake/1-625-silk-ribbon.html)<br />→ [Silk Ribbon](/neptunia/rb1/item/1-3236-silk-ribbon.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-1-626" class="trackbox" /> | 626 | [Base](/neptunia/rb1/dlc/1-base.html) | [Elite Ribbon](/neptunia/rb1/remake/1-626-elite-ribbon.html)<br />→ [Elite Ribbon](/neptunia/rb1/item/1-3237-elite-ribbon.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-1-627" class="trackbox" /> | 627 | [Base](/neptunia/rb1/dlc/1-base.html) | [Wine Red Ribbon](/neptunia/rb1/remake/1-627-wine-red-ribbon.html)<br />→ [Wine Red Ribbon](/neptunia/rb1/item/1-3238-wine-red-ribbon.html) (Accessory) | 1 |
 
 ## Player characters who can equip **Emerald Ribbon**
 

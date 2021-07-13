@@ -24,13 +24,11 @@ title: "Powered Replay (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 947 |
 | **Max inventory** | 99 |
 
-
 ## Monsters which drop **Powered Replay**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-1-275" class="trackbox" /> | 275 | [Base](/neptunia/rb1/dlc/1-base.html) | [Replicant](/neptunia/rb1/monster/1-275-replicant.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-1-275" class="trackbox" /> | 275 | [Base](/neptunia/rb1/dlc/1-base.html) | [Replicant](/neptunia/rb1/monster/1-275-replicant.html) | 70% |
 
 ## Dungeons **Powered Replay** is found
 
@@ -38,9 +36,8 @@ title: "Powered Replay (Item) - Hyperdimension Neptunia Re;Birth1"
 | -- | -- | --- | ---- | ---- |
 | <input type="checkbox" id="rb1-dungeon-1-104" class="trackbox" /> | 104 | [Base](/neptunia/rb1/dlc/1-base.html) | [Toh-Kiden Cave](/neptunia/rb1/dungeon/1-104-toh-kiden-cave.html) | Monster drop |
 
-
 ## Remake System plans which require **Powered Replay**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-842" class="trackbox" /> | 842 | [Base](/neptunia/rb1/dlc/1-base.html) | [Leanbox H](/neptunia/rb1/quest/1-842-leanbox-h.html) |
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-842" class="trackbox" /> | 842 | [Base](/neptunia/rb1/dlc/1-base.html) | [Leanbox H](/neptunia/rb1/remake/1-842-leanbox-h.html)<br />→ [Leanbox H](/neptunia/rb1/item/1-4232-leanbox-h.html) (Processor (H)) | 1 |

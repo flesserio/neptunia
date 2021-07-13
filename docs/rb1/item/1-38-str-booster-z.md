@@ -26,31 +26,28 @@ title: "STR Booster Z (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **Tool skill** | [STR Booster Z](/neptunia/rb1/skill/1-10038-str-booster-z.html) |
 
-
 ## Remake System plans which unlock **STR Booster Z** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-345" class="trackbox" /> | 345 | [Base](/neptunia/rb1/dlc/1-base.html) | [STR Booster Z](/neptunia/rb1/remake/1-345-str-booster-z.html)<br /> → [STR Booster Z](/neptunia/rb1/item/1-38-str-booster-z.html) (Tool) |
-
+| <input type="checkbox" id="rb1-remake-1-345" class="trackbox" /> | 345 | [Base](/neptunia/rb1/dlc/1-base.html) | [STR Booster Z](/neptunia/rb1/remake/1-345-str-booster-z.html)<br />→ [STR Booster Z](/neptunia/rb1/item/1-38-str-booster-z.html) (Tool) |
 
 ## Dungeons **STR Booster Z** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
-| <input type="checkbox" id="rb1-dungeon-1-107" class="trackbox" /> | 107 | [Base](/neptunia/rb1/dlc/1-base.html) | [Gunbreak Underground Cavern](/neptunia/rb1/dungeon/1-107-gunbreak-underground-cavern.html) | Gathering point |
-| <input type="checkbox" id="rb1-dungeon-1-113" class="trackbox" /> | 113 | [Base](/neptunia/rb1/dlc/1-base.html) | [Millenium Labryinth](/neptunia/rb1/dungeon/1-113-millenium-labryinth.html) | Gathering point |
-| <input type="checkbox" id="rb1-dungeon-12-125" class="trackbox" /> | 125 | [Additional Content Package 3](/neptunia/rb1/dlc/12-pack3.html) | [Haneda Forest](/neptunia/rb1/dungeon/12-125-haneda-forest.html) | Gathering point |
-| <input type="checkbox" id="rb1-dungeon-11-126" class="trackbox" /> | 126 | [Additional Content Package 2](/neptunia/rb1/dlc/11-pack2.html) | [Nights' Dimension](/neptunia/rb1/dungeon/11-126-nights-dimension.html) | Gathering point |
-| <input type="checkbox" id="rb1-dungeon-16-131" class="trackbox" /> | 131 | [Additional Content Pack 7](/neptunia/rb1/dlc/16-pack7.html) | [Rebeat Resort](/neptunia/rb1/dungeon/16-131-rebeat-resort.html) | Gathering point |
-
+| <input type="checkbox" id="rb1-dungeon-1-107" class="trackbox" /> | 107 | [Base](/neptunia/rb1/dlc/1-base.html) | [Gunbreak Underground Cavern](/neptunia/rb1/dungeon/1-107-gunbreak-underground-cavern.html) | Treasure |
+| <input type="checkbox" id="rb1-dungeon-1-113" class="trackbox" /> | 113 | [Base](/neptunia/rb1/dlc/1-base.html) | [Millenium Labryinth](/neptunia/rb1/dungeon/1-113-millenium-labryinth.html) | Treasure |
+| <input type="checkbox" id="rb1-dungeon-12-125" class="trackbox" /> | 125 | [Additional Content Package 3](/neptunia/rb1/dlc/12-pack3.html) | [Haneda Forest](/neptunia/rb1/dungeon/12-125-haneda-forest.html) | Treasure |
+| <input type="checkbox" id="rb1-dungeon-12-125" class="trackbox" /> | 125 | [Additional Content Package 3](/neptunia/rb1/dlc/12-pack3.html) | [Haneda Forest](/neptunia/rb1/dungeon/12-125-haneda-forest.html) | Hidden treasure |
+| <input type="checkbox" id="rb1-dungeon-11-126" class="trackbox" /> | 126 | [Additional Content Package 2](/neptunia/rb1/dlc/11-pack2.html) | [Nights' Dimension](/neptunia/rb1/dungeon/11-126-nights-dimension.html) | Treasure |
+| <input type="checkbox" id="rb1-dungeon-16-131" class="trackbox" /> | 131 | [Additional Content Pack 7](/neptunia/rb1/dlc/16-pack7.html) | [Rebeat Resort](/neptunia/rb1/dungeon/16-131-rebeat-resort.html) | Hidden treasure |
 
 ## Colosseum quests which reward **STR Booster Z**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
 | <input type="checkbox" id="rb1-colosseum-1-2002" class="trackbox" /> | 2002 | [Base](/neptunia/rb1/dlc/1-base.html) | [Hell's Comb](/neptunia/rb1/colosseum/1-2002-hells-comb.html) |
-
 
 ## Quests which reward **STR Booster Z**
 

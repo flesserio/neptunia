@@ -25,20 +25,17 @@ title: "Holy Rod (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **Weapon skill** | [Break](/neptunia/rb1/skill/1-2803-break.html) |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 500 | 0 | 0 | 662 | 0 | 697 | 79 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 
-
 ## Dungeons **Holy Rod** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
-| <input type="checkbox" id="rb1-dungeon-1-18" class="trackbox" /> | 18 | [Base](/neptunia/rb1/dlc/1-base.html) | [Neo-Geofront](/neptunia/rb1/dungeon/1-18-neo-geofront.html) | Gathering point |
-
+| <input type="checkbox" id="rb1-dungeon-1-18" class="trackbox" /> | 18 | [Base](/neptunia/rb1/dlc/1-base.html) | [Neo-Geofront](/neptunia/rb1/dungeon/1-18-neo-geofront.html) | Treasure |
 
 ## Player characters who can equip **Holy Rod**
 

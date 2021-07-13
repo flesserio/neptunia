@@ -24,13 +24,11 @@ title: "Boxbird Wing (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 62 |
 | **Max inventory** | 99 |
 
-
 ## Monsters which drop **Boxbird Wing**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-1-146" class="trackbox" /> | 146 | [Base](/neptunia/rb1/dlc/1-base.html) | [Boxbird](/neptunia/rb1/monster/1-146-boxbird.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-1-146" class="trackbox" /> | 146 | [Base](/neptunia/rb1/dlc/1-base.html) | [Boxbird](/neptunia/rb1/monster/1-146-boxbird.html) | 40% |
 
 ## Dungeons **Boxbird Wing** is found
 
@@ -39,10 +37,9 @@ title: "Boxbird Wing (Item) - Hyperdimension Neptunia Re;Birth1"
 | <input type="checkbox" id="rb1-dungeon-1-9" class="trackbox" /> | 9 | [Base](/neptunia/rb1/dlc/1-base.html) | [Marubaco Forest](/neptunia/rb1/dungeon/1-9-marubaco-forest.html) | Gathering point |
 | <input type="checkbox" id="rb1-dungeon-1-9" class="trackbox" /> | 9 | [Base](/neptunia/rb1/dlc/1-base.html) | [Marubaco Forest](/neptunia/rb1/dungeon/1-9-marubaco-forest.html) | Monster drop |
 
-
 ## Remake System plans which require **Boxbird Wing**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-353" class="trackbox" /> | 353 | [Base](/neptunia/rb1/dlc/1-base.html) | [Beam Katana Beta](/neptunia/rb1/quest/1-353-beam-katana-beta.html) |
-| <input type="checkbox" id="rb1-quest-1-386" class="trackbox" /> | 386 | [Base](/neptunia/rb1/dlc/1-base.html) | [Suspicious Bangle](/neptunia/rb1/quest/1-386-suspicious-bangle.html) |
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-353" class="trackbox" /> | 353 | [Base](/neptunia/rb1/dlc/1-base.html) | [Beam Katana Beta](/neptunia/rb1/remake/1-353-beam-katana-beta.html)<br />→ [Beam Katana Beta](/neptunia/rb1/item/1-2009-beam-katana-beta.html) (Katana (Neptune)) | 4 |
+| <input type="checkbox" id="rb1-remake-1-386" class="trackbox" /> | 386 | [Base](/neptunia/rb1/dlc/1-base.html) | [Suspicious Bangle](/neptunia/rb1/remake/1-386-suspicious-bangle.html)<br />→ [Suspicious Bangle](/neptunia/rb1/item/1-2519-suspicious-bangle.html) (Armor) | 2 |

@@ -23,7 +23,6 @@ title: "Red Glasses (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **To unlock in shop** | Method 1<br />- View scene [Chapter 4: Where's Lowee's Key Fragment?](/neptunia/rb1/scene/1-410-chapter-4-wheres-lowees-key-fragment.html) |
 
-
 ## Player characters who can equip **Red Glasses**
 
 |    | ID | DLC | Name |

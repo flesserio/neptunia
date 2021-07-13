@@ -24,20 +24,17 @@ title: "Mint Hat (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 500 |
 | **Max inventory** | 99 |
 
-
 ## Monsters which drop **Mint Hat**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-1-374" class="trackbox" /> | 374 | [Base](/neptunia/rb1/dlc/1-base.html) | [Orthros](/neptunia/rb1/monster/1-374-orthros.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-1-374" class="trackbox" /> | 374 | [Base](/neptunia/rb1/dlc/1-base.html) | [Orthros](/neptunia/rb1/monster/1-374-orthros.html) | 25% |
 
 ## Dungeons **Mint Hat** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
 | <input type="checkbox" id="rb1-dungeon-1-120" class="trackbox" /> | 120 | [Base](/neptunia/rb1/dlc/1-base.html) | [Zeca Ruins No.2](/neptunia/rb1/dungeon/1-120-zeca-ruins-no-2.html) | Monster drop |
-
 
 ## Player characters who can equip **Mint Hat**
 

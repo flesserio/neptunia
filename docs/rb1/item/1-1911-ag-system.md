@@ -26,13 +26,11 @@ title: "AG System (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 414 |
 | **Max inventory** | 99 |
 
-
 ## Monsters which drop **AG System**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-1-260" class="trackbox" /> | 260 | [Base](/neptunia/rb1/dlc/1-base.html) | [Herobo](/neptunia/rb1/monster/1-260-herobo.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-1-260" class="trackbox" /> | 260 | [Base](/neptunia/rb1/dlc/1-base.html) | [Herobo](/neptunia/rb1/monster/1-260-herobo.html) | 70% |
 
 ## Dungeons **AG System** is found
 
@@ -40,13 +38,11 @@ title: "AG System (Item) - Hyperdimension Neptunia Re;Birth1"
 | -- | -- | --- | ---- | ---- |
 | <input type="checkbox" id="rb1-dungeon-1-102" class="trackbox" /> | 102 | [Base](/neptunia/rb1/dlc/1-base.html) | [Mechtro Factory](/neptunia/rb1/dungeon/1-102-mechtro-factory.html) | Monster drop |
 
-
 ## Colosseum quests which reward **AG System**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
 | <input type="checkbox" id="rb1-colosseum-11-3013" class="trackbox" /> | 3013 | [Additional Content Package 2](/neptunia/rb1/dlc/11-pack2.html) | [Super Brawling Characters](/neptunia/rb1/colosseum/11-3013-super-brawling-characters.html) |
-
 
 ## Quests which require gathering **AG System**
 
@@ -54,10 +50,9 @@ title: "AG System (Item) - Hyperdimension Neptunia Re;Birth1"
 | -- | -- | --- | ---- |
 | <input type="checkbox" id="rb1-quest-1-206" class="trackbox" /> | 206 | [Base](/neptunia/rb1/dlc/1-base.html) | [Just a hobby](/neptunia/rb1/quest/1-206-just-a-hobby.html) |
 
-
 ## Remake System plans which require **AG System**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-8" class="trackbox" /> | 8 | [Base](/neptunia/rb1/dlc/1-base.html) | [Jumping Star](/neptunia/rb1/quest/1-8-jumping-star.html) |
-| <input type="checkbox" id="rb1-quest-1-830" class="trackbox" /> | 830 | [Base](/neptunia/rb1/dlc/1-base.html) | [Lastation H](/neptunia/rb1/quest/1-830-lastation-h.html) |
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-8" class="trackbox" /> | 8 | [Base](/neptunia/rb1/dlc/1-base.html) | [Jumping Star](/neptunia/rb1/remake/1-8-jumping-star.html) | 1 |
+| <input type="checkbox" id="rb1-remake-1-830" class="trackbox" /> | 830 | [Base](/neptunia/rb1/dlc/1-base.html) | [Lastation H](/neptunia/rb1/remake/1-830-lastation-h.html)<br />→ [Lastation H](/neptunia/rb1/item/1-4130-lastation-h.html) (Processor (H)) | 1 |

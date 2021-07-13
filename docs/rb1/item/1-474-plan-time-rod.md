@@ -23,16 +23,14 @@ title: "Plan: Time Rod (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 0 |
 | **Max inventory** | 1 |
 
-
 ## Chirpers who give **Plan: Time Rod**
 
 |    | ID | DLC | Avatar | Message | Conditions |
 | -- | -- | --- | ------ | ------- | ---------- |
-| <input type="checkbox" id="rb1-chirper-event-1-5187" class="trackbox" /> | 5187 | [Base](/neptunia/rb1/dlc/1-base.html) | [Vestige of Darkness](/neptunia/rb1/undefined/1-249-vestige-of-darkness.html) | This is a weapon Plan.<br />Ah, finally, someone who is worthy of wielding this...<br />I bid you luck.<br />Loochs tneve emag noitamina cisum. | View scene [Chapter 8: 2nd Console War?](/neptunia/rb1/scene/1-802-chapter-8-2nd-console-war.html)<br />Do not view scene [Chapter 8: The True Arfoire](/neptunia/rb1/scene/1-807-chapter-8-the-true-arfoire.html) |
-
+| <input type="checkbox" id="rb1-chirper-event-1-5187" class="trackbox" /> | 5187 | [Base](/neptunia/rb1/dlc/1-base.html) | [Vestige of Darkness](/neptunia/rb1/avatar/1-249-vestige-of-darkness.html) | This is a weapon Plan.<br />Ah, finally, someone who is worthy of wielding this...<br />I bid you luck.<br />Loochs tneve emag noitamina cisum. | View scene [Chapter 8: 2nd Console War?](/neptunia/rb1/scene/1-802-chapter-8-2nd-console-war.html)<br />Do not view scene [Chapter 8: The True Arfoire](/neptunia/rb1/scene/1-807-chapter-8-the-true-arfoire.html) |
 
 ## Plans added to Remake System after collecting **Plan: Time Rod**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-380" class="trackbox" /> | 380 | [Base](/neptunia/rb1/dlc/1-base.html) | [Time Rod](/neptunia/rb1/remake/1-380-time-rod.html)<br /> → [Time Rod](/neptunia/rb1/item/1-2387-time-rod.html) (Staff (MAGES.)) |
+| <input type="checkbox" id="rb1-remake-1-380" class="trackbox" /> | 380 | [Base](/neptunia/rb1/dlc/1-base.html) | [Time Rod](/neptunia/rb1/remake/1-380-time-rod.html)<br />→ [Time Rod](/neptunia/rb1/item/1-2387-time-rod.html) (Staff (MAGES.)) |

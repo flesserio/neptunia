@@ -24,15 +24,13 @@ title: "Halo Bulb (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **To unlock in shop** | Method 1<br />- View scene [Chapter 2: Histoire And Arfoire](/neptunia/rb1/scene/1-201-chapter-2-histoire-and-arfoire.html)<br />- View scene [DLC 8 Event 1](/neptunia/rb1/scene/8-5020-dlc-8-event-1.html) |
 
-
 ## Remake System plans which require **Halo Bulb**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-8-718" class="trackbox" /> | 718 | [[Peashy] Battle Entry License](/neptunia/rb1/dlc/8-peashy.html) | [Black Light](/neptunia/rb1/quest/8-718-black-light.html) |
-| <input type="checkbox" id="rb1-quest-8-719" class="trackbox" /> | 719 | [[Peashy] Battle Entry License](/neptunia/rb1/dlc/8-peashy.html) | [Halogen Lamp](/neptunia/rb1/quest/8-719-halogen-lamp.html) |
-| <input type="checkbox" id="rb1-quest-8-720" class="trackbox" /> | 720 | [[Peashy] Battle Entry License](/neptunia/rb1/dlc/8-peashy.html) | [Air Cleanser](/neptunia/rb1/quest/8-720-air-cleanser.html) |
-
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-8-718" class="trackbox" /> | 718 | [[Peashy] Battle Entry License](/neptunia/rb1/dlc/8-peashy.html) | [Black Light](/neptunia/rb1/remake/8-718-black-light.html)<br />→ [Black Light](/neptunia/rb1/item/8-3370-black-light.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-8-719" class="trackbox" /> | 719 | [[Peashy] Battle Entry License](/neptunia/rb1/dlc/8-peashy.html) | [Halogen Lamp](/neptunia/rb1/remake/8-719-halogen-lamp.html)<br />→ [Halogen Lamp](/neptunia/rb1/item/8-3371-halogen-lamp.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-8-720" class="trackbox" /> | 720 | [[Peashy] Battle Entry License](/neptunia/rb1/dlc/8-peashy.html) | [Air Cleanser](/neptunia/rb1/remake/8-720-air-cleanser.html)<br />→ [Air Cleanser](/neptunia/rb1/item/8-3372-air-cleanser.html) (Accessory) | 1 |
 
 ## Player characters who can equip **Halo Bulb**
 

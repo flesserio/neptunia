@@ -23,13 +23,11 @@ title: "Leanbox Patrol (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 2500 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Leanbox Patrol** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-730" class="trackbox" /> | 730 | [Base](/neptunia/rb1/dlc/1-base.html) | [Leanbox Patrol](/neptunia/rb1/remake/1-730-leanbox-patrol.html)<br /> → [Leanbox Patrol](/neptunia/rb1/item/1-3389-leanbox-patrol.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-730" class="trackbox" /> | 730 | [Base](/neptunia/rb1/dlc/1-base.html) | [Leanbox Patrol](/neptunia/rb1/remake/1-730-leanbox-patrol.html)<br />→ [Leanbox Patrol](/neptunia/rb1/item/1-3389-leanbox-patrol.html) (Accessory) |
 
 ## Player characters who can equip **Leanbox Patrol**
 

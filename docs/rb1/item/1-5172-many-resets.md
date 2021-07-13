@@ -24,23 +24,20 @@ title: "Many Resets (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 10 |
 | **Max inventory** | 99 |
 | **Idea Chip level** | 5 |
-| **Idea Chip ability** | [Gained EXP Up Lv.5](/neptunia/rb1/avatar/1-9671-gained-exp-up-lv-5.html)<br />Increases Gained XP by 30% |
-
+| **Idea Chip ability** | [Gained EXP Up Lv.5](/neptunia/rb1/ability/1-9671-gained-exp-up-lv-5.html)<br />Increases Gained XP by 30% |
 
 ## Monsters which drop **Many Resets**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-12-400" class="trackbox" /> | 400 | [Additional Content Package 3](/neptunia/rb1/dlc/12-pack3.html) | [Procyon](/neptunia/rb1/monster/12-400-procyon.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-12-400" class="trackbox" /> | 400 | [Additional Content Package 3](/neptunia/rb1/dlc/12-pack3.html) | [Procyon](/neptunia/rb1/monster/12-400-procyon.html) | 65% |
 
 ## Dungeons **Many Resets** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
-| <input type="checkbox" id="rb1-dungeon-1-104" class="trackbox" /> | 104 | [Base](/neptunia/rb1/dlc/1-base.html) | [Toh-Kiden Cave](/neptunia/rb1/dungeon/1-104-toh-kiden-cave.html) | Gathering point |
+| <input type="checkbox" id="rb1-dungeon-1-104" class="trackbox" /> | 104 | [Base](/neptunia/rb1/dlc/1-base.html) | [Toh-Kiden Cave](/neptunia/rb1/dungeon/1-104-toh-kiden-cave.html) | Treasure |
 | <input type="checkbox" id="rb1-dungeon-12-125" class="trackbox" /> | 125 | [Additional Content Package 3](/neptunia/rb1/dlc/12-pack3.html) | [Haneda Forest](/neptunia/rb1/dungeon/12-125-haneda-forest.html) | Monster drop |
-
 
 ## Colosseum quests which reward **Many Resets**
 

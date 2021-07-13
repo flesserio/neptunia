@@ -24,13 +24,11 @@ title: "Nice Memories... (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 3156 |
 | **Max inventory** | 99 |
 
-
 ## Monsters which drop **Nice Memories...**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-1-365" class="trackbox" /> | 365 | [Base](/neptunia/rb1/dlc/1-base.html) | [Trick Crown](/neptunia/rb1/monster/1-365-trick-crown.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-1-365" class="trackbox" /> | 365 | [Base](/neptunia/rb1/dlc/1-base.html) | [Trick Crown](/neptunia/rb1/monster/1-365-trick-crown.html) | 75% |
 
 ## Dungeons **Nice Memories...** is found
 
@@ -38,9 +36,8 @@ title: "Nice Memories... (Item) - Hyperdimension Neptunia Re;Birth1"
 | -- | -- | --- | ---- | ---- |
 | <input type="checkbox" id="rb1-dungeon-1-118" class="trackbox" /> | 118 | [Base](/neptunia/rb1/dlc/1-base.html) | [Uwii Ruins](/neptunia/rb1/dungeon/1-118-uwii-ruins.html) | Monster drop |
 
-
 ## Remake System plans which require **Nice Memories...**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-11-271" class="trackbox" /> | 271 | [Additional Content Package 2](/neptunia/rb1/dlc/11-pack2.html) | [Add Super Enemies](/neptunia/rb1/quest/11-271-add-super-enemies.html) |
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-11-271" class="trackbox" /> | 271 | [Additional Content Package 2](/neptunia/rb1/dlc/11-pack2.html) | [Add Super Enemies](/neptunia/rb1/remake/11-271-add-super-enemies.html)<br />→ [Uwii Ruins](/neptunia/rb1/dungeon/1-118-uwii-ruins.html) (Dungeon) | 1 |

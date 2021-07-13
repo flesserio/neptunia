@@ -22,9 +22,8 @@ title: "Momus Stamp (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 0 |
 | **Max inventory** | 99 |
 
-
 ## Monsters which drop **Momus Stamp**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-1-1046" class="trackbox" /> | 1046 | [Base](/neptunia/rb1/dlc/1-base.html) | [Overlord Momus](/neptunia/rb1/monster/1-1046-overlord-momus.html) |
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-1-1046" class="trackbox" /> | 1046 | [Base](/neptunia/rb1/dlc/1-base.html) | [Overlord Momus](/neptunia/rb1/monster/1-1046-overlord-momus.html) | 100% |

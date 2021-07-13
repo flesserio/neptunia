@@ -23,17 +23,15 @@ title: "Plan: Life Fragment (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 0 |
 | **Max inventory** | 1 |
 
-
 ## Plans added to Remake System after collecting **Plan: Life Fragment**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-346" class="trackbox" /> | 346 | [Base](/neptunia/rb1/dlc/1-base.html) | [Life Fragment](/neptunia/rb1/remake/1-346-life-fragment.html)<br /> → [Life Fragment](/neptunia/rb1/item/1-39-life-fragment.html) (Tool) |
-
+| <input type="checkbox" id="rb1-remake-1-346" class="trackbox" /> | 346 | [Base](/neptunia/rb1/dlc/1-base.html) | [Life Fragment](/neptunia/rb1/remake/1-346-life-fragment.html)<br />→ [Life Fragment](/neptunia/rb1/item/1-39-life-fragment.html) (Tool) |
 
 ## Dungeons **Plan: Life Fragment** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
-| <input type="checkbox" id="rb1-dungeon-1-1" class="trackbox" /> | 1 | [Base](/neptunia/rb1/dlc/1-base.html) | [Virtua Forest](/neptunia/rb1/dungeon/1-1-virtua-forest.html) | Gathering point |
-| <input type="checkbox" id="rb1-dungeon-21-303" class="trackbox" /> | 303 | [Additional Content Pack 12](/neptunia/rb1/dlc/21-pack12.html) | [Lili Dungeon](/neptunia/rb1/dungeon/21-303-lili-dungeon.html) | Gathering point |
+| <input type="checkbox" id="rb1-dungeon-1-1" class="trackbox" /> | 1 | [Base](/neptunia/rb1/dlc/1-base.html) | [Virtua Forest](/neptunia/rb1/dungeon/1-1-virtua-forest.html) | Treasure |
+| <input type="checkbox" id="rb1-dungeon-21-303" class="trackbox" /> | 303 | [Additional Content Pack 12](/neptunia/rb1/dlc/21-pack12.html) | [Lili Dungeon](/neptunia/rb1/dungeon/21-303-lili-dungeon.html) | Treasure |

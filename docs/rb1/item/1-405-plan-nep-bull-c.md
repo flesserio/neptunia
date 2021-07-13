@@ -23,16 +23,14 @@ title: "Plan: Nep Bull C (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 0 |
 | **Max inventory** | 1 |
 
-
 ## Plans added to Remake System after collecting **Plan: Nep Bull C**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-319" class="trackbox" /> | 319 | [Base](/neptunia/rb1/dlc/1-base.html) | [Nep Bull C](/neptunia/rb1/remake/1-319-nep-bull-c.html)<br /> → [Nep Bull C](/neptunia/rb1/item/1-6-nep-bull-c.html) (Tool) |
-
+| <input type="checkbox" id="rb1-remake-1-319" class="trackbox" /> | 319 | [Base](/neptunia/rb1/dlc/1-base.html) | [Nep Bull C](/neptunia/rb1/remake/1-319-nep-bull-c.html)<br />→ [Nep Bull C](/neptunia/rb1/item/1-6-nep-bull-c.html) (Tool) |
 
 ## Dungeons **Plan: Nep Bull C** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
-| <input type="checkbox" id="rb1-dungeon-1-12" class="trackbox" /> | 12 | [Base](/neptunia/rb1/dlc/1-base.html) | [Lowee Snowfield](/neptunia/rb1/dungeon/1-12-lowee-snowfield.html) | Gathering point |
+| <input type="checkbox" id="rb1-dungeon-1-12" class="trackbox" /> | 12 | [Base](/neptunia/rb1/dlc/1-base.html) | [Lowee Snowfield](/neptunia/rb1/dungeon/1-12-lowee-snowfield.html) | Treasure |

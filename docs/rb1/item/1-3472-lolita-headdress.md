@@ -24,15 +24,13 @@ title: "Lolita Headdress (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **To unlock in shop** | Method 1<br />- Have Rom & Ram unlocked. |
 
-
 ## Remake System plans which require **Lolita Headdress**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-787" class="trackbox" /> | 787 | [Base](/neptunia/rb1/dlc/1-base.html) | [Monochrome Headdress](/neptunia/rb1/quest/1-787-monochrome-headdress.html) |
-| <input type="checkbox" id="rb1-quest-1-788" class="trackbox" /> | 788 | [Base](/neptunia/rb1/dlc/1-base.html) | [Pink Headdress](/neptunia/rb1/quest/1-788-pink-headdress.html) |
-| <input type="checkbox" id="rb1-quest-1-789" class="trackbox" /> | 789 | [Base](/neptunia/rb1/dlc/1-base.html) | [Aqua Headdress](/neptunia/rb1/quest/1-789-aqua-headdress.html) |
-
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-787" class="trackbox" /> | 787 | [Base](/neptunia/rb1/dlc/1-base.html) | [Monochrome Headdress](/neptunia/rb1/remake/1-787-monochrome-headdress.html)<br />→ [Monochrome Headdress](/neptunia/rb1/item/1-3473-monochrome-headdress.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-1-788" class="trackbox" /> | 788 | [Base](/neptunia/rb1/dlc/1-base.html) | [Pink Headdress](/neptunia/rb1/remake/1-788-pink-headdress.html)<br />→ [Pink Headdress](/neptunia/rb1/item/1-3474-pink-headdress.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-1-789" class="trackbox" /> | 789 | [Base](/neptunia/rb1/dlc/1-base.html) | [Aqua Headdress](/neptunia/rb1/remake/1-789-aqua-headdress.html)<br />→ [Aqua Headdress](/neptunia/rb1/item/1-3475-aqua-headdress.html) (Accessory) | 1 |
 
 ## Player characters who can equip **Lolita Headdress**
 

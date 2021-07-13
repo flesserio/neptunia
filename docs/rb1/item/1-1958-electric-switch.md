@@ -24,13 +24,11 @@ title: "Electric Switch (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 10000 |
 | **Max inventory** | 99 |
 
-
 ## Monsters which drop **Electric Switch**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-1-345" class="trackbox" /> | 345 | [Base](/neptunia/rb1/dlc/1-base.html) | [Clione](/neptunia/rb1/monster/1-345-clione.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-1-345" class="trackbox" /> | 345 | [Base](/neptunia/rb1/dlc/1-base.html) | [Clione](/neptunia/rb1/monster/1-345-clione.html) | 45% |
 
 ## Dungeons **Electric Switch** is found
 
@@ -38,9 +36,8 @@ title: "Electric Switch (Item) - Hyperdimension Neptunia Re;Birth1"
 | -- | -- | --- | ---- | ---- |
 | <input type="checkbox" id="rb1-dungeon-1-116" class="trackbox" /> | 116 | [Base](/neptunia/rb1/dlc/1-base.html) | [Yukawa Ruins](/neptunia/rb1/dungeon/1-116-yukawa-ruins.html) | Monster drop |
 
-
 ## Remake System plans which require **Electric Switch**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-10-269" class="trackbox" /> | 269 | [Additional Content Package 1](/neptunia/rb1/dlc/10-pack1.html) | [Add Super Enemies](/neptunia/rb1/quest/10-269-add-super-enemies.html) |
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-10-269" class="trackbox" /> | 269 | [Additional Content Package 1](/neptunia/rb1/dlc/10-pack1.html) | [Add Super Enemies](/neptunia/rb1/remake/10-269-add-super-enemies.html)<br />→ [Yukawa Ruins](/neptunia/rb1/dungeon/1-116-yukawa-ruins.html) (Dungeon) | 1 |

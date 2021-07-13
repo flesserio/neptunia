@@ -25,20 +25,17 @@ title: "Durandal (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **Weapon skill** | [Attack](/neptunia/rb1/skill/1-401-attack.html) |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 3075 | 0 | 3075 | 350 | 0 | 0 | 450 | 0 | 0 | 0 | 0 |
 
-
 ## Remake System plans which unlock **Durandal** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-11-369" class="trackbox" /> | 369 | [Additional Content Package 2](/neptunia/rb1/dlc/11-pack2.html) | [Durandal](/neptunia/rb1/remake/11-369-durandal.html)<br /> → [Durandal](/neptunia/rb1/item/11-2076-durandal.html) (Short Sword (Noire)) |
-
+| <input type="checkbox" id="rb1-remake-11-369" class="trackbox" /> | 369 | [Additional Content Package 2](/neptunia/rb1/dlc/11-pack2.html) | [Durandal](/neptunia/rb1/remake/11-369-durandal.html)<br />→ [Durandal](/neptunia/rb1/item/11-2076-durandal.html) (Short Sword (Noire)) |
 
 ## Player characters who can equip **Durandal**
 

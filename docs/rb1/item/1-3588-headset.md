@@ -23,13 +23,11 @@ title: "Headset (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 0 |
 | **Max inventory** | 1 |
 
-
 ## Player characters who have **Headset** equipped by default
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
 | <input type="checkbox" id="rb1-player-1-17" class="trackbox" /> | 17 | [Base](/neptunia/rb1/dlc/1-base.html) | [MarvelousAQL](/neptunia/rb1/player/1-17-marvelousaql.html) |
-
 
 ## Player characters who can equip **Headset**
 

@@ -26,20 +26,17 @@ title: "Anti-Venom (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **Tool skill** | [Anti-Venom](/neptunia/rb1/skill/1-10027-anti-venom.html) |
 
-
 ## Remake System plans which unlock **Anti-Venom** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-334" class="trackbox" /> | 334 | [Base](/neptunia/rb1/dlc/1-base.html) | [Anti-Venom](/neptunia/rb1/remake/1-334-anti-venom.html)<br /> → [Anti-Venom](/neptunia/rb1/item/1-27-anti-venom.html) (Tool) |
-
+| <input type="checkbox" id="rb1-remake-1-334" class="trackbox" /> | 334 | [Base](/neptunia/rb1/dlc/1-base.html) | [Anti-Venom](/neptunia/rb1/remake/1-334-anti-venom.html)<br />→ [Anti-Venom](/neptunia/rb1/item/1-27-anti-venom.html) (Tool) |
 
 ## Dungeons **Anti-Venom** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
-| <input type="checkbox" id="rb1-dungeon-1-106" class="trackbox" /> | 106 | [Base](/neptunia/rb1/dlc/1-base.html) | [Gravidaze Ruins](/neptunia/rb1/dungeon/1-106-gravidaze-ruins.html) | Gathering point |
-
+| <input type="checkbox" id="rb1-dungeon-1-106" class="trackbox" /> | 106 | [Base](/neptunia/rb1/dlc/1-base.html) | [Gravidaze Ruins](/neptunia/rb1/dungeon/1-106-gravidaze-ruins.html) | Treasure |
 
 ## Colosseum quests which reward **Anti-Venom**
 
@@ -47,9 +44,8 @@ title: "Anti-Venom (Item) - Hyperdimension Neptunia Re;Birth1"
 | -- | -- | --- | ---- |
 | <input type="checkbox" id="rb1-colosseum-1-2001" class="trackbox" /> | 2001 | [Base](/neptunia/rb1/dlc/1-base.html) | [Eat it Fried](/neptunia/rb1/colosseum/1-2001-eat-it-fried.html) |
 
-
 ## Remake System plans which require **Anti-Venom**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-418" class="trackbox" /> | 418 | [Base](/neptunia/rb1/dlc/1-base.html) | [Anti-Poison Patch](/neptunia/rb1/quest/1-418-anti-poison-patch.html) |
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-418" class="trackbox" /> | 418 | [Base](/neptunia/rb1/dlc/1-base.html) | [Anti-Poison Patch](/neptunia/rb1/remake/1-418-anti-poison-patch.html)<br />→ [Anti-Poison Patch](/neptunia/rb1/item/1-2757-anti-poison-patch.html) (Ornament) | 8 |

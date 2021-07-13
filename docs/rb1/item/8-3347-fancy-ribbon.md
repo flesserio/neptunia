@@ -23,13 +23,11 @@ title: "Fancy Ribbon (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 125000 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Fancy Ribbon** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-8-701" class="trackbox" /> | 701 | [[Peashy] Battle Entry License](/neptunia/rb1/dlc/8-peashy.html) | [Fancy Ribbon](/neptunia/rb1/remake/8-701-fancy-ribbon.html)<br /> → [Fancy Ribbon](/neptunia/rb1/item/8-3347-fancy-ribbon.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-8-701" class="trackbox" /> | 701 | [[Peashy] Battle Entry License](/neptunia/rb1/dlc/8-peashy.html) | [Fancy Ribbon](/neptunia/rb1/remake/8-701-fancy-ribbon.html)<br />→ [Fancy Ribbon](/neptunia/rb1/item/8-3347-fancy-ribbon.html) (Accessory) |
 
 ## Player characters who can equip **Fancy Ribbon**
 

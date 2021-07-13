@@ -23,16 +23,14 @@ title: "Plan: SP Buster II (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 0 |
 | **Max inventory** | 1 |
 
-
 ## Plans added to Remake System after collecting **Plan: SP Buster II**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-397" class="trackbox" /> | 397 | [Base](/neptunia/rb1/dlc/1-base.html) | [SP Buster II](/neptunia/rb1/remake/1-397-sp-buster-ii.html)<br /> → [SP Buster II](/neptunia/rb1/item/1-2723-sp-buster-ii.html) (Ornament) |
-
+| <input type="checkbox" id="rb1-remake-1-397" class="trackbox" /> | 397 | [Base](/neptunia/rb1/dlc/1-base.html) | [SP Buster II](/neptunia/rb1/remake/1-397-sp-buster-ii.html)<br />→ [SP Buster II](/neptunia/rb1/item/1-2723-sp-buster-ii.html) (Ornament) |
 
 ## Dungeons **Plan: SP Buster II** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
-| <input type="checkbox" id="rb1-dungeon-1-109" class="trackbox" /> | 109 | [Base](/neptunia/rb1/dlc/1-base.html) | [Duty Space](/neptunia/rb1/dungeon/1-109-duty-space.html) | Gathering point |
+| <input type="checkbox" id="rb1-dungeon-1-109" class="trackbox" /> | 109 | [Base](/neptunia/rb1/dlc/1-base.html) | [Duty Space](/neptunia/rb1/dungeon/1-109-duty-space.html) | Treasure |

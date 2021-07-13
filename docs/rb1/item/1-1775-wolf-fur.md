@@ -25,14 +25,12 @@ title: "Wolf Fur (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 58 |
 | **Max inventory** | 99 |
 
-
 ## Monsters which drop **Wolf Fur**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-1-256" class="trackbox" /> | 256 | [Base](/neptunia/rb1/dlc/1-base.html) | [Child Wolf](/neptunia/rb1/monster/1-256-child-wolf.html) |
-| <input type="checkbox" id="rb1-monster-1-257" class="trackbox" /> | 257 | [Base](/neptunia/rb1/dlc/1-base.html) | [Viral Child Wolf](/neptunia/rb1/monster/1-257-viral-child-wolf.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-1-256" class="trackbox" /> | 256 | [Base](/neptunia/rb1/dlc/1-base.html) | [Child Wolf](/neptunia/rb1/monster/1-256-child-wolf.html) | 40% |
+| <input type="checkbox" id="rb1-monster-1-257" class="trackbox" /> | 257 | [Base](/neptunia/rb1/dlc/1-base.html) | [Viral Child Wolf](/neptunia/rb1/monster/1-257-viral-child-wolf.html) | 80% |
 
 ## Dungeons **Wolf Fur** is found
 
@@ -41,17 +39,15 @@ title: "Wolf Fur (Item) - Hyperdimension Neptunia Re;Birth1"
 | <input type="checkbox" id="rb1-dungeon-1-102" class="trackbox" /> | 102 | [Base](/neptunia/rb1/dlc/1-base.html) | [Mechtro Factory](/neptunia/rb1/dungeon/1-102-mechtro-factory.html) | Gathering point |
 | <input type="checkbox" id="rb1-dungeon-1-102" class="trackbox" /> | 102 | [Base](/neptunia/rb1/dlc/1-base.html) | [Mechtro Factory](/neptunia/rb1/dungeon/1-102-mechtro-factory.html) | Monster drop |
 
-
 ## Quests which require gathering **Wolf Fur**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
 | <input type="checkbox" id="rb1-quest-1-204" class="trackbox" /> | 204 | [Base](/neptunia/rb1/dlc/1-base.html) | [Help me](/neptunia/rb1/quest/1-204-help-me.html) |
 
-
 ## Remake System plans which require **Wolf Fur**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-352" class="trackbox" /> | 352 | [Base](/neptunia/rb1/dlc/1-base.html) | [Bastard Sword](/neptunia/rb1/quest/1-352-bastard-sword.html) |
-| <input type="checkbox" id="rb1-quest-7-511" class="trackbox" /> | 511 | [[Plutia] Battle Entry License](/neptunia/rb1/dlc/7-plutia.html) | [Pastel Button](/neptunia/rb1/quest/7-511-pastel-button.html) |
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-352" class="trackbox" /> | 352 | [Base](/neptunia/rb1/dlc/1-base.html) | [Bastard Sword](/neptunia/rb1/remake/1-352-bastard-sword.html)<br />→ [Bastard Sword](/neptunia/rb1/item/1-2006-bastard-sword.html) (Broadsword (Neptune)) | 2 |
+| <input type="checkbox" id="rb1-remake-7-511" class="trackbox" /> | 511 | [[Plutia] Battle Entry License](/neptunia/rb1/dlc/7-plutia.html) | [Pastel Button](/neptunia/rb1/remake/7-511-pastel-button.html)<br />→ [Pastel Button](/neptunia/rb1/item/7-3061-pastel-button.html) (Accessory) | 2 |

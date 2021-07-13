@@ -25,27 +25,23 @@ title: "Frost L (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 500 |
 | **Max inventory** | 99 |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | -10 | 0 | 30 | 45 | 15 | -10 | 0 | -7 | 15 | 0 | 0 |
 
-
 ## Monsters which drop **Frost L**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-1-143" class="trackbox" /> | 143 | [Base](/neptunia/rb1/dlc/1-base.html) | [Metal Dogoo](/neptunia/rb1/monster/1-143-metal-dogoo.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-1-143" class="trackbox" /> | 143 | [Base](/neptunia/rb1/dlc/1-base.html) | [Metal Dogoo](/neptunia/rb1/monster/1-143-metal-dogoo.html) | 15% |
 
 ## Dungeons **Frost L** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
 | <input type="checkbox" id="rb1-dungeon-1-9" class="trackbox" /> | 9 | [Base](/neptunia/rb1/dlc/1-base.html) | [Marubaco Forest](/neptunia/rb1/dungeon/1-9-marubaco-forest.html) | Monster drop |
-
 
 ## Player characters who can equip **Frost L**
 

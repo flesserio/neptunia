@@ -24,20 +24,17 @@ title: "Absolute Zero Ring (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 2000 |
 | **Max inventory** | 99 |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 50 | 0 | 0 |
 
-
 ## Remake System plans which unlock **Absolute Zero Ring** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-404" class="trackbox" /> | 404 | [Base](/neptunia/rb1/dlc/1-base.html) | [Absolute Zero Ring](/neptunia/rb1/remake/1-404-absolute-zero-ring.html)<br /> → [Absolute Zero Ring](/neptunia/rb1/item/1-2730-absolute-zero-ring.html) (Ornament) |
-
+| <input type="checkbox" id="rb1-remake-1-404" class="trackbox" /> | 404 | [Base](/neptunia/rb1/dlc/1-base.html) | [Absolute Zero Ring](/neptunia/rb1/remake/1-404-absolute-zero-ring.html)<br />→ [Absolute Zero Ring](/neptunia/rb1/item/1-2730-absolute-zero-ring.html) (Ornament) |
 
 ## Player characters who can equip **Absolute Zero Ring**
 

@@ -23,13 +23,11 @@ title: "Stone Leek Style (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 25000 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Stone Leek Style** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-426" class="trackbox" /> | 426 | [Base](/neptunia/rb1/dlc/1-base.html) | [Stone Leek Style](/neptunia/rb1/remake/1-426-stone-leek-style.html)<br /> → [Stone Leek Style](/neptunia/rb1/item/1-2832-stone-leek-style.html) (Clothing) |
-
+| <input type="checkbox" id="rb1-remake-1-426" class="trackbox" /> | 426 | [Base](/neptunia/rb1/dlc/1-base.html) | [Stone Leek Style](/neptunia/rb1/remake/1-426-stone-leek-style.html)<br />→ [Stone Leek Style](/neptunia/rb1/item/1-2832-stone-leek-style.html) (Clothing) |
 
 ## Player characters who can equip **Stone Leek Style**
 

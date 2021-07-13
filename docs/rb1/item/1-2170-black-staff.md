@@ -25,13 +25,11 @@ title: "Black Staff (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Weapon skill** | [Break](/neptunia/rb1/skill/1-1803-break.html) |
 | **To unlock in shop** | Method 1<br />- Have Rom & Ram unlocked. |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 1040 | 0 | 1300 | 65 | 0 | 65 | 0 | 0 | 0 | 0 | 0 |
-
 
 ## Player characters who can equip **Black Staff**
 

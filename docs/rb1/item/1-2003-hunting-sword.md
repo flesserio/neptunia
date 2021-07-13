@@ -25,20 +25,17 @@ title: "Hunting Sword (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **Weapon skill** | [Slash](/neptunia/rb1/skill/1-2-slash.html) |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 65 | 0 | 58 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 
-
 ## Dungeons **Hunting Sword** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
-| <input type="checkbox" id="rb1-dungeon-1-2" class="trackbox" /> | 2 | [Base](/neptunia/rb1/dlc/1-base.html) | [Monster Cave](/neptunia/rb1/dungeon/1-2-monster-cave.html) | Gathering point |
-
+| <input type="checkbox" id="rb1-dungeon-1-2" class="trackbox" /> | 2 | [Base](/neptunia/rb1/dlc/1-base.html) | [Monster Cave](/neptunia/rb1/dungeon/1-2-monster-cave.html) | Treasure |
 
 ## Player characters who can equip **Hunting Sword**
 

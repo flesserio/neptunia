@@ -24,20 +24,17 @@ title: "Devil S (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 1000 |
 | **Max inventory** | 99 |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 0 | -15 | -15 | 0 | 60 | 30 | 90 | 7 | -7 | -7 | 7 |
 
-
 ## Remake System plans which unlock **Devil S** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-861" class="trackbox" /> | 861 | [Base](/neptunia/rb1/dlc/1-base.html) | [Devil S](/neptunia/rb1/remake/1-861-devil-s.html)<br /> → [Devil S](/neptunia/rb1/item/1-4440-devil-s.html) (Processor (S)) |
-
+| <input type="checkbox" id="rb1-remake-1-861" class="trackbox" /> | 861 | [Base](/neptunia/rb1/dlc/1-base.html) | [Devil S](/neptunia/rb1/remake/1-861-devil-s.html)<br />→ [Devil S](/neptunia/rb1/item/1-4440-devil-s.html) (Processor (S)) |
 
 ## Player characters who can equip **Devil S**
 

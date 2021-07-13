@@ -23,13 +23,11 @@ title: "Noble Pink Beret (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 1500 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Noble Pink Beret** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-818" class="trackbox" /> | 818 | [Base](/neptunia/rb1/dlc/1-base.html) | [Noble Pink Beret](/neptunia/rb1/remake/1-818-noble-pink-beret.html)<br /> → [Noble Pink Beret](/neptunia/rb1/item/1-3521-noble-pink-beret.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-818" class="trackbox" /> | 818 | [Base](/neptunia/rb1/dlc/1-base.html) | [Noble Pink Beret](/neptunia/rb1/remake/1-818-noble-pink-beret.html)<br />→ [Noble Pink Beret](/neptunia/rb1/item/1-3521-noble-pink-beret.html) (Accessory) |
 
 ## Player characters who can equip **Noble Pink Beret**
 

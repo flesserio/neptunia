@@ -24,20 +24,17 @@ title: "Goddess Bangle (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 6000 |
 | **Max inventory** | 99 |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 0 | 900 | 0 | 900 | 0 | 67 | 67 | 0 | 0 | 0 | 0 |
 
-
 ## Remake System plans which unlock **Goddess Bangle** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-392" class="trackbox" /> | 392 | [Base](/neptunia/rb1/dlc/1-base.html) | [Goddess Bangle](/neptunia/rb1/remake/1-392-goddess-bangle.html)<br /> → [Goddess Bangle](/neptunia/rb1/item/1-2533-goddess-bangle.html) (Armor) |
-
+| <input type="checkbox" id="rb1-remake-1-392" class="trackbox" /> | 392 | [Base](/neptunia/rb1/dlc/1-base.html) | [Goddess Bangle](/neptunia/rb1/remake/1-392-goddess-bangle.html)<br />→ [Goddess Bangle](/neptunia/rb1/item/1-2533-goddess-bangle.html) (Armor) |
 
 ## Player characters who can equip **Goddess Bangle**
 

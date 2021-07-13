@@ -23,16 +23,14 @@ title: "Change Items: Monster Cave (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 0 |
 | **Max inventory** | 1 |
 
-
 ## Chirpers who give **Change Items: Monster Cave**
 
 |    | ID | DLC | Avatar | Message | Conditions |
 | -- | -- | --- | ------ | ------- | ---------- |
-| <input type="checkbox" id="rb1-chirper-event-1-5059" class="trackbox" /> | 5059 | [Base](/neptunia/rb1/dlc/1-base.html) | [Cat](/neptunia/rb1/undefined/1-226-cat.html) | It's a Plan to change the items you can get in a dungeon, nya.<br />Find out what you get with this, nya. | View scene [Chapter 1: Back To The Cave](/neptunia/rb1/scene/1-110-chapter-1-back-to-the-cave.html)<br />Do not view scene [Chapter 3: Off To Leanbox](/neptunia/rb1/scene/1-301-chapter-3-off-to-leanbox.html) |
-
+| <input type="checkbox" id="rb1-chirper-event-1-5059" class="trackbox" /> | 5059 | [Base](/neptunia/rb1/dlc/1-base.html) | [Cat](/neptunia/rb1/avatar/1-226-cat.html) | It's a Plan to change the items you can get in a dungeon, nya.<br />Find out what you get with this, nya. | View scene [Chapter 1: Back To The Cave](/neptunia/rb1/scene/1-110-chapter-1-back-to-the-cave.html)<br />Do not view scene [Chapter 3: Off To Leanbox](/neptunia/rb1/scene/1-301-chapter-3-off-to-leanbox.html) |
 
 ## Plans added to Remake System after collecting **Change Items: Monster Cave**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-277" class="trackbox" /> | 277 | [Base](/neptunia/rb1/dlc/1-base.html) | [Item Change](/neptunia/rb1/remake/1-277-item-change.html)<br /> → [Monster Cave](/neptunia/rb1/dungeon/1-2-monster-cave.html) (Dungeon) |
+| <input type="checkbox" id="rb1-remake-1-277" class="trackbox" /> | 277 | [Base](/neptunia/rb1/dlc/1-base.html) | [Item Change](/neptunia/rb1/remake/1-277-item-change.html)<br />→ [Monster Cave](/neptunia/rb1/dungeon/1-2-monster-cave.html) (Dungeon) |

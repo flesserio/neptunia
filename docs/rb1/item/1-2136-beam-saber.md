@@ -25,20 +25,17 @@ title: "Beam Saber (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **Weapon skill** | [Attack](/neptunia/rb1/skill/1-1001-attack.html) |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 927 | 0 | 742 | 0 | 0 | -75 | 0 | 0 | 0 | 0 | 0 |
 
-
 ## Player characters who have **Beam Saber** equipped by default
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
 | <input type="checkbox" id="rb1-player-1-6" class="trackbox" /> | 6 | [Base](/neptunia/rb1/dlc/1-base.html) | [Nepgear](/neptunia/rb1/player/1-6-nepgear.html) |
-
 
 ## Player characters who can equip **Beam Saber**
 

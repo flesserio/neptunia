@@ -24,22 +24,19 @@ title: "Elegant Crown (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 500 |
 | **Max inventory** | 99 |
 
-
 ## Dungeons **Elegant Crown** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
-| <input type="checkbox" id="rb1-dungeon-1-101" class="trackbox" /> | 101 | [Base](/neptunia/rb1/dlc/1-base.html) | [Zeca Ruins No.1](/neptunia/rb1/dungeon/1-101-zeca-ruins-no-1.html) | Gathering point |
-
+| <input type="checkbox" id="rb1-dungeon-1-101" class="trackbox" /> | 101 | [Base](/neptunia/rb1/dlc/1-base.html) | [Zeca Ruins No.1](/neptunia/rb1/dungeon/1-101-zeca-ruins-no-1.html) | Treasure |
 
 ## Remake System plans which require **Elegant Crown**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-489" class="trackbox" /> | 489 | [Base](/neptunia/rb1/dlc/1-base.html) | [Rune Crown](/neptunia/rb1/quest/1-489-rune-crown.html) |
-| <input type="checkbox" id="rb1-quest-1-490" class="trackbox" /> | 490 | [Base](/neptunia/rb1/dlc/1-base.html) | [Noble Crown](/neptunia/rb1/quest/1-490-noble-crown.html) |
-| <input type="checkbox" id="rb1-quest-1-491" class="trackbox" /> | 491 | [Base](/neptunia/rb1/dlc/1-base.html) | [Royal Crown](/neptunia/rb1/quest/1-491-royal-crown.html) |
-
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-489" class="trackbox" /> | 489 | [Base](/neptunia/rb1/dlc/1-base.html) | [Rune Crown](/neptunia/rb1/remake/1-489-rune-crown.html)<br />→ [Rune Crown](/neptunia/rb1/item/1-3029-rune-crown.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-1-490" class="trackbox" /> | 490 | [Base](/neptunia/rb1/dlc/1-base.html) | [Noble Crown](/neptunia/rb1/remake/1-490-noble-crown.html)<br />→ [Noble Crown](/neptunia/rb1/item/1-3030-noble-crown.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-1-491" class="trackbox" /> | 491 | [Base](/neptunia/rb1/dlc/1-base.html) | [Royal Crown](/neptunia/rb1/remake/1-491-royal-crown.html)<br />→ [Royal Crown](/neptunia/rb1/item/1-3031-royal-crown.html) (Accessory) | 1 |
 
 ## Player characters who can equip **Elegant Crown**
 

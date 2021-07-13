@@ -25,13 +25,11 @@ title: "Metal Jelly (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 235 |
 | **Max inventory** | 99 |
 
-
 ## Monsters which drop **Metal Jelly**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-1-143" class="trackbox" /> | 143 | [Base](/neptunia/rb1/dlc/1-base.html) | [Metal Dogoo](/neptunia/rb1/monster/1-143-metal-dogoo.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-1-143" class="trackbox" /> | 143 | [Base](/neptunia/rb1/dlc/1-base.html) | [Metal Dogoo](/neptunia/rb1/monster/1-143-metal-dogoo.html) | 40% |
 
 ## Dungeons **Metal Jelly** is found
 
@@ -40,17 +38,15 @@ title: "Metal Jelly (Item) - Hyperdimension Neptunia Re;Birth1"
 | <input type="checkbox" id="rb1-dungeon-1-9" class="trackbox" /> | 9 | [Base](/neptunia/rb1/dlc/1-base.html) | [Marubaco Forest](/neptunia/rb1/dungeon/1-9-marubaco-forest.html) | Gathering point |
 | <input type="checkbox" id="rb1-dungeon-1-9" class="trackbox" /> | 9 | [Base](/neptunia/rb1/dlc/1-base.html) | [Marubaco Forest](/neptunia/rb1/dungeon/1-9-marubaco-forest.html) | Monster drop |
 
-
 ## Quests which require gathering **Metal Jelly**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
 | <input type="checkbox" id="rb1-quest-1-303" class="trackbox" /> | 303 | [Base](/neptunia/rb1/dlc/1-base.html) | [Trade Pass](/neptunia/rb1/quest/1-303-trade-pass.html) |
 
-
 ## Remake System plans which require **Metal Jelly**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-282" class="trackbox" /> | 282 | [Base](/neptunia/rb1/dlc/1-base.html) | [Item Change](/neptunia/rb1/quest/1-282-item-change.html) |
-| <input type="checkbox" id="rb1-quest-1-327" class="trackbox" /> | 327 | [Base](/neptunia/rb1/dlc/1-base.html) | [P. SP Charger](/neptunia/rb1/quest/1-327-p-sp-charger.html) |
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-282" class="trackbox" /> | 282 | [Base](/neptunia/rb1/dlc/1-base.html) | [Item Change](/neptunia/rb1/remake/1-282-item-change.html)<br />→ [Marubaco Forest](/neptunia/rb1/dungeon/1-9-marubaco-forest.html) (Dungeon) | 2 |
+| <input type="checkbox" id="rb1-remake-1-327" class="trackbox" /> | 327 | [Base](/neptunia/rb1/dlc/1-base.html) | [P. SP Charger](/neptunia/rb1/remake/1-327-p-sp-charger.html)<br />→ [P. SP Charger](/neptunia/rb1/item/1-15-p-sp-charger.html) (Tool) | 3 |

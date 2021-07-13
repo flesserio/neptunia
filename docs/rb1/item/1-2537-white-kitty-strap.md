@@ -24,20 +24,17 @@ title: "White Kitty Strap (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 0 |
 | **Max inventory** | 99 |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 0 | 1365 | 0 | 1365 | 170 | 170 | 0 | 0 | 0 | 0 | 0 |
 
-
 ## Colosseum quests which reward **White Kitty Strap**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
 | <input type="checkbox" id="rb1-colosseum-1-2011" class="trackbox" /> | 2011 | [Base](/neptunia/rb1/dlc/1-base.html) | [Purgatory](/neptunia/rb1/colosseum/1-2011-purgatory.html) |
-
 
 ## Player characters who can equip **White Kitty Strap**
 

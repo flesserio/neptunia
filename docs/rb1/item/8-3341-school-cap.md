@@ -24,22 +24,19 @@ title: "School Cap (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 125000 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **School Cap** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-8-695" class="trackbox" /> | 695 | [[Peashy] Battle Entry License](/neptunia/rb1/dlc/8-peashy.html) | [School Cap](/neptunia/rb1/remake/8-695-school-cap.html)<br /> → [School Cap](/neptunia/rb1/item/8-3341-school-cap.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-8-695" class="trackbox" /> | 695 | [[Peashy] Battle Entry License](/neptunia/rb1/dlc/8-peashy.html) | [School Cap](/neptunia/rb1/remake/8-695-school-cap.html)<br />→ [School Cap](/neptunia/rb1/item/8-3341-school-cap.html) (Accessory) |
 
 ## Remake System plans which require **School Cap**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-8-696" class="trackbox" /> | 696 | [[Peashy] Battle Entry License](/neptunia/rb1/dlc/8-peashy.html) | [Summer Hat](/neptunia/rb1/quest/8-696-summer-hat.html) |
-| <input type="checkbox" id="rb1-quest-8-697" class="trackbox" /> | 697 | [[Peashy] Battle Entry License](/neptunia/rb1/dlc/8-peashy.html) | [Fancy Hat](/neptunia/rb1/quest/8-697-fancy-hat.html) |
-| <input type="checkbox" id="rb1-quest-8-698" class="trackbox" /> | 698 | [[Peashy] Battle Entry License](/neptunia/rb1/dlc/8-peashy.html) | [Pink Hat](/neptunia/rb1/quest/8-698-pink-hat.html) |
-
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-8-696" class="trackbox" /> | 696 | [[Peashy] Battle Entry License](/neptunia/rb1/dlc/8-peashy.html) | [Summer Hat](/neptunia/rb1/remake/8-696-summer-hat.html)<br />→ [Summer Hat](/neptunia/rb1/item/8-3342-summer-hat.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-8-697" class="trackbox" /> | 697 | [[Peashy] Battle Entry License](/neptunia/rb1/dlc/8-peashy.html) | [Fancy Hat](/neptunia/rb1/remake/8-697-fancy-hat.html)<br />→ [Fancy Hat](/neptunia/rb1/item/8-3343-fancy-hat.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-8-698" class="trackbox" /> | 698 | [[Peashy] Battle Entry License](/neptunia/rb1/dlc/8-peashy.html) | [Pink Hat](/neptunia/rb1/remake/8-698-pink-hat.html)<br />→ [Pink Hat](/neptunia/rb1/item/8-3344-pink-hat.html) (Accessory) | 1 |
 
 ## Player characters who can equip **School Cap**
 

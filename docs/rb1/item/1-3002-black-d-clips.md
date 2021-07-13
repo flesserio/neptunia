@@ -23,7 +23,6 @@ title: "Black D-Clips (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **To unlock in shop** | Method 1<br />- View scene [Chapter 2: Lastation](/neptunia/rb1/scene/1-202-chapter-2-lastation.html) |
 
-
 ## Player characters who can equip **Black D-Clips**
 
 |    | ID | DLC | Name |

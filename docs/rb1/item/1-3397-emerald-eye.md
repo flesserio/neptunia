@@ -23,13 +23,11 @@ title: "Emerald Eye (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 1500 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Emerald Eye** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-736" class="trackbox" /> | 736 | [Base](/neptunia/rb1/dlc/1-base.html) | [Emerald Eye](/neptunia/rb1/remake/1-736-emerald-eye.html)<br /> → [Emerald Eye](/neptunia/rb1/item/1-3397-emerald-eye.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-736" class="trackbox" /> | 736 | [Base](/neptunia/rb1/dlc/1-base.html) | [Emerald Eye](/neptunia/rb1/remake/1-736-emerald-eye.html)<br />→ [Emerald Eye](/neptunia/rb1/item/1-3397-emerald-eye.html) (Accessory) |
 
 ## Player characters who can equip **Emerald Eye**
 

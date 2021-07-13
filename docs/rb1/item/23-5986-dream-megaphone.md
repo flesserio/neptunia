@@ -24,13 +24,11 @@ title: "Dream Megaphone+? (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **Weapon skill** | [Sound Waves](/neptunia/rb1/skill/23-3701-sound-waves.html) |
 
-
 ## Colosseum quests which reward **Dream Megaphone+?**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
 | <input type="checkbox" id="rb1-colosseum-23-5019" class="trackbox" /> | 5019 | [Additional Content Pack 14](/neptunia/rb1/dlc/23-pack14.html) | [Delusion Goddess](/neptunia/rb1/colosseum/23-5019-delusion-goddess.html) |
-
 
 ## Player characters who can equip **Dream Megaphone+?**
 

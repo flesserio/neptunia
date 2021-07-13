@@ -24,26 +24,23 @@ title: "Cat Ears Hat (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 5000 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Cat Ears Hat** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-657" class="trackbox" /> | 657 | [Base](/neptunia/rb1/dlc/1-base.html) | [Cat Ears Hat](/neptunia/rb1/remake/1-657-cat-ears-hat.html)<br /> → [Cat Ears Hat](/neptunia/rb1/item/1-3287-cat-ears-hat.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-657" class="trackbox" /> | 657 | [Base](/neptunia/rb1/dlc/1-base.html) | [Cat Ears Hat](/neptunia/rb1/remake/1-657-cat-ears-hat.html)<br />→ [Cat Ears Hat](/neptunia/rb1/item/1-3287-cat-ears-hat.html) (Accessory) |
 
 ## Remake System plans which require **Cat Ears Hat**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-658" class="trackbox" /> | 658 | [Base](/neptunia/rb1/dlc/1-base.html) | [Black Cat](/neptunia/rb1/quest/1-658-black-cat.html) |
-| <input type="checkbox" id="rb1-quest-1-659" class="trackbox" /> | 659 | [Base](/neptunia/rb1/dlc/1-base.html) | [Pink Cat](/neptunia/rb1/quest/1-659-pink-cat.html) |
-| <input type="checkbox" id="rb1-quest-1-660" class="trackbox" /> | 660 | [Base](/neptunia/rb1/dlc/1-base.html) | [Green Cat](/neptunia/rb1/quest/1-660-green-cat.html) |
-| <input type="checkbox" id="rb1-quest-1-661" class="trackbox" /> | 661 | [Base](/neptunia/rb1/dlc/1-base.html) | [Cat Hat Glasses](/neptunia/rb1/quest/1-661-cat-hat-glasses.html) |
-| <input type="checkbox" id="rb1-quest-1-662" class="trackbox" /> | 662 | [Base](/neptunia/rb1/dlc/1-base.html) | [Black Cat Glasses](/neptunia/rb1/quest/1-662-black-cat-glasses.html) |
-| <input type="checkbox" id="rb1-quest-1-663" class="trackbox" /> | 663 | [Base](/neptunia/rb1/dlc/1-base.html) | [Pink Cat Glasses](/neptunia/rb1/quest/1-663-pink-cat-glasses.html) |
-| <input type="checkbox" id="rb1-quest-1-664" class="trackbox" /> | 664 | [Base](/neptunia/rb1/dlc/1-base.html) | [Green Cat Glasses](/neptunia/rb1/quest/1-664-green-cat-glasses.html) |
-
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-658" class="trackbox" /> | 658 | [Base](/neptunia/rb1/dlc/1-base.html) | [Black Cat](/neptunia/rb1/remake/1-658-black-cat.html)<br />→ [Black Cat](/neptunia/rb1/item/1-3288-black-cat.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-1-659" class="trackbox" /> | 659 | [Base](/neptunia/rb1/dlc/1-base.html) | [Pink Cat](/neptunia/rb1/remake/1-659-pink-cat.html)<br />→ [Pink Cat](/neptunia/rb1/item/1-3289-pink-cat.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-1-660" class="trackbox" /> | 660 | [Base](/neptunia/rb1/dlc/1-base.html) | [Green Cat](/neptunia/rb1/remake/1-660-green-cat.html)<br />→ [Green Cat](/neptunia/rb1/item/1-3290-green-cat.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-1-661" class="trackbox" /> | 661 | [Base](/neptunia/rb1/dlc/1-base.html) | [Cat Hat Glasses](/neptunia/rb1/remake/1-661-cat-hat-glasses.html)<br />→ [Cat Hat Glasses](/neptunia/rb1/item/1-3291-cat-hat-glasses.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-1-662" class="trackbox" /> | 662 | [Base](/neptunia/rb1/dlc/1-base.html) | [Black Cat Glasses](/neptunia/rb1/remake/1-662-black-cat-glasses.html)<br />→ [Black Cat Glasses](/neptunia/rb1/item/1-3292-black-cat-glasses.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-1-663" class="trackbox" /> | 663 | [Base](/neptunia/rb1/dlc/1-base.html) | [Pink Cat Glasses](/neptunia/rb1/remake/1-663-pink-cat-glasses.html)<br />→ [Pink Cat Glasses](/neptunia/rb1/item/1-3293-pink-cat-glasses.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-1-664" class="trackbox" /> | 664 | [Base](/neptunia/rb1/dlc/1-base.html) | [Green Cat Glasses](/neptunia/rb1/remake/1-664-green-cat-glasses.html)<br />→ [Green Cat Glasses](/neptunia/rb1/item/1-3294-green-cat-glasses.html) (Accessory) | 1 |
 
 ## Player characters who can equip **Cat Ears Hat**
 

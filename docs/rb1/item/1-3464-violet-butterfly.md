@@ -24,15 +24,13 @@ title: "Violet Butterfly (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **To unlock in shop** | Method 1<br />- Have Rom & Ram unlocked. |
 
-
 ## Remake System plans which require **Violet Butterfly**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-781" class="trackbox" /> | 781 | [Base](/neptunia/rb1/dlc/1-base.html) | [Aqua Butterfly](/neptunia/rb1/quest/1-781-aqua-butterfly.html) |
-| <input type="checkbox" id="rb1-quest-1-782" class="trackbox" /> | 782 | [Base](/neptunia/rb1/dlc/1-base.html) | [Red Butterfly](/neptunia/rb1/quest/1-782-red-butterfly.html) |
-| <input type="checkbox" id="rb1-quest-1-783" class="trackbox" /> | 783 | [Base](/neptunia/rb1/dlc/1-base.html) | [Green Butterfly](/neptunia/rb1/quest/1-783-green-butterfly.html) |
-
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-781" class="trackbox" /> | 781 | [Base](/neptunia/rb1/dlc/1-base.html) | [Aqua Butterfly](/neptunia/rb1/remake/1-781-aqua-butterfly.html)<br />→ [Aqua Butterfly](/neptunia/rb1/item/1-3465-aqua-butterfly.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-1-782" class="trackbox" /> | 782 | [Base](/neptunia/rb1/dlc/1-base.html) | [Red Butterfly](/neptunia/rb1/remake/1-782-red-butterfly.html)<br />→ [Red Butterfly](/neptunia/rb1/item/1-3466-red-butterfly.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-1-783" class="trackbox" /> | 783 | [Base](/neptunia/rb1/dlc/1-base.html) | [Green Butterfly](/neptunia/rb1/remake/1-783-green-butterfly.html)<br />→ [Green Butterfly](/neptunia/rb1/item/1-3467-green-butterfly.html) (Accessory) | 1 |
 
 ## Player characters who can equip **Violet Butterfly**
 

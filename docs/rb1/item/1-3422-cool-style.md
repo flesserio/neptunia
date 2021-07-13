@@ -24,15 +24,13 @@ title: "Cool Style (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **To unlock in shop** | Method 1<br />- Have Uni unlocked. |
 
-
 ## Remake System plans which require **Cool Style**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-755" class="trackbox" /> | 755 | [Base](/neptunia/rb1/dlc/1-base.html) | [Monochrome Style](/neptunia/rb1/quest/1-755-monochrome-style.html) |
-| <input type="checkbox" id="rb1-quest-1-756" class="trackbox" /> | 756 | [Base](/neptunia/rb1/dlc/1-base.html) | [Cute Style](/neptunia/rb1/quest/1-756-cute-style.html) |
-| <input type="checkbox" id="rb1-quest-1-757" class="trackbox" /> | 757 | [Base](/neptunia/rb1/dlc/1-base.html) | [Fancy Style](/neptunia/rb1/quest/1-757-fancy-style.html) |
-
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-755" class="trackbox" /> | 755 | [Base](/neptunia/rb1/dlc/1-base.html) | [Monochrome Style](/neptunia/rb1/remake/1-755-monochrome-style.html)<br />→ [Monochrome Style](/neptunia/rb1/item/1-3423-monochrome-style.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-1-756" class="trackbox" /> | 756 | [Base](/neptunia/rb1/dlc/1-base.html) | [Cute Style](/neptunia/rb1/remake/1-756-cute-style.html)<br />→ [Cute Style](/neptunia/rb1/item/1-3424-cute-style.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-1-757" class="trackbox" /> | 757 | [Base](/neptunia/rb1/dlc/1-base.html) | [Fancy Style](/neptunia/rb1/remake/1-757-fancy-style.html)<br />→ [Fancy Style](/neptunia/rb1/item/1-3425-fancy-style.html) (Accessory) | 1 |
 
 ## Player characters who can equip **Cool Style**
 

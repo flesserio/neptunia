@@ -25,20 +25,17 @@ title: "Triple Edge (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **Weapon skill** | [Attack](/neptunia/rb1/skill/1-2101-attack.html) |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 249 | 0 | 200 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 
-
 ## Remake System plans which unlock **Triple Edge** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-364" class="trackbox" /> | 364 | [Base](/neptunia/rb1/dlc/1-base.html) | [Triple Edge](/neptunia/rb1/remake/1-364-triple-edge.html)<br /> → [Triple Edge](/neptunia/rb1/item/1-2304-triple-edge.html) (Qatar (IF)) |
-
+| <input type="checkbox" id="rb1-remake-1-364" class="trackbox" /> | 364 | [Base](/neptunia/rb1/dlc/1-base.html) | [Triple Edge](/neptunia/rb1/remake/1-364-triple-edge.html)<br />→ [Triple Edge](/neptunia/rb1/item/1-2304-triple-edge.html) (Qatar (IF)) |
 
 ## Player characters who can equip **Triple Edge**
 

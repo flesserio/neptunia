@@ -23,13 +23,11 @@ title: "Colosseum Unlock (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 0 |
 | **Max inventory** | 1 |
 
-
 ## Chirpers who give **Colosseum Unlock**
 
 |    | ID | DLC | Avatar | Message | Conditions |
 | -- | -- | --- | ------ | ------- | ---------- |
-| <input type="checkbox" id="rb1-chirper-event-1-5202" class="trackbox" /> | 5202 | [Base](/neptunia/rb1/dlc/1-base.html) | [Shiro Pluto](/neptunia/rb1/undefined/1-254-shiro-pluto.html) | I've been waiting for a Plan like this!<br />With this, I'll be able to play forever! | View scene [Chapter 5: Lastation...Again](/neptunia/rb1/scene/1-501-chapter-5-lastation-again.html)<br />Do not view scene [Chapter 7: Revenge Of Momus](/neptunia/rb1/scene/1-727-chapter-7-revenge-of-momus.html) |
-
+| <input type="checkbox" id="rb1-chirper-event-1-5202" class="trackbox" /> | 5202 | [Base](/neptunia/rb1/dlc/1-base.html) | [Shiro Pluto](/neptunia/rb1/avatar/1-254-shiro-pluto.html) | I've been waiting for a Plan like this!<br />With this, I'll be able to play forever! | View scene [Chapter 5: Lastation...Again](/neptunia/rb1/scene/1-501-chapter-5-lastation-again.html)<br />Do not view scene [Chapter 7: Revenge Of Momus](/neptunia/rb1/scene/1-727-chapter-7-revenge-of-momus.html) |
 
 ## Plans added to Remake System after collecting **Colosseum Unlock**
 

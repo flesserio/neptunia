@@ -23,16 +23,14 @@ title: "History (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 10 |
 | **Max inventory** | 99 |
 | **Idea Chip level** | 2 |
-| **Idea Chip ability** | [Gained Credits Up Lv.2](/neptunia/rb1/avatar/1-9663-gained-credits-up-lv-2.html)<br />Increases Gained Credits by 20% |
-
+| **Idea Chip ability** | [Gained Credits Up Lv.2](/neptunia/rb1/ability/1-9663-gained-credits-up-lv-2.html)<br />Increases Gained Credits by 20% |
 
 ## Dungeons **History** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
-| <input type="checkbox" id="rb1-dungeon-1-22" class="trackbox" /> | 22 | [Base](/neptunia/rb1/dlc/1-base.html) | [M-Frontier Cave](/neptunia/rb1/dungeon/1-22-m-frontier-cave.html) | Gathering point |
-| <input type="checkbox" id="rb1-dungeon-1-23" class="trackbox" /> | 23 | [Base](/neptunia/rb1/dlc/1-base.html) | [Gheytz Forest](/neptunia/rb1/dungeon/1-23-gheytz-forest.html) | Gathering point |
-
+| <input type="checkbox" id="rb1-dungeon-1-22" class="trackbox" /> | 22 | [Base](/neptunia/rb1/dlc/1-base.html) | [M-Frontier Cave](/neptunia/rb1/dungeon/1-22-m-frontier-cave.html) | Hidden treasure |
+| <input type="checkbox" id="rb1-dungeon-1-23" class="trackbox" /> | 23 | [Base](/neptunia/rb1/dlc/1-base.html) | [Gheytz Forest](/neptunia/rb1/dungeon/1-23-gheytz-forest.html) | Gathering point (Harvest Shift) |
 
 ## Colosseum quests which reward **History**
 

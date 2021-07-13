@@ -24,20 +24,17 @@ title: "Primrose (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 3000 |
 | **Max inventory** | 99 |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 0 | 0 | 100 | 100 | -100 | 0 | 0 | 0 | 0 | 0 | 0 |
 
-
 ## Remake System plans which unlock **Primrose** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-402" class="trackbox" /> | 402 | [Base](/neptunia/rb1/dlc/1-base.html) | [Primrose](/neptunia/rb1/remake/1-402-primrose.html)<br /> → [Primrose](/neptunia/rb1/item/1-2728-primrose.html) (Ornament) |
-
+| <input type="checkbox" id="rb1-remake-1-402" class="trackbox" /> | 402 | [Base](/neptunia/rb1/dlc/1-base.html) | [Primrose](/neptunia/rb1/remake/1-402-primrose.html)<br />→ [Primrose](/neptunia/rb1/item/1-2728-primrose.html) (Ornament) |
 
 ## Player characters who can equip **Primrose**
 

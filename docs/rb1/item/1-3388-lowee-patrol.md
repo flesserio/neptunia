@@ -23,13 +23,11 @@ title: "Lowee Patrol (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 2500 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Lowee Patrol** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-729" class="trackbox" /> | 729 | [Base](/neptunia/rb1/dlc/1-base.html) | [Lowee Patrol](/neptunia/rb1/remake/1-729-lowee-patrol.html)<br /> → [Lowee Patrol](/neptunia/rb1/item/1-3388-lowee-patrol.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-729" class="trackbox" /> | 729 | [Base](/neptunia/rb1/dlc/1-base.html) | [Lowee Patrol](/neptunia/rb1/remake/1-729-lowee-patrol.html)<br />→ [Lowee Patrol](/neptunia/rb1/item/1-3388-lowee-patrol.html) (Accessory) |
 
 ## Player characters who can equip **Lowee Patrol**
 

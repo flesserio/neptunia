@@ -23,13 +23,11 @@ title: "Black Light (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 2500 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Black Light** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-648" class="trackbox" /> | 648 | [Base](/neptunia/rb1/dlc/1-base.html) | [Black Light](/neptunia/rb1/remake/1-648-black-light.html)<br /> → [Black Light](/neptunia/rb1/item/1-3268-black-light.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-648" class="trackbox" /> | 648 | [Base](/neptunia/rb1/dlc/1-base.html) | [Black Light](/neptunia/rb1/remake/1-648-black-light.html)<br />→ [Black Light](/neptunia/rb1/item/1-3268-black-light.html) (Accessory) |
 
 ## Player characters who can equip **Black Light**
 

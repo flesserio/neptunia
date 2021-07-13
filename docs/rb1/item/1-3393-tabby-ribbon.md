@@ -23,13 +23,11 @@ title: "Tabby Ribbon (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 2500 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Tabby Ribbon** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-733" class="trackbox" /> | 733 | [Base](/neptunia/rb1/dlc/1-base.html) | [Tabby Ribbon](/neptunia/rb1/remake/1-733-tabby-ribbon.html)<br /> → [Tabby Ribbon](/neptunia/rb1/item/1-3393-tabby-ribbon.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-733" class="trackbox" /> | 733 | [Base](/neptunia/rb1/dlc/1-base.html) | [Tabby Ribbon](/neptunia/rb1/remake/1-733-tabby-ribbon.html)<br />→ [Tabby Ribbon](/neptunia/rb1/item/1-3393-tabby-ribbon.html) (Accessory) |
 
 ## Player characters who can equip **Tabby Ribbon**
 

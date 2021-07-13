@@ -25,27 +25,23 @@ title: "Noire's Ring (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 0 |
 | **Max inventory** | 99 |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 125 | 2500 | 125 | 2500 | 125 | 125 | -125 | 0 | 0 | 0 | 0 |
 
-
 ## Monsters which drop **Noire's Ring**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-16-1071" class="trackbox" /> | 1071 | [Additional Content Pack 7](/neptunia/rb1/dlc/16-pack7.html) | [Fenrir](/neptunia/rb1/monster/16-1071-fenrir.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-16-1071" class="trackbox" /> | 1071 | [Additional Content Pack 7](/neptunia/rb1/dlc/16-pack7.html) | [Fenrir](/neptunia/rb1/monster/16-1071-fenrir.html) | 60% |
 
 ## Dungeons **Noire's Ring** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
 | <input type="checkbox" id="rb1-dungeon-16-130" class="trackbox" /> | 130 | [Additional Content Pack 7](/neptunia/rb1/dlc/16-pack7.html) | [Ario Plateau](/neptunia/rb1/dungeon/16-130-ario-plateau.html) | Monster drop |
-
 
 ## Player characters who can equip **Noire's Ring**
 

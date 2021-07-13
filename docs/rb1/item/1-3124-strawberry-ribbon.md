@@ -25,13 +25,11 @@ title: "Strawberry Ribbon (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 500 |
 | **Max inventory** | 99 |
 
-
 ## Monsters which drop **Strawberry Ribbon**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-1-122" class="trackbox" /> | 122 | [Base](/neptunia/rb1/dlc/1-base.html) | [Spider](/neptunia/rb1/monster/1-122-spider.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-1-122" class="trackbox" /> | 122 | [Base](/neptunia/rb1/dlc/1-base.html) | [Spider](/neptunia/rb1/monster/1-122-spider.html) | 15% |
 
 ## Dungeons **Strawberry Ribbon** is found
 
@@ -39,15 +37,13 @@ title: "Strawberry Ribbon (Item) - Hyperdimension Neptunia Re;Birth1"
 | -- | -- | --- | ---- | ---- |
 | <input type="checkbox" id="rb1-dungeon-1-5" class="trackbox" /> | 5 | [Base](/neptunia/rb1/dlc/1-base.html) | [Thelad Sanctuary](/neptunia/rb1/dungeon/1-5-thelad-sanctuary.html) | Monster drop |
 
-
 ## Remake System plans which require **Strawberry Ribbon**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-557" class="trackbox" /> | 557 | [Base](/neptunia/rb1/dlc/1-base.html) | [Strawberry Milk](/neptunia/rb1/quest/1-557-strawberry-milk.html) |
-| <input type="checkbox" id="rb1-quest-1-558" class="trackbox" /> | 558 | [Base](/neptunia/rb1/dlc/1-base.html) | [Radish Ribbon](/neptunia/rb1/quest/1-558-radish-ribbon.html) |
-| <input type="checkbox" id="rb1-quest-1-559" class="trackbox" /> | 559 | [Base](/neptunia/rb1/dlc/1-base.html) | [Carrot Ribbon](/neptunia/rb1/quest/1-559-carrot-ribbon.html) |
-
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-557" class="trackbox" /> | 557 | [Base](/neptunia/rb1/dlc/1-base.html) | [Strawberry Milk](/neptunia/rb1/remake/1-557-strawberry-milk.html)<br />→ [Strawberry Milk](/neptunia/rb1/item/1-3125-strawberry-milk.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-1-558" class="trackbox" /> | 558 | [Base](/neptunia/rb1/dlc/1-base.html) | [Radish Ribbon](/neptunia/rb1/remake/1-558-radish-ribbon.html)<br />→ [Radish Ribbon](/neptunia/rb1/item/1-3126-radish-ribbon.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-1-559" class="trackbox" /> | 559 | [Base](/neptunia/rb1/dlc/1-base.html) | [Carrot Ribbon](/neptunia/rb1/remake/1-559-carrot-ribbon.html)<br />→ [Carrot Ribbon](/neptunia/rb1/item/1-3127-carrot-ribbon.html) (Accessory) | 1 |
 
 ## Player characters who can equip **Strawberry Ribbon**
 

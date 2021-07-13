@@ -24,22 +24,19 @@ title: "Demon Pendant (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 500 |
 | **Max inventory** | 99 |
 
-
 ## Quests which reward **Demon Pendant**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
 | <input type="checkbox" id="rb1-quest-1-412" class="trackbox" /> | 412 | [Base](/neptunia/rb1/dlc/1-base.html) | [The star-seeker](/neptunia/rb1/quest/1-412-the-star-seeker.html) |
 
-
 ## Remake System plans which require **Demon Pendant**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-504" class="trackbox" /> | 504 | [Base](/neptunia/rb1/dlc/1-base.html) | [Rose Devil](/neptunia/rb1/quest/1-504-rose-devil.html) |
-| <input type="checkbox" id="rb1-quest-1-505" class="trackbox" /> | 505 | [Base](/neptunia/rb1/dlc/1-base.html) | [Sweet Devil](/neptunia/rb1/quest/1-505-sweet-devil.html) |
-| <input type="checkbox" id="rb1-quest-1-506" class="trackbox" /> | 506 | [Base](/neptunia/rb1/dlc/1-base.html) | [Blue Devil](/neptunia/rb1/quest/1-506-blue-devil.html) |
-
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-504" class="trackbox" /> | 504 | [Base](/neptunia/rb1/dlc/1-base.html) | [Rose Devil](/neptunia/rb1/remake/1-504-rose-devil.html)<br />→ [Rose Devil](/neptunia/rb1/item/1-3049-rose-devil.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-1-505" class="trackbox" /> | 505 | [Base](/neptunia/rb1/dlc/1-base.html) | [Sweet Devil](/neptunia/rb1/remake/1-505-sweet-devil.html)<br />→ [Sweet Devil](/neptunia/rb1/item/1-3050-sweet-devil.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-1-506" class="trackbox" /> | 506 | [Base](/neptunia/rb1/dlc/1-base.html) | [Blue Devil](/neptunia/rb1/remake/1-506-blue-devil.html)<br />→ [Blue Devil](/neptunia/rb1/item/1-3051-blue-devil.html) (Accessory) | 1 |
 
 ## Player characters who can equip **Demon Pendant**
 

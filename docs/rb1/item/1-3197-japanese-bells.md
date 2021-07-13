@@ -23,13 +23,11 @@ title: "Japanese Bells (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 5000 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Japanese Bells** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-603" class="trackbox" /> | 603 | [Base](/neptunia/rb1/dlc/1-base.html) | [Japanese Bells](/neptunia/rb1/remake/1-603-japanese-bells.html)<br /> → [Japanese Bells](/neptunia/rb1/item/1-3197-japanese-bells.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-603" class="trackbox" /> | 603 | [Base](/neptunia/rb1/dlc/1-base.html) | [Japanese Bells](/neptunia/rb1/remake/1-603-japanese-bells.html)<br />→ [Japanese Bells](/neptunia/rb1/item/1-3197-japanese-bells.html) (Accessory) |
 
 ## Player characters who can equip **Japanese Bells**
 

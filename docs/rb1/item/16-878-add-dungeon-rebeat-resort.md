@@ -23,16 +23,14 @@ title: "Add Dungeon: Rebeat Resort (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 0 |
 | **Max inventory** | 1 |
 
-
 ## Chirpers who give **Add Dungeon: Rebeat Resort**
 
 |    | ID | DLC | Avatar | Message | Conditions |
 | -- | -- | --- | ------ | ------- | ---------- |
-| <input type="checkbox" id="rb1-chirper-event-16-5233" class="trackbox" /> | 5233 | [Additional Content Pack 7](/neptunia/rb1/dlc/16-pack7.html) | [Gramp Monster](/neptunia/rb1/undefined/1-243-gramp-monster.html) | Let me give you this.<br />Please stop hounding me. | Obtain item [Add Dungeon: Rebeat Resort](/neptunia/rb1/item/16-878-add-dungeon-rebeat-resort.html) |
-
+| <input type="checkbox" id="rb1-chirper-event-16-5233" class="trackbox" /> | 5233 | [Additional Content Pack 7](/neptunia/rb1/dlc/16-pack7.html) | [Gramp Monster](/neptunia/rb1/avatar/1-243-gramp-monster.html) | Let me give you this.<br />Please stop hounding me. | Obtain item [Add Dungeon: Rebeat Resort](/neptunia/rb1/item/16-878-add-dungeon-rebeat-resort.html) |
 
 ## Plans added to Remake System after collecting **Add Dungeon: Rebeat Resort**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-16-901" class="trackbox" /> | 901 | [Additional Content Pack 7](/neptunia/rb1/dlc/16-pack7.html) | [Add Dungeon](/neptunia/rb1/remake/16-901-add-dungeon.html)<br /> → [Rebeat Resort](/neptunia/rb1/dungeon/16-131-rebeat-resort.html) (Dungeon) |
+| <input type="checkbox" id="rb1-remake-16-901" class="trackbox" /> | 901 | [Additional Content Pack 7](/neptunia/rb1/dlc/16-pack7.html) | [Add Dungeon](/neptunia/rb1/remake/16-901-add-dungeon.html)<br />→ [Rebeat Resort](/neptunia/rb1/dungeon/16-131-rebeat-resort.html) (Dungeon) |

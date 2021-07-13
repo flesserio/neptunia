@@ -23,13 +23,11 @@ title: "Neptuna Clothes (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 750000 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Neptuna Clothes** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-8-439" class="trackbox" /> | 439 | [[Peashy] Battle Entry License](/neptunia/rb1/dlc/8-peashy.html) | [Neptuna Clothes](/neptunia/rb1/remake/8-439-neptuna-clothes.html)<br /> → [Neptuna Clothes](/neptunia/rb1/item/8-2880-neptuna-clothes.html) (Clothing) |
-
+| <input type="checkbox" id="rb1-remake-8-439" class="trackbox" /> | 439 | [[Peashy] Battle Entry License](/neptunia/rb1/dlc/8-peashy.html) | [Neptuna Clothes](/neptunia/rb1/remake/8-439-neptuna-clothes.html)<br />→ [Neptuna Clothes](/neptunia/rb1/item/8-2880-neptuna-clothes.html) (Clothing) |
 
 ## Player characters who can equip **Neptuna Clothes**
 

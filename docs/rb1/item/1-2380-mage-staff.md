@@ -25,20 +25,17 @@ title: "Mage Staff (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 1 |
 | **Weapon skill** | [Shine](/neptunia/rb1/skill/1-2801-shine.html) |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 302 | 0 | 367 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 
-
 ## Player characters who have **Mage Staff** equipped by default
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
 | <input type="checkbox" id="rb1-player-1-14" class="trackbox" /> | 14 | [Base](/neptunia/rb1/dlc/1-base.html) | [MAGES.](/neptunia/rb1/player/1-14-mages.html) |
-
 
 ## Player characters who can equip **Mage Staff**
 

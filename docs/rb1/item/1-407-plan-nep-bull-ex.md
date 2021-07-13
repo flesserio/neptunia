@@ -23,16 +23,14 @@ title: "Plan: Nep Bull EX (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 0 |
 | **Max inventory** | 1 |
 
-
 ## Chirpers who give **Plan: Nep Bull EX**
 
 |    | ID | DLC | Avatar | Message | Conditions |
 | -- | -- | --- | ------ | ------- | ---------- |
-| <input type="checkbox" id="rb1-chirper-event-1-19" class="trackbox" /> | 19 | [Base](/neptunia/rb1/dlc/1-base.html) | [Neptune](/neptunia/rb1/undefined/1-30-neptune.html) | I came up with an innovative item!<br />The bosses are a cinch with this! Game breaker!<br />Here's a Plan so give it a shot! | View scene [Chapter 6: Back To Origins](/neptunia/rb1/scene/1-607-chapter-6-back-to-origins.html)<br />Have Nepgear unlocked.<br />Do not view scene [Chapter 8: The True Arfoire](/neptunia/rb1/scene/1-807-chapter-8-the-true-arfoire.html) |
-
+| <input type="checkbox" id="rb1-chirper-event-1-19" class="trackbox" /> | 19 | [Base](/neptunia/rb1/dlc/1-base.html) | [Neptune](/neptunia/rb1/avatar/1-30-neptune.html) | I came up with an innovative item!<br />The bosses are a cinch with this! Game breaker!<br />Here's a Plan so give it a shot! | View scene [Chapter 6: Back To Origins](/neptunia/rb1/scene/1-607-chapter-6-back-to-origins.html)<br />Have Nepgear unlocked.<br />Do not view scene [Chapter 8: The True Arfoire](/neptunia/rb1/scene/1-807-chapter-8-the-true-arfoire.html) |
 
 ## Plans added to Remake System after collecting **Plan: Nep Bull EX**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-321" class="trackbox" /> | 321 | [Base](/neptunia/rb1/dlc/1-base.html) | [Nep Bull EX](/neptunia/rb1/remake/1-321-nep-bull-ex.html)<br /> → [Nep Bull EX](/neptunia/rb1/item/1-8-nep-bull-ex.html) (Tool) |
+| <input type="checkbox" id="rb1-remake-1-321" class="trackbox" /> | 321 | [Base](/neptunia/rb1/dlc/1-base.html) | [Nep Bull EX](/neptunia/rb1/remake/1-321-nep-bull-ex.html)<br />→ [Nep Bull EX](/neptunia/rb1/item/1-8-nep-bull-ex.html) (Tool) |

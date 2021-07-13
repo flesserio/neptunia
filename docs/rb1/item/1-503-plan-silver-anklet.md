@@ -23,16 +23,14 @@ title: "Plan: Silver Anklet (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 0 |
 | **Max inventory** | 1 |
 
-
 ## Plans added to Remake System after collecting **Plan: Silver Anklet**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-398" class="trackbox" /> | 398 | [Base](/neptunia/rb1/dlc/1-base.html) | [Silver Anklet](/neptunia/rb1/remake/1-398-silver-anklet.html)<br /> → [Silver Anklet](/neptunia/rb1/item/1-2724-silver-anklet.html) (Ornament) |
-
+| <input type="checkbox" id="rb1-remake-1-398" class="trackbox" /> | 398 | [Base](/neptunia/rb1/dlc/1-base.html) | [Silver Anklet](/neptunia/rb1/remake/1-398-silver-anklet.html)<br />→ [Silver Anklet](/neptunia/rb1/item/1-2724-silver-anklet.html) (Ornament) |
 
 ## Dungeons **Plan: Silver Anklet** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
-| <input type="checkbox" id="rb1-dungeon-1-12" class="trackbox" /> | 12 | [Base](/neptunia/rb1/dlc/1-base.html) | [Lowee Snowfield](/neptunia/rb1/dungeon/1-12-lowee-snowfield.html) | Gathering point |
+| <input type="checkbox" id="rb1-dungeon-1-12" class="trackbox" /> | 12 | [Base](/neptunia/rb1/dlc/1-base.html) | [Lowee Snowfield](/neptunia/rb1/dungeon/1-12-lowee-snowfield.html) | Treasure |

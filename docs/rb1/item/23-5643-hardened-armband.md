@@ -24,20 +24,17 @@ title: "Hardened Armband (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 0 |
 | **Max inventory** | 99 |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 0 | 35 | 0 | 35 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 
-
 ## Player characters who have **Hardened Armband** equipped by default
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
 | <input type="checkbox" id="rb1-player-23-22" class="trackbox" /> | 22 | [Additional Content Pack 14](/neptunia/rb1/dlc/23-pack14.html) | [Uzume Tennouboshi](/neptunia/rb1/player/23-22-uzume-tennouboshi.html) |
-
 
 ## Player characters who can equip **Hardened Armband**
 

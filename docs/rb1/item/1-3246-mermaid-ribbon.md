@@ -23,13 +23,11 @@ title: "Mermaid Ribbon (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 2500 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Mermaid Ribbon** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-632" class="trackbox" /> | 632 | [Base](/neptunia/rb1/dlc/1-base.html) | [Mermaid Ribbon](/neptunia/rb1/remake/1-632-mermaid-ribbon.html)<br /> → [Mermaid Ribbon](/neptunia/rb1/item/1-3246-mermaid-ribbon.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-632" class="trackbox" /> | 632 | [Base](/neptunia/rb1/dlc/1-base.html) | [Mermaid Ribbon](/neptunia/rb1/remake/1-632-mermaid-ribbon.html)<br />→ [Mermaid Ribbon](/neptunia/rb1/item/1-3246-mermaid-ribbon.html) (Accessory) |
 
 ## Player characters who can equip **Mermaid Ribbon**
 

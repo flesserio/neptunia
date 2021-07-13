@@ -23,16 +23,14 @@ title: "Add Enemies: Donkong Ruins (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 0 |
 | **Max inventory** | 1 |
 
-
 ## Chirpers who give **Add Enemies: Donkong Ruins**
 
 |    | ID | DLC | Avatar | Message | Conditions |
 | -- | -- | --- | ------ | ------- | ---------- |
-| <input type="checkbox" id="rb1-chirper-event-1-5157" class="trackbox" /> | 5157 | [Base](/neptunia/rb1/dlc/1-base.html) | [Gramp Monster](/neptunia/rb1/undefined/1-243-gramp-monster.html) | Here's a Plan for you that will summon stronger monsters.<br />I want a nice, cute gal! | Have remake [Add Dungeon](/neptunia/rb1/remake/1-216-add-dungeon.html) developed<br />View scene [Chapter 4: Blanc In Disguise](/neptunia/rb1/scene/1-412-chapter-4-blanc-in-disguise.html)<br />Do not view scene [Chapter 6: 128th Where's Histy Summit](/neptunia/rb1/scene/1-601-chapter-6-128th-wheres-histy-summit.html) |
-
+| <input type="checkbox" id="rb1-chirper-event-1-5157" class="trackbox" /> | 5157 | [Base](/neptunia/rb1/dlc/1-base.html) | [Gramp Monster](/neptunia/rb1/avatar/1-243-gramp-monster.html) | Here's a Plan for you that will summon stronger monsters.<br />I want a nice, cute gal! | Have remake [Add Dungeon](/neptunia/rb1/remake/1-216-add-dungeon.html) developed<br />View scene [Chapter 4: Blanc In Disguise](/neptunia/rb1/scene/1-412-chapter-4-blanc-in-disguise.html)<br />Do not view scene [Chapter 6: 128th Where's Histy Summit](/neptunia/rb1/scene/1-601-chapter-6-128th-wheres-histy-summit.html) |
 
 ## Plans added to Remake System after collecting **Add Enemies: Donkong Ruins**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-253" class="trackbox" /> | 253 | [Base](/neptunia/rb1/dlc/1-base.html) | [Add Enemies](/neptunia/rb1/remake/1-253-add-enemies.html)<br /> → [Donkong Ruins](/neptunia/rb1/dungeon/1-110-donkong-ruins.html) (Dungeon) |
+| <input type="checkbox" id="rb1-remake-1-253" class="trackbox" /> | 253 | [Base](/neptunia/rb1/dlc/1-base.html) | [Add Enemies](/neptunia/rb1/remake/1-253-add-enemies.html)<br />→ [Donkong Ruins](/neptunia/rb1/dungeon/1-110-donkong-ruins.html) (Dungeon) |

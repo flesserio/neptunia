@@ -23,16 +23,14 @@ title: "Plan: Soda (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 0 |
 | **Max inventory** | 1 |
 
-
 ## Plans added to Remake System after collecting **Plan: Soda**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-359" class="trackbox" /> | 359 | [Base](/neptunia/rb1/dlc/1-base.html) | [Soda](/neptunia/rb1/remake/1-359-soda.html)<br /> → [Soda](/neptunia/rb1/item/1-2332-soda.html) (Syringe (Compa)) |
-
+| <input type="checkbox" id="rb1-remake-1-359" class="trackbox" /> | 359 | [Base](/neptunia/rb1/dlc/1-base.html) | [Soda](/neptunia/rb1/remake/1-359-soda.html)<br />→ [Soda](/neptunia/rb1/item/1-2332-soda.html) (Syringe (Compa)) |
 
 ## Dungeons **Plan: Soda** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
-| <input type="checkbox" id="rb1-dungeon-1-106" class="trackbox" /> | 106 | [Base](/neptunia/rb1/dlc/1-base.html) | [Gravidaze Ruins](/neptunia/rb1/dungeon/1-106-gravidaze-ruins.html) | Gathering point |
+| <input type="checkbox" id="rb1-dungeon-1-106" class="trackbox" /> | 106 | [Base](/neptunia/rb1/dlc/1-base.html) | [Gravidaze Ruins](/neptunia/rb1/dungeon/1-106-gravidaze-ruins.html) | Treasure |

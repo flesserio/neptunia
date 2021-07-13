@@ -24,13 +24,11 @@ title: "Cyber Edge+2 (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **Weapon skill** | [Slash](/neptunia/rb1/skill/1-2602-slash.html) |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 60 | 0 | 60 | 492 | 0 | 480 | 0 | 9 | 9 | 0 | 0 | 0 | 0 | 0 |
-
 
 ## Player characters who can equip **Cyber Edge+2**
 

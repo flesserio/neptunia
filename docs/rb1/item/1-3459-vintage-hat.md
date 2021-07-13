@@ -23,13 +23,11 @@ title: "Vintage Hat (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 5000 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Vintage Hat** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-777" class="trackbox" /> | 777 | [Base](/neptunia/rb1/dlc/1-base.html) | [Vintage Hat](/neptunia/rb1/remake/1-777-vintage-hat.html)<br /> → [Vintage Hat](/neptunia/rb1/item/1-3459-vintage-hat.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-777" class="trackbox" /> | 777 | [Base](/neptunia/rb1/dlc/1-base.html) | [Vintage Hat](/neptunia/rb1/remake/1-777-vintage-hat.html)<br />→ [Vintage Hat](/neptunia/rb1/item/1-3459-vintage-hat.html) (Accessory) |
 
 ## Player characters who can equip **Vintage Hat**
 

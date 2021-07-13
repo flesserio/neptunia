@@ -23,13 +23,11 @@ title: "Pink Sweets (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 2500 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Pink Sweets** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-692" class="trackbox" /> | 692 | [Base](/neptunia/rb1/dlc/1-base.html) | [Pink Sweets](/neptunia/rb1/remake/1-692-pink-sweets.html)<br /> → [Pink Sweets](/neptunia/rb1/item/1-3329-pink-sweets.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-692" class="trackbox" /> | 692 | [Base](/neptunia/rb1/dlc/1-base.html) | [Pink Sweets](/neptunia/rb1/remake/1-692-pink-sweets.html)<br />→ [Pink Sweets](/neptunia/rb1/item/1-3329-pink-sweets.html) (Accessory) |
 
 ## Player characters who can equip **Pink Sweets**
 

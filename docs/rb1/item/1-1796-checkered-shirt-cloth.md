@@ -24,13 +24,11 @@ title: "Checkered Shirt Cloth (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 2 |
 | **Max inventory** | 99 |
 
-
 ## Monsters which drop **Checkered Shirt Cloth**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-1-108" class="trackbox" /> | 108 | [Base](/neptunia/rb1/dlc/1-base.html) | [Super Otaku](/neptunia/rb1/monster/1-108-super-otaku.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-1-108" class="trackbox" /> | 108 | [Base](/neptunia/rb1/dlc/1-base.html) | [Super Otaku](/neptunia/rb1/monster/1-108-super-otaku.html) | 40% |
 
 ## Dungeons **Checkered Shirt Cloth** is found
 
@@ -39,11 +37,10 @@ title: "Checkered Shirt Cloth (Item) - Hyperdimension Neptunia Re;Birth1"
 | <input type="checkbox" id="rb1-dungeon-1-2" class="trackbox" /> | 2 | [Base](/neptunia/rb1/dlc/1-base.html) | [Monster Cave](/neptunia/rb1/dungeon/1-2-monster-cave.html) | Gathering point |
 | <input type="checkbox" id="rb1-dungeon-1-2" class="trackbox" /> | 2 | [Base](/neptunia/rb1/dlc/1-base.html) | [Monster Cave](/neptunia/rb1/dungeon/1-2-monster-cave.html) | Monster drop |
 
-
 ## Remake System plans which require **Checkered Shirt Cloth**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-229" class="trackbox" /> | 229 | [Base](/neptunia/rb1/dlc/1-base.html) | [Add Enemies](/neptunia/rb1/quest/1-229-add-enemies.html) |
-| <input type="checkbox" id="rb1-quest-1-277" class="trackbox" /> | 277 | [Base](/neptunia/rb1/dlc/1-base.html) | [Item Change](/neptunia/rb1/quest/1-277-item-change.html) |
-| <input type="checkbox" id="rb1-quest-1-471" class="trackbox" /> | 471 | [Base](/neptunia/rb1/dlc/1-base.html) | [White Cat Ears](/neptunia/rb1/quest/1-471-white-cat-ears.html) |
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-229" class="trackbox" /> | 229 | [Base](/neptunia/rb1/dlc/1-base.html) | [Add Enemies](/neptunia/rb1/remake/1-229-add-enemies.html)<br />→ [West Wind Valley](/neptunia/rb1/dungeon/1-3-west-wind-valley.html) (Dungeon) | 3 |
+| <input type="checkbox" id="rb1-remake-1-277" class="trackbox" /> | 277 | [Base](/neptunia/rb1/dlc/1-base.html) | [Item Change](/neptunia/rb1/remake/1-277-item-change.html)<br />→ [Monster Cave](/neptunia/rb1/dungeon/1-2-monster-cave.html) (Dungeon) | 2 |
+| <input type="checkbox" id="rb1-remake-1-471" class="trackbox" /> | 471 | [Base](/neptunia/rb1/dlc/1-base.html) | [White Cat Ears](/neptunia/rb1/remake/1-471-white-cat-ears.html)<br />→ [White Cat Ears](/neptunia/rb1/item/1-3008-white-cat-ears.html) (Accessory) | 1 |

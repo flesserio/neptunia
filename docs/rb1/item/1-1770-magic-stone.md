@@ -24,13 +24,11 @@ title: "Magic Stone (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 236 |
 | **Max inventory** | 99 |
 
-
 ## Monsters which drop **Magic Stone**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-1-133" class="trackbox" /> | 133 | [Base](/neptunia/rb1/dlc/1-base.html) | [R4i-SDHC](/neptunia/rb1/monster/1-133-r4i-sdhc.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-1-133" class="trackbox" /> | 133 | [Base](/neptunia/rb1/dlc/1-base.html) | [R4i-SDHC](/neptunia/rb1/monster/1-133-r4i-sdhc.html) | 55% |
 
 ## Dungeons **Magic Stone** is found
 
@@ -39,9 +37,8 @@ title: "Magic Stone (Item) - Hyperdimension Neptunia Re;Birth1"
 | <input type="checkbox" id="rb1-dungeon-1-6" class="trackbox" /> | 6 | [Base](/neptunia/rb1/dlc/1-base.html) | [Avenir Storage No.3](/neptunia/rb1/dungeon/1-6-avenir-storage-no-3.html) | Gathering point |
 | <input type="checkbox" id="rb1-dungeon-1-6" class="trackbox" /> | 6 | [Base](/neptunia/rb1/dlc/1-base.html) | [Avenir Storage No.3](/neptunia/rb1/dungeon/1-6-avenir-storage-no-3.html) | Monster drop |
 
-
 ## Remake System plans which require **Magic Stone**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-232" class="trackbox" /> | 232 | [Base](/neptunia/rb1/dlc/1-base.html) | [Add Enemies](/neptunia/rb1/quest/1-232-add-enemies.html) |
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-232" class="trackbox" /> | 232 | [Base](/neptunia/rb1/dlc/1-base.html) | [Add Enemies](/neptunia/rb1/remake/1-232-add-enemies.html)<br />→ [MS Mountain](/neptunia/rb1/dungeon/1-8-ms-mountain.html) (Dungeon)<br />→ [MS Mountain Peak](/neptunia/rb1/dungeon/1-26-ms-mountain-peak.html) (Dungeon) | 1 |

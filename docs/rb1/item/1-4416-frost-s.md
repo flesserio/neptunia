@@ -25,20 +25,17 @@ title: "Frost S (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 500 |
 | **Max inventory** | 99 |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 0 | -10 | -10 | 0 | 30 | 15 | 45 | -7 | 15 | 0 | 0 |
 
-
 ## Monsters which drop **Frost S**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-1-140" class="trackbox" /> | 140 | [Base](/neptunia/rb1/dlc/1-base.html) | [Dolphin](/neptunia/rb1/monster/1-140-dolphin.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-1-140" class="trackbox" /> | 140 | [Base](/neptunia/rb1/dlc/1-base.html) | [Dolphin](/neptunia/rb1/monster/1-140-dolphin.html) | 75% |
 
 ## Dungeons **Frost S** is found
 
@@ -46,7 +43,6 @@ title: "Frost S (Item) - Hyperdimension Neptunia Re;Birth1"
 | -- | -- | --- | ---- | ---- |
 | <input type="checkbox" id="rb1-dungeon-1-8" class="trackbox" /> | 8 | [Base](/neptunia/rb1/dlc/1-base.html) | [MS Mountain](/neptunia/rb1/dungeon/1-8-ms-mountain.html) | Monster drop |
 | <input type="checkbox" id="rb1-dungeon-1-26" class="trackbox" /> | 26 | [Base](/neptunia/rb1/dlc/1-base.html) | [MS Mountain Peak](/neptunia/rb1/dungeon/1-26-ms-mountain-peak.html) | Monster drop |
-
 
 ## Player characters who can equip **Frost S**
 

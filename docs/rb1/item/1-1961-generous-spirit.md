@@ -24,13 +24,11 @@ title: "Generous Spirit (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 10000 |
 | **Max inventory** | 99 |
 
-
 ## Monsters which drop **Generous Spirit**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-1-376" class="trackbox" /> | 376 | [Base](/neptunia/rb1/dlc/1-base.html) | [Clione](/neptunia/rb1/monster/1-376-clione.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-1-376" class="trackbox" /> | 376 | [Base](/neptunia/rb1/dlc/1-base.html) | [Clione](/neptunia/rb1/monster/1-376-clione.html) | 45% |
 
 ## Dungeons **Generous Spirit** is found
 
@@ -38,9 +36,8 @@ title: "Generous Spirit (Item) - Hyperdimension Neptunia Re;Birth1"
 | -- | -- | --- | ---- | ---- |
 | <input type="checkbox" id="rb1-dungeon-1-120" class="trackbox" /> | 120 | [Base](/neptunia/rb1/dlc/1-base.html) | [Zeca Ruins No.2](/neptunia/rb1/dungeon/1-120-zeca-ruins-no-2.html) | Monster drop |
 
-
 ## Remake System plans which require **Generous Spirit**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-12-272" class="trackbox" /> | 272 | [Additional Content Package 3](/neptunia/rb1/dlc/12-pack3.html) | [Add Super Enemies](/neptunia/rb1/quest/12-272-add-super-enemies.html) |
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-12-272" class="trackbox" /> | 272 | [Additional Content Package 3](/neptunia/rb1/dlc/12-pack3.html) | [Add Super Enemies](/neptunia/rb1/remake/12-272-add-super-enemies.html)<br />→ [Zeca Ruins No.2](/neptunia/rb1/dungeon/1-120-zeca-ruins-no-2.html) (Dungeon) | 1 |

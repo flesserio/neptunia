@@ -23,13 +23,11 @@ title: "Rose Devil (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 100000 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Rose Devil** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-8-721" class="trackbox" /> | 721 | [[Peashy] Battle Entry License](/neptunia/rb1/dlc/8-peashy.html) | [Rose Devil](/neptunia/rb1/remake/8-721-rose-devil.html)<br /> → [Rose Devil](/neptunia/rb1/item/8-3374-rose-devil.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-8-721" class="trackbox" /> | 721 | [[Peashy] Battle Entry License](/neptunia/rb1/dlc/8-peashy.html) | [Rose Devil](/neptunia/rb1/remake/8-721-rose-devil.html)<br />→ [Rose Devil](/neptunia/rb1/item/8-3374-rose-devil.html) (Accessory) |
 
 ## Player characters who can equip **Rose Devil**
 

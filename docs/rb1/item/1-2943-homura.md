@@ -24,20 +24,17 @@ title: "Homura (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 500 |
 | **Max inventory** | 99 |
 
-
 ## Monsters which drop **Homura**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-1-385" class="trackbox" /> | 385 | [Base](/neptunia/rb1/dlc/1-base.html) | [Epsilon](/neptunia/rb1/monster/1-385-epsilon.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-1-385" class="trackbox" /> | 385 | [Base](/neptunia/rb1/dlc/1-base.html) | [Epsilon](/neptunia/rb1/monster/1-385-epsilon.html) | 40% |
 
 ## Dungeons **Homura** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
 | <input type="checkbox" id="rb1-dungeon-1-121" class="trackbox" /> | 121 | [Base](/neptunia/rb1/dlc/1-base.html) | [Dees Snow Forest](/neptunia/rb1/dungeon/1-121-dees-snow-forest.html) | Monster drop |
-
 
 ## Player characters who can equip **Homura**
 

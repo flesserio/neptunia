@@ -23,13 +23,11 @@ title: "Tunnel Armor (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 75000 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Tunnel Armor** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-445" class="trackbox" /> | 445 | [Base](/neptunia/rb1/dlc/1-base.html) | [Tunnel Armor](/neptunia/rb1/remake/1-445-tunnel-armor.html)<br /> → [Tunnel Armor](/neptunia/rb1/item/1-2887-tunnel-armor.html) (Clothing) |
-
+| <input type="checkbox" id="rb1-remake-1-445" class="trackbox" /> | 445 | [Base](/neptunia/rb1/dlc/1-base.html) | [Tunnel Armor](/neptunia/rb1/remake/1-445-tunnel-armor.html)<br />→ [Tunnel Armor](/neptunia/rb1/item/1-2887-tunnel-armor.html) (Clothing) |
 
 ## Player characters who can equip **Tunnel Armor**
 

@@ -23,13 +23,11 @@ title: "White Fox Band (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 7500 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **White Fox Band** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-811" class="trackbox" /> | 811 | [Base](/neptunia/rb1/dlc/1-base.html) | [White Fox Band](/neptunia/rb1/remake/1-811-white-fox-band.html)<br /> → [White Fox Band](/neptunia/rb1/item/1-3512-white-fox-band.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-811" class="trackbox" /> | 811 | [Base](/neptunia/rb1/dlc/1-base.html) | [White Fox Band](/neptunia/rb1/remake/1-811-white-fox-band.html)<br />→ [White Fox Band](/neptunia/rb1/item/1-3512-white-fox-band.html) (Accessory) |
 
 ## Player characters who can equip **White Fox Band**
 

@@ -23,13 +23,11 @@ title: "Yandere Style (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 750000 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Yandere Style** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-7-435" class="trackbox" /> | 435 | [[Plutia] Battle Entry License](/neptunia/rb1/dlc/7-plutia.html) | [Yandere Style](/neptunia/rb1/remake/7-435-yandere-style.html)<br /> → [Yandere Style](/neptunia/rb1/item/7-2820-yandere-style.html) (Clothing) |
-
+| <input type="checkbox" id="rb1-remake-7-435" class="trackbox" /> | 435 | [[Plutia] Battle Entry License](/neptunia/rb1/dlc/7-plutia.html) | [Yandere Style](/neptunia/rb1/remake/7-435-yandere-style.html)<br />→ [Yandere Style](/neptunia/rb1/item/7-2820-yandere-style.html) (Clothing) |
 
 ## Player characters who can equip **Yandere Style**
 

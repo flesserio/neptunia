@@ -24,20 +24,17 @@ title: "Black Frame (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 500 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Black Frame** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-670" class="trackbox" /> | 670 | [Base](/neptunia/rb1/dlc/1-base.html) | [Black Frame](/neptunia/rb1/remake/1-670-black-frame.html)<br /> → [Black Frame](/neptunia/rb1/item/1-3300-black-frame.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-670" class="trackbox" /> | 670 | [Base](/neptunia/rb1/dlc/1-base.html) | [Black Frame](/neptunia/rb1/remake/1-670-black-frame.html)<br />→ [Black Frame](/neptunia/rb1/item/1-3300-black-frame.html) (Accessory) |
 
 ## Remake System plans which require **Black Frame**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-662" class="trackbox" /> | 662 | [Base](/neptunia/rb1/dlc/1-base.html) | [Black Cat Glasses](/neptunia/rb1/quest/1-662-black-cat-glasses.html) |
-
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-662" class="trackbox" /> | 662 | [Base](/neptunia/rb1/dlc/1-base.html) | [Black Cat Glasses](/neptunia/rb1/remake/1-662-black-cat-glasses.html)<br />→ [Black Cat Glasses](/neptunia/rb1/item/1-3292-black-cat-glasses.html) (Accessory) | 2 |
 
 ## Player characters who can equip **Black Frame**
 

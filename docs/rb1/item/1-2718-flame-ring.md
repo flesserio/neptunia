@@ -25,20 +25,17 @@ title: "Flame Ring (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **To unlock in shop** | Method 1<br />- View scene [Chapter 2: Lastation](/neptunia/rb1/scene/1-202-chapter-2-lastation.html) |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 25 | 0 | 0 | 0 |
 
-
 ## Remake System plans which require **Flame Ring**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-403" class="trackbox" /> | 403 | [Base](/neptunia/rb1/dlc/1-base.html) | [Molten Ring](/neptunia/rb1/quest/1-403-molten-ring.html) |
-
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-403" class="trackbox" /> | 403 | [Base](/neptunia/rb1/dlc/1-base.html) | [Molten Ring](/neptunia/rb1/remake/1-403-molten-ring.html)<br />→ [Molten Ring](/neptunia/rb1/item/1-2729-molten-ring.html) (Ornament) | 2 |
 
 ## Player characters who can equip **Flame Ring**
 

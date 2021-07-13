@@ -22,7 +22,6 @@ title: "Trading Cards (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 0 |
 | **Max inventory** | 99 |
 
-
 ## Quests which reward **Trading Cards**
 
 |    | ID | DLC | Name |

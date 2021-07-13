@@ -25,22 +25,19 @@ title: "Large Beak (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 16 |
 | **Max inventory** | 99 |
 
-
 ## Monsters which drop **Large Beak**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-1-115" class="trackbox" /> | 115 | [Base](/neptunia/rb1/dlc/1-base.html) | [Shoebill](/neptunia/rb1/monster/1-115-shoebill.html) |
-| <input type="checkbox" id="rb1-monster-1-116" class="trackbox" /> | 116 | [Base](/neptunia/rb1/dlc/1-base.html) | [Viral Shoebill](/neptunia/rb1/monster/1-116-viral-shoebill.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-1-115" class="trackbox" /> | 115 | [Base](/neptunia/rb1/dlc/1-base.html) | [Shoebill](/neptunia/rb1/monster/1-115-shoebill.html) | 40% |
+| <input type="checkbox" id="rb1-monster-1-116" class="trackbox" /> | 116 | [Base](/neptunia/rb1/dlc/1-base.html) | [Viral Shoebill](/neptunia/rb1/monster/1-116-viral-shoebill.html) | 80% |
 
 ## Dungeons **Large Beak** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
-| <input type="checkbox" id="rb1-dungeon-1-3" class="trackbox" /> | 3 | [Base](/neptunia/rb1/dlc/1-base.html) | [West Wind Valley](/neptunia/rb1/dungeon/1-3-west-wind-valley.html) | Gathering point |
+| <input type="checkbox" id="rb1-dungeon-1-3" class="trackbox" /> | 3 | [Base](/neptunia/rb1/dlc/1-base.html) | [West Wind Valley](/neptunia/rb1/dungeon/1-3-west-wind-valley.html) | Gathering point (Harvest Shift) |
 | <input type="checkbox" id="rb1-dungeon-1-3" class="trackbox" /> | 3 | [Base](/neptunia/rb1/dlc/1-base.html) | [West Wind Valley](/neptunia/rb1/dungeon/1-3-west-wind-valley.html) | Monster drop |
-
 
 ## Quests which require gathering **Large Beak**
 
@@ -48,9 +45,8 @@ title: "Large Beak (Item) - Hyperdimension Neptunia Re;Birth1"
 | -- | -- | --- | ---- |
 | <input type="checkbox" id="rb1-quest-1-208" class="trackbox" /> | 208 | [Base](/neptunia/rb1/dlc/1-base.html) | [My Liege...](/neptunia/rb1/quest/1-208-my-liege.html) |
 
-
 ## Remake System plans which require **Large Beak**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-471" class="trackbox" /> | 471 | [Base](/neptunia/rb1/dlc/1-base.html) | [White Cat Ears](/neptunia/rb1/quest/1-471-white-cat-ears.html) |
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-471" class="trackbox" /> | 471 | [Base](/neptunia/rb1/dlc/1-base.html) | [White Cat Ears](/neptunia/rb1/remake/1-471-white-cat-ears.html)<br />→ [White Cat Ears](/neptunia/rb1/item/1-3008-white-cat-ears.html) (Accessory) | 2 |

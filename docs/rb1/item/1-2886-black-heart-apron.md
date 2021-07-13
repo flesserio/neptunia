@@ -23,13 +23,11 @@ title: "Black Heart Apron (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 75000 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Black Heart Apron** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-441" class="trackbox" /> | 441 | [Base](/neptunia/rb1/dlc/1-base.html) | [Black Heart Apron](/neptunia/rb1/remake/1-441-black-heart-apron.html)<br /> → [Black Heart Apron](/neptunia/rb1/item/1-2886-black-heart-apron.html) (Clothing) |
-
+| <input type="checkbox" id="rb1-remake-1-441" class="trackbox" /> | 441 | [Base](/neptunia/rb1/dlc/1-base.html) | [Black Heart Apron](/neptunia/rb1/remake/1-441-black-heart-apron.html)<br />→ [Black Heart Apron](/neptunia/rb1/item/1-2886-black-heart-apron.html) (Clothing) |
 
 ## Player characters who can equip **Black Heart Apron**
 

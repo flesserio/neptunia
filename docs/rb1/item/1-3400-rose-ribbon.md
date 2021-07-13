@@ -23,13 +23,11 @@ title: "Rose Ribbon (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 1500 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Rose Ribbon** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-738" class="trackbox" /> | 738 | [Base](/neptunia/rb1/dlc/1-base.html) | [Rose Ribbon](/neptunia/rb1/remake/1-738-rose-ribbon.html)<br /> → [Rose Ribbon](/neptunia/rb1/item/1-3400-rose-ribbon.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-738" class="trackbox" /> | 738 | [Base](/neptunia/rb1/dlc/1-base.html) | [Rose Ribbon](/neptunia/rb1/remake/1-738-rose-ribbon.html)<br />→ [Rose Ribbon](/neptunia/rb1/item/1-3400-rose-ribbon.html) (Accessory) |
 
 ## Player characters who can equip **Rose Ribbon**
 

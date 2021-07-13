@@ -23,13 +23,11 @@ title: "Weaken Enemies (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 0 |
 | **Max inventory** | 1 |
 
-
 ## Chirpers who give **Weaken Enemies**
 
 |    | ID | DLC | Avatar | Message | Conditions |
 | -- | -- | --- | ------ | ------- | ---------- |
-| <input type="checkbox" id="rb1-chirper-event-1-5193" class="trackbox" /> | 5193 | [Base](/neptunia/rb1/dlc/1-base.html) | [Hot-Blooded Merc](/neptunia/rb1/undefined/1-253-hot-blooded-merc.html) | What's this? A Plan?<br />Wait? All we have to do is grind and use our physical attacks, right?<br />Well, I'll take this anyway! | View scene [Chapter 2: Histoire And Arfoire](/neptunia/rb1/scene/1-201-chapter-2-histoire-and-arfoire.html)<br />Do not view scene [Chapter 7: Revenge Of Momus](/neptunia/rb1/scene/1-727-chapter-7-revenge-of-momus.html) |
-
+| <input type="checkbox" id="rb1-chirper-event-1-5193" class="trackbox" /> | 5193 | [Base](/neptunia/rb1/dlc/1-base.html) | [Hot-Blooded Merc](/neptunia/rb1/avatar/1-253-hot-blooded-merc.html) | What's this? A Plan?<br />Wait? All we have to do is grind and use our physical attacks, right?<br />Well, I'll take this anyway! | View scene [Chapter 2: Histoire And Arfoire](/neptunia/rb1/scene/1-201-chapter-2-histoire-and-arfoire.html)<br />Do not view scene [Chapter 7: Revenge Of Momus](/neptunia/rb1/scene/1-727-chapter-7-revenge-of-momus.html) |
 
 ## Plans added to Remake System after collecting **Weaken Enemies**
 

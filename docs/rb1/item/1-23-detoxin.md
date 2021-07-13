@@ -24,7 +24,6 @@ title: "Detoxin (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Tool skill** | [Detoxin](/neptunia/rb1/skill/1-10023-detoxin.html) |
 | **To unlock in shop** | Unlocked from start of game<br />Unlocked from start of game |
 
-
 ## Quests which reward **Detoxin**
 
 |    | ID | DLC | Name |

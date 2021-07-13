@@ -25,13 +25,11 @@ title: "Blue Earth Pipe (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 189 |
 | **Max inventory** | 99 |
 
-
 ## Monsters which drop **Blue Earth Pipe**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-1-293" class="trackbox" /> | 293 | [Base](/neptunia/rb1/dlc/1-base.html) | [Plam-met](/neptunia/rb1/monster/1-293-plam-met.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-1-293" class="trackbox" /> | 293 | [Base](/neptunia/rb1/dlc/1-base.html) | [Plam-met](/neptunia/rb1/monster/1-293-plam-met.html) | 40% |
 
 ## Dungeons **Blue Earth Pipe** is found
 
@@ -40,19 +38,17 @@ title: "Blue Earth Pipe (Item) - Hyperdimension Neptunia Re;Birth1"
 | <input type="checkbox" id="rb1-dungeon-1-109" class="trackbox" /> | 109 | [Base](/neptunia/rb1/dlc/1-base.html) | [Duty Space](/neptunia/rb1/dungeon/1-109-duty-space.html) | Gathering point |
 | <input type="checkbox" id="rb1-dungeon-1-109" class="trackbox" /> | 109 | [Base](/neptunia/rb1/dlc/1-base.html) | [Duty Space](/neptunia/rb1/dungeon/1-109-duty-space.html) | Monster drop |
 
-
 ## Quests which require gathering **Blue Earth Pipe**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
 | <input type="checkbox" id="rb1-quest-1-401" class="trackbox" /> | 401 | [Base](/neptunia/rb1/dlc/1-base.html) | [Retirement regrets](/neptunia/rb1/quest/1-401-retirement-regrets.html) |
 
-
 ## Remake System plans which require **Blue Earth Pipe**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-216" class="trackbox" /> | 216 | [Base](/neptunia/rb1/dlc/1-base.html) | [Add Dungeon](/neptunia/rb1/quest/1-216-add-dungeon.html) |
-| <input type="checkbox" id="rb1-quest-1-374" class="trackbox" /> | 374 | [Base](/neptunia/rb1/dlc/1-base.html) | [Excel-Lance](/neptunia/rb1/quest/1-374-excel-lance.html) |
-| <input type="checkbox" id="rb1-quest-1-397" class="trackbox" /> | 397 | [Base](/neptunia/rb1/dlc/1-base.html) | [SP Buster II](/neptunia/rb1/quest/1-397-sp-buster-ii.html) |
-| <input type="checkbox" id="rb1-quest-1-402" class="trackbox" /> | 402 | [Base](/neptunia/rb1/dlc/1-base.html) | [Primrose](/neptunia/rb1/quest/1-402-primrose.html) |
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-216" class="trackbox" /> | 216 | [Base](/neptunia/rb1/dlc/1-base.html) | [Add Dungeon](/neptunia/rb1/remake/1-216-add-dungeon.html)<br />→ [Donkong Ruins](/neptunia/rb1/dungeon/1-110-donkong-ruins.html) (Dungeon) | 3 |
+| <input type="checkbox" id="rb1-remake-1-374" class="trackbox" /> | 374 | [Base](/neptunia/rb1/dlc/1-base.html) | [Excel-Lance](/neptunia/rb1/remake/1-374-excel-lance.html)<br />→ [Excel-Lance](/neptunia/rb1/item/1-2106-excel-lance.html) (Spear (Vert)) | 3 |
+| <input type="checkbox" id="rb1-remake-1-397" class="trackbox" /> | 397 | [Base](/neptunia/rb1/dlc/1-base.html) | [SP Buster II](/neptunia/rb1/remake/1-397-sp-buster-ii.html)<br />→ [SP Buster II](/neptunia/rb1/item/1-2723-sp-buster-ii.html) (Ornament) | 3 |
+| <input type="checkbox" id="rb1-remake-1-402" class="trackbox" /> | 402 | [Base](/neptunia/rb1/dlc/1-base.html) | [Primrose](/neptunia/rb1/remake/1-402-primrose.html)<br />→ [Primrose](/neptunia/rb1/item/1-2728-primrose.html) (Ornament) | 2 |

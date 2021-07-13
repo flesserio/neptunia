@@ -23,13 +23,11 @@ title: "Orange Chignon (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 2500 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Orange Chignon** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-485" class="trackbox" /> | 485 | [Base](/neptunia/rb1/dlc/1-base.html) | [Orange Chignon](/neptunia/rb1/remake/1-485-orange-chignon.html)<br /> → [Orange Chignon](/neptunia/rb1/item/1-3023-orange-chignon.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-485" class="trackbox" /> | 485 | [Base](/neptunia/rb1/dlc/1-base.html) | [Orange Chignon](/neptunia/rb1/remake/1-485-orange-chignon.html)<br />→ [Orange Chignon](/neptunia/rb1/item/1-3023-orange-chignon.html) (Accessory) |
 
 ## Player characters who can equip **Orange Chignon**
 

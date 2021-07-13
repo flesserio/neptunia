@@ -23,13 +23,11 @@ title: "Emerald Ribbon (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 1500 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Emerald Ribbon** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-739" class="trackbox" /> | 739 | [Base](/neptunia/rb1/dlc/1-base.html) | [Emerald Ribbon](/neptunia/rb1/remake/1-739-emerald-ribbon.html)<br /> → [Emerald Ribbon](/neptunia/rb1/item/1-3401-emerald-ribbon.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-739" class="trackbox" /> | 739 | [Base](/neptunia/rb1/dlc/1-base.html) | [Emerald Ribbon](/neptunia/rb1/remake/1-739-emerald-ribbon.html)<br />→ [Emerald Ribbon](/neptunia/rb1/item/1-3401-emerald-ribbon.html) (Accessory) |
 
 ## Player characters who can equip **Emerald Ribbon**
 

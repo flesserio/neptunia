@@ -23,13 +23,11 @@ title: "Liebe Rose (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 5000 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Liebe Rose** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-745" class="trackbox" /> | 745 | [Base](/neptunia/rb1/dlc/1-base.html) | [Liebe Rose](/neptunia/rb1/remake/1-745-liebe-rose.html)<br /> → [Liebe Rose](/neptunia/rb1/item/1-3409-liebe-rose.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-745" class="trackbox" /> | 745 | [Base](/neptunia/rb1/dlc/1-base.html) | [Liebe Rose](/neptunia/rb1/remake/1-745-liebe-rose.html)<br />→ [Liebe Rose](/neptunia/rb1/item/1-3409-liebe-rose.html) (Accessory) |
 
 ## Player characters who can equip **Liebe Rose**
 

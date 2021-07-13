@@ -24,13 +24,11 @@ title: "D-Ace Lite W (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **To unlock in shop** | Method 1<br />- Have save in first playthrough<br />- Have Rom & Ram unlocked. |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 0 | 95 | -15 | -15 | 0 | 65 | 35 | 0 | 0 | 0 | 0 |
-
 
 ## Player characters who can equip **D-Ace Lite W**
 

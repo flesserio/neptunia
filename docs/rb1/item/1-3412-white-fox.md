@@ -23,13 +23,11 @@ title: "White Fox (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 7500 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **White Fox** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-747" class="trackbox" /> | 747 | [Base](/neptunia/rb1/dlc/1-base.html) | [White Fox](/neptunia/rb1/remake/1-747-white-fox.html)<br /> → [White Fox](/neptunia/rb1/item/1-3412-white-fox.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-747" class="trackbox" /> | 747 | [Base](/neptunia/rb1/dlc/1-base.html) | [White Fox](/neptunia/rb1/remake/1-747-white-fox.html)<br />→ [White Fox](/neptunia/rb1/item/1-3412-white-fox.html) (Accessory) |
 
 ## Player characters who can equip **White Fox**
 

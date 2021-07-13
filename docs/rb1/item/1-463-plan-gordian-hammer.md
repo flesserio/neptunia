@@ -23,16 +23,14 @@ title: "Plan: Gordian Hammer (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 0 |
 | **Max inventory** | 1 |
 
-
 ## Plans added to Remake System after collecting **Plan: Gordian Hammer**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-372" class="trackbox" /> | 372 | [Base](/neptunia/rb1/dlc/1-base.html) | [Gordian Hammer](/neptunia/rb1/remake/1-372-gordian-hammer.html)<br /> → [Gordian Hammer](/neptunia/rb1/item/1-2096-gordian-hammer.html) (Hammer (Blanc)) |
-
+| <input type="checkbox" id="rb1-remake-1-372" class="trackbox" /> | 372 | [Base](/neptunia/rb1/dlc/1-base.html) | [Gordian Hammer](/neptunia/rb1/remake/1-372-gordian-hammer.html)<br />→ [Gordian Hammer](/neptunia/rb1/item/1-2096-gordian-hammer.html) (Hammer (Blanc)) |
 
 ## Dungeons **Plan: Gordian Hammer** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
-| <input type="checkbox" id="rb1-dungeon-1-123" class="trackbox" /> | 123 | [Base](/neptunia/rb1/dlc/1-base.html) | [Graphic Pass](/neptunia/rb1/dungeon/1-123-graphic-pass.html) | Gathering point |
+| <input type="checkbox" id="rb1-dungeon-1-123" class="trackbox" /> | 123 | [Base](/neptunia/rb1/dlc/1-base.html) | [Graphic Pass](/neptunia/rb1/dungeon/1-123-graphic-pass.html) | Treasure |

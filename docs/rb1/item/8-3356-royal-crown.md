@@ -23,13 +23,11 @@ title: "Royal Crown (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 125000 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Royal Crown** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-8-708" class="trackbox" /> | 708 | [[Peashy] Battle Entry License](/neptunia/rb1/dlc/8-peashy.html) | [Royal Crown](/neptunia/rb1/remake/8-708-royal-crown.html)<br /> → [Royal Crown](/neptunia/rb1/item/8-3356-royal-crown.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-8-708" class="trackbox" /> | 708 | [[Peashy] Battle Entry License](/neptunia/rb1/dlc/8-peashy.html) | [Royal Crown](/neptunia/rb1/remake/8-708-royal-crown.html)<br />→ [Royal Crown](/neptunia/rb1/item/8-3356-royal-crown.html) (Accessory) |
 
 ## Player characters who can equip **Royal Crown**
 

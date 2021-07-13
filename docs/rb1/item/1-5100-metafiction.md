@@ -23,21 +23,19 @@ title: "Metafiction (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 10 |
 | **Max inventory** | 99 |
 | **Idea Chip level** | 4 |
-| **Idea Chip ability** | [Animal Defense Lv.4](/neptunia/rb1/avatar/1-9599-animal-defense-lv-4.html)<br />Increases Animal Defense by 25% |
-
+| **Idea Chip ability** | [Animal Defense Lv.4](/neptunia/rb1/ability/1-9599-animal-defense-lv-4.html)<br />Increases Animal Defense by 25% |
 
 ## Monsters which drop **Metafiction**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-1-236" class="trackbox" /> | 236 | [Base](/neptunia/rb1/dlc/1-base.html) | [Cat Squirrel Rider](/neptunia/rb1/monster/1-236-cat-squirrel-rider.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-1-236" class="trackbox" /> | 236 | [Base](/neptunia/rb1/dlc/1-base.html) | [Cat Squirrel Rider](/neptunia/rb1/monster/1-236-cat-squirrel-rider.html) | 65% |
 
 ## Dungeons **Metafiction** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
-| <input type="checkbox" id="rb1-dungeon-1-16" class="trackbox" /> | 16 | [Base](/neptunia/rb1/dlc/1-base.html) | [Soulsac Cave](/neptunia/rb1/dungeon/1-16-soulsac-cave.html) | Gathering point |
-| <input type="checkbox" id="rb1-dungeon-1-20" class="trackbox" /> | 20 | [Base](/neptunia/rb1/dlc/1-base.html) | [Factory No.459](/neptunia/rb1/dungeon/1-20-factory-no-459.html) | Gathering point |
-| <input type="checkbox" id="rb1-dungeon-10-127" class="trackbox" /> | 127 | [Additional Content Package 1](/neptunia/rb1/dlc/10-pack1.html) | [Noma Cave](/neptunia/rb1/dungeon/10-127-noma-cave.html) | Gathering point |
+| <input type="checkbox" id="rb1-dungeon-1-16" class="trackbox" /> | 16 | [Base](/neptunia/rb1/dlc/1-base.html) | [Soulsac Cave](/neptunia/rb1/dungeon/1-16-soulsac-cave.html) | Gathering point (Harvest Shift) |
+| <input type="checkbox" id="rb1-dungeon-1-20" class="trackbox" /> | 20 | [Base](/neptunia/rb1/dlc/1-base.html) | [Factory No.459](/neptunia/rb1/dungeon/1-20-factory-no-459.html) | Gathering point (Harvest Shift) |
 | <input type="checkbox" id="rb1-dungeon-1-23" class="trackbox" /> | 23 | [Base](/neptunia/rb1/dlc/1-base.html) | [Gheytz Forest](/neptunia/rb1/dungeon/1-23-gheytz-forest.html) | Monster drop |
+| <input type="checkbox" id="rb1-dungeon-10-127" class="trackbox" /> | 127 | [Additional Content Package 1](/neptunia/rb1/dlc/10-pack1.html) | [Noma Cave](/neptunia/rb1/dungeon/10-127-noma-cave.html) | Gathering point (Harvest Shift) |

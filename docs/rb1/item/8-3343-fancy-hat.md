@@ -23,13 +23,11 @@ title: "Fancy Hat (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 125000 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Fancy Hat** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-8-697" class="trackbox" /> | 697 | [[Peashy] Battle Entry License](/neptunia/rb1/dlc/8-peashy.html) | [Fancy Hat](/neptunia/rb1/remake/8-697-fancy-hat.html)<br /> → [Fancy Hat](/neptunia/rb1/item/8-3343-fancy-hat.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-8-697" class="trackbox" /> | 697 | [[Peashy] Battle Entry License](/neptunia/rb1/dlc/8-peashy.html) | [Fancy Hat](/neptunia/rb1/remake/8-697-fancy-hat.html)<br />→ [Fancy Hat](/neptunia/rb1/item/8-3343-fancy-hat.html) (Accessory) |
 
 ## Player characters who can equip **Fancy Hat**
 

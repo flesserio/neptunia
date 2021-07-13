@@ -23,13 +23,11 @@ title: "Fairy Nurse (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 500 |
 | **Max inventory** | 99 |
 
-
 ## Colosseum quests which reward **Fairy Nurse**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
 | <input type="checkbox" id="rb1-colosseum-1-2002" class="trackbox" /> | 2002 | [Base](/neptunia/rb1/dlc/1-base.html) | [Hell's Comb](/neptunia/rb1/colosseum/1-2002-hells-comb.html) |
-
 
 ## Player characters who can equip **Fairy Nurse**
 

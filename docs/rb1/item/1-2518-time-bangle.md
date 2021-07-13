@@ -25,27 +25,23 @@ title: "Time Bangle (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 1000 |
 | **Max inventory** | 99 |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 183 | 0 | 262 | 0 | 367 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 
-
 ## Remake System plans which unlock **Time Bangle** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-385" class="trackbox" /> | 385 | [Base](/neptunia/rb1/dlc/1-base.html) | [Time Bangle](/neptunia/rb1/remake/1-385-time-bangle.html)<br /> → [Time Bangle](/neptunia/rb1/item/1-2518-time-bangle.html) (Armor) |
-
+| <input type="checkbox" id="rb1-remake-1-385" class="trackbox" /> | 385 | [Base](/neptunia/rb1/dlc/1-base.html) | [Time Bangle](/neptunia/rb1/remake/1-385-time-bangle.html)<br />→ [Time Bangle](/neptunia/rb1/item/1-2518-time-bangle.html) (Armor) |
 
 ## Remake System plans which require **Time Bangle**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-10" class="trackbox" /> | 10 | [Base](/neptunia/rb1/dlc/1-base.html) | [Credits Up](/neptunia/rb1/quest/1-10-credits-up.html) |
-
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-10" class="trackbox" /> | 10 | [Base](/neptunia/rb1/dlc/1-base.html) | [Credits Up](/neptunia/rb1/remake/1-10-credits-up.html) | 1 |
 
 ## Player characters who can equip **Time Bangle**
 

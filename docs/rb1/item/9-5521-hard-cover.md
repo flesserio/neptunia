@@ -25,13 +25,11 @@ title: "Hard Cover (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Weapon skill** | [Imbalance](/neptunia/rb1/skill/9-3002-imbalance.html) |
 | **To unlock in shop** | Method 1<br />- Have save in first playthrough<br />- View scene [Chapter 2: Histoire And Arfoire](/neptunia/rb1/scene/1-201-chapter-2-histoire-and-arfoire.html)<br />- View scene [DLC 9 Event 1](/neptunia/rb1/scene/9-5030-dlc-9-event-1.html) |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 500 | 0 | 0 | 1553 | 250 | 2251 | 0 | -207 | -111 | 0 | 0 | 0 | 0 | 0 |
-
 
 ## Player characters who can equip **Hard Cover**
 

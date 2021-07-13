@@ -24,20 +24,17 @@ title: "Molten Ring (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 2000 |
 | **Max inventory** | 99 |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 50 | 0 | 0 | 0 |
 
-
 ## Remake System plans which unlock **Molten Ring** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-403" class="trackbox" /> | 403 | [Base](/neptunia/rb1/dlc/1-base.html) | [Molten Ring](/neptunia/rb1/remake/1-403-molten-ring.html)<br /> → [Molten Ring](/neptunia/rb1/item/1-2729-molten-ring.html) (Ornament) |
-
+| <input type="checkbox" id="rb1-remake-1-403" class="trackbox" /> | 403 | [Base](/neptunia/rb1/dlc/1-base.html) | [Molten Ring](/neptunia/rb1/remake/1-403-molten-ring.html)<br />→ [Molten Ring](/neptunia/rb1/item/1-2729-molten-ring.html) (Ornament) |
 
 ## Player characters who can equip **Molten Ring**
 

@@ -24,15 +24,13 @@ title: "Purple Headdress (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **To unlock in shop** | Method 1<br />- Have Nepgear unlocked. |
 
-
 ## Remake System plans which require **Purple Headdress**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-691" class="trackbox" /> | 691 | [Base](/neptunia/rb1/dlc/1-base.html) | [Gothic Headdress](/neptunia/rb1/quest/1-691-gothic-headdress.html) |
-| <input type="checkbox" id="rb1-quest-1-692" class="trackbox" /> | 692 | [Base](/neptunia/rb1/dlc/1-base.html) | [Pink Sweets](/neptunia/rb1/quest/1-692-pink-sweets.html) |
-| <input type="checkbox" id="rb1-quest-1-693" class="trackbox" /> | 693 | [Base](/neptunia/rb1/dlc/1-base.html) | [Alice Headdress](/neptunia/rb1/quest/1-693-alice-headdress.html) |
-
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-691" class="trackbox" /> | 691 | [Base](/neptunia/rb1/dlc/1-base.html) | [Gothic Headdress](/neptunia/rb1/remake/1-691-gothic-headdress.html)<br />→ [Gothic Headdress](/neptunia/rb1/item/1-3328-gothic-headdress.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-1-692" class="trackbox" /> | 692 | [Base](/neptunia/rb1/dlc/1-base.html) | [Pink Sweets](/neptunia/rb1/remake/1-692-pink-sweets.html)<br />→ [Pink Sweets](/neptunia/rb1/item/1-3329-pink-sweets.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-1-693" class="trackbox" /> | 693 | [Base](/neptunia/rb1/dlc/1-base.html) | [Alice Headdress](/neptunia/rb1/remake/1-693-alice-headdress.html)<br />→ [Alice Headdress](/neptunia/rb1/item/1-3330-alice-headdress.html) (Accessory) | 1 |
 
 ## Player characters who can equip **Purple Headdress**
 

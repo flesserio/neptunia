@@ -24,15 +24,13 @@ title: "Demon Pendant (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **To unlock in shop** | Method 1<br />- View scene [Chapter 2: Histoire And Arfoire](/neptunia/rb1/scene/1-201-chapter-2-histoire-and-arfoire.html)<br />- View scene [DLC 7 Event 1](/neptunia/rb1/scene/7-5010-dlc-7-event-1.html) |
 
-
 ## Remake System plans which require **Demon Pendant**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-7-533" class="trackbox" /> | 533 | [[Plutia] Battle Entry License](/neptunia/rb1/dlc/7-plutia.html) | [Rose Devil](/neptunia/rb1/quest/7-533-rose-devil.html) |
-| <input type="checkbox" id="rb1-quest-7-534" class="trackbox" /> | 534 | [[Plutia] Battle Entry License](/neptunia/rb1/dlc/7-plutia.html) | [Sweet Devil](/neptunia/rb1/quest/7-534-sweet-devil.html) |
-| <input type="checkbox" id="rb1-quest-7-535" class="trackbox" /> | 535 | [[Plutia] Battle Entry License](/neptunia/rb1/dlc/7-plutia.html) | [Blue Devil](/neptunia/rb1/quest/7-535-blue-devil.html) |
-
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-7-533" class="trackbox" /> | 533 | [[Plutia] Battle Entry License](/neptunia/rb1/dlc/7-plutia.html) | [Rose Devil](/neptunia/rb1/remake/7-533-rose-devil.html)<br />→ [Rose Devil](/neptunia/rb1/item/7-3090-rose-devil.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-7-534" class="trackbox" /> | 534 | [[Plutia] Battle Entry License](/neptunia/rb1/dlc/7-plutia.html) | [Sweet Devil](/neptunia/rb1/remake/7-534-sweet-devil.html)<br />→ [Sweet Devil](/neptunia/rb1/item/7-3091-sweet-devil.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-7-535" class="trackbox" /> | 535 | [[Plutia] Battle Entry License](/neptunia/rb1/dlc/7-plutia.html) | [Blue Devil](/neptunia/rb1/remake/7-535-blue-devil.html)<br />→ [Blue Devil](/neptunia/rb1/item/7-3092-blue-devil.html) (Accessory) | 1 |
 
 ## Player characters who can equip **Demon Pendant**
 

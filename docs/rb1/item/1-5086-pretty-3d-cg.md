@@ -24,26 +24,24 @@ title: "Pretty 3D CG (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 10 |
 | **Max inventory** | 99 |
 | **Idea Chip level** | 5 |
-| **Idea Chip ability** | [Dogoo Defense Lv.5](/neptunia/rb1/avatar/1-9585-dogoo-defense-lv-5.html)<br />Increases Dogoo Defense by 30% |
-
+| **Idea Chip ability** | [Dogoo Defense Lv.5](/neptunia/rb1/ability/1-9585-dogoo-defense-lv-5.html)<br />Increases Dogoo Defense by 30% |
 
 ## Monsters which drop **Pretty 3D CG**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-1-392" class="trackbox" /> | 392 | [Base](/neptunia/rb1/dlc/1-base.html) | [Dreadnaught Dogoo](/neptunia/rb1/monster/1-392-dreadnaught-dogoo.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-1-392" class="trackbox" /> | 392 | [Base](/neptunia/rb1/dlc/1-base.html) | [Dreadnaught Dogoo](/neptunia/rb1/monster/1-392-dreadnaught-dogoo.html) | 65% |
 
 ## Dungeons **Pretty 3D CG** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
-| <input type="checkbox" id="rb1-dungeon-1-117" class="trackbox" /> | 117 | [Base](/neptunia/rb1/dlc/1-base.html) | [Adjiten Forest Pass](/neptunia/rb1/dungeon/1-117-adjiten-forest-pass.html) | Gathering point |
-| <input type="checkbox" id="rb1-dungeon-1-118" class="trackbox" /> | 118 | [Base](/neptunia/rb1/dlc/1-base.html) | [Uwii Ruins](/neptunia/rb1/dungeon/1-118-uwii-ruins.html) | Gathering point |
-| <input type="checkbox" id="rb1-dungeon-11-126" class="trackbox" /> | 126 | [Additional Content Package 2](/neptunia/rb1/dlc/11-pack2.html) | [Nights' Dimension](/neptunia/rb1/dungeon/11-126-nights-dimension.html) | Gathering point |
+| <input type="checkbox" id="rb1-dungeon-1-117" class="trackbox" /> | 117 | [Base](/neptunia/rb1/dlc/1-base.html) | [Adjiten Forest Pass](/neptunia/rb1/dungeon/1-117-adjiten-forest-pass.html) | Treasure |
+| <input type="checkbox" id="rb1-dungeon-1-117" class="trackbox" /> | 117 | [Base](/neptunia/rb1/dlc/1-base.html) | [Adjiten Forest Pass](/neptunia/rb1/dungeon/1-117-adjiten-forest-pass.html) | Hidden treasure |
+| <input type="checkbox" id="rb1-dungeon-1-118" class="trackbox" /> | 118 | [Base](/neptunia/rb1/dlc/1-base.html) | [Uwii Ruins](/neptunia/rb1/dungeon/1-118-uwii-ruins.html) | Gathering point (Harvest Shift) |
 | <input type="checkbox" id="rb1-dungeon-1-123" class="trackbox" /> | 123 | [Base](/neptunia/rb1/dlc/1-base.html) | [Graphic Pass](/neptunia/rb1/dungeon/1-123-graphic-pass.html) | Monster drop |
 | <input type="checkbox" id="rb1-dungeon-1-124" class="trackbox" /> | 124 | [Base](/neptunia/rb1/dlc/1-base.html) | [Graphic Pass Peak](/neptunia/rb1/dungeon/1-124-graphic-pass-peak.html) | Monster drop |
-
+| <input type="checkbox" id="rb1-dungeon-11-126" class="trackbox" /> | 126 | [Additional Content Package 2](/neptunia/rb1/dlc/11-pack2.html) | [Nights' Dimension](/neptunia/rb1/dungeon/11-126-nights-dimension.html) | Hidden treasure |
 
 ## Colosseum quests which reward **Pretty 3D CG**
 

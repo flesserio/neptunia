@@ -23,13 +23,11 @@ title: "Aqua Ribbon Hat (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 5000 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Aqua Ribbon Hat** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-808" class="trackbox" /> | 808 | [Base](/neptunia/rb1/dlc/1-base.html) | [Aqua Ribbon Hat](/neptunia/rb1/remake/1-808-aqua-ribbon-hat.html)<br /> → [Aqua Ribbon Hat](/neptunia/rb1/item/1-3508-aqua-ribbon-hat.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-808" class="trackbox" /> | 808 | [Base](/neptunia/rb1/dlc/1-base.html) | [Aqua Ribbon Hat](/neptunia/rb1/remake/1-808-aqua-ribbon-hat.html)<br />→ [Aqua Ribbon Hat](/neptunia/rb1/item/1-3508-aqua-ribbon-hat.html) (Accessory) |
 
 ## Player characters who can equip **Aqua Ribbon Hat**
 

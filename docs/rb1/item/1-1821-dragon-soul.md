@@ -24,20 +24,17 @@ title: "Dragon Soul (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 1714 |
 | **Max inventory** | 99 |
 
-
 ## Monsters which drop **Dragon Soul**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-monster-1-283" class="trackbox" /> | 283 | [Base](/neptunia/rb1/dlc/1-base.html) | [Master Dragon](/neptunia/rb1/monster/1-283-master-dragon.html) |
-
+|    | ID | DLC | Name | Base drop rate |
+| -- | -- | --- | ---- | -------------- |
+| <input type="checkbox" id="rb1-monster-1-283" class="trackbox" /> | 283 | [Base](/neptunia/rb1/dlc/1-base.html) | [Master Dragon](/neptunia/rb1/monster/1-283-master-dragon.html) | 65% |
 
 ## Dungeons **Dragon Soul** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
 | <input type="checkbox" id="rb1-dungeon-1-106" class="trackbox" /> | 106 | [Base](/neptunia/rb1/dlc/1-base.html) | [Gravidaze Ruins](/neptunia/rb1/dungeon/1-106-gravidaze-ruins.html) | Monster drop |
-
 
 ## Quests which require gathering **Dragon Soul**
 

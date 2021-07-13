@@ -23,13 +23,11 @@ title: "Spinel Barrette (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 1500 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Spinel Barrette** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-618" class="trackbox" /> | 618 | [Base](/neptunia/rb1/dlc/1-base.html) | [Spinel Barrette](/neptunia/rb1/remake/1-618-spinel-barrette.html)<br /> → [Spinel Barrette](/neptunia/rb1/item/1-3227-spinel-barrette.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-618" class="trackbox" /> | 618 | [Base](/neptunia/rb1/dlc/1-base.html) | [Spinel Barrette](/neptunia/rb1/remake/1-618-spinel-barrette.html)<br />→ [Spinel Barrette](/neptunia/rb1/item/1-3227-spinel-barrette.html) (Accessory) |
 
 ## Player characters who can equip **Spinel Barrette**
 

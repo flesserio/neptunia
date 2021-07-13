@@ -23,15 +23,13 @@ title: "Worldwide (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 10 |
 | **Max inventory** | 99 |
 | **Idea Chip level** | 5 |
-| **Idea Chip ability** | [Gradual SP Recovery Lv.5](/neptunia/rb1/avatar/1-9656-gradual-sp-recovery-lv-5.html)<br />Increases SP Recovery Per Turn by 7% |
-
+| **Idea Chip ability** | [Gradual SP Recovery Lv.5](/neptunia/rb1/ability/1-9656-gradual-sp-recovery-lv-5.html)<br />Increases SP Recovery Per Turn by 7% |
 
 ## Dungeons **Worldwide** is found
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
-| <input type="checkbox" id="rb1-dungeon-1-106" class="trackbox" /> | 106 | [Base](/neptunia/rb1/dlc/1-base.html) | [Gravidaze Ruins](/neptunia/rb1/dungeon/1-106-gravidaze-ruins.html) | Gathering point |
-
+| <input type="checkbox" id="rb1-dungeon-1-106" class="trackbox" /> | 106 | [Base](/neptunia/rb1/dlc/1-base.html) | [Gravidaze Ruins](/neptunia/rb1/dungeon/1-106-gravidaze-ruins.html) | Treasure |
 
 ## Colosseum quests which reward **Worldwide**
 

@@ -24,13 +24,11 @@ title: "Test Potion V+1 (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Max inventory** | 99 |
 | **Weapon skill** | [Syringe](/neptunia/rb1/skill/17-3101-syringe.html) |
 
-
 ## Stats
 
 | HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
 | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
 | 0 | 0 | 180 | 182 | 4 | 267 | 4 | 0 | 4 | 0 | 0 | 0 | 0 | 0 |
-
 
 ## Player characters who can equip **Test Potion V+1**
 

@@ -23,16 +23,14 @@ title: "Plan: Candidate Ring (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 0 |
 | **Max inventory** | 1 |
 
-
 ## Chirpers who give **Plan: Candidate Ring**
 
 |    | ID | DLC | Avatar | Message | Conditions |
 | -- | -- | --- | ------ | ------- | ---------- |
-| <input type="checkbox" id="rb1-chirper-event-1-64" class="trackbox" /> | 64 | [Base](/neptunia/rb1/dlc/1-base.html) | [Nepgear](/neptunia/rb1/undefined/1-32-nepgear.html) | It's a Plan to an accessory.<br />I came up with this with my sisters. I hope it helps. | Have Nepgear unlocked.<br />Have Uni unlocked.<br />Have Rom & Ram unlocked.<br />View scene [Chapter 8: Arfoire Of Celestia](/neptunia/rb1/scene/1-801-chapter-8-arfoire-of-celestia.html)<br />Do not view scene [Chapter 8: The True Arfoire](/neptunia/rb1/scene/1-807-chapter-8-the-true-arfoire.html) |
-
+| <input type="checkbox" id="rb1-chirper-event-1-64" class="trackbox" /> | 64 | [Base](/neptunia/rb1/dlc/1-base.html) | [Nepgear](/neptunia/rb1/avatar/1-32-nepgear.html) | It's a Plan to an accessory.<br />I came up with this with my sisters. I hope it helps. | Have Nepgear unlocked.<br />Have Uni unlocked.<br />Have Rom & Ram unlocked.<br />View scene [Chapter 8: Arfoire Of Celestia](/neptunia/rb1/scene/1-801-chapter-8-arfoire-of-celestia.html)<br />Do not view scene [Chapter 8: The True Arfoire](/neptunia/rb1/scene/1-807-chapter-8-the-true-arfoire.html) |
 
 ## Plans added to Remake System after collecting **Plan: Candidate Ring**
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-416" class="trackbox" /> | 416 | [Base](/neptunia/rb1/dlc/1-base.html) | [Candidate Ring](/neptunia/rb1/remake/1-416-candidate-ring.html)<br /> → [Candidate Ring](/neptunia/rb1/item/1-2744-candidate-ring.html) (Ornament) |
+| <input type="checkbox" id="rb1-remake-1-416" class="trackbox" /> | 416 | [Base](/neptunia/rb1/dlc/1-base.html) | [Candidate Ring](/neptunia/rb1/remake/1-416-candidate-ring.html)<br />→ [Candidate Ring](/neptunia/rb1/item/1-2744-candidate-ring.html) (Ornament) |

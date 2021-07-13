@@ -24,21 +24,18 @@ title: "Clover Pin (Item) - Hyperdimension Neptunia Re;Birth1"
 | **Sell Price** | 2500 |
 | **Max inventory** | 99 |
 
-
 ## Remake System plans which unlock **Clover Pin** in shop
 
 |    | ID | DLC | Name |
 | -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-remake-1-479" class="trackbox" /> | 479 | [Base](/neptunia/rb1/dlc/1-base.html) | [Clover Pin](/neptunia/rb1/remake/1-479-clover-pin.html)<br /> → [Clover Pin](/neptunia/rb1/item/1-3017-clover-pin.html) (Accessory) |
-
+| <input type="checkbox" id="rb1-remake-1-479" class="trackbox" /> | 479 | [Base](/neptunia/rb1/dlc/1-base.html) | [Clover Pin](/neptunia/rb1/remake/1-479-clover-pin.html)<br />→ [Clover Pin](/neptunia/rb1/item/1-3017-clover-pin.html) (Accessory) |
 
 ## Remake System plans which require **Clover Pin**
 
-|    | ID | DLC | Name |
-| -- | -- | --- | ---- |
-| <input type="checkbox" id="rb1-quest-1-480" class="trackbox" /> | 480 | [Base](/neptunia/rb1/dlc/1-base.html) | [Monoclover](/neptunia/rb1/quest/1-480-monoclover.html) |
-| <input type="checkbox" id="rb1-quest-1-481" class="trackbox" /> | 481 | [Base](/neptunia/rb1/dlc/1-base.html) | [Orange Clover](/neptunia/rb1/quest/1-481-orange-clover.html) |
-
+|    | ID | DLC | Name | Amount |
+| -- | -- | --- | ---- | ------ |
+| <input type="checkbox" id="rb1-remake-1-480" class="trackbox" /> | 480 | [Base](/neptunia/rb1/dlc/1-base.html) | [Monoclover](/neptunia/rb1/remake/1-480-monoclover.html)<br />→ [Monoclover](/neptunia/rb1/item/1-3018-monoclover.html) (Accessory) | 1 |
+| <input type="checkbox" id="rb1-remake-1-481" class="trackbox" /> | 481 | [Base](/neptunia/rb1/dlc/1-base.html) | [Orange Clover](/neptunia/rb1/remake/1-481-orange-clover.html)<br />→ [Orange Clover](/neptunia/rb1/item/1-3019-orange-clover.html) (Accessory) | 1 |
 
 ## Player characters who can equip **Clover Pin**
 
