@@ -1,0 +1,46 @@
+---
+title: "Earth W (Item) - Hyperdimension Neptunia Re;Birth2"
+---
+
+[**Item Index**](/neptunia/rb2/item/index.html) - [Hyperdimension Neptunia Re;Birth2](/neptunia/rb2)
+
+## Contents
+
+- [Basic information](#basic-information)
+- [Stats](#stats)
+- [Dungeons **Earth W** is found](#dungeons-earth-w-is-found)
+- [Player characters who can equip **Earth W**](#player-characters-who-can-equip-earth-w)
+
+## Basic information
+
+|   |   |
+| -- | -- |
+| **ID** | 3412 |
+| **DLC** | [Base](/neptunia/rb2/dlc/0-base.html) |
+| **Name** | Earth W |
+| **Type** | Processor (W) |
+| **Description** | A Processor Unit made exclusively for CPU Candidates. Incorporates a totally rockin' earth motif. |
+| **Buy Price** | 10000 |
+| **Sell Price** | 1000 |
+| **Max inventory** | 99 |
+
+## Stats
+
+| HP | SP | STR | VIT | INT | MEN | AGI | TEC | LUK | MOV | Fire res. | Ice res. | Wind res. | Lightning res. |
+| -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --------- | -------- | --------- | -------------- |
+| 0 | 0 | 0 | 0 | 60 | 0 | 0 | -20 | 0 | 20 | 0 | 0 | -5 | 10 |
+
+## Dungeons **Earth W** is found
+
+|    | ID | DLC | Name | From |
+| -- | -- | --- | ---- | ---- |
+| <input type="checkbox" id="rb2-dungeon-0-18" class="trackbox" /> | 18 | [Base](/neptunia/rb2/dlc/0-base.html) | [Atari Marsh](/neptunia/rb2/dungeon/0-18-atari-marsh.html) | Treasure |
+
+## Player characters who can equip **Earth W**
+
+|    | ID | DLC | Name |
+| -- | -- | --- | ---- |
+| <input type="checkbox" id="rb2-player-0-6" class="trackbox" /> | 6 | [Base](/neptunia/rb2/dlc/0-base.html) | [Nepgear](/neptunia/rb2/player/0-6-nepgear.html) |
+| <input type="checkbox" id="rb2-player-0-8" class="trackbox" /> | 8 | [Base](/neptunia/rb2/dlc/0-base.html) | [Uni](/neptunia/rb2/player/0-8-uni.html) |
+| <input type="checkbox" id="rb2-player-0-9" class="trackbox" /> | 9 | [Base](/neptunia/rb2/dlc/0-base.html) | [Rom](/neptunia/rb2/player/0-9-rom.html) |
+| <input type="checkbox" id="rb2-player-0-10" class="trackbox" /> | 10 | [Base](/neptunia/rb2/dlc/0-base.html) | [Ram](/neptunia/rb2/player/0-10-ram.html) |
