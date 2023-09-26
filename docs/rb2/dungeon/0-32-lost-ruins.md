@@ -49,10 +49,8 @@ See [gathering point tables](#gathering-point-tables-for-lost-ruins) for more in
 |    | ID | DLC | Name | Sells for | Remakes¹ | Quests² | Total |
 | -- | -- | --- | ---- | --------- | -------- | ------- | ----: |
 | <input type="checkbox" id="rb2-item-0-707" class="trackbox" /> | 707 | [Base](/neptunia/rb2/dlc/0-base.html) | [Copper Ore](/neptunia/rb2/item/0-707-copper-ore.html) (Material) | 75 | 20 | 0 | 20 |
-| <input type="checkbox" id="rb2-item-0-718" class="trackbox" /> | 718 | [Base](/neptunia/rb2/dlc/0-base.html) | [Gale Stone](/neptunia/rb2/item/0-718-gale-stone.html) (Material) | 450 | 4 | 0 | 4 |
 | <input type="checkbox" id="rb2-item-0-719" class="trackbox" /> | 719 | [Base](/neptunia/rb2/dlc/0-base.html) | [Storm Stone](/neptunia/rb2/item/0-719-storm-stone.html) (Material) | 50 | 10 | 0 | 10 |
 | <input type="checkbox" id="rb2-item-0-724" class="trackbox" /> | 724 | [Base](/neptunia/rb2/dlc/0-base.html) | [Piece of Concrete](/neptunia/rb2/item/0-724-piece-of-concrete.html) (Material) | 150 | 8 | 0 | 8 |
-| <input type="checkbox" id="rb2-item-0-729" class="trackbox" /> | 729 | [Base](/neptunia/rb2/dlc/0-base.html) | [Model 4 Base](/neptunia/rb2/item/0-729-model-4-base.html) (Material) | 15 | 48 | 0 | 48 |
 | <input type="checkbox" id="rb2-item-0-731" class="trackbox" /> | 731 | [Base](/neptunia/rb2/dlc/0-base.html) | [Ling Base](/neptunia/rb2/item/0-731-ling-base.html) (Material) | 17500 | 14 | 0 | 14 |
 | <input type="checkbox" id="rb2-item-0-4115" class="trackbox" /> | 4115 | [Base](/neptunia/rb2/dlc/0-base.html) | [Bullet Hell](/neptunia/rb2/item/0-4115-bullet-hell.html) (Idea Chip (Yellow)) | 10 | 0 | 0 | 0 |
 | <input type="checkbox" id="rb2-item-0-4144" class="trackbox" /> | 4144 | [Base](/neptunia/rb2/dlc/0-base.html) | [Battle Strategy](/neptunia/rb2/item/0-4144-battle-strategy.html) (Idea Chip (Yellow)) | 10 | 0 | 0 | 0 |
@@ -124,17 +122,6 @@ See [gathering point tables](#gathering-point-tables-for-lost-ruins) for more in
 ### Normal
 
 
-| #  | Item 1 | Item 2 | Item 3 | Item 4 | Item 5 |
-| -- | ------ | ------ | ------ | ------ | ------ |
-| 1 | 50%: [Copper Ore](/neptunia/rb2/item/0-707-copper-ore.html) x1~2 | 50%: [Piece of Concrete](/neptunia/rb2/item/0-724-piece-of-concrete.html) x1~2 | 25%: [Ling Base](/neptunia/rb2/item/0-731-ling-base.html) x1 | 25%: [Bullet Hell](/neptunia/rb2/item/0-4115-bullet-hell.html) x1 | 7.5%: [Bullet Hell](/neptunia/rb2/item/0-4115-bullet-hell.html) x1 |
-| 2 | 50%: [Piece of Concrete](/neptunia/rb2/item/0-724-piece-of-concrete.html) x1~2 | 50%: [Copper Ore](/neptunia/rb2/item/0-707-copper-ore.html) x1~2 | 25%: [Storm Stone](/neptunia/rb2/item/0-719-storm-stone.html) x1 | 25%: [Battle Strategy](/neptunia/rb2/item/0-4144-battle-strategy.html) x2~3 | 7.5%: [Battle Strategy](/neptunia/rb2/item/0-4144-battle-strategy.html) x1 |
-| 3 | 50%: [Model 4 Base](/neptunia/rb2/item/0-729-model-4-base.html) x1~2 | 50%: [Ling Base](/neptunia/rb2/item/0-731-ling-base.html) x1~2 | 25%: [Gale Stone](/neptunia/rb2/item/0-718-gale-stone.html) x1 | 25%: [Teen Makeover](/neptunia/rb2/item/0-4174-teen-makeover.html) x2~3 | 7.5%: [Teen Makeover](/neptunia/rb2/item/0-4174-teen-makeover.html) x1 |
-| 4 | 50%: [Copper Ore](/neptunia/rb2/item/0-707-copper-ore.html) x1~2 | 50%: [Storm Stone](/neptunia/rb2/item/0-719-storm-stone.html) x1~2 | 25%: [Model 4 Base](/neptunia/rb2/item/0-729-model-4-base.html) x1 | 25%: [Whoaaa!](/neptunia/rb2/item/0-4246-whoaaa.html) x2~3 | 7.5%: [Whoaaa!](/neptunia/rb2/item/0-4246-whoaaa.html) x1 |
-| 5 | 50%: [Piece of Concrete](/neptunia/rb2/item/0-724-piece-of-concrete.html) x2~3 | 50%: [Ling Base](/neptunia/rb2/item/0-731-ling-base.html) x2~3 | 25%: [Gale Stone](/neptunia/rb2/item/0-718-gale-stone.html) x1 | 25%: [Nature](/neptunia/rb2/item/0-4280-nature.html) x1~3 | 7.5%: [Nature](/neptunia/rb2/item/0-4280-nature.html) x1 |
-
-### Item Change (Harvest Shift) enabled
-
-
 | #  | Item 1 | Item 2 | Item 3 |
 | -- | ------ | ------ | ------ |
 | 1 | 100%: [Copper Ore](/neptunia/rb2/item/0-707-copper-ore.html) x1~2 | 50%: [Ling Base](/neptunia/rb2/item/0-731-ling-base.html) x1 | 15%: [Bullet Hell](/neptunia/rb2/item/0-4115-bullet-hell.html) x1 |
@@ -142,6 +129,17 @@ See [gathering point tables](#gathering-point-tables-for-lost-ruins) for more in
 | 3 | 100%: [Model 4 Base](/neptunia/rb2/item/0-729-model-4-base.html) x1~2 | 50%: [Gale Stone](/neptunia/rb2/item/0-718-gale-stone.html) x1 | 15%: [Teen Makeover](/neptunia/rb2/item/0-4174-teen-makeover.html) x1 |
 | 4 | 100%: [Copper Ore](/neptunia/rb2/item/0-707-copper-ore.html) x1~2 | 50%: [Model 4 Base](/neptunia/rb2/item/0-729-model-4-base.html) x1 | 15%: [Whoaaa!](/neptunia/rb2/item/0-4246-whoaaa.html) x1 |
 | 5 | 100%: [Piece of Concrete](/neptunia/rb2/item/0-724-piece-of-concrete.html) x2~3 | 50%: [Gale Stone](/neptunia/rb2/item/0-718-gale-stone.html) x1 | 15%: [Nature](/neptunia/rb2/item/0-4280-nature.html) x1 |
+
+### Item Change (Harvest Shift) enabled
+
+
+| #  | Item 1 | Item 2 |
+| -- | ------ | ------ |
+| 1 | 100%: [Piece of Concrete](/neptunia/rb2/item/0-724-piece-of-concrete.html) x1~2 | 50%: [Bullet Hell](/neptunia/rb2/item/0-4115-bullet-hell.html) x1 |
+| 2 | 100%: [Copper Ore](/neptunia/rb2/item/0-707-copper-ore.html) x1~2 | 50%: [Battle Strategy](/neptunia/rb2/item/0-4144-battle-strategy.html) x2~3 |
+| 3 | 100%: [Ling Base](/neptunia/rb2/item/0-731-ling-base.html) x1~2 | 50%: [Teen Makeover](/neptunia/rb2/item/0-4174-teen-makeover.html) x2~3 |
+| 4 | 100%: [Storm Stone](/neptunia/rb2/item/0-719-storm-stone.html) x1~2 | 50%: [Whoaaa!](/neptunia/rb2/item/0-4246-whoaaa.html) x2~3 |
+| 5 | 100%: [Ling Base](/neptunia/rb2/item/0-731-ling-base.html) x2~3 | 50%: [Nature](/neptunia/rb2/item/0-4280-nature.html) x1~3 |
 
 ### Treasure
 

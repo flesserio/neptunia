@@ -35,9 +35,6 @@ See [gathering point tables](#gathering-point-tables-for-underverse-depths) for 
 | <input type="checkbox" id="rb2-item-0-707" class="trackbox" /> | 707 | [Base](/neptunia/rb2/dlc/0-base.html) | [Copper Ore](/neptunia/rb2/item/0-707-copper-ore.html) (Material) | 75 | 20 | 0 | 20 |
 | <input type="checkbox" id="rb2-item-0-711" class="trackbox" /> | 711 | [Base](/neptunia/rb2/dlc/0-base.html) | [Thermodite](/neptunia/rb2/item/0-711-thermodite.html) (Material) | 525 | 9 | 0 | 9 |
 | <input type="checkbox" id="rb2-item-0-712" class="trackbox" /> | 712 | [Base](/neptunia/rb2/dlc/0-base.html) | [Crimson Stone](/neptunia/rb2/item/0-712-crimson-stone.html) (Material) | 450 | 21 | 0 | 21 |
-| <input type="checkbox" id="rb2-item-0-836" class="trackbox" /> | 836 | [Base](/neptunia/rb2/dlc/0-base.html) | [Bomb Lips](/neptunia/rb2/item/0-836-bomb-lips.html) (Material) | 11 | 5 | 0 | 5 |
-| <input type="checkbox" id="rb2-item-0-864" class="trackbox" /> | 864 | [Base](/neptunia/rb2/dlc/0-base.html) | [Red Petal](/neptunia/rb2/item/0-864-red-petal.html) (Material) | 1891 | 5 | 0 | 5 |
-| <input type="checkbox" id="rb2-item-0-895" class="trackbox" /> | 895 | [Base](/neptunia/rb2/dlc/0-base.html) | [Buff Stone](/neptunia/rb2/item/0-895-buff-stone.html) (Material) | 155 | 2 | 0 | 2 |
 | <input type="checkbox" id="rb2-item-0-4127" class="trackbox" /> | 4127 | [Base](/neptunia/rb2/dlc/0-base.html) | [Mahjong](/neptunia/rb2/item/0-4127-mahjong.html) (Idea Chip (Yellow)) | 10 | 0 | 0 | 0 |
 | <input type="checkbox" id="rb2-item-0-4183" class="trackbox" /> | 4183 | [Base](/neptunia/rb2/dlc/0-base.html) | [Photorealistic](/neptunia/rb2/item/0-4183-photorealistic.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
 | <input type="checkbox" id="rb2-item-0-4223" class="trackbox" /> | 4223 | [Base](/neptunia/rb2/dlc/0-base.html) | [Slot](/neptunia/rb2/item/0-4223-slot.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
@@ -48,14 +45,15 @@ See [gathering point tables](#gathering-point-tables-for-underverse-depths) for 
 
 |    | ID | DLC | Name | Sells for | Remakes¹ | Quests² | Total |
 | -- | -- | --- | ---- | --------- | -------- | ------- | ----: |
-| <input type="checkbox" id="rb2-item-0-809" class="trackbox" /> | 809 | [Base](/neptunia/rb2/dlc/0-base.html) | [Numb Jelly](/neptunia/rb2/item/0-809-numb-jelly.html) (Material) | 120 | 2 | 0 | 2 |
-| <input type="checkbox" id="rb2-item-0-923" class="trackbox" /> | 923 | [Base](/neptunia/rb2/dlc/0-base.html) | [Elastic Thread](/neptunia/rb2/item/0-923-elastic-thread.html) (Material) | 114 | 0 | 0 | 0 |
-| <input type="checkbox" id="rb2-item-0-959" class="trackbox" /> | 959 | [Base](/neptunia/rb2/dlc/0-base.html) | [Blazing Ore](/neptunia/rb2/item/0-959-blazing-ore.html) (Material) | 211 | 0 | 0 | 0 |
-| <input type="checkbox" id="rb2-item-0-4136" class="trackbox" /> | 4136 | [Base](/neptunia/rb2/dlc/0-base.html) | [Arcade](/neptunia/rb2/item/0-4136-arcade.html) (Idea Chip (Yellow)) | 10 | 0 | 0 | 0 |
-| <input type="checkbox" id="rb2-item-0-4191" class="trackbox" /> | 4191 | [Base](/neptunia/rb2/dlc/0-base.html) | [3D](/neptunia/rb2/item/0-4191-3d.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
-| <input type="checkbox" id="rb2-item-0-4217" class="trackbox" /> | 4217 | [Base](/neptunia/rb2/dlc/0-base.html) | [Auto-map Dungeon](/neptunia/rb2/item/0-4217-auto-map-dungeon.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
-| <input type="checkbox" id="rb2-item-0-4242" class="trackbox" /> | 4242 | [Base](/neptunia/rb2/dlc/0-base.html) | [Female-oriented](/neptunia/rb2/item/0-4242-female-oriented.html) (Idea Chip (Red)) | 10 | 0 | 0 | 0 |
-| <input type="checkbox" id="rb2-item-0-4250" class="trackbox" /> | 4250 | [Base](/neptunia/rb2/dlc/0-base.html) | [Industry First!](/neptunia/rb2/item/0-4250-industry-first.html) (Idea Chip (Red)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-712" class="trackbox" /> | 712 | [Base](/neptunia/rb2/dlc/0-base.html) | [Crimson Stone](/neptunia/rb2/item/0-712-crimson-stone.html) (Material) | 450 | 21 | 0 | 21 |
+| <input type="checkbox" id="rb2-item-0-836" class="trackbox" /> | 836 | [Base](/neptunia/rb2/dlc/0-base.html) | [Bomb Lips](/neptunia/rb2/item/0-836-bomb-lips.html) (Material) | 11 | 5 | 0 | 5 |
+| <input type="checkbox" id="rb2-item-0-864" class="trackbox" /> | 864 | [Base](/neptunia/rb2/dlc/0-base.html) | [Red Petal](/neptunia/rb2/item/0-864-red-petal.html) (Material) | 1891 | 5 | 0 | 5 |
+| <input type="checkbox" id="rb2-item-0-895" class="trackbox" /> | 895 | [Base](/neptunia/rb2/dlc/0-base.html) | [Buff Stone](/neptunia/rb2/item/0-895-buff-stone.html) (Material) | 155 | 2 | 0 | 2 |
+| <input type="checkbox" id="rb2-item-0-4127" class="trackbox" /> | 4127 | [Base](/neptunia/rb2/dlc/0-base.html) | [Mahjong](/neptunia/rb2/item/0-4127-mahjong.html) (Idea Chip (Yellow)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-4183" class="trackbox" /> | 4183 | [Base](/neptunia/rb2/dlc/0-base.html) | [Photorealistic](/neptunia/rb2/item/0-4183-photorealistic.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-4223" class="trackbox" /> | 4223 | [Base](/neptunia/rb2/dlc/0-base.html) | [Slot](/neptunia/rb2/item/0-4223-slot.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-4244" class="trackbox" /> | 4244 | [Base](/neptunia/rb2/dlc/0-base.html) | [Muddy](/neptunia/rb2/item/0-4244-muddy.html) (Idea Chip (Red)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-4274" class="trackbox" /> | 4274 | [Base](/neptunia/rb2/dlc/0-base.html) | [Pinch Revival](/neptunia/rb2/item/0-4274-pinch-revival.html) (Idea Chip (Red)) | 10 | 0 | 0 | 0 |
 
 ### From treasure gathering points
 
@@ -112,24 +110,24 @@ See [gathering point tables](#gathering-point-tables-for-underverse-depths) for 
 ### Normal
 
 
-| #  | Item 1 | Item 2 | Item 3 | Item 4 | Item 5 |
-| -- | ------ | ------ | ------ | ------ | ------ |
-| 1 | 50%: [Copper Ore](/neptunia/rb2/item/0-707-copper-ore.html) x1~2 | 50%: [Crimson Stone](/neptunia/rb2/item/0-712-crimson-stone.html) x1~2 | 25%: [Mahjong](/neptunia/rb2/item/0-4127-mahjong.html) x1~2 | 7.5%: [Mahjong](/neptunia/rb2/item/0-4127-mahjong.html) x1 |
-| 2 | 50%: [Thermodite](/neptunia/rb2/item/0-711-thermodite.html) x1~2 | 50%: [Crimson Stone](/neptunia/rb2/item/0-712-crimson-stone.html) x1~2 | 25%: [Photorealistic](/neptunia/rb2/item/0-4183-photorealistic.html) x3~5 | 7.5%: [Photorealistic](/neptunia/rb2/item/0-4183-photorealistic.html) x1 |
-| 3 | 50%: [Copper Ore](/neptunia/rb2/item/0-707-copper-ore.html) x1~2 | 50%: [Red Petal](/neptunia/rb2/item/0-864-red-petal.html) x1~2 | 25%: [Crimson Stone](/neptunia/rb2/item/0-712-crimson-stone.html) x1 | 25%: [Muddy](/neptunia/rb2/item/0-4244-muddy.html) x1~2 | 7.5%: [Muddy](/neptunia/rb2/item/0-4244-muddy.html) x1 |
-| 4 | 50%: [Thermodite](/neptunia/rb2/item/0-711-thermodite.html) x2~3 | 50%: [Bomb Lips](/neptunia/rb2/item/0-836-bomb-lips.html) x2~3 | 25%: [Crimson Stone](/neptunia/rb2/item/0-712-crimson-stone.html) x1 | 25%: [Pinch Revival](/neptunia/rb2/item/0-4274-pinch-revival.html) x1~2 | 7.5%: [Pinch Revival](/neptunia/rb2/item/0-4274-pinch-revival.html) x1 |
-| 5 | 50%: [Thermodite](/neptunia/rb2/item/0-711-thermodite.html) x2~3 | 50%: [Buff Stone](/neptunia/rb2/item/0-895-buff-stone.html) x2~3 | 25%: [Crimson Stone](/neptunia/rb2/item/0-712-crimson-stone.html) x1 | 25%: [Slot](/neptunia/rb2/item/0-4223-slot.html) x2~3 | 7.5%: [Slot](/neptunia/rb2/item/0-4223-slot.html) x1 |
+| #  | Item 1 | Item 2 | Item 3 |
+| -- | ------ | ------ | ------ |
+| 1 | 100%: [Copper Ore](/neptunia/rb2/item/0-707-copper-ore.html) x1~2 | 15%: [Mahjong](/neptunia/rb2/item/0-4127-mahjong.html) x1 |
+| 2 | 100%: [Thermodite](/neptunia/rb2/item/0-711-thermodite.html) x1~2 | 15%: [Photorealistic](/neptunia/rb2/item/0-4183-photorealistic.html) x1 |
+| 3 | 100%: [Copper Ore](/neptunia/rb2/item/0-707-copper-ore.html) x1~2 | 50%: [Crimson Stone](/neptunia/rb2/item/0-712-crimson-stone.html) x1 | 15%: [Muddy](/neptunia/rb2/item/0-4244-muddy.html) x1 |
+| 4 | 100%: [Thermodite](/neptunia/rb2/item/0-711-thermodite.html) x2~3 | 50%: [Crimson Stone](/neptunia/rb2/item/0-712-crimson-stone.html) x1 | 15%: [Pinch Revival](/neptunia/rb2/item/0-4274-pinch-revival.html) x1 |
+| 5 | 100%: [Thermodite](/neptunia/rb2/item/0-711-thermodite.html) x2~3 | 50%: [Crimson Stone](/neptunia/rb2/item/0-712-crimson-stone.html) x1 | 15%: [Slot](/neptunia/rb2/item/0-4223-slot.html) x1 |
 
 ### Item Change (Harvest Shift) enabled
 
 
 | #  | Item 1 | Item 2 |
 | -- | ------ | ------ |
-| 1 | 100%: [3D](/neptunia/rb2/item/0-4191-3d.html) x1 |
-| 2 | 100%: [Industry First!](/neptunia/rb2/item/0-4250-industry-first.html) x1 | 50%: [Blazing Ore](/neptunia/rb2/item/0-959-blazing-ore.html) x1 |
-| 3 | 100%: [Female-oriented](/neptunia/rb2/item/0-4242-female-oriented.html) x1~2 | 50%: [Elastic Thread](/neptunia/rb2/item/0-923-elastic-thread.html) x1 |
-| 4 | 100%: [Auto-map Dungeon](/neptunia/rb2/item/0-4217-auto-map-dungeon.html) x2~3 |
-| 5 | 100%: [Arcade](/neptunia/rb2/item/0-4136-arcade.html) x2~3 | 50%: [Numb Jelly](/neptunia/rb2/item/0-809-numb-jelly.html) x1 |
+| 1 | 100%: [Crimson Stone](/neptunia/rb2/item/0-712-crimson-stone.html) x1~2 | 50%: [Mahjong](/neptunia/rb2/item/0-4127-mahjong.html) x1~2 |
+| 2 | 100%: [Crimson Stone](/neptunia/rb2/item/0-712-crimson-stone.html) x1~2 | 50%: [Photorealistic](/neptunia/rb2/item/0-4183-photorealistic.html) x3~5 |
+| 3 | 100%: [Red Petal](/neptunia/rb2/item/0-864-red-petal.html) x1~2 | 50%: [Muddy](/neptunia/rb2/item/0-4244-muddy.html) x1~2 |
+| 4 | 100%: [Bomb Lips](/neptunia/rb2/item/0-836-bomb-lips.html) x2~3 | 50%: [Pinch Revival](/neptunia/rb2/item/0-4274-pinch-revival.html) x1~2 |
+| 5 | 100%: [Buff Stone](/neptunia/rb2/item/0-895-buff-stone.html) x2~3 | 50%: [Slot](/neptunia/rb2/item/0-4223-slot.html) x2~3 |
 
 ### Treasure
 

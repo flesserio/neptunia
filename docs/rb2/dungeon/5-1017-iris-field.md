@@ -37,8 +37,6 @@ See [gathering point tables](#gathering-point-tables-for-iris-field) for more in
 | <input type="checkbox" id="rb2-item-0-703" class="trackbox" /> | 703 | [Base](/neptunia/rb2/dlc/0-base.html) | [Glowgrass](/neptunia/rb2/item/0-703-glowgrass.html) (Material) | 25 | 36 | 0 | 36 |
 | <input type="checkbox" id="rb2-item-0-723" class="trackbox" /> | 723 | [Base](/neptunia/rb2/dlc/0-base.html) | [Rock](/neptunia/rb2/item/0-723-rock.html) (Material) | 10 | 27 | 3 | 30 |
 | <input type="checkbox" id="rb2-item-0-868" class="trackbox" /> | 868 | [Base](/neptunia/rb2/dlc/0-base.html) | [Red Seed](/neptunia/rb2/item/0-868-red-seed.html) (Material) | 73 | 8 | 0 | 8 |
-| <input type="checkbox" id="rb2-item-0-901" class="trackbox" /> | 901 | [Base](/neptunia/rb2/dlc/0-base.html) | [Soccer Ball](/neptunia/rb2/item/0-901-soccer-ball.html) (Material) | 2249 | 4 | 5 | 9 |
-| <input type="checkbox" id="rb2-item-0-927" class="trackbox" /> | 927 | [Base](/neptunia/rb2/dlc/0-base.html) | [Meow Claws](/neptunia/rb2/item/0-927-meow-claws.html) (Material) | 12 | 6 | 0 | 6 |
 | <input type="checkbox" id="rb2-item-0-4145" class="trackbox" /> | 4145 | [Base](/neptunia/rb2/dlc/0-base.html) | [Business Sim](/neptunia/rb2/item/0-4145-business-sim.html) (Idea Chip (Yellow)) | 10 | 0 | 0 | 0 |
 | <input type="checkbox" id="rb2-item-0-4166" class="trackbox" /> | 4166 | [Base](/neptunia/rb2/dlc/0-base.html) | [Tsundere](/neptunia/rb2/item/0-4166-tsundere.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
 | <input type="checkbox" id="rb2-item-0-4176" class="trackbox" /> | 4176 | [Base](/neptunia/rb2/dlc/0-base.html) | [All-star](/neptunia/rb2/item/0-4176-all-star.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
@@ -50,10 +48,18 @@ See [gathering point tables](#gathering-point-tables-for-iris-field) for more in
 
 |    | ID | DLC | Name | Sells for | Remakes¹ | Quests² | Total |
 | -- | -- | --- | ---- | --------- | -------- | ------- | ----: |
-| <input type="checkbox" id="rb2-item-5-4545" class="trackbox" /> | 4545 | [Additional Content Pack 3](/neptunia/rb2/dlc/5-pack3.html) | [Sharp Wolf Fang](/neptunia/rb2/item/5-4545-sharp-wolf-fang.html) (Material) | 351 | 4 | 0 | 4 |
-| <input type="checkbox" id="rb2-item-5-4546" class="trackbox" /> | 4546 | [Additional Content Pack 3](/neptunia/rb2/dlc/5-pack3.html) | [Diamond Crystal](/neptunia/rb2/item/5-4546-diamond-crystal.html) (Material) | 344 | 4 | 0 | 4 |
-| <input type="checkbox" id="rb2-item-5-4547" class="trackbox" /> | 4547 | [Additional Content Pack 3](/neptunia/rb2/dlc/5-pack3.html) | [Colorful Pinion](/neptunia/rb2/item/5-4547-colorful-pinion.html) (Material) | 372 | 4 | 0 | 4 |
-| <input type="checkbox" id="rb2-item-5-4548" class="trackbox" /> | 4548 | [Additional Content Pack 3](/neptunia/rb2/dlc/5-pack3.html) | [Fantasy Pollen](/neptunia/rb2/item/5-4548-fantasy-pollen.html) (Material) | 365 | 4 | 0 | 4 |
+| <input type="checkbox" id="rb2-item-0-702" class="trackbox" /> | 702 | [Base](/neptunia/rb2/dlc/0-base.html) | [Healing Herb](/neptunia/rb2/item/0-702-healing-herb.html) (Material) | 50 | 31 | 4 | 35 |
+| <input type="checkbox" id="rb2-item-0-703" class="trackbox" /> | 703 | [Base](/neptunia/rb2/dlc/0-base.html) | [Glowgrass](/neptunia/rb2/item/0-703-glowgrass.html) (Material) | 25 | 36 | 0 | 36 |
+| <input type="checkbox" id="rb2-item-0-723" class="trackbox" /> | 723 | [Base](/neptunia/rb2/dlc/0-base.html) | [Rock](/neptunia/rb2/item/0-723-rock.html) (Material) | 10 | 27 | 3 | 30 |
+| <input type="checkbox" id="rb2-item-0-868" class="trackbox" /> | 868 | [Base](/neptunia/rb2/dlc/0-base.html) | [Red Seed](/neptunia/rb2/item/0-868-red-seed.html) (Material) | 73 | 8 | 0 | 8 |
+| <input type="checkbox" id="rb2-item-0-901" class="trackbox" /> | 901 | [Base](/neptunia/rb2/dlc/0-base.html) | [Soccer Ball](/neptunia/rb2/item/0-901-soccer-ball.html) (Material) | 2249 | 4 | 5 | 9 |
+| <input type="checkbox" id="rb2-item-0-927" class="trackbox" /> | 927 | [Base](/neptunia/rb2/dlc/0-base.html) | [Meow Claws](/neptunia/rb2/item/0-927-meow-claws.html) (Material) | 12 | 6 | 0 | 6 |
+| <input type="checkbox" id="rb2-item-0-4145" class="trackbox" /> | 4145 | [Base](/neptunia/rb2/dlc/0-base.html) | [Business Sim](/neptunia/rb2/item/0-4145-business-sim.html) (Idea Chip (Yellow)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-4166" class="trackbox" /> | 4166 | [Base](/neptunia/rb2/dlc/0-base.html) | [Tsundere](/neptunia/rb2/item/0-4166-tsundere.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-4176" class="trackbox" /> | 4176 | [Base](/neptunia/rb2/dlc/0-base.html) | [All-star](/neptunia/rb2/item/0-4176-all-star.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-4206" class="trackbox" /> | 4206 | [Base](/neptunia/rb2/dlc/0-base.html) | [Super Secret Move](/neptunia/rb2/item/0-4206-super-secret-move.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-4267" class="trackbox" /> | 4267 | [Base](/neptunia/rb2/dlc/0-base.html) | [War](/neptunia/rb2/item/0-4267-war.html) (Idea Chip (Red)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-4282" class="trackbox" /> | 4282 | [Base](/neptunia/rb2/dlc/0-base.html) | [Harem](/neptunia/rb2/item/0-4282-harem.html) (Idea Chip (Red)) | 10 | 0 | 0 | 0 |
 
 ### From treasure gathering points
 
@@ -111,26 +117,26 @@ See [gathering point tables](#gathering-point-tables-for-iris-field) for more in
 ### Normal
 
 
-| #  | Item 1 | Item 2 | Item 3 | Item 4 | Item 5 |
-| -- | ------ | ------ | ------ | ------ | ------ |
-| 1 | 50%: [Herb](/neptunia/rb2/item/0-701-herb.html) x1~2 | 50%: [Rock](/neptunia/rb2/item/0-723-rock.html) x1~2 | 25%: [Healing Herb](/neptunia/rb2/item/0-702-healing-herb.html) x1 | 25%: [Super Secret Move](/neptunia/rb2/item/0-4206-super-secret-move.html) x1~2 | 7.5%: [Super Secret Move](/neptunia/rb2/item/0-4206-super-secret-move.html) x1 |
-| 2 | 50%: [Rock](/neptunia/rb2/item/0-723-rock.html) x1~2 | 50%: [Soccer Ball](/neptunia/rb2/item/0-901-soccer-ball.html) x1~2 | 25%: [Glowgrass](/neptunia/rb2/item/0-703-glowgrass.html) x1 | 25%: [Tsundere](/neptunia/rb2/item/0-4166-tsundere.html) x1 | 7.5%: [Tsundere](/neptunia/rb2/item/0-4166-tsundere.html) x1 |
-| 3 | 50%: [Herb](/neptunia/rb2/item/0-701-herb.html) x2~3 | 50%: [Meow Claws](/neptunia/rb2/item/0-927-meow-claws.html) x2~3 | 25%: [Glowgrass](/neptunia/rb2/item/0-703-glowgrass.html) x1 | 25%: [Business Sim](/neptunia/rb2/item/0-4145-business-sim.html) x2~3 | 7.5%: [Business Sim](/neptunia/rb2/item/0-4145-business-sim.html) x1 |
-| 4 | 50%: [Healing Herb](/neptunia/rb2/item/0-702-healing-herb.html) x1~2 | 50%: [Red Seed](/neptunia/rb2/item/0-868-red-seed.html) x1~2 | 25%: [Red Seed](/neptunia/rb2/item/0-868-red-seed.html) x1 | 25%: [Harem](/neptunia/rb2/item/0-4282-harem.html) x2~3 | 7.5%: [Harem](/neptunia/rb2/item/0-4282-harem.html) x1 |
-| 5 | 50%: [Rock](/neptunia/rb2/item/0-723-rock.html) x1~2 | 50%: [Glowgrass](/neptunia/rb2/item/0-703-glowgrass.html) x1~2 | 25%: [Healing Herb](/neptunia/rb2/item/0-702-healing-herb.html) x1 | 25%: [War](/neptunia/rb2/item/0-4267-war.html) x1 | 7.5%: [War](/neptunia/rb2/item/0-4267-war.html) x1 |
-| 6 | 50%: [Healing Herb](/neptunia/rb2/item/0-702-healing-herb.html) x1~2 | 50%: [Healing Herb](/neptunia/rb2/item/0-702-healing-herb.html) x1~2 | 25%: [All-star](/neptunia/rb2/item/0-4176-all-star.html) x3~5 | 7.5%: [All-star](/neptunia/rb2/item/0-4176-all-star.html) x1 |
+| #  | Item 1 | Item 2 | Item 3 |
+| -- | ------ | ------ | ------ |
+| 1 | 100%: [Herb](/neptunia/rb2/item/0-701-herb.html) x1~2 | 50%: [Healing Herb](/neptunia/rb2/item/0-702-healing-herb.html) x1 | 15%: [Super Secret Move](/neptunia/rb2/item/0-4206-super-secret-move.html) x1 |
+| 2 | 100%: [Rock](/neptunia/rb2/item/0-723-rock.html) x1~2 | 50%: [Glowgrass](/neptunia/rb2/item/0-703-glowgrass.html) x1 | 15%: [Tsundere](/neptunia/rb2/item/0-4166-tsundere.html) x1 |
+| 3 | 100%: [Herb](/neptunia/rb2/item/0-701-herb.html) x2~3 | 50%: [Glowgrass](/neptunia/rb2/item/0-703-glowgrass.html) x1 | 15%: [Business Sim](/neptunia/rb2/item/0-4145-business-sim.html) x1 |
+| 4 | 100%: [Healing Herb](/neptunia/rb2/item/0-702-healing-herb.html) x1~2 | 50%: [Red Seed](/neptunia/rb2/item/0-868-red-seed.html) x1 | 15%: [Harem](/neptunia/rb2/item/0-4282-harem.html) x1 |
+| 5 | 100%: [Rock](/neptunia/rb2/item/0-723-rock.html) x1~2 | 50%: [Healing Herb](/neptunia/rb2/item/0-702-healing-herb.html) x1 | 15%: [War](/neptunia/rb2/item/0-4267-war.html) x1 |
+| 6 | 100%: [Healing Herb](/neptunia/rb2/item/0-702-healing-herb.html) x1~2 | 15%: [All-star](/neptunia/rb2/item/0-4176-all-star.html) x1 |
 
 ### Item Change (Harvest Shift) enabled
 
 
-| #  | Item 1 |
-| -- | ------ |
-| 1 | 100%: [Sharp Wolf Fang](/neptunia/rb2/item/5-4545-sharp-wolf-fang.html) x1 |
-| 2 | 100%: [Diamond Crystal](/neptunia/rb2/item/5-4546-diamond-crystal.html) x1 |
-| 3 | 100%: [Colorful Pinion](/neptunia/rb2/item/5-4547-colorful-pinion.html) x2~3 |
-| 4 | 100%: [Fantasy Pollen](/neptunia/rb2/item/5-4548-fantasy-pollen.html) x1~2 |
-| 5 | 100%: [Diamond Crystal](/neptunia/rb2/item/5-4546-diamond-crystal.html) x1~2 |
-| 6 | 100%: [Colorful Pinion](/neptunia/rb2/item/5-4547-colorful-pinion.html) x1~2 |
+| #  | Item 1 | Item 2 |
+| -- | ------ | ------ |
+| 1 | 100%: [Rock](/neptunia/rb2/item/0-723-rock.html) x1~2 | 50%: [Super Secret Move](/neptunia/rb2/item/0-4206-super-secret-move.html) x1~2 |
+| 2 | 100%: [Soccer Ball](/neptunia/rb2/item/0-901-soccer-ball.html) x1~2 | 50%: [Tsundere](/neptunia/rb2/item/0-4166-tsundere.html) x1 |
+| 3 | 100%: [Meow Claws](/neptunia/rb2/item/0-927-meow-claws.html) x2~3 | 50%: [Business Sim](/neptunia/rb2/item/0-4145-business-sim.html) x2~3 |
+| 4 | 100%: [Red Seed](/neptunia/rb2/item/0-868-red-seed.html) x1~2 | 50%: [Harem](/neptunia/rb2/item/0-4282-harem.html) x2~3 |
+| 5 | 100%: [Glowgrass](/neptunia/rb2/item/0-703-glowgrass.html) x1~2 | 50%: [War](/neptunia/rb2/item/0-4267-war.html) x1 |
+| 6 | 100%: [Healing Herb](/neptunia/rb2/item/0-702-healing-herb.html) x1~2 | 50%: [All-star](/neptunia/rb2/item/0-4176-all-star.html) x3~5 |
 
 ### Treasure
 

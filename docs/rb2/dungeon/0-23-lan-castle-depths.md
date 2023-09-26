@@ -33,7 +33,6 @@ See [gathering point tables](#gathering-point-tables-for-lan-castle-depths) for 
 |    | ID | DLC | Name | Sells for | Remakes¹ | Quests² | Total |
 | -- | -- | --- | ---- | --------- | -------- | ------- | ----: |
 | <input type="checkbox" id="rb2-item-0-704" class="trackbox" /> | 704 | [Base](/neptunia/rb2/dlc/0-base.html) | [Refresh Herb](/neptunia/rb2/item/0-704-refresh-herb.html) (Material) | 75 | 32 | 0 | 32 |
-| <input type="checkbox" id="rb2-item-0-705" class="trackbox" /> | 705 | [Base](/neptunia/rb2/dlc/0-base.html) | [World Tree Leaf](/neptunia/rb2/item/0-705-world-tree-leaf.html) (Material) | 100 | 22 | 5 | 27 |
 | <input type="checkbox" id="rb2-item-0-710" class="trackbox" /> | 710 | [Base](/neptunia/rb2/dlc/0-base.html) | [Orichalcum](/neptunia/rb2/item/0-710-orichalcum.html) (Material) | 250 | 13 | 5 | 18 |
 | <input type="checkbox" id="rb2-item-0-712" class="trackbox" /> | 712 | [Base](/neptunia/rb2/dlc/0-base.html) | [Crimson Stone](/neptunia/rb2/item/0-712-crimson-stone.html) (Material) | 450 | 21 | 0 | 21 |
 | <input type="checkbox" id="rb2-item-0-715" class="trackbox" /> | 715 | [Base](/neptunia/rb2/dlc/0-base.html) | [Gelid Stone](/neptunia/rb2/item/0-715-gelid-stone.html) (Material) | 450 | 9 | 0 | 9 |
@@ -47,12 +46,11 @@ See [gathering point tables](#gathering-point-tables-for-lan-castle-depths) for 
 
 |    | ID | DLC | Name | Sells for | Remakes¹ | Quests² | Total |
 | -- | -- | --- | ---- | --------- | -------- | ------- | ----: |
-| <input type="checkbox" id="rb2-item-0-855" class="trackbox" /> | 855 | [Base](/neptunia/rb2/dlc/0-base.html) | [Lost Holy Cloth](/neptunia/rb2/item/0-855-lost-holy-cloth.html) (Material) | 72 | 15 | 0 | 15 |
-| <input type="checkbox" id="rb2-item-0-862" class="trackbox" /> | 862 | [Base](/neptunia/rb2/dlc/0-base.html) | [Lost Ribbon](/neptunia/rb2/item/0-862-lost-ribbon.html) (Material) | 80 | 0 | 0 | 0 |
-| <input type="checkbox" id="rb2-item-0-954" class="trackbox" /> | 954 | [Base](/neptunia/rb2/dlc/0-base.html) | [Mithril Ore](/neptunia/rb2/item/0-954-mithril-ore.html) (Material) | 312 | 15 | 0 | 15 |
-| <input type="checkbox" id="rb2-item-0-4119" class="trackbox" /> | 4119 | [Base](/neptunia/rb2/dlc/0-base.html) | [Soccer](/neptunia/rb2/item/0-4119-soccer.html) (Idea Chip (Yellow)) | 10 | 0 | 0 | 0 |
-| <input type="checkbox" id="rb2-item-0-4194" class="trackbox" /> | 4194 | [Base](/neptunia/rb2/dlc/0-base.html) | [Color Editor](/neptunia/rb2/item/0-4194-color-editor.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
-| <input type="checkbox" id="rb2-item-0-4276" class="trackbox" /> | 4276 | [Base](/neptunia/rb2/dlc/0-base.html) | [Learn by Dying](/neptunia/rb2/item/0-4276-learn-by-dying.html) (Idea Chip (Red)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-705" class="trackbox" /> | 705 | [Base](/neptunia/rb2/dlc/0-base.html) | [World Tree Leaf](/neptunia/rb2/item/0-705-world-tree-leaf.html) (Material) | 100 | 22 | 5 | 27 |
+| <input type="checkbox" id="rb2-item-0-710" class="trackbox" /> | 710 | [Base](/neptunia/rb2/dlc/0-base.html) | [Orichalcum](/neptunia/rb2/item/0-710-orichalcum.html) (Material) | 250 | 13 | 5 | 18 |
+| <input type="checkbox" id="rb2-item-0-4128" class="trackbox" /> | 4128 | [Base](/neptunia/rb2/dlc/0-base.html) | [Quiz](/neptunia/rb2/item/0-4128-quiz.html) (Idea Chip (Yellow)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-4188" class="trackbox" /> | 4188 | [Base](/neptunia/rb2/dlc/0-base.html) | [Special Controller](/neptunia/rb2/item/0-4188-special-controller.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-4250" class="trackbox" /> | 4250 | [Base](/neptunia/rb2/dlc/0-base.html) | [Industry First!](/neptunia/rb2/item/0-4250-industry-first.html) (Idea Chip (Red)) | 10 | 0 | 0 | 0 |
 
 ### From treasure gathering points
 
@@ -108,20 +106,20 @@ See [gathering point tables](#gathering-point-tables-for-lan-castle-depths) for 
 ### Normal
 
 
-| #  | Item 1 | Item 2 | Item 3 | Item 4 | Item 5 |
-| -- | ------ | ------ | ------ | ------ | ------ |
-| 1 | 50%: [Gale Stone](/neptunia/rb2/item/0-718-gale-stone.html) x1~2 | 50%: [World Tree Leaf](/neptunia/rb2/item/0-705-world-tree-leaf.html) x1~2 | 25%: [Crimson Stone](/neptunia/rb2/item/0-712-crimson-stone.html) x1 | 25%: [Industry First!](/neptunia/rb2/item/0-4250-industry-first.html) x1 | 7.5%: [Industry First!](/neptunia/rb2/item/0-4250-industry-first.html) x1 |
-| 2 | 50%: [Orichalcum](/neptunia/rb2/item/0-710-orichalcum.html) x1~2 | 50%: [Orichalcum](/neptunia/rb2/item/0-710-orichalcum.html) x1~2 | 25%: [Refresh Herb](/neptunia/rb2/item/0-704-refresh-herb.html) x1 | 25%: [Special Controller](/neptunia/rb2/item/0-4188-special-controller.html) x1 | 7.5%: [Special Controller](/neptunia/rb2/item/0-4188-special-controller.html) x1 |
-| 3 | 50%: [Gelid Stone](/neptunia/rb2/item/0-715-gelid-stone.html) x1~2 | 50%: [World Tree Leaf](/neptunia/rb2/item/0-705-world-tree-leaf.html) x1~2 | 25%: [Crest Stone](/neptunia/rb2/item/0-721-crest-stone.html) x1 | 25%: [Quiz](/neptunia/rb2/item/0-4128-quiz.html) x1 | 7.5%: [Quiz](/neptunia/rb2/item/0-4128-quiz.html) x1 |
+| #  | Item 1 | Item 2 | Item 3 |
+| -- | ------ | ------ | ------ |
+| 1 | 100%: [Gale Stone](/neptunia/rb2/item/0-718-gale-stone.html) x1~2 | 50%: [Crimson Stone](/neptunia/rb2/item/0-712-crimson-stone.html) x1 | 15%: [Industry First!](/neptunia/rb2/item/0-4250-industry-first.html) x1 |
+| 2 | 100%: [Orichalcum](/neptunia/rb2/item/0-710-orichalcum.html) x1~2 | 50%: [Refresh Herb](/neptunia/rb2/item/0-704-refresh-herb.html) x1 | 15%: [Special Controller](/neptunia/rb2/item/0-4188-special-controller.html) x1 |
+| 3 | 100%: [Gelid Stone](/neptunia/rb2/item/0-715-gelid-stone.html) x1~2 | 50%: [Crest Stone](/neptunia/rb2/item/0-721-crest-stone.html) x1 | 15%: [Quiz](/neptunia/rb2/item/0-4128-quiz.html) x1 |
 
 ### Item Change (Harvest Shift) enabled
 
 
 | #  | Item 1 | Item 2 |
 | -- | ------ | ------ |
-| 1 | 100%: [Learn by Dying](/neptunia/rb2/item/0-4276-learn-by-dying.html) x1 | 50%: [Lost Holy Cloth](/neptunia/rb2/item/0-855-lost-holy-cloth.html) x1 |
-| 2 | 100%: [Color Editor](/neptunia/rb2/item/0-4194-color-editor.html) x1 | 50%: [Lost Ribbon](/neptunia/rb2/item/0-862-lost-ribbon.html) x1 |
-| 3 | 100%: [Soccer](/neptunia/rb2/item/0-4119-soccer.html) x1~2 | 50%: [Mithril Ore](/neptunia/rb2/item/0-954-mithril-ore.html) x1 |
+| 1 | 100%: [World Tree Leaf](/neptunia/rb2/item/0-705-world-tree-leaf.html) x1~2 | 50%: [Industry First!](/neptunia/rb2/item/0-4250-industry-first.html) x1 |
+| 2 | 100%: [Orichalcum](/neptunia/rb2/item/0-710-orichalcum.html) x1~2 | 50%: [Special Controller](/neptunia/rb2/item/0-4188-special-controller.html) x1 |
+| 3 | 100%: [World Tree Leaf](/neptunia/rb2/item/0-705-world-tree-leaf.html) x1~2 | 50%: [Quiz](/neptunia/rb2/item/0-4128-quiz.html) x1 |
 
 ### Treasure
 

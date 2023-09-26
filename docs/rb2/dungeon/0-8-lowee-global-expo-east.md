@@ -35,9 +35,6 @@ See [gathering point tables](#gathering-point-tables-for-lowee-global-expo-east)
 | <input type="checkbox" id="rb2-item-0-701" class="trackbox" /> | 701 | [Base](/neptunia/rb2/dlc/0-base.html) | [Herb](/neptunia/rb2/item/0-701-herb.html) (Material) | 10 | 41 | 3 | 44 |
 | <input type="checkbox" id="rb2-item-0-714" class="trackbox" /> | 714 | [Base](/neptunia/rb2/dlc/0-base.html) | [Ice Stone](/neptunia/rb2/item/0-714-ice-stone.html) (Material) | 250 | 12 | 0 | 12 |
 | <input type="checkbox" id="rb2-item-0-729" class="trackbox" /> | 729 | [Base](/neptunia/rb2/dlc/0-base.html) | [Model 4 Base](/neptunia/rb2/item/0-729-model-4-base.html) (Material) | 15 | 48 | 0 | 48 |
-| <input type="checkbox" id="rb2-item-0-826" class="trackbox" /> | 826 | [Base](/neptunia/rb2/dlc/0-base.html) | [Dot Ears](/neptunia/rb2/item/0-826-dot-ears.html) (Material) | 5 | 4 | 0 | 4 |
-| <input type="checkbox" id="rb2-item-0-838" class="trackbox" /> | 838 | [Base](/neptunia/rb2/dlc/0-base.html) | [Purple Block](/neptunia/rb2/item/0-838-purple-block.html) (Material) | 35 | 7 | 0 | 7 |
-| <input type="checkbox" id="rb2-item-0-926" class="trackbox" /> | 926 | [Base](/neptunia/rb2/dlc/0-base.html) | [Kupokitty Claws](/neptunia/rb2/item/0-926-kupokitty-claws.html) (Material) | 3723 | 3 | 0 | 3 |
 | <input type="checkbox" id="rb2-item-0-4117" class="trackbox" /> | 4117 | [Base](/neptunia/rb2/dlc/0-base.html) | [Golf](/neptunia/rb2/item/0-4117-golf.html) (Idea Chip (Yellow)) | 10 | 0 | 0 | 0 |
 | <input type="checkbox" id="rb2-item-0-4209" class="trackbox" /> | 4209 | [Base](/neptunia/rb2/dlc/0-base.html) | [Western Game](/neptunia/rb2/item/0-4209-western-game.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
 | <input type="checkbox" id="rb2-item-0-4243" class="trackbox" /> | 4243 | [Base](/neptunia/rb2/dlc/0-base.html) | [Wahahahaha!](/neptunia/rb2/item/0-4243-wahahahaha.html) (Idea Chip (Red)) | 10 | 0 | 0 | 0 |
@@ -47,13 +44,14 @@ See [gathering point tables](#gathering-point-tables-for-lowee-global-expo-east)
 
 |    | ID | DLC | Name | Sells for | Remakes¹ | Quests² | Total |
 | -- | -- | --- | ---- | --------- | -------- | ------- | ----: |
-| <input type="checkbox" id="rb2-item-0-889" class="trackbox" /> | 889 | [Base](/neptunia/rb2/dlc/0-base.html) | [Black Box Set](/neptunia/rb2/item/0-889-black-box-set.html) (Material) | 180 | 0 | 0 | 0 |
-| <input type="checkbox" id="rb2-item-0-928" class="trackbox" /> | 928 | [Base](/neptunia/rb2/dlc/0-base.html) | [Cat Whisker](/neptunia/rb2/item/0-928-cat-whisker.html) (Material) | 84 | 0 | 0 | 0 |
-| <input type="checkbox" id="rb2-item-0-936" class="trackbox" /> | 936 | [Base](/neptunia/rb2/dlc/0-base.html) | [Ice Skeleton](/neptunia/rb2/item/0-936-ice-skeleton.html) (Material) | 195 | 0 | 0 | 0 |
-| <input type="checkbox" id="rb2-item-0-4122" class="trackbox" /> | 4122 | [Base](/neptunia/rb2/dlc/0-base.html) | [Novel](/neptunia/rb2/item/0-4122-novel.html) (Idea Chip (Yellow)) | 10 | 0 | 0 | 0 |
-| <input type="checkbox" id="rb2-item-0-4167" class="trackbox" /> | 4167 | [Base](/neptunia/rb2/dlc/0-base.html) | [Yandere](/neptunia/rb2/item/0-4167-yandere.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
-| <input type="checkbox" id="rb2-item-0-4213" class="trackbox" /> | 4213 | [Base](/neptunia/rb2/dlc/0-base.html) | [Hover Movement](/neptunia/rb2/item/0-4213-hover-movement.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
-| <input type="checkbox" id="rb2-item-0-4229" class="trackbox" /> | 4229 | [Base](/neptunia/rb2/dlc/0-base.html) | [DL Only](/neptunia/rb2/item/0-4229-dl-only.html) (Idea Chip (Red)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-714" class="trackbox" /> | 714 | [Base](/neptunia/rb2/dlc/0-base.html) | [Ice Stone](/neptunia/rb2/item/0-714-ice-stone.html) (Material) | 250 | 12 | 0 | 12 |
+| <input type="checkbox" id="rb2-item-0-826" class="trackbox" /> | 826 | [Base](/neptunia/rb2/dlc/0-base.html) | [Dot Ears](/neptunia/rb2/item/0-826-dot-ears.html) (Material) | 5 | 4 | 0 | 4 |
+| <input type="checkbox" id="rb2-item-0-838" class="trackbox" /> | 838 | [Base](/neptunia/rb2/dlc/0-base.html) | [Purple Block](/neptunia/rb2/item/0-838-purple-block.html) (Material) | 35 | 7 | 0 | 7 |
+| <input type="checkbox" id="rb2-item-0-926" class="trackbox" /> | 926 | [Base](/neptunia/rb2/dlc/0-base.html) | [Kupokitty Claws](/neptunia/rb2/item/0-926-kupokitty-claws.html) (Material) | 3723 | 3 | 0 | 3 |
+| <input type="checkbox" id="rb2-item-0-4117" class="trackbox" /> | 4117 | [Base](/neptunia/rb2/dlc/0-base.html) | [Golf](/neptunia/rb2/item/0-4117-golf.html) (Idea Chip (Yellow)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-4209" class="trackbox" /> | 4209 | [Base](/neptunia/rb2/dlc/0-base.html) | [Western Game](/neptunia/rb2/item/0-4209-western-game.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-4243" class="trackbox" /> | 4243 | [Base](/neptunia/rb2/dlc/0-base.html) | [Wahahahaha!](/neptunia/rb2/item/0-4243-wahahahaha.html) (Idea Chip (Red)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-4269" class="trackbox" /> | 4269 | [Base](/neptunia/rb2/dlc/0-base.html) | [Open-ended](/neptunia/rb2/item/0-4269-open-ended.html) (Idea Chip (Red)) | 10 | 0 | 0 | 0 |
 
 ### From treasure gathering points
 
@@ -117,22 +115,22 @@ See [gathering point tables](#gathering-point-tables-for-lowee-global-expo-east)
 ### Normal
 
 
-| #  | Item 1 | Item 2 | Item 3 | Item 4 | Item 5 |
-| -- | ------ | ------ | ------ | ------ | ------ |
-| 1 | 50%: [Model 4 Base](/neptunia/rb2/item/0-729-model-4-base.html) x1~2 | 50%: [Purple Block](/neptunia/rb2/item/0-838-purple-block.html) x1~2 | 25%: [Ice Stone](/neptunia/rb2/item/0-714-ice-stone.html) x1 | 25%: [Golf](/neptunia/rb2/item/0-4117-golf.html) x2~3 | 7.5%: [Golf](/neptunia/rb2/item/0-4117-golf.html) x1 |
-| 2 | 50%: [Ice Stone](/neptunia/rb2/item/0-714-ice-stone.html) x1~2 | 50%: [Dot Ears](/neptunia/rb2/item/0-826-dot-ears.html) x1~2 | 25%: [Herb](/neptunia/rb2/item/0-701-herb.html) x1 | 25%: [Western Game](/neptunia/rb2/item/0-4209-western-game.html) x1~2 | 7.5%: [Western Game](/neptunia/rb2/item/0-4209-western-game.html) x1 |
-| 3 | 50%: [Herb](/neptunia/rb2/item/0-701-herb.html) x1~2 | 50%: [Kupokitty Claws](/neptunia/rb2/item/0-926-kupokitty-claws.html) x1~2 | 25%: [Ice Stone](/neptunia/rb2/item/0-714-ice-stone.html) x1 | 25%: [Wahahahaha!](/neptunia/rb2/item/0-4243-wahahahaha.html) x1~2 | 7.5%: [Wahahahaha!](/neptunia/rb2/item/0-4243-wahahahaha.html) x1 |
-| 4 | 50%: [Ice Stone](/neptunia/rb2/item/0-714-ice-stone.html) x1~2 | 50%: [Ice Stone](/neptunia/rb2/item/0-714-ice-stone.html) x1~2 | 25%: [Model 4 Base](/neptunia/rb2/item/0-729-model-4-base.html) x1 | 25%: [Open-ended](/neptunia/rb2/item/0-4269-open-ended.html) x2~4 | 7.5%: [Open-ended](/neptunia/rb2/item/0-4269-open-ended.html) x1 |
+| #  | Item 1 | Item 2 | Item 3 |
+| -- | ------ | ------ | ------ |
+| 1 | 100%: [Model 4 Base](/neptunia/rb2/item/0-729-model-4-base.html) x1~2 | 50%: [Ice Stone](/neptunia/rb2/item/0-714-ice-stone.html) x1 | 15%: [Golf](/neptunia/rb2/item/0-4117-golf.html) x1 |
+| 2 | 100%: [Ice Stone](/neptunia/rb2/item/0-714-ice-stone.html) x1~2 | 50%: [Herb](/neptunia/rb2/item/0-701-herb.html) x1 | 15%: [Western Game](/neptunia/rb2/item/0-4209-western-game.html) x1 |
+| 3 | 100%: [Herb](/neptunia/rb2/item/0-701-herb.html) x1~2 | 50%: [Ice Stone](/neptunia/rb2/item/0-714-ice-stone.html) x1 | 15%: [Wahahahaha!](/neptunia/rb2/item/0-4243-wahahahaha.html) x1 |
+| 4 | 100%: [Ice Stone](/neptunia/rb2/item/0-714-ice-stone.html) x1~2 | 50%: [Model 4 Base](/neptunia/rb2/item/0-729-model-4-base.html) x1 | 15%: [Open-ended](/neptunia/rb2/item/0-4269-open-ended.html) x1 |
 
 ### Item Change (Harvest Shift) enabled
 
 
 | #  | Item 1 | Item 2 |
 | -- | ------ | ------ |
-| 1 | 100%: [Novel](/neptunia/rb2/item/0-4122-novel.html) x1~2 |
-| 2 | 100%: [Yandere](/neptunia/rb2/item/0-4167-yandere.html) x1~2 | 50%: [Black Box Set](/neptunia/rb2/item/0-889-black-box-set.html) x1 |
-| 3 | 100%: [DL Only](/neptunia/rb2/item/0-4229-dl-only.html) x1~2 | 50%: [Cat Whisker](/neptunia/rb2/item/0-928-cat-whisker.html) x1 |
-| 4 | 100%: [Hover Movement](/neptunia/rb2/item/0-4213-hover-movement.html) x1~2 | 50%: [Ice Skeleton](/neptunia/rb2/item/0-936-ice-skeleton.html) x1 |
+| 1 | 100%: [Purple Block](/neptunia/rb2/item/0-838-purple-block.html) x1~2 | 50%: [Golf](/neptunia/rb2/item/0-4117-golf.html) x2~3 |
+| 2 | 100%: [Dot Ears](/neptunia/rb2/item/0-826-dot-ears.html) x1~2 | 50%: [Western Game](/neptunia/rb2/item/0-4209-western-game.html) x1~2 |
+| 3 | 100%: [Kupokitty Claws](/neptunia/rb2/item/0-926-kupokitty-claws.html) x1~2 | 50%: [Wahahahaha!](/neptunia/rb2/item/0-4243-wahahahaha.html) x1~2 |
+| 4 | 100%: [Ice Stone](/neptunia/rb2/item/0-714-ice-stone.html) x1~2 | 50%: [Open-ended](/neptunia/rb2/item/0-4269-open-ended.html) x2~4 |
 
 ### Treasure
 

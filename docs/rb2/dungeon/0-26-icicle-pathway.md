@@ -48,7 +48,6 @@ See [gathering point tables](#gathering-point-tables-for-icicle-pathway) for mor
 | <input type="checkbox" id="rb2-item-0-715" class="trackbox" /> | 715 | [Base](/neptunia/rb2/dlc/0-base.html) | [Gelid Stone](/neptunia/rb2/item/0-715-gelid-stone.html) (Material) | 450 | 9 | 0 | 9 |
 | <input type="checkbox" id="rb2-item-0-716" class="trackbox" /> | 716 | [Base](/neptunia/rb2/dlc/0-base.html) | [Frostimadite](/neptunia/rb2/item/0-716-frostimadite.html) (Material) | 50 | 15 | 0 | 15 |
 | <input type="checkbox" id="rb2-item-0-725" class="trackbox" /> | 725 | [Base](/neptunia/rb2/dlc/0-base.html) | [Iron Concrete](/neptunia/rb2/item/0-725-iron-concrete.html) (Material) | 7500 | 17 | 0 | 17 |
-| <input type="checkbox" id="rb2-item-0-731" class="trackbox" /> | 731 | [Base](/neptunia/rb2/dlc/0-base.html) | [Ling Base](/neptunia/rb2/item/0-731-ling-base.html) (Material) | 17500 | 14 | 0 | 14 |
 | <input type="checkbox" id="rb2-item-0-4143" class="trackbox" /> | 4143 | [Base](/neptunia/rb2/dlc/0-base.html) | [Strategy](/neptunia/rb2/item/0-4143-strategy.html) (Idea Chip (Yellow)) | 10 | 0 | 0 | 0 |
 | <input type="checkbox" id="rb2-item-0-4153" class="trackbox" /> | 4153 | [Base](/neptunia/rb2/dlc/0-base.html) | [1-Player Online](/neptunia/rb2/item/0-4153-1-player-online.html) (Idea Chip (Yellow)) | 10 | 0 | 0 | 0 |
 | <input type="checkbox" id="rb2-item-0-4179" class="trackbox" /> | 4179 | [Base](/neptunia/rb2/dlc/0-base.html) | [Monster](/neptunia/rb2/item/0-4179-monster.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
@@ -120,22 +119,22 @@ See [gathering point tables](#gathering-point-tables-for-icicle-pathway) for mor
 ### Normal
 
 
-| #  | Item 1 | Item 2 | Item 3 | Item 4 | Item 5 |
-| -- | ------ | ------ | ------ | ------ | ------ |
-| 1 | 50%: [Iron Concrete](/neptunia/rb2/item/0-725-iron-concrete.html) x1~2 | 50%: [Iron Concrete](/neptunia/rb2/item/0-725-iron-concrete.html) x1~2 | 25%: [Gelid Stone](/neptunia/rb2/item/0-715-gelid-stone.html) x1 | 25%: [Child-oriented](/neptunia/rb2/item/0-4239-child-oriented.html) x1~3 | 7.5%: [Child-oriented](/neptunia/rb2/item/0-4239-child-oriented.html) x1 |
-| 2 | 50%: [Ling Base](/neptunia/rb2/item/0-731-ling-base.html) x1~2 | 50%: [Frostimadite](/neptunia/rb2/item/0-716-frostimadite.html) x1~2 | 25%: [Frostimadite](/neptunia/rb2/item/0-716-frostimadite.html) x1 | 25%: [Monster](/neptunia/rb2/item/0-4179-monster.html) x3~5 | 7.5%: [Monster](/neptunia/rb2/item/0-4179-monster.html) x1 |
-| 3 | 50%: [Ling Base](/neptunia/rb2/item/0-731-ling-base.html) x1~2 | 50%: [Gelid Stone](/neptunia/rb2/item/0-715-gelid-stone.html) x1~2 | 25%: [Gelid Stone](/neptunia/rb2/item/0-715-gelid-stone.html) x1 | 25%: [1-Player Online](/neptunia/rb2/item/0-4153-1-player-online.html) x2~4 | 7.5%: [1-Player Online](/neptunia/rb2/item/0-4153-1-player-online.html) x1 |
-| 4 | 50%: [Gelid Stone](/neptunia/rb2/item/0-715-gelid-stone.html) x1~2 | 50%: [Frostimadite](/neptunia/rb2/item/0-716-frostimadite.html) x1~2 | 25%: [Iron Concrete](/neptunia/rb2/item/0-725-iron-concrete.html) x1 | 25%: [Strategy](/neptunia/rb2/item/0-4143-strategy.html) x2~3 | 7.5%: [Strategy](/neptunia/rb2/item/0-4143-strategy.html) x1 |
-
-### Item Change (Harvest Shift) enabled
-
-
 | #  | Item 1 | Item 2 | Item 3 |
 | -- | ------ | ------ | ------ |
 | 1 | 100%: [Iron Concrete](/neptunia/rb2/item/0-725-iron-concrete.html) x1~2 | 50%: [Gelid Stone](/neptunia/rb2/item/0-715-gelid-stone.html) x1 | 15%: [Child-oriented](/neptunia/rb2/item/0-4239-child-oriented.html) x1 |
 | 2 | 100%: [Ling Base](/neptunia/rb2/item/0-731-ling-base.html) x1~2 | 50%: [Frostimadite](/neptunia/rb2/item/0-716-frostimadite.html) x1 | 15%: [Monster](/neptunia/rb2/item/0-4179-monster.html) x1 |
 | 3 | 100%: [Ling Base](/neptunia/rb2/item/0-731-ling-base.html) x1~2 | 50%: [Gelid Stone](/neptunia/rb2/item/0-715-gelid-stone.html) x1 | 15%: [1-Player Online](/neptunia/rb2/item/0-4153-1-player-online.html) x1 |
 | 4 | 100%: [Gelid Stone](/neptunia/rb2/item/0-715-gelid-stone.html) x1~2 | 50%: [Iron Concrete](/neptunia/rb2/item/0-725-iron-concrete.html) x1 | 15%: [Strategy](/neptunia/rb2/item/0-4143-strategy.html) x1 |
+
+### Item Change (Harvest Shift) enabled
+
+
+| #  | Item 1 | Item 2 |
+| -- | ------ | ------ |
+| 1 | 100%: [Iron Concrete](/neptunia/rb2/item/0-725-iron-concrete.html) x1~2 | 50%: [Child-oriented](/neptunia/rb2/item/0-4239-child-oriented.html) x1~3 |
+| 2 | 100%: [Frostimadite](/neptunia/rb2/item/0-716-frostimadite.html) x1~2 | 50%: [Monster](/neptunia/rb2/item/0-4179-monster.html) x3~5 |
+| 3 | 100%: [Gelid Stone](/neptunia/rb2/item/0-715-gelid-stone.html) x1~2 | 50%: [1-Player Online](/neptunia/rb2/item/0-4153-1-player-online.html) x2~4 |
+| 4 | 100%: [Frostimadite](/neptunia/rb2/item/0-716-frostimadite.html) x1~2 | 50%: [Strategy](/neptunia/rb2/item/0-4143-strategy.html) x2~3 |
 
 ### Treasure
 

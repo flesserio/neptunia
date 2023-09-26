@@ -49,8 +49,6 @@ See [gathering point tables](#gathering-point-tables-for-trinity-marsh) for more
 | -- | -- | --- | ---- | --------- | -------- | ------- | ----: |
 | <input type="checkbox" id="rb2-item-0-705" class="trackbox" /> | 705 | [Base](/neptunia/rb2/dlc/0-base.html) | [World Tree Leaf](/neptunia/rb2/item/0-705-world-tree-leaf.html) (Material) | 100 | 22 | 5 | 27 |
 | <input type="checkbox" id="rb2-item-0-716" class="trackbox" /> | 716 | [Base](/neptunia/rb2/dlc/0-base.html) | [Frostimadite](/neptunia/rb2/item/0-716-frostimadite.html) (Material) | 50 | 15 | 0 | 15 |
-| <input type="checkbox" id="rb2-item-0-732" class="trackbox" /> | 732 | [Base](/neptunia/rb2/dlc/0-base.html) | [Seashell](/neptunia/rb2/item/0-732-seashell.html) (Material) | 200 | 15 | 4 | 19 |
-| <input type="checkbox" id="rb2-item-0-733" class="trackbox" /> | 733 | [Base](/neptunia/rb2/dlc/0-base.html) | [Sea Bead](/neptunia/rb2/item/0-733-sea-bead.html) (Material) | 400 | 6 | 0 | 6 |
 | <input type="checkbox" id="rb2-item-0-734" class="trackbox" /> | 734 | [Base](/neptunia/rb2/dlc/0-base.html) | [Tiamat Horn](/neptunia/rb2/item/0-734-tiamat-horn.html) (Material) | 35000 | 2 | 0 | 2 |
 | <input type="checkbox" id="rb2-item-0-4125" class="trackbox" /> | 4125 | [Base](/neptunia/rb2/dlc/0-base.html) | [Pretty Girl Game](/neptunia/rb2/item/0-4125-pretty-girl-game.html) (Idea Chip (Yellow)) | 10 | 0 | 0 | 0 |
 | <input type="checkbox" id="rb2-item-0-4150" class="trackbox" /> | 4150 | [Base](/neptunia/rb2/dlc/0-base.html) | [Hunting](/neptunia/rb2/item/0-4150-hunting.html) (Idea Chip (Yellow)) | 10 | 0 | 0 | 0 |
@@ -121,17 +119,6 @@ See [gathering point tables](#gathering-point-tables-for-trinity-marsh) for more
 ### Normal
 
 
-| #  | Item 1 | Item 2 | Item 3 | Item 4 | Item 5 |
-| -- | ------ | ------ | ------ | ------ | ------ |
-| 1 | 50%: [Sea Bead](/neptunia/rb2/item/0-733-sea-bead.html) x1~2 | 50%: [Tiamat Horn](/neptunia/rb2/item/0-734-tiamat-horn.html) x1~2 | 25%: [Seashell](/neptunia/rb2/item/0-732-seashell.html) x1 | 25%: [Many Resets](/neptunia/rb2/item/0-4272-many-resets.html) x1~3 | 7.5%: [Many Resets](/neptunia/rb2/item/0-4272-many-resets.html) x1 |
-| 2 | 50%: [Seashell](/neptunia/rb2/item/0-732-seashell.html) x1~2 | 50%: [World Tree Leaf](/neptunia/rb2/item/0-705-world-tree-leaf.html) x1~2 | 25%: [Sea Bead](/neptunia/rb2/item/0-733-sea-bead.html) x1 | 25%: [Worldwide](/neptunia/rb2/item/0-4257-worldwide.html) x2~5 | 7.5%: [Worldwide](/neptunia/rb2/item/0-4257-worldwide.html) x1 |
-| 3 | 50%: [World Tree Leaf](/neptunia/rb2/item/0-705-world-tree-leaf.html) x1~2 | 50%: [Frostimadite](/neptunia/rb2/item/0-716-frostimadite.html) x1~2 | 25%: [Tiamat Horn](/neptunia/rb2/item/0-734-tiamat-horn.html) x1 | 25%: [Seamless](/neptunia/rb2/item/0-4221-seamless.html) x1~2 | 7.5%: [Seamless](/neptunia/rb2/item/0-4221-seamless.html) x1 |
-| 4 | 50%: [Seashell](/neptunia/rb2/item/0-732-seashell.html) x2~3 | 50%: [Tiamat Horn](/neptunia/rb2/item/0-734-tiamat-horn.html) x2~3 | 25%: [Frostimadite](/neptunia/rb2/item/0-716-frostimadite.html) x1 | 25%: [Hunting](/neptunia/rb2/item/0-4150-hunting.html) x1~3 | 7.5%: [Hunting](/neptunia/rb2/item/0-4150-hunting.html) x1 |
-| 5 | 50%: [Sea Bead](/neptunia/rb2/item/0-733-sea-bead.html) x2~3 | 50%: [Frostimadite](/neptunia/rb2/item/0-716-frostimadite.html) x2~3 | 25%: [World Tree Leaf](/neptunia/rb2/item/0-705-world-tree-leaf.html) x1 | 25%: [Pretty Girl Game](/neptunia/rb2/item/0-4125-pretty-girl-game.html) x2~3 | 7.5%: [Pretty Girl Game](/neptunia/rb2/item/0-4125-pretty-girl-game.html) x1 |
-
-### Item Change (Harvest Shift) enabled
-
-
 | #  | Item 1 | Item 2 | Item 3 |
 | -- | ------ | ------ | ------ |
 | 1 | 100%: [Sea Bead](/neptunia/rb2/item/0-733-sea-bead.html) x1~2 | 50%: [Seashell](/neptunia/rb2/item/0-732-seashell.html) x1 | 15%: [Many Resets](/neptunia/rb2/item/0-4272-many-resets.html) x1 |
@@ -139,6 +126,17 @@ See [gathering point tables](#gathering-point-tables-for-trinity-marsh) for more
 | 3 | 100%: [World Tree Leaf](/neptunia/rb2/item/0-705-world-tree-leaf.html) x1~2 | 50%: [Tiamat Horn](/neptunia/rb2/item/0-734-tiamat-horn.html) x1 | 15%: [Seamless](/neptunia/rb2/item/0-4221-seamless.html) x1 |
 | 4 | 100%: [Seashell](/neptunia/rb2/item/0-732-seashell.html) x2~3 | 50%: [Frostimadite](/neptunia/rb2/item/0-716-frostimadite.html) x1 | 15%: [Hunting](/neptunia/rb2/item/0-4150-hunting.html) x1 |
 | 5 | 100%: [Sea Bead](/neptunia/rb2/item/0-733-sea-bead.html) x2~3 | 50%: [World Tree Leaf](/neptunia/rb2/item/0-705-world-tree-leaf.html) x1 | 15%: [Pretty Girl Game](/neptunia/rb2/item/0-4125-pretty-girl-game.html) x1 |
+
+### Item Change (Harvest Shift) enabled
+
+
+| #  | Item 1 | Item 2 |
+| -- | ------ | ------ |
+| 1 | 100%: [Tiamat Horn](/neptunia/rb2/item/0-734-tiamat-horn.html) x1~2 | 50%: [Many Resets](/neptunia/rb2/item/0-4272-many-resets.html) x1~3 |
+| 2 | 100%: [World Tree Leaf](/neptunia/rb2/item/0-705-world-tree-leaf.html) x1~2 | 50%: [Worldwide](/neptunia/rb2/item/0-4257-worldwide.html) x2~5 |
+| 3 | 100%: [Frostimadite](/neptunia/rb2/item/0-716-frostimadite.html) x1~2 | 50%: [Seamless](/neptunia/rb2/item/0-4221-seamless.html) x1~2 |
+| 4 | 100%: [Tiamat Horn](/neptunia/rb2/item/0-734-tiamat-horn.html) x2~3 | 50%: [Hunting](/neptunia/rb2/item/0-4150-hunting.html) x1~3 |
+| 5 | 100%: [Frostimadite](/neptunia/rb2/item/0-716-frostimadite.html) x2~3 | 50%: [Pretty Girl Game](/neptunia/rb2/item/0-4125-pretty-girl-game.html) x2~3 |
 
 ### Treasure
 

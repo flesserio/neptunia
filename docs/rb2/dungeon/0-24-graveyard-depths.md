@@ -32,7 +32,6 @@ See [gathering point tables](#gathering-point-tables-for-graveyard-depths) for m
 
 |    | ID | DLC | Name | Sells for | Remakes¹ | Quests² | Total |
 | -- | -- | --- | ---- | --------- | -------- | ------- | ----: |
-| <input type="checkbox" id="rb2-item-0-705" class="trackbox" /> | 705 | [Base](/neptunia/rb2/dlc/0-base.html) | [World Tree Leaf](/neptunia/rb2/item/0-705-world-tree-leaf.html) (Material) | 100 | 22 | 5 | 27 |
 | <input type="checkbox" id="rb2-item-0-725" class="trackbox" /> | 725 | [Base](/neptunia/rb2/dlc/0-base.html) | [Iron Concrete](/neptunia/rb2/item/0-725-iron-concrete.html) (Material) | 7500 | 17 | 0 | 17 |
 | <input type="checkbox" id="rb2-item-0-730" class="trackbox" /> | 730 | [Base](/neptunia/rb2/dlc/0-base.html) | [Maoni Base](/neptunia/rb2/item/0-730-maoni-base.html) (Material) | 500 | 9 | 0 | 9 |
 | <input type="checkbox" id="rb2-item-0-731" class="trackbox" /> | 731 | [Base](/neptunia/rb2/dlc/0-base.html) | [Ling Base](/neptunia/rb2/item/0-731-ling-base.html) (Material) | 17500 | 14 | 0 | 14 |
@@ -44,8 +43,7 @@ See [gathering point tables](#gathering-point-tables-for-graveyard-depths) for m
 
 |    | ID | DLC | Name | Sells for | Remakes¹ | Quests² | Total |
 | -- | -- | --- | ---- | --------- | -------- | ------- | ----: |
-| <input type="checkbox" id="rb2-item-0-725" class="trackbox" /> | 725 | [Base](/neptunia/rb2/dlc/0-base.html) | [Iron Concrete](/neptunia/rb2/item/0-725-iron-concrete.html) (Material) | 7500 | 17 | 0 | 17 |
-| <input type="checkbox" id="rb2-item-0-730" class="trackbox" /> | 730 | [Base](/neptunia/rb2/dlc/0-base.html) | [Maoni Base](/neptunia/rb2/item/0-730-maoni-base.html) (Material) | 500 | 9 | 0 | 9 |
+| <input type="checkbox" id="rb2-item-0-705" class="trackbox" /> | 705 | [Base](/neptunia/rb2/dlc/0-base.html) | [World Tree Leaf](/neptunia/rb2/item/0-705-world-tree-leaf.html) (Material) | 100 | 22 | 5 | 27 |
 | <input type="checkbox" id="rb2-item-0-731" class="trackbox" /> | 731 | [Base](/neptunia/rb2/dlc/0-base.html) | [Ling Base](/neptunia/rb2/item/0-731-ling-base.html) (Material) | 17500 | 14 | 0 | 14 |
 | <input type="checkbox" id="rb2-item-0-4114" class="trackbox" /> | 4114 | [Base](/neptunia/rb2/dlc/0-base.html) | [Light Gun](/neptunia/rb2/item/0-4114-light-gun.html) (Idea Chip (Yellow)) | 10 | 0 | 0 | 0 |
 | <input type="checkbox" id="rb2-item-0-4169" class="trackbox" /> | 4169 | [Base](/neptunia/rb2/dlc/0-base.html) | [Older Man](/neptunia/rb2/item/0-4169-older-man.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
@@ -117,20 +115,20 @@ See [gathering point tables](#gathering-point-tables-for-graveyard-depths) for m
 ### Normal
 
 
-| #  | Item 1 | Item 2 | Item 3 | Item 4 | Item 5 |
-| -- | ------ | ------ | ------ | ------ | ------ |
-| 1 | 50%: [Maoni Base](/neptunia/rb2/item/0-730-maoni-base.html) x1~2 | 50%: [Ling Base](/neptunia/rb2/item/0-731-ling-base.html) x1~2 | 25%: [Iron Concrete](/neptunia/rb2/item/0-725-iron-concrete.html) x1 | 25%: [Light Gun](/neptunia/rb2/item/0-4114-light-gun.html) x2~3 | 7.5%: [Light Gun](/neptunia/rb2/item/0-4114-light-gun.html) x1 |
-| 2 | 50%: [Ling Base](/neptunia/rb2/item/0-731-ling-base.html) x1~2 | 50%: [World Tree Leaf](/neptunia/rb2/item/0-705-world-tree-leaf.html) x1~2 | 25%: [Iron Concrete](/neptunia/rb2/item/0-725-iron-concrete.html) x1 | 25%: [Older Man](/neptunia/rb2/item/0-4169-older-man.html) x1~3 | 7.5%: [Older Man](/neptunia/rb2/item/0-4169-older-man.html) x1 |
-| 3 | 50%: [Maoni Base](/neptunia/rb2/item/0-730-maoni-base.html) x1~2 | 50%: [World Tree Leaf](/neptunia/rb2/item/0-705-world-tree-leaf.html) x1~2 | 25%: [Ling Base](/neptunia/rb2/item/0-731-ling-base.html) x1 | 25%: [Love](/neptunia/rb2/item/0-4245-love.html) x2~3 | 7.5%: [Love](/neptunia/rb2/item/0-4245-love.html) x1 |
-
-### Item Change (Harvest Shift) enabled
-
-
 | #  | Item 1 | Item 2 | Item 3 |
 | -- | ------ | ------ | ------ |
 | 1 | 100%: [Maoni Base](/neptunia/rb2/item/0-730-maoni-base.html) x1~2 | 50%: [Iron Concrete](/neptunia/rb2/item/0-725-iron-concrete.html) x1 | 15%: [Light Gun](/neptunia/rb2/item/0-4114-light-gun.html) x1 |
 | 2 | 100%: [Ling Base](/neptunia/rb2/item/0-731-ling-base.html) x1~2 | 50%: [Iron Concrete](/neptunia/rb2/item/0-725-iron-concrete.html) x1 | 15%: [Older Man](/neptunia/rb2/item/0-4169-older-man.html) x1 |
 | 3 | 100%: [Maoni Base](/neptunia/rb2/item/0-730-maoni-base.html) x1~2 | 50%: [Ling Base](/neptunia/rb2/item/0-731-ling-base.html) x1 | 15%: [Love](/neptunia/rb2/item/0-4245-love.html) x1 |
+
+### Item Change (Harvest Shift) enabled
+
+
+| #  | Item 1 | Item 2 |
+| -- | ------ | ------ |
+| 1 | 100%: [Ling Base](/neptunia/rb2/item/0-731-ling-base.html) x1~2 | 50%: [Light Gun](/neptunia/rb2/item/0-4114-light-gun.html) x2~3 |
+| 2 | 100%: [World Tree Leaf](/neptunia/rb2/item/0-705-world-tree-leaf.html) x1~2 | 50%: [Older Man](/neptunia/rb2/item/0-4169-older-man.html) x1~3 |
+| 3 | 100%: [World Tree Leaf](/neptunia/rb2/item/0-705-world-tree-leaf.html) x1~2 | 50%: [Love](/neptunia/rb2/item/0-4245-love.html) x2~3 |
 
 ### Treasure
 

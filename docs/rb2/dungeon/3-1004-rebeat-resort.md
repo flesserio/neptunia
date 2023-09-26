@@ -35,9 +35,6 @@ See [gathering point tables](#gathering-point-tables-for-rebeat-resort) for more
 | <input type="checkbox" id="rb2-item-0-702" class="trackbox" /> | 702 | [Base](/neptunia/rb2/dlc/0-base.html) | [Healing Herb](/neptunia/rb2/item/0-702-healing-herb.html) (Material) | 50 | 31 | 4 | 35 |
 | <input type="checkbox" id="rb2-item-0-723" class="trackbox" /> | 723 | [Base](/neptunia/rb2/dlc/0-base.html) | [Rock](/neptunia/rb2/item/0-723-rock.html) (Material) | 10 | 27 | 3 | 30 |
 | <input type="checkbox" id="rb2-item-0-732" class="trackbox" /> | 732 | [Base](/neptunia/rb2/dlc/0-base.html) | [Seashell](/neptunia/rb2/item/0-732-seashell.html) (Material) | 200 | 15 | 4 | 19 |
-| <input type="checkbox" id="rb2-item-0-819" class="trackbox" /> | 819 | [Base](/neptunia/rb2/dlc/0-base.html) | [Green Plate](/neptunia/rb2/item/0-819-green-plate.html) (Material) | 2 | 5 | 0 | 5 |
-| <input type="checkbox" id="rb2-item-0-832" class="trackbox" /> | 832 | [Base](/neptunia/rb2/dlc/0-base.html) | [Cardboard](/neptunia/rb2/item/0-832-cardboard.html) (Material) | 29 | 2 | 3 | 5 |
-| <input type="checkbox" id="rb2-item-0-903" class="trackbox" /> | 903 | [Base](/neptunia/rb2/dlc/0-base.html) | [Fish Skeleton](/neptunia/rb2/item/0-903-fish-skeleton.html) (Material) | 2771 | 7 | 2 | 9 |
 | <input type="checkbox" id="rb2-item-0-930" class="trackbox" /> | 930 | [Base](/neptunia/rb2/dlc/0-base.html) | [Gang Mask](/neptunia/rb2/item/0-930-gang-mask.html) (Material) | 84 | 6 | 0 | 6 |
 | <input type="checkbox" id="rb2-item-0-4121" class="trackbox" /> | 4121 | [Base](/neptunia/rb2/dlc/0-base.html) | [Adventure](/neptunia/rb2/item/0-4121-adventure.html) (Idea Chip (Yellow)) | 10 | 0 | 0 | 0 |
 | <input type="checkbox" id="rb2-item-0-4162" class="trackbox" /> | 4162 | [Base](/neptunia/rb2/dlc/0-base.html) | [Voice Actor](/neptunia/rb2/item/0-4162-voice-actor.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
@@ -49,10 +46,16 @@ See [gathering point tables](#gathering-point-tables-for-rebeat-resort) for more
 
 |    | ID | DLC | Name | Sells for | Remakes¹ | Quests² | Total |
 | -- | -- | --- | ---- | --------- | -------- | ------- | ----: |
-| <input type="checkbox" id="rb2-item-3-4516" class="trackbox" /> | 4516 | [Additional Content Pack 1](/neptunia/rb2/dlc/3-pack1.html) | [Ice Crystal](/neptunia/rb2/item/3-4516-ice-crystal.html) (Material) | 132 | 5 | 0 | 5 |
-| <input type="checkbox" id="rb2-item-3-4517" class="trackbox" /> | 4517 | [Additional Content Pack 1](/neptunia/rb2/dlc/3-pack1.html) | [Conductive Scale](/neptunia/rb2/item/3-4517-conductive-scale.html) (Material) | 152 | 5 | 0 | 5 |
-| <input type="checkbox" id="rb2-item-3-4518" class="trackbox" /> | 4518 | [Additional Content Pack 1](/neptunia/rb2/dlc/3-pack1.html) | [Burning Petal](/neptunia/rb2/item/3-4518-burning-petal.html) (Material) | 172 | 5 | 0 | 5 |
-| <input type="checkbox" id="rb2-item-3-4519" class="trackbox" /> | 4519 | [Additional Content Pack 1](/neptunia/rb2/dlc/3-pack1.html) | [Purple Something](/neptunia/rb2/item/3-4519-purple-something.html) (Material) | 132 | 5 | 0 | 5 |
+| <input type="checkbox" id="rb2-item-0-732" class="trackbox" /> | 732 | [Base](/neptunia/rb2/dlc/0-base.html) | [Seashell](/neptunia/rb2/item/0-732-seashell.html) (Material) | 200 | 15 | 4 | 19 |
+| <input type="checkbox" id="rb2-item-0-819" class="trackbox" /> | 819 | [Base](/neptunia/rb2/dlc/0-base.html) | [Green Plate](/neptunia/rb2/item/0-819-green-plate.html) (Material) | 2 | 5 | 0 | 5 |
+| <input type="checkbox" id="rb2-item-0-832" class="trackbox" /> | 832 | [Base](/neptunia/rb2/dlc/0-base.html) | [Cardboard](/neptunia/rb2/item/0-832-cardboard.html) (Material) | 29 | 2 | 3 | 5 |
+| <input type="checkbox" id="rb2-item-0-903" class="trackbox" /> | 903 | [Base](/neptunia/rb2/dlc/0-base.html) | [Fish Skeleton](/neptunia/rb2/item/0-903-fish-skeleton.html) (Material) | 2771 | 7 | 2 | 9 |
+| <input type="checkbox" id="rb2-item-0-930" class="trackbox" /> | 930 | [Base](/neptunia/rb2/dlc/0-base.html) | [Gang Mask](/neptunia/rb2/item/0-930-gang-mask.html) (Material) | 84 | 6 | 0 | 6 |
+| <input type="checkbox" id="rb2-item-0-4121" class="trackbox" /> | 4121 | [Base](/neptunia/rb2/dlc/0-base.html) | [Adventure](/neptunia/rb2/item/0-4121-adventure.html) (Idea Chip (Yellow)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-4162" class="trackbox" /> | 4162 | [Base](/neptunia/rb2/dlc/0-base.html) | [Voice Actor](/neptunia/rb2/item/0-4162-voice-actor.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-4207" class="trackbox" /> | 4207 | [Base](/neptunia/rb2/dlc/0-base.html) | [Stupid Game](/neptunia/rb2/item/0-4207-stupid-game.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-4212" class="trackbox" /> | 4212 | [Base](/neptunia/rb2/dlc/0-base.html) | [Non-RPG Growth](/neptunia/rb2/item/0-4212-non-rpg-growth.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-4222" class="trackbox" /> | 4222 | [Base](/neptunia/rb2/dlc/0-base.html) | [Parameter Tweak](/neptunia/rb2/item/0-4222-parameter-tweak.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
 
 ### From treasure gathering points
 
@@ -107,24 +110,24 @@ See [gathering point tables](#gathering-point-tables-for-rebeat-resort) for more
 ### Normal
 
 
-| #  | Item 1 | Item 2 | Item 3 | Item 4 | Item 5 |
-| -- | ------ | ------ | ------ | ------ | ------ |
-| 1 | 50%: [Seashell](/neptunia/rb2/item/0-732-seashell.html) x1~2 | 50%: [Cardboard](/neptunia/rb2/item/0-832-cardboard.html) x1~2 | 25%: [Healing Herb](/neptunia/rb2/item/0-702-healing-herb.html) x1 | 25%: [Voice Actor](/neptunia/rb2/item/0-4162-voice-actor.html) x1~2 | 7.5%: [Voice Actor](/neptunia/rb2/item/0-4162-voice-actor.html) x1 |
-| 2 | 50%: [Rock](/neptunia/rb2/item/0-723-rock.html) x1~2 | 50%: [Seashell](/neptunia/rb2/item/0-732-seashell.html) x1~2 | 25%: [Healing Herb](/neptunia/rb2/item/0-702-healing-herb.html) x1 | 25%: [Adventure](/neptunia/rb2/item/0-4121-adventure.html) x2~4 | 7.5%: [Adventure](/neptunia/rb2/item/0-4121-adventure.html) x1 |
-| 3 | 50%: [Healing Herb](/neptunia/rb2/item/0-702-healing-herb.html) x1~2 | 50%: [Green Plate](/neptunia/rb2/item/0-819-green-plate.html) x1~2 | 25%: [Seashell](/neptunia/rb2/item/0-732-seashell.html) x1 | 25%: [Stupid Game](/neptunia/rb2/item/0-4207-stupid-game.html) x2~3 | 7.5%: [Stupid Game](/neptunia/rb2/item/0-4207-stupid-game.html) x1 |
-| 4 | 50%: [Healing Herb](/neptunia/rb2/item/0-702-healing-herb.html) x1~2 | 50%: [Gang Mask](/neptunia/rb2/item/0-930-gang-mask.html) x1~2 | 25%: [Gang Mask](/neptunia/rb2/item/0-930-gang-mask.html) x1 | 25%: [Parameter Tweak](/neptunia/rb2/item/0-4222-parameter-tweak.html) x1 | 7.5%: [Parameter Tweak](/neptunia/rb2/item/0-4222-parameter-tweak.html) x1 |
-| 5 | 50%: [Seashell](/neptunia/rb2/item/0-732-seashell.html) x1~2 | 50%: [Fish Skeleton](/neptunia/rb2/item/0-903-fish-skeleton.html) x1~2 | 25%: [Rock](/neptunia/rb2/item/0-723-rock.html) x1 | 25%: [Non-RPG Growth](/neptunia/rb2/item/0-4212-non-rpg-growth.html) x2~3 | 7.5%: [Non-RPG Growth](/neptunia/rb2/item/0-4212-non-rpg-growth.html) x1 |
+| #  | Item 1 | Item 2 | Item 3 |
+| -- | ------ | ------ | ------ |
+| 1 | 100%: [Seashell](/neptunia/rb2/item/0-732-seashell.html) x1~2 | 50%: [Healing Herb](/neptunia/rb2/item/0-702-healing-herb.html) x1 | 15%: [Voice Actor](/neptunia/rb2/item/0-4162-voice-actor.html) x1 |
+| 2 | 100%: [Rock](/neptunia/rb2/item/0-723-rock.html) x1~2 | 50%: [Healing Herb](/neptunia/rb2/item/0-702-healing-herb.html) x1 | 15%: [Adventure](/neptunia/rb2/item/0-4121-adventure.html) x1 |
+| 3 | 100%: [Healing Herb](/neptunia/rb2/item/0-702-healing-herb.html) x1~2 | 50%: [Seashell](/neptunia/rb2/item/0-732-seashell.html) x1 | 15%: [Stupid Game](/neptunia/rb2/item/0-4207-stupid-game.html) x1 |
+| 4 | 100%: [Healing Herb](/neptunia/rb2/item/0-702-healing-herb.html) x1~2 | 50%: [Gang Mask](/neptunia/rb2/item/0-930-gang-mask.html) x1 | 15%: [Parameter Tweak](/neptunia/rb2/item/0-4222-parameter-tweak.html) x1 |
+| 5 | 100%: [Seashell](/neptunia/rb2/item/0-732-seashell.html) x1~2 | 50%: [Rock](/neptunia/rb2/item/0-723-rock.html) x1 | 15%: [Non-RPG Growth](/neptunia/rb2/item/0-4212-non-rpg-growth.html) x1 |
 
 ### Item Change (Harvest Shift) enabled
 
 
-| #  | Item 1 |
-| -- | ------ |
-| 1 | 100%: [Ice Crystal](/neptunia/rb2/item/3-4516-ice-crystal.html) x1~2 |
-| 2 | 100%: [Conductive Scale](/neptunia/rb2/item/3-4517-conductive-scale.html) x1~2 |
-| 3 | 100%: [Burning Petal](/neptunia/rb2/item/3-4518-burning-petal.html) x1~2 |
-| 4 | 100%: [Purple Something](/neptunia/rb2/item/3-4519-purple-something.html) x1~2 |
-| 5 | 100%: [Ice Crystal](/neptunia/rb2/item/3-4516-ice-crystal.html) x1~2 |
+| #  | Item 1 | Item 2 |
+| -- | ------ | ------ |
+| 1 | 100%: [Cardboard](/neptunia/rb2/item/0-832-cardboard.html) x1~2 | 50%: [Voice Actor](/neptunia/rb2/item/0-4162-voice-actor.html) x1~2 |
+| 2 | 100%: [Seashell](/neptunia/rb2/item/0-732-seashell.html) x1~2 | 50%: [Adventure](/neptunia/rb2/item/0-4121-adventure.html) x2~4 |
+| 3 | 100%: [Green Plate](/neptunia/rb2/item/0-819-green-plate.html) x1~2 | 50%: [Stupid Game](/neptunia/rb2/item/0-4207-stupid-game.html) x2~3 |
+| 4 | 100%: [Gang Mask](/neptunia/rb2/item/0-930-gang-mask.html) x1~2 | 50%: [Parameter Tweak](/neptunia/rb2/item/0-4222-parameter-tweak.html) x1 |
+| 5 | 100%: [Fish Skeleton](/neptunia/rb2/item/0-903-fish-skeleton.html) x1~2 | 50%: [Non-RPG Growth](/neptunia/rb2/item/0-4212-non-rpg-growth.html) x2~3 |
 
 ### Treasure
 

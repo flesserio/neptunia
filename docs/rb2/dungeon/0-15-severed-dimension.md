@@ -34,7 +34,6 @@ See [gathering point tables](#gathering-point-tables-for-severed-dimension) for 
 | -- | -- | --- | ---- | --------- | -------- | ------- | ----: |
 | <input type="checkbox" id="rb2-item-0-717" class="trackbox" /> | 717 | [Base](/neptunia/rb2/dlc/0-base.html) | [Wind Stone](/neptunia/rb2/item/0-717-wind-stone.html) (Material) | 250 | 14 | 0 | 14 |
 | <input type="checkbox" id="rb2-item-0-726" class="trackbox" /> | 726 | [Base](/neptunia/rb2/dlc/0-base.html) | [Data Crystal](/neptunia/rb2/item/0-726-data-crystal.html) (Material) | 100 | 24 | 0 | 24 |
-| <input type="checkbox" id="rb2-item-0-727" class="trackbox" /> | 727 | [Base](/neptunia/rb2/dlc/0-base.html) | [File Crystal](/neptunia/rb2/item/0-727-file-crystal.html) (Material) | 2500 | 18 | 0 | 18 |
 | <input type="checkbox" id="rb2-item-0-729" class="trackbox" /> | 729 | [Base](/neptunia/rb2/dlc/0-base.html) | [Model 4 Base](/neptunia/rb2/item/0-729-model-4-base.html) (Material) | 15 | 48 | 0 | 48 |
 | <input type="checkbox" id="rb2-item-0-4113" class="trackbox" /> | 4113 | [Base](/neptunia/rb2/dlc/0-base.html) | [Shooter](/neptunia/rb2/item/0-4113-shooter.html) (Idea Chip (Yellow)) | 10 | 0 | 0 | 0 |
 | <input type="checkbox" id="rb2-item-0-4190" class="trackbox" /> | 4190 | [Base](/neptunia/rb2/dlc/0-base.html) | [Motion Controller](/neptunia/rb2/item/0-4190-motion-controller.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
@@ -44,12 +43,11 @@ See [gathering point tables](#gathering-point-tables-for-severed-dimension) for 
 
 |    | ID | DLC | Name | Sells for | Remakes¹ | Quests² | Total |
 | -- | -- | --- | ---- | --------- | -------- | ------- | ----: |
-| <input type="checkbox" id="rb2-item-0-939" class="trackbox" /> | 939 | [Base](/neptunia/rb2/dlc/0-base.html) | [Old Man's Pathos](/neptunia/rb2/item/0-939-old-mans-pathos.html) (Material) | 192 | 6 | 0 | 6 |
-| <input type="checkbox" id="rb2-item-0-948" class="trackbox" /> | 948 | [Base](/neptunia/rb2/dlc/0-base.html) | [Soul Contract](/neptunia/rb2/item/0-948-soul-contract.html) (Material) | 89 | 3 | 0 | 3 |
-| <input type="checkbox" id="rb2-item-0-955" class="trackbox" /> | 955 | [Base](/neptunia/rb2/dlc/0-base.html) | [Mysterious Petal](/neptunia/rb2/item/0-955-mysterious-petal.html) (Material) | 13 | 5 | 0 | 5 |
-| <input type="checkbox" id="rb2-item-0-4149" class="trackbox" /> | 4149 | [Base](/neptunia/rb2/dlc/0-base.html) | [Crime Action](/neptunia/rb2/item/0-4149-crime-action.html) (Idea Chip (Yellow)) | 10 | 0 | 0 | 0 |
-| <input type="checkbox" id="rb2-item-0-4208" class="trackbox" /> | 4208 | [Base](/neptunia/rb2/dlc/0-base.html) | [Emotional Game](/neptunia/rb2/item/0-4208-emotional-game.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
-| <input type="checkbox" id="rb2-item-0-4256" class="trackbox" /> | 4256 | [Base](/neptunia/rb2/dlc/0-base.html) | [Million Aim](/neptunia/rb2/item/0-4256-million-aim.html) (Idea Chip (Red)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-717" class="trackbox" /> | 717 | [Base](/neptunia/rb2/dlc/0-base.html) | [Wind Stone](/neptunia/rb2/item/0-717-wind-stone.html) (Material) | 250 | 14 | 0 | 14 |
+| <input type="checkbox" id="rb2-item-0-727" class="trackbox" /> | 727 | [Base](/neptunia/rb2/dlc/0-base.html) | [File Crystal](/neptunia/rb2/item/0-727-file-crystal.html) (Material) | 2500 | 18 | 0 | 18 |
+| <input type="checkbox" id="rb2-item-0-4113" class="trackbox" /> | 4113 | [Base](/neptunia/rb2/dlc/0-base.html) | [Shooter](/neptunia/rb2/item/0-4113-shooter.html) (Idea Chip (Yellow)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-4190" class="trackbox" /> | 4190 | [Base](/neptunia/rb2/dlc/0-base.html) | [Motion Controller](/neptunia/rb2/item/0-4190-motion-controller.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-4231" class="trackbox" /> | 4231 | [Base](/neptunia/rb2/dlc/0-base.html) | [Includes Videos](/neptunia/rb2/item/0-4231-includes-videos.html) (Idea Chip (Red)) | 10 | 0 | 0 | 0 |
 
 ### From treasure gathering points
 
@@ -121,20 +119,20 @@ See [gathering point tables](#gathering-point-tables-for-severed-dimension) for 
 ### Normal
 
 
-| #  | Item 1 | Item 2 | Item 3 | Item 4 | Item 5 |
-| -- | ------ | ------ | ------ | ------ | ------ |
-| 1 | 50%: [Data Crystal](/neptunia/rb2/item/0-726-data-crystal.html) x1~2 | 50%: [Wind Stone](/neptunia/rb2/item/0-717-wind-stone.html) x1~2 | 25%: [Wind Stone](/neptunia/rb2/item/0-717-wind-stone.html) x1 | 25%: [Motion Controller](/neptunia/rb2/item/0-4190-motion-controller.html) x1~2 | 7.5%: [Motion Controller](/neptunia/rb2/item/0-4190-motion-controller.html) x1 |
-| 2 | 50%: [Model 4 Base](/neptunia/rb2/item/0-729-model-4-base.html) x1~2 | 50%: [File Crystal](/neptunia/rb2/item/0-727-file-crystal.html) x1~2 | 25%: [Wind Stone](/neptunia/rb2/item/0-717-wind-stone.html) x1 | 25%: [Shooter](/neptunia/rb2/item/0-4113-shooter.html) x1 | 7.5%: [Shooter](/neptunia/rb2/item/0-4113-shooter.html) x1 |
-| 3 | 50%: [Wind Stone](/neptunia/rb2/item/0-717-wind-stone.html) x2~3 | 50%: [File Crystal](/neptunia/rb2/item/0-727-file-crystal.html) x2~3 | 25%: [Data Crystal](/neptunia/rb2/item/0-726-data-crystal.html) x1 | 25%: [Includes Videos](/neptunia/rb2/item/0-4231-includes-videos.html) x2~3 | 7.5%: [Includes Videos](/neptunia/rb2/item/0-4231-includes-videos.html) x1 |
+| #  | Item 1 | Item 2 | Item 3 |
+| -- | ------ | ------ | ------ |
+| 1 | 100%: [Data Crystal](/neptunia/rb2/item/0-726-data-crystal.html) x1~2 | 50%: [Wind Stone](/neptunia/rb2/item/0-717-wind-stone.html) x1 | 15%: [Motion Controller](/neptunia/rb2/item/0-4190-motion-controller.html) x1 |
+| 2 | 100%: [Model 4 Base](/neptunia/rb2/item/0-729-model-4-base.html) x1~2 | 50%: [Wind Stone](/neptunia/rb2/item/0-717-wind-stone.html) x1 | 15%: [Shooter](/neptunia/rb2/item/0-4113-shooter.html) x1 |
+| 3 | 100%: [Wind Stone](/neptunia/rb2/item/0-717-wind-stone.html) x2~3 | 50%: [Data Crystal](/neptunia/rb2/item/0-726-data-crystal.html) x1 | 15%: [Includes Videos](/neptunia/rb2/item/0-4231-includes-videos.html) x1 |
 
 ### Item Change (Harvest Shift) enabled
 
 
 | #  | Item 1 | Item 2 |
 | -- | ------ | ------ |
-| 1 | 100%: [Emotional Game](/neptunia/rb2/item/0-4208-emotional-game.html) x1 | 50%: [Old Man's Pathos](/neptunia/rb2/item/0-939-old-mans-pathos.html) x1 |
-| 2 | 100%: [Million Aim](/neptunia/rb2/item/0-4256-million-aim.html) x1 | 50%: [Soul Contract](/neptunia/rb2/item/0-948-soul-contract.html) x1 |
-| 3 | 100%: [Crime Action](/neptunia/rb2/item/0-4149-crime-action.html) x2~3 | 50%: [Mysterious Petal](/neptunia/rb2/item/0-955-mysterious-petal.html) x1 |
+| 1 | 100%: [Wind Stone](/neptunia/rb2/item/0-717-wind-stone.html) x1~2 | 50%: [Motion Controller](/neptunia/rb2/item/0-4190-motion-controller.html) x1~2 |
+| 2 | 100%: [File Crystal](/neptunia/rb2/item/0-727-file-crystal.html) x1~2 | 50%: [Shooter](/neptunia/rb2/item/0-4113-shooter.html) x1 |
+| 3 | 100%: [File Crystal](/neptunia/rb2/item/0-727-file-crystal.html) x2~3 | 50%: [Includes Videos](/neptunia/rb2/item/0-4231-includes-videos.html) x2~3 |
 
 ### Treasure
 

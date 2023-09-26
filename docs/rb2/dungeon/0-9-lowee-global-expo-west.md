@@ -34,10 +34,7 @@ See [gathering point tables](#gathering-point-tables-for-lowee-global-expo-west)
 | -- | -- | --- | ---- | --------- | -------- | ------- | ----: |
 | <input type="checkbox" id="rb2-item-0-701" class="trackbox" /> | 701 | [Base](/neptunia/rb2/dlc/0-base.html) | [Herb](/neptunia/rb2/item/0-701-herb.html) (Material) | 10 | 41 | 3 | 44 |
 | <input type="checkbox" id="rb2-item-0-714" class="trackbox" /> | 714 | [Base](/neptunia/rb2/dlc/0-base.html) | [Ice Stone](/neptunia/rb2/item/0-714-ice-stone.html) (Material) | 250 | 12 | 0 | 12 |
-| <input type="checkbox" id="rb2-item-0-715" class="trackbox" /> | 715 | [Base](/neptunia/rb2/dlc/0-base.html) | [Gelid Stone](/neptunia/rb2/item/0-715-gelid-stone.html) (Material) | 450 | 9 | 0 | 9 |
 | <input type="checkbox" id="rb2-item-0-729" class="trackbox" /> | 729 | [Base](/neptunia/rb2/dlc/0-base.html) | [Model 4 Base](/neptunia/rb2/item/0-729-model-4-base.html) (Material) | 15 | 48 | 0 | 48 |
-| <input type="checkbox" id="rb2-item-0-814" class="trackbox" /> | 814 | [Base](/neptunia/rb2/dlc/0-base.html) | [Mottled Antenna](/neptunia/rb2/item/0-814-mottled-antenna.html) (Material) | 4 | 3 | 3 | 6 |
-| <input type="checkbox" id="rb2-item-0-900" class="trackbox" /> | 900 | [Base](/neptunia/rb2/dlc/0-base.html) | [Polyhedron](/neptunia/rb2/item/0-900-polyhedron.html) (Material) | 2234 | 3 | 3 | 6 |
 | <input type="checkbox" id="rb2-item-0-911" class="trackbox" /> | 911 | [Base](/neptunia/rb2/dlc/0-base.html) | [Illegal Conductor](/neptunia/rb2/item/0-911-illegal-conductor.html) (Material) | 135 | 4 | 0 | 4 |
 | <input type="checkbox" id="rb2-item-0-4146" class="trackbox" /> | 4146 | [Base](/neptunia/rb2/dlc/0-base.html) | [Action](/neptunia/rb2/item/0-4146-action.html) (Idea Chip (Yellow)) | 10 | 0 | 0 | 0 |
 | <input type="checkbox" id="rb2-item-0-4193" class="trackbox" /> | 4193 | [Base](/neptunia/rb2/dlc/0-base.html) | [Custom Sound](/neptunia/rb2/item/0-4193-custom-sound.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
@@ -48,13 +45,13 @@ See [gathering point tables](#gathering-point-tables-for-lowee-global-expo-west)
 
 |    | ID | DLC | Name | Sells for | Remakes¹ | Quests² | Total |
 | -- | -- | --- | ---- | --------- | -------- | ------- | ----: |
-| <input type="checkbox" id="rb2-item-0-811" class="trackbox" /> | 811 | [Base](/neptunia/rb2/dlc/0-base.html) | [Black Gel Feeler](/neptunia/rb2/item/0-811-black-gel-feeler.html) (Material) | 106 | 2 | 0 | 2 |
-| <input type="checkbox" id="rb2-item-0-951" class="trackbox" /> | 951 | [Base](/neptunia/rb2/dlc/0-base.html) | [Magical Stone](/neptunia/rb2/item/0-951-magical-stone.html) (Material) | 40 | 18 | 0 | 18 |
-| <input type="checkbox" id="rb2-item-0-952" class="trackbox" /> | 952 | [Base](/neptunia/rb2/dlc/0-base.html) | [Ice Crystal](/neptunia/rb2/item/0-952-ice-crystal.html) (Material) | 56 | 0 | 0 | 0 |
-| <input type="checkbox" id="rb2-item-0-4143" class="trackbox" /> | 4143 | [Base](/neptunia/rb2/dlc/0-base.html) | [Strategy](/neptunia/rb2/item/0-4143-strategy.html) (Idea Chip (Yellow)) | 10 | 0 | 0 | 0 |
-| <input type="checkbox" id="rb2-item-0-4178" class="trackbox" /> | 4178 | [Base](/neptunia/rb2/dlc/0-base.html) | [Ripped Macho](/neptunia/rb2/item/0-4178-ripped-macho.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
-| <input type="checkbox" id="rb2-item-0-4240" class="trackbox" /> | 4240 | [Base](/neptunia/rb2/dlc/0-base.html) | [Male-oriented](/neptunia/rb2/item/0-4240-male-oriented.html) (Idea Chip (Red)) | 10 | 0 | 0 | 0 |
-| <input type="checkbox" id="rb2-item-0-4274" class="trackbox" /> | 4274 | [Base](/neptunia/rb2/dlc/0-base.html) | [Pinch Revival](/neptunia/rb2/item/0-4274-pinch-revival.html) (Idea Chip (Red)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-715" class="trackbox" /> | 715 | [Base](/neptunia/rb2/dlc/0-base.html) | [Gelid Stone](/neptunia/rb2/item/0-715-gelid-stone.html) (Material) | 450 | 9 | 0 | 9 |
+| <input type="checkbox" id="rb2-item-0-814" class="trackbox" /> | 814 | [Base](/neptunia/rb2/dlc/0-base.html) | [Mottled Antenna](/neptunia/rb2/item/0-814-mottled-antenna.html) (Material) | 4 | 3 | 3 | 6 |
+| <input type="checkbox" id="rb2-item-0-900" class="trackbox" /> | 900 | [Base](/neptunia/rb2/dlc/0-base.html) | [Polyhedron](/neptunia/rb2/item/0-900-polyhedron.html) (Material) | 2234 | 3 | 3 | 6 |
+| <input type="checkbox" id="rb2-item-0-4146" class="trackbox" /> | 4146 | [Base](/neptunia/rb2/dlc/0-base.html) | [Action](/neptunia/rb2/item/0-4146-action.html) (Idea Chip (Yellow)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-4193" class="trackbox" /> | 4193 | [Base](/neptunia/rb2/dlc/0-base.html) | [Custom Sound](/neptunia/rb2/item/0-4193-custom-sound.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-4213" class="trackbox" /> | 4213 | [Base](/neptunia/rb2/dlc/0-base.html) | [Hover Movement](/neptunia/rb2/item/0-4213-hover-movement.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-4273" class="trackbox" /> | 4273 | [Base](/neptunia/rb2/dlc/0-base.html) | [Die So Fast](/neptunia/rb2/item/0-4273-die-so-fast.html) (Idea Chip (Red)) | 10 | 0 | 0 | 0 |
 
 ### From treasure gathering points
 
@@ -118,22 +115,22 @@ See [gathering point tables](#gathering-point-tables-for-lowee-global-expo-west)
 ### Normal
 
 
-| #  | Item 1 | Item 2 | Item 3 | Item 4 | Item 5 |
-| -- | ------ | ------ | ------ | ------ | ------ |
-| 1 | 50%: [Model 4 Base](/neptunia/rb2/item/0-729-model-4-base.html) x1~2 | 50%: [Mottled Antenna](/neptunia/rb2/item/0-814-mottled-antenna.html) x1~2 | 25%: [Herb](/neptunia/rb2/item/0-701-herb.html) x1 | 25%: [Die So Fast](/neptunia/rb2/item/0-4273-die-so-fast.html) x1~2 | 7.5%: [Die So Fast](/neptunia/rb2/item/0-4273-die-so-fast.html) x1 |
-| 2 | 50%: [Ice Stone](/neptunia/rb2/item/0-714-ice-stone.html) x1~2 | 50%: [Gelid Stone](/neptunia/rb2/item/0-715-gelid-stone.html) x1~2 | 25%: [Model 4 Base](/neptunia/rb2/item/0-729-model-4-base.html) x1 | 25%: [Hover Movement](/neptunia/rb2/item/0-4213-hover-movement.html) x2~3 | 7.5%: [Hover Movement](/neptunia/rb2/item/0-4213-hover-movement.html) x1 |
-| 3 | 50%: [Ice Stone](/neptunia/rb2/item/0-714-ice-stone.html) x1~2 | 50%: [Polyhedron](/neptunia/rb2/item/0-900-polyhedron.html) x1~2 | 25%: [Illegal Conductor](/neptunia/rb2/item/0-911-illegal-conductor.html) x1 | 25%: [Action](/neptunia/rb2/item/0-4146-action.html) x1~2 | 7.5%: [Action](/neptunia/rb2/item/0-4146-action.html) x1 |
-| 4 | 50%: [Herb](/neptunia/rb2/item/0-701-herb.html) x2~3 | 50%: [Gelid Stone](/neptunia/rb2/item/0-715-gelid-stone.html) x1~2 | 25%: [Ice Stone](/neptunia/rb2/item/0-714-ice-stone.html) x1 | 25%: [Custom Sound](/neptunia/rb2/item/0-4193-custom-sound.html) x2~4 | 7.5%: [Custom Sound](/neptunia/rb2/item/0-4193-custom-sound.html) x1 |
+| #  | Item 1 | Item 2 | Item 3 |
+| -- | ------ | ------ | ------ |
+| 1 | 100%: [Model 4 Base](/neptunia/rb2/item/0-729-model-4-base.html) x1~2 | 50%: [Herb](/neptunia/rb2/item/0-701-herb.html) x1 | 15%: [Die So Fast](/neptunia/rb2/item/0-4273-die-so-fast.html) x1 |
+| 2 | 100%: [Ice Stone](/neptunia/rb2/item/0-714-ice-stone.html) x1~2 | 50%: [Model 4 Base](/neptunia/rb2/item/0-729-model-4-base.html) x1 | 15%: [Hover Movement](/neptunia/rb2/item/0-4213-hover-movement.html) x1 |
+| 3 | 100%: [Ice Stone](/neptunia/rb2/item/0-714-ice-stone.html) x1~2 | 50%: [Illegal Conductor](/neptunia/rb2/item/0-911-illegal-conductor.html) x1 | 15%: [Action](/neptunia/rb2/item/0-4146-action.html) x1 |
+| 4 | 100%: [Herb](/neptunia/rb2/item/0-701-herb.html) x2~3 | 50%: [Ice Stone](/neptunia/rb2/item/0-714-ice-stone.html) x1 | 15%: [Custom Sound](/neptunia/rb2/item/0-4193-custom-sound.html) x1 |
 
 ### Item Change (Harvest Shift) enabled
 
 
 | #  | Item 1 | Item 2 |
 | -- | ------ | ------ |
-| 1 | 100%: [Strategy](/neptunia/rb2/item/0-4143-strategy.html) x1~2 | 50%: [Ice Crystal](/neptunia/rb2/item/0-952-ice-crystal.html) x1 |
-| 2 | 100%: [Ripped Macho](/neptunia/rb2/item/0-4178-ripped-macho.html) x1~2 | 50%: [Magical Stone](/neptunia/rb2/item/0-951-magical-stone.html) x1 |
-| 3 | 100%: [Male-oriented](/neptunia/rb2/item/0-4240-male-oriented.html) x1 |
-| 4 | 100%: [Pinch Revival](/neptunia/rb2/item/0-4274-pinch-revival.html) x2~3 | 50%: [Black Gel Feeler](/neptunia/rb2/item/0-811-black-gel-feeler.html) x1 |
+| 1 | 100%: [Mottled Antenna](/neptunia/rb2/item/0-814-mottled-antenna.html) x1~2 | 50%: [Die So Fast](/neptunia/rb2/item/0-4273-die-so-fast.html) x1~2 |
+| 2 | 100%: [Gelid Stone](/neptunia/rb2/item/0-715-gelid-stone.html) x1~2 | 50%: [Hover Movement](/neptunia/rb2/item/0-4213-hover-movement.html) x2~3 |
+| 3 | 100%: [Polyhedron](/neptunia/rb2/item/0-900-polyhedron.html) x1~2 | 50%: [Action](/neptunia/rb2/item/0-4146-action.html) x1~2 |
+| 4 | 100%: [Gelid Stone](/neptunia/rb2/item/0-715-gelid-stone.html) x1~2 | 50%: [Custom Sound](/neptunia/rb2/item/0-4193-custom-sound.html) x2~4 |
 
 ### Treasure
 

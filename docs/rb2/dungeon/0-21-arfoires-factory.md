@@ -35,8 +35,6 @@ See [gathering point tables](#gathering-point-tables-for-arfoires-factory) for m
 | <input type="checkbox" id="rb2-item-0-720" class="trackbox" /> | 720 | [Base](/neptunia/rb2/dlc/0-base.html) | [Dense Earth Stone](/neptunia/rb2/item/0-720-dense-earth-stone.html) (Material) | 250 | 12 | 0 | 12 |
 | <input type="checkbox" id="rb2-item-0-721" class="trackbox" /> | 721 | [Base](/neptunia/rb2/dlc/0-base.html) | [Crest Stone](/neptunia/rb2/item/0-721-crest-stone.html) (Material) | 450 | 11 | 0 | 11 |
 | <input type="checkbox" id="rb2-item-0-724" class="trackbox" /> | 724 | [Base](/neptunia/rb2/dlc/0-base.html) | [Piece of Concrete](/neptunia/rb2/item/0-724-piece-of-concrete.html) (Material) | 150 | 8 | 0 | 8 |
-| <input type="checkbox" id="rb2-item-0-725" class="trackbox" /> | 725 | [Base](/neptunia/rb2/dlc/0-base.html) | [Iron Concrete](/neptunia/rb2/item/0-725-iron-concrete.html) (Material) | 7500 | 17 | 0 | 17 |
-| <input type="checkbox" id="rb2-item-0-730" class="trackbox" /> | 730 | [Base](/neptunia/rb2/dlc/0-base.html) | [Maoni Base](/neptunia/rb2/item/0-730-maoni-base.html) (Material) | 500 | 9 | 0 | 9 |
 | <input type="checkbox" id="rb2-item-0-4108" class="trackbox" /> | 4108 | [Base](/neptunia/rb2/dlc/0-base.html) | [Action RPG](/neptunia/rb2/item/0-4108-action-rpg.html) (Idea Chip (Yellow)) | 10 | 0 | 0 | 0 |
 | <input type="checkbox" id="rb2-item-0-4151" class="trackbox" /> | 4151 | [Base](/neptunia/rb2/dlc/0-base.html) | [Infrared Comm.](/neptunia/rb2/item/0-4151-infrared-comm.html) (Idea Chip (Yellow)) | 10 | 0 | 0 | 0 |
 | <input type="checkbox" id="rb2-item-0-4204" class="trackbox" /> | 4204 | [Base](/neptunia/rb2/dlc/0-base.html) | [Charge](/neptunia/rb2/item/0-4204-charge.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
@@ -47,9 +45,9 @@ See [gathering point tables](#gathering-point-tables-for-arfoires-factory) for m
 
 |    | ID | DLC | Name | Sells for | Remakes¹ | Quests² | Total |
 | -- | -- | --- | ---- | --------- | -------- | ------- | ----: |
-| <input type="checkbox" id="rb2-item-0-720" class="trackbox" /> | 720 | [Base](/neptunia/rb2/dlc/0-base.html) | [Dense Earth Stone](/neptunia/rb2/item/0-720-dense-earth-stone.html) (Material) | 250 | 12 | 0 | 12 |
 | <input type="checkbox" id="rb2-item-0-721" class="trackbox" /> | 721 | [Base](/neptunia/rb2/dlc/0-base.html) | [Crest Stone](/neptunia/rb2/item/0-721-crest-stone.html) (Material) | 450 | 11 | 0 | 11 |
-| <input type="checkbox" id="rb2-item-0-724" class="trackbox" /> | 724 | [Base](/neptunia/rb2/dlc/0-base.html) | [Piece of Concrete](/neptunia/rb2/item/0-724-piece-of-concrete.html) (Material) | 150 | 8 | 0 | 8 |
+| <input type="checkbox" id="rb2-item-0-725" class="trackbox" /> | 725 | [Base](/neptunia/rb2/dlc/0-base.html) | [Iron Concrete](/neptunia/rb2/item/0-725-iron-concrete.html) (Material) | 7500 | 17 | 0 | 17 |
+| <input type="checkbox" id="rb2-item-0-730" class="trackbox" /> | 730 | [Base](/neptunia/rb2/dlc/0-base.html) | [Maoni Base](/neptunia/rb2/item/0-730-maoni-base.html) (Material) | 500 | 9 | 0 | 9 |
 | <input type="checkbox" id="rb2-item-0-4108" class="trackbox" /> | 4108 | [Base](/neptunia/rb2/dlc/0-base.html) | [Action RPG](/neptunia/rb2/item/0-4108-action-rpg.html) (Idea Chip (Yellow)) | 10 | 0 | 0 | 0 |
 | <input type="checkbox" id="rb2-item-0-4151" class="trackbox" /> | 4151 | [Base](/neptunia/rb2/dlc/0-base.html) | [Infrared Comm.](/neptunia/rb2/item/0-4151-infrared-comm.html) (Idea Chip (Yellow)) | 10 | 0 | 0 | 0 |
 | <input type="checkbox" id="rb2-item-0-4204" class="trackbox" /> | 4204 | [Base](/neptunia/rb2/dlc/0-base.html) | [Charge](/neptunia/rb2/item/0-4204-charge.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
@@ -121,17 +119,6 @@ See [gathering point tables](#gathering-point-tables-for-arfoires-factory) for m
 ### Normal
 
 
-| #  | Item 1 | Item 2 | Item 3 | Item 4 | Item 5 |
-| -- | ------ | ------ | ------ | ------ | ------ |
-| 1 | 50%: [Piece of Concrete](/neptunia/rb2/item/0-724-piece-of-concrete.html) x1~2 | 50%: [Maoni Base](/neptunia/rb2/item/0-730-maoni-base.html) x1~2 | 25%: [Crest Stone](/neptunia/rb2/item/0-721-crest-stone.html) x1 | 25%: [Charge](/neptunia/rb2/item/0-4204-charge.html) x2~4 | 7.5%: [Charge](/neptunia/rb2/item/0-4204-charge.html) x1 |
-| 2 | 50%: [Dense Earth Stone](/neptunia/rb2/item/0-720-dense-earth-stone.html) x1~2 | 50%: [Iron Concrete](/neptunia/rb2/item/0-725-iron-concrete.html) x1~2 | 25%: [Crest Stone](/neptunia/rb2/item/0-721-crest-stone.html) x1 | 25%: [Special Gauges](/neptunia/rb2/item/0-4224-special-gauges.html) x2~3 | 7.5%: [Special Gauges](/neptunia/rb2/item/0-4224-special-gauges.html) x1 |
-| 3 | 50%: [Dense Earth Stone](/neptunia/rb2/item/0-720-dense-earth-stone.html) x1~2 | 50%: [Crest Stone](/neptunia/rb2/item/0-721-crest-stone.html) x1~2 | 25%: [Piece of Concrete](/neptunia/rb2/item/0-724-piece-of-concrete.html) x1 | 25%: [Min-Max](/neptunia/rb2/item/0-4275-min-max.html) x1 | 7.5%: [Min-Max](/neptunia/rb2/item/0-4275-min-max.html) x1 |
-| 4 | 50%: [Piece of Concrete](/neptunia/rb2/item/0-724-piece-of-concrete.html) x1~2 | 50%: [Maoni Base](/neptunia/rb2/item/0-730-maoni-base.html) x1~2 | 25%: [Dense Earth Stone](/neptunia/rb2/item/0-720-dense-earth-stone.html) x1 | 25%: [Infrared Comm.](/neptunia/rb2/item/0-4151-infrared-comm.html) x2 | 7.5%: [Infrared Comm.](/neptunia/rb2/item/0-4151-infrared-comm.html) x1 |
-| 5 | 50%: [Crest Stone](/neptunia/rb2/item/0-721-crest-stone.html) x2~3 | 50%: [Iron Concrete](/neptunia/rb2/item/0-725-iron-concrete.html) x2~3 | 25%: [Piece of Concrete](/neptunia/rb2/item/0-724-piece-of-concrete.html) x1 | 25%: [Action RPG](/neptunia/rb2/item/0-4108-action-rpg.html) x2~3 | 7.5%: [Action RPG](/neptunia/rb2/item/0-4108-action-rpg.html) x1 |
-
-### Item Change (Harvest Shift) enabled
-
-
 | #  | Item 1 | Item 2 | Item 3 |
 | -- | ------ | ------ | ------ |
 | 1 | 100%: [Piece of Concrete](/neptunia/rb2/item/0-724-piece-of-concrete.html) x1~2 | 50%: [Crest Stone](/neptunia/rb2/item/0-721-crest-stone.html) x1 | 15%: [Charge](/neptunia/rb2/item/0-4204-charge.html) x1 |
@@ -139,6 +126,17 @@ See [gathering point tables](#gathering-point-tables-for-arfoires-factory) for m
 | 3 | 100%: [Dense Earth Stone](/neptunia/rb2/item/0-720-dense-earth-stone.html) x1~2 | 50%: [Piece of Concrete](/neptunia/rb2/item/0-724-piece-of-concrete.html) x1 | 15%: [Min-Max](/neptunia/rb2/item/0-4275-min-max.html) x1 |
 | 4 | 100%: [Piece of Concrete](/neptunia/rb2/item/0-724-piece-of-concrete.html) x1~2 | 50%: [Dense Earth Stone](/neptunia/rb2/item/0-720-dense-earth-stone.html) x1 | 15%: [Infrared Comm.](/neptunia/rb2/item/0-4151-infrared-comm.html) x1 |
 | 5 | 100%: [Crest Stone](/neptunia/rb2/item/0-721-crest-stone.html) x2~3 | 50%: [Piece of Concrete](/neptunia/rb2/item/0-724-piece-of-concrete.html) x1 | 15%: [Action RPG](/neptunia/rb2/item/0-4108-action-rpg.html) x1 |
+
+### Item Change (Harvest Shift) enabled
+
+
+| #  | Item 1 | Item 2 |
+| -- | ------ | ------ |
+| 1 | 100%: [Maoni Base](/neptunia/rb2/item/0-730-maoni-base.html) x1~2 | 50%: [Charge](/neptunia/rb2/item/0-4204-charge.html) x2~4 |
+| 2 | 100%: [Iron Concrete](/neptunia/rb2/item/0-725-iron-concrete.html) x1~2 | 50%: [Special Gauges](/neptunia/rb2/item/0-4224-special-gauges.html) x2~3 |
+| 3 | 100%: [Crest Stone](/neptunia/rb2/item/0-721-crest-stone.html) x1~2 | 50%: [Min-Max](/neptunia/rb2/item/0-4275-min-max.html) x1 |
+| 4 | 100%: [Maoni Base](/neptunia/rb2/item/0-730-maoni-base.html) x1~2 | 50%: [Infrared Comm.](/neptunia/rb2/item/0-4151-infrared-comm.html) x2 |
+| 5 | 100%: [Iron Concrete](/neptunia/rb2/item/0-725-iron-concrete.html) x2~3 | 50%: [Action RPG](/neptunia/rb2/item/0-4108-action-rpg.html) x2~3 |
 
 ### Treasure
 

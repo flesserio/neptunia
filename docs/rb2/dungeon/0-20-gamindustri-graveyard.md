@@ -36,9 +36,6 @@ See [gathering point tables](#gathering-point-tables-for-gamindustri-graveyard) 
 | <input type="checkbox" id="rb2-item-0-726" class="trackbox" /> | 726 | [Base](/neptunia/rb2/dlc/0-base.html) | [Data Crystal](/neptunia/rb2/item/0-726-data-crystal.html) (Material) | 100 | 24 | 0 | 24 |
 | <input type="checkbox" id="rb2-item-0-727" class="trackbox" /> | 727 | [Base](/neptunia/rb2/dlc/0-base.html) | [File Crystal](/neptunia/rb2/item/0-727-file-crystal.html) (Material) | 2500 | 18 | 0 | 18 |
 | <input type="checkbox" id="rb2-item-0-729" class="trackbox" /> | 729 | [Base](/neptunia/rb2/dlc/0-base.html) | [Model 4 Base](/neptunia/rb2/item/0-729-model-4-base.html) (Material) | 15 | 48 | 0 | 48 |
-| <input type="checkbox" id="rb2-item-0-828" class="trackbox" /> | 828 | [Base](/neptunia/rb2/dlc/0-base.html) | [Wriggling Tail](/neptunia/rb2/item/0-828-wriggling-tail.html) (Material) | 153 | 5 | 0 | 5 |
-| <input type="checkbox" id="rb2-item-0-852" class="trackbox" /> | 852 | [Base](/neptunia/rb2/dlc/0-base.html) | [Venomous Cloth](/neptunia/rb2/item/0-852-venomous-cloth.html) (Material) | 106 | 7 | 0 | 7 |
-| <input type="checkbox" id="rb2-item-0-859" class="trackbox" /> | 859 | [Base](/neptunia/rb2/dlc/0-base.html) | [Venom Ribbon](/neptunia/rb2/item/0-859-venom-ribbon.html) (Material) | 178 | 8 | 0 | 8 |
 | <input type="checkbox" id="rb2-item-0-877" class="trackbox" /> | 877 | [Base](/neptunia/rb2/dlc/0-base.html) | [Disc Shard](/neptunia/rb2/item/0-877-disc-shard.html) (Material) | 3 | 13 | 0 | 13 |
 | <input type="checkbox" id="rb2-item-0-4138" class="trackbox" /> | 4138 | [Base](/neptunia/rb2/dlc/0-base.html) | [Series](/neptunia/rb2/item/0-4138-series.html) (Idea Chip (Yellow)) | 10 | 0 | 0 | 0 |
 | <input type="checkbox" id="rb2-item-0-4168" class="trackbox" /> | 4168 | [Base](/neptunia/rb2/dlc/0-base.html) | [Kuudere](/neptunia/rb2/item/0-4168-kuudere.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
@@ -50,10 +47,10 @@ See [gathering point tables](#gathering-point-tables-for-gamindustri-graveyard) 
 
 |    | ID | DLC | Name | Sells for | Remakes¹ | Quests² | Total |
 | -- | -- | --- | ---- | --------- | -------- | ------- | ----: |
-| <input type="checkbox" id="rb2-item-0-708" class="trackbox" /> | 708 | [Base](/neptunia/rb2/dlc/0-base.html) | [Silver Ore](/neptunia/rb2/item/0-708-silver-ore.html) (Material) | 250 | 14 | 0 | 14 |
-| <input type="checkbox" id="rb2-item-0-726" class="trackbox" /> | 726 | [Base](/neptunia/rb2/dlc/0-base.html) | [Data Crystal](/neptunia/rb2/item/0-726-data-crystal.html) (Material) | 100 | 24 | 0 | 24 |
 | <input type="checkbox" id="rb2-item-0-727" class="trackbox" /> | 727 | [Base](/neptunia/rb2/dlc/0-base.html) | [File Crystal](/neptunia/rb2/item/0-727-file-crystal.html) (Material) | 2500 | 18 | 0 | 18 |
-| <input type="checkbox" id="rb2-item-0-729" class="trackbox" /> | 729 | [Base](/neptunia/rb2/dlc/0-base.html) | [Model 4 Base](/neptunia/rb2/item/0-729-model-4-base.html) (Material) | 15 | 48 | 0 | 48 |
+| <input type="checkbox" id="rb2-item-0-828" class="trackbox" /> | 828 | [Base](/neptunia/rb2/dlc/0-base.html) | [Wriggling Tail](/neptunia/rb2/item/0-828-wriggling-tail.html) (Material) | 153 | 5 | 0 | 5 |
+| <input type="checkbox" id="rb2-item-0-852" class="trackbox" /> | 852 | [Base](/neptunia/rb2/dlc/0-base.html) | [Venomous Cloth](/neptunia/rb2/item/0-852-venomous-cloth.html) (Material) | 106 | 7 | 0 | 7 |
+| <input type="checkbox" id="rb2-item-0-859" class="trackbox" /> | 859 | [Base](/neptunia/rb2/dlc/0-base.html) | [Venom Ribbon](/neptunia/rb2/item/0-859-venom-ribbon.html) (Material) | 178 | 8 | 0 | 8 |
 | <input type="checkbox" id="rb2-item-0-877" class="trackbox" /> | 877 | [Base](/neptunia/rb2/dlc/0-base.html) | [Disc Shard](/neptunia/rb2/item/0-877-disc-shard.html) (Material) | 3 | 13 | 0 | 13 |
 | <input type="checkbox" id="rb2-item-0-4138" class="trackbox" /> | 4138 | [Base](/neptunia/rb2/dlc/0-base.html) | [Series](/neptunia/rb2/item/0-4138-series.html) (Idea Chip (Yellow)) | 10 | 0 | 0 | 0 |
 | <input type="checkbox" id="rb2-item-0-4168" class="trackbox" /> | 4168 | [Base](/neptunia/rb2/dlc/0-base.html) | [Kuudere](/neptunia/rb2/item/0-4168-kuudere.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
@@ -126,17 +123,6 @@ See [gathering point tables](#gathering-point-tables-for-gamindustri-graveyard) 
 ### Normal
 
 
-| #  | Item 1 | Item 2 | Item 3 | Item 4 | Item 5 |
-| -- | ------ | ------ | ------ | ------ | ------ |
-| 1 | 50%: [Model 4 Base](/neptunia/rb2/item/0-729-model-4-base.html) x1~2 | 50%: [Disc Shard](/neptunia/rb2/item/0-877-disc-shard.html) x1~2 | 25%: [Silver Ore](/neptunia/rb2/item/0-708-silver-ore.html) x1 | 25%: [Emotional Game](/neptunia/rb2/item/0-4208-emotional-game.html) x1~2 | 7.5%: [Emotional Game](/neptunia/rb2/item/0-4208-emotional-game.html) x1 |
-| 2 | 50%: [Data Crystal](/neptunia/rb2/item/0-726-data-crystal.html) x1~2 | 50%: [Venom Ribbon](/neptunia/rb2/item/0-859-venom-ribbon.html) x1~2 | 25%: [Disc Shard](/neptunia/rb2/item/0-877-disc-shard.html) x1 | 25%: [Wide Market](/neptunia/rb2/item/0-4254-wide-market.html) x2~3 | 7.5%: [Wide Market](/neptunia/rb2/item/0-4254-wide-market.html) x1 |
-| 3 | 50%: [Data Crystal](/neptunia/rb2/item/0-726-data-crystal.html) x1~2 | 50%: [Wriggling Tail](/neptunia/rb2/item/0-828-wriggling-tail.html) x1~2 | 25%: [File Crystal](/neptunia/rb2/item/0-727-file-crystal.html) x1 | 25%: [Special DLC Code](/neptunia/rb2/item/0-4259-special-dlc-code.html) x1 | 7.5%: [Special DLC Code](/neptunia/rb2/item/0-4259-special-dlc-code.html) x1 |
-| 4 | 50%: [Model 4 Base](/neptunia/rb2/item/0-729-model-4-base.html) x2~3 | 50%: [File Crystal](/neptunia/rb2/item/0-727-file-crystal.html) x2~3 | 25%: [Data Crystal](/neptunia/rb2/item/0-726-data-crystal.html) x1 | 25%: [Series](/neptunia/rb2/item/0-4138-series.html) x2 | 7.5%: [Series](/neptunia/rb2/item/0-4138-series.html) x1 |
-| 5 | 50%: [Silver Ore](/neptunia/rb2/item/0-708-silver-ore.html) x2~3 | 50%: [Venomous Cloth](/neptunia/rb2/item/0-852-venomous-cloth.html) x2~3 | 25%: [File Crystal](/neptunia/rb2/item/0-727-file-crystal.html) x1 | 25%: [Kuudere](/neptunia/rb2/item/0-4168-kuudere.html) x2~3 | 7.5%: [Kuudere](/neptunia/rb2/item/0-4168-kuudere.html) x1 |
-
-### Item Change (Harvest Shift) enabled
-
-
 | #  | Item 1 | Item 2 | Item 3 |
 | -- | ------ | ------ | ------ |
 | 1 | 100%: [Model 4 Base](/neptunia/rb2/item/0-729-model-4-base.html) x1~2 | 50%: [Silver Ore](/neptunia/rb2/item/0-708-silver-ore.html) x1 | 15%: [Emotional Game](/neptunia/rb2/item/0-4208-emotional-game.html) x1 |
@@ -144,6 +130,17 @@ See [gathering point tables](#gathering-point-tables-for-gamindustri-graveyard) 
 | 3 | 100%: [Data Crystal](/neptunia/rb2/item/0-726-data-crystal.html) x1~2 | 50%: [File Crystal](/neptunia/rb2/item/0-727-file-crystal.html) x1 | 15%: [Special DLC Code](/neptunia/rb2/item/0-4259-special-dlc-code.html) x1 |
 | 4 | 100%: [Model 4 Base](/neptunia/rb2/item/0-729-model-4-base.html) x2~3 | 50%: [Data Crystal](/neptunia/rb2/item/0-726-data-crystal.html) x1 | 15%: [Series](/neptunia/rb2/item/0-4138-series.html) x1 |
 | 5 | 100%: [Silver Ore](/neptunia/rb2/item/0-708-silver-ore.html) x2~3 | 50%: [File Crystal](/neptunia/rb2/item/0-727-file-crystal.html) x1 | 15%: [Kuudere](/neptunia/rb2/item/0-4168-kuudere.html) x1 |
+
+### Item Change (Harvest Shift) enabled
+
+
+| #  | Item 1 | Item 2 |
+| -- | ------ | ------ |
+| 1 | 100%: [Disc Shard](/neptunia/rb2/item/0-877-disc-shard.html) x1~2 | 50%: [Emotional Game](/neptunia/rb2/item/0-4208-emotional-game.html) x1~2 |
+| 2 | 100%: [Venom Ribbon](/neptunia/rb2/item/0-859-venom-ribbon.html) x1~2 | 50%: [Wide Market](/neptunia/rb2/item/0-4254-wide-market.html) x2~3 |
+| 3 | 100%: [Wriggling Tail](/neptunia/rb2/item/0-828-wriggling-tail.html) x1~2 | 50%: [Special DLC Code](/neptunia/rb2/item/0-4259-special-dlc-code.html) x1 |
+| 4 | 100%: [File Crystal](/neptunia/rb2/item/0-727-file-crystal.html) x2~3 | 50%: [Series](/neptunia/rb2/item/0-4138-series.html) x2 |
+| 5 | 100%: [Venomous Cloth](/neptunia/rb2/item/0-852-venomous-cloth.html) x2~3 | 50%: [Kuudere](/neptunia/rb2/item/0-4168-kuudere.html) x2~3 |
 
 ### Treasure
 

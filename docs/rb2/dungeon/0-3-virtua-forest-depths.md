@@ -37,9 +37,6 @@ See [gathering point tables](#gathering-point-tables-for-virtua-forest-depths) f
 | <input type="checkbox" id="rb2-item-0-717" class="trackbox" /> | 717 | [Base](/neptunia/rb2/dlc/0-base.html) | [Wind Stone](/neptunia/rb2/item/0-717-wind-stone.html) (Material) | 250 | 14 | 0 | 14 |
 | <input type="checkbox" id="rb2-item-0-723" class="trackbox" /> | 723 | [Base](/neptunia/rb2/dlc/0-base.html) | [Rock](/neptunia/rb2/item/0-723-rock.html) (Material) | 10 | 27 | 3 | 30 |
 | <input type="checkbox" id="rb2-item-0-871" class="trackbox" /> | 871 | [Base](/neptunia/rb2/dlc/0-base.html) | [Fungus's Spores](/neptunia/rb2/item/0-871-funguss-spores.html) (Material) | 9 | 6 | 0 | 6 |
-| <input type="checkbox" id="rb2-item-0-876" class="trackbox" /> | 876 | [Base](/neptunia/rb2/dlc/0-base.html) | [Piranha Petal](/neptunia/rb2/item/0-876-piranha-petal.html) (Material) | 312 | 3 | 0 | 3 |
-| <input type="checkbox" id="rb2-item-0-919" class="trackbox" /> | 919 | [Base](/neptunia/rb2/dlc/0-base.html) | [Spider Web](/neptunia/rb2/item/0-919-spider-web.html) (Material) | 118 | 4 | 2 | 6 |
-| <input type="checkbox" id="rb2-item-0-925" class="trackbox" /> | 925 | [Base](/neptunia/rb2/dlc/0-base.html) | [Hoinin Tentacles](/neptunia/rb2/item/0-925-hoinin-tentacles.html) (Material) | 177 | 4 | 0 | 4 |
 | <input type="checkbox" id="rb2-item-0-4106" class="trackbox" /> | 4106 | [Base](/neptunia/rb2/dlc/0-base.html) | [RPG](/neptunia/rb2/item/0-4106-rpg.html) (Idea Chip (Yellow)) | 10 | 0 | 0 | 0 |
 | <input type="checkbox" id="rb2-item-0-4141" class="trackbox" /> | 4141 | [Base](/neptunia/rb2/dlc/0-base.html) | [Simulation](/neptunia/rb2/item/0-4141-simulation.html) (Idea Chip (Yellow)) | 10 | 0 | 0 | 0 |
 | <input type="checkbox" id="rb2-item-0-4157" class="trackbox" /> | 4157 | [Base](/neptunia/rb2/dlc/0-base.html) | [Idol](/neptunia/rb2/item/0-4157-idol.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
@@ -50,14 +47,16 @@ See [gathering point tables](#gathering-point-tables-for-virtua-forest-depths) f
 
 |    | ID | DLC | Name | Sells for | Remakes¹ | Quests² | Total |
 | -- | -- | --- | ---- | --------- | -------- | ------- | ----: |
-| <input type="checkbox" id="rb2-item-0-945" class="trackbox" /> | 945 | [Base](/neptunia/rb2/dlc/0-base.html) | [Rainbow Wing](/neptunia/rb2/item/0-945-rainbow-wing.html) (Material) | 105 | 22 | 6 | 28 |
-| <input type="checkbox" id="rb2-item-0-946" class="trackbox" /> | 946 | [Base](/neptunia/rb2/dlc/0-base.html) | [Magical Fragment](/neptunia/rb2/item/0-946-magical-fragment.html) (Material) | 39 | 60 | 0 | 60 |
-| <input type="checkbox" id="rb2-item-0-947" class="trackbox" /> | 947 | [Base](/neptunia/rb2/dlc/0-base.html) | [Mysterious Red Ball](/neptunia/rb2/item/0-947-mysterious-red-ball.html) (Material) | 17 | 5 | 0 | 5 |
-| <input type="checkbox" id="rb2-item-0-4107" class="trackbox" /> | 4107 | [Base](/neptunia/rb2/dlc/0-base.html) | [Shooting RPG](/neptunia/rb2/item/0-4107-shooting-rpg.html) (Idea Chip (Yellow)) | 10 | 0 | 0 | 0 |
-| <input type="checkbox" id="rb2-item-0-4199" class="trackbox" /> | 4199 | [Base](/neptunia/rb2/dlc/0-base.html) | [Sci-Fi](/neptunia/rb2/item/0-4199-sci-fi.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
-| <input type="checkbox" id="rb2-item-0-4214" class="trackbox" /> | 4214 | [Base](/neptunia/rb2/dlc/0-base.html) | [Japanese Taste](/neptunia/rb2/item/0-4214-japanese-taste.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
-| <input type="checkbox" id="rb2-item-0-4233" class="trackbox" /> | 4233 | [Base](/neptunia/rb2/dlc/0-base.html) | [Big Online](/neptunia/rb2/item/0-4233-big-online.html) (Idea Chip (Red)) | 10 | 0 | 0 | 0 |
-| <input type="checkbox" id="rb2-item-0-4261" class="trackbox" /> | 4261 | [Base](/neptunia/rb2/dlc/0-base.html) | [True Story, Bro](/neptunia/rb2/item/0-4261-true-story-bro.html) (Idea Chip (Red)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-702" class="trackbox" /> | 702 | [Base](/neptunia/rb2/dlc/0-base.html) | [Healing Herb](/neptunia/rb2/item/0-702-healing-herb.html) (Material) | 50 | 31 | 4 | 35 |
+| <input type="checkbox" id="rb2-item-0-717" class="trackbox" /> | 717 | [Base](/neptunia/rb2/dlc/0-base.html) | [Wind Stone](/neptunia/rb2/item/0-717-wind-stone.html) (Material) | 250 | 14 | 0 | 14 |
+| <input type="checkbox" id="rb2-item-0-876" class="trackbox" /> | 876 | [Base](/neptunia/rb2/dlc/0-base.html) | [Piranha Petal](/neptunia/rb2/item/0-876-piranha-petal.html) (Material) | 312 | 3 | 0 | 3 |
+| <input type="checkbox" id="rb2-item-0-919" class="trackbox" /> | 919 | [Base](/neptunia/rb2/dlc/0-base.html) | [Spider Web](/neptunia/rb2/item/0-919-spider-web.html) (Material) | 118 | 4 | 2 | 6 |
+| <input type="checkbox" id="rb2-item-0-925" class="trackbox" /> | 925 | [Base](/neptunia/rb2/dlc/0-base.html) | [Hoinin Tentacles](/neptunia/rb2/item/0-925-hoinin-tentacles.html) (Material) | 177 | 4 | 0 | 4 |
+| <input type="checkbox" id="rb2-item-0-4106" class="trackbox" /> | 4106 | [Base](/neptunia/rb2/dlc/0-base.html) | [RPG](/neptunia/rb2/item/0-4106-rpg.html) (Idea Chip (Yellow)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-4141" class="trackbox" /> | 4141 | [Base](/neptunia/rb2/dlc/0-base.html) | [Simulation](/neptunia/rb2/item/0-4141-simulation.html) (Idea Chip (Yellow)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-4157" class="trackbox" /> | 4157 | [Base](/neptunia/rb2/dlc/0-base.html) | [Idol](/neptunia/rb2/item/0-4157-idol.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-4178" class="trackbox" /> | 4178 | [Base](/neptunia/rb2/dlc/0-base.html) | [Ripped Macho](/neptunia/rb2/item/0-4178-ripped-macho.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-4202" class="trackbox" /> | 4202 | [Base](/neptunia/rb2/dlc/0-base.html) | [Jump](/neptunia/rb2/item/0-4202-jump.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
 
 ### From treasure gathering points
 
@@ -114,24 +113,24 @@ See [gathering point tables](#gathering-point-tables-for-virtua-forest-depths) f
 ### Normal
 
 
-| #  | Item 1 | Item 2 | Item 3 | Item 4 | Item 5 |
-| -- | ------ | ------ | ------ | ------ | ------ |
-| 1 | 50%: [Healing Herb](/neptunia/rb2/item/0-702-healing-herb.html) x1~2 | 50%: [Healing Herb](/neptunia/rb2/item/0-702-healing-herb.html) x1~2 | 25%: [Wind Stone](/neptunia/rb2/item/0-717-wind-stone.html) x1 | 25%: [RPG](/neptunia/rb2/item/0-4106-rpg.html) x1~2 | 7.5%: [RPG](/neptunia/rb2/item/0-4106-rpg.html) x1 |
-| 2 | 50%: [Wind Stone](/neptunia/rb2/item/0-717-wind-stone.html) x1~2 | 50%: [Piranha Petal](/neptunia/rb2/item/0-876-piranha-petal.html) x1~2 | 25%: [Fungus's Spores](/neptunia/rb2/item/0-871-funguss-spores.html) x1 | 25%: [Jump](/neptunia/rb2/item/0-4202-jump.html) x2~4 | 7.5%: [Jump](/neptunia/rb2/item/0-4202-jump.html) x1 |
-| 3 | 50%: [Rock](/neptunia/rb2/item/0-723-rock.html) x1~2 | 50%: [Hoinin Tentacles](/neptunia/rb2/item/0-925-hoinin-tentacles.html) x1~2 | 25%: [Wind Stone](/neptunia/rb2/item/0-717-wind-stone.html) x1 | 25%: [Idol](/neptunia/rb2/item/0-4157-idol.html) x3~4 | 7.5%: [Idol](/neptunia/rb2/item/0-4157-idol.html) x1 |
-| 4 | 50%: [Herb](/neptunia/rb2/item/0-701-herb.html) x2~3 | 50%: [Wind Stone](/neptunia/rb2/item/0-717-wind-stone.html) x1~2 | 25%: [Healing Herb](/neptunia/rb2/item/0-702-healing-herb.html) x1 | 25%: [Ripped Macho](/neptunia/rb2/item/0-4178-ripped-macho.html) x2~3 | 7.5%: [Ripped Macho](/neptunia/rb2/item/0-4178-ripped-macho.html) x1 |
-| 5 | 50%: [Healing Herb](/neptunia/rb2/item/0-702-healing-herb.html) x2~3 | 50%: [Spider Web](/neptunia/rb2/item/0-919-spider-web.html) x1~2 | 25%: [Herb](/neptunia/rb2/item/0-701-herb.html) x1 | 25%: [Simulation](/neptunia/rb2/item/0-4141-simulation.html) x2~3 | 7.5%: [Simulation](/neptunia/rb2/item/0-4141-simulation.html) x1 |
+| #  | Item 1 | Item 2 | Item 3 |
+| -- | ------ | ------ | ------ |
+| 1 | 100%: [Healing Herb](/neptunia/rb2/item/0-702-healing-herb.html) x1~2 | 50%: [Wind Stone](/neptunia/rb2/item/0-717-wind-stone.html) x1 | 15%: [RPG](/neptunia/rb2/item/0-4106-rpg.html) x1 |
+| 2 | 100%: [Wind Stone](/neptunia/rb2/item/0-717-wind-stone.html) x1~2 | 50%: [Fungus's Spores](/neptunia/rb2/item/0-871-funguss-spores.html) x1 | 15%: [Jump](/neptunia/rb2/item/0-4202-jump.html) x1 |
+| 3 | 100%: [Rock](/neptunia/rb2/item/0-723-rock.html) x1~2 | 50%: [Wind Stone](/neptunia/rb2/item/0-717-wind-stone.html) x1 | 15%: [Idol](/neptunia/rb2/item/0-4157-idol.html) x1 |
+| 4 | 100%: [Herb](/neptunia/rb2/item/0-701-herb.html) x2~3 | 50%: [Healing Herb](/neptunia/rb2/item/0-702-healing-herb.html) x1 | 15%: [Ripped Macho](/neptunia/rb2/item/0-4178-ripped-macho.html) x1 |
+| 5 | 100%: [Healing Herb](/neptunia/rb2/item/0-702-healing-herb.html) x2~3 | 50%: [Herb](/neptunia/rb2/item/0-701-herb.html) x1 | 15%: [Simulation](/neptunia/rb2/item/0-4141-simulation.html) x1 |
 
 ### Item Change (Harvest Shift) enabled
 
 
 | #  | Item 1 | Item 2 |
 | -- | ------ | ------ |
-| 1 | 100%: [True Story, Bro](/neptunia/rb2/item/0-4261-true-story-bro.html) x1~2 |
-| 2 | 100%: [Japanese Taste](/neptunia/rb2/item/0-4214-japanese-taste.html) x1~2 | 50%: [Rainbow Wing](/neptunia/rb2/item/0-945-rainbow-wing.html) x1 |
-| 3 | 100%: [Sci-Fi](/neptunia/rb2/item/0-4199-sci-fi.html) x1~2 |
-| 4 | 100%: [Shooting RPG](/neptunia/rb2/item/0-4107-shooting-rpg.html) x1~2 | 50%: [Magical Fragment](/neptunia/rb2/item/0-946-magical-fragment.html) x1 |
-| 5 | 100%: [Big Online](/neptunia/rb2/item/0-4233-big-online.html) x1~2 | 50%: [Mysterious Red Ball](/neptunia/rb2/item/0-947-mysterious-red-ball.html) x1 |
+| 1 | 100%: [Healing Herb](/neptunia/rb2/item/0-702-healing-herb.html) x1~2 | 50%: [RPG](/neptunia/rb2/item/0-4106-rpg.html) x1~2 |
+| 2 | 100%: [Piranha Petal](/neptunia/rb2/item/0-876-piranha-petal.html) x1~2 | 50%: [Jump](/neptunia/rb2/item/0-4202-jump.html) x2~4 |
+| 3 | 100%: [Hoinin Tentacles](/neptunia/rb2/item/0-925-hoinin-tentacles.html) x1~2 | 50%: [Idol](/neptunia/rb2/item/0-4157-idol.html) x3~4 |
+| 4 | 100%: [Wind Stone](/neptunia/rb2/item/0-717-wind-stone.html) x1~2 | 50%: [Ripped Macho](/neptunia/rb2/item/0-4178-ripped-macho.html) x2~3 |
+| 5 | 100%: [Spider Web](/neptunia/rb2/item/0-919-spider-web.html) x1~2 | 50%: [Simulation](/neptunia/rb2/item/0-4141-simulation.html) x2~3 |
 
 ### Treasure
 

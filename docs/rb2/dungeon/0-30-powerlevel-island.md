@@ -49,14 +49,16 @@ See [gathering point tables](#gathering-point-tables-for-powerlevel-island) for 
 
 |    | ID | DLC | Name | Sells for | Remakes¹ | Quests² | Total |
 | -- | -- | --- | ---- | --------- | -------- | ------- | ----: |
+| <input type="checkbox" id="rb2-item-0-702" class="trackbox" /> | 702 | [Base](/neptunia/rb2/dlc/0-base.html) | [Healing Herb](/neptunia/rb2/item/0-702-healing-herb.html) (Material) | 50 | 31 | 4 | 35 |
+| <input type="checkbox" id="rb2-item-0-723" class="trackbox" /> | 723 | [Base](/neptunia/rb2/dlc/0-base.html) | [Rock](/neptunia/rb2/item/0-723-rock.html) (Material) | 10 | 27 | 3 | 30 |
 | <input type="checkbox" id="rb2-item-0-732" class="trackbox" /> | 732 | [Base](/neptunia/rb2/dlc/0-base.html) | [Seashell](/neptunia/rb2/item/0-732-seashell.html) (Material) | 200 | 15 | 4 | 19 |
-| <input type="checkbox" id="rb2-item-0-733" class="trackbox" /> | 733 | [Base](/neptunia/rb2/dlc/0-base.html) | [Sea Bead](/neptunia/rb2/item/0-733-sea-bead.html) (Material) | 400 | 6 | 0 | 6 |
-| <input type="checkbox" id="rb2-item-0-734" class="trackbox" /> | 734 | [Base](/neptunia/rb2/dlc/0-base.html) | [Tiamat Horn](/neptunia/rb2/item/0-734-tiamat-horn.html) (Material) | 35000 | 2 | 0 | 2 |
-| <input type="checkbox" id="rb2-item-0-4129" class="trackbox" /> | 4129 | [Base](/neptunia/rb2/dlc/0-base.html) | [Puzzle/Logic](/neptunia/rb2/item/0-4129-puzzle-logic.html) (Idea Chip (Yellow)) | 10 | 0 | 0 | 0 |
-| <input type="checkbox" id="rb2-item-0-4152" class="trackbox" /> | 4152 | [Base](/neptunia/rb2/dlc/0-base.html) | [LAN Party](/neptunia/rb2/item/0-4152-lan-party.html) (Idea Chip (Yellow)) | 10 | 0 | 0 | 0 |
-| <input type="checkbox" id="rb2-item-0-4225" class="trackbox" /> | 4225 | [Base](/neptunia/rb2/dlc/0-base.html) | [Rumble](/neptunia/rb2/item/0-4225-rumble.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
-| <input type="checkbox" id="rb2-item-0-4230" class="trackbox" /> | 4230 | [Base](/neptunia/rb2/dlc/0-base.html) | [Limited Edition](/neptunia/rb2/item/0-4230-limited-edition.html) (Idea Chip (Red)) | 10 | 0 | 0 | 0 |
-| <input type="checkbox" id="rb2-item-0-4251" class="trackbox" /> | 4251 | [Base](/neptunia/rb2/dlc/0-base.html) | [Famous Creator](/neptunia/rb2/item/0-4251-famous-creator.html) (Idea Chip (Red)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-935" class="trackbox" /> | 935 | [Base](/neptunia/rb2/dlc/0-base.html) | [Bone Fragment](/neptunia/rb2/item/0-935-bone-fragment.html) (Material) | 52 | 4 | 0 | 4 |
+| <input type="checkbox" id="rb2-item-0-941" class="trackbox" /> | 941 | [Base](/neptunia/rb2/dlc/0-base.html) | [Wolf Fur](/neptunia/rb2/item/0-941-wolf-fur.html) (Material) | 58 | 2 | 0 | 2 |
+| <input type="checkbox" id="rb2-item-0-4116" class="trackbox" /> | 4116 | [Base](/neptunia/rb2/dlc/0-base.html) | [Sports](/neptunia/rb2/item/0-4116-sports.html) (Idea Chip (Yellow)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-4162" class="trackbox" /> | 4162 | [Base](/neptunia/rb2/dlc/0-base.html) | [Voice Actor](/neptunia/rb2/item/0-4162-voice-actor.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-4163" class="trackbox" /> | 4163 | [Base](/neptunia/rb2/dlc/0-base.html) | [Handsome Man](/neptunia/rb2/item/0-4163-handsome-man.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-4198" class="trackbox" /> | 4198 | [Base](/neptunia/rb2/dlc/0-base.html) | [Fantasy](/neptunia/rb2/item/0-4198-fantasy.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-4234" class="trackbox" /> | 4234 | [Base](/neptunia/rb2/dlc/0-base.html) | [Middle School](/neptunia/rb2/item/0-4234-middle-school.html) (Idea Chip (Red)) | 10 | 0 | 0 | 0 |
 
 ### From treasure gathering points
 
@@ -112,24 +114,24 @@ See [gathering point tables](#gathering-point-tables-for-powerlevel-island) for 
 ### Normal
 
 
-| #  | Item 1 | Item 2 | Item 3 | Item 4 | Item 5 |
-| -- | ------ | ------ | ------ | ------ | ------ |
-| 1 | 50%: [Seashell](/neptunia/rb2/item/0-732-seashell.html) x1~2 | 50%: [Bone Fragment](/neptunia/rb2/item/0-935-bone-fragment.html) x1~2 | 25%: [Handsome Man](/neptunia/rb2/item/0-4163-handsome-man.html) x1 | 7.5%: [Handsome Man](/neptunia/rb2/item/0-4163-handsome-man.html) x1 |
-| 2 | 50%: [Rock](/neptunia/rb2/item/0-723-rock.html) x1~2 | 50%: [Rock](/neptunia/rb2/item/0-723-rock.html) x1~2 | 25%: [Bone Fragment](/neptunia/rb2/item/0-935-bone-fragment.html) x1 | 25%: [Fantasy](/neptunia/rb2/item/0-4198-fantasy.html) x2~3 | 7.5%: [Fantasy](/neptunia/rb2/item/0-4198-fantasy.html) x1 |
-| 3 | 50%: [Healing Herb](/neptunia/rb2/item/0-702-healing-herb.html) x1~2 | 50%: [Wolf Fur](/neptunia/rb2/item/0-941-wolf-fur.html) x1~2 | 25%: [Wolf Fur](/neptunia/rb2/item/0-941-wolf-fur.html) x1 | 25%: [Sports](/neptunia/rb2/item/0-4116-sports.html) x2~3 | 7.5%: [Sports](/neptunia/rb2/item/0-4116-sports.html) x1 |
-| 4 | 50%: [Healing Herb](/neptunia/rb2/item/0-702-healing-herb.html) x1~2 | 50%: [Healing Herb](/neptunia/rb2/item/0-702-healing-herb.html) x1~2 | 25%: [Bloody Boomerang](/neptunia/rb2/item/0-958-bloody-boomerang.html) x1 | 25%: [Voice Actor](/neptunia/rb2/item/0-4162-voice-actor.html) x2~3 | 7.5%: [Voice Actor](/neptunia/rb2/item/0-4162-voice-actor.html) x1 |
-| 5 | 50%: [Seashell](/neptunia/rb2/item/0-732-seashell.html) x1~2 | 50%: [Seashell](/neptunia/rb2/item/0-732-seashell.html) x1~2 | 25%: [Wicked Heart](/neptunia/rb2/item/0-938-wicked-heart.html) x1 | 25%: [Middle School](/neptunia/rb2/item/0-4234-middle-school.html) x1~3 | 7.5%: [Middle School](/neptunia/rb2/item/0-4234-middle-school.html) x1 |
+| #  | Item 1 | Item 2 | Item 3 |
+| -- | ------ | ------ | ------ |
+| 1 | 100%: [Seashell](/neptunia/rb2/item/0-732-seashell.html) x1~2 | 15%: [Handsome Man](/neptunia/rb2/item/0-4163-handsome-man.html) x1 |
+| 2 | 100%: [Rock](/neptunia/rb2/item/0-723-rock.html) x1~2 | 50%: [Bone Fragment](/neptunia/rb2/item/0-935-bone-fragment.html) x1 | 15%: [Fantasy](/neptunia/rb2/item/0-4198-fantasy.html) x1 |
+| 3 | 100%: [Healing Herb](/neptunia/rb2/item/0-702-healing-herb.html) x1~2 | 50%: [Wolf Fur](/neptunia/rb2/item/0-941-wolf-fur.html) x1 | 15%: [Sports](/neptunia/rb2/item/0-4116-sports.html) x1 |
+| 4 | 100%: [Healing Herb](/neptunia/rb2/item/0-702-healing-herb.html) x1~2 | 50%: [Bloody Boomerang](/neptunia/rb2/item/0-958-bloody-boomerang.html) x1 | 15%: [Voice Actor](/neptunia/rb2/item/0-4162-voice-actor.html) x1 |
+| 5 | 100%: [Seashell](/neptunia/rb2/item/0-732-seashell.html) x1~2 | 50%: [Wicked Heart](/neptunia/rb2/item/0-938-wicked-heart.html) x1 | 15%: [Middle School](/neptunia/rb2/item/0-4234-middle-school.html) x1 |
 
 ### Item Change (Harvest Shift) enabled
 
 
 | #  | Item 1 | Item 2 |
 | -- | ------ | ------ |
-| 1 | 100%: [Rumble](/neptunia/rb2/item/0-4225-rumble.html) x2~3 |
-| 2 | 100%: [Limited Edition](/neptunia/rb2/item/0-4230-limited-edition.html) x3 | 50%: [Seashell](/neptunia/rb2/item/0-732-seashell.html) x1 |
-| 3 | 100%: [Puzzle/Logic](/neptunia/rb2/item/0-4129-puzzle-logic.html) x2 | 50%: [Sea Bead](/neptunia/rb2/item/0-733-sea-bead.html) x1 |
-| 4 | 100%: [LAN Party](/neptunia/rb2/item/0-4152-lan-party.html) x1 | 50%: [Tiamat Horn](/neptunia/rb2/item/0-734-tiamat-horn.html) x1 |
-| 5 | 100%: [Famous Creator](/neptunia/rb2/item/0-4251-famous-creator.html) x1~3 | 50%: [Sea Bead](/neptunia/rb2/item/0-733-sea-bead.html) x1 |
+| 1 | 100%: [Bone Fragment](/neptunia/rb2/item/0-935-bone-fragment.html) x1~2 | 50%: [Handsome Man](/neptunia/rb2/item/0-4163-handsome-man.html) x1 |
+| 2 | 100%: [Rock](/neptunia/rb2/item/0-723-rock.html) x1~2 | 50%: [Fantasy](/neptunia/rb2/item/0-4198-fantasy.html) x2~3 |
+| 3 | 100%: [Wolf Fur](/neptunia/rb2/item/0-941-wolf-fur.html) x1~2 | 50%: [Sports](/neptunia/rb2/item/0-4116-sports.html) x2~3 |
+| 4 | 100%: [Healing Herb](/neptunia/rb2/item/0-702-healing-herb.html) x1~2 | 50%: [Voice Actor](/neptunia/rb2/item/0-4162-voice-actor.html) x2~3 |
+| 5 | 100%: [Seashell](/neptunia/rb2/item/0-732-seashell.html) x1~2 | 50%: [Middle School](/neptunia/rb2/item/0-4234-middle-school.html) x1~3 |
 
 ### Treasure
 

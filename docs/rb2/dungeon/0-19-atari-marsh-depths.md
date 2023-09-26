@@ -36,9 +36,6 @@ See [gathering point tables](#gathering-point-tables-for-atari-marsh-depths) for
 | <input type="checkbox" id="rb2-item-0-704" class="trackbox" /> | 704 | [Base](/neptunia/rb2/dlc/0-base.html) | [Refresh Herb](/neptunia/rb2/item/0-704-refresh-herb.html) (Material) | 75 | 32 | 0 | 32 |
 | <input type="checkbox" id="rb2-item-0-707" class="trackbox" /> | 707 | [Base](/neptunia/rb2/dlc/0-base.html) | [Copper Ore](/neptunia/rb2/item/0-707-copper-ore.html) (Material) | 75 | 20 | 0 | 20 |
 | <input type="checkbox" id="rb2-item-0-708" class="trackbox" /> | 708 | [Base](/neptunia/rb2/dlc/0-base.html) | [Silver Ore](/neptunia/rb2/item/0-708-silver-ore.html) (Material) | 250 | 14 | 0 | 14 |
-| <input type="checkbox" id="rb2-item-0-827" class="trackbox" /> | 827 | [Base](/neptunia/rb2/dlc/0-base.html) | [White Ears](/neptunia/rb2/item/0-827-white-ears.html) (Material) | 87 | 7 | 0 | 7 |
-| <input type="checkbox" id="rb2-item-0-875" class="trackbox" /> | 875 | [Base](/neptunia/rb2/dlc/0-base.html) | [Eggplanter Pit](/neptunia/rb2/item/0-875-eggplanter-pit.html) (Material) | 235 | 3 | 0 | 3 |
-| <input type="checkbox" id="rb2-item-0-920" class="trackbox" /> | 920 | [Base](/neptunia/rb2/dlc/0-base.html) | [Venomous Spider Web](/neptunia/rb2/item/0-920-venomous-spider-web.html) (Material) | 2193 | 2 | 0 | 2 |
 | <input type="checkbox" id="rb2-item-0-4122" class="trackbox" /> | 4122 | [Base](/neptunia/rb2/dlc/0-base.html) | [Novel](/neptunia/rb2/item/0-4122-novel.html) (Idea Chip (Yellow)) | 10 | 0 | 0 | 0 |
 | <input type="checkbox" id="rb2-item-0-4159" class="trackbox" /> | 4159 | [Base](/neptunia/rb2/dlc/0-base.html) | [Bearded Italian](/neptunia/rb2/item/0-4159-bearded-italian.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
 | <input type="checkbox" id="rb2-item-0-4165" class="trackbox" /> | 4165 | [Base](/neptunia/rb2/dlc/0-base.html) | [Zombie](/neptunia/rb2/item/0-4165-zombie.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
@@ -49,10 +46,10 @@ See [gathering point tables](#gathering-point-tables-for-atari-marsh-depths) for
 
 |    | ID | DLC | Name | Sells for | Remakes¹ | Quests² | Total |
 | -- | -- | --- | ---- | --------- | -------- | ------- | ----: |
-| <input type="checkbox" id="rb2-item-0-703" class="trackbox" /> | 703 | [Base](/neptunia/rb2/dlc/0-base.html) | [Glowgrass](/neptunia/rb2/item/0-703-glowgrass.html) (Material) | 25 | 36 | 0 | 36 |
 | <input type="checkbox" id="rb2-item-0-704" class="trackbox" /> | 704 | [Base](/neptunia/rb2/dlc/0-base.html) | [Refresh Herb](/neptunia/rb2/item/0-704-refresh-herb.html) (Material) | 75 | 32 | 0 | 32 |
-| <input type="checkbox" id="rb2-item-0-707" class="trackbox" /> | 707 | [Base](/neptunia/rb2/dlc/0-base.html) | [Copper Ore](/neptunia/rb2/item/0-707-copper-ore.html) (Material) | 75 | 20 | 0 | 20 |
-| <input type="checkbox" id="rb2-item-0-708" class="trackbox" /> | 708 | [Base](/neptunia/rb2/dlc/0-base.html) | [Silver Ore](/neptunia/rb2/item/0-708-silver-ore.html) (Material) | 250 | 14 | 0 | 14 |
+| <input type="checkbox" id="rb2-item-0-827" class="trackbox" /> | 827 | [Base](/neptunia/rb2/dlc/0-base.html) | [White Ears](/neptunia/rb2/item/0-827-white-ears.html) (Material) | 87 | 7 | 0 | 7 |
+| <input type="checkbox" id="rb2-item-0-875" class="trackbox" /> | 875 | [Base](/neptunia/rb2/dlc/0-base.html) | [Eggplanter Pit](/neptunia/rb2/item/0-875-eggplanter-pit.html) (Material) | 235 | 3 | 0 | 3 |
+| <input type="checkbox" id="rb2-item-0-920" class="trackbox" /> | 920 | [Base](/neptunia/rb2/dlc/0-base.html) | [Venomous Spider Web](/neptunia/rb2/item/0-920-venomous-spider-web.html) (Material) | 2193 | 2 | 0 | 2 |
 | <input type="checkbox" id="rb2-item-0-4122" class="trackbox" /> | 4122 | [Base](/neptunia/rb2/dlc/0-base.html) | [Novel](/neptunia/rb2/item/0-4122-novel.html) (Idea Chip (Yellow)) | 10 | 0 | 0 | 0 |
 | <input type="checkbox" id="rb2-item-0-4159" class="trackbox" /> | 4159 | [Base](/neptunia/rb2/dlc/0-base.html) | [Bearded Italian](/neptunia/rb2/item/0-4159-bearded-italian.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
 | <input type="checkbox" id="rb2-item-0-4165" class="trackbox" /> | 4165 | [Base](/neptunia/rb2/dlc/0-base.html) | [Zombie](/neptunia/rb2/item/0-4165-zombie.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
@@ -128,17 +125,6 @@ See [gathering point tables](#gathering-point-tables-for-atari-marsh-depths) for
 ### Normal
 
 
-| #  | Item 1 | Item 2 | Item 3 | Item 4 | Item 5 |
-| -- | ------ | ------ | ------ | ------ | ------ |
-| 1 | 50%: [Copper Ore](/neptunia/rb2/item/0-707-copper-ore.html) x1~2 | 50%: [White Ears](/neptunia/rb2/item/0-827-white-ears.html) x1~2 | 25%: [Refresh Herb](/neptunia/rb2/item/0-704-refresh-herb.html) x1 | 25%: [Zombie](/neptunia/rb2/item/0-4165-zombie.html) x1~2 | 7.5%: [Zombie](/neptunia/rb2/item/0-4165-zombie.html) x1 |
-| 2 | 50%: [Glowgrass](/neptunia/rb2/item/0-703-glowgrass.html) x1~2 | 50%: [Eggplanter Pit](/neptunia/rb2/item/0-875-eggplanter-pit.html) x1~2 | 25%: [Silver Ore](/neptunia/rb2/item/0-708-silver-ore.html) x1 | 25%: [Bearded Italian](/neptunia/rb2/item/0-4159-bearded-italian.html) x2~3 | 7.5%: [Bearded Italian](/neptunia/rb2/item/0-4159-bearded-italian.html) x1 |
-| 3 | 50%: [Glowgrass](/neptunia/rb2/item/0-703-glowgrass.html) x2~3 | 50%: [Venomous Spider Web](/neptunia/rb2/item/0-920-venomous-spider-web.html) x1~2 | 25%: [Silver Ore](/neptunia/rb2/item/0-708-silver-ore.html) x1 | 25%: [All Nighter](/neptunia/rb2/item/0-4235-all-nighter.html) x1 | 7.5%: [All Nighter](/neptunia/rb2/item/0-4235-all-nighter.html) x1 |
-| 4 | 50%: [Copper Ore](/neptunia/rb2/item/0-707-copper-ore.html) x1~2 | 50%: [Refresh Herb](/neptunia/rb2/item/0-704-refresh-herb.html) x1~2 | 25%: [Glowgrass](/neptunia/rb2/item/0-703-glowgrass.html) x1 | 25%: [The Hellis Allthis](/neptunia/rb2/item/0-4249-the-hellis-allthis.html) x2 | 7.5%: [The Hellis Allthis](/neptunia/rb2/item/0-4249-the-hellis-allthis.html) x1 |
-| 5 | 50%: [Copper Ore](/neptunia/rb2/item/0-707-copper-ore.html) x1~2 | 50%: [Refresh Herb](/neptunia/rb2/item/0-704-refresh-herb.html) x1~2 | 25%: [Glowgrass](/neptunia/rb2/item/0-703-glowgrass.html) x1 | 25%: [Novel](/neptunia/rb2/item/0-4122-novel.html) x2~3 | 7.5%: [Novel](/neptunia/rb2/item/0-4122-novel.html) x1 |
-
-### Item Change (Harvest Shift) enabled
-
-
 | #  | Item 1 | Item 2 | Item 3 |
 | -- | ------ | ------ | ------ |
 | 1 | 100%: [Copper Ore](/neptunia/rb2/item/0-707-copper-ore.html) x1~2 | 50%: [Refresh Herb](/neptunia/rb2/item/0-704-refresh-herb.html) x1 | 15%: [Zombie](/neptunia/rb2/item/0-4165-zombie.html) x1 |
@@ -146,6 +132,17 @@ See [gathering point tables](#gathering-point-tables-for-atari-marsh-depths) for
 | 3 | 100%: [Glowgrass](/neptunia/rb2/item/0-703-glowgrass.html) x2~3 | 50%: [Silver Ore](/neptunia/rb2/item/0-708-silver-ore.html) x1 | 15%: [All Nighter](/neptunia/rb2/item/0-4235-all-nighter.html) x1 |
 | 4 | 100%: [Copper Ore](/neptunia/rb2/item/0-707-copper-ore.html) x1~2 | 50%: [Glowgrass](/neptunia/rb2/item/0-703-glowgrass.html) x1 | 15%: [The Hellis Allthis](/neptunia/rb2/item/0-4249-the-hellis-allthis.html) x1 |
 | 5 | 100%: [Copper Ore](/neptunia/rb2/item/0-707-copper-ore.html) x1~2 | 50%: [Glowgrass](/neptunia/rb2/item/0-703-glowgrass.html) x1 | 15%: [Novel](/neptunia/rb2/item/0-4122-novel.html) x1 |
+
+### Item Change (Harvest Shift) enabled
+
+
+| #  | Item 1 | Item 2 |
+| -- | ------ | ------ |
+| 1 | 100%: [White Ears](/neptunia/rb2/item/0-827-white-ears.html) x1~2 | 50%: [Zombie](/neptunia/rb2/item/0-4165-zombie.html) x1~2 |
+| 2 | 100%: [Eggplanter Pit](/neptunia/rb2/item/0-875-eggplanter-pit.html) x1~2 | 50%: [Bearded Italian](/neptunia/rb2/item/0-4159-bearded-italian.html) x2~3 |
+| 3 | 100%: [Venomous Spider Web](/neptunia/rb2/item/0-920-venomous-spider-web.html) x1~2 | 50%: [All Nighter](/neptunia/rb2/item/0-4235-all-nighter.html) x1 |
+| 4 | 100%: [Refresh Herb](/neptunia/rb2/item/0-704-refresh-herb.html) x1~2 | 50%: [The Hellis Allthis](/neptunia/rb2/item/0-4249-the-hellis-allthis.html) x2 |
+| 5 | 100%: [Refresh Herb](/neptunia/rb2/item/0-704-refresh-herb.html) x1~2 | 50%: [Novel](/neptunia/rb2/item/0-4122-novel.html) x2~3 |
 
 ### Treasure
 

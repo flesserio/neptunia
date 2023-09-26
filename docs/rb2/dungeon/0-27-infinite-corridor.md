@@ -121,17 +121,6 @@ See [gathering point tables](#gathering-point-tables-for-infinite-corridor) for 
 ### Normal
 
 
-| #  | Item 1 | Item 2 | Item 3 | Item 4 | Item 5 |
-| -- | ------ | ------ | ------ | ------ | ------ |
-| 1 | 50%: [Crest Stone](/neptunia/rb2/item/0-721-crest-stone.html) x1~2 | 50%: [Crest Stone](/neptunia/rb2/item/0-721-crest-stone.html) x1~2 | 25%: [File Crystal](/neptunia/rb2/item/0-727-file-crystal.html) x1 | 25%: [Japanese Taste](/neptunia/rb2/item/0-4214-japanese-taste.html) x1~2 | 7.5%: [Japanese Taste](/neptunia/rb2/item/0-4214-japanese-taste.html) x1 |
-| 2 | 50%: [Erde Crystal](/neptunia/rb2/item/0-728-erde-crystal.html) x1~2 | 50%: [Gaea Stone](/neptunia/rb2/item/0-722-gaea-stone.html) x1~2 | 25%: [Crest Stone](/neptunia/rb2/item/0-721-crest-stone.html) x1 | 25%: [Killer Aim](/neptunia/rb2/item/0-4255-killer-aim.html) x2~3 | 7.5%: [Killer Aim](/neptunia/rb2/item/0-4255-killer-aim.html) x1 |
-| 3 | 50%: [File Crystal](/neptunia/rb2/item/0-727-file-crystal.html) x1~2 | 50%: [Erde Crystal](/neptunia/rb2/item/0-728-erde-crystal.html) x1~2 | 25%: [Gaea Stone](/neptunia/rb2/item/0-722-gaea-stone.html) x1 | 25%: [Drill](/neptunia/rb2/item/0-4283-drill.html) x1 | 7.5%: [Drill](/neptunia/rb2/item/0-4283-drill.html) x1 |
-| 4 | 50%: [Gaea Stone](/neptunia/rb2/item/0-722-gaea-stone.html) x1~2 | 50%: [File Crystal](/neptunia/rb2/item/0-727-file-crystal.html) x1~2 | 25%: [File Crystal](/neptunia/rb2/item/0-727-file-crystal.html) x1 | 25%: [MO](/neptunia/rb2/item/0-4154-mo.html) x1 | 7.5%: [MO](/neptunia/rb2/item/0-4154-mo.html) x1 |
-| 5 | 50%: [Crest Stone](/neptunia/rb2/item/0-721-crest-stone.html) x2~3 | 50%: [Gaea Stone](/neptunia/rb2/item/0-722-gaea-stone.html) x2~3 | 25%: [Erde Crystal](/neptunia/rb2/item/0-728-erde-crystal.html) x1 | 25%: [Fighting](/neptunia/rb2/item/0-4148-fighting.html) x1 | 7.5%: [Fighting](/neptunia/rb2/item/0-4148-fighting.html) x1 |
-
-### Item Change (Harvest Shift) enabled
-
-
 | #  | Item 1 | Item 2 | Item 3 |
 | -- | ------ | ------ | ------ |
 | 1 | 100%: [Crest Stone](/neptunia/rb2/item/0-721-crest-stone.html) x1~2 | 50%: [File Crystal](/neptunia/rb2/item/0-727-file-crystal.html) x1 | 15%: [Japanese Taste](/neptunia/rb2/item/0-4214-japanese-taste.html) x1 |
@@ -139,6 +128,17 @@ See [gathering point tables](#gathering-point-tables-for-infinite-corridor) for 
 | 3 | 100%: [File Crystal](/neptunia/rb2/item/0-727-file-crystal.html) x1~2 | 50%: [Gaea Stone](/neptunia/rb2/item/0-722-gaea-stone.html) x1 | 15%: [Drill](/neptunia/rb2/item/0-4283-drill.html) x1 |
 | 4 | 100%: [Gaea Stone](/neptunia/rb2/item/0-722-gaea-stone.html) x1~2 | 50%: [File Crystal](/neptunia/rb2/item/0-727-file-crystal.html) x1 | 15%: [MO](/neptunia/rb2/item/0-4154-mo.html) x1 |
 | 5 | 100%: [Crest Stone](/neptunia/rb2/item/0-721-crest-stone.html) x2~3 | 50%: [Erde Crystal](/neptunia/rb2/item/0-728-erde-crystal.html) x1 | 15%: [Fighting](/neptunia/rb2/item/0-4148-fighting.html) x1 |
+
+### Item Change (Harvest Shift) enabled
+
+
+| #  | Item 1 | Item 2 |
+| -- | ------ | ------ |
+| 1 | 100%: [Crest Stone](/neptunia/rb2/item/0-721-crest-stone.html) x1~2 | 50%: [Japanese Taste](/neptunia/rb2/item/0-4214-japanese-taste.html) x1~2 |
+| 2 | 100%: [Gaea Stone](/neptunia/rb2/item/0-722-gaea-stone.html) x1~2 | 50%: [Killer Aim](/neptunia/rb2/item/0-4255-killer-aim.html) x2~3 |
+| 3 | 100%: [Erde Crystal](/neptunia/rb2/item/0-728-erde-crystal.html) x1~2 | 50%: [Drill](/neptunia/rb2/item/0-4283-drill.html) x1 |
+| 4 | 100%: [File Crystal](/neptunia/rb2/item/0-727-file-crystal.html) x1~2 | 50%: [MO](/neptunia/rb2/item/0-4154-mo.html) x1 |
+| 5 | 100%: [Gaea Stone](/neptunia/rb2/item/0-722-gaea-stone.html) x2~3 | 50%: [Fighting](/neptunia/rb2/item/0-4148-fighting.html) x1 |
 
 ### Treasure
 

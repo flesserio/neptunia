@@ -35,9 +35,7 @@ See [gathering point tables](#gathering-point-tables-for-gapain-field) for more 
 | <input type="checkbox" id="rb2-item-0-701" class="trackbox" /> | 701 | [Base](/neptunia/rb2/dlc/0-base.html) | [Herb](/neptunia/rb2/item/0-701-herb.html) (Material) | 10 | 41 | 3 | 44 |
 | <input type="checkbox" id="rb2-item-0-702" class="trackbox" /> | 702 | [Base](/neptunia/rb2/dlc/0-base.html) | [Healing Herb](/neptunia/rb2/item/0-702-healing-herb.html) (Material) | 50 | 31 | 4 | 35 |
 | <input type="checkbox" id="rb2-item-0-707" class="trackbox" /> | 707 | [Base](/neptunia/rb2/dlc/0-base.html) | [Copper Ore](/neptunia/rb2/item/0-707-copper-ore.html) (Material) | 75 | 20 | 0 | 20 |
-| <input type="checkbox" id="rb2-item-0-867" class="trackbox" /> | 867 | [Base](/neptunia/rb2/dlc/0-base.html) | [Sunflowery Seed](/neptunia/rb2/item/0-867-sunflowery-seed.html) (Material) | 60 | 7 | 3 | 10 |
 | <input type="checkbox" id="rb2-item-0-879" class="trackbox" /> | 879 | [Base](/neptunia/rb2/dlc/0-base.html) | [Bird's Bronze Crown](/neptunia/rb2/item/0-879-birds-bronze-crown.html) (Material) | 97 | 13 | 0 | 13 |
-| <input type="checkbox" id="rb2-item-0-884" class="trackbox" /> | 884 | [Base](/neptunia/rb2/dlc/0-base.html) | [Pumpkin Lantern](/neptunia/rb2/item/0-884-pumpkin-lantern.html) (Material) | 2370 | 4 | 3 | 7 |
 | <input type="checkbox" id="rb2-item-0-4137" class="trackbox" /> | 4137 | [Base](/neptunia/rb2/dlc/0-base.html) | [Port](/neptunia/rb2/item/0-4137-port.html) (Idea Chip (Yellow)) | 10 | 0 | 0 | 0 |
 | <input type="checkbox" id="rb2-item-0-4158" class="trackbox" /> | 4158 | [Base](/neptunia/rb2/dlc/0-base.html) | [Rat](/neptunia/rb2/item/0-4158-rat.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
 | <input type="checkbox" id="rb2-item-0-4163" class="trackbox" /> | 4163 | [Base](/neptunia/rb2/dlc/0-base.html) | [Handsome Man](/neptunia/rb2/item/0-4163-handsome-man.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
@@ -48,14 +46,16 @@ See [gathering point tables](#gathering-point-tables-for-gapain-field) for more 
 
 |    | ID | DLC | Name | Sells for | Remakes¹ | Quests² | Total |
 | -- | -- | --- | ---- | --------- | -------- | ------- | ----: |
-| <input type="checkbox" id="rb2-item-0-911" class="trackbox" /> | 911 | [Base](/neptunia/rb2/dlc/0-base.html) | [Illegal Conductor](/neptunia/rb2/item/0-911-illegal-conductor.html) (Material) | 135 | 4 | 0 | 4 |
-| <input type="checkbox" id="rb2-item-0-960" class="trackbox" /> | 960 | [Base](/neptunia/rb2/dlc/0-base.html) | [Jet-Black Scale](/neptunia/rb2/item/0-960-jet-black-scale.html) (Material) | 229 | 2 | 0 | 2 |
-| <input type="checkbox" id="rb2-item-0-962" class="trackbox" /> | 962 | [Base](/neptunia/rb2/dlc/0-base.html) | [Tiny Outfit](/neptunia/rb2/item/0-962-tiny-outfit.html) (Material) | 135 | 21 | 0 | 21 |
-| <input type="checkbox" id="rb2-item-0-4127" class="trackbox" /> | 4127 | [Base](/neptunia/rb2/dlc/0-base.html) | [Mahjong](/neptunia/rb2/item/0-4127-mahjong.html) (Idea Chip (Yellow)) | 10 | 0 | 0 | 0 |
-| <input type="checkbox" id="rb2-item-0-4144" class="trackbox" /> | 4144 | [Base](/neptunia/rb2/dlc/0-base.html) | [Battle Strategy](/neptunia/rb2/item/0-4144-battle-strategy.html) (Idea Chip (Yellow)) | 10 | 0 | 0 | 0 |
-| <input type="checkbox" id="rb2-item-0-4170" class="trackbox" /> | 4170 | [Base](/neptunia/rb2/dlc/0-base.html) | [Moe Burnin'](/neptunia/rb2/item/0-4170-moe-burnin.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
-| <input type="checkbox" id="rb2-item-0-4205" class="trackbox" /> | 4205 | [Base](/neptunia/rb2/dlc/0-base.html) | [Combo Focus](/neptunia/rb2/item/0-4205-combo-focus.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
-| <input type="checkbox" id="rb2-item-0-4242" class="trackbox" /> | 4242 | [Base](/neptunia/rb2/dlc/0-base.html) | [Female-oriented](/neptunia/rb2/item/0-4242-female-oriented.html) (Idea Chip (Red)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-702" class="trackbox" /> | 702 | [Base](/neptunia/rb2/dlc/0-base.html) | [Healing Herb](/neptunia/rb2/item/0-702-healing-herb.html) (Material) | 50 | 31 | 4 | 35 |
+| <input type="checkbox" id="rb2-item-0-707" class="trackbox" /> | 707 | [Base](/neptunia/rb2/dlc/0-base.html) | [Copper Ore](/neptunia/rb2/item/0-707-copper-ore.html) (Material) | 75 | 20 | 0 | 20 |
+| <input type="checkbox" id="rb2-item-0-867" class="trackbox" /> | 867 | [Base](/neptunia/rb2/dlc/0-base.html) | [Sunflowery Seed](/neptunia/rb2/item/0-867-sunflowery-seed.html) (Material) | 60 | 7 | 3 | 10 |
+| <input type="checkbox" id="rb2-item-0-879" class="trackbox" /> | 879 | [Base](/neptunia/rb2/dlc/0-base.html) | [Bird's Bronze Crown](/neptunia/rb2/item/0-879-birds-bronze-crown.html) (Material) | 97 | 13 | 0 | 13 |
+| <input type="checkbox" id="rb2-item-0-884" class="trackbox" /> | 884 | [Base](/neptunia/rb2/dlc/0-base.html) | [Pumpkin Lantern](/neptunia/rb2/item/0-884-pumpkin-lantern.html) (Material) | 2370 | 4 | 3 | 7 |
+| <input type="checkbox" id="rb2-item-0-4137" class="trackbox" /> | 4137 | [Base](/neptunia/rb2/dlc/0-base.html) | [Port](/neptunia/rb2/item/0-4137-port.html) (Idea Chip (Yellow)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-4158" class="trackbox" /> | 4158 | [Base](/neptunia/rb2/dlc/0-base.html) | [Rat](/neptunia/rb2/item/0-4158-rat.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-4163" class="trackbox" /> | 4163 | [Base](/neptunia/rb2/dlc/0-base.html) | [Handsome Man](/neptunia/rb2/item/0-4163-handsome-man.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-4234" class="trackbox" /> | 4234 | [Base](/neptunia/rb2/dlc/0-base.html) | [Middle School](/neptunia/rb2/item/0-4234-middle-school.html) (Idea Chip (Red)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-4265" class="trackbox" /> | 4265 | [Base](/neptunia/rb2/dlc/0-base.html) | [Investigative](/neptunia/rb2/item/0-4265-investigative.html) (Idea Chip (Red)) | 10 | 0 | 0 | 0 |
 
 ### From treasure gathering points
 
@@ -120,24 +120,24 @@ See [gathering point tables](#gathering-point-tables-for-gapain-field) for more 
 ### Normal
 
 
-| #  | Item 1 | Item 2 | Item 3 | Item 4 | Item 5 |
-| -- | ------ | ------ | ------ | ------ | ------ |
-| 1 | 50%: [Copper Ore](/neptunia/rb2/item/0-707-copper-ore.html) x1~2 | 50%: [Healing Herb](/neptunia/rb2/item/0-702-healing-herb.html) x1~2 | 25%: [Bird's Bronze Crown](/neptunia/rb2/item/0-879-birds-bronze-crown.html) x1 | 25%: [Investigative](/neptunia/rb2/item/0-4265-investigative.html) x1~2 | 7.5%: [Investigative](/neptunia/rb2/item/0-4265-investigative.html) x1 |
-| 2 | 50%: [Herb](/neptunia/rb2/item/0-701-herb.html) x1~2 | 50%: [Copper Ore](/neptunia/rb2/item/0-707-copper-ore.html) x1~2 | 25%: [Healing Herb](/neptunia/rb2/item/0-702-healing-herb.html) x1 | 25%: [Rat](/neptunia/rb2/item/0-4158-rat.html) x2~3 | 7.5%: [Rat](/neptunia/rb2/item/0-4158-rat.html) x1 |
-| 3 | 50%: [Healing Herb](/neptunia/rb2/item/0-702-healing-herb.html) x1~2 | 50%: [Bird's Bronze Crown](/neptunia/rb2/item/0-879-birds-bronze-crown.html) x1~2 | 25%: [Herb](/neptunia/rb2/item/0-701-herb.html) x1 | 25%: [Handsome Man](/neptunia/rb2/item/0-4163-handsome-man.html) x1~2 | 7.5%: [Handsome Man](/neptunia/rb2/item/0-4163-handsome-man.html) x1 |
-| 4 | 50%: [Copper Ore](/neptunia/rb2/item/0-707-copper-ore.html) x1~2 | 50%: [Sunflowery Seed](/neptunia/rb2/item/0-867-sunflowery-seed.html) x1~2 | 25%: [Healing Herb](/neptunia/rb2/item/0-702-healing-herb.html) x1 | 25%: [Middle School](/neptunia/rb2/item/0-4234-middle-school.html) x1~2 | 7.5%: [Middle School](/neptunia/rb2/item/0-4234-middle-school.html) x1 |
-| 5 | 50%: [Healing Herb](/neptunia/rb2/item/0-702-healing-herb.html) x1~2 | 50%: [Pumpkin Lantern](/neptunia/rb2/item/0-884-pumpkin-lantern.html) x1~2 | 25%: [Copper Ore](/neptunia/rb2/item/0-707-copper-ore.html) x1 | 25%: [Port](/neptunia/rb2/item/0-4137-port.html) x2~3 | 7.5%: [Port](/neptunia/rb2/item/0-4137-port.html) x1 |
+| #  | Item 1 | Item 2 | Item 3 |
+| -- | ------ | ------ | ------ |
+| 1 | 100%: [Copper Ore](/neptunia/rb2/item/0-707-copper-ore.html) x1~2 | 50%: [Bird's Bronze Crown](/neptunia/rb2/item/0-879-birds-bronze-crown.html) x1 | 15%: [Investigative](/neptunia/rb2/item/0-4265-investigative.html) x1 |
+| 2 | 100%: [Herb](/neptunia/rb2/item/0-701-herb.html) x1~2 | 50%: [Healing Herb](/neptunia/rb2/item/0-702-healing-herb.html) x1 | 15%: [Rat](/neptunia/rb2/item/0-4158-rat.html) x1 |
+| 3 | 100%: [Healing Herb](/neptunia/rb2/item/0-702-healing-herb.html) x1~2 | 50%: [Herb](/neptunia/rb2/item/0-701-herb.html) x1 | 15%: [Handsome Man](/neptunia/rb2/item/0-4163-handsome-man.html) x1 |
+| 4 | 100%: [Copper Ore](/neptunia/rb2/item/0-707-copper-ore.html) x1~2 | 50%: [Healing Herb](/neptunia/rb2/item/0-702-healing-herb.html) x1 | 15%: [Middle School](/neptunia/rb2/item/0-4234-middle-school.html) x1 |
+| 5 | 100%: [Healing Herb](/neptunia/rb2/item/0-702-healing-herb.html) x1~2 | 50%: [Copper Ore](/neptunia/rb2/item/0-707-copper-ore.html) x1 | 15%: [Port](/neptunia/rb2/item/0-4137-port.html) x1 |
 
 ### Item Change (Harvest Shift) enabled
 
 
 | #  | Item 1 | Item 2 |
 | -- | ------ | ------ |
-| 1 | 100%: [Female-oriented](/neptunia/rb2/item/0-4242-female-oriented.html) x1~2 | 50%: [Jet-Black Scale](/neptunia/rb2/item/0-960-jet-black-scale.html) x1 |
-| 2 | 100%: [Combo Focus](/neptunia/rb2/item/0-4205-combo-focus.html) x1~2 | 50%: [Tiny Outfit](/neptunia/rb2/item/0-962-tiny-outfit.html) x1 |
-| 3 | 100%: [Mahjong](/neptunia/rb2/item/0-4127-mahjong.html) x1~2 |
-| 4 | 100%: [Moe Burnin'](/neptunia/rb2/item/0-4170-moe-burnin.html) x1~2 | 50%: [Illegal Conductor](/neptunia/rb2/item/0-911-illegal-conductor.html) x1 |
-| 5 | 100%: [Battle Strategy](/neptunia/rb2/item/0-4144-battle-strategy.html) x1~2 |
+| 1 | 100%: [Healing Herb](/neptunia/rb2/item/0-702-healing-herb.html) x1~2 | 50%: [Investigative](/neptunia/rb2/item/0-4265-investigative.html) x1~2 |
+| 2 | 100%: [Copper Ore](/neptunia/rb2/item/0-707-copper-ore.html) x1~2 | 50%: [Rat](/neptunia/rb2/item/0-4158-rat.html) x2~3 |
+| 3 | 100%: [Bird's Bronze Crown](/neptunia/rb2/item/0-879-birds-bronze-crown.html) x1~2 | 50%: [Handsome Man](/neptunia/rb2/item/0-4163-handsome-man.html) x1~2 |
+| 4 | 100%: [Sunflowery Seed](/neptunia/rb2/item/0-867-sunflowery-seed.html) x1~2 | 50%: [Middle School](/neptunia/rb2/item/0-4234-middle-school.html) x1~2 |
+| 5 | 100%: [Pumpkin Lantern](/neptunia/rb2/item/0-884-pumpkin-lantern.html) x1~2 | 50%: [Port](/neptunia/rb2/item/0-4137-port.html) x2~3 |
 
 ### Treasure
 

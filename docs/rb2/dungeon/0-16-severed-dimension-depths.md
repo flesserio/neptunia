@@ -36,10 +36,6 @@ See [gathering point tables](#gathering-point-tables-for-severed-dimension-depth
 | <input type="checkbox" id="rb2-item-0-726" class="trackbox" /> | 726 | [Base](/neptunia/rb2/dlc/0-base.html) | [Data Crystal](/neptunia/rb2/item/0-726-data-crystal.html) (Material) | 100 | 24 | 0 | 24 |
 | <input type="checkbox" id="rb2-item-0-727" class="trackbox" /> | 727 | [Base](/neptunia/rb2/dlc/0-base.html) | [File Crystal](/neptunia/rb2/item/0-727-file-crystal.html) (Material) | 2500 | 18 | 0 | 18 |
 | <input type="checkbox" id="rb2-item-0-730" class="trackbox" /> | 730 | [Base](/neptunia/rb2/dlc/0-base.html) | [Maoni Base](/neptunia/rb2/item/0-730-maoni-base.html) (Material) | 500 | 9 | 0 | 9 |
-| <input type="checkbox" id="rb2-item-0-804" class="trackbox" /> | 804 | [Base](/neptunia/rb2/dlc/0-base.html) | [Heretical Jelly](/neptunia/rb2/item/0-804-heretical-jelly.html) (Material) | 88 | 7 | 0 | 7 |
-| <input type="checkbox" id="rb2-item-0-899" class="trackbox" /> | 899 | [Base](/neptunia/rb2/dlc/0-base.html) | [Heart Frames](/neptunia/rb2/item/0-899-heart-frames.html) (Material) | 306 | 5 | 0 | 5 |
-| <input type="checkbox" id="rb2-item-0-912" class="trackbox" /> | 912 | [Base](/neptunia/rb2/dlc/0-base.html) | [Illegal ROM](/neptunia/rb2/item/0-912-illegal-rom.html) (Material) | 233 | 6 | 0 | 6 |
-| <input type="checkbox" id="rb2-item-0-931" class="trackbox" /> | 931 | [Base](/neptunia/rb2/dlc/0-base.html) | [Hoodlum Mask](/neptunia/rb2/item/0-931-hoodlum-mask.html) (Material) | 39 | 1 | 3 | 4 |
 | <input type="checkbox" id="rb2-item-0-4109" class="trackbox" /> | 4109 | [Base](/neptunia/rb2/dlc/0-base.html) | [Adventure RPG](/neptunia/rb2/item/0-4109-adventure-rpg.html) (Idea Chip (Yellow)) | 10 | 0 | 0 | 0 |
 | <input type="checkbox" id="rb2-item-0-4147" class="trackbox" /> | 4147 | [Base](/neptunia/rb2/dlc/0-base.html) | [Stealth](/neptunia/rb2/item/0-4147-stealth.html) (Idea Chip (Yellow)) | 10 | 0 | 0 | 0 |
 | <input type="checkbox" id="rb2-item-0-4200" class="trackbox" /> | 4200 | [Base](/neptunia/rb2/dlc/0-base.html) | [Metafiction](/neptunia/rb2/item/0-4200-metafiction.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
@@ -49,12 +45,14 @@ See [gathering point tables](#gathering-point-tables-for-severed-dimension-depth
 
 |    | ID | DLC | Name | Sells for | Remakes¹ | Quests² | Total |
 | -- | -- | --- | ---- | --------- | -------- | ------- | ----: |
-| <input type="checkbox" id="rb2-item-0-940" class="trackbox" /> | 940 | [Base](/neptunia/rb2/dlc/0-base.html) | [Sharp Fang](/neptunia/rb2/item/0-940-sharp-fang.html) (Material) | 208 | 16 | 0 | 16 |
-| <input type="checkbox" id="rb2-item-0-957" class="trackbox" /> | 957 | [Base](/neptunia/rb2/dlc/0-base.html) | [Stinky Mud](/neptunia/rb2/item/0-957-stinky-mud.html) (Material) | 15 | 5 | 0 | 5 |
-| <input type="checkbox" id="rb2-item-0-4108" class="trackbox" /> | 4108 | [Base](/neptunia/rb2/dlc/0-base.html) | [Action RPG](/neptunia/rb2/item/0-4108-action-rpg.html) (Idea Chip (Yellow)) | 10 | 0 | 0 | 0 |
-| <input type="checkbox" id="rb2-item-0-4179" class="trackbox" /> | 4179 | [Base](/neptunia/rb2/dlc/0-base.html) | [Monster](/neptunia/rb2/item/0-4179-monster.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
-| <input type="checkbox" id="rb2-item-0-4202" class="trackbox" /> | 4202 | [Base](/neptunia/rb2/dlc/0-base.html) | [Jump](/neptunia/rb2/item/0-4202-jump.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
-| <input type="checkbox" id="rb2-item-0-4270" class="trackbox" /> | 4270 | [Base](/neptunia/rb2/dlc/0-base.html) | [Crazy Difficult](/neptunia/rb2/item/0-4270-crazy-difficult.html) (Idea Chip (Red)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-804" class="trackbox" /> | 804 | [Base](/neptunia/rb2/dlc/0-base.html) | [Heretical Jelly](/neptunia/rb2/item/0-804-heretical-jelly.html) (Material) | 88 | 7 | 0 | 7 |
+| <input type="checkbox" id="rb2-item-0-899" class="trackbox" /> | 899 | [Base](/neptunia/rb2/dlc/0-base.html) | [Heart Frames](/neptunia/rb2/item/0-899-heart-frames.html) (Material) | 306 | 5 | 0 | 5 |
+| <input type="checkbox" id="rb2-item-0-912" class="trackbox" /> | 912 | [Base](/neptunia/rb2/dlc/0-base.html) | [Illegal ROM](/neptunia/rb2/item/0-912-illegal-rom.html) (Material) | 233 | 6 | 0 | 6 |
+| <input type="checkbox" id="rb2-item-0-931" class="trackbox" /> | 931 | [Base](/neptunia/rb2/dlc/0-base.html) | [Hoodlum Mask](/neptunia/rb2/item/0-931-hoodlum-mask.html) (Material) | 39 | 1 | 3 | 4 |
+| <input type="checkbox" id="rb2-item-0-4109" class="trackbox" /> | 4109 | [Base](/neptunia/rb2/dlc/0-base.html) | [Adventure RPG](/neptunia/rb2/item/0-4109-adventure-rpg.html) (Idea Chip (Yellow)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-4147" class="trackbox" /> | 4147 | [Base](/neptunia/rb2/dlc/0-base.html) | [Stealth](/neptunia/rb2/item/0-4147-stealth.html) (Idea Chip (Yellow)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-4200" class="trackbox" /> | 4200 | [Base](/neptunia/rb2/dlc/0-base.html) | [Metafiction](/neptunia/rb2/item/0-4200-metafiction.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-4241" class="trackbox" /> | 4241 | [Base](/neptunia/rb2/dlc/0-base.html) | [Core User-oriented](/neptunia/rb2/item/0-4241-core-user-oriented.html) (Idea Chip (Red)) | 10 | 0 | 0 | 0 |
 
 ### From treasure gathering points
 
@@ -125,22 +123,22 @@ See [gathering point tables](#gathering-point-tables-for-severed-dimension-depth
 ### Normal
 
 
-| #  | Item 1 | Item 2 | Item 3 | Item 4 | Item 5 |
-| -- | ------ | ------ | ------ | ------ | ------ |
-| 1 | 50%: [Data Crystal](/neptunia/rb2/item/0-726-data-crystal.html) x1~2 | 50%: [Heretical Jelly](/neptunia/rb2/item/0-804-heretical-jelly.html) x1~2 | 25%: [File Crystal](/neptunia/rb2/item/0-727-file-crystal.html) x1 | 25%: [Metafiction](/neptunia/rb2/item/0-4200-metafiction.html) x1~2 | 7.5%: [Metafiction](/neptunia/rb2/item/0-4200-metafiction.html) x1 |
-| 2 | 50%: [Wind Stone](/neptunia/rb2/item/0-717-wind-stone.html) x1~2 | 50%: [Heart Frames](/neptunia/rb2/item/0-899-heart-frames.html) x1~2 | 25%: [File Crystal](/neptunia/rb2/item/0-727-file-crystal.html) x1 | 25%: [Stealth](/neptunia/rb2/item/0-4147-stealth.html) x1 | 7.5%: [Stealth](/neptunia/rb2/item/0-4147-stealth.html) x1 |
-| 3 | 50%: [Wind Stone](/neptunia/rb2/item/0-717-wind-stone.html) x1~2 | 50%: [Hoodlum Mask](/neptunia/rb2/item/0-931-hoodlum-mask.html) x1~2 | 25%: [Maoni Base](/neptunia/rb2/item/0-730-maoni-base.html) x1 | 25%: [Adventure RPG](/neptunia/rb2/item/0-4109-adventure-rpg.html) x2~3 | 7.5%: [Adventure RPG](/neptunia/rb2/item/0-4109-adventure-rpg.html) x1 |
-| 4 | 50%: [Data Crystal](/neptunia/rb2/item/0-726-data-crystal.html) x2~3 | 50%: [Illegal ROM](/neptunia/rb2/item/0-912-illegal-rom.html) x2~3 | 25%: [Maoni Base](/neptunia/rb2/item/0-730-maoni-base.html) x1 | 25%: [Core User-oriented](/neptunia/rb2/item/0-4241-core-user-oriented.html) x1 | 7.5%: [Core User-oriented](/neptunia/rb2/item/0-4241-core-user-oriented.html) x1 |
+| #  | Item 1 | Item 2 | Item 3 |
+| -- | ------ | ------ | ------ |
+| 1 | 100%: [Data Crystal](/neptunia/rb2/item/0-726-data-crystal.html) x1~2 | 50%: [File Crystal](/neptunia/rb2/item/0-727-file-crystal.html) x1 | 15%: [Metafiction](/neptunia/rb2/item/0-4200-metafiction.html) x1 |
+| 2 | 100%: [Wind Stone](/neptunia/rb2/item/0-717-wind-stone.html) x1~2 | 50%: [File Crystal](/neptunia/rb2/item/0-727-file-crystal.html) x1 | 15%: [Stealth](/neptunia/rb2/item/0-4147-stealth.html) x1 |
+| 3 | 100%: [Wind Stone](/neptunia/rb2/item/0-717-wind-stone.html) x1~2 | 50%: [Maoni Base](/neptunia/rb2/item/0-730-maoni-base.html) x1 | 15%: [Adventure RPG](/neptunia/rb2/item/0-4109-adventure-rpg.html) x1 |
+| 4 | 100%: [Data Crystal](/neptunia/rb2/item/0-726-data-crystal.html) x2~3 | 50%: [Maoni Base](/neptunia/rb2/item/0-730-maoni-base.html) x1 | 15%: [Core User-oriented](/neptunia/rb2/item/0-4241-core-user-oriented.html) x1 |
 
 ### Item Change (Harvest Shift) enabled
 
 
 | #  | Item 1 | Item 2 |
 | -- | ------ | ------ |
-| 1 | 100%: [Crazy Difficult](/neptunia/rb2/item/0-4270-crazy-difficult.html) x1 | 50%: [Sharp Fang](/neptunia/rb2/item/0-940-sharp-fang.html) x1 |
-| 2 | 100%: [Jump](/neptunia/rb2/item/0-4202-jump.html) x1 |
-| 3 | 100%: [Monster](/neptunia/rb2/item/0-4179-monster.html) x1 | 50%: [Stinky Mud](/neptunia/rb2/item/0-957-stinky-mud.html) x1 |
-| 4 | 100%: [Action RPG](/neptunia/rb2/item/0-4108-action-rpg.html) x1 |
+| 1 | 100%: [Heretical Jelly](/neptunia/rb2/item/0-804-heretical-jelly.html) x1~2 | 50%: [Metafiction](/neptunia/rb2/item/0-4200-metafiction.html) x1~2 |
+| 2 | 100%: [Heart Frames](/neptunia/rb2/item/0-899-heart-frames.html) x1~2 | 50%: [Stealth](/neptunia/rb2/item/0-4147-stealth.html) x1 |
+| 3 | 100%: [Hoodlum Mask](/neptunia/rb2/item/0-931-hoodlum-mask.html) x1~2 | 50%: [Adventure RPG](/neptunia/rb2/item/0-4109-adventure-rpg.html) x2~3 |
+| 4 | 100%: [Illegal ROM](/neptunia/rb2/item/0-912-illegal-rom.html) x2~3 | 50%: [Core User-oriented](/neptunia/rb2/item/0-4241-core-user-oriented.html) x1 |
 
 ### Treasure
 

@@ -49,8 +49,6 @@ See [gathering point tables](#gathering-point-tables-for-sublie-road) for more i
 |    | ID | DLC | Name | Sells for | Remakes¹ | Quests² | Total |
 | -- | -- | --- | ---- | --------- | -------- | ------- | ----: |
 | <input type="checkbox" id="rb2-item-0-703" class="trackbox" /> | 703 | [Base](/neptunia/rb2/dlc/0-base.html) | [Glowgrass](/neptunia/rb2/item/0-703-glowgrass.html) (Material) | 25 | 36 | 0 | 36 |
-| <input type="checkbox" id="rb2-item-0-704" class="trackbox" /> | 704 | [Base](/neptunia/rb2/dlc/0-base.html) | [Refresh Herb](/neptunia/rb2/item/0-704-refresh-herb.html) (Material) | 75 | 32 | 0 | 32 |
-| <input type="checkbox" id="rb2-item-0-706" class="trackbox" /> | 706 | [Base](/neptunia/rb2/dlc/0-base.html) | [Iron Ore](/neptunia/rb2/item/0-706-iron-ore.html) (Material) | 50 | 23 | 0 | 23 |
 | <input type="checkbox" id="rb2-item-0-722" class="trackbox" /> | 722 | [Base](/neptunia/rb2/dlc/0-base.html) | [Gaea Stone](/neptunia/rb2/item/0-722-gaea-stone.html) (Material) | 48 | 10 | 0 | 10 |
 | <input type="checkbox" id="rb2-item-0-728" class="trackbox" /> | 728 | [Base](/neptunia/rb2/dlc/0-base.html) | [Erde Crystal](/neptunia/rb2/item/0-728-erde-crystal.html) (Material) | 30000 | 16 | 0 | 16 |
 | <input type="checkbox" id="rb2-item-0-4139" class="trackbox" /> | 4139 | [Base](/neptunia/rb2/dlc/0-base.html) | [Fan Disc](/neptunia/rb2/item/0-4139-fan-disc.html) (Idea Chip (Yellow)) | 10 | 0 | 0 | 0 |
@@ -121,18 +119,6 @@ See [gathering point tables](#gathering-point-tables-for-sublie-road) for more i
 ### Normal
 
 
-| #  | Item 1 | Item 2 | Item 3 | Item 4 | Item 5 |
-| -- | ------ | ------ | ------ | ------ | ------ |
-| 1 | 50%: [Glowgrass](/neptunia/rb2/item/0-703-glowgrass.html) x1~2 | 50%: [Erde Crystal](/neptunia/rb2/item/0-728-erde-crystal.html) x1~2 | 25%: [Iron Ore](/neptunia/rb2/item/0-706-iron-ore.html) x1 | 25%: [Fan Disc](/neptunia/rb2/item/0-4139-fan-disc.html) x1~2 | 7.5%: [Fan Disc](/neptunia/rb2/item/0-4139-fan-disc.html) x1 |
-| 2 | 50%: [Refresh Herb](/neptunia/rb2/item/0-704-refresh-herb.html) x1~2 | 50%: [Gaea Stone](/neptunia/rb2/item/0-722-gaea-stone.html) x1~2 | 25%: [Glowgrass](/neptunia/rb2/item/0-703-glowgrass.html) x1 | 25%: [Robot](/neptunia/rb2/item/0-4160-robot.html) x2~4 | 7.5%: [Robot](/neptunia/rb2/item/0-4160-robot.html) x1 |
-| 3 | 50%: [Iron Ore](/neptunia/rb2/item/0-706-iron-ore.html) x1~2 | 50%: [Erde Crystal](/neptunia/rb2/item/0-728-erde-crystal.html) x1~2 | 25%: [Gaea Stone](/neptunia/rb2/item/0-722-gaea-stone.html) x1 | 25%: [Pretty 3D CG](/neptunia/rb2/item/0-4186-pretty-3d-cg.html) x1 | 7.5%: [Pretty 3D CG](/neptunia/rb2/item/0-4186-pretty-3d-cg.html) x1 |
-| 4 | 50%: [Refresh Herb](/neptunia/rb2/item/0-704-refresh-herb.html) x1~2 | 50%: [Glowgrass](/neptunia/rb2/item/0-703-glowgrass.html) x1~2 | 25%: [Erde Crystal](/neptunia/rb2/item/0-728-erde-crystal.html) x1 | 25%: [DLC](/neptunia/rb2/item/0-4226-dlc.html) x1 | 7.5%: [DLC](/neptunia/rb2/item/0-4226-dlc.html) x1 |
-| 5 | 50%: [Iron Ore](/neptunia/rb2/item/0-706-iron-ore.html) x2~3 | 50%: [Glowgrass](/neptunia/rb2/item/0-703-glowgrass.html) x2~3 | 25%: [Erde Crystal](/neptunia/rb2/item/0-728-erde-crystal.html) x1 | 25%: [Male-oriented](/neptunia/rb2/item/0-4240-male-oriented.html) x1~2 | 7.5%: [Male-oriented](/neptunia/rb2/item/0-4240-male-oriented.html) x1 |
-| 6 | 50%: [Glowgrass](/neptunia/rb2/item/0-703-glowgrass.html) x2~3 | 50%: [Gaea Stone](/neptunia/rb2/item/0-722-gaea-stone.html) x2~3 | 25%: [Refresh Herb](/neptunia/rb2/item/0-704-refresh-herb.html) x1 | 25%: [Death is The End](/neptunia/rb2/item/0-4277-death-is-the-end.html) x2 | 7.5%: [Death is The End](/neptunia/rb2/item/0-4277-death-is-the-end.html) x1 |
-
-### Item Change (Harvest Shift) enabled
-
-
 | #  | Item 1 | Item 2 | Item 3 |
 | -- | ------ | ------ | ------ |
 | 1 | 100%: [Glowgrass](/neptunia/rb2/item/0-703-glowgrass.html) x1~2 | 50%: [Iron Ore](/neptunia/rb2/item/0-706-iron-ore.html) x1 | 15%: [Fan Disc](/neptunia/rb2/item/0-4139-fan-disc.html) x1 |
@@ -141,6 +127,18 @@ See [gathering point tables](#gathering-point-tables-for-sublie-road) for more i
 | 4 | 100%: [Refresh Herb](/neptunia/rb2/item/0-704-refresh-herb.html) x1~2 | 50%: [Erde Crystal](/neptunia/rb2/item/0-728-erde-crystal.html) x1 | 15%: [DLC](/neptunia/rb2/item/0-4226-dlc.html) x1 |
 | 5 | 100%: [Iron Ore](/neptunia/rb2/item/0-706-iron-ore.html) x2~3 | 50%: [Erde Crystal](/neptunia/rb2/item/0-728-erde-crystal.html) x1 | 15%: [Male-oriented](/neptunia/rb2/item/0-4240-male-oriented.html) x1 |
 | 6 | 100%: [Glowgrass](/neptunia/rb2/item/0-703-glowgrass.html) x2~3 | 50%: [Refresh Herb](/neptunia/rb2/item/0-704-refresh-herb.html) x1 | 15%: [Death is The End](/neptunia/rb2/item/0-4277-death-is-the-end.html) x1 |
+
+### Item Change (Harvest Shift) enabled
+
+
+| #  | Item 1 | Item 2 |
+| -- | ------ | ------ |
+| 1 | 100%: [Erde Crystal](/neptunia/rb2/item/0-728-erde-crystal.html) x1~2 | 50%: [Fan Disc](/neptunia/rb2/item/0-4139-fan-disc.html) x1~2 |
+| 2 | 100%: [Gaea Stone](/neptunia/rb2/item/0-722-gaea-stone.html) x1~2 | 50%: [Robot](/neptunia/rb2/item/0-4160-robot.html) x2~4 |
+| 3 | 100%: [Erde Crystal](/neptunia/rb2/item/0-728-erde-crystal.html) x1~2 | 50%: [Pretty 3D CG](/neptunia/rb2/item/0-4186-pretty-3d-cg.html) x1 |
+| 4 | 100%: [Glowgrass](/neptunia/rb2/item/0-703-glowgrass.html) x1~2 | 50%: [DLC](/neptunia/rb2/item/0-4226-dlc.html) x1 |
+| 5 | 100%: [Glowgrass](/neptunia/rb2/item/0-703-glowgrass.html) x2~3 | 50%: [Male-oriented](/neptunia/rb2/item/0-4240-male-oriented.html) x1~2 |
+| 6 | 100%: [Gaea Stone](/neptunia/rb2/item/0-722-gaea-stone.html) x2~3 | 50%: [Death is The End](/neptunia/rb2/item/0-4277-death-is-the-end.html) x2 |
 
 ### Treasure
 

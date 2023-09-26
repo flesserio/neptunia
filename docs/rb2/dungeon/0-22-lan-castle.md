@@ -46,12 +46,12 @@ See [gathering point tables](#gathering-point-tables-for-lan-castle) for more in
 
 |    | ID | DLC | Name | Sells for | Remakes¹ | Quests² | Total |
 | -- | -- | --- | ---- | --------- | -------- | ------- | ----: |
-| <input type="checkbox" id="rb2-item-0-812" class="trackbox" /> | 812 | [Base](/neptunia/rb2/dlc/0-base.html) | [Magical Jelly](/neptunia/rb2/item/0-812-magical-jelly.html) (Material) | 162 | 0 | 0 | 0 |
-| <input type="checkbox" id="rb2-item-0-961" class="trackbox" /> | 961 | [Base](/neptunia/rb2/dlc/0-base.html) | [Super Hard Scale](/neptunia/rb2/item/0-961-super-hard-scale.html) (Material) | 519 | 1 | 0 | 1 |
-| <input type="checkbox" id="rb2-item-0-964" class="trackbox" /> | 964 | [Base](/neptunia/rb2/dlc/0-base.html) | [Negative Root](/neptunia/rb2/item/0-964-negative-root.html) (Material) | 146 | 0 | 0 | 0 |
-| <input type="checkbox" id="rb2-item-0-4140" class="trackbox" /> | 4140 | [Base](/neptunia/rb2/dlc/0-base.html) | [Remake](/neptunia/rb2/item/0-4140-remake.html) (Idea Chip (Yellow)) | 10 | 0 | 0 | 0 |
-| <input type="checkbox" id="rb2-item-0-4185" class="trackbox" /> | 4185 | [Base](/neptunia/rb2/dlc/0-base.html) | [Anime](/neptunia/rb2/item/0-4185-anime.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
-| <input type="checkbox" id="rb2-item-0-4225" class="trackbox" /> | 4225 | [Base](/neptunia/rb2/dlc/0-base.html) | [Rumble](/neptunia/rb2/item/0-4225-rumble.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-714" class="trackbox" /> | 714 | [Base](/neptunia/rb2/dlc/0-base.html) | [Ice Stone](/neptunia/rb2/item/0-714-ice-stone.html) (Material) | 250 | 12 | 0 | 12 |
+| <input type="checkbox" id="rb2-item-0-717" class="trackbox" /> | 717 | [Base](/neptunia/rb2/dlc/0-base.html) | [Wind Stone](/neptunia/rb2/item/0-717-wind-stone.html) (Material) | 250 | 14 | 0 | 14 |
+| <input type="checkbox" id="rb2-item-0-720" class="trackbox" /> | 720 | [Base](/neptunia/rb2/dlc/0-base.html) | [Dense Earth Stone](/neptunia/rb2/item/0-720-dense-earth-stone.html) (Material) | 250 | 12 | 0 | 12 |
+| <input type="checkbox" id="rb2-item-0-4105" class="trackbox" /> | 4105 | [Base](/neptunia/rb2/dlc/0-base.html) | [Strategic Smarts](/neptunia/rb2/item/0-4105-strategic-smarts.html) (Idea Chip (Yellow)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-4227" class="trackbox" /> | 4227 | [Base](/neptunia/rb2/dlc/0-base.html) | [Auto Save](/neptunia/rb2/item/0-4227-auto-save.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-4270" class="trackbox" /> | 4270 | [Base](/neptunia/rb2/dlc/0-base.html) | [Crazy Difficult](/neptunia/rb2/item/0-4270-crazy-difficult.html) (Idea Chip (Red)) | 10 | 0 | 0 | 0 |
 
 ### From treasure gathering points
 
@@ -121,20 +121,20 @@ See [gathering point tables](#gathering-point-tables-for-lan-castle) for more in
 ### Normal
 
 
-| #  | Item 1 | Item 2 | Item 3 | Item 4 | Item 5 |
-| -- | ------ | ------ | ------ | ------ | ------ |
-| 1 | 50%: [Glowgrass](/neptunia/rb2/item/0-703-glowgrass.html) x1~2 | 50%: [Ice Stone](/neptunia/rb2/item/0-714-ice-stone.html) x1~2 | 25%: [Dense Earth Stone](/neptunia/rb2/item/0-720-dense-earth-stone.html) x1 | 25%: [Strategic Smarts](/neptunia/rb2/item/0-4105-strategic-smarts.html) x1 | 7.5%: [Strategic Smarts](/neptunia/rb2/item/0-4105-strategic-smarts.html) x1 |
-| 2 | 50%: [Thermodite](/neptunia/rb2/item/0-711-thermodite.html) x1~2 | 50%: [Wind Stone](/neptunia/rb2/item/0-717-wind-stone.html) x1~2 | 25%: [Ice Stone](/neptunia/rb2/item/0-714-ice-stone.html) x1 | 25%: [Auto Save](/neptunia/rb2/item/0-4227-auto-save.html) x1 | 7.5%: [Auto Save](/neptunia/rb2/item/0-4227-auto-save.html) x1 |
-| 3 | 50%: [Gold Ore](/neptunia/rb2/item/0-709-gold-ore.html) x1~2 | 50%: [Dense Earth Stone](/neptunia/rb2/item/0-720-dense-earth-stone.html) x1~2 | 25%: [Wind Stone](/neptunia/rb2/item/0-717-wind-stone.html) x1 | 25%: [Crazy Difficult](/neptunia/rb2/item/0-4270-crazy-difficult.html) x2 | 7.5%: [Crazy Difficult](/neptunia/rb2/item/0-4270-crazy-difficult.html) x1 |
+| #  | Item 1 | Item 2 | Item 3 |
+| -- | ------ | ------ | ------ |
+| 1 | 100%: [Glowgrass](/neptunia/rb2/item/0-703-glowgrass.html) x1~2 | 50%: [Dense Earth Stone](/neptunia/rb2/item/0-720-dense-earth-stone.html) x1 | 15%: [Strategic Smarts](/neptunia/rb2/item/0-4105-strategic-smarts.html) x1 |
+| 2 | 100%: [Thermodite](/neptunia/rb2/item/0-711-thermodite.html) x1~2 | 50%: [Ice Stone](/neptunia/rb2/item/0-714-ice-stone.html) x1 | 15%: [Auto Save](/neptunia/rb2/item/0-4227-auto-save.html) x1 |
+| 3 | 100%: [Gold Ore](/neptunia/rb2/item/0-709-gold-ore.html) x1~2 | 50%: [Wind Stone](/neptunia/rb2/item/0-717-wind-stone.html) x1 | 15%: [Crazy Difficult](/neptunia/rb2/item/0-4270-crazy-difficult.html) x1 |
 
 ### Item Change (Harvest Shift) enabled
 
 
 | #  | Item 1 | Item 2 |
 | -- | ------ | ------ |
-| 1 | 100%: [Rumble](/neptunia/rb2/item/0-4225-rumble.html) x1 | 50%: [Super Hard Scale](/neptunia/rb2/item/0-961-super-hard-scale.html) x1 |
-| 2 | 100%: [Anime](/neptunia/rb2/item/0-4185-anime.html) x1 | 50%: [Magical Jelly](/neptunia/rb2/item/0-812-magical-jelly.html) x1 |
-| 3 | 100%: [Remake](/neptunia/rb2/item/0-4140-remake.html) x1~2 | 50%: [Negative Root](/neptunia/rb2/item/0-964-negative-root.html) x1 |
+| 1 | 100%: [Ice Stone](/neptunia/rb2/item/0-714-ice-stone.html) x1~2 | 50%: [Strategic Smarts](/neptunia/rb2/item/0-4105-strategic-smarts.html) x1 |
+| 2 | 100%: [Wind Stone](/neptunia/rb2/item/0-717-wind-stone.html) x1~2 | 50%: [Auto Save](/neptunia/rb2/item/0-4227-auto-save.html) x1 |
+| 3 | 100%: [Dense Earth Stone](/neptunia/rb2/item/0-720-dense-earth-stone.html) x1~2 | 50%: [Crazy Difficult](/neptunia/rb2/item/0-4270-crazy-difficult.html) x2 |
 
 ### Treasure
 

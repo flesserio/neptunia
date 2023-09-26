@@ -36,10 +36,7 @@ See [gathering point tables](#gathering-point-tables-for-septent-resort) for mor
 | <input type="checkbox" id="rb2-item-0-723" class="trackbox" /> | 723 | [Base](/neptunia/rb2/dlc/0-base.html) | [Rock](/neptunia/rb2/item/0-723-rock.html) (Material) | 10 | 27 | 3 | 30 |
 | <input type="checkbox" id="rb2-item-0-732" class="trackbox" /> | 732 | [Base](/neptunia/rb2/dlc/0-base.html) | [Seashell](/neptunia/rb2/item/0-732-seashell.html) (Material) | 200 | 15 | 4 | 19 |
 | <input type="checkbox" id="rb2-item-0-733" class="trackbox" /> | 733 | [Base](/neptunia/rb2/dlc/0-base.html) | [Sea Bead](/neptunia/rb2/item/0-733-sea-bead.html) (Material) | 400 | 6 | 0 | 6 |
-| <input type="checkbox" id="rb2-item-0-851" class="trackbox" /> | 851 | [Base](/neptunia/rb2/dlc/0-base.html) | [Water-Soluble Cloth](/neptunia/rb2/item/0-851-water-soluble-cloth.html) (Material) | 363 | 9 | 0 | 9 |
-| <input type="checkbox" id="rb2-item-0-858" class="trackbox" /> | 858 | [Base](/neptunia/rb2/dlc/0-base.html) | [Pink Ribbon](/neptunia/rb2/item/0-858-pink-ribbon.html) (Material) | 1269 | 21 | 0 | 21 |
 | <input type="checkbox" id="rb2-item-0-865" class="trackbox" /> | 865 | [Base](/neptunia/rb2/dlc/0-base.html) | [Blue Petal](/neptunia/rb2/item/0-865-blue-petal.html) (Material) | 69 | 7 | 3 | 10 |
-| <input type="checkbox" id="rb2-item-0-903" class="trackbox" /> | 903 | [Base](/neptunia/rb2/dlc/0-base.html) | [Fish Skeleton](/neptunia/rb2/item/0-903-fish-skeleton.html) (Material) | 2771 | 7 | 2 | 9 |
 | <input type="checkbox" id="rb2-item-0-4126" class="trackbox" /> | 4126 | [Base](/neptunia/rb2/dlc/0-base.html) | [Board Games](/neptunia/rb2/item/0-4126-board-games.html) (Idea Chip (Yellow)) | 10 | 0 | 0 | 0 |
 | <input type="checkbox" id="rb2-item-0-4172" class="trackbox" /> | 4172 | [Base](/neptunia/rb2/dlc/0-base.html) | [Tough-yet-quiet](/neptunia/rb2/item/0-4172-tough-yet-quiet.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
 | <input type="checkbox" id="rb2-item-0-4177" class="trackbox" /> | 4177 | [Base](/neptunia/rb2/dlc/0-base.html) | [Animal](/neptunia/rb2/item/0-4177-animal.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
@@ -50,14 +47,16 @@ See [gathering point tables](#gathering-point-tables-for-septent-resort) for mor
 
 |    | ID | DLC | Name | Sells for | Remakes¹ | Quests² | Total |
 | -- | -- | --- | ---- | --------- | -------- | ------- | ----: |
-| <input type="checkbox" id="rb2-item-0-883" class="trackbox" /> | 883 | [Base](/neptunia/rb2/dlc/0-base.html) | [Cool Boxbird Wing](/neptunia/rb2/item/0-883-cool-boxbird-wing.html) (Material) | 168 | 51 | 0 | 51 |
-| <input type="checkbox" id="rb2-item-0-956" class="trackbox" /> | 956 | [Base](/neptunia/rb2/dlc/0-base.html) | [Poisonous Petal](/neptunia/rb2/item/0-956-poisonous-petal.html) (Material) | 362 | 1 | 0 | 1 |
-| <input type="checkbox" id="rb2-item-0-963" class="trackbox" /> | 963 | [Base](/neptunia/rb2/dlc/0-base.html) | [Slippery Wing](/neptunia/rb2/item/0-963-slippery-wing.html) (Material) | 146 | 7 | 5 | 12 |
-| <input type="checkbox" id="rb2-item-0-4130" class="trackbox" /> | 4130 | [Base](/neptunia/rb2/dlc/0-base.html) | [Party](/neptunia/rb2/item/0-4130-party.html) (Idea Chip (Yellow)) | 10 | 0 | 0 | 0 |
-| <input type="checkbox" id="rb2-item-0-4181" class="trackbox" /> | 4181 | [Base](/neptunia/rb2/dlc/0-base.html) | [Train](/neptunia/rb2/item/0-4181-train.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
-| <input type="checkbox" id="rb2-item-0-4196" class="trackbox" /> | 4196 | [Base](/neptunia/rb2/dlc/0-base.html) | [Combined](/neptunia/rb2/item/0-4196-combined.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
-| <input type="checkbox" id="rb2-item-0-4216" class="trackbox" /> | 4216 | [Base](/neptunia/rb2/dlc/0-base.html) | [Touch Controls](/neptunia/rb2/item/0-4216-touch-controls.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
-| <input type="checkbox" id="rb2-item-0-4252" class="trackbox" /> | 4252 | [Base](/neptunia/rb2/dlc/0-base.html) | [Famous Artist](/neptunia/rb2/item/0-4252-famous-artist.html) (Idea Chip (Red)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-733" class="trackbox" /> | 733 | [Base](/neptunia/rb2/dlc/0-base.html) | [Sea Bead](/neptunia/rb2/item/0-733-sea-bead.html) (Material) | 400 | 6 | 0 | 6 |
+| <input type="checkbox" id="rb2-item-0-851" class="trackbox" /> | 851 | [Base](/neptunia/rb2/dlc/0-base.html) | [Water-Soluble Cloth](/neptunia/rb2/item/0-851-water-soluble-cloth.html) (Material) | 363 | 9 | 0 | 9 |
+| <input type="checkbox" id="rb2-item-0-858" class="trackbox" /> | 858 | [Base](/neptunia/rb2/dlc/0-base.html) | [Pink Ribbon](/neptunia/rb2/item/0-858-pink-ribbon.html) (Material) | 1269 | 21 | 0 | 21 |
+| <input type="checkbox" id="rb2-item-0-865" class="trackbox" /> | 865 | [Base](/neptunia/rb2/dlc/0-base.html) | [Blue Petal](/neptunia/rb2/item/0-865-blue-petal.html) (Material) | 69 | 7 | 3 | 10 |
+| <input type="checkbox" id="rb2-item-0-903" class="trackbox" /> | 903 | [Base](/neptunia/rb2/dlc/0-base.html) | [Fish Skeleton](/neptunia/rb2/item/0-903-fish-skeleton.html) (Material) | 2771 | 7 | 2 | 9 |
+| <input type="checkbox" id="rb2-item-0-4126" class="trackbox" /> | 4126 | [Base](/neptunia/rb2/dlc/0-base.html) | [Board Games](/neptunia/rb2/item/0-4126-board-games.html) (Idea Chip (Yellow)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-4172" class="trackbox" /> | 4172 | [Base](/neptunia/rb2/dlc/0-base.html) | [Tough-yet-quiet](/neptunia/rb2/item/0-4172-tough-yet-quiet.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-4177" class="trackbox" /> | 4177 | [Base](/neptunia/rb2/dlc/0-base.html) | [Animal](/neptunia/rb2/item/0-4177-animal.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-4238" class="trackbox" /> | 4238 | [Base](/neptunia/rb2/dlc/0-base.html) | [Casual-oriented](/neptunia/rb2/item/0-4238-casual-oriented.html) (Idea Chip (Red)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-4263" class="trackbox" /> | 4263 | [Base](/neptunia/rb2/dlc/0-base.html) | [Fight](/neptunia/rb2/item/0-4263-fight.html) (Idea Chip (Red)) | 10 | 0 | 0 | 0 |
 
 ### From treasure gathering points
 
@@ -128,24 +127,24 @@ See [gathering point tables](#gathering-point-tables-for-septent-resort) for mor
 ### Normal
 
 
-| #  | Item 1 | Item 2 | Item 3 | Item 4 | Item 5 |
-| -- | ------ | ------ | ------ | ------ | ------ |
-| 1 | 50%: [Seashell](/neptunia/rb2/item/0-732-seashell.html) x1~2 | 50%: [Water-Soluble Cloth](/neptunia/rb2/item/0-851-water-soluble-cloth.html) x1~2 | 25%: [Healing Herb](/neptunia/rb2/item/0-702-healing-herb.html) x1 | 25%: [Board Games](/neptunia/rb2/item/0-4126-board-games.html) x2~3 | 7.5%: [Board Games](/neptunia/rb2/item/0-4126-board-games.html) x1 |
-| 2 | 50%: [Sea Bead](/neptunia/rb2/item/0-733-sea-bead.html) x1~2 | 50%: [Pink Ribbon](/neptunia/rb2/item/0-858-pink-ribbon.html) x1~2 | 25%: [Rock](/neptunia/rb2/item/0-723-rock.html) x1 | 25%: [Tough-yet-quiet](/neptunia/rb2/item/0-4172-tough-yet-quiet.html) x3~5 | 7.5%: [Tough-yet-quiet](/neptunia/rb2/item/0-4172-tough-yet-quiet.html) x1 |
-| 3 | 50%: [Seashell](/neptunia/rb2/item/0-732-seashell.html) x1~2 | 50%: [Blue Petal](/neptunia/rb2/item/0-865-blue-petal.html) x1~2 | 25%: [Blue Petal](/neptunia/rb2/item/0-865-blue-petal.html) x1 | 25%: [Casual-oriented](/neptunia/rb2/item/0-4238-casual-oriented.html) x1~2 | 7.5%: [Casual-oriented](/neptunia/rb2/item/0-4238-casual-oriented.html) x1 |
-| 4 | 50%: [Rock](/neptunia/rb2/item/0-723-rock.html) x1~2 | 50%: [Sea Bead](/neptunia/rb2/item/0-733-sea-bead.html) x1~2 | 25%: [Healing Herb](/neptunia/rb2/item/0-702-healing-herb.html) x1 | 25%: [Fight](/neptunia/rb2/item/0-4263-fight.html) x1~2 | 7.5%: [Fight](/neptunia/rb2/item/0-4263-fight.html) x1 |
-| 5 | 50%: [Sea Bead](/neptunia/rb2/item/0-733-sea-bead.html) x2~3 | 50%: [Fish Skeleton](/neptunia/rb2/item/0-903-fish-skeleton.html) x1~2 | 25%: [Seashell](/neptunia/rb2/item/0-732-seashell.html) x1 | 25%: [Animal](/neptunia/rb2/item/0-4177-animal.html) x2~4 | 7.5%: [Animal](/neptunia/rb2/item/0-4177-animal.html) x1 |
+| #  | Item 1 | Item 2 | Item 3 |
+| -- | ------ | ------ | ------ |
+| 1 | 100%: [Seashell](/neptunia/rb2/item/0-732-seashell.html) x1~2 | 50%: [Healing Herb](/neptunia/rb2/item/0-702-healing-herb.html) x1 | 15%: [Board Games](/neptunia/rb2/item/0-4126-board-games.html) x1 |
+| 2 | 100%: [Sea Bead](/neptunia/rb2/item/0-733-sea-bead.html) x1~2 | 50%: [Rock](/neptunia/rb2/item/0-723-rock.html) x1 | 15%: [Tough-yet-quiet](/neptunia/rb2/item/0-4172-tough-yet-quiet.html) x1 |
+| 3 | 100%: [Seashell](/neptunia/rb2/item/0-732-seashell.html) x1~2 | 50%: [Blue Petal](/neptunia/rb2/item/0-865-blue-petal.html) x1 | 15%: [Casual-oriented](/neptunia/rb2/item/0-4238-casual-oriented.html) x1 |
+| 4 | 100%: [Rock](/neptunia/rb2/item/0-723-rock.html) x1~2 | 50%: [Healing Herb](/neptunia/rb2/item/0-702-healing-herb.html) x1 | 15%: [Fight](/neptunia/rb2/item/0-4263-fight.html) x1 |
+| 5 | 100%: [Sea Bead](/neptunia/rb2/item/0-733-sea-bead.html) x2~3 | 50%: [Seashell](/neptunia/rb2/item/0-732-seashell.html) x1 | 15%: [Animal](/neptunia/rb2/item/0-4177-animal.html) x1 |
 
 ### Item Change (Harvest Shift) enabled
 
 
 | #  | Item 1 | Item 2 |
 | -- | ------ | ------ |
-| 1 | 100%: [Famous Artist](/neptunia/rb2/item/0-4252-famous-artist.html) x1~2 | 50%: [Cool Boxbird Wing](/neptunia/rb2/item/0-883-cool-boxbird-wing.html) x1 |
-| 2 | 100%: [Touch Controls](/neptunia/rb2/item/0-4216-touch-controls.html) x1~2 |
-| 3 | 100%: [Party](/neptunia/rb2/item/0-4130-party.html) x1~2 | 50%: [Slippery Wing](/neptunia/rb2/item/0-963-slippery-wing.html) x1 |
-| 4 | 100%: [Train](/neptunia/rb2/item/0-4181-train.html) x1~2 | 50%: [Poisonous Petal](/neptunia/rb2/item/0-956-poisonous-petal.html) x1 |
-| 5 | 100%: [Combined](/neptunia/rb2/item/0-4196-combined.html) x2~3 |
+| 1 | 100%: [Water-Soluble Cloth](/neptunia/rb2/item/0-851-water-soluble-cloth.html) x1~2 | 50%: [Board Games](/neptunia/rb2/item/0-4126-board-games.html) x2~3 |
+| 2 | 100%: [Pink Ribbon](/neptunia/rb2/item/0-858-pink-ribbon.html) x1~2 | 50%: [Tough-yet-quiet](/neptunia/rb2/item/0-4172-tough-yet-quiet.html) x3~5 |
+| 3 | 100%: [Blue Petal](/neptunia/rb2/item/0-865-blue-petal.html) x1~2 | 50%: [Casual-oriented](/neptunia/rb2/item/0-4238-casual-oriented.html) x1~2 |
+| 4 | 100%: [Sea Bead](/neptunia/rb2/item/0-733-sea-bead.html) x1~2 | 50%: [Fight](/neptunia/rb2/item/0-4263-fight.html) x1~2 |
+| 5 | 100%: [Fish Skeleton](/neptunia/rb2/item/0-903-fish-skeleton.html) x1~2 | 50%: [Animal](/neptunia/rb2/item/0-4177-animal.html) x2~4 |
 
 ### Treasure
 

@@ -37,6 +37,18 @@ See [gathering point tables](#gathering-point-tables-for-panan-jungle) for more 
 | <input type="checkbox" id="rb2-item-0-705" class="trackbox" /> | 705 | [Base](/neptunia/rb2/dlc/0-base.html) | [World Tree Leaf](/neptunia/rb2/item/0-705-world-tree-leaf.html) (Material) | 100 | 22 | 5 | 27 |
 | <input type="checkbox" id="rb2-item-0-710" class="trackbox" /> | 710 | [Base](/neptunia/rb2/dlc/0-base.html) | [Orichalcum](/neptunia/rb2/item/0-710-orichalcum.html) (Material) | 250 | 13 | 5 | 18 |
 | <input type="checkbox" id="rb2-item-0-4118" class="trackbox" /> | 4118 | [Base](/neptunia/rb2/dlc/0-base.html) | [Racing](/neptunia/rb2/item/0-4118-racing.html) (Idea Chip (Yellow)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-4210" class="trackbox" /> | 4210 | [Base](/neptunia/rb2/dlc/0-base.html) | [Life Game](/neptunia/rb2/item/0-4210-life-game.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-4220" class="trackbox" /> | 4220 | [Base](/neptunia/rb2/dlc/0-base.html) | [Surprise Encounter](/neptunia/rb2/item/0-4220-surprise-encounter.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-4236" class="trackbox" /> | 4236 | [Base](/neptunia/rb2/dlc/0-base.html) | [Whatever](/neptunia/rb2/item/0-4236-whatever.html) (Idea Chip (Red)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-4276" class="trackbox" /> | 4276 | [Base](/neptunia/rb2/dlc/0-base.html) | [Learn by Dying](/neptunia/rb2/item/0-4276-learn-by-dying.html) (Idea Chip (Red)) | 10 | 0 | 0 | 0 |
+
+### From Harvest Shift gathering points
+
+|    | ID | DLC | Name | Sells for | Remakes¹ | Quests² | Total |
+| -- | -- | --- | ---- | --------- | -------- | ------- | ----: |
+| <input type="checkbox" id="rb2-item-0-705" class="trackbox" /> | 705 | [Base](/neptunia/rb2/dlc/0-base.html) | [World Tree Leaf](/neptunia/rb2/item/0-705-world-tree-leaf.html) (Material) | 100 | 22 | 5 | 27 |
+| <input type="checkbox" id="rb2-item-0-710" class="trackbox" /> | 710 | [Base](/neptunia/rb2/dlc/0-base.html) | [Orichalcum](/neptunia/rb2/item/0-710-orichalcum.html) (Material) | 250 | 13 | 5 | 18 |
+| <input type="checkbox" id="rb2-item-0-4118" class="trackbox" /> | 4118 | [Base](/neptunia/rb2/dlc/0-base.html) | [Racing](/neptunia/rb2/item/0-4118-racing.html) (Idea Chip (Yellow)) | 10 | 0 | 0 | 0 |
 | <input type="checkbox" id="rb2-item-0-4153" class="trackbox" /> | 4153 | [Base](/neptunia/rb2/dlc/0-base.html) | [1-Player Online](/neptunia/rb2/item/0-4153-1-player-online.html) (Idea Chip (Yellow)) | 10 | 0 | 0 | 0 |
 | <input type="checkbox" id="rb2-item-0-4161" class="trackbox" /> | 4161 | [Base](/neptunia/rb2/dlc/0-base.html) | [Famous Person](/neptunia/rb2/item/0-4161-famous-person.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
 | <input type="checkbox" id="rb2-item-0-4210" class="trackbox" /> | 4210 | [Base](/neptunia/rb2/dlc/0-base.html) | [Life Game](/neptunia/rb2/item/0-4210-life-game.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
@@ -44,20 +56,6 @@ See [gathering point tables](#gathering-point-tables-for-panan-jungle) for more 
 | <input type="checkbox" id="rb2-item-0-4236" class="trackbox" /> | 4236 | [Base](/neptunia/rb2/dlc/0-base.html) | [Whatever](/neptunia/rb2/item/0-4236-whatever.html) (Idea Chip (Red)) | 10 | 0 | 0 | 0 |
 | <input type="checkbox" id="rb2-item-0-4276" class="trackbox" /> | 4276 | [Base](/neptunia/rb2/dlc/0-base.html) | [Learn by Dying](/neptunia/rb2/item/0-4276-learn-by-dying.html) (Idea Chip (Red)) | 10 | 0 | 0 | 0 |
 | <input type="checkbox" id="rb2-item-0-4282" class="trackbox" /> | 4282 | [Base](/neptunia/rb2/dlc/0-base.html) | [Harem](/neptunia/rb2/item/0-4282-harem.html) (Idea Chip (Red)) | 10 | 0 | 0 | 0 |
-
-### From Harvest Shift gathering points
-
-|    | ID | DLC | Name | Sells for | Remakes¹ | Quests² | Total |
-| -- | -- | --- | ---- | --------- | -------- | ------- | ----: |
-| <input type="checkbox" id="rb2-item-0-703" class="trackbox" /> | 703 | [Base](/neptunia/rb2/dlc/0-base.html) | [Glowgrass](/neptunia/rb2/item/0-703-glowgrass.html) (Material) | 25 | 36 | 0 | 36 |
-| <input type="checkbox" id="rb2-item-0-704" class="trackbox" /> | 704 | [Base](/neptunia/rb2/dlc/0-base.html) | [Refresh Herb](/neptunia/rb2/item/0-704-refresh-herb.html) (Material) | 75 | 32 | 0 | 32 |
-| <input type="checkbox" id="rb2-item-0-705" class="trackbox" /> | 705 | [Base](/neptunia/rb2/dlc/0-base.html) | [World Tree Leaf](/neptunia/rb2/item/0-705-world-tree-leaf.html) (Material) | 100 | 22 | 5 | 27 |
-| <input type="checkbox" id="rb2-item-0-710" class="trackbox" /> | 710 | [Base](/neptunia/rb2/dlc/0-base.html) | [Orichalcum](/neptunia/rb2/item/0-710-orichalcum.html) (Material) | 250 | 13 | 5 | 18 |
-| <input type="checkbox" id="rb2-item-0-4118" class="trackbox" /> | 4118 | [Base](/neptunia/rb2/dlc/0-base.html) | [Racing](/neptunia/rb2/item/0-4118-racing.html) (Idea Chip (Yellow)) | 10 | 0 | 0 | 0 |
-| <input type="checkbox" id="rb2-item-0-4210" class="trackbox" /> | 4210 | [Base](/neptunia/rb2/dlc/0-base.html) | [Life Game](/neptunia/rb2/item/0-4210-life-game.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
-| <input type="checkbox" id="rb2-item-0-4220" class="trackbox" /> | 4220 | [Base](/neptunia/rb2/dlc/0-base.html) | [Surprise Encounter](/neptunia/rb2/item/0-4220-surprise-encounter.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
-| <input type="checkbox" id="rb2-item-0-4236" class="trackbox" /> | 4236 | [Base](/neptunia/rb2/dlc/0-base.html) | [Whatever](/neptunia/rb2/item/0-4236-whatever.html) (Idea Chip (Red)) | 10 | 0 | 0 | 0 |
-| <input type="checkbox" id="rb2-item-0-4276" class="trackbox" /> | 4276 | [Base](/neptunia/rb2/dlc/0-base.html) | [Learn by Dying](/neptunia/rb2/item/0-4276-learn-by-dying.html) (Idea Chip (Red)) | 10 | 0 | 0 | 0 |
 
 ### From treasure gathering points
 
@@ -126,17 +124,6 @@ See [gathering point tables](#gathering-point-tables-for-panan-jungle) for more 
 ### Normal
 
 
-| #  | Item 1 | Item 2 | Item 3 | Item 4 | Item 5 |
-| -- | ------ | ------ | ------ | ------ | ------ |
-| 1 | 50%: [Refresh Herb](/neptunia/rb2/item/0-704-refresh-herb.html) x1~2 | 50%: [Harem](/neptunia/rb2/item/0-4282-harem.html) x1~2 | 25%: [Orichalcum](/neptunia/rb2/item/0-710-orichalcum.html) x1 | 25%: [Life Game](/neptunia/rb2/item/0-4210-life-game.html) x1 | 7.5%: [Life Game](/neptunia/rb2/item/0-4210-life-game.html) x1 |
-| 2 | 50%: [Glowgrass](/neptunia/rb2/item/0-703-glowgrass.html) x1~2 | 50%: [World Tree Leaf](/neptunia/rb2/item/0-705-world-tree-leaf.html) x1~2 | 25%: [Refresh Herb](/neptunia/rb2/item/0-704-refresh-herb.html) x1 | 25%: [Surprise Encounter](/neptunia/rb2/item/0-4220-surprise-encounter.html) x2~3 | 7.5%: [Surprise Encounter](/neptunia/rb2/item/0-4220-surprise-encounter.html) x1 |
-| 3 | 50%: [Orichalcum](/neptunia/rb2/item/0-710-orichalcum.html) x1~2 | 50%: [Famous Person](/neptunia/rb2/item/0-4161-famous-person.html) x1~2 | 25%: [Glowgrass](/neptunia/rb2/item/0-703-glowgrass.html) x1 | 25%: [Whatever](/neptunia/rb2/item/0-4236-whatever.html) x2~3 | 7.5%: [Whatever](/neptunia/rb2/item/0-4236-whatever.html) x1 |
-| 4 | 50%: [Glowgrass](/neptunia/rb2/item/0-703-glowgrass.html) x1~2 | 50%: [Orichalcum](/neptunia/rb2/item/0-710-orichalcum.html) x1~2 | 25%: [World Tree Leaf](/neptunia/rb2/item/0-705-world-tree-leaf.html) x1 | 25%: [Racing](/neptunia/rb2/item/0-4118-racing.html) x2~3 | 7.5%: [Racing](/neptunia/rb2/item/0-4118-racing.html) x1 |
-| 5 | 50%: [World Tree Leaf](/neptunia/rb2/item/0-705-world-tree-leaf.html) x1~2 | 50%: [1-Player Online](/neptunia/rb2/item/0-4153-1-player-online.html) x1~2 | 25%: [Orichalcum](/neptunia/rb2/item/0-710-orichalcum.html) x1 | 25%: [Learn by Dying](/neptunia/rb2/item/0-4276-learn-by-dying.html) x1~3 | 7.5%: [Learn by Dying](/neptunia/rb2/item/0-4276-learn-by-dying.html) x1 |
-
-### Item Change (Harvest Shift) enabled
-
-
 | #  | Item 1 | Item 2 | Item 3 |
 | -- | ------ | ------ | ------ |
 | 1 | 100%: [Refresh Herb](/neptunia/rb2/item/0-704-refresh-herb.html) x1~2 | 50%: [Orichalcum](/neptunia/rb2/item/0-710-orichalcum.html) x1 | 15%: [Life Game](/neptunia/rb2/item/0-4210-life-game.html) x1 |
@@ -144,6 +131,17 @@ See [gathering point tables](#gathering-point-tables-for-panan-jungle) for more 
 | 3 | 100%: [Orichalcum](/neptunia/rb2/item/0-710-orichalcum.html) x1~2 | 50%: [Glowgrass](/neptunia/rb2/item/0-703-glowgrass.html) x1 | 15%: [Whatever](/neptunia/rb2/item/0-4236-whatever.html) x1 |
 | 4 | 100%: [Glowgrass](/neptunia/rb2/item/0-703-glowgrass.html) x1~2 | 50%: [World Tree Leaf](/neptunia/rb2/item/0-705-world-tree-leaf.html) x1 | 15%: [Racing](/neptunia/rb2/item/0-4118-racing.html) x1 |
 | 5 | 100%: [World Tree Leaf](/neptunia/rb2/item/0-705-world-tree-leaf.html) x1~2 | 50%: [Orichalcum](/neptunia/rb2/item/0-710-orichalcum.html) x1 | 15%: [Learn by Dying](/neptunia/rb2/item/0-4276-learn-by-dying.html) x1 |
+
+### Item Change (Harvest Shift) enabled
+
+
+| #  | Item 1 | Item 2 |
+| -- | ------ | ------ |
+| 1 | 100%: [Harem](/neptunia/rb2/item/0-4282-harem.html) x1~2 | 50%: [Life Game](/neptunia/rb2/item/0-4210-life-game.html) x1 |
+| 2 | 100%: [World Tree Leaf](/neptunia/rb2/item/0-705-world-tree-leaf.html) x1~2 | 50%: [Surprise Encounter](/neptunia/rb2/item/0-4220-surprise-encounter.html) x2~3 |
+| 3 | 100%: [Famous Person](/neptunia/rb2/item/0-4161-famous-person.html) x1~2 | 50%: [Whatever](/neptunia/rb2/item/0-4236-whatever.html) x2~3 |
+| 4 | 100%: [Orichalcum](/neptunia/rb2/item/0-710-orichalcum.html) x1~2 | 50%: [Racing](/neptunia/rb2/item/0-4118-racing.html) x2~3 |
+| 5 | 100%: [1-Player Online](/neptunia/rb2/item/0-4153-1-player-online.html) x1~2 | 50%: [Learn by Dying](/neptunia/rb2/item/0-4276-learn-by-dying.html) x1~3 |
 
 ### Treasure
 

@@ -35,11 +35,7 @@ See [gathering point tables](#gathering-point-tables-for-world-labyrinth-2nd-fl)
 | <input type="checkbox" id="rb2-item-0-707" class="trackbox" /> | 707 | [Base](/neptunia/rb2/dlc/0-base.html) | [Copper Ore](/neptunia/rb2/item/0-707-copper-ore.html) (Material) | 75 | 20 | 0 | 20 |
 | <input type="checkbox" id="rb2-item-0-726" class="trackbox" /> | 726 | [Base](/neptunia/rb2/dlc/0-base.html) | [Data Crystal](/neptunia/rb2/item/0-726-data-crystal.html) (Material) | 100 | 24 | 0 | 24 |
 | <input type="checkbox" id="rb2-item-0-729" class="trackbox" /> | 729 | [Base](/neptunia/rb2/dlc/0-base.html) | [Model 4 Base](/neptunia/rb2/item/0-729-model-4-base.html) (Material) | 15 | 48 | 0 | 48 |
-| <input type="checkbox" id="rb2-item-0-730" class="trackbox" /> | 730 | [Base](/neptunia/rb2/dlc/0-base.html) | [Maoni Base](/neptunia/rb2/item/0-730-maoni-base.html) (Material) | 500 | 9 | 0 | 9 |
-| <input type="checkbox" id="rb2-item-0-830" class="trackbox" /> | 830 | [Base](/neptunia/rb2/dlc/0-base.html) | [Lion's Mane](/neptunia/rb2/item/0-830-lions-mane.html) (Material) | 21 | 5 | 0 | 5 |
-| <input type="checkbox" id="rb2-item-0-840" class="trackbox" /> | 840 | [Base](/neptunia/rb2/dlc/0-base.html) | [Green Block](/neptunia/rb2/item/0-840-green-block.html) (Material) | 236 | 2 | 0 | 2 |
 | <input type="checkbox" id="rb2-item-0-843" class="trackbox" /> | 843 | [Base](/neptunia/rb2/dlc/0-base.html) | [Plum-met Piece](/neptunia/rb2/item/0-843-plum-met-piece.html) (Material) | 13 | 3 | 2 | 5 |
-| <input type="checkbox" id="rb2-item-0-898" class="trackbox" /> | 898 | [Base](/neptunia/rb2/dlc/0-base.html) | [Stellar Frames](/neptunia/rb2/item/0-898-stellar-frames.html) (Material) | 119 | 7 | 2 | 9 |
 | <input type="checkbox" id="rb2-item-0-4142" class="trackbox" /> | 4142 | [Base](/neptunia/rb2/dlc/0-base.html) | [Pachinko](/neptunia/rb2/item/0-4142-pachinko.html) (Idea Chip (Yellow)) | 10 | 0 | 0 | 0 |
 | <input type="checkbox" id="rb2-item-0-4173" class="trackbox" /> | 4173 | [Base](/neptunia/rb2/dlc/0-base.html) | [Useless Hero](/neptunia/rb2/item/0-4173-useless-hero.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
 | <input type="checkbox" id="rb2-item-0-4229" class="trackbox" /> | 4229 | [Base](/neptunia/rb2/dlc/0-base.html) | [DL Only](/neptunia/rb2/item/0-4229-dl-only.html) (Idea Chip (Red)) | 10 | 0 | 0 | 0 |
@@ -50,15 +46,15 @@ See [gathering point tables](#gathering-point-tables-for-world-labyrinth-2nd-fl)
 
 |    | ID | DLC | Name | Sells for | Remakes¹ | Quests² | Total |
 | -- | -- | --- | ---- | --------- | -------- | ------- | ----: |
-| <input type="checkbox" id="rb2-item-0-864" class="trackbox" /> | 864 | [Base](/neptunia/rb2/dlc/0-base.html) | [Red Petal](/neptunia/rb2/item/0-864-red-petal.html) (Material) | 1891 | 5 | 0 | 5 |
-| <input type="checkbox" id="rb2-item-0-924" class="trackbox" /> | 924 | [Base](/neptunia/rb2/dlc/0-base.html) | [Strong Thread](/neptunia/rb2/item/0-924-strong-thread.html) (Material) | 122 | 5 | 0 | 5 |
-| <input type="checkbox" id="rb2-item-0-942" class="trackbox" /> | 942 | [Base](/neptunia/rb2/dlc/0-base.html) | [Soft Wolf Fur](/neptunia/rb2/item/0-942-soft-wolf-fur.html) (Material) | 713 | 3 | 0 | 3 |
-| <input type="checkbox" id="rb2-item-0-944" class="trackbox" /> | 944 | [Base](/neptunia/rb2/dlc/0-base.html) | [Magical Beak](/neptunia/rb2/item/0-944-magical-beak.html) (Material) | 459 | 5 | 0 | 5 |
-| <input type="checkbox" id="rb2-item-0-4156" class="trackbox" /> | 4156 | [Base](/neptunia/rb2/dlc/0-base.html) | [TPS](/neptunia/rb2/item/0-4156-tps.html) (Idea Chip (Yellow)) | 10 | 0 | 0 | 0 |
-| <input type="checkbox" id="rb2-item-0-4161" class="trackbox" /> | 4161 | [Base](/neptunia/rb2/dlc/0-base.html) | [Famous Person](/neptunia/rb2/item/0-4161-famous-person.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
-| <input type="checkbox" id="rb2-item-0-4211" class="trackbox" /> | 4211 | [Base](/neptunia/rb2/dlc/0-base.html) | [Juvenile Game](/neptunia/rb2/item/0-4211-juvenile-game.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
-| <input type="checkbox" id="rb2-item-0-4247" class="trackbox" /> | 4247 | [Base](/neptunia/rb2/dlc/0-base.html) | [Yuriyuri](/neptunia/rb2/item/0-4247-yuriyuri.html) (Idea Chip (Red)) | 10 | 0 | 0 | 0 |
-| <input type="checkbox" id="rb2-item-0-4266" class="trackbox" /> | 4266 | [Base](/neptunia/rb2/dlc/0-base.html) | [Journey](/neptunia/rb2/item/0-4266-journey.html) (Idea Chip (Red)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-730" class="trackbox" /> | 730 | [Base](/neptunia/rb2/dlc/0-base.html) | [Maoni Base](/neptunia/rb2/item/0-730-maoni-base.html) (Material) | 500 | 9 | 0 | 9 |
+| <input type="checkbox" id="rb2-item-0-830" class="trackbox" /> | 830 | [Base](/neptunia/rb2/dlc/0-base.html) | [Lion's Mane](/neptunia/rb2/item/0-830-lions-mane.html) (Material) | 21 | 5 | 0 | 5 |
+| <input type="checkbox" id="rb2-item-0-840" class="trackbox" /> | 840 | [Base](/neptunia/rb2/dlc/0-base.html) | [Green Block](/neptunia/rb2/item/0-840-green-block.html) (Material) | 236 | 2 | 0 | 2 |
+| <input type="checkbox" id="rb2-item-0-898" class="trackbox" /> | 898 | [Base](/neptunia/rb2/dlc/0-base.html) | [Stellar Frames](/neptunia/rb2/item/0-898-stellar-frames.html) (Material) | 119 | 7 | 2 | 9 |
+| <input type="checkbox" id="rb2-item-0-4142" class="trackbox" /> | 4142 | [Base](/neptunia/rb2/dlc/0-base.html) | [Pachinko](/neptunia/rb2/item/0-4142-pachinko.html) (Idea Chip (Yellow)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-4173" class="trackbox" /> | 4173 | [Base](/neptunia/rb2/dlc/0-base.html) | [Useless Hero](/neptunia/rb2/item/0-4173-useless-hero.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-4229" class="trackbox" /> | 4229 | [Base](/neptunia/rb2/dlc/0-base.html) | [DL Only](/neptunia/rb2/item/0-4229-dl-only.html) (Idea Chip (Red)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-4253" class="trackbox" /> | 4253 | [Base](/neptunia/rb2/dlc/0-base.html) | [Niche](/neptunia/rb2/item/0-4253-niche.html) (Idea Chip (Red)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-4279" class="trackbox" /> | 4279 | [Base](/neptunia/rb2/dlc/0-base.html) | [Jargon](/neptunia/rb2/item/0-4279-jargon.html) (Idea Chip (Red)) | 10 | 0 | 0 | 0 |
 
 ### From treasure gathering points
 
@@ -133,24 +129,24 @@ See [gathering point tables](#gathering-point-tables-for-world-labyrinth-2nd-fl)
 ### Normal
 
 
-| #  | Item 1 | Item 2 | Item 3 | Item 4 | Item 5 |
-| -- | ------ | ------ | ------ | ------ | ------ |
-| 1 | 50%: [Data Crystal](/neptunia/rb2/item/0-726-data-crystal.html) x1~2 | 50%: [Maoni Base](/neptunia/rb2/item/0-730-maoni-base.html) x1~2 | 25%: [Model 4 Base](/neptunia/rb2/item/0-729-model-4-base.html) x1 | 25%: [Useless Hero](/neptunia/rb2/item/0-4173-useless-hero.html) x2~4 | 7.5%: [Useless Hero](/neptunia/rb2/item/0-4173-useless-hero.html) x1 |
-| 2 | 50%: [Data Crystal](/neptunia/rb2/item/0-726-data-crystal.html) x1~2 | 50%: [Stellar Frames](/neptunia/rb2/item/0-898-stellar-frames.html) x1~2 | 25%: [Copper Ore](/neptunia/rb2/item/0-707-copper-ore.html) x1 | 25%: [Niche](/neptunia/rb2/item/0-4253-niche.html) x1~2 | 7.5%: [Niche](/neptunia/rb2/item/0-4253-niche.html) x1 |
-| 3 | 50%: [Copper Ore](/neptunia/rb2/item/0-707-copper-ore.html) x1~2 | 50%: [Lion's Mane](/neptunia/rb2/item/0-830-lions-mane.html) x1~2 | 25%: [Plum-met Piece](/neptunia/rb2/item/0-843-plum-met-piece.html) x1 | 25%: [Pachinko](/neptunia/rb2/item/0-4142-pachinko.html) x2~3 | 7.5%: [Pachinko](/neptunia/rb2/item/0-4142-pachinko.html) x1 |
-| 4 | 50%: [Copper Ore](/neptunia/rb2/item/0-707-copper-ore.html) x1~2 | 50%: [Green Block](/neptunia/rb2/item/0-840-green-block.html) x1~2 | 25%: [Data Crystal](/neptunia/rb2/item/0-726-data-crystal.html) x1 | 25%: [DL Only](/neptunia/rb2/item/0-4229-dl-only.html) x1~2 | 7.5%: [DL Only](/neptunia/rb2/item/0-4229-dl-only.html) x1 |
-| 5 | 50%: [Model 4 Base](/neptunia/rb2/item/0-729-model-4-base.html) x2~3 | 50%: [Maoni Base](/neptunia/rb2/item/0-730-maoni-base.html) x2~3 | 25%: [Data Crystal](/neptunia/rb2/item/0-726-data-crystal.html) x1 | 25%: [Jargon](/neptunia/rb2/item/0-4279-jargon.html) x2~3 | 7.5%: [Jargon](/neptunia/rb2/item/0-4279-jargon.html) x1 |
+| #  | Item 1 | Item 2 | Item 3 |
+| -- | ------ | ------ | ------ |
+| 1 | 100%: [Data Crystal](/neptunia/rb2/item/0-726-data-crystal.html) x1~2 | 50%: [Model 4 Base](/neptunia/rb2/item/0-729-model-4-base.html) x1 | 15%: [Useless Hero](/neptunia/rb2/item/0-4173-useless-hero.html) x1 |
+| 2 | 100%: [Data Crystal](/neptunia/rb2/item/0-726-data-crystal.html) x1~2 | 50%: [Copper Ore](/neptunia/rb2/item/0-707-copper-ore.html) x1 | 15%: [Niche](/neptunia/rb2/item/0-4253-niche.html) x1 |
+| 3 | 100%: [Copper Ore](/neptunia/rb2/item/0-707-copper-ore.html) x1~2 | 50%: [Plum-met Piece](/neptunia/rb2/item/0-843-plum-met-piece.html) x1 | 15%: [Pachinko](/neptunia/rb2/item/0-4142-pachinko.html) x1 |
+| 4 | 100%: [Copper Ore](/neptunia/rb2/item/0-707-copper-ore.html) x1~2 | 50%: [Data Crystal](/neptunia/rb2/item/0-726-data-crystal.html) x1 | 15%: [DL Only](/neptunia/rb2/item/0-4229-dl-only.html) x1 |
+| 5 | 100%: [Model 4 Base](/neptunia/rb2/item/0-729-model-4-base.html) x2~3 | 50%: [Data Crystal](/neptunia/rb2/item/0-726-data-crystal.html) x1 | 15%: [Jargon](/neptunia/rb2/item/0-4279-jargon.html) x1 |
 
 ### Item Change (Harvest Shift) enabled
 
 
 | #  | Item 1 | Item 2 |
 | -- | ------ | ------ |
-| 1 | 100%: [Yuriyuri](/neptunia/rb2/item/0-4247-yuriyuri.html) x1~2 |
-| 2 | 100%: [Juvenile Game](/neptunia/rb2/item/0-4211-juvenile-game.html) x1~2 | 50%: [Magical Beak](/neptunia/rb2/item/0-944-magical-beak.html) x1 |
-| 3 | 100%: [TPS](/neptunia/rb2/item/0-4156-tps.html) x1~2 | 50%: [Soft Wolf Fur](/neptunia/rb2/item/0-942-soft-wolf-fur.html) x1 |
-| 4 | 100%: [Famous Person](/neptunia/rb2/item/0-4161-famous-person.html) x1~2 | 50%: [Strong Thread](/neptunia/rb2/item/0-924-strong-thread.html) x1 |
-| 5 | 100%: [Journey](/neptunia/rb2/item/0-4266-journey.html) x2~3 | 50%: [Red Petal](/neptunia/rb2/item/0-864-red-petal.html) x1 |
+| 1 | 100%: [Maoni Base](/neptunia/rb2/item/0-730-maoni-base.html) x1~2 | 50%: [Useless Hero](/neptunia/rb2/item/0-4173-useless-hero.html) x2~4 |
+| 2 | 100%: [Stellar Frames](/neptunia/rb2/item/0-898-stellar-frames.html) x1~2 | 50%: [Niche](/neptunia/rb2/item/0-4253-niche.html) x1~2 |
+| 3 | 100%: [Lion's Mane](/neptunia/rb2/item/0-830-lions-mane.html) x1~2 | 50%: [Pachinko](/neptunia/rb2/item/0-4142-pachinko.html) x2~3 |
+| 4 | 100%: [Green Block](/neptunia/rb2/item/0-840-green-block.html) x1~2 | 50%: [DL Only](/neptunia/rb2/item/0-4229-dl-only.html) x1~2 |
+| 5 | 100%: [Maoni Base](/neptunia/rb2/item/0-730-maoni-base.html) x2~3 | 50%: [Jargon](/neptunia/rb2/item/0-4279-jargon.html) x2~3 |
 
 ### Treasure
 

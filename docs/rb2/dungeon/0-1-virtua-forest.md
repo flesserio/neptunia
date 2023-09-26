@@ -37,17 +37,15 @@ See [gathering point tables](#gathering-point-tables-for-virtua-forest) for more
 | <input type="checkbox" id="rb2-item-0-801" class="trackbox" /> | 801 | [Base](/neptunia/rb2/dlc/0-base.html) | [Dogoo Jelly](/neptunia/rb2/item/0-801-dogoo-jelly.html) (Material) | 1 | 7 | 0 | 7 |
 | <input type="checkbox" id="rb2-item-0-863" class="trackbox" /> | 863 | [Base](/neptunia/rb2/dlc/0-base.html) | [Yellow Petal](/neptunia/rb2/item/0-863-yellow-petal.html) (Material) | 180 | 6 | 2 | 8 |
 | <input type="checkbox" id="rb2-item-0-873" class="trackbox" /> | 873 | [Base](/neptunia/rb2/dlc/0-base.html) | [Radisher Leaf](/neptunia/rb2/item/0-873-radisher-leaf.html) (Material) | 418 | 8 | 0 | 8 |
-| <input type="checkbox" id="rb2-item-0-906" class="trackbox" /> | 906 | [Base](/neptunia/rb2/dlc/0-base.html) | [Horsebird Wing](/neptunia/rb2/item/0-906-horsebird-wing.html) (Material) | 202 | 3 | 0 | 3 |
 
 ### From Harvest Shift gathering points
 
 |    | ID | DLC | Name | Sells for | Remakes¹ | Quests² | Total |
 | -- | -- | --- | ---- | --------- | -------- | ------- | ----: |
-| <input type="checkbox" id="rb2-item-0-701" class="trackbox" /> | 701 | [Base](/neptunia/rb2/dlc/0-base.html) | [Herb](/neptunia/rb2/item/0-701-herb.html) (Material) | 10 | 41 | 3 | 44 |
-| <input type="checkbox" id="rb2-item-0-723" class="trackbox" /> | 723 | [Base](/neptunia/rb2/dlc/0-base.html) | [Rock](/neptunia/rb2/item/0-723-rock.html) (Material) | 10 | 27 | 3 | 30 |
 | <input type="checkbox" id="rb2-item-0-801" class="trackbox" /> | 801 | [Base](/neptunia/rb2/dlc/0-base.html) | [Dogoo Jelly](/neptunia/rb2/item/0-801-dogoo-jelly.html) (Material) | 1 | 7 | 0 | 7 |
 | <input type="checkbox" id="rb2-item-0-863" class="trackbox" /> | 863 | [Base](/neptunia/rb2/dlc/0-base.html) | [Yellow Petal](/neptunia/rb2/item/0-863-yellow-petal.html) (Material) | 180 | 6 | 2 | 8 |
 | <input type="checkbox" id="rb2-item-0-873" class="trackbox" /> | 873 | [Base](/neptunia/rb2/dlc/0-base.html) | [Radisher Leaf](/neptunia/rb2/item/0-873-radisher-leaf.html) (Material) | 418 | 8 | 0 | 8 |
+| <input type="checkbox" id="rb2-item-0-906" class="trackbox" /> | 906 | [Base](/neptunia/rb2/dlc/0-base.html) | [Horsebird Wing](/neptunia/rb2/item/0-906-horsebird-wing.html) (Material) | 202 | 3 | 0 | 3 |
 
 ### From treasure gathering points
 
@@ -98,22 +96,22 @@ See [gathering point tables](#gathering-point-tables-for-virtua-forest) for more
 ### Normal
 
 
-| #  | Item 1 | Item 2 | Item 3 |
-| -- | ------ | ------ | ------ |
-| 1 | 50%: [Herb](/neptunia/rb2/item/0-701-herb.html) x2~3 | 50%: [Yellow Petal](/neptunia/rb2/item/0-863-yellow-petal.html) x1~2 | 25%: [Dogoo Jelly](/neptunia/rb2/item/0-801-dogoo-jelly.html) x1 |
-| 2 | 50%: [Rock](/neptunia/rb2/item/0-723-rock.html) x2~3 | 50%: [Radisher Leaf](/neptunia/rb2/item/0-873-radisher-leaf.html) x1~2 | 25%: [Yellow Petal](/neptunia/rb2/item/0-863-yellow-petal.html) x1 |
-| 3 | 50%: [Rock](/neptunia/rb2/item/0-723-rock.html) x2~3 | 50%: [Dogoo Jelly](/neptunia/rb2/item/0-801-dogoo-jelly.html) x1~2 | 25%: [Radisher Leaf](/neptunia/rb2/item/0-873-radisher-leaf.html) x1 |
-| 4 | 50%: [Herb](/neptunia/rb2/item/0-701-herb.html) x1~2 | 50%: [Horsebird Wing](/neptunia/rb2/item/0-906-horsebird-wing.html) x1~2 | 25%: [Rock](/neptunia/rb2/item/0-723-rock.html) x1 |
-
-### Item Change (Harvest Shift) enabled
-
-
 | #  | Item 1 | Item 2 |
 | -- | ------ | ------ |
 | 1 | 100%: [Herb](/neptunia/rb2/item/0-701-herb.html) x2~3 | 50%: [Dogoo Jelly](/neptunia/rb2/item/0-801-dogoo-jelly.html) x1 |
 | 2 | 100%: [Rock](/neptunia/rb2/item/0-723-rock.html) x2~3 | 50%: [Yellow Petal](/neptunia/rb2/item/0-863-yellow-petal.html) x1 |
 | 3 | 100%: [Rock](/neptunia/rb2/item/0-723-rock.html) x2~3 | 50%: [Radisher Leaf](/neptunia/rb2/item/0-873-radisher-leaf.html) x1 |
 | 4 | 100%: [Herb](/neptunia/rb2/item/0-701-herb.html) x1~2 | 50%: [Rock](/neptunia/rb2/item/0-723-rock.html) x1 |
+
+### Item Change (Harvest Shift) enabled
+
+
+| #  | Item 1 |
+| -- | ------ |
+| 1 | 100%: [Yellow Petal](/neptunia/rb2/item/0-863-yellow-petal.html) x1~2 |
+| 2 | 100%: [Radisher Leaf](/neptunia/rb2/item/0-873-radisher-leaf.html) x1~2 |
+| 3 | 100%: [Dogoo Jelly](/neptunia/rb2/item/0-801-dogoo-jelly.html) x1~2 |
+| 4 | 100%: [Horsebird Wing](/neptunia/rb2/item/0-906-horsebird-wing.html) x1~2 |
 
 ### Treasure
 

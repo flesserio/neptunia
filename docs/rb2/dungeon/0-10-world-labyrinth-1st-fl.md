@@ -36,9 +36,6 @@ See [gathering point tables](#gathering-point-tables-for-world-labyrinth-1st-fl)
 | <input type="checkbox" id="rb2-item-0-707" class="trackbox" /> | 707 | [Base](/neptunia/rb2/dlc/0-base.html) | [Copper Ore](/neptunia/rb2/item/0-707-copper-ore.html) (Material) | 75 | 20 | 0 | 20 |
 | <input type="checkbox" id="rb2-item-0-726" class="trackbox" /> | 726 | [Base](/neptunia/rb2/dlc/0-base.html) | [Data Crystal](/neptunia/rb2/item/0-726-data-crystal.html) (Material) | 100 | 24 | 0 | 24 |
 | <input type="checkbox" id="rb2-item-0-729" class="trackbox" /> | 729 | [Base](/neptunia/rb2/dlc/0-base.html) | [Model 4 Base](/neptunia/rb2/item/0-729-model-4-base.html) (Material) | 15 | 48 | 0 | 48 |
-| <input type="checkbox" id="rb2-item-0-815" class="trackbox" /> | 815 | [Base](/neptunia/rb2/dlc/0-base.html) | [Round Antenna](/neptunia/rb2/item/0-815-round-antenna.html) (Material) | 4 | 9 | 0 | 9 |
-| <input type="checkbox" id="rb2-item-0-839" class="trackbox" /> | 839 | [Base](/neptunia/rb2/dlc/0-base.html) | [Blue Block](/neptunia/rb2/item/0-839-blue-block.html) (Material) | 14 | 3 | 0 | 3 |
-| <input type="checkbox" id="rb2-item-0-887" class="trackbox" /> | 887 | [Base](/neptunia/rb2/dlc/0-base.html) | [Tokimeki](/neptunia/rb2/item/0-887-tokimeki.html) (Material) | 168 | 8 | 0 | 8 |
 | <input type="checkbox" id="rb2-item-0-4107" class="trackbox" /> | 4107 | [Base](/neptunia/rb2/dlc/0-base.html) | [Shooting RPG](/neptunia/rb2/item/0-4107-shooting-rpg.html) (Idea Chip (Yellow)) | 10 | 0 | 0 | 0 |
 | <input type="checkbox" id="rb2-item-0-4203" class="trackbox" /> | 4203 | [Base](/neptunia/rb2/dlc/0-base.html) | [Shot](/neptunia/rb2/item/0-4203-shot.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
 | <input type="checkbox" id="rb2-item-0-4248" class="trackbox" /> | 4248 | [Base](/neptunia/rb2/dlc/0-base.html) | [Famous Voice](/neptunia/rb2/item/0-4248-famous-voice.html) (Idea Chip (Red)) | 10 | 0 | 0 | 0 |
@@ -48,13 +45,14 @@ See [gathering point tables](#gathering-point-tables-for-world-labyrinth-1st-fl)
 
 |    | ID | DLC | Name | Sells for | Remakes¹ | Quests² | Total |
 | -- | -- | --- | ---- | --------- | -------- | ------- | ----: |
-| <input type="checkbox" id="rb2-item-0-848" class="trackbox" /> | 848 | [Base](/neptunia/rb2/dlc/0-base.html) | [Hard-met Piece](/neptunia/rb2/item/0-848-hard-met-piece.html) (Material) | 551 | 3 | 0 | 3 |
-| <input type="checkbox" id="rb2-item-0-929" class="trackbox" /> | 929 | [Base](/neptunia/rb2/dlc/0-base.html) | [Cat Paw](/neptunia/rb2/item/0-929-cat-paw.html) (Material) | 116 | 0 | 0 | 0 |
-| <input type="checkbox" id="rb2-item-0-949" class="trackbox" /> | 949 | [Base](/neptunia/rb2/dlc/0-base.html) | [Magical Contract](/neptunia/rb2/item/0-949-magical-contract.html) (Material) | 108 | 4 | 4 | 8 |
-| <input type="checkbox" id="rb2-item-0-4140" class="trackbox" /> | 4140 | [Base](/neptunia/rb2/dlc/0-base.html) | [Remake](/neptunia/rb2/item/0-4140-remake.html) (Idea Chip (Yellow)) | 10 | 0 | 0 | 0 |
-| <input type="checkbox" id="rb2-item-0-4201" class="trackbox" /> | 4201 | [Base](/neptunia/rb2/dlc/0-base.html) | [Horror](/neptunia/rb2/item/0-4201-horror.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
-| <input type="checkbox" id="rb2-item-0-4237" class="trackbox" /> | 4237 | [Base](/neptunia/rb2/dlc/0-base.html) | [Hardcore-oriented](/neptunia/rb2/item/0-4237-hardcore-oriented.html) (Idea Chip (Red)) | 10 | 0 | 0 | 0 |
-| <input type="checkbox" id="rb2-item-0-4256" class="trackbox" /> | 4256 | [Base](/neptunia/rb2/dlc/0-base.html) | [Million Aim](/neptunia/rb2/item/0-4256-million-aim.html) (Idea Chip (Red)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-707" class="trackbox" /> | 707 | [Base](/neptunia/rb2/dlc/0-base.html) | [Copper Ore](/neptunia/rb2/item/0-707-copper-ore.html) (Material) | 75 | 20 | 0 | 20 |
+| <input type="checkbox" id="rb2-item-0-815" class="trackbox" /> | 815 | [Base](/neptunia/rb2/dlc/0-base.html) | [Round Antenna](/neptunia/rb2/item/0-815-round-antenna.html) (Material) | 4 | 9 | 0 | 9 |
+| <input type="checkbox" id="rb2-item-0-839" class="trackbox" /> | 839 | [Base](/neptunia/rb2/dlc/0-base.html) | [Blue Block](/neptunia/rb2/item/0-839-blue-block.html) (Material) | 14 | 3 | 0 | 3 |
+| <input type="checkbox" id="rb2-item-0-887" class="trackbox" /> | 887 | [Base](/neptunia/rb2/dlc/0-base.html) | [Tokimeki](/neptunia/rb2/item/0-887-tokimeki.html) (Material) | 168 | 8 | 0 | 8 |
+| <input type="checkbox" id="rb2-item-0-4107" class="trackbox" /> | 4107 | [Base](/neptunia/rb2/dlc/0-base.html) | [Shooting RPG](/neptunia/rb2/item/0-4107-shooting-rpg.html) (Idea Chip (Yellow)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-4203" class="trackbox" /> | 4203 | [Base](/neptunia/rb2/dlc/0-base.html) | [Shot](/neptunia/rb2/item/0-4203-shot.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-4248" class="trackbox" /> | 4248 | [Base](/neptunia/rb2/dlc/0-base.html) | [Famous Voice](/neptunia/rb2/item/0-4248-famous-voice.html) (Idea Chip (Red)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-4268" class="trackbox" /> | 4268 | [Base](/neptunia/rb2/dlc/0-base.html) | [Linear](/neptunia/rb2/item/0-4268-linear.html) (Idea Chip (Red)) | 10 | 0 | 0 | 0 |
 
 ### From treasure gathering points
 
@@ -126,22 +124,22 @@ See [gathering point tables](#gathering-point-tables-for-world-labyrinth-1st-fl)
 ### Normal
 
 
-| #  | Item 1 | Item 2 | Item 3 | Item 4 | Item 5 |
-| -- | ------ | ------ | ------ | ------ | ------ |
-| 1 | 50%: [Data Crystal](/neptunia/rb2/item/0-726-data-crystal.html) x1~2 | 50%: [Round Antenna](/neptunia/rb2/item/0-815-round-antenna.html) x1~2 | 25%: [Iron Ore](/neptunia/rb2/item/0-706-iron-ore.html) x1 | 25%: [Famous Voice](/neptunia/rb2/item/0-4248-famous-voice.html) x1~2 | 7.5%: [Famous Voice](/neptunia/rb2/item/0-4248-famous-voice.html) x1 |
-| 2 | 50%: [Iron Ore](/neptunia/rb2/item/0-706-iron-ore.html) x1~2 | 50%: [Blue Block](/neptunia/rb2/item/0-839-blue-block.html) x1~2 | 25%: [Copper Ore](/neptunia/rb2/item/0-707-copper-ore.html) x1 | 25%: [Linear](/neptunia/rb2/item/0-4268-linear.html) x2~3 | 7.5%: [Linear](/neptunia/rb2/item/0-4268-linear.html) x1 |
-| 3 | 50%: [Model 4 Base](/neptunia/rb2/item/0-729-model-4-base.html) x1~2 | 50%: [Copper Ore](/neptunia/rb2/item/0-707-copper-ore.html) x1~2 | 25%: [Data Crystal](/neptunia/rb2/item/0-726-data-crystal.html) x1 | 25%: [Shot](/neptunia/rb2/item/0-4203-shot.html) x1~2 | 7.5%: [Shot](/neptunia/rb2/item/0-4203-shot.html) x1 |
-| 4 | 50%: [Copper Ore](/neptunia/rb2/item/0-707-copper-ore.html) x2~3 | 50%: [Tokimeki](/neptunia/rb2/item/0-887-tokimeki.html) x2~3 | 25%: [Data Crystal](/neptunia/rb2/item/0-726-data-crystal.html) x1 | 25%: [Shooting RPG](/neptunia/rb2/item/0-4107-shooting-rpg.html) x2~3 | 7.5%: [Shooting RPG](/neptunia/rb2/item/0-4107-shooting-rpg.html) x1 |
+| #  | Item 1 | Item 2 | Item 3 |
+| -- | ------ | ------ | ------ |
+| 1 | 100%: [Data Crystal](/neptunia/rb2/item/0-726-data-crystal.html) x1~2 | 50%: [Iron Ore](/neptunia/rb2/item/0-706-iron-ore.html) x1 | 15%: [Famous Voice](/neptunia/rb2/item/0-4248-famous-voice.html) x1 |
+| 2 | 100%: [Iron Ore](/neptunia/rb2/item/0-706-iron-ore.html) x1~2 | 50%: [Copper Ore](/neptunia/rb2/item/0-707-copper-ore.html) x1 | 15%: [Linear](/neptunia/rb2/item/0-4268-linear.html) x1 |
+| 3 | 100%: [Model 4 Base](/neptunia/rb2/item/0-729-model-4-base.html) x1~2 | 50%: [Data Crystal](/neptunia/rb2/item/0-726-data-crystal.html) x1 | 15%: [Shot](/neptunia/rb2/item/0-4203-shot.html) x1 |
+| 4 | 100%: [Copper Ore](/neptunia/rb2/item/0-707-copper-ore.html) x2~3 | 50%: [Data Crystal](/neptunia/rb2/item/0-726-data-crystal.html) x1 | 15%: [Shooting RPG](/neptunia/rb2/item/0-4107-shooting-rpg.html) x1 |
 
 ### Item Change (Harvest Shift) enabled
 
 
 | #  | Item 1 | Item 2 |
 | -- | ------ | ------ |
-| 1 | 100%: [Horror](/neptunia/rb2/item/0-4201-horror.html) x1~2 | 50%: [Hard-met Piece](/neptunia/rb2/item/0-848-hard-met-piece.html) x1 |
-| 2 | 100%: [Hardcore-oriented](/neptunia/rb2/item/0-4237-hardcore-oriented.html) x1~2 | 50%: [Magical Contract](/neptunia/rb2/item/0-949-magical-contract.html) x1 |
-| 3 | 100%: [Remake](/neptunia/rb2/item/0-4140-remake.html) x1~2 |
-| 4 | 100%: [Million Aim](/neptunia/rb2/item/0-4256-million-aim.html) x2~3 | 50%: [Cat Paw](/neptunia/rb2/item/0-929-cat-paw.html) x1 |
+| 1 | 100%: [Round Antenna](/neptunia/rb2/item/0-815-round-antenna.html) x1~2 | 50%: [Famous Voice](/neptunia/rb2/item/0-4248-famous-voice.html) x1~2 |
+| 2 | 100%: [Blue Block](/neptunia/rb2/item/0-839-blue-block.html) x1~2 | 50%: [Linear](/neptunia/rb2/item/0-4268-linear.html) x2~3 |
+| 3 | 100%: [Copper Ore](/neptunia/rb2/item/0-707-copper-ore.html) x1~2 | 50%: [Shot](/neptunia/rb2/item/0-4203-shot.html) x1~2 |
+| 4 | 100%: [Tokimeki](/neptunia/rb2/item/0-887-tokimeki.html) x2~3 | 50%: [Shooting RPG](/neptunia/rb2/item/0-4107-shooting-rpg.html) x2~3 |
 
 ### Treasure
 

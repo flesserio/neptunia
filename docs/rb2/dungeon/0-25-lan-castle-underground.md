@@ -32,7 +32,6 @@ See [gathering point tables](#gathering-point-tables-for-lan-castle-underground)
 
 |    | ID | DLC | Name | Sells for | Remakes¹ | Quests² | Total |
 | -- | -- | --- | ---- | --------- | -------- | ------- | ----: |
-| <input type="checkbox" id="rb2-item-0-705" class="trackbox" /> | 705 | [Base](/neptunia/rb2/dlc/0-base.html) | [World Tree Leaf](/neptunia/rb2/item/0-705-world-tree-leaf.html) (Material) | 100 | 22 | 5 | 27 |
 | <input type="checkbox" id="rb2-item-0-709" class="trackbox" /> | 709 | [Base](/neptunia/rb2/dlc/0-base.html) | [Gold Ore](/neptunia/rb2/item/0-709-gold-ore.html) (Material) | 200 | 14 | 5 | 19 |
 | <input type="checkbox" id="rb2-item-0-710" class="trackbox" /> | 710 | [Base](/neptunia/rb2/dlc/0-base.html) | [Orichalcum](/neptunia/rb2/item/0-710-orichalcum.html) (Material) | 250 | 13 | 5 | 18 |
 | <input type="checkbox" id="rb2-item-0-712" class="trackbox" /> | 712 | [Base](/neptunia/rb2/dlc/0-base.html) | [Crimson Stone](/neptunia/rb2/item/0-712-crimson-stone.html) (Material) | 450 | 21 | 0 | 21 |
@@ -45,9 +44,7 @@ See [gathering point tables](#gathering-point-tables-for-lan-castle-underground)
 
 |    | ID | DLC | Name | Sells for | Remakes¹ | Quests² | Total |
 | -- | -- | --- | ---- | --------- | -------- | ------- | ----: |
-| <input type="checkbox" id="rb2-item-0-709" class="trackbox" /> | 709 | [Base](/neptunia/rb2/dlc/0-base.html) | [Gold Ore](/neptunia/rb2/item/0-709-gold-ore.html) (Material) | 200 | 14 | 5 | 19 |
-| <input type="checkbox" id="rb2-item-0-710" class="trackbox" /> | 710 | [Base](/neptunia/rb2/dlc/0-base.html) | [Orichalcum](/neptunia/rb2/item/0-710-orichalcum.html) (Material) | 250 | 13 | 5 | 18 |
-| <input type="checkbox" id="rb2-item-0-712" class="trackbox" /> | 712 | [Base](/neptunia/rb2/dlc/0-base.html) | [Crimson Stone](/neptunia/rb2/item/0-712-crimson-stone.html) (Material) | 450 | 21 | 0 | 21 |
+| <input type="checkbox" id="rb2-item-0-705" class="trackbox" /> | 705 | [Base](/neptunia/rb2/dlc/0-base.html) | [World Tree Leaf](/neptunia/rb2/item/0-705-world-tree-leaf.html) (Material) | 100 | 22 | 5 | 27 |
 | <input type="checkbox" id="rb2-item-0-713" class="trackbox" /> | 713 | [Base](/neptunia/rb2/dlc/0-base.html) | [Fierodite](/neptunia/rb2/item/0-713-fierodite.html) (Material) | 1 | 13 | 0 | 13 |
 | <input type="checkbox" id="rb2-item-0-4123" class="trackbox" /> | 4123 | [Base](/neptunia/rb2/dlc/0-base.html) | [Girl Game](/neptunia/rb2/item/0-4123-girl-game.html) (Idea Chip (Yellow)) | 10 | 0 | 0 | 0 |
 | <input type="checkbox" id="rb2-item-0-4184" class="trackbox" /> | 4184 | [Base](/neptunia/rb2/dlc/0-base.html) | [Polygon](/neptunia/rb2/item/0-4184-polygon.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
@@ -116,20 +113,20 @@ See [gathering point tables](#gathering-point-tables-for-lan-castle-underground)
 ### Normal
 
 
-| #  | Item 1 | Item 2 | Item 3 | Item 4 | Item 5 |
-| -- | ------ | ------ | ------ | ------ | ------ |
-| 1 | 50%: [Gold Ore](/neptunia/rb2/item/0-709-gold-ore.html) x1~2 | 50%: [Fierodite](/neptunia/rb2/item/0-713-fierodite.html) x1~2 | 25%: [Orichalcum](/neptunia/rb2/item/0-710-orichalcum.html) x1 | 25%: [Girl Game](/neptunia/rb2/item/0-4123-girl-game.html) x2~3 | 7.5%: [Girl Game](/neptunia/rb2/item/0-4123-girl-game.html) x1 |
-| 2 | 50%: [Crimson Stone](/neptunia/rb2/item/0-712-crimson-stone.html) x1~2 | 50%: [World Tree Leaf](/neptunia/rb2/item/0-705-world-tree-leaf.html) x1~2 | 25%: [Fierodite](/neptunia/rb2/item/0-713-fierodite.html) x1 | 25%: [Polygon](/neptunia/rb2/item/0-4184-polygon.html) x1~3 | 7.5%: [Polygon](/neptunia/rb2/item/0-4184-polygon.html) x1 |
-| 3 | 50%: [Orichalcum](/neptunia/rb2/item/0-710-orichalcum.html) x1~2 | 50%: [World Tree Leaf](/neptunia/rb2/item/0-705-world-tree-leaf.html) x1~2 | 25%: [Gold Ore](/neptunia/rb2/item/0-709-gold-ore.html) x1 | 25%: [History](/neptunia/rb2/item/0-4264-history.html) x2~3 | 7.5%: [History](/neptunia/rb2/item/0-4264-history.html) x1 |
-
-### Item Change (Harvest Shift) enabled
-
-
 | #  | Item 1 | Item 2 | Item 3 |
 | -- | ------ | ------ | ------ |
 | 1 | 100%: [Gold Ore](/neptunia/rb2/item/0-709-gold-ore.html) x1~2 | 50%: [Orichalcum](/neptunia/rb2/item/0-710-orichalcum.html) x1 | 15%: [Girl Game](/neptunia/rb2/item/0-4123-girl-game.html) x1 |
 | 2 | 100%: [Crimson Stone](/neptunia/rb2/item/0-712-crimson-stone.html) x1~2 | 50%: [Fierodite](/neptunia/rb2/item/0-713-fierodite.html) x1 | 15%: [Polygon](/neptunia/rb2/item/0-4184-polygon.html) x1 |
 | 3 | 100%: [Orichalcum](/neptunia/rb2/item/0-710-orichalcum.html) x1~2 | 50%: [Gold Ore](/neptunia/rb2/item/0-709-gold-ore.html) x1 | 15%: [History](/neptunia/rb2/item/0-4264-history.html) x1 |
+
+### Item Change (Harvest Shift) enabled
+
+
+| #  | Item 1 | Item 2 |
+| -- | ------ | ------ |
+| 1 | 100%: [Fierodite](/neptunia/rb2/item/0-713-fierodite.html) x1~2 | 50%: [Girl Game](/neptunia/rb2/item/0-4123-girl-game.html) x2~3 |
+| 2 | 100%: [World Tree Leaf](/neptunia/rb2/item/0-705-world-tree-leaf.html) x1~2 | 50%: [Polygon](/neptunia/rb2/item/0-4184-polygon.html) x1~3 |
+| 3 | 100%: [World Tree Leaf](/neptunia/rb2/item/0-705-world-tree-leaf.html) x1~2 | 50%: [History](/neptunia/rb2/item/0-4264-history.html) x2~3 |
 
 ### Treasure
 

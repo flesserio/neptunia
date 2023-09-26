@@ -36,9 +36,6 @@ See [gathering point tables](#gathering-point-tables-for-midcompany) for more in
 | <input type="checkbox" id="rb2-item-0-720" class="trackbox" /> | 720 | [Base](/neptunia/rb2/dlc/0-base.html) | [Dense Earth Stone](/neptunia/rb2/item/0-720-dense-earth-stone.html) (Material) | 250 | 12 | 0 | 12 |
 | <input type="checkbox" id="rb2-item-0-724" class="trackbox" /> | 724 | [Base](/neptunia/rb2/dlc/0-base.html) | [Piece of Concrete](/neptunia/rb2/item/0-724-piece-of-concrete.html) (Material) | 150 | 8 | 0 | 8 |
 | <input type="checkbox" id="rb2-item-0-729" class="trackbox" /> | 729 | [Base](/neptunia/rb2/dlc/0-base.html) | [Model 4 Base](/neptunia/rb2/item/0-729-model-4-base.html) (Material) | 15 | 48 | 0 | 48 |
-| <input type="checkbox" id="rb2-item-0-802" class="trackbox" /> | 802 | [Base](/neptunia/rb2/dlc/0-base.html) | [Orange Jelly](/neptunia/rb2/item/0-802-orange-jelly.html) (Material) | 0 | 7 | 0 | 7 |
-| <input type="checkbox" id="rb2-item-0-822" class="trackbox" /> | 822 | [Base](/neptunia/rb2/dlc/0-base.html) | [Block Nose](/neptunia/rb2/item/0-822-block-nose.html) (Material) | 6 | 8 | 0 | 8 |
-| <input type="checkbox" id="rb2-item-0-910" class="trackbox" /> | 910 | [Base](/neptunia/rb2/dlc/0-base.html) | [Illegal Memory](/neptunia/rb2/item/0-910-illegal-memory.html) (Material) | 110 | 1 | 0 | 1 |
 | <input type="checkbox" id="rb2-item-0-4228" class="trackbox" /> | 4228 | [Base](/neptunia/rb2/dlc/0-base.html) | [Low Price](/neptunia/rb2/item/0-4228-low-price.html) (Idea Chip (Red)) | 10 | 0 | 0 | 0 |
 | <input type="checkbox" id="rb2-item-0-4233" class="trackbox" /> | 4233 | [Base](/neptunia/rb2/dlc/0-base.html) | [Big Online](/neptunia/rb2/item/0-4233-big-online.html) (Idea Chip (Red)) | 10 | 0 | 0 | 0 |
 | <input type="checkbox" id="rb2-item-0-4258" class="trackbox" /> | 4258 | [Base](/neptunia/rb2/dlc/0-base.html) | [Preorder Campaign](/neptunia/rb2/item/0-4258-preorder-campaign.html) (Idea Chip (Red)) | 10 | 0 | 0 | 0 |
@@ -48,13 +45,14 @@ See [gathering point tables](#gathering-point-tables-for-midcompany) for more in
 
 |    | ID | DLC | Name | Sells for | Remakes¹ | Quests² | Total |
 | -- | -- | --- | ---- | --------- | -------- | ------- | ----: |
-| <input type="checkbox" id="rb2-item-0-882" class="trackbox" /> | 882 | [Base](/neptunia/rb2/dlc/0-base.html) | [Boxbird Wing](/neptunia/rb2/item/0-882-boxbird-wing.html) (Material) | 62 | 0 | 0 | 0 |
-| <input type="checkbox" id="rb2-item-0-912" class="trackbox" /> | 912 | [Base](/neptunia/rb2/dlc/0-base.html) | [Illegal ROM](/neptunia/rb2/item/0-912-illegal-rom.html) (Material) | 233 | 6 | 0 | 6 |
-| <input type="checkbox" id="rb2-item-0-950" class="trackbox" /> | 950 | [Base](/neptunia/rb2/dlc/0-base.html) | [Phantom Wing](/neptunia/rb2/item/0-950-phantom-wing.html) (Material) | 60 | 42 | 0 | 42 |
-| <input type="checkbox" id="rb2-item-0-4128" class="trackbox" /> | 4128 | [Base](/neptunia/rb2/dlc/0-base.html) | [Quiz](/neptunia/rb2/item/0-4128-quiz.html) (Idea Chip (Yellow)) | 10 | 0 | 0 | 0 |
-| <input type="checkbox" id="rb2-item-0-4185" class="trackbox" /> | 4185 | [Base](/neptunia/rb2/dlc/0-base.html) | [Anime](/neptunia/rb2/item/0-4185-anime.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
-| <input type="checkbox" id="rb2-item-0-4223" class="trackbox" /> | 4223 | [Base](/neptunia/rb2/dlc/0-base.html) | [Slot](/neptunia/rb2/item/0-4223-slot.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
-| <input type="checkbox" id="rb2-item-0-4280" class="trackbox" /> | 4280 | [Base](/neptunia/rb2/dlc/0-base.html) | [Nature](/neptunia/rb2/item/0-4280-nature.html) (Idea Chip (Red)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-706" class="trackbox" /> | 706 | [Base](/neptunia/rb2/dlc/0-base.html) | [Iron Ore](/neptunia/rb2/item/0-706-iron-ore.html) (Material) | 50 | 23 | 0 | 23 |
+| <input type="checkbox" id="rb2-item-0-802" class="trackbox" /> | 802 | [Base](/neptunia/rb2/dlc/0-base.html) | [Orange Jelly](/neptunia/rb2/item/0-802-orange-jelly.html) (Material) | 0 | 7 | 0 | 7 |
+| <input type="checkbox" id="rb2-item-0-822" class="trackbox" /> | 822 | [Base](/neptunia/rb2/dlc/0-base.html) | [Block Nose](/neptunia/rb2/item/0-822-block-nose.html) (Material) | 6 | 8 | 0 | 8 |
+| <input type="checkbox" id="rb2-item-0-910" class="trackbox" /> | 910 | [Base](/neptunia/rb2/dlc/0-base.html) | [Illegal Memory](/neptunia/rb2/item/0-910-illegal-memory.html) (Material) | 110 | 1 | 0 | 1 |
+| <input type="checkbox" id="rb2-item-0-4228" class="trackbox" /> | 4228 | [Base](/neptunia/rb2/dlc/0-base.html) | [Low Price](/neptunia/rb2/item/0-4228-low-price.html) (Idea Chip (Red)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-4233" class="trackbox" /> | 4233 | [Base](/neptunia/rb2/dlc/0-base.html) | [Big Online](/neptunia/rb2/item/0-4233-big-online.html) (Idea Chip (Red)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-4258" class="trackbox" /> | 4258 | [Base](/neptunia/rb2/dlc/0-base.html) | [Preorder Campaign](/neptunia/rb2/item/0-4258-preorder-campaign.html) (Idea Chip (Red)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-4278" class="trackbox" /> | 4278 | [Base](/neptunia/rb2/dlc/0-base.html) | [Orthodox](/neptunia/rb2/item/0-4278-orthodox.html) (Idea Chip (Red)) | 10 | 0 | 0 | 0 |
 
 ### From treasure gathering points
 
@@ -123,22 +121,22 @@ See [gathering point tables](#gathering-point-tables-for-midcompany) for more in
 ### Normal
 
 
-| #  | Item 1 | Item 2 | Item 3 | Item 4 | Item 5 |
-| -- | ------ | ------ | ------ | ------ | ------ |
-| 1 | 50%: [Piece of Concrete](/neptunia/rb2/item/0-724-piece-of-concrete.html) x1~2 | 50%: [Orange Jelly](/neptunia/rb2/item/0-802-orange-jelly.html) x1~2 | 25%: [Iron Ore](/neptunia/rb2/item/0-706-iron-ore.html) x1 | 25%: [Low Price](/neptunia/rb2/item/0-4228-low-price.html) x2~4 | 7.5%: [Low Price](/neptunia/rb2/item/0-4228-low-price.html) x1 |
-| 2 | 50%: [Model 4 Base](/neptunia/rb2/item/0-729-model-4-base.html) x1~2 | 50%: [Iron Ore](/neptunia/rb2/item/0-706-iron-ore.html) x1~2 | 25%: [Dense Earth Stone](/neptunia/rb2/item/0-720-dense-earth-stone.html) x1 | 25%: [Big Online](/neptunia/rb2/item/0-4233-big-online.html) x2~3 | 7.5%: [Big Online](/neptunia/rb2/item/0-4233-big-online.html) x1 |
-| 3 | 50%: [Dense Earth Stone](/neptunia/rb2/item/0-720-dense-earth-stone.html) x1~2 | 50%: [Block Nose](/neptunia/rb2/item/0-822-block-nose.html) x1~2 | 25%: [Piece of Concrete](/neptunia/rb2/item/0-724-piece-of-concrete.html) x1 | 25%: [Preorder Campaign](/neptunia/rb2/item/0-4258-preorder-campaign.html) x2~3 | 7.5%: [Preorder Campaign](/neptunia/rb2/item/0-4258-preorder-campaign.html) x1 |
-| 4 | 50%: [Piece of Concrete](/neptunia/rb2/item/0-724-piece-of-concrete.html) x1~2 | 50%: [Illegal Memory](/neptunia/rb2/item/0-910-illegal-memory.html) x1~2 | 25%: [Model 4 Base](/neptunia/rb2/item/0-729-model-4-base.html) x1 | 25%: [Orthodox](/neptunia/rb2/item/0-4278-orthodox.html) x1~3 | 7.5%: [Orthodox](/neptunia/rb2/item/0-4278-orthodox.html) x1 |
+| #  | Item 1 | Item 2 | Item 3 |
+| -- | ------ | ------ | ------ |
+| 1 | 100%: [Piece of Concrete](/neptunia/rb2/item/0-724-piece-of-concrete.html) x1~2 | 50%: [Iron Ore](/neptunia/rb2/item/0-706-iron-ore.html) x1 | 15%: [Low Price](/neptunia/rb2/item/0-4228-low-price.html) x1 |
+| 2 | 100%: [Model 4 Base](/neptunia/rb2/item/0-729-model-4-base.html) x1~2 | 50%: [Dense Earth Stone](/neptunia/rb2/item/0-720-dense-earth-stone.html) x1 | 15%: [Big Online](/neptunia/rb2/item/0-4233-big-online.html) x1 |
+| 3 | 100%: [Dense Earth Stone](/neptunia/rb2/item/0-720-dense-earth-stone.html) x1~2 | 50%: [Piece of Concrete](/neptunia/rb2/item/0-724-piece-of-concrete.html) x1 | 15%: [Preorder Campaign](/neptunia/rb2/item/0-4258-preorder-campaign.html) x1 |
+| 4 | 100%: [Piece of Concrete](/neptunia/rb2/item/0-724-piece-of-concrete.html) x1~2 | 50%: [Model 4 Base](/neptunia/rb2/item/0-729-model-4-base.html) x1 | 15%: [Orthodox](/neptunia/rb2/item/0-4278-orthodox.html) x1 |
 
 ### Item Change (Harvest Shift) enabled
 
 
 | #  | Item 1 | Item 2 |
 | -- | ------ | ------ |
-| 1 | 100%: [Nature](/neptunia/rb2/item/0-4280-nature.html) x1~2 | 50%: [Boxbird Wing](/neptunia/rb2/item/0-882-boxbird-wing.html) x1 |
-| 2 | 100%: [Slot](/neptunia/rb2/item/0-4223-slot.html) x1~2 | 50%: [Phantom Wing](/neptunia/rb2/item/0-950-phantom-wing.html) x1 |
-| 3 | 100%: [Anime](/neptunia/rb2/item/0-4185-anime.html) x1~2 |
-| 4 | 100%: [Quiz](/neptunia/rb2/item/0-4128-quiz.html) x1~2 | 50%: [Illegal ROM](/neptunia/rb2/item/0-912-illegal-rom.html) x1 |
+| 1 | 100%: [Orange Jelly](/neptunia/rb2/item/0-802-orange-jelly.html) x1~2 | 50%: [Low Price](/neptunia/rb2/item/0-4228-low-price.html) x2~4 |
+| 2 | 100%: [Iron Ore](/neptunia/rb2/item/0-706-iron-ore.html) x1~2 | 50%: [Big Online](/neptunia/rb2/item/0-4233-big-online.html) x2~3 |
+| 3 | 100%: [Block Nose](/neptunia/rb2/item/0-822-block-nose.html) x1~2 | 50%: [Preorder Campaign](/neptunia/rb2/item/0-4258-preorder-campaign.html) x2~3 |
+| 4 | 100%: [Illegal Memory](/neptunia/rb2/item/0-910-illegal-memory.html) x1~2 | 50%: [Orthodox](/neptunia/rb2/item/0-4278-orthodox.html) x1~3 |
 
 ### Treasure
 

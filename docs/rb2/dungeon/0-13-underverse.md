@@ -36,10 +36,7 @@ See [gathering point tables](#gathering-point-tables-for-underverse) for more in
 | <input type="checkbox" id="rb2-item-0-711" class="trackbox" /> | 711 | [Base](/neptunia/rb2/dlc/0-base.html) | [Thermodite](/neptunia/rb2/item/0-711-thermodite.html) (Material) | 525 | 9 | 0 | 9 |
 | <input type="checkbox" id="rb2-item-0-712" class="trackbox" /> | 712 | [Base](/neptunia/rb2/dlc/0-base.html) | [Crimson Stone](/neptunia/rb2/item/0-712-crimson-stone.html) (Material) | 450 | 21 | 0 | 21 |
 | <input type="checkbox" id="rb2-item-0-723" class="trackbox" /> | 723 | [Base](/neptunia/rb2/dlc/0-base.html) | [Rock](/neptunia/rb2/item/0-723-rock.html) (Material) | 10 | 27 | 3 | 30 |
-| <input type="checkbox" id="rb2-item-0-820" class="trackbox" /> | 820 | [Base](/neptunia/rb2/dlc/0-base.html) | [Pink Plate](/neptunia/rb2/item/0-820-pink-plate.html) (Material) | 4 | 4 | 0 | 4 |
 | <input type="checkbox" id="rb2-item-0-844" class="trackbox" /> | 844 | [Base](/neptunia/rb2/dlc/0-base.html) | [Plumindigo Piece](/neptunia/rb2/item/0-844-plumindigo-piece.html) (Material) | 15 | 5 | 3 | 8 |
-| <input type="checkbox" id="rb2-item-0-850" class="trackbox" /> | 850 | [Base](/neptunia/rb2/dlc/0-base.html) | [Heat Cloth](/neptunia/rb2/item/0-850-heat-cloth.html) (Material) | 62 | 5 | 0 | 5 |
-| <input type="checkbox" id="rb2-item-0-857" class="trackbox" /> | 857 | [Base](/neptunia/rb2/dlc/0-base.html) | [Black Ribbon](/neptunia/rb2/item/0-857-black-ribbon.html) (Material) | 1595 | 5 | 0 | 5 |
 | <input type="checkbox" id="rb2-item-0-4119" class="trackbox" /> | 4119 | [Base](/neptunia/rb2/dlc/0-base.html) | [Soccer](/neptunia/rb2/item/0-4119-soccer.html) (Idea Chip (Yellow)) | 10 | 0 | 0 | 0 |
 | <input type="checkbox" id="rb2-item-0-4194" class="trackbox" /> | 4194 | [Base](/neptunia/rb2/dlc/0-base.html) | [Color Editor](/neptunia/rb2/item/0-4194-color-editor.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
 | <input type="checkbox" id="rb2-item-0-4218" class="trackbox" /> | 4218 | [Base](/neptunia/rb2/dlc/0-base.html) | [Random Encounters](/neptunia/rb2/item/0-4218-random-encounters.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
@@ -49,13 +46,14 @@ See [gathering point tables](#gathering-point-tables-for-underverse) for more in
 
 |    | ID | DLC | Name | Sells for | Remakes¹ | Quests² | Total |
 | -- | -- | --- | ---- | --------- | -------- | ------- | ----: |
-| <input type="checkbox" id="rb2-item-0-937" class="trackbox" /> | 937 | [Base](/neptunia/rb2/dlc/0-base.html) | [Flamin' Bone](/neptunia/rb2/item/0-937-flamin-bone.html) (Material) | 327 | 3 | 0 | 3 |
-| <input type="checkbox" id="rb2-item-0-943" class="trackbox" /> | 943 | [Base](/neptunia/rb2/dlc/0-base.html) | [Very Large Beak](/neptunia/rb2/item/0-943-very-large-beak.html) (Material) | 170 | 0 | 0 | 0 |
-| <input type="checkbox" id="rb2-item-0-953" class="trackbox" /> | 953 | [Base](/neptunia/rb2/dlc/0-base.html) | [Fire Crystal](/neptunia/rb2/item/0-953-fire-crystal.html) (Material) | 727 | 3 | 0 | 3 |
-| <input type="checkbox" id="rb2-item-0-4138" class="trackbox" /> | 4138 | [Base](/neptunia/rb2/dlc/0-base.html) | [Series](/neptunia/rb2/item/0-4138-series.html) (Idea Chip (Yellow)) | 10 | 0 | 0 | 0 |
-| <input type="checkbox" id="rb2-item-0-4175" class="trackbox" /> | 4175 | [Base](/neptunia/rb2/dlc/0-base.html) | [Weird Sidekick](/neptunia/rb2/item/0-4175-weird-sidekick.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
-| <input type="checkbox" id="rb2-item-0-4189" class="trackbox" /> | 4189 | [Base](/neptunia/rb2/dlc/0-base.html) | [Special Peripheral](/neptunia/rb2/item/0-4189-special-peripheral.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
-| <input type="checkbox" id="rb2-item-0-4245" class="trackbox" /> | 4245 | [Base](/neptunia/rb2/dlc/0-base.html) | [Love](/neptunia/rb2/item/0-4245-love.html) (Idea Chip (Red)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-712" class="trackbox" /> | 712 | [Base](/neptunia/rb2/dlc/0-base.html) | [Crimson Stone](/neptunia/rb2/item/0-712-crimson-stone.html) (Material) | 450 | 21 | 0 | 21 |
+| <input type="checkbox" id="rb2-item-0-820" class="trackbox" /> | 820 | [Base](/neptunia/rb2/dlc/0-base.html) | [Pink Plate](/neptunia/rb2/item/0-820-pink-plate.html) (Material) | 4 | 4 | 0 | 4 |
+| <input type="checkbox" id="rb2-item-0-850" class="trackbox" /> | 850 | [Base](/neptunia/rb2/dlc/0-base.html) | [Heat Cloth](/neptunia/rb2/item/0-850-heat-cloth.html) (Material) | 62 | 5 | 0 | 5 |
+| <input type="checkbox" id="rb2-item-0-857" class="trackbox" /> | 857 | [Base](/neptunia/rb2/dlc/0-base.html) | [Black Ribbon](/neptunia/rb2/item/0-857-black-ribbon.html) (Material) | 1595 | 5 | 0 | 5 |
+| <input type="checkbox" id="rb2-item-0-4119" class="trackbox" /> | 4119 | [Base](/neptunia/rb2/dlc/0-base.html) | [Soccer](/neptunia/rb2/item/0-4119-soccer.html) (Idea Chip (Yellow)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-4194" class="trackbox" /> | 4194 | [Base](/neptunia/rb2/dlc/0-base.html) | [Color Editor](/neptunia/rb2/item/0-4194-color-editor.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-4218" class="trackbox" /> | 4218 | [Base](/neptunia/rb2/dlc/0-base.html) | [Random Encounters](/neptunia/rb2/item/0-4218-random-encounters.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-4281" class="trackbox" /> | 4281 | [Base](/neptunia/rb2/dlc/0-base.html) | [Near Future](/neptunia/rb2/item/0-4281-near-future.html) (Idea Chip (Red)) | 10 | 0 | 0 | 0 |
 
 ### From treasure gathering points
 
@@ -123,22 +121,22 @@ See [gathering point tables](#gathering-point-tables-for-underverse) for more in
 ### Normal
 
 
-| #  | Item 1 | Item 2 | Item 3 | Item 4 | Item 5 |
-| -- | ------ | ------ | ------ | ------ | ------ |
-| 1 | 50%: [Iron Ore](/neptunia/rb2/item/0-706-iron-ore.html) x1 | 50%: [Heat Cloth](/neptunia/rb2/item/0-850-heat-cloth.html) x1~2 | 25%: [Thermodite](/neptunia/rb2/item/0-711-thermodite.html) x1 | 25%: [Soccer](/neptunia/rb2/item/0-4119-soccer.html) x1~2 | 7.5%: [Soccer](/neptunia/rb2/item/0-4119-soccer.html) x1 |
-| 2 | 50%: [Thermodite](/neptunia/rb2/item/0-711-thermodite.html) x1 | 50%: [Black Ribbon](/neptunia/rb2/item/0-857-black-ribbon.html) x1~2 | 25%: [Plumindigo Piece](/neptunia/rb2/item/0-844-plumindigo-piece.html) x1 | 25%: [Random Encounters](/neptunia/rb2/item/0-4218-random-encounters.html) x1~2 | 7.5%: [Random Encounters](/neptunia/rb2/item/0-4218-random-encounters.html) x1 |
-| 3 | 50%: [Rock](/neptunia/rb2/item/0-723-rock.html) x1 | 50%: [Crimson Stone](/neptunia/rb2/item/0-712-crimson-stone.html) x1~2 | 25%: [Iron Ore](/neptunia/rb2/item/0-706-iron-ore.html) x1 | 25%: [Near Future](/neptunia/rb2/item/0-4281-near-future.html) x1~2 | 7.5%: [Near Future](/neptunia/rb2/item/0-4281-near-future.html) x1 |
-| 4 | 50%: [Thermodite](/neptunia/rb2/item/0-711-thermodite.html) x1~2 | 50%: [Pink Plate](/neptunia/rb2/item/0-820-pink-plate.html) x1~2 | 25%: [Crimson Stone](/neptunia/rb2/item/0-712-crimson-stone.html) x1 | 25%: [Color Editor](/neptunia/rb2/item/0-4194-color-editor.html) x2~3 | 7.5%: [Color Editor](/neptunia/rb2/item/0-4194-color-editor.html) x1 |
+| #  | Item 1 | Item 2 | Item 3 |
+| -- | ------ | ------ | ------ |
+| 1 | 100%: [Iron Ore](/neptunia/rb2/item/0-706-iron-ore.html) x1 | 50%: [Thermodite](/neptunia/rb2/item/0-711-thermodite.html) x1 | 15%: [Soccer](/neptunia/rb2/item/0-4119-soccer.html) x1 |
+| 2 | 100%: [Thermodite](/neptunia/rb2/item/0-711-thermodite.html) x1 | 50%: [Plumindigo Piece](/neptunia/rb2/item/0-844-plumindigo-piece.html) x1 | 15%: [Random Encounters](/neptunia/rb2/item/0-4218-random-encounters.html) x1 |
+| 3 | 100%: [Rock](/neptunia/rb2/item/0-723-rock.html) x1 | 50%: [Iron Ore](/neptunia/rb2/item/0-706-iron-ore.html) x1 | 15%: [Near Future](/neptunia/rb2/item/0-4281-near-future.html) x1 |
+| 4 | 100%: [Thermodite](/neptunia/rb2/item/0-711-thermodite.html) x1~2 | 50%: [Crimson Stone](/neptunia/rb2/item/0-712-crimson-stone.html) x1 | 15%: [Color Editor](/neptunia/rb2/item/0-4194-color-editor.html) x1 |
 
 ### Item Change (Harvest Shift) enabled
 
 
 | #  | Item 1 | Item 2 |
 | -- | ------ | ------ |
-| 1 | 100%: [Weird Sidekick](/neptunia/rb2/item/0-4175-weird-sidekick.html) x1 | 50%: [Flamin' Bone](/neptunia/rb2/item/0-937-flamin-bone.html) x1 |
-| 2 | 100%: [Special Peripheral](/neptunia/rb2/item/0-4189-special-peripheral.html) x1 | 50%: [Fire Crystal](/neptunia/rb2/item/0-953-fire-crystal.html) x1 |
-| 3 | 100%: [Love](/neptunia/rb2/item/0-4245-love.html) x1 | 50%: [Very Large Beak](/neptunia/rb2/item/0-943-very-large-beak.html) x1 |
-| 4 | 100%: [Series](/neptunia/rb2/item/0-4138-series.html) x1~2 |
+| 1 | 100%: [Heat Cloth](/neptunia/rb2/item/0-850-heat-cloth.html) x1~2 | 50%: [Soccer](/neptunia/rb2/item/0-4119-soccer.html) x1~2 |
+| 2 | 100%: [Black Ribbon](/neptunia/rb2/item/0-857-black-ribbon.html) x1~2 | 50%: [Random Encounters](/neptunia/rb2/item/0-4218-random-encounters.html) x1~2 |
+| 3 | 100%: [Crimson Stone](/neptunia/rb2/item/0-712-crimson-stone.html) x1~2 | 50%: [Near Future](/neptunia/rb2/item/0-4281-near-future.html) x1~2 |
+| 4 | 100%: [Pink Plate](/neptunia/rb2/item/0-820-pink-plate.html) x1~2 | 50%: [Color Editor](/neptunia/rb2/item/0-4194-color-editor.html) x2~3 |
 
 ### Treasure
 

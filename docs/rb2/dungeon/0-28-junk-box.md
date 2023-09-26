@@ -120,22 +120,22 @@ See [gathering point tables](#gathering-point-tables-for-junk-box) for more info
 ### Normal
 
 
-| #  | Item 1 | Item 2 | Item 3 | Item 4 | Item 5 |
-| -- | ------ | ------ | ------ | ------ | ------ |
-| 1 | 50%: [Gold Ore](/neptunia/rb2/item/0-709-gold-ore.html) x1~2 | 50%: [Gold Ore](/neptunia/rb2/item/0-709-gold-ore.html) x1~2 | 25%: [Erde Crystal](/neptunia/rb2/item/0-728-erde-crystal.html) x1 | 25%: [MMO](/neptunia/rb2/item/0-4155-mmo.html) x1 | 7.5%: [MMO](/neptunia/rb2/item/0-4155-mmo.html) x1 |
-| 2 | 50%: [Gold Ore](/neptunia/rb2/item/0-709-gold-ore.html) x1~2 | 50%: [Gale Stone](/neptunia/rb2/item/0-718-gale-stone.html) x1~2 | 25%: [Gale Stone](/neptunia/rb2/item/0-718-gale-stone.html) x1 | 25%: [Silhouette](/neptunia/rb2/item/0-4180-silhouette.html) x2~3 | 7.5%: [Silhouette](/neptunia/rb2/item/0-4180-silhouette.html) x1 |
-| 3 | 50%: [Gale Stone](/neptunia/rb2/item/0-718-gale-stone.html) x1~2 | 50%: [Storm Stone](/neptunia/rb2/item/0-719-storm-stone.html) x1~2 | 25%: [Erde Crystal](/neptunia/rb2/item/0-728-erde-crystal.html) x1 | 25%: [Mediamix Strategy](/neptunia/rb2/item/0-4260-mediamix-strategy.html) x2~3 | 7.5%: [Mediamix Strategy](/neptunia/rb2/item/0-4260-mediamix-strategy.html) x1 |
-| 4 | 50%: [Erde Crystal](/neptunia/rb2/item/0-728-erde-crystal.html) x1~2 | 50%: [Erde Crystal](/neptunia/rb2/item/0-728-erde-crystal.html) x1~2 | 25%: [Storm Stone](/neptunia/rb2/item/0-719-storm-stone.html) x1 | 25%: [Strategy RPG](/neptunia/rb2/item/0-4110-strategy-rpg.html) x1~3 | 7.5%: [Strategy RPG](/neptunia/rb2/item/0-4110-strategy-rpg.html) x1 |
-
-### Item Change (Harvest Shift) enabled
-
-
 | #  | Item 1 | Item 2 | Item 3 |
 | -- | ------ | ------ | ------ |
 | 1 | 100%: [Gold Ore](/neptunia/rb2/item/0-709-gold-ore.html) x1~2 | 50%: [Erde Crystal](/neptunia/rb2/item/0-728-erde-crystal.html) x1 | 15%: [MMO](/neptunia/rb2/item/0-4155-mmo.html) x1 |
 | 2 | 100%: [Gold Ore](/neptunia/rb2/item/0-709-gold-ore.html) x1~2 | 50%: [Gale Stone](/neptunia/rb2/item/0-718-gale-stone.html) x1 | 15%: [Silhouette](/neptunia/rb2/item/0-4180-silhouette.html) x1 |
 | 3 | 100%: [Gale Stone](/neptunia/rb2/item/0-718-gale-stone.html) x1~2 | 50%: [Erde Crystal](/neptunia/rb2/item/0-728-erde-crystal.html) x1 | 15%: [Mediamix Strategy](/neptunia/rb2/item/0-4260-mediamix-strategy.html) x1 |
 | 4 | 100%: [Erde Crystal](/neptunia/rb2/item/0-728-erde-crystal.html) x1~2 | 50%: [Storm Stone](/neptunia/rb2/item/0-719-storm-stone.html) x1 | 15%: [Strategy RPG](/neptunia/rb2/item/0-4110-strategy-rpg.html) x1 |
+
+### Item Change (Harvest Shift) enabled
+
+
+| #  | Item 1 | Item 2 |
+| -- | ------ | ------ |
+| 1 | 100%: [Gold Ore](/neptunia/rb2/item/0-709-gold-ore.html) x1~2 | 50%: [MMO](/neptunia/rb2/item/0-4155-mmo.html) x1 |
+| 2 | 100%: [Gale Stone](/neptunia/rb2/item/0-718-gale-stone.html) x1~2 | 50%: [Silhouette](/neptunia/rb2/item/0-4180-silhouette.html) x2~3 |
+| 3 | 100%: [Storm Stone](/neptunia/rb2/item/0-719-storm-stone.html) x1~2 | 50%: [Mediamix Strategy](/neptunia/rb2/item/0-4260-mediamix-strategy.html) x2~3 |
+| 4 | 100%: [Erde Crystal](/neptunia/rb2/item/0-728-erde-crystal.html) x1~2 | 50%: [Strategy RPG](/neptunia/rb2/item/0-4110-strategy-rpg.html) x1~3 |
 
 ### Treasure
 

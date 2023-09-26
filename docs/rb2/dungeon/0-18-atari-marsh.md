@@ -36,8 +36,6 @@ See [gathering point tables](#gathering-point-tables-for-atari-marsh) for more i
 | <input type="checkbox" id="rb2-item-0-703" class="trackbox" /> | 703 | [Base](/neptunia/rb2/dlc/0-base.html) | [Glowgrass](/neptunia/rb2/item/0-703-glowgrass.html) (Material) | 25 | 36 | 0 | 36 |
 | <input type="checkbox" id="rb2-item-0-704" class="trackbox" /> | 704 | [Base](/neptunia/rb2/dlc/0-base.html) | [Refresh Herb](/neptunia/rb2/item/0-704-refresh-herb.html) (Material) | 75 | 32 | 0 | 32 |
 | <input type="checkbox" id="rb2-item-0-723" class="trackbox" /> | 723 | [Base](/neptunia/rb2/dlc/0-base.html) | [Rock](/neptunia/rb2/item/0-723-rock.html) (Material) | 10 | 27 | 3 | 30 |
-| <input type="checkbox" id="rb2-item-0-824" class="trackbox" /> | 824 | [Base](/neptunia/rb2/dlc/0-base.html) | [Meowvader Whisker](/neptunia/rb2/item/0-824-meowvader-whisker.html) (Material) | 13 | 5 | 0 | 5 |
-| <input type="checkbox" id="rb2-item-0-833" class="trackbox" /> | 833 | [Base](/neptunia/rb2/dlc/0-base.html) | [Helmet](/neptunia/rb2/item/0-833-helmet.html) (Material) | 186 | 7 | 0 | 7 |
 | <input type="checkbox" id="rb2-item-0-872" class="trackbox" /> | 872 | [Base](/neptunia/rb2/dlc/0-base.html) | [Matango's Spores](/neptunia/rb2/item/0-872-matangos-spores.html) (Material) | 10 | 5 | 0 | 5 |
 | <input type="checkbox" id="rb2-item-0-4120" class="trackbox" /> | 4120 | [Base](/neptunia/rb2/dlc/0-base.html) | [Baseball](/neptunia/rb2/item/0-4120-baseball.html) (Idea Chip (Yellow)) | 10 | 0 | 0 | 0 |
 | <input type="checkbox" id="rb2-item-0-4171" class="trackbox" /> | 4171 | [Base](/neptunia/rb2/dlc/0-base.html) | [Burnin' Moe](/neptunia/rb2/item/0-4171-burnin-moe.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
@@ -49,10 +47,9 @@ See [gathering point tables](#gathering-point-tables-for-atari-marsh) for more i
 
 |    | ID | DLC | Name | Sells for | Remakes¹ | Quests² | Total |
 | -- | -- | --- | ---- | --------- | -------- | ------- | ----: |
-| <input type="checkbox" id="rb2-item-0-702" class="trackbox" /> | 702 | [Base](/neptunia/rb2/dlc/0-base.html) | [Healing Herb](/neptunia/rb2/item/0-702-healing-herb.html) (Material) | 50 | 31 | 4 | 35 |
-| <input type="checkbox" id="rb2-item-0-703" class="trackbox" /> | 703 | [Base](/neptunia/rb2/dlc/0-base.html) | [Glowgrass](/neptunia/rb2/item/0-703-glowgrass.html) (Material) | 25 | 36 | 0 | 36 |
 | <input type="checkbox" id="rb2-item-0-704" class="trackbox" /> | 704 | [Base](/neptunia/rb2/dlc/0-base.html) | [Refresh Herb](/neptunia/rb2/item/0-704-refresh-herb.html) (Material) | 75 | 32 | 0 | 32 |
-| <input type="checkbox" id="rb2-item-0-723" class="trackbox" /> | 723 | [Base](/neptunia/rb2/dlc/0-base.html) | [Rock](/neptunia/rb2/item/0-723-rock.html) (Material) | 10 | 27 | 3 | 30 |
+| <input type="checkbox" id="rb2-item-0-824" class="trackbox" /> | 824 | [Base](/neptunia/rb2/dlc/0-base.html) | [Meowvader Whisker](/neptunia/rb2/item/0-824-meowvader-whisker.html) (Material) | 13 | 5 | 0 | 5 |
+| <input type="checkbox" id="rb2-item-0-833" class="trackbox" /> | 833 | [Base](/neptunia/rb2/dlc/0-base.html) | [Helmet](/neptunia/rb2/item/0-833-helmet.html) (Material) | 186 | 7 | 0 | 7 |
 | <input type="checkbox" id="rb2-item-0-872" class="trackbox" /> | 872 | [Base](/neptunia/rb2/dlc/0-base.html) | [Matango's Spores](/neptunia/rb2/item/0-872-matangos-spores.html) (Material) | 10 | 5 | 0 | 5 |
 | <input type="checkbox" id="rb2-item-0-4120" class="trackbox" /> | 4120 | [Base](/neptunia/rb2/dlc/0-base.html) | [Baseball](/neptunia/rb2/item/0-4120-baseball.html) (Idea Chip (Yellow)) | 10 | 0 | 0 | 0 |
 | <input type="checkbox" id="rb2-item-0-4171" class="trackbox" /> | 4171 | [Base](/neptunia/rb2/dlc/0-base.html) | [Burnin' Moe](/neptunia/rb2/item/0-4171-burnin-moe.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
@@ -127,17 +124,6 @@ See [gathering point tables](#gathering-point-tables-for-atari-marsh) for more i
 ### Normal
 
 
-| #  | Item 1 | Item 2 | Item 3 | Item 4 | Item 5 |
-| -- | ------ | ------ | ------ | ------ | ------ |
-| 1 | 50%: [Rock](/neptunia/rb2/item/0-723-rock.html) x1~2 | 50%: [Matango's Spores](/neptunia/rb2/item/0-872-matangos-spores.html) x1~2 | 25%: [Symbol Encounter](/neptunia/rb2/item/0-4219-symbol-encounter.html) x1~2 | 7.5%: [Symbol Encounter](/neptunia/rb2/item/0-4219-symbol-encounter.html) x1 |
-| 2 | 50%: [Healing Herb](/neptunia/rb2/item/0-702-healing-herb.html) x1~2 | 50%: [Refresh Herb](/neptunia/rb2/item/0-704-refresh-herb.html) x1~2 | 25%: [Rock](/neptunia/rb2/item/0-723-rock.html) x1 | 25%: [Burnin' Moe](/neptunia/rb2/item/0-4171-burnin-moe.html) x2~3 | 7.5%: [Burnin' Moe](/neptunia/rb2/item/0-4171-burnin-moe.html) x1 |
-| 3 | 50%: [Glowgrass](/neptunia/rb2/item/0-703-glowgrass.html) x2~3 | 50%: [Helmet](/neptunia/rb2/item/0-833-helmet.html) x1~2 | 25%: [Matango's Spores](/neptunia/rb2/item/0-872-matangos-spores.html) x1 | 25%: [Baseball](/neptunia/rb2/item/0-4120-baseball.html) x1 | 7.5%: [Baseball](/neptunia/rb2/item/0-4120-baseball.html) x1 |
-| 4 | 50%: [Rock](/neptunia/rb2/item/0-723-rock.html) x1~2 | 50%: [Refresh Herb](/neptunia/rb2/item/0-704-refresh-herb.html) x1~2 | 25%: [Glowgrass](/neptunia/rb2/item/0-703-glowgrass.html) x1 | 25%: [Launch](/neptunia/rb2/item/0-4232-launch.html) x3~5 | 7.5%: [Launch](/neptunia/rb2/item/0-4232-launch.html) x1 |
-| 5 | 50%: [Healing Herb](/neptunia/rb2/item/0-702-healing-herb.html) x1~2 | 50%: [Meowvader Whisker](/neptunia/rb2/item/0-824-meowvader-whisker.html) x1~2 | 25%: [Refresh Herb](/neptunia/rb2/item/0-704-refresh-herb.html) x1 | 25%: [Console Pack-in](/neptunia/rb2/item/0-4262-console-pack-in.html) x2~3 | 7.5%: [Console Pack-in](/neptunia/rb2/item/0-4262-console-pack-in.html) x1 |
-
-### Item Change (Harvest Shift) enabled
-
-
 | #  | Item 1 | Item 2 | Item 3 |
 | -- | ------ | ------ | ------ |
 | 1 | 100%: [Rock](/neptunia/rb2/item/0-723-rock.html) x1~2 | 15%: [Symbol Encounter](/neptunia/rb2/item/0-4219-symbol-encounter.html) x1 |
@@ -145,6 +131,17 @@ See [gathering point tables](#gathering-point-tables-for-atari-marsh) for more i
 | 3 | 100%: [Glowgrass](/neptunia/rb2/item/0-703-glowgrass.html) x2~3 | 50%: [Matango's Spores](/neptunia/rb2/item/0-872-matangos-spores.html) x1 | 15%: [Baseball](/neptunia/rb2/item/0-4120-baseball.html) x1 |
 | 4 | 100%: [Rock](/neptunia/rb2/item/0-723-rock.html) x1~2 | 50%: [Glowgrass](/neptunia/rb2/item/0-703-glowgrass.html) x1 | 15%: [Launch](/neptunia/rb2/item/0-4232-launch.html) x1 |
 | 5 | 100%: [Healing Herb](/neptunia/rb2/item/0-702-healing-herb.html) x1~2 | 50%: [Refresh Herb](/neptunia/rb2/item/0-704-refresh-herb.html) x1 | 15%: [Console Pack-in](/neptunia/rb2/item/0-4262-console-pack-in.html) x1 |
+
+### Item Change (Harvest Shift) enabled
+
+
+| #  | Item 1 | Item 2 |
+| -- | ------ | ------ |
+| 1 | 100%: [Matango's Spores](/neptunia/rb2/item/0-872-matangos-spores.html) x1~2 | 50%: [Symbol Encounter](/neptunia/rb2/item/0-4219-symbol-encounter.html) x1~2 |
+| 2 | 100%: [Refresh Herb](/neptunia/rb2/item/0-704-refresh-herb.html) x1~2 | 50%: [Burnin' Moe](/neptunia/rb2/item/0-4171-burnin-moe.html) x2~3 |
+| 3 | 100%: [Helmet](/neptunia/rb2/item/0-833-helmet.html) x1~2 | 50%: [Baseball](/neptunia/rb2/item/0-4120-baseball.html) x1 |
+| 4 | 100%: [Refresh Herb](/neptunia/rb2/item/0-704-refresh-herb.html) x1~2 | 50%: [Launch](/neptunia/rb2/item/0-4232-launch.html) x3~5 |
+| 5 | 100%: [Meowvader Whisker](/neptunia/rb2/item/0-824-meowvader-whisker.html) x1~2 | 50%: [Console Pack-in](/neptunia/rb2/item/0-4262-console-pack-in.html) x2~3 |
 
 ### Treasure
 

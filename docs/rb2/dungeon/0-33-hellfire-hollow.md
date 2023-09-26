@@ -47,11 +47,9 @@ See [gathering point tables](#gathering-point-tables-for-hellfire-hollow) for mo
 
 |    | ID | DLC | Name | Sells for | Remakes¹ | Quests² | Total |
 | -- | -- | --- | ---- | --------- | -------- | ------- | ----: |
-| <input type="checkbox" id="rb2-item-0-708" class="trackbox" /> | 708 | [Base](/neptunia/rb2/dlc/0-base.html) | [Silver Ore](/neptunia/rb2/item/0-708-silver-ore.html) (Material) | 250 | 14 | 0 | 14 |
 | <input type="checkbox" id="rb2-item-0-710" class="trackbox" /> | 710 | [Base](/neptunia/rb2/dlc/0-base.html) | [Orichalcum](/neptunia/rb2/item/0-710-orichalcum.html) (Material) | 250 | 13 | 5 | 18 |
 | <input type="checkbox" id="rb2-item-0-712" class="trackbox" /> | 712 | [Base](/neptunia/rb2/dlc/0-base.html) | [Crimson Stone](/neptunia/rb2/item/0-712-crimson-stone.html) (Material) | 450 | 21 | 0 | 21 |
 | <input type="checkbox" id="rb2-item-0-713" class="trackbox" /> | 713 | [Base](/neptunia/rb2/dlc/0-base.html) | [Fierodite](/neptunia/rb2/item/0-713-fierodite.html) (Material) | 1 | 13 | 0 | 13 |
-| <input type="checkbox" id="rb2-item-0-723" class="trackbox" /> | 723 | [Base](/neptunia/rb2/dlc/0-base.html) | [Rock](/neptunia/rb2/item/0-723-rock.html) (Material) | 10 | 27 | 3 | 30 |
 | <input type="checkbox" id="rb2-item-0-4124" class="trackbox" /> | 4124 | [Base](/neptunia/rb2/dlc/0-base.html) | [Maiden Game](/neptunia/rb2/item/0-4124-maiden-game.html) (Idea Chip (Yellow)) | 10 | 0 | 0 | 0 |
 | <input type="checkbox" id="rb2-item-0-4149" class="trackbox" /> | 4149 | [Base](/neptunia/rb2/dlc/0-base.html) | [Crime Action](/neptunia/rb2/item/0-4149-crime-action.html) (Idea Chip (Yellow)) | 10 | 0 | 0 | 0 |
 | <input type="checkbox" id="rb2-item-0-4195" class="trackbox" /> | 4195 | [Base](/neptunia/rb2/dlc/0-base.html) | [Stage Editor](/neptunia/rb2/item/0-4195-stage-editor.html) (Idea Chip (Blue)) | 10 | 1 | 0 | 1 |
@@ -126,17 +124,6 @@ See [gathering point tables](#gathering-point-tables-for-hellfire-hollow) for mo
 ### Normal
 
 
-| #  | Item 1 | Item 2 | Item 3 | Item 4 | Item 5 |
-| -- | ------ | ------ | ------ | ------ | ------ |
-| 1 | 50%: [Rock](/neptunia/rb2/item/0-723-rock.html) x1~2 | 50%: [Crimson Stone](/neptunia/rb2/item/0-712-crimson-stone.html) x1~2 | 25%: [Silver Ore](/neptunia/rb2/item/0-708-silver-ore.html) x1 | 25%: [Can't Grind](/neptunia/rb2/item/0-4271-cant-grind.html) x1~2 | 7.5%: [Can't Grind](/neptunia/rb2/item/0-4271-cant-grind.html) x1 |
-| 2 | 50%: [Crimson Stone](/neptunia/rb2/item/0-712-crimson-stone.html) x1~2 | 50%: [Orichalcum](/neptunia/rb2/item/0-710-orichalcum.html) x1~2 | 25%: [Fierodite](/neptunia/rb2/item/0-713-fierodite.html) x1 | 25%: [All Attacks](/neptunia/rb2/item/0-4215-all-attacks.html) x2~4 | 7.5%: [All Attacks](/neptunia/rb2/item/0-4215-all-attacks.html) x1 |
-| 3 | 50%: [Rock](/neptunia/rb2/item/0-723-rock.html) x1~2 | 50%: [Fierodite](/neptunia/rb2/item/0-713-fierodite.html) x1~2 | 25%: [Silver Ore](/neptunia/rb2/item/0-708-silver-ore.html) x1 | 25%: [Stage Editor](/neptunia/rb2/item/0-4195-stage-editor.html) x2~3 | 7.5%: [Stage Editor](/neptunia/rb2/item/0-4195-stage-editor.html) x1 |
-| 4 | 50%: [Silver Ore](/neptunia/rb2/item/0-708-silver-ore.html) x2~3 | 50%: [Crimson Stone](/neptunia/rb2/item/0-712-crimson-stone.html) x2~3 | 25%: [Rock](/neptunia/rb2/item/0-723-rock.html) x1 | 25%: [Crime Action](/neptunia/rb2/item/0-4149-crime-action.html) x2~3 | 7.5%: [Crime Action](/neptunia/rb2/item/0-4149-crime-action.html) x1 |
-| 5 | 50%: [Crimson Stone](/neptunia/rb2/item/0-712-crimson-stone.html) x2~3 | 50%: [Fierodite](/neptunia/rb2/item/0-713-fierodite.html) x2~3 | 25%: [Orichalcum](/neptunia/rb2/item/0-710-orichalcum.html) x1 | 25%: [Maiden Game](/neptunia/rb2/item/0-4124-maiden-game.html) x1~2 | 7.5%: [Maiden Game](/neptunia/rb2/item/0-4124-maiden-game.html) x1 |
-
-### Item Change (Harvest Shift) enabled
-
-
 | #  | Item 1 | Item 2 | Item 3 |
 | -- | ------ | ------ | ------ |
 | 1 | 100%: [Rock](/neptunia/rb2/item/0-723-rock.html) x1~2 | 50%: [Silver Ore](/neptunia/rb2/item/0-708-silver-ore.html) x1 | 15%: [Can't Grind](/neptunia/rb2/item/0-4271-cant-grind.html) x1 |
@@ -144,6 +131,17 @@ See [gathering point tables](#gathering-point-tables-for-hellfire-hollow) for mo
 | 3 | 100%: [Rock](/neptunia/rb2/item/0-723-rock.html) x1~2 | 50%: [Silver Ore](/neptunia/rb2/item/0-708-silver-ore.html) x1 | 15%: [Stage Editor](/neptunia/rb2/item/0-4195-stage-editor.html) x1 |
 | 4 | 100%: [Silver Ore](/neptunia/rb2/item/0-708-silver-ore.html) x2~3 | 50%: [Rock](/neptunia/rb2/item/0-723-rock.html) x1 | 15%: [Crime Action](/neptunia/rb2/item/0-4149-crime-action.html) x1 |
 | 5 | 100%: [Crimson Stone](/neptunia/rb2/item/0-712-crimson-stone.html) x2~3 | 50%: [Orichalcum](/neptunia/rb2/item/0-710-orichalcum.html) x1 | 15%: [Maiden Game](/neptunia/rb2/item/0-4124-maiden-game.html) x1 |
+
+### Item Change (Harvest Shift) enabled
+
+
+| #  | Item 1 | Item 2 |
+| -- | ------ | ------ |
+| 1 | 100%: [Crimson Stone](/neptunia/rb2/item/0-712-crimson-stone.html) x1~2 | 50%: [Can't Grind](/neptunia/rb2/item/0-4271-cant-grind.html) x1~2 |
+| 2 | 100%: [Orichalcum](/neptunia/rb2/item/0-710-orichalcum.html) x1~2 | 50%: [All Attacks](/neptunia/rb2/item/0-4215-all-attacks.html) x2~4 |
+| 3 | 100%: [Fierodite](/neptunia/rb2/item/0-713-fierodite.html) x1~2 | 50%: [Stage Editor](/neptunia/rb2/item/0-4195-stage-editor.html) x2~3 |
+| 4 | 100%: [Crimson Stone](/neptunia/rb2/item/0-712-crimson-stone.html) x2~3 | 50%: [Crime Action](/neptunia/rb2/item/0-4149-crime-action.html) x2~3 |
+| 5 | 100%: [Fierodite](/neptunia/rb2/item/0-713-fierodite.html) x2~3 | 50%: [Maiden Game](/neptunia/rb2/item/0-4124-maiden-game.html) x1~2 |
 
 ### Treasure
 
