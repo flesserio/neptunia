@@ -28,6 +28,5 @@ title: "Nature (Item) - Hyperdimension Neptunia Re;Birth2"
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
-| <input type="checkbox" id="rb2-dungeon-0-6" class="trackbox" /> | 6 | [Base](/neptunia/rb2/dlc/0-base.html) | [Midcompany](/neptunia/rb2/dungeon/0-6-midcompany.html) | Gathering point (Harvest Shift) |
 | <input type="checkbox" id="rb2-dungeon-0-32" class="trackbox" /> | 32 | [Base](/neptunia/rb2/dlc/0-base.html) | [Lost Ruins](/neptunia/rb2/dungeon/0-32-lost-ruins.html) | Gathering point |
 | <input type="checkbox" id="rb2-dungeon-0-32" class="trackbox" /> | 32 | [Base](/neptunia/rb2/dlc/0-base.html) | [Lost Ruins](/neptunia/rb2/dungeon/0-32-lost-ruins.html) | Gathering point (Harvest Shift) |

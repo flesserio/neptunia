@@ -28,6 +28,5 @@ title: "Male-oriented (Item) - Hyperdimension Neptunia Re;Birth2"
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
-| <input type="checkbox" id="rb2-dungeon-0-9" class="trackbox" /> | 9 | [Base](/neptunia/rb2/dlc/0-base.html) | [Lowee Global Expo - West](/neptunia/rb2/dungeon/0-9-lowee-global-expo-west.html) | Gathering point (Harvest Shift) |
 | <input type="checkbox" id="rb2-dungeon-0-34" class="trackbox" /> | 34 | [Base](/neptunia/rb2/dlc/0-base.html) | [Sublie Road](/neptunia/rb2/dungeon/0-34-sublie-road.html) | Gathering point |
 | <input type="checkbox" id="rb2-dungeon-0-34" class="trackbox" /> | 34 | [Base](/neptunia/rb2/dlc/0-base.html) | [Sublie Road](/neptunia/rb2/dungeon/0-34-sublie-road.html) | Gathering point (Harvest Shift) |

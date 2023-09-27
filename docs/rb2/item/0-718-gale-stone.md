@@ -31,7 +31,6 @@ title: "Gale Stone (Item) - Hyperdimension Neptunia Re;Birth2"
 | <input type="checkbox" id="rb2-dungeon-0-28" class="trackbox" /> | 28 | [Base](/neptunia/rb2/dlc/0-base.html) | [Junk Box ](/neptunia/rb2/dungeon/0-28-junk-box.html) | Gathering point |
 | <input type="checkbox" id="rb2-dungeon-0-28" class="trackbox" /> | 28 | [Base](/neptunia/rb2/dlc/0-base.html) | [Junk Box ](/neptunia/rb2/dungeon/0-28-junk-box.html) | Gathering point (Harvest Shift) |
 | <input type="checkbox" id="rb2-dungeon-0-32" class="trackbox" /> | 32 | [Base](/neptunia/rb2/dlc/0-base.html) | [Lost Ruins](/neptunia/rb2/dungeon/0-32-lost-ruins.html) | Gathering point |
-| <input type="checkbox" id="rb2-dungeon-0-32" class="trackbox" /> | 32 | [Base](/neptunia/rb2/dlc/0-base.html) | [Lost Ruins](/neptunia/rb2/dungeon/0-32-lost-ruins.html) | Gathering point (Harvest Shift) |
 
 ## Remake System plans which require **Gale Stone**
 

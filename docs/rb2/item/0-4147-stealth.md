@@ -29,3 +29,4 @@ title: "Stealth (Item) - Hyperdimension Neptunia Re;Birth2"
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
 | <input type="checkbox" id="rb2-dungeon-0-16" class="trackbox" /> | 16 | [Base](/neptunia/rb2/dlc/0-base.html) | [Severed Dimension - Depths](/neptunia/rb2/dungeon/0-16-severed-dimension-depths.html) | Gathering point |
+| <input type="checkbox" id="rb2-dungeon-0-16" class="trackbox" /> | 16 | [Base](/neptunia/rb2/dlc/0-base.html) | [Severed Dimension - Depths](/neptunia/rb2/dungeon/0-16-severed-dimension-depths.html) | Gathering point (Harvest Shift) |

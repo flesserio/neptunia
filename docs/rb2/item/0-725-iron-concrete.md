@@ -27,9 +27,8 @@ title: "Iron Concrete (Item) - Hyperdimension Neptunia Re;Birth2"
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
-| <input type="checkbox" id="rb2-dungeon-0-21" class="trackbox" /> | 21 | [Base](/neptunia/rb2/dlc/0-base.html) | [Arfoire's Factory](/neptunia/rb2/dungeon/0-21-arfoires-factory.html) | Gathering point |
+| <input type="checkbox" id="rb2-dungeon-0-21" class="trackbox" /> | 21 | [Base](/neptunia/rb2/dlc/0-base.html) | [Arfoire's Factory](/neptunia/rb2/dungeon/0-21-arfoires-factory.html) | Gathering point (Harvest Shift) |
 | <input type="checkbox" id="rb2-dungeon-0-24" class="trackbox" /> | 24 | [Base](/neptunia/rb2/dlc/0-base.html) | [Graveyard Depths](/neptunia/rb2/dungeon/0-24-graveyard-depths.html) | Gathering point |
-| <input type="checkbox" id="rb2-dungeon-0-24" class="trackbox" /> | 24 | [Base](/neptunia/rb2/dlc/0-base.html) | [Graveyard Depths](/neptunia/rb2/dungeon/0-24-graveyard-depths.html) | Gathering point (Harvest Shift) |
 | <input type="checkbox" id="rb2-dungeon-0-26" class="trackbox" /> | 26 | [Base](/neptunia/rb2/dlc/0-base.html) | [Icicle Pathway](/neptunia/rb2/dungeon/0-26-icicle-pathway.html) | Gathering point |
 | <input type="checkbox" id="rb2-dungeon-0-26" class="trackbox" /> | 26 | [Base](/neptunia/rb2/dlc/0-base.html) | [Icicle Pathway](/neptunia/rb2/dungeon/0-26-icicle-pathway.html) | Gathering point (Harvest Shift) |
 

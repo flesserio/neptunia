@@ -35,7 +35,6 @@ title: "Mysterious Petal (Item) - Hyperdimension Neptunia Re;Birth2"
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
-| <input type="checkbox" id="rb2-dungeon-0-15" class="trackbox" /> | 15 | [Base](/neptunia/rb2/dlc/0-base.html) | [Severed Dimension](/neptunia/rb2/dungeon/0-15-severed-dimension.html) | Gathering point (Harvest Shift) |
 | <input type="checkbox" id="rb2-dungeon-0-15" class="trackbox" /> | 15 | [Base](/neptunia/rb2/dlc/0-base.html) | [Severed Dimension](/neptunia/rb2/dungeon/0-15-severed-dimension.html) | Monster drop |
 
 ## Remake System plans which require **Mysterious Petal**

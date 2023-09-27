@@ -34,7 +34,6 @@ title: "Sharp Wolf Fang (Item) - Hyperdimension Neptunia Re;Birth2"
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
-| <input type="checkbox" id="rb2-dungeon-5-1017" class="trackbox" /> | 1017 | [Additional Content Pack 3](/neptunia/rb2/dlc/5-pack3.html) | [Iris Field](/neptunia/rb2/dungeon/5-1017-iris-field.html) | Gathering point (Harvest Shift) |
 | <input type="checkbox" id="rb2-dungeon-5-1017" class="trackbox" /> | 1017 | [Additional Content Pack 3](/neptunia/rb2/dlc/5-pack3.html) | [Iris Field](/neptunia/rb2/dungeon/5-1017-iris-field.html) | Monster drop |
 
 ## Remake System plans which require **Sharp Wolf Fang**

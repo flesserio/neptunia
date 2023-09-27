@@ -7,7 +7,6 @@ title: "LAN Party (Item) - Hyperdimension Neptunia Re;Birth2"
 ## Contents
 
 - [Basic information](#basic-information)
-- [Dungeons **LAN Party** is found](#dungeons-lan-party-is-found)
 
 ## Basic information
 
@@ -23,9 +22,3 @@ title: "LAN Party (Item) - Hyperdimension Neptunia Re;Birth2"
 | **Max inventory** | 99 |
 | **Idea Chip level** | 3 |
 | **Idea Chip ability** | [Null Skill Seal](/neptunia/rb2/ability/0-9551-null-skill-seal.html)<br />Gives Skill Seal Immunity |
-
-## Dungeons **LAN Party** is found
-
-|    | ID | DLC | Name | From |
-| -- | -- | --- | ---- | ---- |
-| <input type="checkbox" id="rb2-dungeon-0-30" class="trackbox" /> | 30 | [Base](/neptunia/rb2/dlc/0-base.html) | [Powerlevel Island](/neptunia/rb2/dungeon/0-30-powerlevel-island.html) | Gathering point (Harvest Shift) |

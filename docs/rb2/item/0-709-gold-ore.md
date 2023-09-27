@@ -30,7 +30,6 @@ title: "Gold Ore (Item) - Hyperdimension Neptunia Re;Birth2"
 | -- | -- | --- | ---- | ---- |
 | <input type="checkbox" id="rb2-dungeon-0-22" class="trackbox" /> | 22 | [Base](/neptunia/rb2/dlc/0-base.html) | [LAN Castle](/neptunia/rb2/dungeon/0-22-lan-castle.html) | Gathering point |
 | <input type="checkbox" id="rb2-dungeon-0-25" class="trackbox" /> | 25 | [Base](/neptunia/rb2/dlc/0-base.html) | [LAN Castle - Underground](/neptunia/rb2/dungeon/0-25-lan-castle-underground.html) | Gathering point |
-| <input type="checkbox" id="rb2-dungeon-0-25" class="trackbox" /> | 25 | [Base](/neptunia/rb2/dlc/0-base.html) | [LAN Castle - Underground](/neptunia/rb2/dungeon/0-25-lan-castle-underground.html) | Gathering point (Harvest Shift) |
 | <input type="checkbox" id="rb2-dungeon-0-28" class="trackbox" /> | 28 | [Base](/neptunia/rb2/dlc/0-base.html) | [Junk Box ](/neptunia/rb2/dungeon/0-28-junk-box.html) | Gathering point |
 | <input type="checkbox" id="rb2-dungeon-0-28" class="trackbox" /> | 28 | [Base](/neptunia/rb2/dlc/0-base.html) | [Junk Box ](/neptunia/rb2/dungeon/0-28-junk-box.html) | Gathering point (Harvest Shift) |
 

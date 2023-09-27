@@ -37,10 +37,9 @@ title: "Illegal ROM (Item) - Hyperdimension Neptunia Re;Birth2"
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
-| <input type="checkbox" id="rb2-dungeon-0-6" class="trackbox" /> | 6 | [Base](/neptunia/rb2/dlc/0-base.html) | [Midcompany](/neptunia/rb2/dungeon/0-6-midcompany.html) | Gathering point (Harvest Shift) |
 | <input type="checkbox" id="rb2-dungeon-0-6" class="trackbox" /> | 6 | [Base](/neptunia/rb2/dlc/0-base.html) | [Midcompany](/neptunia/rb2/dungeon/0-6-midcompany.html) | Monster drop |
 | <input type="checkbox" id="rb2-dungeon-0-12" class="trackbox" /> | 12 | [Base](/neptunia/rb2/dlc/0-base.html) | [Gapain Field](/neptunia/rb2/dungeon/0-12-gapain-field.html) | Monster drop |
-| <input type="checkbox" id="rb2-dungeon-0-16" class="trackbox" /> | 16 | [Base](/neptunia/rb2/dlc/0-base.html) | [Severed Dimension - Depths](/neptunia/rb2/dungeon/0-16-severed-dimension-depths.html) | Gathering point |
+| <input type="checkbox" id="rb2-dungeon-0-16" class="trackbox" /> | 16 | [Base](/neptunia/rb2/dlc/0-base.html) | [Severed Dimension - Depths](/neptunia/rb2/dungeon/0-16-severed-dimension-depths.html) | Gathering point (Harvest Shift) |
 | <input type="checkbox" id="rb2-dungeon-0-16" class="trackbox" /> | 16 | [Base](/neptunia/rb2/dlc/0-base.html) | [Severed Dimension - Depths](/neptunia/rb2/dungeon/0-16-severed-dimension-depths.html) | Monster drop |
 
 ## Remake System plans which require **Illegal ROM**

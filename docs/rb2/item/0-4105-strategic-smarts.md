@@ -29,3 +29,4 @@ title: "Strategic Smarts (Item) - Hyperdimension Neptunia Re;Birth2"
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
 | <input type="checkbox" id="rb2-dungeon-0-22" class="trackbox" /> | 22 | [Base](/neptunia/rb2/dlc/0-base.html) | [LAN Castle](/neptunia/rb2/dungeon/0-22-lan-castle.html) | Gathering point |
+| <input type="checkbox" id="rb2-dungeon-0-22" class="trackbox" /> | 22 | [Base](/neptunia/rb2/dlc/0-base.html) | [LAN Castle](/neptunia/rb2/dungeon/0-22-lan-castle.html) | Gathering point (Harvest Shift) |

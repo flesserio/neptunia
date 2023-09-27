@@ -29,3 +29,4 @@ title: "Random Encounters (Item) - Hyperdimension Neptunia Re;Birth2"
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
 | <input type="checkbox" id="rb2-dungeon-0-13" class="trackbox" /> | 13 | [Base](/neptunia/rb2/dlc/0-base.html) | [Underverse](/neptunia/rb2/dungeon/0-13-underverse.html) | Gathering point |
+| <input type="checkbox" id="rb2-dungeon-0-13" class="trackbox" /> | 13 | [Base](/neptunia/rb2/dlc/0-base.html) | [Underverse](/neptunia/rb2/dungeon/0-13-underverse.html) | Gathering point (Harvest Shift) |

@@ -7,7 +7,6 @@ title: "Puzzle/Logic (Item) - Hyperdimension Neptunia Re;Birth2"
 ## Contents
 
 - [Basic information](#basic-information)
-- [Dungeons **Puzzle/Logic** is found](#dungeons-puzzle-logic-is-found)
 
 ## Basic information
 
@@ -23,9 +22,3 @@ title: "Puzzle/Logic (Item) - Hyperdimension Neptunia Re;Birth2"
 | **Max inventory** | 99 |
 | **Idea Chip level** | 4 |
 | **Idea Chip ability** | [Add Skill Seal Lv4](/neptunia/rb2/ability/0-9528-add-skill-seal-lv4.html)<br />Increases Add Skill Seal by 16% |
-
-## Dungeons **Puzzle/Logic** is found
-
-|    | ID | DLC | Name | From |
-| -- | -- | --- | ---- | ---- |
-| <input type="checkbox" id="rb2-dungeon-0-30" class="trackbox" /> | 30 | [Base](/neptunia/rb2/dlc/0-base.html) | [Powerlevel Island](/neptunia/rb2/dungeon/0-30-powerlevel-island.html) | Gathering point (Harvest Shift) |

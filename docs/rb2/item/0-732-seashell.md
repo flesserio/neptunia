@@ -34,8 +34,8 @@ title: "Seashell (Item) - Hyperdimension Neptunia Re;Birth2"
 | <input type="checkbox" id="rb2-dungeon-0-30" class="trackbox" /> | 30 | [Base](/neptunia/rb2/dlc/0-base.html) | [Powerlevel Island](/neptunia/rb2/dungeon/0-30-powerlevel-island.html) | Gathering point |
 | <input type="checkbox" id="rb2-dungeon-0-30" class="trackbox" /> | 30 | [Base](/neptunia/rb2/dlc/0-base.html) | [Powerlevel Island](/neptunia/rb2/dungeon/0-30-powerlevel-island.html) | Gathering point (Harvest Shift) |
 | <input type="checkbox" id="rb2-dungeon-0-35" class="trackbox" /> | 35 | [Base](/neptunia/rb2/dlc/0-base.html) | [Trinity Marsh](/neptunia/rb2/dungeon/0-35-trinity-marsh.html) | Gathering point |
-| <input type="checkbox" id="rb2-dungeon-0-35" class="trackbox" /> | 35 | [Base](/neptunia/rb2/dlc/0-base.html) | [Trinity Marsh](/neptunia/rb2/dungeon/0-35-trinity-marsh.html) | Gathering point (Harvest Shift) |
 | <input type="checkbox" id="rb2-dungeon-3-1004" class="trackbox" /> | 1004 | [Additional Content Pack 1](/neptunia/rb2/dlc/3-pack1.html) | [Rebeat Resort](/neptunia/rb2/dungeon/3-1004-rebeat-resort.html) | Gathering point |
+| <input type="checkbox" id="rb2-dungeon-3-1004" class="trackbox" /> | 1004 | [Additional Content Pack 1](/neptunia/rb2/dlc/3-pack1.html) | [Rebeat Resort](/neptunia/rb2/dungeon/3-1004-rebeat-resort.html) | Gathering point (Harvest Shift) |
 
 ## Quests which require gathering **Seashell**
 

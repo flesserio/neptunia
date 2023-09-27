@@ -28,5 +28,5 @@ title: "Hover Movement (Item) - Hyperdimension Neptunia Re;Birth2"
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
-| <input type="checkbox" id="rb2-dungeon-0-8" class="trackbox" /> | 8 | [Base](/neptunia/rb2/dlc/0-base.html) | [Lowee Global Expo - East](/neptunia/rb2/dungeon/0-8-lowee-global-expo-east.html) | Gathering point (Harvest Shift) |
 | <input type="checkbox" id="rb2-dungeon-0-9" class="trackbox" /> | 9 | [Base](/neptunia/rb2/dlc/0-base.html) | [Lowee Global Expo - West](/neptunia/rb2/dungeon/0-9-lowee-global-expo-west.html) | Gathering point |
+| <input type="checkbox" id="rb2-dungeon-0-9" class="trackbox" /> | 9 | [Base](/neptunia/rb2/dlc/0-base.html) | [Lowee Global Expo - West](/neptunia/rb2/dungeon/0-9-lowee-global-expo-west.html) | Gathering point (Harvest Shift) |

@@ -35,6 +35,7 @@ title: "Bird's Bronze Crown (Item) - Hyperdimension Neptunia Re;Birth2"
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
 | <input type="checkbox" id="rb2-dungeon-0-12" class="trackbox" /> | 12 | [Base](/neptunia/rb2/dlc/0-base.html) | [Gapain Field](/neptunia/rb2/dungeon/0-12-gapain-field.html) | Gathering point |
+| <input type="checkbox" id="rb2-dungeon-0-12" class="trackbox" /> | 12 | [Base](/neptunia/rb2/dlc/0-base.html) | [Gapain Field](/neptunia/rb2/dungeon/0-12-gapain-field.html) | Gathering point (Harvest Shift) |
 | <input type="checkbox" id="rb2-dungeon-0-12" class="trackbox" /> | 12 | [Base](/neptunia/rb2/dlc/0-base.html) | [Gapain Field](/neptunia/rb2/dungeon/0-12-gapain-field.html) | Monster drop |
 
 ## Remake System plans which require **Bird's Bronze Crown**

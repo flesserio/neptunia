@@ -35,7 +35,7 @@ title: "Horsebird Wing (Item) - Hyperdimension Neptunia Re;Birth2"
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
-| <input type="checkbox" id="rb2-dungeon-0-1" class="trackbox" /> | 1 | [Base](/neptunia/rb2/dlc/0-base.html) | [Virtua Forest](/neptunia/rb2/dungeon/0-1-virtua-forest.html) | Gathering point |
+| <input type="checkbox" id="rb2-dungeon-0-1" class="trackbox" /> | 1 | [Base](/neptunia/rb2/dlc/0-base.html) | [Virtua Forest](/neptunia/rb2/dungeon/0-1-virtua-forest.html) | Gathering point (Harvest Shift) |
 | <input type="checkbox" id="rb2-dungeon-0-1" class="trackbox" /> | 1 | [Base](/neptunia/rb2/dlc/0-base.html) | [Virtua Forest](/neptunia/rb2/dungeon/0-1-virtua-forest.html) | Monster drop |
 | <input type="checkbox" id="rb2-dungeon-0-201" class="trackbox" /> | 201 | [Base](/neptunia/rb2/dlc/0-base.html) | [Colosseum](/neptunia/rb2/dungeon/0-201-colosseum.html) | Monster drop |
 

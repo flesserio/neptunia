@@ -28,11 +28,8 @@ title: "Silver Ore (Item) - Hyperdimension Neptunia Re;Birth2"
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
 | <input type="checkbox" id="rb2-dungeon-0-19" class="trackbox" /> | 19 | [Base](/neptunia/rb2/dlc/0-base.html) | [Atari Marsh - Depths](/neptunia/rb2/dungeon/0-19-atari-marsh-depths.html) | Gathering point |
-| <input type="checkbox" id="rb2-dungeon-0-19" class="trackbox" /> | 19 | [Base](/neptunia/rb2/dlc/0-base.html) | [Atari Marsh - Depths](/neptunia/rb2/dungeon/0-19-atari-marsh-depths.html) | Gathering point (Harvest Shift) |
 | <input type="checkbox" id="rb2-dungeon-0-20" class="trackbox" /> | 20 | [Base](/neptunia/rb2/dlc/0-base.html) | [Gamindustri Graveyard](/neptunia/rb2/dungeon/0-20-gamindustri-graveyard.html) | Gathering point |
-| <input type="checkbox" id="rb2-dungeon-0-20" class="trackbox" /> | 20 | [Base](/neptunia/rb2/dlc/0-base.html) | [Gamindustri Graveyard](/neptunia/rb2/dungeon/0-20-gamindustri-graveyard.html) | Gathering point (Harvest Shift) |
 | <input type="checkbox" id="rb2-dungeon-0-33" class="trackbox" /> | 33 | [Base](/neptunia/rb2/dlc/0-base.html) | [Hellfire Hollow](/neptunia/rb2/dungeon/0-33-hellfire-hollow.html) | Gathering point |
-| <input type="checkbox" id="rb2-dungeon-0-33" class="trackbox" /> | 33 | [Base](/neptunia/rb2/dlc/0-base.html) | [Hellfire Hollow](/neptunia/rb2/dungeon/0-33-hellfire-hollow.html) | Gathering point (Harvest Shift) |
 
 ## Remake System plans which require **Silver Ore**
 

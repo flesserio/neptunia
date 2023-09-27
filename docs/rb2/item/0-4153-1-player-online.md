@@ -30,4 +30,4 @@ title: "1-Player Online (Item) - Hyperdimension Neptunia Re;Birth2"
 | -- | -- | --- | ---- | ---- |
 | <input type="checkbox" id="rb2-dungeon-0-26" class="trackbox" /> | 26 | [Base](/neptunia/rb2/dlc/0-base.html) | [Icicle Pathway](/neptunia/rb2/dungeon/0-26-icicle-pathway.html) | Gathering point |
 | <input type="checkbox" id="rb2-dungeon-0-26" class="trackbox" /> | 26 | [Base](/neptunia/rb2/dlc/0-base.html) | [Icicle Pathway](/neptunia/rb2/dungeon/0-26-icicle-pathway.html) | Gathering point (Harvest Shift) |
-| <input type="checkbox" id="rb2-dungeon-0-31" class="trackbox" /> | 31 | [Base](/neptunia/rb2/dlc/0-base.html) | [Panan Jungle](/neptunia/rb2/dungeon/0-31-panan-jungle.html) | Gathering point |
+| <input type="checkbox" id="rb2-dungeon-0-31" class="trackbox" /> | 31 | [Base](/neptunia/rb2/dlc/0-base.html) | [Panan Jungle](/neptunia/rb2/dungeon/0-31-panan-jungle.html) | Gathering point (Harvest Shift) |

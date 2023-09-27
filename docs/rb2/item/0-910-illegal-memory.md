@@ -35,7 +35,7 @@ title: "Illegal Memory (Item) - Hyperdimension Neptunia Re;Birth2"
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
-| <input type="checkbox" id="rb2-dungeon-0-6" class="trackbox" /> | 6 | [Base](/neptunia/rb2/dlc/0-base.html) | [Midcompany](/neptunia/rb2/dungeon/0-6-midcompany.html) | Gathering point |
+| <input type="checkbox" id="rb2-dungeon-0-6" class="trackbox" /> | 6 | [Base](/neptunia/rb2/dlc/0-base.html) | [Midcompany](/neptunia/rb2/dungeon/0-6-midcompany.html) | Gathering point (Harvest Shift) |
 | <input type="checkbox" id="rb2-dungeon-0-6" class="trackbox" /> | 6 | [Base](/neptunia/rb2/dlc/0-base.html) | [Midcompany](/neptunia/rb2/dungeon/0-6-midcompany.html) | Monster drop |
 | <input type="checkbox" id="rb2-dungeon-0-34" class="trackbox" /> | 34 | [Base](/neptunia/rb2/dlc/0-base.html) | [Sublie Road](/neptunia/rb2/dungeon/0-34-sublie-road.html) | Monster drop |
 

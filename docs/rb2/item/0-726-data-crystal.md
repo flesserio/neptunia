@@ -28,13 +28,11 @@ title: "Data Crystal (Item) - Hyperdimension Neptunia Re;Birth2"
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
 | <input type="checkbox" id="rb2-dungeon-0-5" class="trackbox" /> | 5 | [Base](/neptunia/rb2/dlc/0-base.html) | [Endless Zone](/neptunia/rb2/dungeon/0-5-endless-zone.html) | Gathering point |
-| <input type="checkbox" id="rb2-dungeon-0-5" class="trackbox" /> | 5 | [Base](/neptunia/rb2/dlc/0-base.html) | [Endless Zone](/neptunia/rb2/dungeon/0-5-endless-zone.html) | Gathering point (Harvest Shift) |
 | <input type="checkbox" id="rb2-dungeon-0-10" class="trackbox" /> | 10 | [Base](/neptunia/rb2/dlc/0-base.html) | [World Labyrinth - 1st Fl.](/neptunia/rb2/dungeon/0-10-world-labyrinth-1st-fl.html) | Gathering point |
 | <input type="checkbox" id="rb2-dungeon-0-11" class="trackbox" /> | 11 | [Base](/neptunia/rb2/dlc/0-base.html) | [World Labyrinth - 2nd Fl.](/neptunia/rb2/dungeon/0-11-world-labyrinth-2nd-fl.html) | Gathering point |
 | <input type="checkbox" id="rb2-dungeon-0-15" class="trackbox" /> | 15 | [Base](/neptunia/rb2/dlc/0-base.html) | [Severed Dimension](/neptunia/rb2/dungeon/0-15-severed-dimension.html) | Gathering point |
 | <input type="checkbox" id="rb2-dungeon-0-16" class="trackbox" /> | 16 | [Base](/neptunia/rb2/dlc/0-base.html) | [Severed Dimension - Depths](/neptunia/rb2/dungeon/0-16-severed-dimension-depths.html) | Gathering point |
 | <input type="checkbox" id="rb2-dungeon-0-20" class="trackbox" /> | 20 | [Base](/neptunia/rb2/dlc/0-base.html) | [Gamindustri Graveyard](/neptunia/rb2/dungeon/0-20-gamindustri-graveyard.html) | Gathering point |
-| <input type="checkbox" id="rb2-dungeon-0-20" class="trackbox" /> | 20 | [Base](/neptunia/rb2/dlc/0-base.html) | [Gamindustri Graveyard](/neptunia/rb2/dungeon/0-20-gamindustri-graveyard.html) | Gathering point (Harvest Shift) |
 | <input type="checkbox" id="rb2-dungeon-4-1005" class="trackbox" /> | 1005 | [Additional Content Pack 2](/neptunia/rb2/dlc/4-pack2.html) | [Endless Zone](/neptunia/rb2/dungeon/4-1005-endless-zone.html) | Gathering point |
 
 ## Remake System plans which require **Data Crystal**

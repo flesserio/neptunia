@@ -36,7 +36,7 @@ title: "Stellar Frames (Item) - Hyperdimension Neptunia Re;Birth2"
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
-| <input type="checkbox" id="rb2-dungeon-0-11" class="trackbox" /> | 11 | [Base](/neptunia/rb2/dlc/0-base.html) | [World Labyrinth - 2nd Fl.](/neptunia/rb2/dungeon/0-11-world-labyrinth-2nd-fl.html) | Gathering point |
+| <input type="checkbox" id="rb2-dungeon-0-11" class="trackbox" /> | 11 | [Base](/neptunia/rb2/dlc/0-base.html) | [World Labyrinth - 2nd Fl.](/neptunia/rb2/dungeon/0-11-world-labyrinth-2nd-fl.html) | Gathering point (Harvest Shift) |
 | <input type="checkbox" id="rb2-dungeon-0-11" class="trackbox" /> | 11 | [Base](/neptunia/rb2/dlc/0-base.html) | [World Labyrinth - 2nd Fl.](/neptunia/rb2/dungeon/0-11-world-labyrinth-2nd-fl.html) | Monster drop |
 
 ## Quests which require gathering **Stellar Frames**

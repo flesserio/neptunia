@@ -28,10 +28,11 @@ title: "Crimson Stone (Item) - Hyperdimension Neptunia Re;Birth2"
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
 | <input type="checkbox" id="rb2-dungeon-0-13" class="trackbox" /> | 13 | [Base](/neptunia/rb2/dlc/0-base.html) | [Underverse](/neptunia/rb2/dungeon/0-13-underverse.html) | Gathering point |
+| <input type="checkbox" id="rb2-dungeon-0-13" class="trackbox" /> | 13 | [Base](/neptunia/rb2/dlc/0-base.html) | [Underverse](/neptunia/rb2/dungeon/0-13-underverse.html) | Gathering point (Harvest Shift) |
 | <input type="checkbox" id="rb2-dungeon-0-14" class="trackbox" /> | 14 | [Base](/neptunia/rb2/dlc/0-base.html) | [Underverse - Depths](/neptunia/rb2/dungeon/0-14-underverse-depths.html) | Gathering point |
+| <input type="checkbox" id="rb2-dungeon-0-14" class="trackbox" /> | 14 | [Base](/neptunia/rb2/dlc/0-base.html) | [Underverse - Depths](/neptunia/rb2/dungeon/0-14-underverse-depths.html) | Gathering point (Harvest Shift) |
 | <input type="checkbox" id="rb2-dungeon-0-23" class="trackbox" /> | 23 | [Base](/neptunia/rb2/dlc/0-base.html) | [LAN Castle - Depths](/neptunia/rb2/dungeon/0-23-lan-castle-depths.html) | Gathering point |
 | <input type="checkbox" id="rb2-dungeon-0-25" class="trackbox" /> | 25 | [Base](/neptunia/rb2/dlc/0-base.html) | [LAN Castle - Underground](/neptunia/rb2/dungeon/0-25-lan-castle-underground.html) | Gathering point |
-| <input type="checkbox" id="rb2-dungeon-0-25" class="trackbox" /> | 25 | [Base](/neptunia/rb2/dlc/0-base.html) | [LAN Castle - Underground](/neptunia/rb2/dungeon/0-25-lan-castle-underground.html) | Gathering point (Harvest Shift) |
 | <input type="checkbox" id="rb2-dungeon-0-33" class="trackbox" /> | 33 | [Base](/neptunia/rb2/dlc/0-base.html) | [Hellfire Hollow](/neptunia/rb2/dungeon/0-33-hellfire-hollow.html) | Gathering point |
 | <input type="checkbox" id="rb2-dungeon-0-33" class="trackbox" /> | 33 | [Base](/neptunia/rb2/dlc/0-base.html) | [Hellfire Hollow](/neptunia/rb2/dungeon/0-33-hellfire-hollow.html) | Gathering point (Harvest Shift) |
 

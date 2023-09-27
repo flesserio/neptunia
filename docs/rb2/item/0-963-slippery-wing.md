@@ -35,7 +35,6 @@ title: "Slippery Wing (Item) - Hyperdimension Neptunia Re;Birth2"
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
-| <input type="checkbox" id="rb2-dungeon-0-7" class="trackbox" /> | 7 | [Base](/neptunia/rb2/dlc/0-base.html) | [Septent Resort](/neptunia/rb2/dungeon/0-7-septent-resort.html) | Gathering point (Harvest Shift) |
 | <input type="checkbox" id="rb2-dungeon-0-7" class="trackbox" /> | 7 | [Base](/neptunia/rb2/dlc/0-base.html) | [Septent Resort](/neptunia/rb2/dungeon/0-7-septent-resort.html) | Monster drop |
 
 ## Quests which require gathering **Slippery Wing**

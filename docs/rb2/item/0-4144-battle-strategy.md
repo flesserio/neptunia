@@ -28,6 +28,5 @@ title: "Battle Strategy (Item) - Hyperdimension Neptunia Re;Birth2"
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
-| <input type="checkbox" id="rb2-dungeon-0-12" class="trackbox" /> | 12 | [Base](/neptunia/rb2/dlc/0-base.html) | [Gapain Field](/neptunia/rb2/dungeon/0-12-gapain-field.html) | Gathering point (Harvest Shift) |
 | <input type="checkbox" id="rb2-dungeon-0-32" class="trackbox" /> | 32 | [Base](/neptunia/rb2/dlc/0-base.html) | [Lost Ruins](/neptunia/rb2/dungeon/0-32-lost-ruins.html) | Gathering point |
 | <input type="checkbox" id="rb2-dungeon-0-32" class="trackbox" /> | 32 | [Base](/neptunia/rb2/dlc/0-base.html) | [Lost Ruins](/neptunia/rb2/dungeon/0-32-lost-ruins.html) | Gathering point (Harvest Shift) |

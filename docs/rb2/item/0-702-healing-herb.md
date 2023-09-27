@@ -29,18 +29,20 @@ title: "Healing Herb (Item) - Hyperdimension Neptunia Re;Birth2"
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
 | <input type="checkbox" id="rb2-dungeon-0-3" class="trackbox" /> | 3 | [Base](/neptunia/rb2/dlc/0-base.html) | [Virtua Forest - Depths](/neptunia/rb2/dungeon/0-3-virtua-forest-depths.html) | Gathering point |
+| <input type="checkbox" id="rb2-dungeon-0-3" class="trackbox" /> | 3 | [Base](/neptunia/rb2/dlc/0-base.html) | [Virtua Forest - Depths](/neptunia/rb2/dungeon/0-3-virtua-forest-depths.html) | Gathering point (Harvest Shift) |
 | <input type="checkbox" id="rb2-dungeon-0-3" class="trackbox" /> | 3 | [Base](/neptunia/rb2/dlc/0-base.html) | [Virtua Forest - Depths](/neptunia/rb2/dungeon/0-3-virtua-forest-depths.html) | Hidden treasure |
 | <input type="checkbox" id="rb2-dungeon-0-4" class="trackbox" /> | 4 | [Base](/neptunia/rb2/dlc/0-base.html) | [Rebeat Resort](/neptunia/rb2/dungeon/0-4-rebeat-resort.html) | Gathering point |
-| <input type="checkbox" id="rb2-dungeon-0-4" class="trackbox" /> | 4 | [Base](/neptunia/rb2/dlc/0-base.html) | [Rebeat Resort](/neptunia/rb2/dungeon/0-4-rebeat-resort.html) | Gathering point (Harvest Shift) |
 | <input type="checkbox" id="rb2-dungeon-0-7" class="trackbox" /> | 7 | [Base](/neptunia/rb2/dlc/0-base.html) | [Septent Resort](/neptunia/rb2/dungeon/0-7-septent-resort.html) | Gathering point |
 | <input type="checkbox" id="rb2-dungeon-0-12" class="trackbox" /> | 12 | [Base](/neptunia/rb2/dlc/0-base.html) | [Gapain Field](/neptunia/rb2/dungeon/0-12-gapain-field.html) | Gathering point |
+| <input type="checkbox" id="rb2-dungeon-0-12" class="trackbox" /> | 12 | [Base](/neptunia/rb2/dlc/0-base.html) | [Gapain Field](/neptunia/rb2/dungeon/0-12-gapain-field.html) | Gathering point (Harvest Shift) |
 | <input type="checkbox" id="rb2-dungeon-0-17" class="trackbox" /> | 17 | [Base](/neptunia/rb2/dlc/0-base.html) | [Iris Field](/neptunia/rb2/dungeon/0-17-iris-field.html) | Gathering point |
 | <input type="checkbox" id="rb2-dungeon-0-17" class="trackbox" /> | 17 | [Base](/neptunia/rb2/dlc/0-base.html) | [Iris Field](/neptunia/rb2/dungeon/0-17-iris-field.html) | Gathering point (Harvest Shift) |
 | <input type="checkbox" id="rb2-dungeon-0-18" class="trackbox" /> | 18 | [Base](/neptunia/rb2/dlc/0-base.html) | [Atari Marsh](/neptunia/rb2/dungeon/0-18-atari-marsh.html) | Gathering point |
-| <input type="checkbox" id="rb2-dungeon-0-18" class="trackbox" /> | 18 | [Base](/neptunia/rb2/dlc/0-base.html) | [Atari Marsh](/neptunia/rb2/dungeon/0-18-atari-marsh.html) | Gathering point (Harvest Shift) |
 | <input type="checkbox" id="rb2-dungeon-0-30" class="trackbox" /> | 30 | [Base](/neptunia/rb2/dlc/0-base.html) | [Powerlevel Island](/neptunia/rb2/dungeon/0-30-powerlevel-island.html) | Gathering point |
+| <input type="checkbox" id="rb2-dungeon-0-30" class="trackbox" /> | 30 | [Base](/neptunia/rb2/dlc/0-base.html) | [Powerlevel Island](/neptunia/rb2/dungeon/0-30-powerlevel-island.html) | Gathering point (Harvest Shift) |
 | <input type="checkbox" id="rb2-dungeon-3-1004" class="trackbox" /> | 1004 | [Additional Content Pack 1](/neptunia/rb2/dlc/3-pack1.html) | [Rebeat Resort](/neptunia/rb2/dungeon/3-1004-rebeat-resort.html) | Gathering point |
 | <input type="checkbox" id="rb2-dungeon-5-1017" class="trackbox" /> | 1017 | [Additional Content Pack 3](/neptunia/rb2/dlc/5-pack3.html) | [Iris Field](/neptunia/rb2/dungeon/5-1017-iris-field.html) | Gathering point |
+| <input type="checkbox" id="rb2-dungeon-5-1017" class="trackbox" /> | 1017 | [Additional Content Pack 3](/neptunia/rb2/dlc/5-pack3.html) | [Iris Field](/neptunia/rb2/dungeon/5-1017-iris-field.html) | Gathering point (Harvest Shift) |
 
 ## Quests which require gathering **Healing Herb**
 

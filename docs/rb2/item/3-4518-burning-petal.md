@@ -34,7 +34,6 @@ title: "Burning Petal (Item) - Hyperdimension Neptunia Re;Birth2"
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
-| <input type="checkbox" id="rb2-dungeon-3-1004" class="trackbox" /> | 1004 | [Additional Content Pack 1](/neptunia/rb2/dlc/3-pack1.html) | [Rebeat Resort](/neptunia/rb2/dungeon/3-1004-rebeat-resort.html) | Gathering point (Harvest Shift) |
 | <input type="checkbox" id="rb2-dungeon-3-1004" class="trackbox" /> | 1004 | [Additional Content Pack 1](/neptunia/rb2/dlc/3-pack1.html) | [Rebeat Resort](/neptunia/rb2/dungeon/3-1004-rebeat-resort.html) | Monster drop |
 
 ## Remake System plans which require **Burning Petal**

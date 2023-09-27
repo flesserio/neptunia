@@ -29,4 +29,4 @@ title: "Color Editor (Item) - Hyperdimension Neptunia Re;Birth2"
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
 | <input type="checkbox" id="rb2-dungeon-0-13" class="trackbox" /> | 13 | [Base](/neptunia/rb2/dlc/0-base.html) | [Underverse](/neptunia/rb2/dungeon/0-13-underverse.html) | Gathering point |
-| <input type="checkbox" id="rb2-dungeon-0-23" class="trackbox" /> | 23 | [Base](/neptunia/rb2/dlc/0-base.html) | [LAN Castle - Depths](/neptunia/rb2/dungeon/0-23-lan-castle-depths.html) | Gathering point (Harvest Shift) |
+| <input type="checkbox" id="rb2-dungeon-0-13" class="trackbox" /> | 13 | [Base](/neptunia/rb2/dlc/0-base.html) | [Underverse](/neptunia/rb2/dungeon/0-13-underverse.html) | Gathering point (Harvest Shift) |

@@ -29,8 +29,8 @@ title: "Orichalcum (Item) - Hyperdimension Neptunia Re;Birth2"
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
 | <input type="checkbox" id="rb2-dungeon-0-23" class="trackbox" /> | 23 | [Base](/neptunia/rb2/dlc/0-base.html) | [LAN Castle - Depths](/neptunia/rb2/dungeon/0-23-lan-castle-depths.html) | Gathering point |
+| <input type="checkbox" id="rb2-dungeon-0-23" class="trackbox" /> | 23 | [Base](/neptunia/rb2/dlc/0-base.html) | [LAN Castle - Depths](/neptunia/rb2/dungeon/0-23-lan-castle-depths.html) | Gathering point (Harvest Shift) |
 | <input type="checkbox" id="rb2-dungeon-0-25" class="trackbox" /> | 25 | [Base](/neptunia/rb2/dlc/0-base.html) | [LAN Castle - Underground](/neptunia/rb2/dungeon/0-25-lan-castle-underground.html) | Gathering point |
-| <input type="checkbox" id="rb2-dungeon-0-25" class="trackbox" /> | 25 | [Base](/neptunia/rb2/dlc/0-base.html) | [LAN Castle - Underground](/neptunia/rb2/dungeon/0-25-lan-castle-underground.html) | Gathering point (Harvest Shift) |
 | <input type="checkbox" id="rb2-dungeon-0-31" class="trackbox" /> | 31 | [Base](/neptunia/rb2/dlc/0-base.html) | [Panan Jungle](/neptunia/rb2/dungeon/0-31-panan-jungle.html) | Gathering point |
 | <input type="checkbox" id="rb2-dungeon-0-31" class="trackbox" /> | 31 | [Base](/neptunia/rb2/dlc/0-base.html) | [Panan Jungle](/neptunia/rb2/dungeon/0-31-panan-jungle.html) | Gathering point (Harvest Shift) |
 | <input type="checkbox" id="rb2-dungeon-0-33" class="trackbox" /> | 33 | [Base](/neptunia/rb2/dlc/0-base.html) | [Hellfire Hollow](/neptunia/rb2/dungeon/0-33-hellfire-hollow.html) | Gathering point |

@@ -7,7 +7,6 @@ title: "Moe Burnin' (Item) - Hyperdimension Neptunia Re;Birth2"
 ## Contents
 
 - [Basic information](#basic-information)
-- [Dungeons **Moe Burnin'** is found](#dungeons-moe-burnin-is-found)
 
 ## Basic information
 
@@ -23,9 +22,3 @@ title: "Moe Burnin' (Item) - Hyperdimension Neptunia Re;Birth2"
 | **Max inventory** | 99 |
 | **Idea Chip level** | 4 |
 | **Idea Chip ability** | [Insect Def. Lv4](/neptunia/rb2/ability/0-9569-insect-def-lv4.html)<br />Increases Insect Defense by 25% |
-
-## Dungeons **Moe Burnin'** is found
-
-|    | ID | DLC | Name | From |
-| -- | -- | --- | ---- | ---- |
-| <input type="checkbox" id="rb2-dungeon-0-12" class="trackbox" /> | 12 | [Base](/neptunia/rb2/dlc/0-base.html) | [Gapain Field](/neptunia/rb2/dungeon/0-12-gapain-field.html) | Gathering point (Harvest Shift) |

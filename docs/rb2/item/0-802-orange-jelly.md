@@ -35,7 +35,7 @@ title: "Orange Jelly (Item) - Hyperdimension Neptunia Re;Birth2"
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
-| <input type="checkbox" id="rb2-dungeon-0-6" class="trackbox" /> | 6 | [Base](/neptunia/rb2/dlc/0-base.html) | [Midcompany](/neptunia/rb2/dungeon/0-6-midcompany.html) | Gathering point |
+| <input type="checkbox" id="rb2-dungeon-0-6" class="trackbox" /> | 6 | [Base](/neptunia/rb2/dlc/0-base.html) | [Midcompany](/neptunia/rb2/dungeon/0-6-midcompany.html) | Gathering point (Harvest Shift) |
 | <input type="checkbox" id="rb2-dungeon-0-6" class="trackbox" /> | 6 | [Base](/neptunia/rb2/dlc/0-base.html) | [Midcompany](/neptunia/rb2/dungeon/0-6-midcompany.html) | Monster drop |
 
 ## Remake System plans which require **Orange Jelly**

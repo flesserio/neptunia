@@ -34,7 +34,6 @@ title: "Lost Holy Cloth (Item) - Hyperdimension Neptunia Re;Birth2"
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
-| <input type="checkbox" id="rb2-dungeon-0-23" class="trackbox" /> | 23 | [Base](/neptunia/rb2/dlc/0-base.html) | [LAN Castle - Depths](/neptunia/rb2/dungeon/0-23-lan-castle-depths.html) | Gathering point (Harvest Shift) |
 | <input type="checkbox" id="rb2-dungeon-0-23" class="trackbox" /> | 23 | [Base](/neptunia/rb2/dlc/0-base.html) | [LAN Castle - Depths](/neptunia/rb2/dungeon/0-23-lan-castle-depths.html) | Monster drop |
 
 ## Remake System plans which require **Lost Holy Cloth**

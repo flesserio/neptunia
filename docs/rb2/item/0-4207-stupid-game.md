@@ -31,3 +31,4 @@ title: "Stupid Game (Item) - Hyperdimension Neptunia Re;Birth2"
 | <input type="checkbox" id="rb2-dungeon-0-4" class="trackbox" /> | 4 | [Base](/neptunia/rb2/dlc/0-base.html) | [Rebeat Resort](/neptunia/rb2/dungeon/0-4-rebeat-resort.html) | Gathering point |
 | <input type="checkbox" id="rb2-dungeon-0-4" class="trackbox" /> | 4 | [Base](/neptunia/rb2/dlc/0-base.html) | [Rebeat Resort](/neptunia/rb2/dungeon/0-4-rebeat-resort.html) | Gathering point (Harvest Shift) |
 | <input type="checkbox" id="rb2-dungeon-3-1004" class="trackbox" /> | 1004 | [Additional Content Pack 1](/neptunia/rb2/dlc/3-pack1.html) | [Rebeat Resort](/neptunia/rb2/dungeon/3-1004-rebeat-resort.html) | Gathering point |
+| <input type="checkbox" id="rb2-dungeon-3-1004" class="trackbox" /> | 1004 | [Additional Content Pack 1](/neptunia/rb2/dlc/3-pack1.html) | [Rebeat Resort](/neptunia/rb2/dungeon/3-1004-rebeat-resort.html) | Gathering point (Harvest Shift) |

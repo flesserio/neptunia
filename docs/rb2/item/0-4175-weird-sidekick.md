@@ -7,7 +7,6 @@ title: "Weird Sidekick (Item) - Hyperdimension Neptunia Re;Birth2"
 ## Contents
 
 - [Basic information](#basic-information)
-- [Dungeons **Weird Sidekick** is found](#dungeons-weird-sidekick-is-found)
 
 ## Basic information
 
@@ -23,9 +22,3 @@ title: "Weird Sidekick (Item) - Hyperdimension Neptunia Re;Birth2"
 | **Max inventory** | 99 |
 | **Idea Chip level** | 4 |
 | **Idea Chip ability** | [Plant Def. Lv4](/neptunia/rb2/ability/0-9574-plant-def-lv4.html)<br />Increases Plant Defense by 25% |
-
-## Dungeons **Weird Sidekick** is found
-
-|    | ID | DLC | Name | From |
-| -- | -- | --- | ---- | ---- |
-| <input type="checkbox" id="rb2-dungeon-0-13" class="trackbox" /> | 13 | [Base](/neptunia/rb2/dlc/0-base.html) | [Underverse](/neptunia/rb2/dungeon/0-13-underverse.html) | Gathering point (Harvest Shift) |

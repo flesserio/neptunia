@@ -38,3 +38,4 @@ title: "Near Future (Item) - Hyperdimension Neptunia Re;Birth2"
 | <input type="checkbox" id="rb2-dungeon-0-10" class="trackbox" /> | 10 | [Base](/neptunia/rb2/dlc/0-base.html) | [World Labyrinth - 1st Fl.](/neptunia/rb2/dungeon/0-10-world-labyrinth-1st-fl.html) | Monster drop |
 | <input type="checkbox" id="rb2-dungeon-0-11" class="trackbox" /> | 11 | [Base](/neptunia/rb2/dlc/0-base.html) | [World Labyrinth - 2nd Fl.](/neptunia/rb2/dungeon/0-11-world-labyrinth-2nd-fl.html) | Monster drop |
 | <input type="checkbox" id="rb2-dungeon-0-13" class="trackbox" /> | 13 | [Base](/neptunia/rb2/dlc/0-base.html) | [Underverse](/neptunia/rb2/dungeon/0-13-underverse.html) | Gathering point |
+| <input type="checkbox" id="rb2-dungeon-0-13" class="trackbox" /> | 13 | [Base](/neptunia/rb2/dlc/0-base.html) | [Underverse](/neptunia/rb2/dungeon/0-13-underverse.html) | Gathering point (Harvest Shift) |

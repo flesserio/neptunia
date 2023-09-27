@@ -34,7 +34,6 @@ title: "Insane Contract (Item) - Hyperdimension Neptunia Re;Birth2"
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
-| <input type="checkbox" id="rb2-dungeon-4-1005" class="trackbox" /> | 1005 | [Additional Content Pack 2](/neptunia/rb2/dlc/4-pack2.html) | [Endless Zone](/neptunia/rb2/dungeon/4-1005-endless-zone.html) | Gathering point (Harvest Shift) |
 | <input type="checkbox" id="rb2-dungeon-4-1005" class="trackbox" /> | 1005 | [Additional Content Pack 2](/neptunia/rb2/dlc/4-pack2.html) | [Endless Zone](/neptunia/rb2/dungeon/4-1005-endless-zone.html) | Monster drop |
 
 ## Remake System plans which require **Insane Contract**

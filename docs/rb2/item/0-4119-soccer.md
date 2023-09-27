@@ -38,4 +38,4 @@ title: "Soccer (Item) - Hyperdimension Neptunia Re;Birth2"
 | <input type="checkbox" id="rb2-dungeon-0-8" class="trackbox" /> | 8 | [Base](/neptunia/rb2/dlc/0-base.html) | [Lowee Global Expo - East](/neptunia/rb2/dungeon/0-8-lowee-global-expo-east.html) | Monster drop |
 | <input type="checkbox" id="rb2-dungeon-0-9" class="trackbox" /> | 9 | [Base](/neptunia/rb2/dlc/0-base.html) | [Lowee Global Expo - West](/neptunia/rb2/dungeon/0-9-lowee-global-expo-west.html) | Monster drop |
 | <input type="checkbox" id="rb2-dungeon-0-13" class="trackbox" /> | 13 | [Base](/neptunia/rb2/dlc/0-base.html) | [Underverse](/neptunia/rb2/dungeon/0-13-underverse.html) | Gathering point |
-| <input type="checkbox" id="rb2-dungeon-0-23" class="trackbox" /> | 23 | [Base](/neptunia/rb2/dlc/0-base.html) | [LAN Castle - Depths](/neptunia/rb2/dungeon/0-23-lan-castle-depths.html) | Gathering point (Harvest Shift) |
+| <input type="checkbox" id="rb2-dungeon-0-13" class="trackbox" /> | 13 | [Base](/neptunia/rb2/dlc/0-base.html) | [Underverse](/neptunia/rb2/dungeon/0-13-underverse.html) | Gathering point (Harvest Shift) |

@@ -7,7 +7,6 @@ title: "Limited Edition (Item) - Hyperdimension Neptunia Re;Birth2"
 ## Contents
 
 - [Basic information](#basic-information)
-- [Dungeons **Limited Edition** is found](#dungeons-limited-edition-is-found)
 
 ## Basic information
 
@@ -23,9 +22,3 @@ title: "Limited Edition (Item) - Hyperdimension Neptunia Re;Birth2"
 | **Max inventory** | 99 |
 | **Idea Chip level** | 3 |
 | **Idea Chip ability** | [Item Drops + Lv3](/neptunia/rb2/ability/0-9629-item-drops-lv3.html)<br />Increases Drop Rate by 16% |
-
-## Dungeons **Limited Edition** is found
-
-|    | ID | DLC | Name | From |
-| -- | -- | --- | ---- | ---- |
-| <input type="checkbox" id="rb2-dungeon-0-30" class="trackbox" /> | 30 | [Base](/neptunia/rb2/dlc/0-base.html) | [Powerlevel Island](/neptunia/rb2/dungeon/0-30-powerlevel-island.html) | Gathering point (Harvest Shift) |

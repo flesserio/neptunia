@@ -29,8 +29,8 @@ title: "Dense Earth Stone (Item) - Hyperdimension Neptunia Re;Birth2"
 | -- | -- | --- | ---- | ---- |
 | <input type="checkbox" id="rb2-dungeon-0-6" class="trackbox" /> | 6 | [Base](/neptunia/rb2/dlc/0-base.html) | [Midcompany](/neptunia/rb2/dungeon/0-6-midcompany.html) | Gathering point |
 | <input type="checkbox" id="rb2-dungeon-0-21" class="trackbox" /> | 21 | [Base](/neptunia/rb2/dlc/0-base.html) | [Arfoire's Factory](/neptunia/rb2/dungeon/0-21-arfoires-factory.html) | Gathering point |
-| <input type="checkbox" id="rb2-dungeon-0-21" class="trackbox" /> | 21 | [Base](/neptunia/rb2/dlc/0-base.html) | [Arfoire's Factory](/neptunia/rb2/dungeon/0-21-arfoires-factory.html) | Gathering point (Harvest Shift) |
 | <input type="checkbox" id="rb2-dungeon-0-22" class="trackbox" /> | 22 | [Base](/neptunia/rb2/dlc/0-base.html) | [LAN Castle](/neptunia/rb2/dungeon/0-22-lan-castle.html) | Gathering point |
+| <input type="checkbox" id="rb2-dungeon-0-22" class="trackbox" /> | 22 | [Base](/neptunia/rb2/dlc/0-base.html) | [LAN Castle](/neptunia/rb2/dungeon/0-22-lan-castle.html) | Gathering point (Harvest Shift) |
 
 ## Remake System plans which require **Dense Earth Stone**
 

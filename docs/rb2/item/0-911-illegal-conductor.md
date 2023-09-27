@@ -39,7 +39,6 @@ title: "Illegal Conductor (Item) - Hyperdimension Neptunia Re;Birth2"
 | -- | -- | --- | ---- | ---- |
 | <input type="checkbox" id="rb2-dungeon-0-9" class="trackbox" /> | 9 | [Base](/neptunia/rb2/dlc/0-base.html) | [Lowee Global Expo - West](/neptunia/rb2/dungeon/0-9-lowee-global-expo-west.html) | Gathering point |
 | <input type="checkbox" id="rb2-dungeon-0-9" class="trackbox" /> | 9 | [Base](/neptunia/rb2/dlc/0-base.html) | [Lowee Global Expo - West](/neptunia/rb2/dungeon/0-9-lowee-global-expo-west.html) | Monster drop |
-| <input type="checkbox" id="rb2-dungeon-0-12" class="trackbox" /> | 12 | [Base](/neptunia/rb2/dlc/0-base.html) | [Gapain Field](/neptunia/rb2/dungeon/0-12-gapain-field.html) | Gathering point (Harvest Shift) |
 | <input type="checkbox" id="rb2-dungeon-0-32" class="trackbox" /> | 32 | [Base](/neptunia/rb2/dlc/0-base.html) | [Lost Ruins](/neptunia/rb2/dungeon/0-32-lost-ruins.html) | Monster drop |
 
 ## Remake System plans which require **Illegal Conductor**

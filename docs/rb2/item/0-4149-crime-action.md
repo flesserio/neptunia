@@ -28,6 +28,5 @@ title: "Crime Action (Item) - Hyperdimension Neptunia Re;Birth2"
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
-| <input type="checkbox" id="rb2-dungeon-0-15" class="trackbox" /> | 15 | [Base](/neptunia/rb2/dlc/0-base.html) | [Severed Dimension](/neptunia/rb2/dungeon/0-15-severed-dimension.html) | Gathering point (Harvest Shift) |
 | <input type="checkbox" id="rb2-dungeon-0-33" class="trackbox" /> | 33 | [Base](/neptunia/rb2/dlc/0-base.html) | [Hellfire Hollow](/neptunia/rb2/dungeon/0-33-hellfire-hollow.html) | Gathering point |
 | <input type="checkbox" id="rb2-dungeon-0-33" class="trackbox" /> | 33 | [Base](/neptunia/rb2/dlc/0-base.html) | [Hellfire Hollow](/neptunia/rb2/dungeon/0-33-hellfire-hollow.html) | Gathering point (Harvest Shift) |

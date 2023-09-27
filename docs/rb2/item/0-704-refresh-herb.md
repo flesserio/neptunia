@@ -33,9 +33,7 @@ title: "Refresh Herb (Item) - Hyperdimension Neptunia Re;Birth2"
 | <input type="checkbox" id="rb2-dungeon-0-19" class="trackbox" /> | 19 | [Base](/neptunia/rb2/dlc/0-base.html) | [Atari Marsh - Depths](/neptunia/rb2/dungeon/0-19-atari-marsh-depths.html) | Gathering point (Harvest Shift) |
 | <input type="checkbox" id="rb2-dungeon-0-23" class="trackbox" /> | 23 | [Base](/neptunia/rb2/dlc/0-base.html) | [LAN Castle - Depths](/neptunia/rb2/dungeon/0-23-lan-castle-depths.html) | Gathering point |
 | <input type="checkbox" id="rb2-dungeon-0-31" class="trackbox" /> | 31 | [Base](/neptunia/rb2/dlc/0-base.html) | [Panan Jungle](/neptunia/rb2/dungeon/0-31-panan-jungle.html) | Gathering point |
-| <input type="checkbox" id="rb2-dungeon-0-31" class="trackbox" /> | 31 | [Base](/neptunia/rb2/dlc/0-base.html) | [Panan Jungle](/neptunia/rb2/dungeon/0-31-panan-jungle.html) | Gathering point (Harvest Shift) |
 | <input type="checkbox" id="rb2-dungeon-0-34" class="trackbox" /> | 34 | [Base](/neptunia/rb2/dlc/0-base.html) | [Sublie Road](/neptunia/rb2/dungeon/0-34-sublie-road.html) | Gathering point |
-| <input type="checkbox" id="rb2-dungeon-0-34" class="trackbox" /> | 34 | [Base](/neptunia/rb2/dlc/0-base.html) | [Sublie Road](/neptunia/rb2/dungeon/0-34-sublie-road.html) | Gathering point (Harvest Shift) |
 
 ## Remake System plans which require **Refresh Herb**
 

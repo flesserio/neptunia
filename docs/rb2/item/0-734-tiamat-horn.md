@@ -27,7 +27,6 @@ title: "Tiamat Horn (Item) - Hyperdimension Neptunia Re;Birth2"
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
-| <input type="checkbox" id="rb2-dungeon-0-30" class="trackbox" /> | 30 | [Base](/neptunia/rb2/dlc/0-base.html) | [Powerlevel Island](/neptunia/rb2/dungeon/0-30-powerlevel-island.html) | Gathering point (Harvest Shift) |
 | <input type="checkbox" id="rb2-dungeon-0-35" class="trackbox" /> | 35 | [Base](/neptunia/rb2/dlc/0-base.html) | [Trinity Marsh](/neptunia/rb2/dungeon/0-35-trinity-marsh.html) | Gathering point |
 | <input type="checkbox" id="rb2-dungeon-0-35" class="trackbox" /> | 35 | [Base](/neptunia/rb2/dlc/0-base.html) | [Trinity Marsh](/neptunia/rb2/dungeon/0-35-trinity-marsh.html) | Gathering point (Harvest Shift) |
 

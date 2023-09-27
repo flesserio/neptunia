@@ -7,7 +7,6 @@ title: "Million Aim (Item) - Hyperdimension Neptunia Re;Birth2"
 ## Contents
 
 - [Basic information](#basic-information)
-- [Dungeons **Million Aim** is found](#dungeons-million-aim-is-found)
 
 ## Basic information
 
@@ -23,10 +22,3 @@ title: "Million Aim (Item) - Hyperdimension Neptunia Re;Birth2"
 | **Max inventory** | 99 |
 | **Idea Chip level** | 4 |
 | **Idea Chip ability** | [SP Auto-regen Lv4](/neptunia/rb2/ability/0-9655-sp-auto-regen-lv4.html)<br />Increases SP Recovery Per Turn by 6% |
-
-## Dungeons **Million Aim** is found
-
-|    | ID | DLC | Name | From |
-| -- | -- | --- | ---- | ---- |
-| <input type="checkbox" id="rb2-dungeon-0-10" class="trackbox" /> | 10 | [Base](/neptunia/rb2/dlc/0-base.html) | [World Labyrinth - 1st Fl.](/neptunia/rb2/dungeon/0-10-world-labyrinth-1st-fl.html) | Gathering point (Harvest Shift) |
-| <input type="checkbox" id="rb2-dungeon-0-15" class="trackbox" /> | 15 | [Base](/neptunia/rb2/dlc/0-base.html) | [Severed Dimension](/neptunia/rb2/dungeon/0-15-severed-dimension.html) | Gathering point (Harvest Shift) |

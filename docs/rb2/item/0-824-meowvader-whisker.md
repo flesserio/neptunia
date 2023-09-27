@@ -37,7 +37,7 @@ title: "Meowvader Whisker (Item) - Hyperdimension Neptunia Re;Birth2"
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
-| <input type="checkbox" id="rb2-dungeon-0-18" class="trackbox" /> | 18 | [Base](/neptunia/rb2/dlc/0-base.html) | [Atari Marsh](/neptunia/rb2/dungeon/0-18-atari-marsh.html) | Gathering point |
+| <input type="checkbox" id="rb2-dungeon-0-18" class="trackbox" /> | 18 | [Base](/neptunia/rb2/dlc/0-base.html) | [Atari Marsh](/neptunia/rb2/dungeon/0-18-atari-marsh.html) | Gathering point (Harvest Shift) |
 | <input type="checkbox" id="rb2-dungeon-0-18" class="trackbox" /> | 18 | [Base](/neptunia/rb2/dlc/0-base.html) | [Atari Marsh](/neptunia/rb2/dungeon/0-18-atari-marsh.html) | Monster drop |
 
 ## Remake System plans which require **Meowvader Whisker**

@@ -30,15 +30,13 @@ title: "Glowgrass (Item) - Hyperdimension Neptunia Re;Birth2"
 | <input type="checkbox" id="rb2-dungeon-0-17" class="trackbox" /> | 17 | [Base](/neptunia/rb2/dlc/0-base.html) | [Iris Field](/neptunia/rb2/dungeon/0-17-iris-field.html) | Gathering point |
 | <input type="checkbox" id="rb2-dungeon-0-17" class="trackbox" /> | 17 | [Base](/neptunia/rb2/dlc/0-base.html) | [Iris Field](/neptunia/rb2/dungeon/0-17-iris-field.html) | Gathering point (Harvest Shift) |
 | <input type="checkbox" id="rb2-dungeon-0-18" class="trackbox" /> | 18 | [Base](/neptunia/rb2/dlc/0-base.html) | [Atari Marsh](/neptunia/rb2/dungeon/0-18-atari-marsh.html) | Gathering point |
-| <input type="checkbox" id="rb2-dungeon-0-18" class="trackbox" /> | 18 | [Base](/neptunia/rb2/dlc/0-base.html) | [Atari Marsh](/neptunia/rb2/dungeon/0-18-atari-marsh.html) | Gathering point (Harvest Shift) |
 | <input type="checkbox" id="rb2-dungeon-0-19" class="trackbox" /> | 19 | [Base](/neptunia/rb2/dlc/0-base.html) | [Atari Marsh - Depths](/neptunia/rb2/dungeon/0-19-atari-marsh-depths.html) | Gathering point |
-| <input type="checkbox" id="rb2-dungeon-0-19" class="trackbox" /> | 19 | [Base](/neptunia/rb2/dlc/0-base.html) | [Atari Marsh - Depths](/neptunia/rb2/dungeon/0-19-atari-marsh-depths.html) | Gathering point (Harvest Shift) |
 | <input type="checkbox" id="rb2-dungeon-0-22" class="trackbox" /> | 22 | [Base](/neptunia/rb2/dlc/0-base.html) | [LAN Castle](/neptunia/rb2/dungeon/0-22-lan-castle.html) | Gathering point |
 | <input type="checkbox" id="rb2-dungeon-0-31" class="trackbox" /> | 31 | [Base](/neptunia/rb2/dlc/0-base.html) | [Panan Jungle](/neptunia/rb2/dungeon/0-31-panan-jungle.html) | Gathering point |
-| <input type="checkbox" id="rb2-dungeon-0-31" class="trackbox" /> | 31 | [Base](/neptunia/rb2/dlc/0-base.html) | [Panan Jungle](/neptunia/rb2/dungeon/0-31-panan-jungle.html) | Gathering point (Harvest Shift) |
 | <input type="checkbox" id="rb2-dungeon-0-34" class="trackbox" /> | 34 | [Base](/neptunia/rb2/dlc/0-base.html) | [Sublie Road](/neptunia/rb2/dungeon/0-34-sublie-road.html) | Gathering point |
 | <input type="checkbox" id="rb2-dungeon-0-34" class="trackbox" /> | 34 | [Base](/neptunia/rb2/dlc/0-base.html) | [Sublie Road](/neptunia/rb2/dungeon/0-34-sublie-road.html) | Gathering point (Harvest Shift) |
 | <input type="checkbox" id="rb2-dungeon-5-1017" class="trackbox" /> | 1017 | [Additional Content Pack 3](/neptunia/rb2/dlc/5-pack3.html) | [Iris Field](/neptunia/rb2/dungeon/5-1017-iris-field.html) | Gathering point |
+| <input type="checkbox" id="rb2-dungeon-5-1017" class="trackbox" /> | 1017 | [Additional Content Pack 3](/neptunia/rb2/dlc/5-pack3.html) | [Iris Field](/neptunia/rb2/dungeon/5-1017-iris-field.html) | Gathering point (Harvest Shift) |
 
 ## Remake System plans which require **Glowgrass**
 

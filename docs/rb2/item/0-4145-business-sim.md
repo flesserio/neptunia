@@ -40,3 +40,4 @@ title: "Business Sim (Item) - Hyperdimension Neptunia Re;Birth2"
 | <input type="checkbox" id="rb2-dungeon-0-17" class="trackbox" /> | 17 | [Base](/neptunia/rb2/dlc/0-base.html) | [Iris Field](/neptunia/rb2/dungeon/0-17-iris-field.html) | Gathering point |
 | <input type="checkbox" id="rb2-dungeon-0-17" class="trackbox" /> | 17 | [Base](/neptunia/rb2/dlc/0-base.html) | [Iris Field](/neptunia/rb2/dungeon/0-17-iris-field.html) | Gathering point (Harvest Shift) |
 | <input type="checkbox" id="rb2-dungeon-5-1017" class="trackbox" /> | 1017 | [Additional Content Pack 3](/neptunia/rb2/dlc/5-pack3.html) | [Iris Field](/neptunia/rb2/dungeon/5-1017-iris-field.html) | Gathering point |
+| <input type="checkbox" id="rb2-dungeon-5-1017" class="trackbox" /> | 1017 | [Additional Content Pack 3](/neptunia/rb2/dlc/5-pack3.html) | [Iris Field](/neptunia/rb2/dungeon/5-1017-iris-field.html) | Gathering point (Harvest Shift) |

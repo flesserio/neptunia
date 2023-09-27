@@ -28,11 +28,12 @@ title: "Copper Ore (Item) - Hyperdimension Neptunia Re;Birth2"
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
 | <input type="checkbox" id="rb2-dungeon-0-10" class="trackbox" /> | 10 | [Base](/neptunia/rb2/dlc/0-base.html) | [World Labyrinth - 1st Fl.](/neptunia/rb2/dungeon/0-10-world-labyrinth-1st-fl.html) | Gathering point |
+| <input type="checkbox" id="rb2-dungeon-0-10" class="trackbox" /> | 10 | [Base](/neptunia/rb2/dlc/0-base.html) | [World Labyrinth - 1st Fl.](/neptunia/rb2/dungeon/0-10-world-labyrinth-1st-fl.html) | Gathering point (Harvest Shift) |
 | <input type="checkbox" id="rb2-dungeon-0-11" class="trackbox" /> | 11 | [Base](/neptunia/rb2/dlc/0-base.html) | [World Labyrinth - 2nd Fl.](/neptunia/rb2/dungeon/0-11-world-labyrinth-2nd-fl.html) | Gathering point |
 | <input type="checkbox" id="rb2-dungeon-0-12" class="trackbox" /> | 12 | [Base](/neptunia/rb2/dlc/0-base.html) | [Gapain Field](/neptunia/rb2/dungeon/0-12-gapain-field.html) | Gathering point |
+| <input type="checkbox" id="rb2-dungeon-0-12" class="trackbox" /> | 12 | [Base](/neptunia/rb2/dlc/0-base.html) | [Gapain Field](/neptunia/rb2/dungeon/0-12-gapain-field.html) | Gathering point (Harvest Shift) |
 | <input type="checkbox" id="rb2-dungeon-0-14" class="trackbox" /> | 14 | [Base](/neptunia/rb2/dlc/0-base.html) | [Underverse - Depths](/neptunia/rb2/dungeon/0-14-underverse-depths.html) | Gathering point |
 | <input type="checkbox" id="rb2-dungeon-0-19" class="trackbox" /> | 19 | [Base](/neptunia/rb2/dlc/0-base.html) | [Atari Marsh - Depths](/neptunia/rb2/dungeon/0-19-atari-marsh-depths.html) | Gathering point |
-| <input type="checkbox" id="rb2-dungeon-0-19" class="trackbox" /> | 19 | [Base](/neptunia/rb2/dlc/0-base.html) | [Atari Marsh - Depths](/neptunia/rb2/dungeon/0-19-atari-marsh-depths.html) | Gathering point (Harvest Shift) |
 | <input type="checkbox" id="rb2-dungeon-0-32" class="trackbox" /> | 32 | [Base](/neptunia/rb2/dlc/0-base.html) | [Lost Ruins](/neptunia/rb2/dungeon/0-32-lost-ruins.html) | Gathering point |
 | <input type="checkbox" id="rb2-dungeon-0-32" class="trackbox" /> | 32 | [Base](/neptunia/rb2/dlc/0-base.html) | [Lost Ruins](/neptunia/rb2/dungeon/0-32-lost-ruins.html) | Gathering point (Harvest Shift) |
 

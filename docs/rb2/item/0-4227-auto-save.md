@@ -38,3 +38,4 @@ title: "Auto Save (Item) - Hyperdimension Neptunia Re;Birth2"
 | <input type="checkbox" id="rb2-dungeon-0-10" class="trackbox" /> | 10 | [Base](/neptunia/rb2/dlc/0-base.html) | [World Labyrinth - 1st Fl.](/neptunia/rb2/dungeon/0-10-world-labyrinth-1st-fl.html) | Monster drop |
 | <input type="checkbox" id="rb2-dungeon-0-11" class="trackbox" /> | 11 | [Base](/neptunia/rb2/dlc/0-base.html) | [World Labyrinth - 2nd Fl.](/neptunia/rb2/dungeon/0-11-world-labyrinth-2nd-fl.html) | Monster drop |
 | <input type="checkbox" id="rb2-dungeon-0-22" class="trackbox" /> | 22 | [Base](/neptunia/rb2/dlc/0-base.html) | [LAN Castle](/neptunia/rb2/dungeon/0-22-lan-castle.html) | Gathering point |
+| <input type="checkbox" id="rb2-dungeon-0-22" class="trackbox" /> | 22 | [Base](/neptunia/rb2/dlc/0-base.html) | [LAN Castle](/neptunia/rb2/dungeon/0-22-lan-castle.html) | Gathering point (Harvest Shift) |

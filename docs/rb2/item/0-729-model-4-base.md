@@ -38,10 +38,9 @@ title: "Model 4 Base (Item) - Hyperdimension Neptunia Re;Birth2"
 | <input type="checkbox" id="rb2-dungeon-0-11" class="trackbox" /> | 11 | [Base](/neptunia/rb2/dlc/0-base.html) | [World Labyrinth - 2nd Fl.](/neptunia/rb2/dungeon/0-11-world-labyrinth-2nd-fl.html) | Gathering point |
 | <input type="checkbox" id="rb2-dungeon-0-15" class="trackbox" /> | 15 | [Base](/neptunia/rb2/dlc/0-base.html) | [Severed Dimension](/neptunia/rb2/dungeon/0-15-severed-dimension.html) | Gathering point |
 | <input type="checkbox" id="rb2-dungeon-0-20" class="trackbox" /> | 20 | [Base](/neptunia/rb2/dlc/0-base.html) | [Gamindustri Graveyard](/neptunia/rb2/dungeon/0-20-gamindustri-graveyard.html) | Gathering point |
-| <input type="checkbox" id="rb2-dungeon-0-20" class="trackbox" /> | 20 | [Base](/neptunia/rb2/dlc/0-base.html) | [Gamindustri Graveyard](/neptunia/rb2/dungeon/0-20-gamindustri-graveyard.html) | Gathering point (Harvest Shift) |
 | <input type="checkbox" id="rb2-dungeon-0-32" class="trackbox" /> | 32 | [Base](/neptunia/rb2/dlc/0-base.html) | [Lost Ruins](/neptunia/rb2/dungeon/0-32-lost-ruins.html) | Gathering point |
-| <input type="checkbox" id="rb2-dungeon-0-32" class="trackbox" /> | 32 | [Base](/neptunia/rb2/dlc/0-base.html) | [Lost Ruins](/neptunia/rb2/dungeon/0-32-lost-ruins.html) | Gathering point (Harvest Shift) |
 | <input type="checkbox" id="rb2-dungeon-4-1005" class="trackbox" /> | 1005 | [Additional Content Pack 2](/neptunia/rb2/dlc/4-pack2.html) | [Endless Zone](/neptunia/rb2/dungeon/4-1005-endless-zone.html) | Gathering point |
+| <input type="checkbox" id="rb2-dungeon-4-1005" class="trackbox" /> | 1005 | [Additional Content Pack 2](/neptunia/rb2/dlc/4-pack2.html) | [Endless Zone](/neptunia/rb2/dungeon/4-1005-endless-zone.html) | Gathering point (Harvest Shift) |
 
 ## Remake System plans which require **Model 4 Base**
 

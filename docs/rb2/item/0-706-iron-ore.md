@@ -32,11 +32,12 @@ title: "Iron Ore (Item) - Hyperdimension Neptunia Re;Birth2"
 | <input type="checkbox" id="rb2-dungeon-0-5" class="trackbox" /> | 5 | [Base](/neptunia/rb2/dlc/0-base.html) | [Endless Zone](/neptunia/rb2/dungeon/0-5-endless-zone.html) | Gathering point |
 | <input type="checkbox" id="rb2-dungeon-0-5" class="trackbox" /> | 5 | [Base](/neptunia/rb2/dlc/0-base.html) | [Endless Zone](/neptunia/rb2/dungeon/0-5-endless-zone.html) | Gathering point (Harvest Shift) |
 | <input type="checkbox" id="rb2-dungeon-0-6" class="trackbox" /> | 6 | [Base](/neptunia/rb2/dlc/0-base.html) | [Midcompany](/neptunia/rb2/dungeon/0-6-midcompany.html) | Gathering point |
+| <input type="checkbox" id="rb2-dungeon-0-6" class="trackbox" /> | 6 | [Base](/neptunia/rb2/dlc/0-base.html) | [Midcompany](/neptunia/rb2/dungeon/0-6-midcompany.html) | Gathering point (Harvest Shift) |
 | <input type="checkbox" id="rb2-dungeon-0-10" class="trackbox" /> | 10 | [Base](/neptunia/rb2/dlc/0-base.html) | [World Labyrinth - 1st Fl.](/neptunia/rb2/dungeon/0-10-world-labyrinth-1st-fl.html) | Gathering point |
 | <input type="checkbox" id="rb2-dungeon-0-13" class="trackbox" /> | 13 | [Base](/neptunia/rb2/dlc/0-base.html) | [Underverse](/neptunia/rb2/dungeon/0-13-underverse.html) | Gathering point |
 | <input type="checkbox" id="rb2-dungeon-0-34" class="trackbox" /> | 34 | [Base](/neptunia/rb2/dlc/0-base.html) | [Sublie Road](/neptunia/rb2/dungeon/0-34-sublie-road.html) | Gathering point |
-| <input type="checkbox" id="rb2-dungeon-0-34" class="trackbox" /> | 34 | [Base](/neptunia/rb2/dlc/0-base.html) | [Sublie Road](/neptunia/rb2/dungeon/0-34-sublie-road.html) | Gathering point (Harvest Shift) |
 | <input type="checkbox" id="rb2-dungeon-4-1005" class="trackbox" /> | 1005 | [Additional Content Pack 2](/neptunia/rb2/dlc/4-pack2.html) | [Endless Zone](/neptunia/rb2/dungeon/4-1005-endless-zone.html) | Gathering point |
+| <input type="checkbox" id="rb2-dungeon-4-1005" class="trackbox" /> | 1005 | [Additional Content Pack 2](/neptunia/rb2/dlc/4-pack2.html) | [Endless Zone](/neptunia/rb2/dungeon/4-1005-endless-zone.html) | Gathering point (Harvest Shift) |
 
 ## Remake System plans which require **Iron Ore**
 

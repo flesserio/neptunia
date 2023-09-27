@@ -35,7 +35,6 @@ title: "Numb Jelly (Item) - Hyperdimension Neptunia Re;Birth2"
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
 | <input type="checkbox" id="rb2-dungeon-0-13" class="trackbox" /> | 13 | [Base](/neptunia/rb2/dlc/0-base.html) | [Underverse](/neptunia/rb2/dungeon/0-13-underverse.html) | Monster drop |
-| <input type="checkbox" id="rb2-dungeon-0-14" class="trackbox" /> | 14 | [Base](/neptunia/rb2/dlc/0-base.html) | [Underverse - Depths](/neptunia/rb2/dungeon/0-14-underverse-depths.html) | Gathering point (Harvest Shift) |
 
 ## Remake System plans which require **Numb Jelly**
 

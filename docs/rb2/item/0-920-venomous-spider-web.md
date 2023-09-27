@@ -35,7 +35,7 @@ title: "Venomous Spider Web (Item) - Hyperdimension Neptunia Re;Birth2"
 
 |    | ID | DLC | Name | From |
 | -- | -- | --- | ---- | ---- |
-| <input type="checkbox" id="rb2-dungeon-0-19" class="trackbox" /> | 19 | [Base](/neptunia/rb2/dlc/0-base.html) | [Atari Marsh - Depths](/neptunia/rb2/dungeon/0-19-atari-marsh-depths.html) | Gathering point |
+| <input type="checkbox" id="rb2-dungeon-0-19" class="trackbox" /> | 19 | [Base](/neptunia/rb2/dlc/0-base.html) | [Atari Marsh - Depths](/neptunia/rb2/dungeon/0-19-atari-marsh-depths.html) | Gathering point (Harvest Shift) |
 | <input type="checkbox" id="rb2-dungeon-0-19" class="trackbox" /> | 19 | [Base](/neptunia/rb2/dlc/0-base.html) | [Atari Marsh - Depths](/neptunia/rb2/dungeon/0-19-atari-marsh-depths.html) | Monster drop |
 
 ## Remake System plans which require **Venomous Spider Web**
