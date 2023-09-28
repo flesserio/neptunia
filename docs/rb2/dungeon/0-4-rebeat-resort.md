@@ -22,6 +22,7 @@ title: "Rebeat Resort (Dungeon) - Hyperdimension Neptunia Re;Birth2"
 | **Item Change available?** | Yes |
 | **Add Enemies available?** | Yes |
 | **Add Super Enemies available?** | No |
+| **Change Dungeon available?** | Yes |
 | **To unlock dungeon** | View scene [Ch. 2 - Encountering Uni](/neptunia/rb2/scene/0-103-ch-2-encountering-uni.html) |
 
 ## Items found in Rebeat Resort from gathering points
@@ -50,6 +51,20 @@ See [gathering point tables](#gathering-point-tables-for-rebeat-resort) for more
 | <input type="checkbox" id="rb2-item-0-819" class="trackbox" /> | 819 | [Base](/neptunia/rb2/dlc/0-base.html) | [Green Plate](/neptunia/rb2/item/0-819-green-plate.html) (Material) | 2 | 5 | 0 | 5 |
 | <input type="checkbox" id="rb2-item-0-832" class="trackbox" /> | 832 | [Base](/neptunia/rb2/dlc/0-base.html) | [Cardboard](/neptunia/rb2/item/0-832-cardboard.html) (Material) | 29 | 2 | 3 | 5 |
 | <input type="checkbox" id="rb2-item-0-903" class="trackbox" /> | 903 | [Base](/neptunia/rb2/dlc/0-base.html) | [Fish Skeleton](/neptunia/rb2/item/0-903-fish-skeleton.html) (Material) | 2771 | 7 | 2 | 9 |
+| <input type="checkbox" id="rb2-item-0-930" class="trackbox" /> | 930 | [Base](/neptunia/rb2/dlc/0-base.html) | [Gang Mask](/neptunia/rb2/item/0-930-gang-mask.html) (Material) | 84 | 6 | 0 | 6 |
+| <input type="checkbox" id="rb2-item-0-4121" class="trackbox" /> | 4121 | [Base](/neptunia/rb2/dlc/0-base.html) | [Adventure](/neptunia/rb2/item/0-4121-adventure.html) (Idea Chip (Yellow)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-4162" class="trackbox" /> | 4162 | [Base](/neptunia/rb2/dlc/0-base.html) | [Voice Actor](/neptunia/rb2/item/0-4162-voice-actor.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-4207" class="trackbox" /> | 4207 | [Base](/neptunia/rb2/dlc/0-base.html) | [Stupid Game](/neptunia/rb2/item/0-4207-stupid-game.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-4212" class="trackbox" /> | 4212 | [Base](/neptunia/rb2/dlc/0-base.html) | [Non-RPG Growth](/neptunia/rb2/item/0-4212-non-rpg-growth.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-4222" class="trackbox" /> | 4222 | [Base](/neptunia/rb2/dlc/0-base.html) | [Parameter Tweak](/neptunia/rb2/item/0-4222-parameter-tweak.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
+
+### From Change Dungeon gathering points
+
+|    | ID | DLC | Name | Sells for | Remakes¹ | Quests² | Total |
+| -- | -- | --- | ---- | --------- | -------- | ------- | ----: |
+| <input type="checkbox" id="rb2-item-0-702" class="trackbox" /> | 702 | [Base](/neptunia/rb2/dlc/0-base.html) | [Healing Herb](/neptunia/rb2/item/0-702-healing-herb.html) (Material) | 50 | 31 | 4 | 35 |
+| <input type="checkbox" id="rb2-item-0-723" class="trackbox" /> | 723 | [Base](/neptunia/rb2/dlc/0-base.html) | [Rock](/neptunia/rb2/item/0-723-rock.html) (Material) | 10 | 27 | 3 | 30 |
+| <input type="checkbox" id="rb2-item-0-732" class="trackbox" /> | 732 | [Base](/neptunia/rb2/dlc/0-base.html) | [Seashell](/neptunia/rb2/item/0-732-seashell.html) (Material) | 200 | 15 | 4 | 19 |
 | <input type="checkbox" id="rb2-item-0-930" class="trackbox" /> | 930 | [Base](/neptunia/rb2/dlc/0-base.html) | [Gang Mask](/neptunia/rb2/item/0-930-gang-mask.html) (Material) | 84 | 6 | 0 | 6 |
 | <input type="checkbox" id="rb2-item-0-4121" class="trackbox" /> | 4121 | [Base](/neptunia/rb2/dlc/0-base.html) | [Adventure](/neptunia/rb2/item/0-4121-adventure.html) (Idea Chip (Yellow)) | 10 | 0 | 0 | 0 |
 | <input type="checkbox" id="rb2-item-0-4162" class="trackbox" /> | 4162 | [Base](/neptunia/rb2/dlc/0-base.html) | [Voice Actor](/neptunia/rb2/item/0-4162-voice-actor.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
@@ -114,6 +129,16 @@ See [gathering point tables](#gathering-point-tables-for-rebeat-resort) for more
 | <input type="checkbox" id="rb2-item-0-984" class="trackbox" /> | 984 | [Base](/neptunia/rb2/dlc/0-base.html) | [Shampuru Ear](/neptunia/rb2/item/0-984-shampuru-ear.html) (Material)<br />70%: [Crazy Buff Shampuru](/neptunia/rb2/monster/0-124-crazy-buff-shampuru.html) | 12 | 4 | 0 | 4 |
 | <input type="checkbox" id="rb2-item-0-2103" class="trackbox" /> | 2103 | [Base](/neptunia/rb2/dlc/0-base.html) | [Pink D-Clips](/neptunia/rb2/item/0-2103-pink-d-clips.html) (Accessory)<br />60%: [Boss Lizard](/neptunia/rb2/monster/0-123-boss-lizard.html) | 100 | 0 | 0 | 0 |
 
+### Change Dungeon enabled
+
+|    | ID | DLC | Name | Sells for | Remakes¹ | Quests² | Total |
+| -- | -- | --- | ---- | --------- | -------- | ------- | ----: |
+| <input type="checkbox" id="rb2-item-0-819" class="trackbox" /> | 819 | [Base](/neptunia/rb2/dlc/0-base.html) | [Green Plate](/neptunia/rb2/item/0-819-green-plate.html) (Material)<br />40%: [Babyvader](/neptunia/rb2/monster/0-117-babyvader.html) | 2 | 5 | 0 | 5 |
+| <input type="checkbox" id="rb2-item-0-832" class="trackbox" /> | 832 | [Base](/neptunia/rb2/dlc/0-base.html) | [Cardboard](/neptunia/rb2/item/0-832-cardboard.html) (Material)<br />40%: [Frog-in-the-box](/neptunia/rb2/monster/0-119-frog-in-the-box.html) | 29 | 2 | 3 | 5 |
+| <input type="checkbox" id="rb2-item-0-903" class="trackbox" /> | 903 | [Base](/neptunia/rb2/dlc/0-base.html) | [Fish Skeleton](/neptunia/rb2/item/0-903-fish-skeleton.html) (Material)<br />40%: [Fish Zombie](/neptunia/rb2/monster/0-120-fish-zombie.html) | 2771 | 7 | 2 | 9 |
+| <input type="checkbox" id="rb2-item-0-930" class="trackbox" /> | 930 | [Base](/neptunia/rb2/dlc/0-base.html) | [Gang Mask](/neptunia/rb2/item/0-930-gang-mask.html) (Material)<br />40%: [Delinquent Cat](/neptunia/rb2/monster/0-118-delinquent-cat.html) | 84 | 6 | 0 | 6 |
+| <input type="checkbox" id="rb2-item-0-977" class="trackbox" /> | 977 | [Base](/neptunia/rb2/dlc/0-base.html) | [Large Pincer](/neptunia/rb2/item/0-977-large-pincer.html) (Material)<br />50%: [King Crab](/neptunia/rb2/monster/0-122-king-crab.html) | 418 | 2 | 0 | 2 |
+
 ¹ Total amount needed for Remake System recipes.<br />² Total amount needed to complete quests at least once.
 
 ## Gathering point tables for Rebeat Resort
@@ -140,6 +165,17 @@ See [gathering point tables](#gathering-point-tables-for-rebeat-resort) for more
 | 3 | 100%: [Green Plate](/neptunia/rb2/item/0-819-green-plate.html) x1~2 | 50%: [Stupid Game](/neptunia/rb2/item/0-4207-stupid-game.html) x2~3 |
 | 4 | 100%: [Gang Mask](/neptunia/rb2/item/0-930-gang-mask.html) x1~2 | 50%: [Parameter Tweak](/neptunia/rb2/item/0-4222-parameter-tweak.html) x1 |
 | 5 | 100%: [Fish Skeleton](/neptunia/rb2/item/0-903-fish-skeleton.html) x1~2 | 50%: [Non-RPG Growth](/neptunia/rb2/item/0-4212-non-rpg-growth.html) x2~3 |
+
+### Change Dungeon enabled
+  
+| #  | Item 1 | Item 2 | Item 3 |
+| -- | ------ | ------ | ------ |
+| 1 | 100%: [Seashell](/neptunia/rb2/item/0-732-seashell.html) x1~2 | 50%: [Healing Herb](/neptunia/rb2/item/0-702-healing-herb.html) x1 | 15%: [Voice Actor](/neptunia/rb2/item/0-4162-voice-actor.html) x1 |
+| 2 | 100%: [Rock](/neptunia/rb2/item/0-723-rock.html) x1~2 | 50%: [Healing Herb](/neptunia/rb2/item/0-702-healing-herb.html) x1 | 15%: [Adventure](/neptunia/rb2/item/0-4121-adventure.html) x1 |
+| 3 | 100%: [Healing Herb](/neptunia/rb2/item/0-702-healing-herb.html) x1~2 | 50%: [Seashell](/neptunia/rb2/item/0-732-seashell.html) x1 | 15%: [Stupid Game](/neptunia/rb2/item/0-4207-stupid-game.html) x1 |
+| 4 | 100%: [Healing Herb](/neptunia/rb2/item/0-702-healing-herb.html) x1~2 | 50%: [Gang Mask](/neptunia/rb2/item/0-930-gang-mask.html) x1 | 15%: [Parameter Tweak](/neptunia/rb2/item/0-4222-parameter-tweak.html) x1 |
+| 5 | 100%: [Seashell](/neptunia/rb2/item/0-732-seashell.html) x1~2 | 50%: [Rock](/neptunia/rb2/item/0-723-rock.html) x1 | 15%: [Non-RPG Growth](/neptunia/rb2/item/0-4212-non-rpg-growth.html) x1 |
+
 
 ### Treasure
 
@@ -187,4 +223,16 @@ See [gathering point tables](#gathering-point-tables-for-rebeat-resort) for more
 | 3 | [Boss Lizard](/neptunia/rb2/monster/0-123-boss-lizard.html) x1 |
 | 4 | [Fish Zombie](/neptunia/rb2/monster/0-120-fish-zombie.html) x1 | [Babyvader](/neptunia/rb2/monster/0-117-babyvader.html) x1~2 | [Frog-in-the-box](/neptunia/rb2/monster/0-119-frog-in-the-box.html) x1 |
 | 5 | [Crazy Buff Shampuru](/neptunia/rb2/monster/0-124-crazy-buff-shampuru.html) x1 |
+| 6 | [King Crab](/neptunia/rb2/monster/0-122-king-crab.html) x1 |
+
+### "Change Dungeon" dungeon setting
+
+
+| #  | Monster 1 | Monster 2 | Monster 3 |
+| -- | --------- | --------- | --------- |
+| 1 | [Babyvader](/neptunia/rb2/monster/0-117-babyvader.html) x2~3 |
+| 2 | [Delinquent Cat](/neptunia/rb2/monster/0-118-delinquent-cat.html) x1 | [Frog-in-the-box](/neptunia/rb2/monster/0-119-frog-in-the-box.html) x1~2 |
+| 3 | [Frog-in-the-box](/neptunia/rb2/monster/0-119-frog-in-the-box.html) x1~2 | [Fish Zombie](/neptunia/rb2/monster/0-120-fish-zombie.html) x1 | [Babyvader](/neptunia/rb2/monster/0-117-babyvader.html) x1 |
+| 4 | [Fish Zombie](/neptunia/rb2/monster/0-120-fish-zombie.html) x1 | [Babyvader](/neptunia/rb2/monster/0-117-babyvader.html) x1~2 | [Frog-in-the-box](/neptunia/rb2/monster/0-119-frog-in-the-box.html) x1 |
+| 5 | [Babyvader](/neptunia/rb2/monster/0-117-babyvader.html) x1~2 | [Frog-in-the-box](/neptunia/rb2/monster/0-119-frog-in-the-box.html) x1 | [Delinquent Cat](/neptunia/rb2/monster/0-118-delinquent-cat.html) x1 |
 | 6 | [King Crab](/neptunia/rb2/monster/0-122-king-crab.html) x1 |

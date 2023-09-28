@@ -22,6 +22,7 @@ title: "Lowee Global Expo - East (Dungeon) - Hyperdimension Neptunia Re;Birth2"
 | **Item Change available?** | Yes |
 | **Add Enemies available?** | Yes |
 | **Add Super Enemies available?** | No |
+| **Change Dungeon available?** | Yes |
 | **To unlock dungeon** | View scene [Ch. 2 - Abduction](/neptunia/rb2/scene/0-152-ch-2-abduction.html) |
 
 ## Items found in Lowee Global Expo - East from gathering points
@@ -52,6 +53,18 @@ See [gathering point tables](#gathering-point-tables-for-lowee-global-expo-east)
 | <input type="checkbox" id="rb2-item-0-4209" class="trackbox" /> | 4209 | [Base](/neptunia/rb2/dlc/0-base.html) | [Western Game](/neptunia/rb2/item/0-4209-western-game.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
 | <input type="checkbox" id="rb2-item-0-4243" class="trackbox" /> | 4243 | [Base](/neptunia/rb2/dlc/0-base.html) | [Wahahahaha!](/neptunia/rb2/item/0-4243-wahahahaha.html) (Idea Chip (Red)) | 10 | 0 | 0 | 0 |
 | <input type="checkbox" id="rb2-item-0-4269" class="trackbox" /> | 4269 | [Base](/neptunia/rb2/dlc/0-base.html) | [Open-ended](/neptunia/rb2/item/0-4269-open-ended.html) (Idea Chip (Red)) | 10 | 0 | 0 | 0 |
+
+### From Change Dungeon gathering points
+
+|    | ID | DLC | Name | Sells for | Remakes¹ | Quests² | Total |
+| -- | -- | --- | ---- | --------- | -------- | ------- | ----: |
+| <input type="checkbox" id="rb2-item-0-889" class="trackbox" /> | 889 | [Base](/neptunia/rb2/dlc/0-base.html) | [Black Box Set](/neptunia/rb2/item/0-889-black-box-set.html) (Material) | 180 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-928" class="trackbox" /> | 928 | [Base](/neptunia/rb2/dlc/0-base.html) | [Cat Whisker](/neptunia/rb2/item/0-928-cat-whisker.html) (Material) | 84 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-936" class="trackbox" /> | 936 | [Base](/neptunia/rb2/dlc/0-base.html) | [Ice Skeleton](/neptunia/rb2/item/0-936-ice-skeleton.html) (Material) | 195 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-4122" class="trackbox" /> | 4122 | [Base](/neptunia/rb2/dlc/0-base.html) | [Novel](/neptunia/rb2/item/0-4122-novel.html) (Idea Chip (Yellow)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-4167" class="trackbox" /> | 4167 | [Base](/neptunia/rb2/dlc/0-base.html) | [Yandere](/neptunia/rb2/item/0-4167-yandere.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-4213" class="trackbox" /> | 4213 | [Base](/neptunia/rb2/dlc/0-base.html) | [Hover Movement](/neptunia/rb2/item/0-4213-hover-movement.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-4229" class="trackbox" /> | 4229 | [Base](/neptunia/rb2/dlc/0-base.html) | [DL Only](/neptunia/rb2/item/0-4229-dl-only.html) (Idea Chip (Red)) | 10 | 0 | 0 | 0 |
 
 ### From treasure gathering points
 
@@ -107,6 +120,15 @@ See [gathering point tables](#gathering-point-tables-for-lowee-global-expo-east)
 | <input type="checkbox" id="rb2-item-0-2546" class="trackbox" /> | 2546 | [Base](/neptunia/rb2/dlc/0-base.html) | [White Ribbon](/neptunia/rb2/item/0-2546-white-ribbon.html) (Accessory)<br />70%: [Eggplaladin](/neptunia/rb2/monster/0-149-eggplaladin.html) | 300 | 1 | 0 | 1 |
 | <input type="checkbox" id="rb2-item-0-4119" class="trackbox" /> | 4119 | [Base](/neptunia/rb2/dlc/0-base.html) | [Soccer](/neptunia/rb2/item/0-4119-soccer.html) (Idea Chip (Yellow))<br />60%: [Ice Garuda](/neptunia/rb2/monster/0-148-ice-garuda.html) | 10 | 0 | 0 | 0 |
 
+### Change Dungeon enabled
+
+|    | ID | DLC | Name | Sells for | Remakes¹ | Quests² | Total |
+| -- | -- | --- | ---- | --------- | -------- | ------- | ----: |
+| <input type="checkbox" id="rb2-item-0-510" class="trackbox" /> | 510 | [Base](/neptunia/rb2/dlc/0-base.html) | [Uni's Improvements](/neptunia/rb2/item/0-510-unis-improvements.html) (Plan)<br />50%: [Tough Ice Fenrir](/neptunia/rb2/monster/0-359-tough-ice-fenrir.html) | 0 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-889" class="trackbox" /> | 889 | [Base](/neptunia/rb2/dlc/0-base.html) | [Black Box Set](/neptunia/rb2/item/0-889-black-box-set.html) (Material)<br />40%: [Fetigal](/neptunia/rb2/monster/0-356-fetigal.html) | 180 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-928" class="trackbox" /> | 928 | [Base](/neptunia/rb2/dlc/0-base.html) | [Cat Whisker](/neptunia/rb2/item/0-928-cat-whisker.html) (Material)<br />40%: [Lean Tuna](/neptunia/rb2/monster/0-357-lean-tuna.html) | 84 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-936" class="trackbox" /> | 936 | [Base](/neptunia/rb2/dlc/0-base.html) | [Ice Skeleton](/neptunia/rb2/item/0-936-ice-skeleton.html) (Material)<br />40%: [Frozen Skull](/neptunia/rb2/monster/0-358-frozen-skull.html) | 195 | 0 | 0 | 0 |
+
 ¹ Total amount needed for Remake System recipes.<br />² Total amount needed to complete quests at least once.
 
 ## Gathering point tables for Lowee Global Expo - East
@@ -131,6 +153,16 @@ See [gathering point tables](#gathering-point-tables-for-lowee-global-expo-east)
 | 2 | 100%: [Dot Ears](/neptunia/rb2/item/0-826-dot-ears.html) x1~2 | 50%: [Western Game](/neptunia/rb2/item/0-4209-western-game.html) x1~2 |
 | 3 | 100%: [Kupokitty Claws](/neptunia/rb2/item/0-926-kupokitty-claws.html) x1~2 | 50%: [Wahahahaha!](/neptunia/rb2/item/0-4243-wahahahaha.html) x1~2 |
 | 4 | 100%: [Ice Stone](/neptunia/rb2/item/0-714-ice-stone.html) x1~2 | 50%: [Open-ended](/neptunia/rb2/item/0-4269-open-ended.html) x2~4 |
+
+### Change Dungeon enabled
+  
+| #  | Item 1 | Item 2 |
+| -- | ------ | ------ |
+| 1 | 100%: [Novel](/neptunia/rb2/item/0-4122-novel.html) x1~2 |
+| 2 | 100%: [Yandere](/neptunia/rb2/item/0-4167-yandere.html) x1~2 | 50%: [Black Box Set](/neptunia/rb2/item/0-889-black-box-set.html) x1 |
+| 3 | 100%: [DL Only](/neptunia/rb2/item/0-4229-dl-only.html) x1~2 | 50%: [Cat Whisker](/neptunia/rb2/item/0-928-cat-whisker.html) x1 |
+| 4 | 100%: [Hover Movement](/neptunia/rb2/item/0-4213-hover-movement.html) x1~2 | 50%: [Ice Skeleton](/neptunia/rb2/item/0-936-ice-skeleton.html) x1 |
+
 
 ### Treasure
 
@@ -178,3 +210,15 @@ See [gathering point tables](#gathering-point-tables-for-lowee-global-expo-east)
 | 4 | [Kupokitty](/neptunia/rb2/monster/0-143-kupokitty.html) x1~2 | [Terits](/neptunia/rb2/monster/0-146-terits.html) x1 | [Bunnyvader](/neptunia/rb2/monster/0-144-bunnyvader.html) x1 |
 | 5 | [Ice Garuda](/neptunia/rb2/monster/0-148-ice-garuda.html) x1 |
 | 6 | [Eggplaladin](/neptunia/rb2/monster/0-149-eggplaladin.html) x1 |
+
+### "Change Dungeon" dungeon setting
+
+
+| #  | Monster 1 | Monster 2 | Monster 3 |
+| -- | --------- | --------- | --------- |
+| 1 | [Fetigal](/neptunia/rb2/monster/0-356-fetigal.html) x2~4 |
+| 2 | [Lean Tuna](/neptunia/rb2/monster/0-357-lean-tuna.html) x2~4 |
+| 3 | [Lean Tuna](/neptunia/rb2/monster/0-357-lean-tuna.html) x2~4 | [Fetigal](/neptunia/rb2/monster/0-356-fetigal.html) x1 |
+| 4 | [Frozen Skull](/neptunia/rb2/monster/0-358-frozen-skull.html) x1~2 | [Lean Tuna](/neptunia/rb2/monster/0-357-lean-tuna.html) x1~2 |
+| 5 | [Frozen Skull](/neptunia/rb2/monster/0-358-frozen-skull.html) x1~2 | [Lean Tuna](/neptunia/rb2/monster/0-357-lean-tuna.html) x1 | [Fetigal](/neptunia/rb2/monster/0-356-fetigal.html) x1 |
+| 6 | [Tough Ice Fenrir](/neptunia/rb2/monster/0-359-tough-ice-fenrir.html) x1 |

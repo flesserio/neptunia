@@ -22,6 +22,7 @@ title: "Atari Marsh - Depths (Dungeon) - Hyperdimension Neptunia Re;Birth2"
 | **Item Change available?** | Yes |
 | **Add Enemies available?** | Yes |
 | **Add Super Enemies available?** | No |
+| **Change Dungeon available?** | No |
 | **To unlock dungeon** | N/A |
 
 ## Items found in Atari Marsh - Depths from gathering points

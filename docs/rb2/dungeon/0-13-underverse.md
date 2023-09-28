@@ -22,6 +22,7 @@ title: "Underverse (Dungeon) - Hyperdimension Neptunia Re;Birth2"
 | **Item Change available?** | Yes |
 | **Add Enemies available?** | Yes |
 | **Add Super Enemies available?** | No |
+| **Change Dungeon available?** | Yes |
 | **To unlock dungeon** | View scene [Ch. 2 - Fake Chika Revealed](/neptunia/rb2/scene/0-215-ch-2-fake-chika-revealed.html) |
 
 ## Items found in Underverse from gathering points
@@ -54,6 +55,18 @@ See [gathering point tables](#gathering-point-tables-for-underverse) for more in
 | <input type="checkbox" id="rb2-item-0-4194" class="trackbox" /> | 4194 | [Base](/neptunia/rb2/dlc/0-base.html) | [Color Editor](/neptunia/rb2/item/0-4194-color-editor.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
 | <input type="checkbox" id="rb2-item-0-4218" class="trackbox" /> | 4218 | [Base](/neptunia/rb2/dlc/0-base.html) | [Random Encounters](/neptunia/rb2/item/0-4218-random-encounters.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
 | <input type="checkbox" id="rb2-item-0-4281" class="trackbox" /> | 4281 | [Base](/neptunia/rb2/dlc/0-base.html) | [Near Future](/neptunia/rb2/item/0-4281-near-future.html) (Idea Chip (Red)) | 10 | 0 | 0 | 0 |
+
+### From Change Dungeon gathering points
+
+|    | ID | DLC | Name | Sells for | Remakes¹ | Quests² | Total |
+| -- | -- | --- | ---- | --------- | -------- | ------- | ----: |
+| <input type="checkbox" id="rb2-item-0-937" class="trackbox" /> | 937 | [Base](/neptunia/rb2/dlc/0-base.html) | [Flamin' Bone](/neptunia/rb2/item/0-937-flamin-bone.html) (Material) | 327 | 3 | 0 | 3 |
+| <input type="checkbox" id="rb2-item-0-943" class="trackbox" /> | 943 | [Base](/neptunia/rb2/dlc/0-base.html) | [Very Large Beak](/neptunia/rb2/item/0-943-very-large-beak.html) (Material) | 170 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-953" class="trackbox" /> | 953 | [Base](/neptunia/rb2/dlc/0-base.html) | [Fire Crystal](/neptunia/rb2/item/0-953-fire-crystal.html) (Material) | 727 | 3 | 0 | 3 |
+| <input type="checkbox" id="rb2-item-0-4138" class="trackbox" /> | 4138 | [Base](/neptunia/rb2/dlc/0-base.html) | [Series](/neptunia/rb2/item/0-4138-series.html) (Idea Chip (Yellow)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-4175" class="trackbox" /> | 4175 | [Base](/neptunia/rb2/dlc/0-base.html) | [Weird Sidekick](/neptunia/rb2/item/0-4175-weird-sidekick.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-4189" class="trackbox" /> | 4189 | [Base](/neptunia/rb2/dlc/0-base.html) | [Special Peripheral](/neptunia/rb2/item/0-4189-special-peripheral.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-4245" class="trackbox" /> | 4245 | [Base](/neptunia/rb2/dlc/0-base.html) | [Love](/neptunia/rb2/item/0-4245-love.html) (Idea Chip (Red)) | 10 | 0 | 0 | 0 |
 
 ### From treasure gathering points
 
@@ -113,6 +126,19 @@ See [gathering point tables](#gathering-point-tables-for-underverse) for more in
 | <input type="checkbox" id="rb2-item-0-857" class="trackbox" /> | 857 | [Base](/neptunia/rb2/dlc/0-base.html) | [Black Ribbon](/neptunia/rb2/item/0-857-black-ribbon.html) (Material)<br />40%: [Ms. Blinky](/neptunia/rb2/monster/0-175-ms-blinky.html) | 1595 | 5 | 0 | 5 |
 | <input type="checkbox" id="rb2-item-0-4145" class="trackbox" /> | 4145 | [Base](/neptunia/rb2/dlc/0-base.html) | [Business Sim](/neptunia/rb2/item/0-4145-business-sim.html) (Idea Chip (Yellow))<br />70%: [Achilles](/neptunia/rb2/monster/0-178-achilles.html) | 10 | 0 | 0 | 0 |
 
+### Change Dungeon enabled
+
+|    | ID | DLC | Name | Sells for | Remakes¹ | Quests² | Total |
+| -- | -- | --- | ---- | --------- | -------- | ------- | ----: |
+| <input type="checkbox" id="rb2-item-0-552" class="trackbox" /> | 552 | [Base](/neptunia/rb2/dlc/0-base.html) | [Demonic Tome](/neptunia/rb2/item/0-552-demonic-tome.html) (Plan)<br />30%: [Rukh](/neptunia/rb2/monster/0-387-rukh.html) | 0 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-809" class="trackbox" /> | 809 | [Base](/neptunia/rb2/dlc/0-base.html) | [Numb Jelly](/neptunia/rb2/item/0-809-numb-jelly.html) (Material)<br />40%: [Numb Dogoo](/neptunia/rb2/monster/0-426-numb-dogoo.html) | 120 | 2 | 0 | 2 |
+| <input type="checkbox" id="rb2-item-0-923" class="trackbox" /> | 923 | [Base](/neptunia/rb2/dlc/0-base.html) | [Elastic Thread](/neptunia/rb2/item/0-923-elastic-thread.html) (Material)<br />40%: [Mega Spider](/neptunia/rb2/monster/0-425-mega-spider.html) | 114 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-937" class="trackbox" /> | 937 | [Base](/neptunia/rb2/dlc/0-base.html) | [Flamin' Bone](/neptunia/rb2/item/0-937-flamin-bone.html) (Material)<br />45%: [Flame Skeleton](/neptunia/rb2/monster/0-389-flame-skeleton.html) | 327 | 3 | 0 | 3 |
+| <input type="checkbox" id="rb2-item-0-943" class="trackbox" /> | 943 | [Base](/neptunia/rb2/dlc/0-base.html) | [Very Large Beak](/neptunia/rb2/item/0-943-very-large-beak.html) (Material)<br />40%: [Rukh](/neptunia/rb2/monster/0-387-rukh.html) | 170 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-953" class="trackbox" /> | 953 | [Base](/neptunia/rb2/dlc/0-base.html) | [Fire Crystal](/neptunia/rb2/item/0-953-fire-crystal.html) (Material)<br />40%: [Blaze Golem](/neptunia/rb2/monster/0-385-blaze-golem.html) | 727 | 3 | 0 | 3 |
+| <input type="checkbox" id="rb2-item-0-959" class="trackbox" /> | 959 | [Base](/neptunia/rb2/dlc/0-base.html) | [Blazing Ore](/neptunia/rb2/item/0-959-blazing-ore.html) (Material)<br />40%: [Volcano Crab](/neptunia/rb2/monster/0-423-volcano-crab.html) | 211 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-2311" class="trackbox" /> | 2311 | [Base](/neptunia/rb2/dlc/0-base.html) | [Leafy Bow HC](/neptunia/rb2/item/0-2311-leafy-bow-hc.html) (Accessory)<br />60%: [Tough Lost Soldier](/neptunia/rb2/monster/0-391-tough-lost-soldier.html) | 500 | 0 | 0 | 0 |
+
 ¹ Total amount needed for Remake System recipes.<br />² Total amount needed to complete quests at least once.
 
 ## Gathering point tables for Underverse
@@ -137,6 +163,16 @@ See [gathering point tables](#gathering-point-tables-for-underverse) for more in
 | 2 | 100%: [Black Ribbon](/neptunia/rb2/item/0-857-black-ribbon.html) x1~2 | 50%: [Random Encounters](/neptunia/rb2/item/0-4218-random-encounters.html) x1~2 |
 | 3 | 100%: [Crimson Stone](/neptunia/rb2/item/0-712-crimson-stone.html) x1~2 | 50%: [Near Future](/neptunia/rb2/item/0-4281-near-future.html) x1~2 |
 | 4 | 100%: [Pink Plate](/neptunia/rb2/item/0-820-pink-plate.html) x1~2 | 50%: [Color Editor](/neptunia/rb2/item/0-4194-color-editor.html) x2~3 |
+
+### Change Dungeon enabled
+  
+| #  | Item 1 | Item 2 |
+| -- | ------ | ------ |
+| 1 | 100%: [Weird Sidekick](/neptunia/rb2/item/0-4175-weird-sidekick.html) x1 | 50%: [Flamin' Bone](/neptunia/rb2/item/0-937-flamin-bone.html) x1 |
+| 2 | 100%: [Special Peripheral](/neptunia/rb2/item/0-4189-special-peripheral.html) x1 | 50%: [Fire Crystal](/neptunia/rb2/item/0-953-fire-crystal.html) x1 |
+| 3 | 100%: [Love](/neptunia/rb2/item/0-4245-love.html) x1 | 50%: [Very Large Beak](/neptunia/rb2/item/0-943-very-large-beak.html) x1 |
+| 4 | 100%: [Series](/neptunia/rb2/item/0-4138-series.html) x1~2 |
+
 
 ### Treasure
 
@@ -188,3 +224,17 @@ See [gathering point tables](#gathering-point-tables-for-underverse) for more in
 | 6 | [Ms. Blinky](/neptunia/rb2/monster/0-175-ms-blinky.html) x1 | [Plumindigo](/neptunia/rb2/monster/0-172-plumindigo.html) x1 | [Red Babyvader](/neptunia/rb2/monster/0-173-red-babyvader.html) x1 | [Blinky](/neptunia/rb2/monster/0-174-blinky.html) x1 |
 | 7 | [Achilles](/neptunia/rb2/monster/0-178-achilles.html) x1 |
 | 8 | [Red Babyvader](/neptunia/rb2/monster/0-173-red-babyvader.html) x2 | [Plumindigo](/neptunia/rb2/monster/0-172-plumindigo.html) x1~2 |
+
+### "Change Dungeon" dungeon setting
+
+
+| #  | Monster 1 | Monster 2 | Monster 3 |
+| -- | --------- | --------- | --------- |
+| 1 | [Blaze Golem](/neptunia/rb2/monster/0-385-blaze-golem.html) x2~3 |
+| 2 | [Rukh](/neptunia/rb2/monster/0-387-rukh.html) x2 | [Volcano Crab](/neptunia/rb2/monster/0-423-volcano-crab.html) x1 |
+| 3 | [Flame Skeleton](/neptunia/rb2/monster/0-389-flame-skeleton.html) x1~2 | [Blaze Golem](/neptunia/rb2/monster/0-385-blaze-golem.html) x1 |
+| 4 | [Volcano Crab](/neptunia/rb2/monster/0-423-volcano-crab.html) x1~2 | [Flame Skeleton](/neptunia/rb2/monster/0-389-flame-skeleton.html) x1 |
+| 5 | [Tough Lost Soldier](/neptunia/rb2/monster/0-391-tough-lost-soldier.html) x1 |
+| 6 | [Mega Spider](/neptunia/rb2/monster/0-425-mega-spider.html) x1~2 | [Rukh](/neptunia/rb2/monster/0-387-rukh.html) x1 | [Flame Skeleton](/neptunia/rb2/monster/0-389-flame-skeleton.html) x1 |
+| 7 | [Numb Dogoo](/neptunia/rb2/monster/0-426-numb-dogoo.html) x1~2 | [Blaze Golem](/neptunia/rb2/monster/0-385-blaze-golem.html) x1 |
+| 8 | [Mega Spider](/neptunia/rb2/monster/0-425-mega-spider.html) x1~2 | [Rukh](/neptunia/rb2/monster/0-387-rukh.html) x1 | [Numb Dogoo](/neptunia/rb2/monster/0-426-numb-dogoo.html) x1 |

@@ -22,6 +22,7 @@ title: "Arfoire's Factory (Dungeon) - Hyperdimension Neptunia Re;Birth2"
 | **Item Change available?** | Yes |
 | **Add Enemies available?** | Yes |
 | **Add Super Enemies available?** | No |
+| **Change Dungeon available?** | No |
 | **To unlock dungeon** | View scene [Ch. 5 - Arfoire's Factory Found](/neptunia/rb2/scene/0-360-ch-5-arfoires-factory-found.html) |
 
 ## Items found in Arfoire's Factory from gathering points

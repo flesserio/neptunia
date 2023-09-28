@@ -22,6 +22,7 @@ title: "Iris Field (Dungeon) - Hyperdimension Neptunia Re;Birth2"
 | **Item Change available?** | No |
 | **Add Enemies available?** | No |
 | **Add Super Enemies available?** | No |
+| **Change Dungeon available?** | No |
 | **To unlock dungeon** | N/A |
 
 ## Items found in Iris Field from gathering points
@@ -37,23 +38,6 @@ See [gathering point tables](#gathering-point-tables-for-iris-field) for more in
 | <input type="checkbox" id="rb2-item-0-703" class="trackbox" /> | 703 | [Base](/neptunia/rb2/dlc/0-base.html) | [Glowgrass](/neptunia/rb2/item/0-703-glowgrass.html) (Material) | 25 | 36 | 0 | 36 |
 | <input type="checkbox" id="rb2-item-0-723" class="trackbox" /> | 723 | [Base](/neptunia/rb2/dlc/0-base.html) | [Rock](/neptunia/rb2/item/0-723-rock.html) (Material) | 10 | 27 | 3 | 30 |
 | <input type="checkbox" id="rb2-item-0-868" class="trackbox" /> | 868 | [Base](/neptunia/rb2/dlc/0-base.html) | [Red Seed](/neptunia/rb2/item/0-868-red-seed.html) (Material) | 73 | 8 | 0 | 8 |
-| <input type="checkbox" id="rb2-item-0-4145" class="trackbox" /> | 4145 | [Base](/neptunia/rb2/dlc/0-base.html) | [Business Sim](/neptunia/rb2/item/0-4145-business-sim.html) (Idea Chip (Yellow)) | 10 | 0 | 0 | 0 |
-| <input type="checkbox" id="rb2-item-0-4166" class="trackbox" /> | 4166 | [Base](/neptunia/rb2/dlc/0-base.html) | [Tsundere](/neptunia/rb2/item/0-4166-tsundere.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
-| <input type="checkbox" id="rb2-item-0-4176" class="trackbox" /> | 4176 | [Base](/neptunia/rb2/dlc/0-base.html) | [All-star](/neptunia/rb2/item/0-4176-all-star.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
-| <input type="checkbox" id="rb2-item-0-4206" class="trackbox" /> | 4206 | [Base](/neptunia/rb2/dlc/0-base.html) | [Super Secret Move](/neptunia/rb2/item/0-4206-super-secret-move.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
-| <input type="checkbox" id="rb2-item-0-4267" class="trackbox" /> | 4267 | [Base](/neptunia/rb2/dlc/0-base.html) | [War](/neptunia/rb2/item/0-4267-war.html) (Idea Chip (Red)) | 10 | 0 | 0 | 0 |
-| <input type="checkbox" id="rb2-item-0-4282" class="trackbox" /> | 4282 | [Base](/neptunia/rb2/dlc/0-base.html) | [Harem](/neptunia/rb2/item/0-4282-harem.html) (Idea Chip (Red)) | 10 | 0 | 0 | 0 |
-
-### From Harvest Shift gathering points
-
-|    | ID | DLC | Name | Sells for | Remakes¹ | Quests² | Total |
-| -- | -- | --- | ---- | --------- | -------- | ------- | ----: |
-| <input type="checkbox" id="rb2-item-0-702" class="trackbox" /> | 702 | [Base](/neptunia/rb2/dlc/0-base.html) | [Healing Herb](/neptunia/rb2/item/0-702-healing-herb.html) (Material) | 50 | 31 | 4 | 35 |
-| <input type="checkbox" id="rb2-item-0-703" class="trackbox" /> | 703 | [Base](/neptunia/rb2/dlc/0-base.html) | [Glowgrass](/neptunia/rb2/item/0-703-glowgrass.html) (Material) | 25 | 36 | 0 | 36 |
-| <input type="checkbox" id="rb2-item-0-723" class="trackbox" /> | 723 | [Base](/neptunia/rb2/dlc/0-base.html) | [Rock](/neptunia/rb2/item/0-723-rock.html) (Material) | 10 | 27 | 3 | 30 |
-| <input type="checkbox" id="rb2-item-0-868" class="trackbox" /> | 868 | [Base](/neptunia/rb2/dlc/0-base.html) | [Red Seed](/neptunia/rb2/item/0-868-red-seed.html) (Material) | 73 | 8 | 0 | 8 |
-| <input type="checkbox" id="rb2-item-0-901" class="trackbox" /> | 901 | [Base](/neptunia/rb2/dlc/0-base.html) | [Soccer Ball](/neptunia/rb2/item/0-901-soccer-ball.html) (Material) | 2249 | 4 | 5 | 9 |
-| <input type="checkbox" id="rb2-item-0-927" class="trackbox" /> | 927 | [Base](/neptunia/rb2/dlc/0-base.html) | [Meow Claws](/neptunia/rb2/item/0-927-meow-claws.html) (Material) | 12 | 6 | 0 | 6 |
 | <input type="checkbox" id="rb2-item-0-4145" class="trackbox" /> | 4145 | [Base](/neptunia/rb2/dlc/0-base.html) | [Business Sim](/neptunia/rb2/item/0-4145-business-sim.html) (Idea Chip (Yellow)) | 10 | 0 | 0 | 0 |
 | <input type="checkbox" id="rb2-item-0-4166" class="trackbox" /> | 4166 | [Base](/neptunia/rb2/dlc/0-base.html) | [Tsundere](/neptunia/rb2/item/0-4166-tsundere.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
 | <input type="checkbox" id="rb2-item-0-4176" class="trackbox" /> | 4176 | [Base](/neptunia/rb2/dlc/0-base.html) | [All-star](/neptunia/rb2/item/0-4176-all-star.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |

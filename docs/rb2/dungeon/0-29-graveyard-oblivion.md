@@ -22,6 +22,7 @@ title: "Graveyard - Oblivion (Dungeon) - Hyperdimension Neptunia Re;Birth2"
 | **Item Change available?** | No |
 | **Add Enemies available?** | No |
 | **Add Super Enemies available?** | No |
+| **Change Dungeon available?** | No |
 | **To unlock dungeon** | View scene [Final Chapter](/neptunia/rb2/scene/0-467-final-chapter.html)<br />Do not view scene [Apocalypse - Holy Sword Born](/neptunia/rb2/scene/0-543-apocalypse-holy-sword-born.html)<br />Do not view scene [Apocalypse - Goodbye...](/neptunia/rb2/scene/0-523-apocalypse-goodbye.html) |
 
 ## Items found in Graveyard - Oblivion from gathering points
@@ -29,12 +30,6 @@ title: "Graveyard - Oblivion (Dungeon) - Hyperdimension Neptunia Re;Birth2"
 See [gathering point tables](#gathering-point-tables-for-graveyard-oblivion) for more information.
 
 ### From normal gathering points
-
-|    | ID | DLC | Name | Sells for | Remakes¹ | Quests² | Total |
-| -- | -- | --- | ---- | --------- | -------- | ------- | ----: |
-
-
-### From Harvest Shift gathering points
 
 |    | ID | DLC | Name | Sells for | Remakes¹ | Quests² | Total |
 | -- | -- | --- | ---- | --------- | -------- | ------- | ----: |

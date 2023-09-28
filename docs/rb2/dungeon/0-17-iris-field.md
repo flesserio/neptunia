@@ -22,6 +22,7 @@ title: "Iris Field (Dungeon) - Hyperdimension Neptunia Re;Birth2"
 | **Item Change available?** | Yes |
 | **Add Enemies available?** | Yes |
 | **Add Super Enemies available?** | No |
+| **Change Dungeon available?** | Yes |
 | **To unlock dungeon** | View scene [Ch. 3 - Warechu in Action](/neptunia/rb2/scene/0-259-ch-3-warechu-in-action.html) |
 
 ## Items found in Iris Field from gathering points
@@ -54,6 +55,22 @@ See [gathering point tables](#gathering-point-tables-for-iris-field) for more in
 | <input type="checkbox" id="rb2-item-0-868" class="trackbox" /> | 868 | [Base](/neptunia/rb2/dlc/0-base.html) | [Red Seed](/neptunia/rb2/item/0-868-red-seed.html) (Material) | 73 | 8 | 0 | 8 |
 | <input type="checkbox" id="rb2-item-0-901" class="trackbox" /> | 901 | [Base](/neptunia/rb2/dlc/0-base.html) | [Soccer Ball](/neptunia/rb2/item/0-901-soccer-ball.html) (Material) | 2249 | 4 | 5 | 9 |
 | <input type="checkbox" id="rb2-item-0-927" class="trackbox" /> | 927 | [Base](/neptunia/rb2/dlc/0-base.html) | [Meow Claws](/neptunia/rb2/item/0-927-meow-claws.html) (Material) | 12 | 6 | 0 | 6 |
+| <input type="checkbox" id="rb2-item-0-4145" class="trackbox" /> | 4145 | [Base](/neptunia/rb2/dlc/0-base.html) | [Business Sim](/neptunia/rb2/item/0-4145-business-sim.html) (Idea Chip (Yellow)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-4166" class="trackbox" /> | 4166 | [Base](/neptunia/rb2/dlc/0-base.html) | [Tsundere](/neptunia/rb2/item/0-4166-tsundere.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-4176" class="trackbox" /> | 4176 | [Base](/neptunia/rb2/dlc/0-base.html) | [All-star](/neptunia/rb2/item/0-4176-all-star.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-4206" class="trackbox" /> | 4206 | [Base](/neptunia/rb2/dlc/0-base.html) | [Super Secret Move](/neptunia/rb2/item/0-4206-super-secret-move.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-4267" class="trackbox" /> | 4267 | [Base](/neptunia/rb2/dlc/0-base.html) | [War](/neptunia/rb2/item/0-4267-war.html) (Idea Chip (Red)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-4282" class="trackbox" /> | 4282 | [Base](/neptunia/rb2/dlc/0-base.html) | [Harem](/neptunia/rb2/item/0-4282-harem.html) (Idea Chip (Red)) | 10 | 0 | 0 | 0 |
+
+### From Change Dungeon gathering points
+
+|    | ID | DLC | Name | Sells for | Remakes¹ | Quests² | Total |
+| -- | -- | --- | ---- | --------- | -------- | ------- | ----: |
+| <input type="checkbox" id="rb2-item-0-701" class="trackbox" /> | 701 | [Base](/neptunia/rb2/dlc/0-base.html) | [Herb](/neptunia/rb2/item/0-701-herb.html) (Material) | 10 | 41 | 3 | 44 |
+| <input type="checkbox" id="rb2-item-0-702" class="trackbox" /> | 702 | [Base](/neptunia/rb2/dlc/0-base.html) | [Healing Herb](/neptunia/rb2/item/0-702-healing-herb.html) (Material) | 50 | 31 | 4 | 35 |
+| <input type="checkbox" id="rb2-item-0-703" class="trackbox" /> | 703 | [Base](/neptunia/rb2/dlc/0-base.html) | [Glowgrass](/neptunia/rb2/item/0-703-glowgrass.html) (Material) | 25 | 36 | 0 | 36 |
+| <input type="checkbox" id="rb2-item-0-723" class="trackbox" /> | 723 | [Base](/neptunia/rb2/dlc/0-base.html) | [Rock](/neptunia/rb2/item/0-723-rock.html) (Material) | 10 | 27 | 3 | 30 |
+| <input type="checkbox" id="rb2-item-0-868" class="trackbox" /> | 868 | [Base](/neptunia/rb2/dlc/0-base.html) | [Red Seed](/neptunia/rb2/item/0-868-red-seed.html) (Material) | 73 | 8 | 0 | 8 |
 | <input type="checkbox" id="rb2-item-0-4145" class="trackbox" /> | 4145 | [Base](/neptunia/rb2/dlc/0-base.html) | [Business Sim](/neptunia/rb2/item/0-4145-business-sim.html) (Idea Chip (Yellow)) | 10 | 0 | 0 | 0 |
 | <input type="checkbox" id="rb2-item-0-4166" class="trackbox" /> | 4166 | [Base](/neptunia/rb2/dlc/0-base.html) | [Tsundere](/neptunia/rb2/item/0-4166-tsundere.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
 | <input type="checkbox" id="rb2-item-0-4176" class="trackbox" /> | 4176 | [Base](/neptunia/rb2/dlc/0-base.html) | [All-star](/neptunia/rb2/item/0-4176-all-star.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
@@ -120,6 +137,17 @@ See [gathering point tables](#gathering-point-tables-for-iris-field) for more in
 | <input type="checkbox" id="rb2-item-0-927" class="trackbox" /> | 927 | [Base](/neptunia/rb2/dlc/0-base.html) | [Meow Claws](/neptunia/rb2/item/0-927-meow-claws.html) (Material)<br />40%: [Meow](/neptunia/rb2/monster/0-198-meow.html) | 12 | 6 | 0 | 6 |
 | <input type="checkbox" id="rb2-item-0-981" class="trackbox" /> | 981 | [Base](/neptunia/rb2/dlc/0-base.html) | [Holy Whale Ball](/neptunia/rb2/item/0-981-holy-whale-ball.html) (Material)<br />60%: [Child Whale](/neptunia/rb2/monster/0-200-child-whale.html) | 486 | 5 | 0 | 5 |
 
+### Change Dungeon enabled
+
+|    | ID | DLC | Name | Sells for | Remakes¹ | Quests² | Total |
+| -- | -- | --- | ---- | --------- | -------- | ------- | ----: |
+| <input type="checkbox" id="rb2-item-0-402" class="trackbox" /> | 402 | [Base](/neptunia/rb2/dlc/0-base.html) | [Plan: Healing Drink](/neptunia/rb2/item/0-402-plan-healing-drink.html) (Plan)<br />50%: [Forest Turtle](/neptunia/rb2/monster/0-199-forest-turtle.html) | 0 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-864" class="trackbox" /> | 864 | [Base](/neptunia/rb2/dlc/0-base.html) | [Red Petal](/neptunia/rb2/item/0-864-red-petal.html) (Material)<br />30%: [Moulin Rouge](/neptunia/rb2/monster/0-196-moulin-rouge.html) | 1891 | 5 | 0 | 5 |
+| <input type="checkbox" id="rb2-item-0-868" class="trackbox" /> | 868 | [Base](/neptunia/rb2/dlc/0-base.html) | [Red Seed](/neptunia/rb2/item/0-868-red-seed.html) (Material)<br />40%: [Moulin Rouge](/neptunia/rb2/monster/0-196-moulin-rouge.html) | 73 | 8 | 0 | 8 |
+| <input type="checkbox" id="rb2-item-0-901" class="trackbox" /> | 901 | [Base](/neptunia/rb2/dlc/0-base.html) | [Soccer Ball](/neptunia/rb2/item/0-901-soccer-ball.html) (Material)<br />40%: [Rabbit Balancer](/neptunia/rb2/monster/0-195-rabbit-balancer.html) | 2249 | 4 | 5 | 9 |
+| <input type="checkbox" id="rb2-item-0-927" class="trackbox" /> | 927 | [Base](/neptunia/rb2/dlc/0-base.html) | [Meow Claws](/neptunia/rb2/item/0-927-meow-claws.html) (Material)<br />40%: [Meow](/neptunia/rb2/monster/0-198-meow.html) | 12 | 6 | 0 | 6 |
+| <input type="checkbox" id="rb2-item-0-988" class="trackbox" /> | 988 | [Base](/neptunia/rb2/dlc/0-base.html) | [Wood Shell](/neptunia/rb2/item/0-988-wood-shell.html) (Material)<br />50%: [Forest Turtle](/neptunia/rb2/monster/0-199-forest-turtle.html) | 1111 | 1 | 3 | 4 |
+
 ¹ Total amount needed for Remake System recipes.<br />² Total amount needed to complete quests at least once.
 
 ## Gathering point tables for Iris Field
@@ -148,6 +176,18 @@ See [gathering point tables](#gathering-point-tables-for-iris-field) for more in
 | 4 | 100%: [Red Seed](/neptunia/rb2/item/0-868-red-seed.html) x1~2 | 50%: [Harem](/neptunia/rb2/item/0-4282-harem.html) x2~3 |
 | 5 | 100%: [Glowgrass](/neptunia/rb2/item/0-703-glowgrass.html) x1~2 | 50%: [War](/neptunia/rb2/item/0-4267-war.html) x1 |
 | 6 | 100%: [Healing Herb](/neptunia/rb2/item/0-702-healing-herb.html) x1~2 | 50%: [All-star](/neptunia/rb2/item/0-4176-all-star.html) x3~5 |
+
+### Change Dungeon enabled
+  
+| #  | Item 1 | Item 2 | Item 3 |
+| -- | ------ | ------ | ------ |
+| 1 | 100%: [Herb](/neptunia/rb2/item/0-701-herb.html) x1~2 | 50%: [Healing Herb](/neptunia/rb2/item/0-702-healing-herb.html) x1 | 15%: [Super Secret Move](/neptunia/rb2/item/0-4206-super-secret-move.html) x1 |
+| 2 | 100%: [Rock](/neptunia/rb2/item/0-723-rock.html) x1~2 | 50%: [Glowgrass](/neptunia/rb2/item/0-703-glowgrass.html) x1 | 15%: [Tsundere](/neptunia/rb2/item/0-4166-tsundere.html) x1 |
+| 3 | 100%: [Herb](/neptunia/rb2/item/0-701-herb.html) x2~3 | 50%: [Glowgrass](/neptunia/rb2/item/0-703-glowgrass.html) x1 | 15%: [Business Sim](/neptunia/rb2/item/0-4145-business-sim.html) x1 |
+| 4 | 100%: [Healing Herb](/neptunia/rb2/item/0-702-healing-herb.html) x1~2 | 50%: [Red Seed](/neptunia/rb2/item/0-868-red-seed.html) x1 | 15%: [Harem](/neptunia/rb2/item/0-4282-harem.html) x1 |
+| 5 | 100%: [Rock](/neptunia/rb2/item/0-723-rock.html) x1~2 | 50%: [Healing Herb](/neptunia/rb2/item/0-702-healing-herb.html) x1 | 15%: [War](/neptunia/rb2/item/0-4267-war.html) x1 |
+| 6 | 100%: [Healing Herb](/neptunia/rb2/item/0-702-healing-herb.html) x1~2 | 15%: [All-star](/neptunia/rb2/item/0-4176-all-star.html) x1 |
+
 
 ### Treasure
 
@@ -193,3 +233,14 @@ See [gathering point tables](#gathering-point-tables-for-iris-field) for more in
 | 3 | [Meow](/neptunia/rb2/monster/0-198-meow.html) x1~2 | [Moulin Rouge](/neptunia/rb2/monster/0-196-moulin-rouge.html) x1~2 |
 | 4 | [Child Whale](/neptunia/rb2/monster/0-200-child-whale.html) x1 |
 | 5 | [Panzer](/neptunia/rb2/monster/0-201-panzer.html) x1 |
+
+### "Change Dungeon" dungeon setting
+
+
+| #  | Monster 1 | Monster 2 | Monster 3 |
+| -- | --------- | --------- | --------- |
+| 1 | [Rabbit Balancer](/neptunia/rb2/monster/0-195-rabbit-balancer.html) x3~4 |
+| 2 | [Forest Turtle](/neptunia/rb2/monster/0-199-forest-turtle.html) x1 |
+| 3 | [Meow](/neptunia/rb2/monster/0-198-meow.html) x1~2 | [Moulin Rouge](/neptunia/rb2/monster/0-196-moulin-rouge.html) x1~2 |
+| 4 | [Moulin Rouge](/neptunia/rb2/monster/0-196-moulin-rouge.html) x1 | [Rabbit Balancer](/neptunia/rb2/monster/0-195-rabbit-balancer.html) x1~2 | [Meow](/neptunia/rb2/monster/0-198-meow.html) x1 |
+| 5 | [Meow](/neptunia/rb2/monster/0-198-meow.html) x1~2 | [Rabbit Balancer](/neptunia/rb2/monster/0-195-rabbit-balancer.html) x1 | [Moulin Rouge](/neptunia/rb2/monster/0-196-moulin-rouge.html) x1 |

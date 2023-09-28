@@ -22,6 +22,7 @@ title: "Colosseum (Dungeon) - Hyperdimension Neptunia Re;Birth2"
 | **Item Change available?** | No |
 | **Add Enemies available?** | No |
 | **Add Super Enemies available?** | No |
+| **Change Dungeon available?** | No |
 | **To unlock dungeon** | N/A |
 
 ## Items found in Colosseum from gathering points
@@ -29,12 +30,6 @@ title: "Colosseum (Dungeon) - Hyperdimension Neptunia Re;Birth2"
 See [gathering point tables](#gathering-point-tables-for-colosseum) for more information.
 
 ### From normal gathering points
-
-|    | ID | DLC | Name | Sells for | Remakes¹ | Quests² | Total |
-| -- | -- | --- | ---- | --------- | -------- | ------- | ----: |
-
-
-### From Harvest Shift gathering points
 
 |    | ID | DLC | Name | Sells for | Remakes¹ | Quests² | Total |
 | -- | -- | --- | ---- | --------- | -------- | ------- | ----: |

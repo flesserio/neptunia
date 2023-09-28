@@ -22,6 +22,7 @@ title: "LAN Castle - Underground (Dungeon) - Hyperdimension Neptunia Re;Birth2"
 | **Item Change available?** | Yes |
 | **Add Enemies available?** | Yes |
 | **Add Super Enemies available?** | No |
+| **Change Dungeon available?** | No |
 | **To unlock dungeon** | View scene [Ch. 7 - Declaration of War](/neptunia/rb2/scene/0-453-ch-7-declaration-of-war.html)<br />Do not view scene [Apocalypse - Cursed Sword Story](/neptunia/rb2/scene/0-506-apocalypse-cursed-sword-story.html) |
 
 ## Items found in LAN Castle - Underground from gathering points

@@ -22,6 +22,7 @@ title: "LAN Castle (Dungeon) - Hyperdimension Neptunia Re;Birth2"
 | **Item Change available?** | Yes |
 | **Add Enemies available?** | Yes |
 | **Add Super Enemies available?** | No |
+| **Change Dungeon available?** | Yes |
 | **To unlock dungeon** | View scene [Ch. 5 - Histoire Caught](/neptunia/rb2/scene/0-368-ch-5-histoire-caught.html) |
 
 ## Items found in LAN Castle from gathering points
@@ -52,6 +53,17 @@ See [gathering point tables](#gathering-point-tables-for-lan-castle) for more in
 | <input type="checkbox" id="rb2-item-0-4105" class="trackbox" /> | 4105 | [Base](/neptunia/rb2/dlc/0-base.html) | [Strategic Smarts](/neptunia/rb2/item/0-4105-strategic-smarts.html) (Idea Chip (Yellow)) | 10 | 0 | 0 | 0 |
 | <input type="checkbox" id="rb2-item-0-4227" class="trackbox" /> | 4227 | [Base](/neptunia/rb2/dlc/0-base.html) | [Auto Save](/neptunia/rb2/item/0-4227-auto-save.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
 | <input type="checkbox" id="rb2-item-0-4270" class="trackbox" /> | 4270 | [Base](/neptunia/rb2/dlc/0-base.html) | [Crazy Difficult](/neptunia/rb2/item/0-4270-crazy-difficult.html) (Idea Chip (Red)) | 10 | 0 | 0 | 0 |
+
+### From Change Dungeon gathering points
+
+|    | ID | DLC | Name | Sells for | Remakes¹ | Quests² | Total |
+| -- | -- | --- | ---- | --------- | -------- | ------- | ----: |
+| <input type="checkbox" id="rb2-item-0-812" class="trackbox" /> | 812 | [Base](/neptunia/rb2/dlc/0-base.html) | [Magical Jelly](/neptunia/rb2/item/0-812-magical-jelly.html) (Material) | 162 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-961" class="trackbox" /> | 961 | [Base](/neptunia/rb2/dlc/0-base.html) | [Super Hard Scale](/neptunia/rb2/item/0-961-super-hard-scale.html) (Material) | 519 | 1 | 0 | 1 |
+| <input type="checkbox" id="rb2-item-0-964" class="trackbox" /> | 964 | [Base](/neptunia/rb2/dlc/0-base.html) | [Negative Root](/neptunia/rb2/item/0-964-negative-root.html) (Material) | 146 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-4140" class="trackbox" /> | 4140 | [Base](/neptunia/rb2/dlc/0-base.html) | [Remake](/neptunia/rb2/item/0-4140-remake.html) (Idea Chip (Yellow)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-4185" class="trackbox" /> | 4185 | [Base](/neptunia/rb2/dlc/0-base.html) | [Anime](/neptunia/rb2/item/0-4185-anime.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-4225" class="trackbox" /> | 4225 | [Base](/neptunia/rb2/dlc/0-base.html) | [Rumble](/neptunia/rb2/item/0-4225-rumble.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
 
 ### From treasure gathering points
 
@@ -113,6 +125,17 @@ See [gathering point tables](#gathering-point-tables-for-lan-castle) for more in
 | <input type="checkbox" id="rb2-item-0-853" class="trackbox" /> | 853 | [Base](/neptunia/rb2/dlc/0-base.html) | [Moonlight Shadow](/neptunia/rb2/item/0-853-moonlight-shadow.html) (Material)<br />40%: [Speedy](/neptunia/rb2/monster/0-234-speedy.html) | 110 | 5 | 0 | 5 |
 | <input type="checkbox" id="rb2-item-0-860" class="trackbox" /> | 860 | [Base](/neptunia/rb2/dlc/0-base.html) | [Shadow Ribbon](/neptunia/rb2/item/0-860-shadow-ribbon.html) (Material)<br />40%: [Ms. Speedy](/neptunia/rb2/monster/0-235-ms-speedy.html) | 14 | 7 | 0 | 7 |
 
+### Change Dungeon enabled
+
+|    | ID | DLC | Name | Sells for | Remakes¹ | Quests² | Total |
+| -- | -- | --- | ---- | --------- | -------- | ------- | ----: |
+| <input type="checkbox" id="rb2-item-0-231" class="trackbox" /> | 231 | [Base](/neptunia/rb2/dlc/0-base.html) | [Large Medal U](/neptunia/rb2/item/0-231-large-medal-u.html) (Key Item)<br />100%: [Next-gen Ricky](/neptunia/rb2/monster/0-411-next-gen-ricky.html) | 0 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-812" class="trackbox" /> | 812 | [Base](/neptunia/rb2/dlc/0-base.html) | [Magical Jelly](/neptunia/rb2/item/0-812-magical-jelly.html) (Material)<br />40%: [Magic Dogoo](/neptunia/rb2/monster/0-406-magic-dogoo.html) | 162 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-961" class="trackbox" /> | 961 | [Base](/neptunia/rb2/dlc/0-base.html) | [Super Hard Scale](/neptunia/rb2/item/0-961-super-hard-scale.html) (Material)<br />40%: [Dinosauroid](/neptunia/rb2/monster/0-404-dinosauroid.html) | 519 | 1 | 0 | 1 |
+| <input type="checkbox" id="rb2-item-0-964" class="trackbox" /> | 964 | [Base](/neptunia/rb2/dlc/0-base.html) | [Negative Root](/neptunia/rb2/item/0-964-negative-root.html) (Material)<br />40%: [Sentientree](/neptunia/rb2/monster/0-407-sentientree.html) | 146 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-1010" class="trackbox" /> | 1010 | [Base](/neptunia/rb2/dlc/0-base.html) | [Ancient...Thing](/neptunia/rb2/item/0-1010-ancient-thing.html) (Material)<br />55%: [Lost Dragon](/neptunia/rb2/monster/0-409-lost-dragon.html) | 3723 | 1 | 0 | 1 |
+| <input type="checkbox" id="rb2-item-0-4257" class="trackbox" /> | 4257 | [Base](/neptunia/rb2/dlc/0-base.html) | [Worldwide](/neptunia/rb2/item/0-4257-worldwide.html) (Idea Chip (Red))<br />65%: [Dreadnaught Dogoo](/neptunia/rb2/monster/0-410-dreadnaught-dogoo.html) | 10 | 0 | 0 | 0 |
+
 ¹ Total amount needed for Remake System recipes.<br />² Total amount needed to complete quests at least once.
 
 ## Gathering point tables for LAN Castle
@@ -135,6 +158,15 @@ See [gathering point tables](#gathering-point-tables-for-lan-castle) for more in
 | 1 | 100%: [Ice Stone](/neptunia/rb2/item/0-714-ice-stone.html) x1~2 | 50%: [Strategic Smarts](/neptunia/rb2/item/0-4105-strategic-smarts.html) x1 |
 | 2 | 100%: [Wind Stone](/neptunia/rb2/item/0-717-wind-stone.html) x1~2 | 50%: [Auto Save](/neptunia/rb2/item/0-4227-auto-save.html) x1 |
 | 3 | 100%: [Dense Earth Stone](/neptunia/rb2/item/0-720-dense-earth-stone.html) x1~2 | 50%: [Crazy Difficult](/neptunia/rb2/item/0-4270-crazy-difficult.html) x2 |
+
+### Change Dungeon enabled
+  
+| #  | Item 1 | Item 2 |
+| -- | ------ | ------ |
+| 1 | 100%: [Rumble](/neptunia/rb2/item/0-4225-rumble.html) x1 | 50%: [Super Hard Scale](/neptunia/rb2/item/0-961-super-hard-scale.html) x1 |
+| 2 | 100%: [Anime](/neptunia/rb2/item/0-4185-anime.html) x1 | 50%: [Magical Jelly](/neptunia/rb2/item/0-812-magical-jelly.html) x1 |
+| 3 | 100%: [Remake](/neptunia/rb2/item/0-4140-remake.html) x1~2 | 50%: [Negative Root](/neptunia/rb2/item/0-964-negative-root.html) x1 |
+
 
 ### Treasure
 
@@ -187,3 +219,17 @@ See [gathering point tables](#gathering-point-tables-for-lan-castle) for more in
 | 6 | [Gargoyle](/neptunia/rb2/monster/0-239-gargoyle.html) x1 |
 | 7 | [Speedy](/neptunia/rb2/monster/0-234-speedy.html) x1~2 | [Ms. Speedy](/neptunia/rb2/monster/0-235-ms-speedy.html) x1 | [Baconvader](/neptunia/rb2/monster/0-232-baconvader.html) x1 |
 | 8 | [Okuricap](/neptunia/rb2/monster/0-240-okuricap.html) x1 |
+
+### "Change Dungeon" dungeon setting
+
+
+| #  | Monster 1 | Monster 2 | Monster 3 |
+| -- | --------- | --------- | --------- |
+| 1 | [Magic Dogoo](/neptunia/rb2/monster/0-406-magic-dogoo.html) x3~4 |
+| 2 | [Sentientree](/neptunia/rb2/monster/0-407-sentientree.html) x1~2 | [Dinosauroid](/neptunia/rb2/monster/0-404-dinosauroid.html) x1~2 |
+| 3 | [Magic Dogoo](/neptunia/rb2/monster/0-406-magic-dogoo.html) x1~2 | [Sentientree](/neptunia/rb2/monster/0-407-sentientree.html) x1~2 |
+| 4 | [Dreadnaught Dogoo](/neptunia/rb2/monster/0-410-dreadnaught-dogoo.html) x1 |
+| 5 | [Sentientree](/neptunia/rb2/monster/0-407-sentientree.html) x1~2 | [Magic Dogoo](/neptunia/rb2/monster/0-406-magic-dogoo.html) x1 | [Dinosauroid](/neptunia/rb2/monster/0-404-dinosauroid.html) x1 |
+| 6 | [Lost Dragon](/neptunia/rb2/monster/0-409-lost-dragon.html) x1 |
+| 7 | [Dinosauroid](/neptunia/rb2/monster/0-404-dinosauroid.html) x1~2 | [Sentientree](/neptunia/rb2/monster/0-407-sentientree.html) x1~2 |
+| 8 | [Next-gen Ricky](/neptunia/rb2/monster/0-411-next-gen-ricky.html) x1 |

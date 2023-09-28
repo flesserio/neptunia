@@ -22,6 +22,7 @@ title: "Hellfire Hollow (Dungeon) - Hyperdimension Neptunia Re;Birth2"
 | **Item Change available?** | Yes |
 | **Add Enemies available?** | Yes |
 | **Add Super Enemies available?** | No |
+| **Change Dungeon available?** | No |
 | **To unlock dungeon** | Have save in first playthrough<br />View scene [Ch. 1 - To Planeptune](/neptunia/rb2/scene/0-52-ch-1-to-planeptune.html)<br />Have remake [Add Dungeon](/neptunia/rb2/remake/0-105-add-dungeon.html) developed |
 
 ## Items found in Hellfire Hollow from gathering points

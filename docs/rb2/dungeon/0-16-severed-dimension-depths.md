@@ -22,6 +22,7 @@ title: "Severed Dimension - Depths (Dungeon) - Hyperdimension Neptunia Re;Birth2
 | **Item Change available?** | Yes |
 | **Add Enemies available?** | Yes |
 | **Add Super Enemies available?** | No |
+| **Change Dungeon available?** | Yes |
 | **To unlock dungeon** | N/A |
 
 ## Items found in Severed Dimension - Depths from gathering points
@@ -53,6 +54,17 @@ See [gathering point tables](#gathering-point-tables-for-severed-dimension-depth
 | <input type="checkbox" id="rb2-item-0-4147" class="trackbox" /> | 4147 | [Base](/neptunia/rb2/dlc/0-base.html) | [Stealth](/neptunia/rb2/item/0-4147-stealth.html) (Idea Chip (Yellow)) | 10 | 0 | 0 | 0 |
 | <input type="checkbox" id="rb2-item-0-4200" class="trackbox" /> | 4200 | [Base](/neptunia/rb2/dlc/0-base.html) | [Metafiction](/neptunia/rb2/item/0-4200-metafiction.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
 | <input type="checkbox" id="rb2-item-0-4241" class="trackbox" /> | 4241 | [Base](/neptunia/rb2/dlc/0-base.html) | [Core User-oriented](/neptunia/rb2/item/0-4241-core-user-oriented.html) (Idea Chip (Red)) | 10 | 0 | 0 | 0 |
+
+### From Change Dungeon gathering points
+
+|    | ID | DLC | Name | Sells for | Remakes¹ | Quests² | Total |
+| -- | -- | --- | ---- | --------- | -------- | ------- | ----: |
+| <input type="checkbox" id="rb2-item-0-940" class="trackbox" /> | 940 | [Base](/neptunia/rb2/dlc/0-base.html) | [Sharp Fang](/neptunia/rb2/item/0-940-sharp-fang.html) (Material) | 208 | 16 | 0 | 16 |
+| <input type="checkbox" id="rb2-item-0-957" class="trackbox" /> | 957 | [Base](/neptunia/rb2/dlc/0-base.html) | [Stinky Mud](/neptunia/rb2/item/0-957-stinky-mud.html) (Material) | 15 | 5 | 0 | 5 |
+| <input type="checkbox" id="rb2-item-0-4108" class="trackbox" /> | 4108 | [Base](/neptunia/rb2/dlc/0-base.html) | [Action RPG](/neptunia/rb2/item/0-4108-action-rpg.html) (Idea Chip (Yellow)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-4179" class="trackbox" /> | 4179 | [Base](/neptunia/rb2/dlc/0-base.html) | [Monster](/neptunia/rb2/item/0-4179-monster.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-4202" class="trackbox" /> | 4202 | [Base](/neptunia/rb2/dlc/0-base.html) | [Jump](/neptunia/rb2/item/0-4202-jump.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-4270" class="trackbox" /> | 4270 | [Base](/neptunia/rb2/dlc/0-base.html) | [Crazy Difficult](/neptunia/rb2/item/0-4270-crazy-difficult.html) (Idea Chip (Red)) | 10 | 0 | 0 | 0 |
 
 ### From treasure gathering points
 
@@ -115,6 +127,16 @@ See [gathering point tables](#gathering-point-tables-for-severed-dimension-depth
 | <input type="checkbox" id="rb2-item-0-983" class="trackbox" /> | 983 | [Base](/neptunia/rb2/dlc/0-base.html) | [Phantom Bird Wing](/neptunia/rb2/item/0-983-phantom-bird-wing.html) (Material)<br />70%: [Roc](/neptunia/rb2/monster/0-190-roc.html) | 1111 | 2 | 0 | 2 |
 | <input type="checkbox" id="rb2-item-0-2549" class="trackbox" /> | 2549 | [Base](/neptunia/rb2/dlc/0-base.html) | [Rabbit Ears](/neptunia/rb2/item/0-2549-rabbit-ears.html) (Accessory)<br />60%: [Canopus](/neptunia/rb2/monster/0-189-canopus.html) | 100 | 0 | 0 | 0 |
 
+### Change Dungeon enabled
+
+|    | ID | DLC | Name | Sells for | Remakes¹ | Quests² | Total |
+| -- | -- | --- | ---- | --------- | -------- | ------- | ----: |
+| <input type="checkbox" id="rb2-item-0-232" class="trackbox" /> | 232 | [Base](/neptunia/rb2/dlc/0-base.html) | [Large Medal V](/neptunia/rb2/item/0-232-large-medal-v.html) (Key Item)<br />100%: [Tough Roc](/neptunia/rb2/monster/0-399-tough-roc.html) | 0 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-513" class="trackbox" /> | 513 | [Base](/neptunia/rb2/dlc/0-base.html) | [Neptune Collection](/neptunia/rb2/item/0-513-neptune-collection.html) (Plan)<br />50%: [Tough Demonic Fenrir](/neptunia/rb2/monster/0-397-tough-demonic-fenrir.html) | 0 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-912" class="trackbox" /> | 912 | [Base](/neptunia/rb2/dlc/0-base.html) | [Illegal ROM](/neptunia/rb2/item/0-912-illegal-rom.html) (Material)<br />40%: [EDGE](/neptunia/rb2/monster/0-194-edge.html)<br />40%: [Auto Surveillance](/neptunia/rb2/monster/0-400-auto-surveillance.html) | 233 | 6 | 0 | 6 |
+| <input type="checkbox" id="rb2-item-0-940" class="trackbox" /> | 940 | [Base](/neptunia/rb2/dlc/0-base.html) | [Sharp Fang](/neptunia/rb2/item/0-940-sharp-fang.html) (Material)<br />40%: [Wild Dog](/neptunia/rb2/monster/0-401-wild-dog.html) | 208 | 16 | 0 | 16 |
+| <input type="checkbox" id="rb2-item-0-957" class="trackbox" /> | 957 | [Base](/neptunia/rb2/dlc/0-base.html) | [Stinky Mud](/neptunia/rb2/item/0-957-stinky-mud.html) (Material)<br />40%: [Rebirth Hand](/neptunia/rb2/monster/0-403-rebirth-hand.html) | 15 | 5 | 0 | 5 |
+
 ¹ Total amount needed for Remake System recipes.<br />² Total amount needed to complete quests at least once.
 
 ## Gathering point tables for Severed Dimension - Depths
@@ -139,6 +161,16 @@ See [gathering point tables](#gathering-point-tables-for-severed-dimension-depth
 | 2 | 100%: [Heart Frames](/neptunia/rb2/item/0-899-heart-frames.html) x1~2 | 50%: [Stealth](/neptunia/rb2/item/0-4147-stealth.html) x1 |
 | 3 | 100%: [Hoodlum Mask](/neptunia/rb2/item/0-931-hoodlum-mask.html) x1~2 | 50%: [Adventure RPG](/neptunia/rb2/item/0-4109-adventure-rpg.html) x2~3 |
 | 4 | 100%: [Illegal ROM](/neptunia/rb2/item/0-912-illegal-rom.html) x2~3 | 50%: [Core User-oriented](/neptunia/rb2/item/0-4241-core-user-oriented.html) x1 |
+
+### Change Dungeon enabled
+  
+| #  | Item 1 | Item 2 |
+| -- | ------ | ------ |
+| 1 | 100%: [Crazy Difficult](/neptunia/rb2/item/0-4270-crazy-difficult.html) x1 | 50%: [Sharp Fang](/neptunia/rb2/item/0-940-sharp-fang.html) x1 |
+| 2 | 100%: [Jump](/neptunia/rb2/item/0-4202-jump.html) x1 |
+| 3 | 100%: [Monster](/neptunia/rb2/item/0-4179-monster.html) x1 | 50%: [Stinky Mud](/neptunia/rb2/item/0-957-stinky-mud.html) x1 |
+| 4 | 100%: [Action RPG](/neptunia/rb2/item/0-4108-action-rpg.html) x1 |
+
 
 ### Treasure
 
@@ -189,3 +221,16 @@ See [gathering point tables](#gathering-point-tables-for-severed-dimension-depth
 | 5 | [Demonic Fenrir](/neptunia/rb2/monster/0-188-demonic-fenrir.html) x1 |
 | 6 | [EDGE](/neptunia/rb2/monster/0-194-edge.html) x1 | [Ruffian Cat](/neptunia/rb2/monster/0-193-ruffian-cat.html) x1 | [Super FX Doctor](/neptunia/rb2/monster/0-187-super-fx-doctor.html) x1 |
 | 7 | [Roc](/neptunia/rb2/monster/0-190-roc.html) x1 |
+
+### "Change Dungeon" dungeon setting
+
+
+| #  | Monster 1 | Monster 2 | Monster 3 |
+| -- | --------- | --------- | --------- |
+| 1 | [Auto Surveillance](/neptunia/rb2/monster/0-400-auto-surveillance.html) x3~4 |
+| 2 | [Rebirth Hand](/neptunia/rb2/monster/0-403-rebirth-hand.html) x1~4 |
+| 3 | [Wild Dog](/neptunia/rb2/monster/0-401-wild-dog.html) x1~2 | [Rebirth Hand](/neptunia/rb2/monster/0-403-rebirth-hand.html) x1~2 |
+| 4 | [Auto Surveillance](/neptunia/rb2/monster/0-400-auto-surveillance.html) x1~2 | [Rebirth Hand](/neptunia/rb2/monster/0-403-rebirth-hand.html) x1 |
+| 5 | [Tough Demonic Fenrir](/neptunia/rb2/monster/0-397-tough-demonic-fenrir.html) x1 |
+| 6 | [Wild Dog](/neptunia/rb2/monster/0-401-wild-dog.html) x1 | [Rebirth Hand](/neptunia/rb2/monster/0-403-rebirth-hand.html) x1 | [Auto Surveillance](/neptunia/rb2/monster/0-400-auto-surveillance.html) x1 |
+| 7 | [Tough Roc](/neptunia/rb2/monster/0-399-tough-roc.html) x1 |

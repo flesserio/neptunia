@@ -22,6 +22,7 @@ title: "Septent Resort (Dungeon) - Hyperdimension Neptunia Re;Birth2"
 | **Item Change available?** | Yes |
 | **Add Enemies available?** | Yes |
 | **Add Super Enemies available?** | No |
+| **Change Dungeon available?** | Yes |
 | **To unlock dungeon** | View scene [Ch. 2 - Hematite Whereabouts](/neptunia/rb2/scene/0-118-ch-2-hematite-whereabouts.html) |
 
 ## Items found in Septent Resort from gathering points
@@ -57,6 +58,19 @@ See [gathering point tables](#gathering-point-tables-for-septent-resort) for mor
 | <input type="checkbox" id="rb2-item-0-4177" class="trackbox" /> | 4177 | [Base](/neptunia/rb2/dlc/0-base.html) | [Animal](/neptunia/rb2/item/0-4177-animal.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
 | <input type="checkbox" id="rb2-item-0-4238" class="trackbox" /> | 4238 | [Base](/neptunia/rb2/dlc/0-base.html) | [Casual-oriented](/neptunia/rb2/item/0-4238-casual-oriented.html) (Idea Chip (Red)) | 10 | 0 | 0 | 0 |
 | <input type="checkbox" id="rb2-item-0-4263" class="trackbox" /> | 4263 | [Base](/neptunia/rb2/dlc/0-base.html) | [Fight](/neptunia/rb2/item/0-4263-fight.html) (Idea Chip (Red)) | 10 | 0 | 0 | 0 |
+
+### From Change Dungeon gathering points
+
+|    | ID | DLC | Name | Sells for | Remakes¹ | Quests² | Total |
+| -- | -- | --- | ---- | --------- | -------- | ------- | ----: |
+| <input type="checkbox" id="rb2-item-0-883" class="trackbox" /> | 883 | [Base](/neptunia/rb2/dlc/0-base.html) | [Cool Boxbird Wing](/neptunia/rb2/item/0-883-cool-boxbird-wing.html) (Material) | 168 | 51 | 0 | 51 |
+| <input type="checkbox" id="rb2-item-0-956" class="trackbox" /> | 956 | [Base](/neptunia/rb2/dlc/0-base.html) | [Poisonous Petal](/neptunia/rb2/item/0-956-poisonous-petal.html) (Material) | 362 | 1 | 0 | 1 |
+| <input type="checkbox" id="rb2-item-0-963" class="trackbox" /> | 963 | [Base](/neptunia/rb2/dlc/0-base.html) | [Slippery Wing](/neptunia/rb2/item/0-963-slippery-wing.html) (Material) | 146 | 7 | 5 | 12 |
+| <input type="checkbox" id="rb2-item-0-4130" class="trackbox" /> | 4130 | [Base](/neptunia/rb2/dlc/0-base.html) | [Party](/neptunia/rb2/item/0-4130-party.html) (Idea Chip (Yellow)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-4181" class="trackbox" /> | 4181 | [Base](/neptunia/rb2/dlc/0-base.html) | [Train](/neptunia/rb2/item/0-4181-train.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-4196" class="trackbox" /> | 4196 | [Base](/neptunia/rb2/dlc/0-base.html) | [Combined](/neptunia/rb2/item/0-4196-combined.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-4216" class="trackbox" /> | 4216 | [Base](/neptunia/rb2/dlc/0-base.html) | [Touch Controls](/neptunia/rb2/item/0-4216-touch-controls.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-4252" class="trackbox" /> | 4252 | [Base](/neptunia/rb2/dlc/0-base.html) | [Famous Artist](/neptunia/rb2/item/0-4252-famous-artist.html) (Idea Chip (Red)) | 10 | 0 | 0 | 0 |
 
 ### From treasure gathering points
 
@@ -119,6 +133,17 @@ See [gathering point tables](#gathering-point-tables-for-septent-resort) for mor
 | <input type="checkbox" id="rb2-item-0-979" class="trackbox" /> | 979 | [Base](/neptunia/rb2/dlc/0-base.html) | [Whale Ball](/neptunia/rb2/item/0-979-whale-ball.html) (Material)<br />60%: [Whale](/neptunia/rb2/monster/0-141-whale.html) | 249 | 2 | 0 | 2 |
 | <input type="checkbox" id="rb2-item-0-987" class="trackbox" /> | 987 | [Base](/neptunia/rb2/dlc/0-base.html) | [Turtle Shell](/neptunia/rb2/item/0-987-turtle-shell.html) (Material)<br />70%: [Turtle](/neptunia/rb2/monster/0-142-turtle.html) | 363 | 0 | 0 | 0 |
 
+### Change Dungeon enabled
+
+|    | ID | DLC | Name | Sells for | Remakes¹ | Quests² | Total |
+| -- | -- | --- | ---- | --------- | -------- | ------- | ----: |
+| <input type="checkbox" id="rb2-item-0-512" class="trackbox" /> | 512 | [Base](/neptunia/rb2/dlc/0-base.html) | [Rom's Ram Drawings](/neptunia/rb2/item/0-512-roms-ram-drawings.html) (Plan)<br />65%: [Blue Whale](/neptunia/rb2/monster/0-354-blue-whale.html) | 0 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-883" class="trackbox" /> | 883 | [Base](/neptunia/rb2/dlc/0-base.html) | [Cool Boxbird Wing](/neptunia/rb2/item/0-883-cool-boxbird-wing.html) (Material)<br />40%: [King Boxbird](/neptunia/rb2/monster/0-349-king-boxbird.html) | 168 | 51 | 0 | 51 |
+| <input type="checkbox" id="rb2-item-0-956" class="trackbox" /> | 956 | [Base](/neptunia/rb2/dlc/0-base.html) | [Poisonous Petal](/neptunia/rb2/item/0-956-poisonous-petal.html) (Material)<br />40%: [Rafflesia](/neptunia/rb2/monster/0-351-rafflesia.html) | 362 | 1 | 0 | 1 |
+| <input type="checkbox" id="rb2-item-0-963" class="trackbox" /> | 963 | [Base](/neptunia/rb2/dlc/0-base.html) | [Slippery Wing](/neptunia/rb2/item/0-963-slippery-wing.html) (Material)<br />40%: [Penguin](/neptunia/rb2/monster/0-350-penguin.html) | 146 | 7 | 5 | 12 |
+| <input type="checkbox" id="rb2-item-0-976" class="trackbox" /> | 976 | [Base](/neptunia/rb2/dlc/0-base.html) | [Quality Dolphin Tail](/neptunia/rb2/item/0-976-quality-dolphin-tail.html) (Material)<br />55%: [1000-Year Dolphin](/neptunia/rb2/monster/0-353-1000-year-dolphin.html) | 3256 | 2 | 0 | 2 |
+| <input type="checkbox" id="rb2-item-0-991" class="trackbox" /> | 991 | [Base](/neptunia/rb2/dlc/0-base.html) | [Lava Rock Shell](/neptunia/rb2/item/0-991-lava-rock-shell.html) (Material)<br />55%: [Volcano Turtle](/neptunia/rb2/monster/0-355-volcano-turtle.html) | 5112 | 4 | 0 | 4 |
+
 ¹ Total amount needed for Remake System recipes.<br />² Total amount needed to complete quests at least once.
 
 ## Gathering point tables for Septent Resort
@@ -145,6 +170,17 @@ See [gathering point tables](#gathering-point-tables-for-septent-resort) for mor
 | 3 | 100%: [Blue Petal](/neptunia/rb2/item/0-865-blue-petal.html) x1~2 | 50%: [Casual-oriented](/neptunia/rb2/item/0-4238-casual-oriented.html) x1~2 |
 | 4 | 100%: [Sea Bead](/neptunia/rb2/item/0-733-sea-bead.html) x1~2 | 50%: [Fight](/neptunia/rb2/item/0-4263-fight.html) x1~2 |
 | 5 | 100%: [Fish Skeleton](/neptunia/rb2/item/0-903-fish-skeleton.html) x1~2 | 50%: [Animal](/neptunia/rb2/item/0-4177-animal.html) x2~4 |
+
+### Change Dungeon enabled
+  
+| #  | Item 1 | Item 2 |
+| -- | ------ | ------ |
+| 1 | 100%: [Famous Artist](/neptunia/rb2/item/0-4252-famous-artist.html) x1~2 | 50%: [Cool Boxbird Wing](/neptunia/rb2/item/0-883-cool-boxbird-wing.html) x1 |
+| 2 | 100%: [Touch Controls](/neptunia/rb2/item/0-4216-touch-controls.html) x1~2 |
+| 3 | 100%: [Party](/neptunia/rb2/item/0-4130-party.html) x1~2 | 50%: [Slippery Wing](/neptunia/rb2/item/0-963-slippery-wing.html) x1 |
+| 4 | 100%: [Train](/neptunia/rb2/item/0-4181-train.html) x1~2 | 50%: [Poisonous Petal](/neptunia/rb2/item/0-956-poisonous-petal.html) x1 |
+| 5 | 100%: [Combined](/neptunia/rb2/item/0-4196-combined.html) x2~3 |
+
 
 ### Treasure
 
@@ -198,3 +234,17 @@ See [gathering point tables](#gathering-point-tables-for-septent-resort) for mor
 | 6 | [West Point](/neptunia/rb2/monster/0-136-west-point.html) x1~2 | [Ms. Bashful](/neptunia/rb2/monster/0-139-ms-bashful.html) x1 | [Bashful](/neptunia/rb2/monster/0-138-bashful.html) x1 |
 | 7 | [Fish Zombie](/neptunia/rb2/monster/0-120-fish-zombie.html) x1 | [Bashful](/neptunia/rb2/monster/0-138-bashful.html) x1 | [Ms. Bashful](/neptunia/rb2/monster/0-139-ms-bashful.html) x1~2 |
 | 8 | [Turtle](/neptunia/rb2/monster/0-142-turtle.html) x1 |
+
+### "Change Dungeon" dungeon setting
+
+
+| #  | Monster 1 | Monster 2 | Monster 3 |
+| -- | --------- | --------- | --------- |
+| 1 | [King Boxbird](/neptunia/rb2/monster/0-349-king-boxbird.html) x2~4 |
+| 2 | [Penguin](/neptunia/rb2/monster/0-350-penguin.html) x1~2 | [King Boxbird](/neptunia/rb2/monster/0-349-king-boxbird.html) x1~2 |
+| 3 | [Blue Whale](/neptunia/rb2/monster/0-354-blue-whale.html) x1 |
+| 4 | [Penguin](/neptunia/rb2/monster/0-350-penguin.html) x1~2 | [Rafflesia](/neptunia/rb2/monster/0-351-rafflesia.html) x1 |
+| 5 | [Rafflesia](/neptunia/rb2/monster/0-351-rafflesia.html) x1~2 | [King Boxbird](/neptunia/rb2/monster/0-349-king-boxbird.html) x1 |
+| 6 | [Volcano Turtle](/neptunia/rb2/monster/0-355-volcano-turtle.html) x1 |
+| 7 | [Rafflesia](/neptunia/rb2/monster/0-351-rafflesia.html) x1 | [King Boxbird](/neptunia/rb2/monster/0-349-king-boxbird.html) x1 | [Penguin](/neptunia/rb2/monster/0-350-penguin.html) x1~2 |
+| 8 | [1000-Year Dolphin](/neptunia/rb2/monster/0-353-1000-year-dolphin.html) x1 |

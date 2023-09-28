@@ -22,6 +22,7 @@ title: "Junk Box  (Dungeon) - Hyperdimension Neptunia Re;Birth2"
 | **Item Change available?** | Yes |
 | **Add Enemies available?** | Yes |
 | **Add Super Enemies available?** | No |
+| **Change Dungeon available?** | No |
 | **To unlock dungeon** | View scene [Ch. 7 - Obligatory Hot Springs](/neptunia/rb2/scene/0-456-ch-7-obligatory-hot-springs.html) |
 
 ## Items found in Junk Box  from gathering points

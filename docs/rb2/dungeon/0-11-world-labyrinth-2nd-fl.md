@@ -22,6 +22,7 @@ title: "World Labyrinth - 2nd Fl. (Dungeon) - Hyperdimension Neptunia Re;Birth2"
 | **Item Change available?** | Yes |
 | **Add Enemies available?** | Yes |
 | **Add Super Enemies available?** | No |
+| **Change Dungeon available?** | Yes |
 | **To unlock dungeon** | N/A |
 
 ## Items found in World Labyrinth - 2nd Fl. from gathering points
@@ -55,6 +56,20 @@ See [gathering point tables](#gathering-point-tables-for-world-labyrinth-2nd-fl)
 | <input type="checkbox" id="rb2-item-0-4229" class="trackbox" /> | 4229 | [Base](/neptunia/rb2/dlc/0-base.html) | [DL Only](/neptunia/rb2/item/0-4229-dl-only.html) (Idea Chip (Red)) | 10 | 0 | 0 | 0 |
 | <input type="checkbox" id="rb2-item-0-4253" class="trackbox" /> | 4253 | [Base](/neptunia/rb2/dlc/0-base.html) | [Niche](/neptunia/rb2/item/0-4253-niche.html) (Idea Chip (Red)) | 10 | 0 | 0 | 0 |
 | <input type="checkbox" id="rb2-item-0-4279" class="trackbox" /> | 4279 | [Base](/neptunia/rb2/dlc/0-base.html) | [Jargon](/neptunia/rb2/item/0-4279-jargon.html) (Idea Chip (Red)) | 10 | 0 | 0 | 0 |
+
+### From Change Dungeon gathering points
+
+|    | ID | DLC | Name | Sells for | Remakes¹ | Quests² | Total |
+| -- | -- | --- | ---- | --------- | -------- | ------- | ----: |
+| <input type="checkbox" id="rb2-item-0-864" class="trackbox" /> | 864 | [Base](/neptunia/rb2/dlc/0-base.html) | [Red Petal](/neptunia/rb2/item/0-864-red-petal.html) (Material) | 1891 | 5 | 0 | 5 |
+| <input type="checkbox" id="rb2-item-0-924" class="trackbox" /> | 924 | [Base](/neptunia/rb2/dlc/0-base.html) | [Strong Thread](/neptunia/rb2/item/0-924-strong-thread.html) (Material) | 122 | 5 | 0 | 5 |
+| <input type="checkbox" id="rb2-item-0-942" class="trackbox" /> | 942 | [Base](/neptunia/rb2/dlc/0-base.html) | [Soft Wolf Fur](/neptunia/rb2/item/0-942-soft-wolf-fur.html) (Material) | 713 | 3 | 0 | 3 |
+| <input type="checkbox" id="rb2-item-0-944" class="trackbox" /> | 944 | [Base](/neptunia/rb2/dlc/0-base.html) | [Magical Beak](/neptunia/rb2/item/0-944-magical-beak.html) (Material) | 459 | 5 | 0 | 5 |
+| <input type="checkbox" id="rb2-item-0-4156" class="trackbox" /> | 4156 | [Base](/neptunia/rb2/dlc/0-base.html) | [TPS](/neptunia/rb2/item/0-4156-tps.html) (Idea Chip (Yellow)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-4161" class="trackbox" /> | 4161 | [Base](/neptunia/rb2/dlc/0-base.html) | [Famous Person](/neptunia/rb2/item/0-4161-famous-person.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-4211" class="trackbox" /> | 4211 | [Base](/neptunia/rb2/dlc/0-base.html) | [Juvenile Game](/neptunia/rb2/item/0-4211-juvenile-game.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-4247" class="trackbox" /> | 4247 | [Base](/neptunia/rb2/dlc/0-base.html) | [Yuriyuri](/neptunia/rb2/item/0-4247-yuriyuri.html) (Idea Chip (Red)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-4266" class="trackbox" /> | 4266 | [Base](/neptunia/rb2/dlc/0-base.html) | [Journey](/neptunia/rb2/item/0-4266-journey.html) (Idea Chip (Red)) | 10 | 0 | 0 | 0 |
 
 ### From treasure gathering points
 
@@ -121,6 +136,18 @@ See [gathering point tables](#gathering-point-tables-for-world-labyrinth-2nd-fl)
 | <input type="checkbox" id="rb2-item-0-1004" class="trackbox" /> | 1004 | [Base](/neptunia/rb2/dlc/0-base.html) | [Dragon Soul](/neptunia/rb2/item/0-1004-dragon-soul.html) (Material)<br />60%: [Sealed Calamity](/neptunia/rb2/monster/0-157-sealed-calamity.html) | 120 | 2 | 0 | 2 |
 | <input type="checkbox" id="rb2-item-0-4239" class="trackbox" /> | 4239 | [Base](/neptunia/rb2/dlc/0-base.html) | [Child-oriented](/neptunia/rb2/item/0-4239-child-oriented.html) (Idea Chip (Red))<br />70%: [Deneb](/neptunia/rb2/monster/0-158-deneb.html) | 10 | 0 | 0 | 0 |
 
+### Change Dungeon enabled
+
+|    | ID | DLC | Name | Sells for | Remakes¹ | Quests² | Total |
+| -- | -- | --- | ---- | --------- | -------- | ------- | ----: |
+| <input type="checkbox" id="rb2-item-0-864" class="trackbox" /> | 864 | [Base](/neptunia/rb2/dlc/0-base.html) | [Red Petal](/neptunia/rb2/item/0-864-red-petal.html) (Material)<br />40%: [Alfred](/neptunia/rb2/monster/0-376-alfred.html) | 1891 | 5 | 0 | 5 |
+| <input type="checkbox" id="rb2-item-0-924" class="trackbox" /> | 924 | [Base](/neptunia/rb2/dlc/0-base.html) | [Strong Thread](/neptunia/rb2/item/0-924-strong-thread.html) (Material)<br />40%: [Black Spider](/neptunia/rb2/monster/0-377-black-spider.html) | 122 | 5 | 0 | 5 |
+| <input type="checkbox" id="rb2-item-0-942" class="trackbox" /> | 942 | [Base](/neptunia/rb2/dlc/0-base.html) | [Soft Wolf Fur](/neptunia/rb2/item/0-942-soft-wolf-fur.html) (Material)<br />40%: [Gray Wolf](/neptunia/rb2/monster/0-374-gray-wolf.html) | 713 | 3 | 0 | 3 |
+| <input type="checkbox" id="rb2-item-0-944" class="trackbox" /> | 944 | [Base](/neptunia/rb2/dlc/0-base.html) | [Magical Beak](/neptunia/rb2/item/0-944-magical-beak.html) (Material)<br />40%: [Nue](/neptunia/rb2/monster/0-372-nue.html) | 459 | 5 | 0 | 5 |
+| <input type="checkbox" id="rb2-item-0-2314" class="trackbox" /> | 2314 | [Base](/neptunia/rb2/dlc/0-base.html) | [Mirror Rice Cakes](/neptunia/rb2/item/0-2314-mirror-rice-cakes.html) (Accessory)<br />55%: [Hyakushiki Weapon](/neptunia/rb2/monster/0-369-hyakushiki-weapon.html) | 500 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-4227" class="trackbox" /> | 4227 | [Base](/neptunia/rb2/dlc/0-base.html) | [Auto Save](/neptunia/rb2/item/0-4227-auto-save.html) (Idea Chip (Blue))<br />70%: [Fomalhaut](/neptunia/rb2/monster/0-371-fomalhaut.html) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-4281" class="trackbox" /> | 4281 | [Base](/neptunia/rb2/dlc/0-base.html) | [Near Future](/neptunia/rb2/item/0-4281-near-future.html) (Idea Chip (Red))<br />65%: [Magatsu Hinokami](/neptunia/rb2/monster/0-370-magatsu-hinokami.html) | 10 | 0 | 0 | 0 |
+
 ¹ Total amount needed for Remake System recipes.<br />² Total amount needed to complete quests at least once.
 
 ## Gathering point tables for World Labyrinth - 2nd Fl.
@@ -147,6 +174,17 @@ See [gathering point tables](#gathering-point-tables-for-world-labyrinth-2nd-fl)
 | 3 | 100%: [Lion's Mane](/neptunia/rb2/item/0-830-lions-mane.html) x1~2 | 50%: [Pachinko](/neptunia/rb2/item/0-4142-pachinko.html) x2~3 |
 | 4 | 100%: [Green Block](/neptunia/rb2/item/0-840-green-block.html) x1~2 | 50%: [DL Only](/neptunia/rb2/item/0-4229-dl-only.html) x1~2 |
 | 5 | 100%: [Maoni Base](/neptunia/rb2/item/0-730-maoni-base.html) x2~3 | 50%: [Jargon](/neptunia/rb2/item/0-4279-jargon.html) x2~3 |
+
+### Change Dungeon enabled
+  
+| #  | Item 1 | Item 2 |
+| -- | ------ | ------ |
+| 1 | 100%: [Yuriyuri](/neptunia/rb2/item/0-4247-yuriyuri.html) x1~2 |
+| 2 | 100%: [Juvenile Game](/neptunia/rb2/item/0-4211-juvenile-game.html) x1~2 | 50%: [Magical Beak](/neptunia/rb2/item/0-944-magical-beak.html) x1 |
+| 3 | 100%: [TPS](/neptunia/rb2/item/0-4156-tps.html) x1~2 | 50%: [Soft Wolf Fur](/neptunia/rb2/item/0-942-soft-wolf-fur.html) x1 |
+| 4 | 100%: [Famous Person](/neptunia/rb2/item/0-4161-famous-person.html) x1~2 | 50%: [Strong Thread](/neptunia/rb2/item/0-924-strong-thread.html) x1 |
+| 5 | 100%: [Journey](/neptunia/rb2/item/0-4266-journey.html) x2~3 | 50%: [Red Petal](/neptunia/rb2/item/0-864-red-petal.html) x1 |
+
 
 ### Treasure
 
@@ -200,3 +238,17 @@ See [gathering point tables](#gathering-point-tables-for-world-labyrinth-2nd-fl)
 | 6 | [Terist](/neptunia/rb2/monster/0-161-terist.html) x1~2 | [Lionvader](/neptunia/rb2/monster/0-159-lionvader.html) x1 | [Plum-met](/neptunia/rb2/monster/0-162-plum-met.html) x1 |
 | 7 | [Deneb](/neptunia/rb2/monster/0-158-deneb.html) x1 |
 | 8 | [Super FX Professor](/neptunia/rb2/monster/0-163-super-fx-professor.html) x1~2 | [Plum-met](/neptunia/rb2/monster/0-162-plum-met.html) x1~2 |
+
+### "Change Dungeon" dungeon setting
+
+
+| #  | Monster 1 | Monster 2 | Monster 3 |
+| -- | --------- | --------- | --------- |
+| 1 | [Alfred](/neptunia/rb2/monster/0-376-alfred.html) x2~3 | [Black Spider](/neptunia/rb2/monster/0-377-black-spider.html) x1 |
+| 2 | [Black Spider](/neptunia/rb2/monster/0-377-black-spider.html) x2~4 |
+| 3 | [Hyakushiki Weapon](/neptunia/rb2/monster/0-369-hyakushiki-weapon.html) x1 |
+| 4 | [Magatsu Hinokami](/neptunia/rb2/monster/0-370-magatsu-hinokami.html) x1 |
+| 5 | [Nue](/neptunia/rb2/monster/0-372-nue.html) x1~2 | [Alfred](/neptunia/rb2/monster/0-376-alfred.html) x1 |
+| 6 | [Alfred](/neptunia/rb2/monster/0-376-alfred.html) x1~2 | [Nue](/neptunia/rb2/monster/0-372-nue.html) x1 | [Gray Wolf](/neptunia/rb2/monster/0-374-gray-wolf.html) x1 |
+| 7 | [Gray Wolf](/neptunia/rb2/monster/0-374-gray-wolf.html) x1 | [Black Spider](/neptunia/rb2/monster/0-377-black-spider.html) x1 |
+| 8 | [Fomalhaut](/neptunia/rb2/monster/0-371-fomalhaut.html) x1 |

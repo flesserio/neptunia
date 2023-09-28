@@ -22,6 +22,7 @@ title: "Gamindustri Graveyard (Dungeon) - Hyperdimension Neptunia Re;Birth2"
 | **Item Change available?** | Yes |
 | **Add Enemies available?** | Yes |
 | **Add Super Enemies available?** | No |
+| **Change Dungeon available?** | No |
 | **To unlock dungeon** | View scene [Ch. 4 - To the Gamindustri Graveyard](/neptunia/rb2/scene/0-304-ch-4-to-the-gamindustri-graveyard.html) |
 
 ## Items found in Gamindustri Graveyard from gathering points

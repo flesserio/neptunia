@@ -22,6 +22,7 @@ title: "Mini Island (Dungeon) - Hyperdimension Neptunia Re;Birth2"
 | **Item Change available?** | No |
 | **Add Enemies available?** | No |
 | **Add Super Enemies available?** | No |
+| **Change Dungeon available?** | No |
 | **To unlock dungeon** | Have remake [Add Dungeon](/neptunia/rb2/remake/15-1002-add-dungeon.html) developed |
 
 ## Items found in Mini Island from gathering points
@@ -29,12 +30,6 @@ title: "Mini Island (Dungeon) - Hyperdimension Neptunia Re;Birth2"
 See [gathering point tables](#gathering-point-tables-for-mini-island) for more information.
 
 ### From normal gathering points
-
-|    | ID | DLC | Name | Sells for | Remakes¹ | Quests² | Total |
-| -- | -- | --- | ---- | --------- | -------- | ------- | ----: |
-
-
-### From Harvest Shift gathering points
 
 |    | ID | DLC | Name | Sells for | Remakes¹ | Quests² | Total |
 | -- | -- | --- | ---- | --------- | -------- | ------- | ----: |

@@ -22,6 +22,7 @@ title: "LAN Castle - Depths (Dungeon) - Hyperdimension Neptunia Re;Birth2"
 | **Item Change available?** | Yes |
 | **Add Enemies available?** | Yes |
 | **Add Super Enemies available?** | No |
+| **Change Dungeon available?** | Yes |
 | **To unlock dungeon** | N/A |
 
 ## Items found in LAN Castle - Depths from gathering points
@@ -51,6 +52,17 @@ See [gathering point tables](#gathering-point-tables-for-lan-castle-depths) for 
 | <input type="checkbox" id="rb2-item-0-4128" class="trackbox" /> | 4128 | [Base](/neptunia/rb2/dlc/0-base.html) | [Quiz](/neptunia/rb2/item/0-4128-quiz.html) (Idea Chip (Yellow)) | 10 | 0 | 0 | 0 |
 | <input type="checkbox" id="rb2-item-0-4188" class="trackbox" /> | 4188 | [Base](/neptunia/rb2/dlc/0-base.html) | [Special Controller](/neptunia/rb2/item/0-4188-special-controller.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
 | <input type="checkbox" id="rb2-item-0-4250" class="trackbox" /> | 4250 | [Base](/neptunia/rb2/dlc/0-base.html) | [Industry First!](/neptunia/rb2/item/0-4250-industry-first.html) (Idea Chip (Red)) | 10 | 0 | 0 | 0 |
+
+### From Change Dungeon gathering points
+
+|    | ID | DLC | Name | Sells for | Remakes¹ | Quests² | Total |
+| -- | -- | --- | ---- | --------- | -------- | ------- | ----: |
+| <input type="checkbox" id="rb2-item-0-855" class="trackbox" /> | 855 | [Base](/neptunia/rb2/dlc/0-base.html) | [Lost Holy Cloth](/neptunia/rb2/item/0-855-lost-holy-cloth.html) (Material) | 72 | 15 | 0 | 15 |
+| <input type="checkbox" id="rb2-item-0-862" class="trackbox" /> | 862 | [Base](/neptunia/rb2/dlc/0-base.html) | [Lost Ribbon](/neptunia/rb2/item/0-862-lost-ribbon.html) (Material) | 80 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-954" class="trackbox" /> | 954 | [Base](/neptunia/rb2/dlc/0-base.html) | [Mithril Ore](/neptunia/rb2/item/0-954-mithril-ore.html) (Material) | 312 | 15 | 0 | 15 |
+| <input type="checkbox" id="rb2-item-0-4119" class="trackbox" /> | 4119 | [Base](/neptunia/rb2/dlc/0-base.html) | [Soccer](/neptunia/rb2/item/0-4119-soccer.html) (Idea Chip (Yellow)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-4194" class="trackbox" /> | 4194 | [Base](/neptunia/rb2/dlc/0-base.html) | [Color Editor](/neptunia/rb2/item/0-4194-color-editor.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-4276" class="trackbox" /> | 4276 | [Base](/neptunia/rb2/dlc/0-base.html) | [Learn by Dying](/neptunia/rb2/item/0-4276-learn-by-dying.html) (Idea Chip (Red)) | 10 | 0 | 0 | 0 |
 
 ### From treasure gathering points
 
@@ -98,6 +110,15 @@ See [gathering point tables](#gathering-point-tables-for-lan-castle-depths) for 
 | <input type="checkbox" id="rb2-item-0-511" class="trackbox" /> | 511 | [Base](/neptunia/rb2/dlc/0-base.html) | [Rom's Selfies](/neptunia/rb2/item/0-511-roms-selfies.html) (Plan)<br />60%: [Gargoyle](/neptunia/rb2/monster/0-239-gargoyle.html) | 0 | 0 | 0 | 0 |
 | <input type="checkbox" id="rb2-item-0-870" class="trackbox" /> | 870 | [Base](/neptunia/rb2/dlc/0-base.html) | [Blue Seed](/neptunia/rb2/item/0-870-blue-seed.html) (Material)<br />40%: [Blue Sun](/neptunia/rb2/monster/0-241-blue-sun.html) | 56 | 2 | 5 | 7 |
 
+### Change Dungeon enabled
+
+|    | ID | DLC | Name | Sells for | Remakes¹ | Quests² | Total |
+| -- | -- | --- | ---- | --------- | -------- | ------- | ----: |
+| <input type="checkbox" id="rb2-item-0-855" class="trackbox" /> | 855 | [Base](/neptunia/rb2/dlc/0-base.html) | [Lost Holy Cloth](/neptunia/rb2/item/0-855-lost-holy-cloth.html) (Material)<br />40%: [Lost Boy](/neptunia/rb2/monster/0-412-lost-boy.html) | 72 | 15 | 0 | 15 |
+| <input type="checkbox" id="rb2-item-0-862" class="trackbox" /> | 862 | [Base](/neptunia/rb2/dlc/0-base.html) | [Lost Ribbon](/neptunia/rb2/item/0-862-lost-ribbon.html) (Material)<br />40%: [Lost Girl](/neptunia/rb2/monster/0-413-lost-girl.html) | 80 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-890" class="trackbox" /> | 890 | [Base](/neptunia/rb2/dlc/0-base.html) | [Connecting Hook](/neptunia/rb2/item/0-890-connecting-hook.html) (Material)<br />40%: [Shimamo's Brother](/neptunia/rb2/monster/0-416-shimamos-brother.html) | 629 | 12 | 0 | 12 |
+| <input type="checkbox" id="rb2-item-0-954" class="trackbox" /> | 954 | [Base](/neptunia/rb2/dlc/0-base.html) | [Mithril Ore](/neptunia/rb2/item/0-954-mithril-ore.html) (Material)<br />40%: [Missile Golem](/neptunia/rb2/monster/0-414-missile-golem.html) | 312 | 15 | 0 | 15 |
+
 ¹ Total amount needed for Remake System recipes.<br />² Total amount needed to complete quests at least once.
 
 ## Gathering point tables for LAN Castle - Depths
@@ -120,6 +141,15 @@ See [gathering point tables](#gathering-point-tables-for-lan-castle-depths) for 
 | 1 | 100%: [World Tree Leaf](/neptunia/rb2/item/0-705-world-tree-leaf.html) x1~2 | 50%: [Industry First!](/neptunia/rb2/item/0-4250-industry-first.html) x1 |
 | 2 | 100%: [Orichalcum](/neptunia/rb2/item/0-710-orichalcum.html) x1~2 | 50%: [Special Controller](/neptunia/rb2/item/0-4188-special-controller.html) x1 |
 | 3 | 100%: [World Tree Leaf](/neptunia/rb2/item/0-705-world-tree-leaf.html) x1~2 | 50%: [Quiz](/neptunia/rb2/item/0-4128-quiz.html) x1 |
+
+### Change Dungeon enabled
+  
+| #  | Item 1 | Item 2 |
+| -- | ------ | ------ |
+| 1 | 100%: [Learn by Dying](/neptunia/rb2/item/0-4276-learn-by-dying.html) x1 | 50%: [Lost Holy Cloth](/neptunia/rb2/item/0-855-lost-holy-cloth.html) x1 |
+| 2 | 100%: [Color Editor](/neptunia/rb2/item/0-4194-color-editor.html) x1 | 50%: [Lost Ribbon](/neptunia/rb2/item/0-862-lost-ribbon.html) x1 |
+| 3 | 100%: [Soccer](/neptunia/rb2/item/0-4119-soccer.html) x1~2 | 50%: [Mithril Ore](/neptunia/rb2/item/0-954-mithril-ore.html) x1 |
+
 
 ### Treasure
 
@@ -163,3 +193,13 @@ See [gathering point tables](#gathering-point-tables-for-lan-castle-depths) for 
 | 2 | [Gargoyle](/neptunia/rb2/monster/0-239-gargoyle.html) x1 |
 | 3 | [Gargoyle](/neptunia/rb2/monster/0-239-gargoyle.html) x1 |
 | 4 | [Okuricap](/neptunia/rb2/monster/0-240-okuricap.html) x1 |
+
+### "Change Dungeon" dungeon setting
+
+
+| #  | Monster 1 | Monster 2 | Monster 3 | Monster 4 |
+| -- | --------- | --------- | --------- | --------- |
+| 1 | [Lost Boy](/neptunia/rb2/monster/0-412-lost-boy.html) x3 | [Lost Girl](/neptunia/rb2/monster/0-413-lost-girl.html) x1 |
+| 2 | [Lost Girl](/neptunia/rb2/monster/0-413-lost-girl.html) x2~3 | [Lost Boy](/neptunia/rb2/monster/0-412-lost-boy.html) x1 |
+| 3 | [Missile Golem](/neptunia/rb2/monster/0-414-missile-golem.html) x1 | [Shimamo's Brother](/neptunia/rb2/monster/0-416-shimamos-brother.html) x1 | [Lost Girl](/neptunia/rb2/monster/0-413-lost-girl.html) x1 | [Lost Boy](/neptunia/rb2/monster/0-412-lost-boy.html) x1 |
+| 4 | [Shimamo's Brother](/neptunia/rb2/monster/0-416-shimamos-brother.html) x1~2 | [Missile Golem](/neptunia/rb2/monster/0-414-missile-golem.html) x2 |

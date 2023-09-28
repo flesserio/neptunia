@@ -22,6 +22,7 @@ title: "Atari Marsh (Dungeon) - Hyperdimension Neptunia Re;Birth2"
 | **Item Change available?** | Yes |
 | **Add Enemies available?** | Yes |
 | **Add Super Enemies available?** | No |
+| **Change Dungeon available?** | No |
 | **To unlock dungeon** | View scene [Ch. 3 - Rom Destroying the City](/neptunia/rb2/scene/0-264-ch-3-rom-destroying-the-city.html) |
 
 ## Items found in Atari Marsh from gathering points

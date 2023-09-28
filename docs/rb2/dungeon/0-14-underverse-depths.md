@@ -22,6 +22,7 @@ title: "Underverse - Depths (Dungeon) - Hyperdimension Neptunia Re;Birth2"
 | **Item Change available?** | Yes |
 | **Add Enemies available?** | Yes |
 | **Add Super Enemies available?** | No |
+| **Change Dungeon available?** | Yes |
 | **To unlock dungeon** | N/A |
 
 ## Items found in Underverse - Depths from gathering points
@@ -54,6 +55,19 @@ See [gathering point tables](#gathering-point-tables-for-underverse-depths) for 
 | <input type="checkbox" id="rb2-item-0-4223" class="trackbox" /> | 4223 | [Base](/neptunia/rb2/dlc/0-base.html) | [Slot](/neptunia/rb2/item/0-4223-slot.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
 | <input type="checkbox" id="rb2-item-0-4244" class="trackbox" /> | 4244 | [Base](/neptunia/rb2/dlc/0-base.html) | [Muddy](/neptunia/rb2/item/0-4244-muddy.html) (Idea Chip (Red)) | 10 | 0 | 0 | 0 |
 | <input type="checkbox" id="rb2-item-0-4274" class="trackbox" /> | 4274 | [Base](/neptunia/rb2/dlc/0-base.html) | [Pinch Revival](/neptunia/rb2/item/0-4274-pinch-revival.html) (Idea Chip (Red)) | 10 | 0 | 0 | 0 |
+
+### From Change Dungeon gathering points
+
+|    | ID | DLC | Name | Sells for | Remakes¹ | Quests² | Total |
+| -- | -- | --- | ---- | --------- | -------- | ------- | ----: |
+| <input type="checkbox" id="rb2-item-0-809" class="trackbox" /> | 809 | [Base](/neptunia/rb2/dlc/0-base.html) | [Numb Jelly](/neptunia/rb2/item/0-809-numb-jelly.html) (Material) | 120 | 2 | 0 | 2 |
+| <input type="checkbox" id="rb2-item-0-923" class="trackbox" /> | 923 | [Base](/neptunia/rb2/dlc/0-base.html) | [Elastic Thread](/neptunia/rb2/item/0-923-elastic-thread.html) (Material) | 114 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-959" class="trackbox" /> | 959 | [Base](/neptunia/rb2/dlc/0-base.html) | [Blazing Ore](/neptunia/rb2/item/0-959-blazing-ore.html) (Material) | 211 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-4136" class="trackbox" /> | 4136 | [Base](/neptunia/rb2/dlc/0-base.html) | [Arcade](/neptunia/rb2/item/0-4136-arcade.html) (Idea Chip (Yellow)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-4191" class="trackbox" /> | 4191 | [Base](/neptunia/rb2/dlc/0-base.html) | [3D](/neptunia/rb2/item/0-4191-3d.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-4217" class="trackbox" /> | 4217 | [Base](/neptunia/rb2/dlc/0-base.html) | [Auto-map Dungeon](/neptunia/rb2/item/0-4217-auto-map-dungeon.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-4242" class="trackbox" /> | 4242 | [Base](/neptunia/rb2/dlc/0-base.html) | [Female-oriented](/neptunia/rb2/item/0-4242-female-oriented.html) (Idea Chip (Red)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-4250" class="trackbox" /> | 4250 | [Base](/neptunia/rb2/dlc/0-base.html) | [Industry First!](/neptunia/rb2/item/0-4250-industry-first.html) (Idea Chip (Red)) | 10 | 0 | 0 | 0 |
 
 ### From treasure gathering points
 
@@ -102,6 +116,14 @@ See [gathering point tables](#gathering-point-tables-for-underverse-depths) for 
 | <input type="checkbox" id="rb2-item-0-216" class="trackbox" /> | 216 | [Base](/neptunia/rb2/dlc/0-base.html) | [Large Medal F](/neptunia/rb2/item/0-216-large-medal-f.html) (Key Item)<br />100%: [Lost Soldier](/neptunia/rb2/monster/0-177-lost-soldier.html) | 0 | 0 | 0 | 0 |
 | <input type="checkbox" id="rb2-item-0-4145" class="trackbox" /> | 4145 | [Base](/neptunia/rb2/dlc/0-base.html) | [Business Sim](/neptunia/rb2/item/0-4145-business-sim.html) (Idea Chip (Yellow))<br />70%: [Achilles](/neptunia/rb2/monster/0-178-achilles.html) | 10 | 0 | 0 | 0 |
 
+### Change Dungeon enabled
+
+|    | ID | DLC | Name | Sells for | Remakes¹ | Quests² | Total |
+| -- | -- | --- | ---- | --------- | -------- | ------- | ----: |
+| <input type="checkbox" id="rb2-item-0-233" class="trackbox" /> | 233 | [Base](/neptunia/rb2/dlc/0-base.html) | [Large Medal W](/neptunia/rb2/item/0-233-large-medal-w.html) (Key Item)<br />100%: [Tough Achilles](/neptunia/rb2/monster/0-392-tough-achilles.html) | 0 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-636" class="trackbox" /> | 636 | [Base](/neptunia/rb2/dlc/0-base.html) | [Symbol Attack On](/neptunia/rb2/item/0-636-symbol-attack-on.html) (Plan)<br />50%: [Tough Flame Fenrir](/neptunia/rb2/monster/0-390-tough-flame-fenrir.html) | 0 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-2311" class="trackbox" /> | 2311 | [Base](/neptunia/rb2/dlc/0-base.html) | [Leafy Bow HC](/neptunia/rb2/item/0-2311-leafy-bow-hc.html) (Accessory)<br />60%: [Tough Lost Soldier](/neptunia/rb2/monster/0-391-tough-lost-soldier.html) | 500 | 0 | 0 | 0 |
+
 ¹ Total amount needed for Remake System recipes.<br />² Total amount needed to complete quests at least once.
 
 ## Gathering point tables for Underverse - Depths
@@ -128,6 +150,17 @@ See [gathering point tables](#gathering-point-tables-for-underverse-depths) for 
 | 3 | 100%: [Red Petal](/neptunia/rb2/item/0-864-red-petal.html) x1~2 | 50%: [Muddy](/neptunia/rb2/item/0-4244-muddy.html) x1~2 |
 | 4 | 100%: [Bomb Lips](/neptunia/rb2/item/0-836-bomb-lips.html) x2~3 | 50%: [Pinch Revival](/neptunia/rb2/item/0-4274-pinch-revival.html) x1~2 |
 | 5 | 100%: [Buff Stone](/neptunia/rb2/item/0-895-buff-stone.html) x2~3 | 50%: [Slot](/neptunia/rb2/item/0-4223-slot.html) x2~3 |
+
+### Change Dungeon enabled
+  
+| #  | Item 1 | Item 2 |
+| -- | ------ | ------ |
+| 1 | 100%: [3D](/neptunia/rb2/item/0-4191-3d.html) x1 |
+| 2 | 100%: [Industry First!](/neptunia/rb2/item/0-4250-industry-first.html) x1 | 50%: [Blazing Ore](/neptunia/rb2/item/0-959-blazing-ore.html) x1 |
+| 3 | 100%: [Female-oriented](/neptunia/rb2/item/0-4242-female-oriented.html) x1~2 | 50%: [Elastic Thread](/neptunia/rb2/item/0-923-elastic-thread.html) x1 |
+| 4 | 100%: [Auto-map Dungeon](/neptunia/rb2/item/0-4217-auto-map-dungeon.html) x2~3 |
+| 5 | 100%: [Arcade](/neptunia/rb2/item/0-4136-arcade.html) x2~3 | 50%: [Numb Jelly](/neptunia/rb2/item/0-809-numb-jelly.html) x1 |
+
 
 ### Treasure
 
@@ -168,3 +201,12 @@ See [gathering point tables](#gathering-point-tables-for-underverse-depths) for 
 | 1 | [Lost Soldier](/neptunia/rb2/monster/0-177-lost-soldier.html) x1 |
 | 2 | [Lost Soldier](/neptunia/rb2/monster/0-177-lost-soldier.html) x1 |
 | 3 | [Achilles](/neptunia/rb2/monster/0-178-achilles.html) x1 |
+
+### "Change Dungeon" dungeon setting
+
+
+| #  | Monster 1 |
+| -- | --------- |
+| 1 | [Tough Lost Soldier](/neptunia/rb2/monster/0-391-tough-lost-soldier.html) x1 |
+| 2 | [Tough Flame Fenrir](/neptunia/rb2/monster/0-390-tough-flame-fenrir.html) x1 |
+| 3 | [Tough Achilles](/neptunia/rb2/monster/0-392-tough-achilles.html) x1 |

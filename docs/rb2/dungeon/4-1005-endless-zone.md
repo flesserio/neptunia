@@ -22,6 +22,7 @@ title: "Endless Zone (Dungeon) - Hyperdimension Neptunia Re;Birth2"
 | **Item Change available?** | No |
 | **Add Enemies available?** | No |
 | **Add Super Enemies available?** | No |
+| **Change Dungeon available?** | No |
 | **To unlock dungeon** | N/A |
 
 ## Items found in Endless Zone from gathering points
@@ -37,21 +38,6 @@ See [gathering point tables](#gathering-point-tables-for-endless-zone) for more 
 | <input type="checkbox" id="rb2-item-0-729" class="trackbox" /> | 729 | [Base](/neptunia/rb2/dlc/0-base.html) | [Model 4 Base](/neptunia/rb2/item/0-729-model-4-base.html) (Material) | 15 | 48 | 0 | 48 |
 | <input type="checkbox" id="rb2-item-0-835" class="trackbox" /> | 835 | [Base](/neptunia/rb2/dlc/0-base.html) | [Bomb Fuse](/neptunia/rb2/item/0-835-bomb-fuse.html) (Material) | 11 | 8 | 3 | 11 |
 | <input type="checkbox" id="rb2-item-0-897" class="trackbox" /> | 897 | [Base](/neptunia/rb2/dlc/0-base.html) | [Small Conductor](/neptunia/rb2/item/0-897-small-conductor.html) (Material) | 418 | 23 | 3 | 26 |
-| <input type="checkbox" id="rb2-item-0-4167" class="trackbox" /> | 4167 | [Base](/neptunia/rb2/dlc/0-base.html) | [Yandere](/neptunia/rb2/item/0-4167-yandere.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
-| <input type="checkbox" id="rb2-item-0-4182" class="trackbox" /> | 4182 | [Base](/neptunia/rb2/dlc/0-base.html) | [Pixel](/neptunia/rb2/item/0-4182-pixel.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
-| <input type="checkbox" id="rb2-item-0-4187" class="trackbox" /> | 4187 | [Base](/neptunia/rb2/dlc/0-base.html) | [Uses Mic](/neptunia/rb2/item/0-4187-uses-mic.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
-| <input type="checkbox" id="rb2-item-0-4192" class="trackbox" /> | 4192 | [Base](/neptunia/rb2/dlc/0-base.html) | [Free Scenario](/neptunia/rb2/item/0-4192-free-scenario.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
-| <input type="checkbox" id="rb2-item-0-4217" class="trackbox" /> | 4217 | [Base](/neptunia/rb2/dlc/0-base.html) | [Auto-map Dungeon](/neptunia/rb2/item/0-4217-auto-map-dungeon.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
-
-### From Harvest Shift gathering points
-
-|    | ID | DLC | Name | Sells for | Remakes¹ | Quests² | Total |
-| -- | -- | --- | ---- | --------- | -------- | ------- | ----: |
-| <input type="checkbox" id="rb2-item-0-706" class="trackbox" /> | 706 | [Base](/neptunia/rb2/dlc/0-base.html) | [Iron Ore](/neptunia/rb2/item/0-706-iron-ore.html) (Material) | 50 | 23 | 0 | 23 |
-| <input type="checkbox" id="rb2-item-0-729" class="trackbox" /> | 729 | [Base](/neptunia/rb2/dlc/0-base.html) | [Model 4 Base](/neptunia/rb2/item/0-729-model-4-base.html) (Material) | 15 | 48 | 0 | 48 |
-| <input type="checkbox" id="rb2-item-0-835" class="trackbox" /> | 835 | [Base](/neptunia/rb2/dlc/0-base.html) | [Bomb Fuse](/neptunia/rb2/item/0-835-bomb-fuse.html) (Material) | 11 | 8 | 3 | 11 |
-| <input type="checkbox" id="rb2-item-0-897" class="trackbox" /> | 897 | [Base](/neptunia/rb2/dlc/0-base.html) | [Small Conductor](/neptunia/rb2/item/0-897-small-conductor.html) (Material) | 418 | 23 | 3 | 26 |
-| <input type="checkbox" id="rb2-item-0-930" class="trackbox" /> | 930 | [Base](/neptunia/rb2/dlc/0-base.html) | [Gang Mask](/neptunia/rb2/item/0-930-gang-mask.html) (Material) | 84 | 6 | 0 | 6 |
 | <input type="checkbox" id="rb2-item-0-4167" class="trackbox" /> | 4167 | [Base](/neptunia/rb2/dlc/0-base.html) | [Yandere](/neptunia/rb2/item/0-4167-yandere.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
 | <input type="checkbox" id="rb2-item-0-4182" class="trackbox" /> | 4182 | [Base](/neptunia/rb2/dlc/0-base.html) | [Pixel](/neptunia/rb2/item/0-4182-pixel.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
 | <input type="checkbox" id="rb2-item-0-4187" class="trackbox" /> | 4187 | [Base](/neptunia/rb2/dlc/0-base.html) | [Uses Mic](/neptunia/rb2/item/0-4187-uses-mic.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |

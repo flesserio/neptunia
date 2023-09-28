@@ -22,6 +22,7 @@ title: "Graveyard Depths (Dungeon) - Hyperdimension Neptunia Re;Birth2"
 | **Item Change available?** | Yes |
 | **Add Enemies available?** | Yes |
 | **Add Super Enemies available?** | No |
+| **Change Dungeon available?** | No |
 | **To unlock dungeon** | N/A |
 
 ## Items found in Graveyard Depths from gathering points

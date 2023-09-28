@@ -22,6 +22,7 @@ title: "Midcompany (Dungeon) - Hyperdimension Neptunia Re;Birth2"
 | **Item Change available?** | Yes |
 | **Add Enemies available?** | Yes |
 | **Add Super Enemies available?** | No |
+| **Change Dungeon available?** | Yes |
 | **To unlock dungeon** | View scene [Ch. 2 - New Friend](/neptunia/rb2/scene/0-114-ch-2-new-friend.html) |
 
 ## Items found in Midcompany from gathering points
@@ -53,6 +54,18 @@ See [gathering point tables](#gathering-point-tables-for-midcompany) for more in
 | <input type="checkbox" id="rb2-item-0-4233" class="trackbox" /> | 4233 | [Base](/neptunia/rb2/dlc/0-base.html) | [Big Online](/neptunia/rb2/item/0-4233-big-online.html) (Idea Chip (Red)) | 10 | 0 | 0 | 0 |
 | <input type="checkbox" id="rb2-item-0-4258" class="trackbox" /> | 4258 | [Base](/neptunia/rb2/dlc/0-base.html) | [Preorder Campaign](/neptunia/rb2/item/0-4258-preorder-campaign.html) (Idea Chip (Red)) | 10 | 0 | 0 | 0 |
 | <input type="checkbox" id="rb2-item-0-4278" class="trackbox" /> | 4278 | [Base](/neptunia/rb2/dlc/0-base.html) | [Orthodox](/neptunia/rb2/item/0-4278-orthodox.html) (Idea Chip (Red)) | 10 | 0 | 0 | 0 |
+
+### From Change Dungeon gathering points
+
+|    | ID | DLC | Name | Sells for | Remakes¹ | Quests² | Total |
+| -- | -- | --- | ---- | --------- | -------- | ------- | ----: |
+| <input type="checkbox" id="rb2-item-0-882" class="trackbox" /> | 882 | [Base](/neptunia/rb2/dlc/0-base.html) | [Boxbird Wing](/neptunia/rb2/item/0-882-boxbird-wing.html) (Material) | 62 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-912" class="trackbox" /> | 912 | [Base](/neptunia/rb2/dlc/0-base.html) | [Illegal ROM](/neptunia/rb2/item/0-912-illegal-rom.html) (Material) | 233 | 6 | 0 | 6 |
+| <input type="checkbox" id="rb2-item-0-950" class="trackbox" /> | 950 | [Base](/neptunia/rb2/dlc/0-base.html) | [Phantom Wing](/neptunia/rb2/item/0-950-phantom-wing.html) (Material) | 60 | 42 | 0 | 42 |
+| <input type="checkbox" id="rb2-item-0-4128" class="trackbox" /> | 4128 | [Base](/neptunia/rb2/dlc/0-base.html) | [Quiz](/neptunia/rb2/item/0-4128-quiz.html) (Idea Chip (Yellow)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-4185" class="trackbox" /> | 4185 | [Base](/neptunia/rb2/dlc/0-base.html) | [Anime](/neptunia/rb2/item/0-4185-anime.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-4223" class="trackbox" /> | 4223 | [Base](/neptunia/rb2/dlc/0-base.html) | [Slot](/neptunia/rb2/item/0-4223-slot.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-4280" class="trackbox" /> | 4280 | [Base](/neptunia/rb2/dlc/0-base.html) | [Nature](/neptunia/rb2/item/0-4280-nature.html) (Idea Chip (Red)) | 10 | 0 | 0 | 0 |
 
 ### From treasure gathering points
 
@@ -113,6 +126,17 @@ See [gathering point tables](#gathering-point-tables-for-midcompany) for more in
 | <input type="checkbox" id="rb2-item-0-910" class="trackbox" /> | 910 | [Base](/neptunia/rb2/dlc/0-base.html) | [Illegal Memory](/neptunia/rb2/item/0-910-illegal-memory.html) (Material)<br />40%: [R-4](/neptunia/rb2/monster/0-132-r-4.html) | 110 | 1 | 0 | 1 |
 | <input type="checkbox" id="rb2-item-0-913" class="trackbox" /> | 913 | [Base](/neptunia/rb2/dlc/0-base.html) | [Pachimon Circuit](/neptunia/rb2/item/0-913-pachimon-circuit.html) (Material)<br />60%: [Killmochine](/neptunia/rb2/monster/0-134-killmochine.html) | 3439 | 6 | 0 | 6 |
 
+### Change Dungeon enabled
+
+|    | ID | DLC | Name | Sells for | Remakes¹ | Quests² | Total |
+| -- | -- | --- | ---- | --------- | -------- | ------- | ----: |
+| <input type="checkbox" id="rb2-item-0-217" class="trackbox" /> | 217 | [Base](/neptunia/rb2/dlc/0-base.html) | [Large Medal G](/neptunia/rb2/item/0-217-large-medal-g.html) (Key Item)<br />100%: [Tough Hero Craft](/neptunia/rb2/monster/0-348-tough-hero-craft.html) | 0 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-882" class="trackbox" /> | 882 | [Base](/neptunia/rb2/dlc/0-base.html) | [Boxbird Wing](/neptunia/rb2/item/0-882-boxbird-wing.html) (Material)<br />40%: [Boxbird](/neptunia/rb2/monster/0-342-boxbird.html) | 62 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-912" class="trackbox" /> | 912 | [Base](/neptunia/rb2/dlc/0-base.html) | [Illegal ROM](/neptunia/rb2/item/0-912-illegal-rom.html) (Material)<br />40%: [SDHC](/neptunia/rb2/monster/0-345-sdhc.html) | 233 | 6 | 0 | 6 |
+| <input type="checkbox" id="rb2-item-0-918" class="trackbox" /> | 918 | [Base](/neptunia/rb2/dlc/0-base.html) | [Energy Pack](/neptunia/rb2/item/0-918-energy-pack.html) (Material)<br />50%: [Tough R4i-SDHC](/neptunia/rb2/monster/0-346-tough-r4i-sdhc.html) | 2929 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-950" class="trackbox" /> | 950 | [Base](/neptunia/rb2/dlc/0-base.html) | [Phantom Wing](/neptunia/rb2/item/0-950-phantom-wing.html) (Material)<br />40%: [Fairyfly](/neptunia/rb2/monster/0-343-fairyfly.html) | 60 | 42 | 0 | 42 |
+| <input type="checkbox" id="rb2-item-0-2566" class="trackbox" /> | 2566 | [Base](/neptunia/rb2/dlc/0-base.html) | [Black Hare Ears](/neptunia/rb2/item/0-2566-black-hare-ears.html) (Accessory)<br />60%: [Tough Killachine](/neptunia/rb2/monster/0-347-tough-killachine.html) | 1500 | 0 | 0 | 0 |
+
 ¹ Total amount needed for Remake System recipes.<br />² Total amount needed to complete quests at least once.
 
 ## Gathering point tables for Midcompany
@@ -137,6 +161,16 @@ See [gathering point tables](#gathering-point-tables-for-midcompany) for more in
 | 2 | 100%: [Iron Ore](/neptunia/rb2/item/0-706-iron-ore.html) x1~2 | 50%: [Big Online](/neptunia/rb2/item/0-4233-big-online.html) x2~3 |
 | 3 | 100%: [Block Nose](/neptunia/rb2/item/0-822-block-nose.html) x1~2 | 50%: [Preorder Campaign](/neptunia/rb2/item/0-4258-preorder-campaign.html) x2~3 |
 | 4 | 100%: [Illegal Memory](/neptunia/rb2/item/0-910-illegal-memory.html) x1~2 | 50%: [Orthodox](/neptunia/rb2/item/0-4278-orthodox.html) x1~3 |
+
+### Change Dungeon enabled
+  
+| #  | Item 1 | Item 2 |
+| -- | ------ | ------ |
+| 1 | 100%: [Nature](/neptunia/rb2/item/0-4280-nature.html) x1~2 | 50%: [Boxbird Wing](/neptunia/rb2/item/0-882-boxbird-wing.html) x1 |
+| 2 | 100%: [Slot](/neptunia/rb2/item/0-4223-slot.html) x1~2 | 50%: [Phantom Wing](/neptunia/rb2/item/0-950-phantom-wing.html) x1 |
+| 3 | 100%: [Anime](/neptunia/rb2/item/0-4185-anime.html) x1~2 |
+| 4 | 100%: [Quiz](/neptunia/rb2/item/0-4128-quiz.html) x1~2 | 50%: [Illegal ROM](/neptunia/rb2/item/0-912-illegal-rom.html) x1 |
+
 
 ### Treasure
 
@@ -186,3 +220,16 @@ See [gathering point tables](#gathering-point-tables-for-midcompany) for more in
 | 5 | [Elephantvader](/neptunia/rb2/monster/0-130-elephantvader.html) x1~2 | [Red Dogoo](/neptunia/rb2/monster/0-129-red-dogoo.html) x1 | [Bit](/neptunia/rb2/monster/0-125-bit.html) x1 |
 | 6 | [Killmochine](/neptunia/rb2/monster/0-134-killmochine.html) x1 |
 | 7 | [Hero Craft](/neptunia/rb2/monster/0-135-hero-craft.html) x1 |
+
+### "Change Dungeon" dungeon setting
+
+
+| #  | Monster 1 | Monster 2 | Monster 3 |
+| -- | --------- | --------- | --------- |
+| 1 | [SDHC](/neptunia/rb2/monster/0-345-sdhc.html) x2 |
+| 2 | [Fairyfly](/neptunia/rb2/monster/0-343-fairyfly.html) x2 | [SDHC](/neptunia/rb2/monster/0-345-sdhc.html) x1 |
+| 3 | [Tough R4i-SDHC](/neptunia/rb2/monster/0-346-tough-r4i-sdhc.html) x1 |
+| 4 | [Boxbird](/neptunia/rb2/monster/0-342-boxbird.html) x1~3 | [Fairyfly](/neptunia/rb2/monster/0-343-fairyfly.html) x1 |
+| 5 | [Boxbird](/neptunia/rb2/monster/0-342-boxbird.html) x1~2 | [SDHC](/neptunia/rb2/monster/0-345-sdhc.html) x1 | [Fairyfly](/neptunia/rb2/monster/0-343-fairyfly.html) x1 |
+| 6 | [Tough Killachine](/neptunia/rb2/monster/0-347-tough-killachine.html) x1 |
+| 7 | [Tough Hero Craft](/neptunia/rb2/monster/0-348-tough-hero-craft.html) x1 |

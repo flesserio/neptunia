@@ -22,6 +22,7 @@ title: "Rebeat Resort (Dungeon) - Hyperdimension Neptunia Re;Birth2"
 | **Item Change available?** | No |
 | **Add Enemies available?** | No |
 | **Add Super Enemies available?** | No |
+| **Change Dungeon available?** | No |
 | **To unlock dungeon** | N/A |
 
 ## Items found in Rebeat Resort from gathering points
@@ -35,21 +36,6 @@ See [gathering point tables](#gathering-point-tables-for-rebeat-resort) for more
 | <input type="checkbox" id="rb2-item-0-702" class="trackbox" /> | 702 | [Base](/neptunia/rb2/dlc/0-base.html) | [Healing Herb](/neptunia/rb2/item/0-702-healing-herb.html) (Material) | 50 | 31 | 4 | 35 |
 | <input type="checkbox" id="rb2-item-0-723" class="trackbox" /> | 723 | [Base](/neptunia/rb2/dlc/0-base.html) | [Rock](/neptunia/rb2/item/0-723-rock.html) (Material) | 10 | 27 | 3 | 30 |
 | <input type="checkbox" id="rb2-item-0-732" class="trackbox" /> | 732 | [Base](/neptunia/rb2/dlc/0-base.html) | [Seashell](/neptunia/rb2/item/0-732-seashell.html) (Material) | 200 | 15 | 4 | 19 |
-| <input type="checkbox" id="rb2-item-0-930" class="trackbox" /> | 930 | [Base](/neptunia/rb2/dlc/0-base.html) | [Gang Mask](/neptunia/rb2/item/0-930-gang-mask.html) (Material) | 84 | 6 | 0 | 6 |
-| <input type="checkbox" id="rb2-item-0-4121" class="trackbox" /> | 4121 | [Base](/neptunia/rb2/dlc/0-base.html) | [Adventure](/neptunia/rb2/item/0-4121-adventure.html) (Idea Chip (Yellow)) | 10 | 0 | 0 | 0 |
-| <input type="checkbox" id="rb2-item-0-4162" class="trackbox" /> | 4162 | [Base](/neptunia/rb2/dlc/0-base.html) | [Voice Actor](/neptunia/rb2/item/0-4162-voice-actor.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
-| <input type="checkbox" id="rb2-item-0-4207" class="trackbox" /> | 4207 | [Base](/neptunia/rb2/dlc/0-base.html) | [Stupid Game](/neptunia/rb2/item/0-4207-stupid-game.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
-| <input type="checkbox" id="rb2-item-0-4212" class="trackbox" /> | 4212 | [Base](/neptunia/rb2/dlc/0-base.html) | [Non-RPG Growth](/neptunia/rb2/item/0-4212-non-rpg-growth.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
-| <input type="checkbox" id="rb2-item-0-4222" class="trackbox" /> | 4222 | [Base](/neptunia/rb2/dlc/0-base.html) | [Parameter Tweak](/neptunia/rb2/item/0-4222-parameter-tweak.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
-
-### From Harvest Shift gathering points
-
-|    | ID | DLC | Name | Sells for | Remakes¹ | Quests² | Total |
-| -- | -- | --- | ---- | --------- | -------- | ------- | ----: |
-| <input type="checkbox" id="rb2-item-0-732" class="trackbox" /> | 732 | [Base](/neptunia/rb2/dlc/0-base.html) | [Seashell](/neptunia/rb2/item/0-732-seashell.html) (Material) | 200 | 15 | 4 | 19 |
-| <input type="checkbox" id="rb2-item-0-819" class="trackbox" /> | 819 | [Base](/neptunia/rb2/dlc/0-base.html) | [Green Plate](/neptunia/rb2/item/0-819-green-plate.html) (Material) | 2 | 5 | 0 | 5 |
-| <input type="checkbox" id="rb2-item-0-832" class="trackbox" /> | 832 | [Base](/neptunia/rb2/dlc/0-base.html) | [Cardboard](/neptunia/rb2/item/0-832-cardboard.html) (Material) | 29 | 2 | 3 | 5 |
-| <input type="checkbox" id="rb2-item-0-903" class="trackbox" /> | 903 | [Base](/neptunia/rb2/dlc/0-base.html) | [Fish Skeleton](/neptunia/rb2/item/0-903-fish-skeleton.html) (Material) | 2771 | 7 | 2 | 9 |
 | <input type="checkbox" id="rb2-item-0-930" class="trackbox" /> | 930 | [Base](/neptunia/rb2/dlc/0-base.html) | [Gang Mask](/neptunia/rb2/item/0-930-gang-mask.html) (Material) | 84 | 6 | 0 | 6 |
 | <input type="checkbox" id="rb2-item-0-4121" class="trackbox" /> | 4121 | [Base](/neptunia/rb2/dlc/0-base.html) | [Adventure](/neptunia/rb2/item/0-4121-adventure.html) (Idea Chip (Yellow)) | 10 | 0 | 0 | 0 |
 | <input type="checkbox" id="rb2-item-0-4162" class="trackbox" /> | 4162 | [Base](/neptunia/rb2/dlc/0-base.html) | [Voice Actor](/neptunia/rb2/item/0-4162-voice-actor.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |

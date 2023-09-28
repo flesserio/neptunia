@@ -22,6 +22,7 @@ title: "Virtua Forest (Dungeon) - Hyperdimension Neptunia Re;Birth2"
 | **Item Change available?** | Yes |
 | **Add Enemies available?** | No |
 | **Add Super Enemies available?** | No |
+| **Change Dungeon available?** | No |
 | **To unlock dungeon** | View scene [Ch. 1 - The Guild](/neptunia/rb2/scene/0-54-ch-1-the-guild.html) |
 
 ## Items found in Virtua Forest from gathering points

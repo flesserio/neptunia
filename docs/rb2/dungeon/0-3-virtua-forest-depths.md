@@ -22,6 +22,7 @@ title: "Virtua Forest - Depths (Dungeon) - Hyperdimension Neptunia Re;Birth2"
 | **Item Change available?** | Yes |
 | **Add Enemies available?** | No |
 | **Add Super Enemies available?** | No |
+| **Change Dungeon available?** | Yes |
 | **To unlock dungeon** | View scene [Ch. 1 - Mascots Located](/neptunia/rb2/scene/0-62-ch-1-mascots-located.html) |
 
 ## Items found in Virtua Forest - Depths from gathering points
@@ -57,6 +58,19 @@ See [gathering point tables](#gathering-point-tables-for-virtua-forest-depths) f
 | <input type="checkbox" id="rb2-item-0-4157" class="trackbox" /> | 4157 | [Base](/neptunia/rb2/dlc/0-base.html) | [Idol](/neptunia/rb2/item/0-4157-idol.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
 | <input type="checkbox" id="rb2-item-0-4178" class="trackbox" /> | 4178 | [Base](/neptunia/rb2/dlc/0-base.html) | [Ripped Macho](/neptunia/rb2/item/0-4178-ripped-macho.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
 | <input type="checkbox" id="rb2-item-0-4202" class="trackbox" /> | 4202 | [Base](/neptunia/rb2/dlc/0-base.html) | [Jump](/neptunia/rb2/item/0-4202-jump.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
+
+### From Change Dungeon gathering points
+
+|    | ID | DLC | Name | Sells for | Remakes¹ | Quests² | Total |
+| -- | -- | --- | ---- | --------- | -------- | ------- | ----: |
+| <input type="checkbox" id="rb2-item-0-945" class="trackbox" /> | 945 | [Base](/neptunia/rb2/dlc/0-base.html) | [Rainbow Wing](/neptunia/rb2/item/0-945-rainbow-wing.html) (Material) | 105 | 22 | 6 | 28 |
+| <input type="checkbox" id="rb2-item-0-946" class="trackbox" /> | 946 | [Base](/neptunia/rb2/dlc/0-base.html) | [Magical Fragment](/neptunia/rb2/item/0-946-magical-fragment.html) (Material) | 39 | 60 | 0 | 60 |
+| <input type="checkbox" id="rb2-item-0-947" class="trackbox" /> | 947 | [Base](/neptunia/rb2/dlc/0-base.html) | [Mysterious Red Ball](/neptunia/rb2/item/0-947-mysterious-red-ball.html) (Material) | 17 | 5 | 0 | 5 |
+| <input type="checkbox" id="rb2-item-0-4107" class="trackbox" /> | 4107 | [Base](/neptunia/rb2/dlc/0-base.html) | [Shooting RPG](/neptunia/rb2/item/0-4107-shooting-rpg.html) (Idea Chip (Yellow)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-4199" class="trackbox" /> | 4199 | [Base](/neptunia/rb2/dlc/0-base.html) | [Sci-Fi](/neptunia/rb2/item/0-4199-sci-fi.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-4214" class="trackbox" /> | 4214 | [Base](/neptunia/rb2/dlc/0-base.html) | [Japanese Taste](/neptunia/rb2/item/0-4214-japanese-taste.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-4233" class="trackbox" /> | 4233 | [Base](/neptunia/rb2/dlc/0-base.html) | [Big Online](/neptunia/rb2/item/0-4233-big-online.html) (Idea Chip (Red)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-4261" class="trackbox" /> | 4261 | [Base](/neptunia/rb2/dlc/0-base.html) | [True Story, Bro](/neptunia/rb2/item/0-4261-true-story-bro.html) (Idea Chip (Red)) | 10 | 0 | 0 | 0 |
 
 ### From treasure gathering points
 
@@ -105,6 +119,15 @@ See [gathering point tables](#gathering-point-tables-for-virtua-forest-depths) f
 | <input type="checkbox" id="rb2-item-0-925" class="trackbox" /> | 925 | [Base](/neptunia/rb2/dlc/0-base.html) | [Hoinin Tentacles](/neptunia/rb2/item/0-925-hoinin-tentacles.html) (Material)<br />40%: [Hoinin](/neptunia/rb2/monster/0-113-hoinin.html) | 177 | 4 | 0 | 4 |
 | <input type="checkbox" id="rb2-item-0-965" class="trackbox" /> | 965 | [Base](/neptunia/rb2/dlc/0-base.html) | [Earth Ripper](/neptunia/rb2/item/0-965-earth-ripper.html) (Material)<br />50%: [Fenrisulfr](/neptunia/rb2/monster/0-116-fenrisulfr.html) | 58 | 5 | 0 | 5 |
 
+### Change Dungeon enabled
+
+|    | ID | DLC | Name | Sells for | Remakes¹ | Quests² | Total |
+| -- | -- | --- | ---- | --------- | -------- | ------- | ----: |
+| <input type="checkbox" id="rb2-item-0-632" class="trackbox" /> | 632 | [Base](/neptunia/rb2/dlc/0-base.html) | [EXP Up](/neptunia/rb2/item/0-632-exp-up.html) (Plan)<br />65%: [Nihil](/neptunia/rb2/monster/0-341-nihil.html) | 0 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-945" class="trackbox" /> | 945 | [Base](/neptunia/rb2/dlc/0-base.html) | [Rainbow Wing](/neptunia/rb2/item/0-945-rainbow-wing.html) (Material)<br />40%: [Paradise Avian](/neptunia/rb2/monster/0-336-paradise-avian.html) | 105 | 22 | 6 | 28 |
+| <input type="checkbox" id="rb2-item-0-946" class="trackbox" /> | 946 | [Base](/neptunia/rb2/dlc/0-base.html) | [Magical Fragment](/neptunia/rb2/item/0-946-magical-fragment.html) (Material)<br />40%: [Heavy Dragoon](/neptunia/rb2/monster/0-338-heavy-dragoon.html) | 39 | 60 | 0 | 60 |
+| <input type="checkbox" id="rb2-item-0-947" class="trackbox" /> | 947 | [Base](/neptunia/rb2/dlc/0-base.html) | [Mysterious Red Ball](/neptunia/rb2/item/0-947-mysterious-red-ball.html) (Material)<br />40%: [Lightbulb Angel](/neptunia/rb2/monster/0-340-lightbulb-angel.html) | 17 | 5 | 0 | 5 |
+
 ¹ Total amount needed for Remake System recipes.<br />² Total amount needed to complete quests at least once.
 
 ## Gathering point tables for Virtua Forest - Depths
@@ -131,6 +154,17 @@ See [gathering point tables](#gathering-point-tables-for-virtua-forest-depths) f
 | 3 | 100%: [Hoinin Tentacles](/neptunia/rb2/item/0-925-hoinin-tentacles.html) x1~2 | 50%: [Idol](/neptunia/rb2/item/0-4157-idol.html) x3~4 |
 | 4 | 100%: [Wind Stone](/neptunia/rb2/item/0-717-wind-stone.html) x1~2 | 50%: [Ripped Macho](/neptunia/rb2/item/0-4178-ripped-macho.html) x2~3 |
 | 5 | 100%: [Spider Web](/neptunia/rb2/item/0-919-spider-web.html) x1~2 | 50%: [Simulation](/neptunia/rb2/item/0-4141-simulation.html) x2~3 |
+
+### Change Dungeon enabled
+  
+| #  | Item 1 | Item 2 |
+| -- | ------ | ------ |
+| 1 | 100%: [True Story, Bro](/neptunia/rb2/item/0-4261-true-story-bro.html) x1~2 |
+| 2 | 100%: [Japanese Taste](/neptunia/rb2/item/0-4214-japanese-taste.html) x1~2 | 50%: [Rainbow Wing](/neptunia/rb2/item/0-945-rainbow-wing.html) x1 |
+| 3 | 100%: [Sci-Fi](/neptunia/rb2/item/0-4199-sci-fi.html) x1~2 |
+| 4 | 100%: [Shooting RPG](/neptunia/rb2/item/0-4107-shooting-rpg.html) x1~2 | 50%: [Magical Fragment](/neptunia/rb2/item/0-946-magical-fragment.html) x1 |
+| 5 | 100%: [Big Online](/neptunia/rb2/item/0-4233-big-online.html) x1~2 | 50%: [Mysterious Red Ball](/neptunia/rb2/item/0-947-mysterious-red-ball.html) x1 |
+
 
 ### Treasure
 
@@ -169,3 +203,17 @@ See [gathering point tables](#gathering-point-tables-for-virtua-forest-depths) f
 | 6 | [Fenrisulfr](/neptunia/rb2/monster/0-116-fenrisulfr.html) x1 |
 | 7 | [Piranha Flower](/neptunia/rb2/monster/0-114-piranha-flower.html) x1 | [Fungus](/neptunia/rb2/monster/0-111-fungus.html) x1 | [Hoinin](/neptunia/rb2/monster/0-113-hoinin.html) x1~2 |
 | 8 | [Spider](/neptunia/rb2/monster/0-115-spider.html) x1 | [Hoinin](/neptunia/rb2/monster/0-113-hoinin.html) x1 | [Fungus](/neptunia/rb2/monster/0-111-fungus.html) x1 | [Piranha Flower](/neptunia/rb2/monster/0-114-piranha-flower.html) x1 |
+
+### "Change Dungeon" dungeon setting
+
+
+| #  | Monster 1 | Monster 2 |
+| -- | --------- | --------- |
+| 1 | [Paradise Avian](/neptunia/rb2/monster/0-336-paradise-avian.html) x2~3 |
+| 2 | [Lightbulb Angel](/neptunia/rb2/monster/0-340-lightbulb-angel.html) x2~3 |
+| 3 | [Paradise Avian](/neptunia/rb2/monster/0-336-paradise-avian.html) x1~2 | [Heavy Dragoon](/neptunia/rb2/monster/0-338-heavy-dragoon.html) x1~2 |
+| 4 | [Heavy Dragoon](/neptunia/rb2/monster/0-338-heavy-dragoon.html) x1 | [Lightbulb Angel](/neptunia/rb2/monster/0-340-lightbulb-angel.html) x1~2 |
+| 5 | [Lightbulb Angel](/neptunia/rb2/monster/0-340-lightbulb-angel.html) x1 | [Paradise Avian](/neptunia/rb2/monster/0-336-paradise-avian.html) x1~2 |
+| 6 | [Nihil](/neptunia/rb2/monster/0-341-nihil.html) x1 |
+| 7 | [Heavy Dragoon](/neptunia/rb2/monster/0-338-heavy-dragoon.html) x1~2 |
+| 8 | [Lightbulb Angel](/neptunia/rb2/monster/0-340-lightbulb-angel.html) x1~2 | [Paradise Avian](/neptunia/rb2/monster/0-336-paradise-avian.html) x1~2 |

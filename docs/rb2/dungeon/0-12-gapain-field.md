@@ -22,6 +22,7 @@ title: "Gapain Field (Dungeon) - Hyperdimension Neptunia Re;Birth2"
 | **Item Change available?** | Yes |
 | **Add Enemies available?** | Yes |
 | **Add Super Enemies available?** | No |
+| **Change Dungeon available?** | Yes |
 | **To unlock dungeon** | View scene [Ch. 2 - Chika...?](/neptunia/rb2/scene/0-207-ch-2-chika.html) |
 
 ## Items found in Gapain Field from gathering points
@@ -56,6 +57,19 @@ See [gathering point tables](#gathering-point-tables-for-gapain-field) for more 
 | <input type="checkbox" id="rb2-item-0-4163" class="trackbox" /> | 4163 | [Base](/neptunia/rb2/dlc/0-base.html) | [Handsome Man](/neptunia/rb2/item/0-4163-handsome-man.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
 | <input type="checkbox" id="rb2-item-0-4234" class="trackbox" /> | 4234 | [Base](/neptunia/rb2/dlc/0-base.html) | [Middle School](/neptunia/rb2/item/0-4234-middle-school.html) (Idea Chip (Red)) | 10 | 0 | 0 | 0 |
 | <input type="checkbox" id="rb2-item-0-4265" class="trackbox" /> | 4265 | [Base](/neptunia/rb2/dlc/0-base.html) | [Investigative](/neptunia/rb2/item/0-4265-investigative.html) (Idea Chip (Red)) | 10 | 0 | 0 | 0 |
+
+### From Change Dungeon gathering points
+
+|    | ID | DLC | Name | Sells for | Remakes¹ | Quests² | Total |
+| -- | -- | --- | ---- | --------- | -------- | ------- | ----: |
+| <input type="checkbox" id="rb2-item-0-911" class="trackbox" /> | 911 | [Base](/neptunia/rb2/dlc/0-base.html) | [Illegal Conductor](/neptunia/rb2/item/0-911-illegal-conductor.html) (Material) | 135 | 4 | 0 | 4 |
+| <input type="checkbox" id="rb2-item-0-960" class="trackbox" /> | 960 | [Base](/neptunia/rb2/dlc/0-base.html) | [Jet-Black Scale](/neptunia/rb2/item/0-960-jet-black-scale.html) (Material) | 229 | 2 | 0 | 2 |
+| <input type="checkbox" id="rb2-item-0-962" class="trackbox" /> | 962 | [Base](/neptunia/rb2/dlc/0-base.html) | [Tiny Outfit](/neptunia/rb2/item/0-962-tiny-outfit.html) (Material) | 135 | 21 | 0 | 21 |
+| <input type="checkbox" id="rb2-item-0-4127" class="trackbox" /> | 4127 | [Base](/neptunia/rb2/dlc/0-base.html) | [Mahjong](/neptunia/rb2/item/0-4127-mahjong.html) (Idea Chip (Yellow)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-4144" class="trackbox" /> | 4144 | [Base](/neptunia/rb2/dlc/0-base.html) | [Battle Strategy](/neptunia/rb2/item/0-4144-battle-strategy.html) (Idea Chip (Yellow)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-4170" class="trackbox" /> | 4170 | [Base](/neptunia/rb2/dlc/0-base.html) | [Moe Burnin'](/neptunia/rb2/item/0-4170-moe-burnin.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-4205" class="trackbox" /> | 4205 | [Base](/neptunia/rb2/dlc/0-base.html) | [Combo Focus](/neptunia/rb2/item/0-4205-combo-focus.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-4242" class="trackbox" /> | 4242 | [Base](/neptunia/rb2/dlc/0-base.html) | [Female-oriented](/neptunia/rb2/item/0-4242-female-oriented.html) (Idea Chip (Red)) | 10 | 0 | 0 | 0 |
 
 ### From treasure gathering points
 
@@ -112,6 +126,17 @@ See [gathering point tables](#gathering-point-tables-for-gapain-field) for more 
 | <input type="checkbox" id="rb2-item-0-985" class="trackbox" /> | 985 | [Base](/neptunia/rb2/dlc/0-base.html) | [Newbie Nurse Cap](/neptunia/rb2/item/0-985-newbie-nurse-cap.html) (Material)<br />60%: [Nurse Binder](/neptunia/rb2/monster/0-170-nurse-binder.html) | 490 | 7 | 0 | 7 |
 | <input type="checkbox" id="rb2-item-0-2579" class="trackbox" /> | 2579 | [Base](/neptunia/rb2/dlc/0-base.html) | [Pyocola's Hat](/neptunia/rb2/item/0-2579-pyocolas-hat.html) (Accessory)<br />60%: [Pumpkimon](/neptunia/rb2/monster/0-167-pumpkimon.html) | 500 | 0 | 0 | 0 |
 
+### Change Dungeon enabled
+
+|    | ID | DLC | Name | Sells for | Remakes¹ | Quests² | Total |
+| -- | -- | --- | ---- | --------- | -------- | ------- | ----: |
+| <input type="checkbox" id="rb2-item-0-635" class="trackbox" /> | 635 | [Base](/neptunia/rb2/dlc/0-base.html) | [Null Back Attack](/neptunia/rb2/item/0-635-null-back-attack.html) (Plan)<br />60%: [Crescent Dragon](/neptunia/rb2/monster/0-383-crescent-dragon.html) | 0 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-912" class="trackbox" /> | 912 | [Base](/neptunia/rb2/dlc/0-base.html) | [Illegal ROM](/neptunia/rb2/item/0-912-illegal-rom.html) (Material)<br />40%: [A2-i](/neptunia/rb2/monster/0-382-a2-i.html) | 233 | 6 | 0 | 6 |
+| <input type="checkbox" id="rb2-item-0-960" class="trackbox" /> | 960 | [Base](/neptunia/rb2/dlc/0-base.html) | [Jet-Black Scale](/neptunia/rb2/item/0-960-jet-black-scale.html) (Material)<br />40%: [Death Stalker](/neptunia/rb2/monster/0-378-death-stalker.html) | 229 | 2 | 0 | 2 |
+| <input type="checkbox" id="rb2-item-0-962" class="trackbox" /> | 962 | [Base](/neptunia/rb2/dlc/0-base.html) | [Tiny Outfit](/neptunia/rb2/item/0-962-tiny-outfit.html) (Material)<br />40%: [Speckle](/neptunia/rb2/monster/0-380-speckle.html) | 135 | 21 | 0 | 21 |
+| <input type="checkbox" id="rb2-item-0-980" class="trackbox" /> | 980 | [Base](/neptunia/rb2/dlc/0-base.html) | [Small Whale Ball](/neptunia/rb2/item/0-980-small-whale-ball.html) (Material)<br />65%: [Saint Whale](/neptunia/rb2/monster/0-384-saint-whale.html) | 3162 | 2 | 1 | 3 |
+| <input type="checkbox" id="rb2-item-0-1009" class="trackbox" /> | 1009 | [Base](/neptunia/rb2/dlc/0-base.html) | [Old Dragon...Huh?](/neptunia/rb2/item/0-1009-old-dragon-huh.html) (Material)<br />55%: [Crescent Dragon](/neptunia/rb2/monster/0-383-crescent-dragon.html) | 2661 | 1 | 0 | 1 |
+
 ¹ Total amount needed for Remake System recipes.<br />² Total amount needed to complete quests at least once.
 
 ## Gathering point tables for Gapain Field
@@ -138,6 +163,17 @@ See [gathering point tables](#gathering-point-tables-for-gapain-field) for more 
 | 3 | 100%: [Bird's Bronze Crown](/neptunia/rb2/item/0-879-birds-bronze-crown.html) x1~2 | 50%: [Handsome Man](/neptunia/rb2/item/0-4163-handsome-man.html) x1~2 |
 | 4 | 100%: [Sunflowery Seed](/neptunia/rb2/item/0-867-sunflowery-seed.html) x1~2 | 50%: [Middle School](/neptunia/rb2/item/0-4234-middle-school.html) x1~2 |
 | 5 | 100%: [Pumpkin Lantern](/neptunia/rb2/item/0-884-pumpkin-lantern.html) x1~2 | 50%: [Port](/neptunia/rb2/item/0-4137-port.html) x2~3 |
+
+### Change Dungeon enabled
+  
+| #  | Item 1 | Item 2 |
+| -- | ------ | ------ |
+| 1 | 100%: [Female-oriented](/neptunia/rb2/item/0-4242-female-oriented.html) x1~2 | 50%: [Jet-Black Scale](/neptunia/rb2/item/0-960-jet-black-scale.html) x1 |
+| 2 | 100%: [Combo Focus](/neptunia/rb2/item/0-4205-combo-focus.html) x1~2 | 50%: [Tiny Outfit](/neptunia/rb2/item/0-962-tiny-outfit.html) x1 |
+| 3 | 100%: [Mahjong](/neptunia/rb2/item/0-4127-mahjong.html) x1~2 |
+| 4 | 100%: [Moe Burnin'](/neptunia/rb2/item/0-4170-moe-burnin.html) x1~2 | 50%: [Illegal Conductor](/neptunia/rb2/item/0-911-illegal-conductor.html) x1 |
+| 5 | 100%: [Battle Strategy](/neptunia/rb2/item/0-4144-battle-strategy.html) x1~2 |
+
 
 ### Treasure
 
@@ -183,3 +219,14 @@ See [gathering point tables](#gathering-point-tables-for-gapain-field) for more 
 | 3 | [Nurse Binder](/neptunia/rb2/monster/0-170-nurse-binder.html) x1 |
 | 4 | [Nurse Binder](/neptunia/rb2/monster/0-170-nurse-binder.html) x1 |
 | 5 | [Forest Whale](/neptunia/rb2/monster/0-171-forest-whale.html) x1 |
+
+### "Change Dungeon" dungeon setting
+
+
+| #  | Monster 1 | Monster 2 |
+| -- | --------- | --------- |
+| 1 | [Death Stalker](/neptunia/rb2/monster/0-378-death-stalker.html) x1~2 | [A2-i](/neptunia/rb2/monster/0-382-a2-i.html) x1~2 |
+| 2 | [A2-i](/neptunia/rb2/monster/0-382-a2-i.html) x2 | [Speckle](/neptunia/rb2/monster/0-380-speckle.html) x1~2 |
+| 3 | [Speckle](/neptunia/rb2/monster/0-380-speckle.html) x2 | [Death Stalker](/neptunia/rb2/monster/0-378-death-stalker.html) x1~2 |
+| 4 | [Crescent Dragon](/neptunia/rb2/monster/0-383-crescent-dragon.html) x1 |
+| 5 | [Saint Whale](/neptunia/rb2/monster/0-384-saint-whale.html) x1 |

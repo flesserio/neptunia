@@ -22,6 +22,7 @@ title: "Lowee Global Expo - West (Dungeon) - Hyperdimension Neptunia Re;Birth2"
 | **Item Change available?** | Yes |
 | **Add Enemies available?** | Yes |
 | **Add Super Enemies available?** | No |
+| **Change Dungeon available?** | Yes |
 | **To unlock dungeon** | N/A |
 
 ## Items found in Lowee Global Expo - West from gathering points
@@ -52,6 +53,18 @@ See [gathering point tables](#gathering-point-tables-for-lowee-global-expo-west)
 | <input type="checkbox" id="rb2-item-0-4193" class="trackbox" /> | 4193 | [Base](/neptunia/rb2/dlc/0-base.html) | [Custom Sound](/neptunia/rb2/item/0-4193-custom-sound.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
 | <input type="checkbox" id="rb2-item-0-4213" class="trackbox" /> | 4213 | [Base](/neptunia/rb2/dlc/0-base.html) | [Hover Movement](/neptunia/rb2/item/0-4213-hover-movement.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
 | <input type="checkbox" id="rb2-item-0-4273" class="trackbox" /> | 4273 | [Base](/neptunia/rb2/dlc/0-base.html) | [Die So Fast](/neptunia/rb2/item/0-4273-die-so-fast.html) (Idea Chip (Red)) | 10 | 0 | 0 | 0 |
+
+### From Change Dungeon gathering points
+
+|    | ID | DLC | Name | Sells for | Remakes¹ | Quests² | Total |
+| -- | -- | --- | ---- | --------- | -------- | ------- | ----: |
+| <input type="checkbox" id="rb2-item-0-811" class="trackbox" /> | 811 | [Base](/neptunia/rb2/dlc/0-base.html) | [Black Gel Feeler](/neptunia/rb2/item/0-811-black-gel-feeler.html) (Material) | 106 | 2 | 0 | 2 |
+| <input type="checkbox" id="rb2-item-0-951" class="trackbox" /> | 951 | [Base](/neptunia/rb2/dlc/0-base.html) | [Magical Stone](/neptunia/rb2/item/0-951-magical-stone.html) (Material) | 40 | 18 | 0 | 18 |
+| <input type="checkbox" id="rb2-item-0-952" class="trackbox" /> | 952 | [Base](/neptunia/rb2/dlc/0-base.html) | [Ice Crystal](/neptunia/rb2/item/0-952-ice-crystal.html) (Material) | 56 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-4143" class="trackbox" /> | 4143 | [Base](/neptunia/rb2/dlc/0-base.html) | [Strategy](/neptunia/rb2/item/0-4143-strategy.html) (Idea Chip (Yellow)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-4178" class="trackbox" /> | 4178 | [Base](/neptunia/rb2/dlc/0-base.html) | [Ripped Macho](/neptunia/rb2/item/0-4178-ripped-macho.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-4240" class="trackbox" /> | 4240 | [Base](/neptunia/rb2/dlc/0-base.html) | [Male-oriented](/neptunia/rb2/item/0-4240-male-oriented.html) (Idea Chip (Red)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-4274" class="trackbox" /> | 4274 | [Base](/neptunia/rb2/dlc/0-base.html) | [Pinch Revival](/neptunia/rb2/item/0-4274-pinch-revival.html) (Idea Chip (Red)) | 10 | 0 | 0 | 0 |
 
 ### From treasure gathering points
 
@@ -107,6 +120,17 @@ See [gathering point tables](#gathering-point-tables-for-lowee-global-expo-west)
 | <input type="checkbox" id="rb2-item-0-2546" class="trackbox" /> | 2546 | [Base](/neptunia/rb2/dlc/0-base.html) | [White Ribbon](/neptunia/rb2/item/0-2546-white-ribbon.html) (Accessory)<br />70%: [Eggplaladin](/neptunia/rb2/monster/0-149-eggplaladin.html) | 300 | 1 | 0 | 1 |
 | <input type="checkbox" id="rb2-item-0-4119" class="trackbox" /> | 4119 | [Base](/neptunia/rb2/dlc/0-base.html) | [Soccer](/neptunia/rb2/item/0-4119-soccer.html) (Idea Chip (Yellow))<br />60%: [Ice Garuda](/neptunia/rb2/monster/0-148-ice-garuda.html) | 10 | 0 | 0 | 0 |
 
+### Change Dungeon enabled
+
+|    | ID | DLC | Name | Sells for | Remakes¹ | Quests² | Total |
+| -- | -- | --- | ---- | --------- | -------- | ------- | ----: |
+| <input type="checkbox" id="rb2-item-0-218" class="trackbox" /> | 218 | [Base](/neptunia/rb2/dlc/0-base.html) | [Large Medal H](/neptunia/rb2/item/0-218-large-medal-h.html) (Key Item)<br />100%: [Tough Eggplaladin](/neptunia/rb2/monster/0-361-tough-eggplaladin.html) | 0 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-811" class="trackbox" /> | 811 | [Base](/neptunia/rb2/dlc/0-base.html) | [Black Gel Feeler](/neptunia/rb2/item/0-811-black-gel-feeler.html) (Material)<br />40%: [High Heal Dogoo](/neptunia/rb2/monster/0-364-high-heal-dogoo.html) | 106 | 2 | 0 | 2 |
+| <input type="checkbox" id="rb2-item-0-911" class="trackbox" /> | 911 | [Base](/neptunia/rb2/dlc/0-base.html) | [Illegal Conductor](/neptunia/rb2/item/0-911-illegal-conductor.html) (Material)<br />40%: [DSTT](/neptunia/rb2/monster/0-152-dstt.html) | 135 | 4 | 0 | 4 |
+| <input type="checkbox" id="rb2-item-0-951" class="trackbox" /> | 951 | [Base](/neptunia/rb2/dlc/0-base.html) | [Magical Stone](/neptunia/rb2/item/0-951-magical-stone.html) (Material)<br />40%: [Magic Stone](/neptunia/rb2/monster/0-365-magic-stone.html) | 40 | 18 | 0 | 18 |
+| <input type="checkbox" id="rb2-item-0-952" class="trackbox" /> | 952 | [Base](/neptunia/rb2/dlc/0-base.html) | [Ice Crystal](/neptunia/rb2/item/0-952-ice-crystal.html) (Material)<br />40%: [Ice Golem](/neptunia/rb2/monster/0-362-ice-golem.html) | 56 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-4189" class="trackbox" /> | 4189 | [Base](/neptunia/rb2/dlc/0-base.html) | [Special Peripheral](/neptunia/rb2/item/0-4189-special-peripheral.html) (Idea Chip (Blue))<br />60%: [Tough Ice Garuda](/neptunia/rb2/monster/0-360-tough-ice-garuda.html) | 10 | 0 | 0 | 0 |
+
 ¹ Total amount needed for Remake System recipes.<br />² Total amount needed to complete quests at least once.
 
 ## Gathering point tables for Lowee Global Expo - West
@@ -131,6 +155,16 @@ See [gathering point tables](#gathering-point-tables-for-lowee-global-expo-west)
 | 2 | 100%: [Gelid Stone](/neptunia/rb2/item/0-715-gelid-stone.html) x1~2 | 50%: [Hover Movement](/neptunia/rb2/item/0-4213-hover-movement.html) x2~3 |
 | 3 | 100%: [Polyhedron](/neptunia/rb2/item/0-900-polyhedron.html) x1~2 | 50%: [Action](/neptunia/rb2/item/0-4146-action.html) x1~2 |
 | 4 | 100%: [Gelid Stone](/neptunia/rb2/item/0-715-gelid-stone.html) x1~2 | 50%: [Custom Sound](/neptunia/rb2/item/0-4193-custom-sound.html) x2~4 |
+
+### Change Dungeon enabled
+  
+| #  | Item 1 | Item 2 |
+| -- | ------ | ------ |
+| 1 | 100%: [Strategy](/neptunia/rb2/item/0-4143-strategy.html) x1~2 | 50%: [Ice Crystal](/neptunia/rb2/item/0-952-ice-crystal.html) x1 |
+| 2 | 100%: [Ripped Macho](/neptunia/rb2/item/0-4178-ripped-macho.html) x1~2 | 50%: [Magical Stone](/neptunia/rb2/item/0-951-magical-stone.html) x1 |
+| 3 | 100%: [Male-oriented](/neptunia/rb2/item/0-4240-male-oriented.html) x1 |
+| 4 | 100%: [Pinch Revival](/neptunia/rb2/item/0-4274-pinch-revival.html) x2~3 | 50%: [Black Gel Feeler](/neptunia/rb2/item/0-811-black-gel-feeler.html) x1 |
+
 
 ### Treasure
 
@@ -182,3 +216,17 @@ See [gathering point tables](#gathering-point-tables-for-lowee-global-expo-west)
 | 6 | [DSTT](/neptunia/rb2/monster/0-152-dstt.html) x1 | [Minivader](/neptunia/rb2/monster/0-150-minivader.html) x1~2 | [Bear Balancer](/neptunia/rb2/monster/0-151-bear-balancer.html) x1 |
 | 7 | [Bear Balancer](/neptunia/rb2/monster/0-151-bear-balancer.html) x1~2 | [Minivader](/neptunia/rb2/monster/0-150-minivader.html) x1 | [DSTT](/neptunia/rb2/monster/0-152-dstt.html) x1 |
 | 8 | [Eggplaladin](/neptunia/rb2/monster/0-149-eggplaladin.html) x1 |
+
+### "Change Dungeon" dungeon setting
+
+
+| #  | Monster 1 | Monster 2 |
+| -- | --------- | --------- |
+| 1 | [Ice Golem](/neptunia/rb2/monster/0-362-ice-golem.html) x3~4 |
+| 2 | [High Heal Dogoo](/neptunia/rb2/monster/0-364-high-heal-dogoo.html) x3~4 |
+| 3 | [Tough Ice Garuda](/neptunia/rb2/monster/0-360-tough-ice-garuda.html) x1 |
+| 4 | [High Heal Dogoo](/neptunia/rb2/monster/0-364-high-heal-dogoo.html) x2 | [Magic Stone](/neptunia/rb2/monster/0-365-magic-stone.html) x2 |
+| 5 | [DSTT](/neptunia/rb2/monster/0-152-dstt.html) x1~3 |
+| 6 | [Tough Eggplaladin](/neptunia/rb2/monster/0-361-tough-eggplaladin.html) x1 |
+| 7 | [Ice Golem](/neptunia/rb2/monster/0-362-ice-golem.html) x1~2 | [Magic Stone](/neptunia/rb2/monster/0-365-magic-stone.html) x1 |
+| 8 | [High Heal Dogoo](/neptunia/rb2/monster/0-364-high-heal-dogoo.html) x1~2 | [Ice Golem](/neptunia/rb2/monster/0-362-ice-golem.html) x1~2 |

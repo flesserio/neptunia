@@ -22,6 +22,7 @@ title: "World Labyrinth - 1st Fl. (Dungeon) - Hyperdimension Neptunia Re;Birth2"
 | **Item Change available?** | Yes |
 | **Add Enemies available?** | Yes |
 | **Add Super Enemies available?** | No |
+| **Change Dungeon available?** | Yes |
 | **To unlock dungeon** | View scene [Ch. 2 - Rom's Lost Item](/neptunia/rb2/scene/0-161-ch-2-roms-lost-item.html) |
 
 ## Items found in World Labyrinth - 1st Fl. from gathering points
@@ -53,6 +54,18 @@ See [gathering point tables](#gathering-point-tables-for-world-labyrinth-1st-fl)
 | <input type="checkbox" id="rb2-item-0-4203" class="trackbox" /> | 4203 | [Base](/neptunia/rb2/dlc/0-base.html) | [Shot](/neptunia/rb2/item/0-4203-shot.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
 | <input type="checkbox" id="rb2-item-0-4248" class="trackbox" /> | 4248 | [Base](/neptunia/rb2/dlc/0-base.html) | [Famous Voice](/neptunia/rb2/item/0-4248-famous-voice.html) (Idea Chip (Red)) | 10 | 0 | 0 | 0 |
 | <input type="checkbox" id="rb2-item-0-4268" class="trackbox" /> | 4268 | [Base](/neptunia/rb2/dlc/0-base.html) | [Linear](/neptunia/rb2/item/0-4268-linear.html) (Idea Chip (Red)) | 10 | 0 | 0 | 0 |
+
+### From Change Dungeon gathering points
+
+|    | ID | DLC | Name | Sells for | Remakes¹ | Quests² | Total |
+| -- | -- | --- | ---- | --------- | -------- | ------- | ----: |
+| <input type="checkbox" id="rb2-item-0-848" class="trackbox" /> | 848 | [Base](/neptunia/rb2/dlc/0-base.html) | [Hard-met Piece](/neptunia/rb2/item/0-848-hard-met-piece.html) (Material) | 551 | 3 | 0 | 3 |
+| <input type="checkbox" id="rb2-item-0-929" class="trackbox" /> | 929 | [Base](/neptunia/rb2/dlc/0-base.html) | [Cat Paw](/neptunia/rb2/item/0-929-cat-paw.html) (Material) | 116 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-949" class="trackbox" /> | 949 | [Base](/neptunia/rb2/dlc/0-base.html) | [Magical Contract](/neptunia/rb2/item/0-949-magical-contract.html) (Material) | 108 | 4 | 4 | 8 |
+| <input type="checkbox" id="rb2-item-0-4140" class="trackbox" /> | 4140 | [Base](/neptunia/rb2/dlc/0-base.html) | [Remake](/neptunia/rb2/item/0-4140-remake.html) (Idea Chip (Yellow)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-4201" class="trackbox" /> | 4201 | [Base](/neptunia/rb2/dlc/0-base.html) | [Horror](/neptunia/rb2/item/0-4201-horror.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-4237" class="trackbox" /> | 4237 | [Base](/neptunia/rb2/dlc/0-base.html) | [Hardcore-oriented](/neptunia/rb2/item/0-4237-hardcore-oriented.html) (Idea Chip (Red)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-4256" class="trackbox" /> | 4256 | [Base](/neptunia/rb2/dlc/0-base.html) | [Million Aim](/neptunia/rb2/item/0-4256-million-aim.html) (Idea Chip (Red)) | 10 | 0 | 0 | 0 |
 
 ### From treasure gathering points
 
@@ -116,6 +129,17 @@ See [gathering point tables](#gathering-point-tables-for-world-labyrinth-1st-fl)
 | <input type="checkbox" id="rb2-item-0-1004" class="trackbox" /> | 1004 | [Base](/neptunia/rb2/dlc/0-base.html) | [Dragon Soul](/neptunia/rb2/item/0-1004-dragon-soul.html) (Material)<br />60%: [Sealed Calamity](/neptunia/rb2/monster/0-157-sealed-calamity.html) | 120 | 2 | 0 | 2 |
 | <input type="checkbox" id="rb2-item-0-4239" class="trackbox" /> | 4239 | [Base](/neptunia/rb2/dlc/0-base.html) | [Child-oriented](/neptunia/rb2/item/0-4239-child-oriented.html) (Idea Chip (Red))<br />70%: [Deneb](/neptunia/rb2/monster/0-158-deneb.html) | 10 | 0 | 0 | 0 |
 
+### Change Dungeon enabled
+
+|    | ID | DLC | Name | Sells for | Remakes¹ | Quests² | Total |
+| -- | -- | --- | ---- | --------- | -------- | ------- | ----: |
+| <input type="checkbox" id="rb2-item-0-848" class="trackbox" /> | 848 | [Base](/neptunia/rb2/dlc/0-base.html) | [Hard-met Piece](/neptunia/rb2/item/0-848-hard-met-piece.html) (Material)<br />40%: [Dogone](/neptunia/rb2/monster/0-366-dogone.html) | 551 | 3 | 0 | 3 |
+| <input type="checkbox" id="rb2-item-0-929" class="trackbox" /> | 929 | [Base](/neptunia/rb2/dlc/0-base.html) | [Cat Paw](/neptunia/rb2/item/0-929-cat-paw.html) (Material)<br />40%: [Tom](/neptunia/rb2/monster/0-368-tom.html) | 116 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-949" class="trackbox" /> | 949 | [Base](/neptunia/rb2/dlc/0-base.html) | [Magical Contract](/neptunia/rb2/item/0-949-magical-contract.html) (Material)<br />40%: [Hachibei](/neptunia/rb2/monster/0-367-hachibei.html) | 108 | 4 | 4 | 8 |
+| <input type="checkbox" id="rb2-item-0-2314" class="trackbox" /> | 2314 | [Base](/neptunia/rb2/dlc/0-base.html) | [Mirror Rice Cakes](/neptunia/rb2/item/0-2314-mirror-rice-cakes.html) (Accessory)<br />55%: [Hyakushiki Weapon](/neptunia/rb2/monster/0-369-hyakushiki-weapon.html) | 500 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-4227" class="trackbox" /> | 4227 | [Base](/neptunia/rb2/dlc/0-base.html) | [Auto Save](/neptunia/rb2/item/0-4227-auto-save.html) (Idea Chip (Blue))<br />70%: [Fomalhaut](/neptunia/rb2/monster/0-371-fomalhaut.html) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-4281" class="trackbox" /> | 4281 | [Base](/neptunia/rb2/dlc/0-base.html) | [Near Future](/neptunia/rb2/item/0-4281-near-future.html) (Idea Chip (Red))<br />65%: [Magatsu Hinokami](/neptunia/rb2/monster/0-370-magatsu-hinokami.html) | 10 | 0 | 0 | 0 |
+
 ¹ Total amount needed for Remake System recipes.<br />² Total amount needed to complete quests at least once.
 
 ## Gathering point tables for World Labyrinth - 1st Fl.
@@ -140,6 +164,16 @@ See [gathering point tables](#gathering-point-tables-for-world-labyrinth-1st-fl)
 | 2 | 100%: [Blue Block](/neptunia/rb2/item/0-839-blue-block.html) x1~2 | 50%: [Linear](/neptunia/rb2/item/0-4268-linear.html) x2~3 |
 | 3 | 100%: [Copper Ore](/neptunia/rb2/item/0-707-copper-ore.html) x1~2 | 50%: [Shot](/neptunia/rb2/item/0-4203-shot.html) x1~2 |
 | 4 | 100%: [Tokimeki](/neptunia/rb2/item/0-887-tokimeki.html) x2~3 | 50%: [Shooting RPG](/neptunia/rb2/item/0-4107-shooting-rpg.html) x2~3 |
+
+### Change Dungeon enabled
+  
+| #  | Item 1 | Item 2 |
+| -- | ------ | ------ |
+| 1 | 100%: [Horror](/neptunia/rb2/item/0-4201-horror.html) x1~2 | 50%: [Hard-met Piece](/neptunia/rb2/item/0-848-hard-met-piece.html) x1 |
+| 2 | 100%: [Hardcore-oriented](/neptunia/rb2/item/0-4237-hardcore-oriented.html) x1~2 | 50%: [Magical Contract](/neptunia/rb2/item/0-949-magical-contract.html) x1 |
+| 3 | 100%: [Remake](/neptunia/rb2/item/0-4140-remake.html) x1~2 |
+| 4 | 100%: [Million Aim](/neptunia/rb2/item/0-4256-million-aim.html) x2~3 | 50%: [Cat Paw](/neptunia/rb2/item/0-929-cat-paw.html) x1 |
+
 
 ### Treasure
 
@@ -192,3 +226,17 @@ See [gathering point tables](#gathering-point-tables-for-world-labyrinth-1st-fl)
 | 6 | [Sealed Calamity](/neptunia/rb2/monster/0-157-sealed-calamity.html) x1 |
 | 7 | [Deneb](/neptunia/rb2/monster/0-158-deneb.html) x1 |
 | 8 | [Tokimeki Sister](/neptunia/rb2/monster/0-155-tokimeki-sister.html) x1~2 | [Poxvader](/neptunia/rb2/monster/0-153-poxvader.html) x1 | [Tetsri](/neptunia/rb2/monster/0-154-tetsri.html) x1 |
+
+### "Change Dungeon" dungeon setting
+
+
+| #  | Monster 1 | Monster 2 | Monster 3 |
+| -- | --------- | --------- | --------- |
+| 1 | [Tom](/neptunia/rb2/monster/0-368-tom.html) x3~4 |
+| 2 | [Hachibei](/neptunia/rb2/monster/0-367-hachibei.html) x3~4 |
+| 3 | [Magatsu Hinokami](/neptunia/rb2/monster/0-370-magatsu-hinokami.html) x1 |
+| 4 | [Dogone](/neptunia/rb2/monster/0-366-dogone.html) x1~2 | [Tom](/neptunia/rb2/monster/0-368-tom.html) x1~2 |
+| 5 | [Hyakushiki Weapon](/neptunia/rb2/monster/0-369-hyakushiki-weapon.html) x1 |
+| 6 | [Hachibei](/neptunia/rb2/monster/0-367-hachibei.html) x1~2 | [Dogone](/neptunia/rb2/monster/0-366-dogone.html) x1 | [Tom](/neptunia/rb2/monster/0-368-tom.html) x1 |
+| 7 | [Dogone](/neptunia/rb2/monster/0-366-dogone.html) x2 | [Hachibei](/neptunia/rb2/monster/0-367-hachibei.html) x1 |
+| 8 | [Fomalhaut](/neptunia/rb2/monster/0-371-fomalhaut.html) x1 |

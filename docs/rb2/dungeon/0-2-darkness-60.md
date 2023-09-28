@@ -22,6 +22,7 @@ title: "Darkness 60 (Dungeon) - Hyperdimension Neptunia Re;Birth2"
 | **Item Change available?** | Yes |
 | **Add Enemies available?** | No |
 | **Add Super Enemies available?** | No |
+| **Change Dungeon available?** | Yes |
 | **To unlock dungeon** | View scene [Ch. 1 - Item Development](/neptunia/rb2/scene/0-60-ch-1-item-development.html)<br />Have remake [Add Dungeon](/neptunia/rb2/remake/0-101-add-dungeon.html) developed |
 
 ## Items found in Darkness 60 from gathering points
@@ -51,6 +52,17 @@ See [gathering point tables](#gathering-point-tables-for-darkness-60) for more i
 | <input type="checkbox" id="rb2-item-0-4116" class="trackbox" /> | 4116 | [Base](/neptunia/rb2/dlc/0-base.html) | [Sports](/neptunia/rb2/item/0-4116-sports.html) (Idea Chip (Yellow)) | 10 | 0 | 0 | 0 |
 | <input type="checkbox" id="rb2-item-0-4136" class="trackbox" /> | 4136 | [Base](/neptunia/rb2/dlc/0-base.html) | [Arcade](/neptunia/rb2/item/0-4136-arcade.html) (Idea Chip (Yellow)) | 10 | 0 | 0 | 0 |
 | <input type="checkbox" id="rb2-item-0-4197" class="trackbox" /> | 4197 | [Base](/neptunia/rb2/dlc/0-base.html) | [Kinda Pervy](/neptunia/rb2/item/0-4197-kinda-pervy.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
+
+### From Change Dungeon gathering points
+
+|    | ID | DLC | Name | Sells for | Remakes¹ | Quests² | Total |
+| -- | -- | --- | ---- | --------- | -------- | ------- | ----: |
+| <input type="checkbox" id="rb2-item-0-810" class="trackbox" /> | 810 | [Base](/neptunia/rb2/dlc/0-base.html) | [Red Gel Feeler](/neptunia/rb2/item/0-810-red-gel-feeler.html) (Material) | 16 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-934" class="trackbox" /> | 934 | [Base](/neptunia/rb2/dlc/0-base.html) | [Crystal Skull](/neptunia/rb2/item/0-934-crystal-skull.html) (Material) | 21 | 6 | 0 | 6 |
+| <input type="checkbox" id="rb2-item-0-4121" class="trackbox" /> | 4121 | [Base](/neptunia/rb2/dlc/0-base.html) | [Adventure](/neptunia/rb2/item/0-4121-adventure.html) (Idea Chip (Yellow)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-4164" class="trackbox" /> | 4164 | [Base](/neptunia/rb2/dlc/0-base.html) | [Gorilla](/neptunia/rb2/item/0-4164-gorilla.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-4189" class="trackbox" /> | 4189 | [Base](/neptunia/rb2/dlc/0-base.html) | [Special Peripheral](/neptunia/rb2/item/0-4189-special-peripheral.html) (Idea Chip (Blue)) | 10 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-4264" class="trackbox" /> | 4264 | [Base](/neptunia/rb2/dlc/0-base.html) | [History](/neptunia/rb2/item/0-4264-history.html) (Idea Chip (Red)) | 10 | 0 | 0 | 0 |
 
 ### From treasure gathering points
 
@@ -93,6 +105,16 @@ See [gathering point tables](#gathering-point-tables-for-darkness-60) for more i
 | <input type="checkbox" id="rb2-item-0-856" class="trackbox" /> | 856 | [Base](/neptunia/rb2/dlc/0-base.html) | [Blue Ribbon](/neptunia/rb2/item/0-856-blue-ribbon.html) (Material)<br />40%: [Ms. Clyde](/neptunia/rb2/monster/0-109-ms-clyde.html) | 42 | 3 | 0 | 3 |
 | <input type="checkbox" id="rb2-item-0-909" class="trackbox" /> | 909 | [Base](/neptunia/rb2/dlc/0-base.html) | [Illegal Chip](/neptunia/rb2/item/0-909-illegal-chip.html) (Material)<br />40%: [M-3](/neptunia/rb2/monster/0-110-m-3.html) | 116 | 3 | 0 | 3 |
 
+### Change Dungeon enabled
+
+|    | ID | DLC | Name | Sells for | Remakes¹ | Quests² | Total |
+| -- | -- | --- | ---- | --------- | -------- | ------- | ----: |
+| <input type="checkbox" id="rb2-item-0-219" class="trackbox" /> | 219 | [Base](/neptunia/rb2/dlc/0-base.html) | [Large Medal I](/neptunia/rb2/item/0-219-large-medal-i.html) (Key Item)<br />100%: [Epsilon](/neptunia/rb2/monster/0-335-epsilon.html) | 0 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-810" class="trackbox" /> | 810 | [Base](/neptunia/rb2/dlc/0-base.html) | [Red Gel Feeler](/neptunia/rb2/item/0-810-red-gel-feeler.html) (Material)<br />40%: [Healing Dogoo](/neptunia/rb2/monster/0-332-healing-dogoo.html) | 16 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-934" class="trackbox" /> | 934 | [Base](/neptunia/rb2/dlc/0-base.html) | [Crystal Skull](/neptunia/rb2/item/0-934-crystal-skull.html) (Material)<br />45%: [Crystal Golem](/neptunia/rb2/monster/0-330-crystal-golem.html) | 21 | 6 | 0 | 6 |
+| <input type="checkbox" id="rb2-item-0-2102" class="trackbox" /> | 2102 | [Base](/neptunia/rb2/dlc/0-base.html) | [Black D-Clips](/neptunia/rb2/item/0-2102-black-d-clips.html) (Accessory)<br />65%: [Maximus Dogoous](/neptunia/rb2/monster/0-334-maximus-dogoous.html) | 100 | 0 | 0 | 0 |
+| <input type="checkbox" id="rb2-item-0-2133" class="trackbox" /> | 2133 | [Base](/neptunia/rb2/dlc/0-base.html) | [White Cat Ears](/neptunia/rb2/item/0-2133-white-cat-ears.html) (Accessory)<br />55%: [Dangerous Shampuru](/neptunia/rb2/monster/0-333-dangerous-shampuru.html) | 1500 | 1 | 0 | 1 |
+
 ¹ Total amount needed for Remake System recipes.<br />² Total amount needed to complete quests at least once.
 
 ## Gathering point tables for Darkness 60
@@ -117,6 +139,16 @@ See [gathering point tables](#gathering-point-tables-for-darkness-60) for more i
 | 2 | 100%: [Illegal Chip](/neptunia/rb2/item/0-909-illegal-chip.html) x1~2 | 50%: [Sports](/neptunia/rb2/item/0-4116-sports.html) x3~5 |
 | 3 | 100%: [Dot Antenna](/neptunia/rb2/item/0-813-dot-antenna.html) x1~2 | 50%: [Kinda Pervy](/neptunia/rb2/item/0-4197-kinda-pervy.html) x3~5 |
 | 4 | 100%: [Illegal Chip](/neptunia/rb2/item/0-909-illegal-chip.html) x1~2 | 50%: [Arcade](/neptunia/rb2/item/0-4136-arcade.html) x2~3 |
+
+### Change Dungeon enabled
+  
+| #  | Item 1 | Item 2 |
+| -- | ------ | ------ |
+| 1 | 100%: [Adventure](/neptunia/rb2/item/0-4121-adventure.html) x2~3 | 50%: [Crystal Skull](/neptunia/rb2/item/0-934-crystal-skull.html) x1 |
+| 2 | 100%: [Gorilla](/neptunia/rb2/item/0-4164-gorilla.html) x3~4 | 50%: [Red Gel Feeler](/neptunia/rb2/item/0-810-red-gel-feeler.html) x1 |
+| 3 | 100%: [Special Peripheral](/neptunia/rb2/item/0-4189-special-peripheral.html) x1~2 |
+| 4 | 100%: [History](/neptunia/rb2/item/0-4264-history.html) x3~5 |
+
 
 ### Treasure
 
@@ -151,3 +183,14 @@ See [gathering point tables](#gathering-point-tables-for-darkness-60) for more i
 | 3 | [Ms. Clyde](/neptunia/rb2/monster/0-109-ms-clyde.html) x1 | [Clyde](/neptunia/rb2/monster/0-108-clyde.html) x1~2 | [Pixelvader](/neptunia/rb2/monster/0-107-pixelvader.html) x1 |
 | 4 | [M-3](/neptunia/rb2/monster/0-110-m-3.html) x1 |
 | 5 | [Pixelvader](/neptunia/rb2/monster/0-107-pixelvader.html) x1 | [Clyde](/neptunia/rb2/monster/0-108-clyde.html) x1 | [Ms. Clyde](/neptunia/rb2/monster/0-109-ms-clyde.html) x1~2 |
+
+### "Change Dungeon" dungeon setting
+
+
+| #  | Monster 1 | Monster 2 |
+| -- | --------- | --------- |
+| 1 | [Crystal Golem](/neptunia/rb2/monster/0-330-crystal-golem.html) x2~3 |
+| 2 | [Healing Dogoo](/neptunia/rb2/monster/0-332-healing-dogoo.html) x1~2 | [Crystal Golem](/neptunia/rb2/monster/0-330-crystal-golem.html) x1~2 |
+| 3 | [Dangerous Shampuru](/neptunia/rb2/monster/0-333-dangerous-shampuru.html) x1 |
+| 4 | [Maximus Dogoous](/neptunia/rb2/monster/0-334-maximus-dogoous.html) x1 |
+| 5 | [Epsilon](/neptunia/rb2/monster/0-335-epsilon.html) x1 |
